@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">tusentall</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-et</em>
 </form>
-<sense> <span>несколько тысяч</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i tusentall — тысячи, тысячами</span></p></strong></div>
+<sense> несколько тысяч
+<div style="margin-left:5px"><strong><p><span class="dic_example">i tusentall — тысячи, тысячами
 </sense>
-<sense> <u><span>ист.</u> одиннадцатый век</span></div>
+<sense> <u>ист.</u> одиннадцатый век
 </sense>
 </entry>
 </superEntry>

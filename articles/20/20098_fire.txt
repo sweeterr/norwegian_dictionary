@@ -4,25 +4,25 @@
 <index></index>
 <form>
 <orth type="lemma">fire</orth>
-<u>num</u></div>
-<div><span>четыре</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">innenfor våre egne fire vegger — в четырёх стенах</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">krype på alle fire — пресмыкаться</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på alle fire — на четвереньках</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sa sikkert som to og to er fire — верно, как дважды два четыре</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">under fire øyne — с глазу на глаз</span></p></strong></div>
+<u>num</u>
+<div>четыре
+<div style="margin-left:5px"><strong><p><span class="dic_example">innenfor våre egne fire vegger — в четырёх стенах
+<div style="margin-left:5px"><strong><p><span class="dic_example">krype på alle fire — пресмыкаться
+<div style="margin-left:5px"><strong><p><span class="dic_example">på alle fire — на четвереньках
+<div style="margin-left:5px"><strong><p><span class="dic_example">sa sikkert som to og to er fire — верно, как дважды два четыре
+<div style="margin-left:5px"><strong><p><span class="dic_example">under fire øyne — с глазу на глаз
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">fire</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 </form>
-<sense> <span>уступать кому-л.</span></div>
+<sense> уступать кому-л.
 </sense>
-<sense> <u><span>мор.</u> травить (концы)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fire ned — спускать (на тросе, канате)</span></p></strong></div>
+<sense> <u>мор.</u> травить (концы)
+<div style="margin-left:5px"><strong><p><span class="dic_example">fire ned — спускать (на тросе, канате)
 </sense>
 </entry>
 </superEntry>

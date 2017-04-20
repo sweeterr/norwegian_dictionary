@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">professor</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-oren, -orer</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-oren, -orer</em>
 </form>
-<sense> <span>профессор</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">professor i fysikk (historie) — профессор физики (истории)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">professor emeritus — заслуженный профессор</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ordentlig (overordentlig) professor — ординарный (экстраординарный) профессор</span></p></strong></div>
+<sense> профессор
+<div style="margin-left:5px"><strong><p><span class="dic_example">professor i fysikk (historie) — профессор физики (истории)
+<div style="margin-left:5px"><strong><p><span class="dic_example">professor emeritus — заслуженный профессор
+<div style="margin-left:5px"><strong><p><span class="dic_example">ordentlig (overordentlig) professor — ординарный (экстраординарный) профессор
 </sense>
-<sense> <u><span>разг.</u> отличный специалист</span></div>
+<sense> <u>разг.</u> отличный специалист
 </sense>
 </entry>
 </superEntry>

@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">sigende</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-t</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-t</em>
 </form>
-<sense> <span>слух, молва</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter sigende — по слухам; как говорят</span></p></strong></div>
+<sense> слух, молва
+<div style="margin-left:5px"><strong><p><span class="dic_example">etter sigende — по слухам; как говорят
 </sense>
-<sense> <span>высказывание, показание</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter hans sigende — по его словам</span></p></strong></div>
+<sense> высказывание, показание
+<div style="margin-left:5px"><strong><p><span class="dic_example">etter hans sigende — по его словам
 </sense>
 </entry>
 </superEntry>

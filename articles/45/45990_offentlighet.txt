@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">offentlighet</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>общественность</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">den store offentlighet — широкая общественность</span></p></strong></div>
+<sense> общественность
+<div style="margin-left:5px"><strong><p><span class="dic_example">den store offentlighet — широкая общественность
 </sense>
-<sense> <span>гласность, общеизвестность</span></div>
+<sense> гласность, общеизвестность
 </sense>
 </entry>
 </superEntry>

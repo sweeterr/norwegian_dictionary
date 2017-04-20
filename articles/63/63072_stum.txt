@@ -4,31 +4,31 @@
 <index></index>
 <form>
 <orth type="lemma">stum</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</span></span></em></div>
+<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
 </form>
-<sense> <span>немой, безмолвный, молчаливый</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli stum — онеметь, оцепенеть, застыть</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stum som graven (som en fisk) — нем как могила (как рыба)</span></p></strong></div>
+<sense> немой, безмолвный, молчаливый
+<div style="margin-left:5px"><strong><p><span class="dic_example">bli stum — онеметь, оцепенеть, застыть
+<div style="margin-left:5px"><strong><p><span class="dic_example">stum som graven (som en fisk) — нем как могила (как рыба)
 </sense>
-<sense> <span>безжизненный, мёртвый</span></div>
+<sense> безжизненный, мёртвый
 </sense>
-<sense> <u><span>фон.</u> непроизносимый</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">stum</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</span></span></em></div>
-<div><u>диал.</u> <span>тёмный хоть глаз выколи</span></div>
+<sense> <u>фон.</u> непроизносимый
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">stum</orth>
-<u>adv</u></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stum mørkt — темно хоть глаз выколи</span></p></strong></div>
+<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<div><u>диал.</u> тёмный хоть глаз выколи
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">stum</orth>
+<u>adv</u>
+<div style="margin-left:5px"><strong><p><span class="dic_example">stum mørkt — темно хоть глаз выколи
 </sense>
 </entry>
 </superEntry>

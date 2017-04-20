@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">notere</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-te, -t</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 </form>
-<sense> <span>записывать, делать заметки</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli notert av politiet — попасть на заметку полиции</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">notere seg noe — заметить себе что-л.</span></p></strong></div>
+<sense> записывать, делать заметки
+<div style="margin-left:5px"><strong><p><span class="dic_example">bli notert av politiet — попасть на заметку полиции
+<div style="margin-left:5px"><strong><p><span class="dic_example">notere seg noe — заметить себе что-л.
 </sense>
-<sense> <u><span>эк.</u> записать в дебит, заприходовать</span></div>
+<sense> <u>эк.</u> записать в дебит, заприходовать
 </sense>
-<sense> <u><span>фин.</u> котировать курс (на бирже)</span></div>
+<sense> <u>фин.</u> котировать курс (на бирже)
 </sense>
 </entry>
 </superEntry>

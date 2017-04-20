@@ -4,21 +4,21 @@
 <index></index>
 <form>
 <orth type="lemma">hi</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-et, =</em>
 </form>
-<sense> <span>берлога, нора, логово</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå av hi — выходить (вылезать) из берлоги</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå (legge seg) i hi — залезать в берлогу</span></p></strong></div>
+<sense> берлога, нора, логово
+<div style="margin-left:5px"><strong><p><span class="dic_example">gå av hi — выходить (вылезать) из берлоги
+<div style="margin-left:5px"><strong><p><span class="dic_example">gå (legge seg) i hi — залезать в берлогу
 </sense>
-<sense> <u><span>перен.</u> <u>ирон.</u> жильё, жилище</span></div>
+<sense> <u>перен.</u> <u>ирон.</u> жильё, жилище
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">hi</orth>
-hi! <u>int</u> хи!</div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hi —hi! хи-хи!</span></p></strong></div>
+hi! <u>int</u> хи!
+<div style="margin-left:5px"><strong><p><span class="dic_example">hi —hi! хи-хи!
 </sense>
 </entry>
 </superEntry>

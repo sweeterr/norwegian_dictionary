@@ -4,20 +4,20 @@
 <index></index>
 <form>
 <orth type="lemma">appell</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>призыв, воззвание</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">rette en appell — обращаться с призывом, воззванием (к кому-л. - til)</span></p></strong></div>
+<sense> призыв, воззвание
+<div style="margin-left:5px"><strong><p><span class="dic_example">rette en appell — обращаться с призывом, воззванием (к кому-л. - til)
 </sense>
-<sense> <u><span>юр.</u> апелляция</span></div>
+<sense> <u>юр.</u> апелляция
 </sense>
-<sense> <u><span>воен.</u> сигнал сбора</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse appell — играть сбор</span></p></strong></div>
+<sense> <u>воен.</u> сигнал сбора
+<div style="margin-left:5px"><strong><p><span class="dic_example">blåse appell — играть сбор
 </sense>
-<sense> <u><span>воен.</u> сбор, общее построение</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved appellen — во время сбора</span></p></strong></div>
+<sense> <u>воен.</u> сбор, общее построение
+<div style="margin-left:5px"><strong><p><span class="dic_example">ved appellen — во время сбора
 </sense>
-<sense> <u><span>мор.</u> горн (сигнал, подаваемый при прибытии начальника)</span></div>
+<sense> <u>мор.</u> горн (сигнал, подаваемый при прибытии начальника)
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">omsikt</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>осмотрительность, осторожность</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">mangle omsikt — быть неосмотрительным</span></p></strong></div>
+<sense> осмотрительность, осторожность
+<div style="margin-left:5px"><strong><p><span class="dic_example">mangle omsikt — быть неосмотрительным
 </sense>
-<sense> <span>круговой обзор, панорама</span></div>
+<sense> круговой обзор, панорама
 </sense>
 </entry>
 </superEntry>

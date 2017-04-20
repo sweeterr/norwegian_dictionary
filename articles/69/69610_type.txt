@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">type</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>тип <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</span></span></span></em></div>
+<sense> тип <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
 </sense>
-<sense> <span>модель, образец</span></div>
+<sense> модель, образец
 </sense>
-<sense> <u><span>полигр.</u> литера</span></div>
+<sense> <u>полигр.</u> литера
 </sense>
-<sense> <u><span>полигр.</u> шрифт</span></div>
+<sense> <u>полигр.</u> шрифт
 </sense>
 </entry>
 </superEntry>

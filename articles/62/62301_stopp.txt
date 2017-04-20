@@ -4,34 +4,34 @@
 <index></index>
 <form>
 <orth type="lemma">stopp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
 </form>
-<sense> <span>остановка</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette stopp for noe — положить конец чему-л., прекратить что-л.</span></p></strong></div>
+<sense> остановка
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette stopp for noe — положить конец чему-л., прекратить что-л.
 </sense>
-<sense> <span>сигнал остановки</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå stopp — подать сигнал остановки</span></p></strong></div>
+<sense> сигнал остановки
+<div style="margin-left:5px"><strong><p><span class="dic_example">slå stopp — подать сигнал остановки
 </sense>
-<sense> <u><span>разг.</u> остановка (место)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">stopp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
-<div><span>набивка, заполнитель</span></div>
+<sense> <u>разг.</u> остановка (место)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">stopp</orth>
-<u>int</u></div>
-<div><span>стой, стоп</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">si stopp :</span></p></strong></div>
-<div><span>а) сказать «хватит», отказываться (от чего-л.)</span></div>
-<div><span>б) протестовать, возражать</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
+<div>набивка, заполнитель
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">stopp</orth>
+<u>int</u>
+<div>стой, стоп
+<div style="margin-left:5px"><strong><p><span class="dic_example">si stopp :
+<div>а) сказать «хватит», отказываться (от чего-л.)
+<div>б) протестовать, возражать
 </sense>
 </entry>
 </superEntry>

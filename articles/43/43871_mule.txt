@@ -4,27 +4,27 @@
 <index></index>
 <form>
 <orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>морда, рыло, пятачок (у свиньи)</span></div>
+<sense> морда, рыло, пятачок (у свиньи)
 </sense>
-<sense> <u><span>диал.</u> отверстие (трубы, мешка, пакета)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><span>мул</span></div>
+<sense> <u>диал.</u> отверстие (трубы, мешка, пакета)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><span>мюль-машина</span></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div>мул
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">mule</orth>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div>мюль-машина
 </sense>
 </entry>
 </superEntry>

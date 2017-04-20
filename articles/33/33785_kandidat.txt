@@ -4,17 +4,17 @@
 <index></index>
 <form>
 <orth type="lemma">kandidat</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>кандидат</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fersk kandidat — новоиспечённый кандидат</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppstille som kandidat — выдвигать в качестве кандидата</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">vrake kandidaten — отводить кандидата</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være oppstilt som kandidat — быть выставленным в качестве кандидата</span></p></strong></div>
+<sense> кандидат
+<div style="margin-left:5px"><strong><p><span class="dic_example">fersk kandidat — новоиспечённый кандидат
+<div style="margin-left:5px"><strong><p><span class="dic_example">oppstille som kandidat — выдвигать в качестве кандидата
+<div style="margin-left:5px"><strong><p><span class="dic_example">vrake kandidaten — отводить кандидата
+<div style="margin-left:5px"><strong><p><span class="dic_example">være oppstilt som kandidat — быть выставленным в качестве кандидата
 </sense>
-<sense> <span>врач-ординатор (стажёр)</span></div>
+<sense> врач-ординатор (стажёр)
 </sense>
-<sense> <u><span>уст.</u> кандидат, магистр (учёная степень)</span></div>
+<sense> <u>уст.</u> кандидат, магистр (учёная степень)
 </sense>
 </entry>
 </superEntry>

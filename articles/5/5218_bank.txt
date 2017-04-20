@@ -4,48 +4,48 @@
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-</div>
+
 </form>
-<sense> <em><span class="dic_color"><span><span class="dic_comment">-et</span></span></span></em></div>
-<div><span>стук</span></div>
+<sense> <em><span class="dic_color"><span class="dic_comment">-et</em>
+<div>стук
 </sense>
-<sense> <em><span class="dic_color"><span><span class="dic_comment">-en</span></span></span></em></div>
-<div><span>побои, порка</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi bank — колотить, избивать</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">få bank — быть побитым, получить побои (порку)</span></p></strong></div>
+<sense> <em><span class="dic_color"><span class="dic_comment">-en</em>
+<div>побои, порка
+<div style="margin-left:5px"><strong><p><span class="dic_example">gi bank — колотить, избивать
+<div style="margin-left:5px"><strong><p><span class="dic_example">få bank — быть побитым, получить побои (порку)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>банк, сберегательная касса</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette penger i banken — положить деньги в банк (в сберегательную кассу)</span></p></strong></div>
+<sense> банк, сберегательная касса
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette penger i banken — положить деньги в банк (в сберегательную кассу)
 </sense>
-<sense> <span>здание банка (сберегательной кассы)</span></div>
+<sense> здание банка (сберегательной кассы)
 </sense>
-<sense> <u><span>карт.</u> банк, ставка</span></div>
+<sense> <u>карт.</u> банк, ставка
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
-<div><u>тех.</u> <span>поперечная балка</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<div><u>тех.</u> поперечная балка
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>мель, отмель</span></div>
+<sense> мель, отмель
 </sense>
-<sense> <span>гряда облаков</span></div>
+<sense> гряда облаков
 </sense>
 </entry>
 </superEntry>

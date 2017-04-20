@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">status</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>положение, состояние</span></div>
+<sense> положение, состояние
 </sense>
-<sense> <span>правовое положение, статус</span></div>
+<sense> правовое положение, статус
 </sense>
-<sense> <u><span>бухг.</u> баланс</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre opp status — сводить баланс</span></p></strong></div>
+<sense> <u>бухг.</u> баланс
+<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre opp status — сводить баланс
 </sense>
 </entry>
 </superEntry>

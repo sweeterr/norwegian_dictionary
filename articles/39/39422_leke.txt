@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">leke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -18,19 +18,19 @@
 <index></index>
 <form>
 <orth type="lemma">leke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 </form>
-<sense> <span>играть (в игры, игрушки)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">leke med dukker — играть в куклы</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">leke med én som katten med musen — <u>перен.</u> играть с кем-л. как кошка с мышью</span></p></strong></div>
+<sense> играть (в игры, игрушки)
+<div style="margin-left:5px"><strong><p><span class="dic_example">leke med dukker — играть в куклы
+<div style="margin-left:5px"><strong><p><span class="dic_example">leke med én som katten med musen — <u>перен.</u> играть с кем-л. как кошка с мышью
 </sense>
-<sense> <span>флиртовать, кокетничать</span></div>
+<sense> флиртовать, кокетничать
 </sense>
-<sense> <span>переливаться, сверкать, играть красками</span></div>
+<sense> переливаться, сверкать, играть красками
 </sense>
-<sense> <span>нереститься (о рыбах)</span></div>
+<sense> нереститься (о рыбах)
 </sense>
-<sense> <u><span>уст.</u> состязаться в чём-л., танцевать, играть (на струнном инструменте)</span></div>
+<sense> <u>уст.</u> состязаться в чём-л., танцевать, играть (на струнном инструменте)
 </sense>
 </entry>
 </superEntry>

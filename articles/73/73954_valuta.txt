@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">valuta</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>денежная единица</span></div>
+<sense> денежная единица
 </sense>
-<sense> <span>валюта</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fremmed valuta — иностранная валюта</span></p></strong></div>
+<sense> валюта
+<div style="margin-left:5px"><strong><p><span class="dic_example">fremmed valuta — иностранная валюта
 </sense>
-<sense> <span>стоимость (векселя, ценных бумаг)</span></div>
+<sense> стоимость (векселя, ценных бумаг)
 </sense>
 </entry>
 </superEntry>

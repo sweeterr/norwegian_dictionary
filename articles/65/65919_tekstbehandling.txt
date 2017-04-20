@@ -4,11 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">tekstbehandling</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>(учебная) проработка текста</span></div>
+<sense> (учебная) проработка текста
 </sense>
-<sense> <u><span>комп.</u> текстообработка, обработка текстов, подготовка текстов, работа с текстовыми документами с помощью текстовых процессоров</span></div>
+<sense> <u>комп.</u> текстообработка, обработка текстов, подготовка текстов, работа с текстовыми документами с помощью текстовых процессоров
 </sense>
 </entry>
 </superEntry>

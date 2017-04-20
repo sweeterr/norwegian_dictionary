@@ -4,27 +4,27 @@
 <index></index>
 <form>
 <orth type="lemma">kjøl</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
-<div><u>мор.</u></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<div><u>мор.</u>
 </form>
-<sense> <span>киль</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på like (på jevn) kjøl — в нормальном положении</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på rett kjøl — в равновесии, в уравновешенном состоянии</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">strekke (legge) kjølen til et skip — закладывать судно</span></p></strong></div>
+<sense> киль
+<div style="margin-left:5px"><strong><p><span class="dic_example">på like (på jevn) kjøl — в нормальном положении
+<div style="margin-left:5px"><strong><p><span class="dic_example">på rett kjøl — в равновесии, в уравновешенном состоянии
+<div style="margin-left:5px"><strong><p><span class="dic_example">strekke (legge) kjølen til et skip — закладывать судно
 </sense>
-<sense> <span>судно</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha last på kjølen — иметь груз на борту</span></p></strong></div>
+<sense> судно
+<div style="margin-left:5px"><strong><p><span class="dic_example">ha last på kjølen — иметь груз на борту
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">kjøl</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>холодное время, период холодов</span></div>
+<sense> холодное время, период холодов
 </sense>
-<sense> <span>похолодание</span></div>
+<sense> похолодание
 </sense>
 </entry>
 </superEntry>

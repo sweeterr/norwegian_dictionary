@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">billett</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>билет</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en billett til annen klasse — билет второго класса</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en billett til tur og retur — обратный билет</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lese (ta) en billett — купить билет (до - til)</span></p></strong></div>
+<sense> билет
+<div style="margin-left:5px"><strong><p><span class="dic_example">en billett til annen klasse — билет второго класса
+<div style="margin-left:5px"><strong><p><span class="dic_example">en billett til tur og retur — обратный билет
+<div style="margin-left:5px"><strong><p><span class="dic_example">lese (ta) en billett — купить билет (до - til)
 </sense>
-<sense> <span>записка, ответное письмо на объявление (в газете)</span></div>
+<sense> записка, ответное письмо на объявление (в газете)
 </sense>
 </entry>
 </superEntry>

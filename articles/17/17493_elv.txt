@@ -4,23 +4,23 @@
 <index></index>
 <form>
 <orth type="lemma">elv</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
 </form>
-<sense> <span>река</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppover (nedover) elv — а вверх (вниз) по реке</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en uttørret elv — пересохшая река</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">elva gikk over sine bredder — река вышла (выступила) из берегов</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">elvа la seg — река стала (замёрзла)</span></p></strong></div>
+<sense> река
+<div style="margin-left:5px"><strong><p><span class="dic_example">oppover (nedover) elv — а вверх (вниз) по реке
+<div style="margin-left:5px"><strong><p><span class="dic_example">en uttørret elv — пересохшая река
+<div style="margin-left:5px"><strong><p><span class="dic_example">elva gikk over sine bredder — река вышла (выступила) из берегов
+<div style="margin-left:5px"><strong><p><span class="dic_example">elvа la seg — река стала (замёрзла)
 </sense>
-<sense> <u><span>поэт.</u> поток</span></div>
+<sense> <u>поэт.</u> поток
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">elv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
-<div><u>миф.</u> <span>эльф</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<div><u>миф.</u> эльф
 </sense>
 </entry>
 </superEntry>

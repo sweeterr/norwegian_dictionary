@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">attributt</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-et, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 </form>
-<sense> <span>принадлежность, характерный признак, основное свойство</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">treforken er Neptuns attributt — трезубец - атрибут Нептуна</span></p></strong></div>
+<sense> принадлежность, характерный признак, основное свойство
+<div style="margin-left:5px"><strong><p><span class="dic_example">treforken er Neptuns attributt — трезубец - атрибут Нептуна
 </sense>
-<sense> <u><span>филос.</u> атрибут</span></div>
+<sense> <u>филос.</u> атрибут
 </sense>
-<sense> <u><span>грам.</u> определение</span></div>
+<sense> <u>грам.</u> определение
 </sense>
 </entry>
 </superEntry>

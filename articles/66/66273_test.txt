@@ -4,19 +4,19 @@
 <index></index>
 <form>
 <orth type="lemma">test</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -s</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -s</em>
 </form>
-<sense> <span>проба, исследование свойств (вещества)</span></div>
+<sense> проба, исследование свойств (вещества)
 </sense>
-<sense> <span>психологический эксперимент, тест</span></div>
+<sense> психологический эксперимент, тест
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">test</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</span></span></em></div>
-<div><u>диал.</u> <span>ивовый прут</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<div><u>диал.</u> ивовый прут
 </sense>
 </entry>
 </superEntry>

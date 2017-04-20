@@ -4,17 +4,17 @@
 <index></index>
 <form>
 <orth type="lemma">fantasi</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>фантазия, воображение</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha en livlig fantasi — обладать живой фантазией</span></p></strong></div>
+<sense> фантазия, воображение
+<div style="margin-left:5px"><strong><p><span class="dic_example">ha en livlig fantasi — обладать живой фантазией
 </sense>
-<sense> <span>выдумка, небылица</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er fri fantasi — это чистая фантазия</span></p></strong></div>
+<sense> выдумка, небылица
+<div style="margin-left:5px"><strong><p><span class="dic_example">det er fri fantasi — это чистая фантазия
 </sense>
-<sense> <span>прихоть, причуда</span></div>
+<sense> прихоть, причуда
 </sense>
-<sense> <span>бред</span></div>
+<sense> бред
 </sense>
 </entry>
 </superEntry>

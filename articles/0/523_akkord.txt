@@ -4,27 +4,27 @@
 <index></index>
 <form>
 <orth type="lemma">akkord</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>соглашение, договорённость, сделка</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå på akkord — идти на соглашение, договариваться</span></p></strong></div>
+<sense> соглашение, договорённость, сделка
+<div style="margin-left:5px"><strong><p><span class="dic_example">gå på akkord — идти на соглашение, договариваться
 </sense>
-<sense> <span>сдельщина</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på akkord — сдельно, аккордно</span></p></strong></div>
+<sense> сдельщина
+<div style="margin-left:5px"><strong><p><span class="dic_example">på akkord — сдельно, аккордно
 </sense>
-<sense> <u><span>юр.</u> мораторий, отсрочка по платежам</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">få akkord — получать отсрочку</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">søke akkord — добиваться отсрочки</span></p></strong></div>
+<sense> <u>юр.</u> мораторий, отсрочка по платежам
+<div style="margin-left:5px"><strong><p><span class="dic_example">få akkord — получать отсрочку
+<div style="margin-left:5px"><strong><p><span class="dic_example">søke akkord — добиваться отсрочки
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">akkord</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
-<div><u>муз.</u> <span>аккорд</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">brutt akkord — разбитый аккорд</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">anslå en akkord — взять аккорд</span></p></strong></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<div><u>муз.</u> аккорд
+<div style="margin-left:5px"><strong><p><span class="dic_example">brutt akkord — разбитый аккорд
+<div style="margin-left:5px"><strong><p><span class="dic_example">anslå en akkord — взять аккорд
 </sense>
 </entry>
 </superEntry>

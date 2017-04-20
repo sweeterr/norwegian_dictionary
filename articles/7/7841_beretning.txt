@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">beretning</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>отчёт</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">avgi (avlegge) en beretning — сделать отчёт</span></p></strong></div>
+<sense> отчёт
+<div style="margin-left:5px"><strong><p><span class="dic_example">avgi (avlegge) en beretning — сделать отчёт
 </sense>
-<sense> <span>сообщение, доклад</span></div>
+<sense> сообщение, доклад
 </sense>
-<sense> <span>рассказ</span></div>
+<sense> рассказ
 </sense>
 </entry>
 </superEntry>

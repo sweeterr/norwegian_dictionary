@@ -4,26 +4,26 @@
 <index></index>
 <form>
 <orth type="lemma">norsk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
 </form>
-<sense> <span>норвежский язык</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på norsk — на норвежском языке, по-норвежски</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på god(t) norsk — на чистейшем норвежском языке</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lære seg norsk — учиться норвежскому языку</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakker De norsk? — говорите ли вы по-норвежски?</span></p></strong></div>
+<sense> норвежский язык
+<div style="margin-left:5px"><strong><p><span class="dic_example">på norsk — на норвежском языке, по-норвежски
+<div style="margin-left:5px"><strong><p><span class="dic_example">på god(t) norsk — на чистейшем норвежском языке
+<div style="margin-left:5px"><strong><p><span class="dic_example">lære seg norsk — учиться норвежскому языку
+<div style="margin-left:5px"><strong><p><span class="dic_example">snakker De norsk? — говорите ли вы по-норвежски?
 </sense>
-<sense> <span>норвежец</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hun er norsk — она норвежка</span></p></strong></div>
+<sense> норвежец
+<div style="margin-left:5px"><strong><p><span class="dic_example">hun er norsk — она норвежка
 </sense>
-<sense> <span>норвежский обычай</span></div>
+<sense> норвежский обычай
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">norsk</orth>
-<u>adj</u></div>
-<div><span>норвежский</span></div>
+<u>adj</u>
+<div>норвежский
 </sense>
 </entry>
 </superEntry>

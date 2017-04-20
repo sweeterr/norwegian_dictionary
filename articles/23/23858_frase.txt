@@ -4,51 +4,51 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>выражение, фраза</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">forslitte fraser — избитые фразы</span></p></strong></div>
+<sense> выражение, фраза
+<div style="margin-left:5px"><strong><p><span class="dic_example">forslitte fraser — избитые фразы
 </sense>
-<sense> <u><span>ирон.</u> цветистая фраза</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bruke fraser — разглагольствовать</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">dekke til med fraser — прикрываться красивыми фразами</span></p></strong></div>
+<sense> <u>ирон.</u> цветистая фраза
+<div style="margin-left:5px"><strong><p><span class="dic_example">bruke fraser — разглагольствовать
+<div style="margin-left:5px"><strong><p><span class="dic_example">dekke til med fraser — прикрываться красивыми фразами
 </sense>
-<sense> <u><span>муз.</u> фраза</span></div>
+<sense> <u>муз.</u> фраза
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 </form>
-<sense> <span>гримаса</span></div>
+<sense> гримаса
 </sense>
-<sense> <u><span>pl</u> увеселения, развлечения, забавы</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>фразёрствовать</span></div>
+<sense> <u>pl</u> увеселения, развлечения, забавы
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</span></span></em></div>
-<div><u>диал.</u> <span>потрескивать, шипеть (об огне)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>фразёрствовать
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-så, -sett</span></span></em></div>
-<div><span>не принимать во внимание, не считаться</span></div>
+<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<div><u>диал.</u> потрескивать, шипеть (об огне)
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">frase</orth>
+<em><span class="dic_color"><span class="dic_comment">-så, -sett</em>
+<div>не принимать во внимание, не считаться
 </sense>
 </entry>
 </superEntry>

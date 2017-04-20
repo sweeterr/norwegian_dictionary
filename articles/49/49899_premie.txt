@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">premie</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>премия, награда, приз</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ta, vinne) premie — получить премию (приз)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi (tildele) premie — присуждать премию</span></p></strong></div>
+<sense> премия, награда, приз
+<div style="margin-left:5px"><strong><p><span class="dic_example">få (ta, vinne) premie — получить премию (приз)
+<div style="margin-left:5px"><strong><p><span class="dic_example">gi (tildele) premie — присуждать премию
 </sense>
-<sense> <span>выигрыш (в лотерее, по займу)</span></div>
+<sense> выигрыш (в лотерее, по займу)
 </sense>
-<sense> <span>страховая премия</span></div>
+<sense> страховая премия
 </sense>
 </entry>
 </superEntry>

@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">risiko</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>риск</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på ens regning og risiko — на чей-л. страх и риск</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på ens risiko — на чью-л. ответственность</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">løpe risiko — подвергаться риску, опасности</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta risikoen — рискнуть, пойти на риск</span></p></strong></div>
+<sense> риск
+<div style="margin-left:5px"><strong><p><span class="dic_example">på ens regning og risiko — на чей-л. страх и риск
+<div style="margin-left:5px"><strong><p><span class="dic_example">på ens risiko — на чью-л. ответственность
+<div style="margin-left:5px"><strong><p><span class="dic_example">løpe risiko — подвергаться риску, опасности
+<div style="margin-left:5px"><strong><p><span class="dic_example">ta risikoen — рискнуть, пойти на риск
 </sense>
-<sense> <span>объект страхования, страхуемое имущество</span></div>
+<sense> объект страхования, страхуемое имущество
 </sense>
 </entry>
 </superEntry>

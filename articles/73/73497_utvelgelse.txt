@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">utvelgelse</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>отбор</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">den naturlige utvelgelse — естественный отбор</span></p></strong></div>
+<sense> отбор
+<div style="margin-left:5px"><strong><p><span class="dic_example">den naturlige utvelgelse — естественный отбор
 </sense>
-<sense> <u><span>рел.</u> предопределение</span></div>
+<sense> <u>рел.</u> предопределение
 </sense>
 </entry>
 </superEntry>

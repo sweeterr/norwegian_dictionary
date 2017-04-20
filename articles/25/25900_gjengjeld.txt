@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">gjengjeld</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>возмещение, компенсация</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">til gjengjeld — зато, взамен</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre gjengjeld — возмещать, компенсировать</span></p></strong></div>
+<sense> возмещение, компенсация
+<div style="margin-left:5px"><strong><p><span class="dic_example">til gjengjeld — зато, взамен
+<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre gjengjeld — возмещать, компенсировать
 </sense>
-<sense> <span>возмездие, отплата</span></div>
+<sense> возмездие, отплата
 </sense>
 </entry>
 </superEntry>

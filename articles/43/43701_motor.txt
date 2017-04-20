@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">motor</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-oren, -orer</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-oren, -orer</em>
 </form>
-<sense> <span>мотор, электромотор</span></div>
+<sense> мотор, электромотор
 </sense>
-<sense> <span>двигатель внутреннего сгорания</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">motoren går — двигатель работает</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">starte motoren — <u>авт.</u> пускать (заводить) мотор</span></p></strong></div>
+<sense> двигатель внутреннего сгорания
+<div style="margin-left:5px"><strong><p><span class="dic_example">motoren går — двигатель работает
+<div style="margin-left:5px"><strong><p><span class="dic_example">starte motoren — <u>авт.</u> пускать (заводить) мотор
 </sense>
 </entry>
 </superEntry>

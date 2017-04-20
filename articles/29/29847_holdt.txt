@@ -4,28 +4,28 @@
 <index></index>
 <form>
 <orth type="lemma">holdt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
 </form>
-<sense> <span>привал, остановка</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre holdt — сделать привал, остановиться</span></p></strong></div>
+<sense> привал, остановка
+<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre holdt — сделать привал, остановиться
 </sense>
-<sense> <span>передышка, пауза</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">holdt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret и p.p. от</span></span></em> holde</span></p></strong></div>
+<sense> передышка, пауза
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">holdt</orth>
-<u>int</u></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">holdt! — стоп! <u>воен.</u> стой! (команда)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">holdt litt — подожди немного</span></p></strong></div>
+<em><span class="dic_color"><span class="dic_comment">pret и p.p. от</em> holde
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">holdt</orth>
+<u>int</u>
+<div style="margin-left:5px"><strong><p><span class="dic_example">holdt! — стоп! <u>воен.</u> стой! (команда)
+<div style="margin-left:5px"><strong><p><span class="dic_example">holdt litt — подожди немного
 </sense>
 </entry>
 </superEntry>

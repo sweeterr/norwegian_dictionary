@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">observasjon</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>наблюдение</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta observasjoner — делать (производить) наблюдения</span></p></strong></div>
+<sense> наблюдение
+<div style="margin-left:5px"><strong><p><span class="dic_example">ta observasjoner — делать (производить) наблюдения
 </sense>
-<sense> <span>надзор, слежка</span></div>
+<sense> надзор, слежка
 </sense>
-<sense> <u><span>мор.</u> обсервация</span></div>
+<sense> <u>мор.</u> обсервация
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">amplityde</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>величина колебания, амплитуда</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lufttemperaturens årlige amplityde — годовые колебания температуры воздуха</span></p></strong></div>
+<sense> величина колебания, амплитуда
+<div style="margin-left:5px"><strong><p><span class="dic_example">lufttemperaturens årlige amplityde — годовые колебания температуры воздуха
 </sense>
-<sense> <u><span>физ.</u><span class="dic_color"><span class="dic_comment">,</span></span> <u>астр.</u> амплитуда; размах(маятника)</span></div>
+<sense> <u>физ.</u><span class="dic_color"><span class="dic_comment">, <u>астр.</u> амплитуда; размах(маятника)
 </sense>
 </entry>
 </superEntry>

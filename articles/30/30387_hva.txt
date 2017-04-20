@@ -4,22 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">hva</orth>
-<div><u>pron</u></div>
+<div><u>pron</u>
 </form>
-<sense> <u><span>inter</u> что?, что за?, какой?</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva annet? — что ещё?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva behager? — <u>уст.</u> что угодно?, что вы сказали?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det (for noe)? — что это такое?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det med Dem? — что с вами?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva for en? — что за?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener du? — что ты имеешь в виду?</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på hva måte? — каким образом?</span></p></strong></div>
+<sense> <u>inter</u> что?, что за?, какой?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva annet? — что ещё?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva behager? — <u>уст.</u> что угодно?, что вы сказали?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det (for noe)? — что это такое?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det med Dem? — что с вами?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva for en? — что за?
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener du? — что ты имеешь в виду?
+<div style="margin-left:5px"><strong><p><span class="dic_example">på hva måte? — каким образом?
 </sense>
-<sense> <u><span>rel</u> что</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke vite hva er hva — не различать что к чему</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva … angår — что касается ...</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva enten (eller, heller) — чтобы ни, какой бы ни</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva som helst — что угодно, что бы ни</span></p></strong></div>
+<sense> <u>rel</u> что
+<div style="margin-left:5px"><strong><p><span class="dic_example">ikke vite hva er hva — не различать что к чему
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva … angår — что касается ...
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva enten (eller, heller) — чтобы ни, какой бы ни
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva som helst — что угодно, что бы ни
 </sense>
 </entry>
 </superEntry>

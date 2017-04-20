@@ -4,24 +4,24 @@
 <index></index>
 <form>
 <orth type="lemma">remis</orth>
-<em><span class="dic_color"><span class="dic_comment">|re'mi|</span></span></em></div>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">|re'mi|</em>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <em><span class="dic_color"><span><span class="dic_comment">шахм.</span></span></em> ничейная партия, ничья</span></div>
+<sense> <em><span class="dic_color"><span class="dic_comment">шахм.</em> ничейная партия, ничья
 </sense>
-<sense> <u><span>карт.</u> ремиз</span></div>
+<sense> <u>карт.</u> ремиз
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">remis</orth>
-<em><span class="dic_color"><span class="dic_comment">|re'mi|</span></span></em></div>
-<div><u>adj</u></div>
+<em><span class="dic_color"><span class="dic_comment">|re'mi|</em>
+<div><u>adj</u>
 </form>
-<sense> <em><span class="dic_color"><span><span class="dic_comment">шахм.</span></span></em> ничейный, сыгранный вничью</span></div>
+<sense> <em><span class="dic_color"><span class="dic_comment">шахм.</em> ничейный, сыгранный вничью
 </sense>
-<sense> <u><span>карт.</u> bli remis - обремизиться</span></div>
+<sense> <u>карт.</u> bli remis - обремизиться
 </sense>
 </entry>
 </superEntry>

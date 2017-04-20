@@ -4,11 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">gradere</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-te, -t</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 </form>
-<sense> <span>градуировать, калибровать</span></div>
+<sense> градуировать, калибровать
 </sense>
-<sense> <u><span>хим.</u> градировать, доводить раствор до нужной крепости, сгущать жидкость</span></div>
+<sense> <u>хим.</u> градировать, доводить раствор до нужной крепости, сгущать жидкость
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -17,7 +17,7 @@
 </cit>
 
 </sense>
-<sense> <u><span>хим.</u> определять крепость раствора</span></div>
+<sense> <u>хим.</u> определять крепость раствора
 </sense>
 </entry>
 </superEntry>

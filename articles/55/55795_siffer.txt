@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">siffer</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-feret, -rer (-re)</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-feret, -rer (-re)</em>
 </form>
-<sense> <span>цифра</span></div>
+<sense> цифра
 </sense>
-<sense> <span>шифр, код</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">et brev i siffer — зашифрованное письмо</span></p></strong></div>
+<sense> шифр, код
+<div style="margin-left:5px"><strong><p><span class="dic_example">et brev i siffer — зашифрованное письмо
 </sense>
 </entry>
 </superEntry>

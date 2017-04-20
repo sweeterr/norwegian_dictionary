@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">resong</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>здравый смысл, благоразумие</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ingen resong i det — в этом нет никакого смысла</span></p></strong></div>
+<sense> здравый смысл, благоразумие
+<div style="margin-left:5px"><strong><p><span class="dic_example">det er ingen resong i det — в этом нет никакого смысла
 </sense>
-<sense> <span>довод, аргумент, резон</span></div>
+<sense> довод, аргумент, резон
 </sense>
 </entry>
 </superEntry>

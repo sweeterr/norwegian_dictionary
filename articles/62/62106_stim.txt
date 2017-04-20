@@ -4,33 +4,33 @@
 <index></index>
 <form>
 <orth type="lemma">stim</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
 </form>
-<sense> <span>толпа, сборище</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en hel stim — целая куча</span></p></strong></div>
+<sense> толпа, сборище
+<div style="margin-left:5px"><strong><p><span class="dic_example">en hel stim — целая куча
 </sense>
-<sense> <span>косяк (рыбы), стая (морских животных)</span></div>
+<sense> косяк (рыбы), стая (морских животных)
 </sense>
-<sense> <span>см. stimmel</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">stim</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
-<div><u>мор.</u> <span>пар</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">for full stim — на всех парах</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">få stimen opp — поднимать пары</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette full stim på — поднять все пары</span></p></strong></div>
+<sense> см. stimmel
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">stim</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
-<div><u>диал.</u> <span>суматоха, сумятица, возня, толкотня</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
+<div><u>мор.</u> пар
+<div style="margin-left:5px"><strong><p><span class="dic_example">for full stim — на всех парах
+<div style="margin-left:5px"><strong><p><span class="dic_example">få stimen opp — поднимать пары
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette full stim på — поднять все пары
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">stim</orth>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
+<div><u>диал.</u> суматоха, сумятица, возня, толкотня
 </sense>
 </entry>
 </superEntry>

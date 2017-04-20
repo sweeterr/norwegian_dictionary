@@ -4,17 +4,17 @@
 <index></index>
 <form>
 <orth type="lemma">dansk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
-<div><span>датский язык</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakke dansk — говорить по-датски</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">oversette fra dansk — переводить с датского языка</span></p></strong></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
+<div>датский язык
+<div style="margin-left:5px"><strong><p><span class="dic_example">snakke dansk — говорить по-датски
+<div style="margin-left:5px"><strong><p><span class="dic_example">oversette fra dansk — переводить с датского языка
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">dansk</orth>
-<u>adj</u> датский</div>
+<u>adj</u> датский
 </sense>
 </entry>
 </superEntry>

@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">demring</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>рассвет</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en disig demring — туманный серый рассвет</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i historiens demring — на заре истории</span></p></strong></div>
+<sense> рассвет
+<div style="margin-left:5px"><strong><p><span class="dic_example">en disig demring — туманный серый рассвет
+<div style="margin-left:5px"><strong><p><span class="dic_example">i historiens demring — на заре истории
 </sense>
-<sense> <span>сумерки</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i demringen — в сумерках</span></p></strong></div>
+<sense> сумерки
+<div style="margin-left:5px"><strong><p><span class="dic_example">i demringen — в сумерках
 </sense>
 </entry>
 </superEntry>

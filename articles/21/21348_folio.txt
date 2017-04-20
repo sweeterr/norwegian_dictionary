@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">folio</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>расчётный счёт (в банке)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette inn på folio — положить на текущий счёт (деньги)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på folio — на текущем счету</span></p></strong></div>
+<sense> расчётный счёт (в банке)
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette inn på folio — положить на текущий счёт (деньги)
+<div style="margin-left:5px"><strong><p><span class="dic_example">på folio — на текущем счету
 </sense>
-<sense> <span>книга большого формата</span></div>
+<sense> книга большого формата
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">forbokstav</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en (-et), -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
 </form>
-<sense> <span>первая буква в слове</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en stor forbokstav — заглавная буква</span></p></strong></div>
+<sense> первая буква в слове
+<div style="margin-left:5px"><strong><p><span class="dic_example">en stor forbokstav — заглавная буква
 </sense>
-<sense> <u><span>pl</u> инициалы</span></div>
+<sense> <u>pl</u> инициалы
 </sense>
 </entry>
 </superEntry>

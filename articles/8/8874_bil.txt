@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -18,15 +18,15 @@
 <index></index>
 <form>
 <orth type="lemma">bil</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
-<div><u>диал.</u> <span>миг, момент, мгновение</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
+<div><u>диал.</u> миг, момент, мгновение
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bil</orth>
-<u>диал.</u> см. bild <strong>I</strong></div>
+<u>диал.</u> см. bild <strong>I
 </sense>
 </entry>
 </superEntry>

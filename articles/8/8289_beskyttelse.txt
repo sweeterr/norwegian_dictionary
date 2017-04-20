@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">beskyttelse</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>охрана, защита, прикрытие</span></div>
+<sense> охрана, защита, прикрытие
 </sense>
-<sense> <u><span>воен.</u> охранение</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse i felt — охранение войск в полевых условиях</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse under hvile — охранение войск на отдыхе</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse under marsj — охранение на марше</span></p></strong></div>
+<sense> <u>воен.</u> охранение
+<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse i felt — охранение войск в полевых условиях
+<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse under hvile — охранение войск на отдыхе
+<div style="margin-left:5px"><strong><p><span class="dic_example">beskyttelse under marsj — охранение на марше
 </sense>
 </entry>
 </superEntry>

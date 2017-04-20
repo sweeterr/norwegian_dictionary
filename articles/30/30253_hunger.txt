@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">hunger</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>голод</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lide hunger — голодать, страдать от голода</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stille ens hunger — утолять голод</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hunger er den beste kokk — <u>погов.</u> голод - лучший повар</span></p></strong></div>
+<sense> голод
+<div style="margin-left:5px"><strong><p><span class="dic_example">lide hunger — голодать, страдать от голода
+<div style="margin-left:5px"><strong><p><span class="dic_example">stille ens hunger — утолять голод
+<div style="margin-left:5px"><strong><p><span class="dic_example">hunger er den beste kokk — <u>погов.</u> голод - лучший повар
 </sense>
-<sense> <span>сильное желание, жажда (чего-л.)</span></div>
+<sense> сильное желание, жажда (чего-л.)
 </sense>
 </entry>
 </superEntry>

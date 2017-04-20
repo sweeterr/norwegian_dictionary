@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">verdi</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>стоимость, ценность</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">av stor (liten) verdi — имеющий большую (малую) ценность</span></p></strong></div>
+<sense> стоимость, ценность
+<div style="margin-left:5px"><strong><p><span class="dic_example">av stor (liten) verdi — имеющий большую (малую) ценность
 </sense>
-<sense> <span>достоинство</span></div>
+<sense> достоинство
 </sense>
-<sense> <u><span>мат.</u> величина</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">midlere verdier — средние величины</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">positive (negative) verdier — положительные (отрицательные) величины</span></p></strong></div>
+<sense> <u>мат.</u> величина
+<div style="margin-left:5px"><strong><p><span class="dic_example">midlere verdier — средние величины
+<div style="margin-left:5px"><strong><p><span class="dic_example">positive (negative) verdier — положительные (отрицательные) величины
 </sense>
 </entry>
 </superEntry>

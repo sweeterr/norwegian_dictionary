@@ -4,30 +4,30 @@
 <index></index>
 <form>
 <orth type="lemma">mose</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <u><span>бот.</u> мох, лишайник</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">tette med mose — конопатить мхом</span></p></strong></div>
+<sense> <u>бот.</u> мох, лишайник
+<div style="margin-left:5px"><strong><p><span class="dic_example">tette med mose — конопатить мхом
 </sense>
-<sense> <span>ягель, олений мох, исландский мох</span></div>
+<sense> ягель, олений мох, исландский мох
 </sense>
-<sense> <u><span>диал.</u> заросшее мхом болото, торфяное болото</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">mose</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</span></span></em></div>
-<div><u>диал.</u> <span>собирать мох (на корм скоту)</span></div>
+<sense> <u>диал.</u> заросшее мхом болото, торфяное болото
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mose</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</span></span></em></div>
-<div><u>диал.</u> <span>сплачивать брёвна (в плоты)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<div><u>диал.</u> собирать мох (на корм скоту)
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">mose</orth>
+<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<div><u>диал.</u> сплачивать брёвна (в плоты)
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">liga</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>лига</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">Nasjonenes liga — <u>полит.</u> Лига наций</span></p></strong></div>
+<sense> лига
+<div style="margin-left:5px"><strong><p><span class="dic_example">Nasjonenes liga — <u>полит.</u> Лига наций
 </sense>
-<sense> <u><span>спорт.</u> Лига, Объединение футбольных клубов страны</span></div>
+<sense> <u>спорт.</u> Лига, Объединение футбольных клубов страны
 </sense>
 </entry>
 </superEntry>

@@ -4,27 +4,27 @@
 <index></index>
 <form>
 <orth type="lemma">rye</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 </form>
-<sense> <span>коврик (у кровати)</span></div>
+<sense> коврик (у кровати)
 </sense>
-<sense> <span>половик, дорожка (на полу)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">rye</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</span></span></em></div>
-<div><u>диал.</u> <span>помещение для сушки, сушильня</span></div>
+<sense> половик, дорожка (на полу)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">rye</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><u>диал.</u> <span>каменистое нагорье</span></div>
+<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<div><u>диал.</u> помещение для сушки, сушильня
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">rye</orth>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div><u>диал.</u> каменистое нагорье
 </sense>
 </entry>
 </superEntry>

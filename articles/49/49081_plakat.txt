@@ -4,28 +4,28 @@
 <index></index>
 <form>
 <orth type="lemma">plakat</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>объявление, официальное распоряжение (вывешиваемое для всеобщего сведения)</span></div>
+<sense> объявление, официальное распоряжение (вывешиваемое для всеобщего сведения)
 </sense>
-<sense> <span>плакат, <u>театр.</u> афиша</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette opp en plakat — наклеивать плакат (афишу)</span></p></strong></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">plakat</orth>
-<u>adj</u> <u>predic</u></div>
-<div><u>разг.</u> <span>совершенно пьяный</span></div>
+<sense> плакат, <u>театр.</u> афиша
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette opp en plakat — наклеивать плакат (афишу)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">plakat</orth>
-<u>adv</u></div>
-<div><span>совершенно, полностью</span></div>
+<u>adj</u> <u>predic</u>
+<div><u>разг.</u> совершенно пьяный
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">plakat</orth>
+<u>adv</u>
+<div>совершенно, полностью
 </sense>
 </entry>
 </superEntry>

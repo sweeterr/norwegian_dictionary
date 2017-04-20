@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">tidende</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>новость, известие, сообщение</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">tunge tidender — печальные новости (известия)</span></p></strong></div>
+<sense> новость, известие, сообщение
+<div style="margin-left:5px"><strong><p><span class="dic_example">tunge tidender — печальные новости (известия)
 </sense>
-<sense> <u><span>уст.</u> газета, вестник</span></div>
+<sense> <u>уст.</u> газета, вестник
 </sense>
 </entry>
 </superEntry>

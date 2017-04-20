@@ -4,39 +4,39 @@
 <index></index>
 <form>
 <orth type="lemma">al</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <u><span>бот.</u> сердцевина (дерева)</span></div>
+<sense> <u>бот.</u> сердцевина (дерева)
 </sense>
-<sense> <u><span>перен.</u> суть, ядро, смысл, сущность чего-л.</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">al</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
-<div><u>мин.</u> <span>песчаник с прожилками</span></div>
+<sense> <u>перен.</u> суть, ядро, смысл, сущность чего-л.
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">al</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
-<div><span>примитивный плуг, соха с металлическим наконечником (зубом)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
+<div><u>мин.</u> песчаник с прожилками
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">al</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
-<div><u>диал.</u></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<div>примитивный плуг, соха с металлическим наконечником (зубом)
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">al</orth>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
+<div><u>диал.</u>
 </form>
-<sense> <span>культивирование (растений)</span></div>
+<sense> культивирование (растений)
 </sense>
-<sense> <span>разведение (скота)</span></div>
+<sense> разведение (скота)
 </sense>
 </entry>
 </superEntry>

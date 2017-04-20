@@ -4,61 +4,61 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>песчаная равнина, пустырь</span></div>
+<sense> песчаная равнина, пустырь
 </sense>
-<sense> <span>степь, пустошь (поросшая вереском)</span></div>
+<sense> степь, пустошь (поросшая вереском)
 </sense>
-<sense> <u><span>воен.</u> <u>разг.</u> полигон, учебное поле</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise på moen — направляться на учение</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være på moen — быть на учениях</span></p></strong></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
-<div><u>собир.</u> <span>метеосводки</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">innenlandsk mo — метеосводка по стране</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">utenlandsk mo — метеосводка по зарубежным странам</span></p></strong></div>
+<sense> <u>воен.</u> <u>разг.</u> полигон, учебное поле
+<div style="margin-left:5px"><strong><p><span class="dic_example">reise på moen — направляться на учение
+<div style="margin-left:5px"><strong><p><span class="dic_example">være på moen — быть на учениях
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
-<div><span>мелкие отбросы, мелкий мусор</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
+<div><u>собир.</u> метеосводки
+<div style="margin-left:5px"><strong><p><span class="dic_example">innenlandsk mo — метеосводка по стране
+<div style="margin-left:5px"><strong><p><span class="dic_example">utenlandsk mo — метеосводка по зарубежным странам
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adj</u></div>
-<div><u>диал.</u> <span>тепловатый, чуть тёпленький</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
+<div>мелкие отбросы, мелкий мусор
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adj</u></div>
+<u>adj</u>
+<div><u>диал.</u> тепловатый, чуть тёпленький
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">mo</orth>
+<u>adj</u>
 </form>
-<sense> <u><span>диал.</u> слабый, обессилевший</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er mo i knærne — у него подгибаются коленки (от слабости)</span></p></strong></div>
+<sense> <u>диал.</u> слабый, обессилевший
+<div style="margin-left:5px"><strong><p><span class="dic_example">han er mo i knærne — у него подгибаются коленки (от слабости)
 </sense>
-<sense> <u><span>поэт.</u> <u>уст.</u> подавленный, угнетённый, грустный</span></div>
+<sense> <u>поэт.</u> <u>уст.</u> подавленный, угнетённый, грустный
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adv</u></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">mo alene — совершенно один</span></p></strong></div>
+<u>adv</u>
+<div style="margin-left:5px"><strong><p><span class="dic_example">mo alene — совершенно один
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">leveranse</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>поставка, доставка (товара)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">franko leveranse — доставка оплачена</span></p></strong></div>
+<sense> поставка, доставка (товара)
+<div style="margin-left:5px"><strong><p><span class="dic_example">franko leveranse — доставка оплачена
 </sense>
-<sense> <span>поставляемый товар</span></div>
+<sense> поставляемый товар
 </sense>
 </entry>
 </superEntry>

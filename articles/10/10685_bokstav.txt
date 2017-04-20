@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">bokstav</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>буква</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">små (store) bokstaver — строчные (прописные) буквы</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter bokstaven — буквально</span></p></strong></div>
+<sense> буква
+<div style="margin-left:5px"><strong><p><span class="dic_example">små (store) bokstaver — строчные (прописные) буквы
+<div style="margin-left:5px"><strong><p><span class="dic_example">etter bokstaven — буквально
 </sense>
-<sense> <u><span>полигр.</u> литера</span></div>
+<sense> <u>полигр.</u> литера
 </sense>
 </entry>
 </superEntry>

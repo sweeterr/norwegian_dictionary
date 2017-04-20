@@ -4,37 +4,37 @@
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
-<div><u>спорт.</u> <span>одиночка (в гребле, теннисе и т. п.)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-n</em>
+<div><u>спорт.</u> одиночка (в гребле, теннисе и т. п.)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<u>adj</u></div>
+<u>adj</u>
 </form>
-<sense> <span>простой</span></div>
+<sense> простой
 </sense>
-<sense> <span>единственный</span></div>
+<sense> единственный
 </sense>
-<sense> <u><span>редко</u> холостой</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>звякать, звенеть, дребезжать</span></div>
+<sense> <u>редко</u> холостой
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>посыпать щебнем (гравием)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>звякать, звенеть, дребезжать
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">single</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>посыпать щебнем (гравием)
 </sense>
 </entry>
 </superEntry>

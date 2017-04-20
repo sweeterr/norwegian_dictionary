@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">opsjon</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <u><span>ком.</u> опцион</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter selgerens opsjon — по опциону продавца</span></p></strong></div>
+<sense> <u>ком.</u> опцион
+<div style="margin-left:5px"><strong><p><span class="dic_example">etter selgerens opsjon — по опциону продавца
 </sense>
-<sense> <u><span>юр.</u> оптация, выбор гражданства</span></div>
+<sense> <u>юр.</u> оптация, выбор гражданства
 </sense>
 </entry>
 </superEntry>

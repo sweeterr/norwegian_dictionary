@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">nyhet</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>новость, известие</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ferske nyheter — свежие новости, последние известия</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">høre nyheter — слышать новости</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette inn en nyhet i avisa — поместить сообщение в газету</span></p></strong></div>
+<sense> новость, известие
+<div style="margin-left:5px"><strong><p><span class="dic_example">ferske nyheter — свежие новости, последние известия
+<div style="margin-left:5px"><strong><p><span class="dic_example">høre nyheter — слышать новости
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette inn en nyhet i avisa — поместить сообщение в газету
 </sense>
-<sense> <span>новинка</span></div>
+<sense> новинка
 </sense>
-<sense> <span>новизна</span></div>
+<sense> новизна
 </sense>
 </entry>
 </superEntry>

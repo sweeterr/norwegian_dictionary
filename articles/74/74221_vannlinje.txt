@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">vannlinje</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>береговая линия</span></div>
+<sense> береговая линия
 </sense>
-<sense> <span>метка, показывающая уровень воды</span></div>
+<sense> метка, показывающая уровень воды
 </sense>
-<sense> <u><span>мор.</u> ватерлиния</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">dypeste vannlinje — ватерлиния грузовая</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lett (den lette) vannlinje — ватерлиния лёгкая (когда судно порожнее)</span></p></strong></div>
+<sense> <u>мор.</u> ватерлиния
+<div style="margin-left:5px"><strong><p><span class="dic_example">dypeste vannlinje — ватерлиния грузовая
+<div style="margin-left:5px"><strong><p><span class="dic_example">lett (den lette) vannlinje — ватерлиния лёгкая (когда судно порожнее)
 </sense>
 </entry>
 </superEntry>

@@ -4,27 +4,27 @@
 <index></index>
 <form>
 <orth type="lemma">hekle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 </form>
-<sense> <span>чесалка, гребень (для льна)</span></div>
+<sense> чесалка, гребень (для льна)
 </sense>
-<sense> <span>рыболовная снасть (для ловли сельди)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">hekle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>чесать лён</span></div>
+<sense> рыболовная снасть (для ловли сельди)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">hekle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>вязать (на спицах, крючком)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>чесать лён
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">hekle</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>вязать (на спицах, крючком)
 </sense>
 </entry>
 </superEntry>

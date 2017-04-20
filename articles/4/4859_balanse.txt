@@ -4,18 +4,18 @@
 <index></index>
 <form>
 <orth type="lemma">balanse</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>равновесие</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde (miste) balansen — держать (терять) равновесие</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme ut av balansen — выйти из равновесия</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i balanse — находиться в равновесии</span></p></strong></div>
+<sense> равновесие
+<div style="margin-left:5px"><strong><p><span class="dic_example">holde (miste) balansen — держать (терять) равновесие
+<div style="margin-left:5px"><strong><p><span class="dic_example">komme ut av balansen — выйти из равновесия
+<div style="margin-left:5px"><strong><p><span class="dic_example">være i balanse — находиться в равновесии
 </sense>
-<sense> <span>весы (рычажные), чашка весов</span></div>
+<sense> весы (рычажные), чашка весов
 </sense>
-<sense> <u><span>фин.</u> баланс, сальдо</span></div>
+<sense> <u>фин.</u> баланс, сальдо
 </sense>
-<sense> <u><span>тех.</u> баланс, противовес</span></div>
+<sense> <u>тех.</u> баланс, противовес
 </sense>
 </entry>
 </superEntry>

@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">immunitet</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <u><span>юр.</u> неприкосновенность</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">diplomatisk immunitet — дипломатический иммунитет</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">parlamentarisk immunitet — неприкосновенность личности (депутата парламента)</span></p></strong></div>
+<sense> <u>юр.</u> неприкосновенность
+<div style="margin-left:5px"><strong><p><span class="dic_example">diplomatisk immunitet — дипломатический иммунитет
+<div style="margin-left:5px"><strong><p><span class="dic_example">parlamentarisk immunitet — неприкосновенность личности (депутата парламента)
 </sense>
-<sense> <u><span>мед.</u> невосприимчивость, иммунитет</span></div>
+<sense> <u>мед.</u> невосприимчивость, иммунитет
 </sense>
 </entry>
 </superEntry>

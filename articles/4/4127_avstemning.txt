@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">avstemning</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>голосование</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hemmelig avstemning — тайное голосование</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">avstemning ved navneopprop — поимённое голосование</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde avstemning — производить голосование, голосовать</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette under avstemning — ставить на голосование</span></p></strong></div>
+<sense> голосование
+<div style="margin-left:5px"><strong><p><span class="dic_example">hemmelig avstemning — тайное голосование
+<div style="margin-left:5px"><strong><p><span class="dic_example">avstemning ved navneopprop — поимённое голосование
+<div style="margin-left:5px"><strong><p><span class="dic_example">holde avstemning — производить голосование, голосовать
+<div style="margin-left:5px"><strong><p><span class="dic_example">sette under avstemning — ставить на голосование
 </sense>
-<sense> <u><span>радио</u> настройка (на волну)</span></div>
+<sense> <u>радио</u> настройка (на волну)
 </sense>
 </entry>
 </superEntry>

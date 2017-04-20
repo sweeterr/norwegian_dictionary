@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">arbeidsvillig</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -18,8 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">arbeidsvillig</orth>
-<u>adj</u></div>
-<div><span>трудолюбивый</span></div>
+<u>adj</u>
+<div>трудолюбивый
 </sense>
 </entry>
 </superEntry>

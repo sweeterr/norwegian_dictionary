@@ -4,41 +4,41 @@
 <index></index>
 <form>
 <orth type="lemma">lake</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n</em>
 </form>
-<sense> <span>рассол</span></div>
+<sense> рассол
 </sense>
-<sense> <span>сок, который даёт присоленная рыба (присоленное мясо)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">lake</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><u>зоол.</u> <span>налим</span></div>
+<sense> сок, который даёт присоленная рыба (присоленное мясо)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lake</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><u>диал.</u></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div><u>зоол.</u> налим
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">lake</orth>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div><u>диал.</u>
 </form>
-<sense> <span>тряпка, лоскут</span></div>
+<sense> тряпка, лоскут
 </sense>
-<sense> <u><span>презр.</u> бродяга, оборванец</span></div>
+<sense> <u>презр.</u> бродяга, оборванец
 </sense>
-<sense> <u><span>зоол.</u> книжка (третий отдел желудка у жвачных)</span></div>
+<sense> <u>зоол.</u> книжка (третий отдел желудка у жвачных)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lake</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>класть в рассол, засаживать</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>класть в рассол, засаживать
 </sense>
 </entry>
 </superEntry>

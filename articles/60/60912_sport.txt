@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">sport</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>спорт</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">drive sport, dyrke sport(en) — заниматься спортом</span></p></strong></div>
+<sense> спорт
+<div style="margin-left:5px"><strong><p><span class="dic_example">drive sport, dyrke sport(en) — заниматься спортом
 </sense>
-<sense> <span>любимое занятие, увлечение</span></div>
+<sense> любимое занятие, увлечение
 </sense>
 </entry>
 </superEntry>

@@ -4,22 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">tagg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>зубец, шип, колючка</span></div>
+<sense> зубец, шип, колючка
 </sense>
-<sense> <u><span>поэт.</u> пик (горы)</span></div>
+<sense> <u>поэт.</u> пик (горы)
 </sense>
-<sense> <u><span>комп.</u> тег, признак, управляющий код:</span></div>
-<div><span>а) в языке HTML - специальный символ, определяющий раздел документа, способ форматирования текста или другие действия</span></div>
-<div><span>б) часть элемента данных (обычно несколько разрядов), определяющая его тип</span></div>
+<sense> <u>комп.</u> тег, признак, управляющий код:
+<div>а) в языке HTML - специальный символ, определяющий раздел документа, способ форматирования текста или другие действия
+<div>б) часть элемента данных (обычно несколько разрядов), определяющая его тип
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">tagg</orth>
- <u>уст.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</span></span></em> tigge</span></p></strong></div>
+ <u>уст.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</em> tigge
 </sense>
 </entry>
 </superEntry>

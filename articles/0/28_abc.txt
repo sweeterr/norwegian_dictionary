@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">abc</orth>
-<div><span class="dic_color"><span class="dic_comment">|abe'se:|</span></span></div>
-<div><em><span class="dic_color"><span class="dic_comment">-'en, -'er</span></span></em></div>
+<div><span class="dic_color"><span class="dic_comment">|abe'se:|
+<div><em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
 </form>
-<sense> <span>азбука</span></div>
+<sense> азбука
 </sense>
-<sense> <span>букварь</span></div>
+<sense> букварь
 </sense>
-<sense> <span>основы, начала (какой-л. науки)</span></div>
+<sense> основы, начала (какой-л. науки)
 </sense>
 </entry>
 </superEntry>

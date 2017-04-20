@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">skjema</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-et, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 </form>
-<sense> <span>схема</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre noe etter et skjema — делать что-л. схематически (механически, бездушно)</span></p></strong></div>
+<sense> схема
+<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre noe etter et skjema — делать что-л. схематически (механически, бездушно)
 </sense>
-<sense> <span>анкета, бланк</span></div>
+<sense> анкета, бланк
 </sense>
-<sense> <u><span>эл.</u> монтажная схема</span></div>
+<sense> <u>эл.</u> монтажная схема
 </sense>
 </entry>
 </superEntry>

@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">samband</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-et</em>
 </form>
-<sense> <span>связь, связующее звено</span></div>
+<sense> связь, связующее звено
 </sense>
-<sense> <span>общество, объединение</span></div>
-<div style="margin-left:5px"><u><strong><p><span class="dic_example">ист.</u> Norsk-Sovjetrussisk Samband — общество «Норвегия - СССР» (в Норвегии)</span></p></strong></div>
-<div><u>ист.</u> <span>Sambandet «SSSR - Norge» общество «СССР - Норвегия» (в СССР)</span></div>
+<sense> общество, объединение
+<div style="margin-left:5px"><u><strong><p><span class="dic_example">ист.</u> Norsk-Sovjetrussisk Samband — общество «Норвегия - СССР» (в Норвегии)
+<div><u>ист.</u> Sambandet «SSSR - Norge» общество «СССР - Норвегия» (в СССР)
 </sense>
-<sense> <u><span>воен.</u> связь</span></div>
+<sense> <u>воен.</u> связь
 </sense>
 </entry>
 </superEntry>

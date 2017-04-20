@@ -4,28 +4,28 @@
 <index></index>
 <form>
 <orth type="lemma">talje</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>талия</span></div>
+<sense> талия
 </sense>
-<sense> <span>фигура (человека)</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">talje</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
-<div><u>мор.</u> <span>тали</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">enkelt (treskåren) talje — одношкивные (трёхшкивные) тали</span></p></strong></div>
+<sense> фигура (человека)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">talje</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><u>мор.</u> <span>talje inn (opp) поднять талями (груз)</span></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<div><u>мор.</u> тали
+<div style="margin-left:5px"><strong><p><span class="dic_example">enkelt (treskåren) talje — одношкивные (трёхшкивные) тали
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">talje</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div><u>мор.</u> talje inn (opp) поднять талями (груз)
 </sense>
 </entry>
 </superEntry>

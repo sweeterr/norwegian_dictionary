@@ -4,40 +4,40 @@
 <index></index>
 <form>
 <orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
-<sense> <span>зерно, зёрнышко</span></div>
+<sense> зерно, зёрнышко
 </sense>
-<sense> <span>ядро, ядрышко</span></div>
+<sense> ядро, ядрышко
 </sense>
-<sense> <span>сущность, существо вопроса</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">den rasjonelle kjerne — рациональное зерно</span></p></strong></div>
+<sense> сущность, существо вопроса
+<div style="margin-left:5px"><strong><p><span class="dic_example">den rasjonelle kjerne — рациональное зерно
 </sense>
-<sense> <span>сердцевина (дерева)</span></div>
+<sense> сердцевина (дерева)
 </sense>
-<sense> <span>костяк, ядро (партии, организации и т. п.)</span></div>
+<sense> костяк, ядро (партии, организации и т. п.)
 </sense>
-<sense> <u><span>тех.</u> стержень (при отливке); сердечник (магнита)</span></div>
+<sense> <u>тех.</u> стержень (при отливке); сердечник (магнита)
 </sense>
-<sense> <u><span>физ.</u> ядро (атома)</span></div>
+<sense> <u>физ.</u> ядро (атома)
 </sense>
-<sense> <u><span>астр.</u> голова кометы</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</span></span></em></div>
-<div><span>маслобойка (сосуд)</span></div>
+<sense> <u>астр.</u> голова кометы
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</span></span></em></div>
-<div><span>сбивать масло</span></div>
+<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<div>маслобойка (сосуд)
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">kjerne</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<div>сбивать масло
 </sense>
 </entry>
 </superEntry>

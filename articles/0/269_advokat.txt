@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">advokat</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>юрист, юрисконсульт, адвокат (защитник в суде)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kronens advokat — общественный обвинитель, прокурор</span></p></strong></div>
+<sense> юрист, юрисконсульт, адвокат (защитник в суде)
+<div style="margin-left:5px"><strong><p><span class="dic_example">kronens advokat — общественный обвинитель, прокурор
 </sense>
-<sense> <span>защитник, заступник</span></div>
+<sense> защитник, заступник
 </sense>
 </entry>
 </superEntry>

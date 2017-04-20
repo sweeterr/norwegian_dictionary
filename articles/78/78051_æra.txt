@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">æra</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>эра, летосчисление</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en ny æra — новая эра</span></p></strong></div>
+<sense> эра, летосчисление
+<div style="margin-left:5px"><strong><p><span class="dic_example">en ny æra — новая эра
 </sense>
-<sense> <span>эпоха, период</span></div>
+<sense> эпоха, период
 </sense>
 </entry>
 </superEntry>

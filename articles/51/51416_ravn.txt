@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">ravn</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>ворон</span></div>
+<sense> ворон
 </sense>
-<sense> <u><span>перен.</u> ворон (о жадном вороватом человеке)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sort som en ravn — чёрный как смоль</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sulten som en ravn — голодный как волк</span></p></strong></div>
+<sense> <u>перен.</u> ворон (о жадном вороватом человеке)
+<div style="margin-left:5px"><strong><p><span class="dic_example">sort som en ravn — чёрный как смоль
+<div style="margin-left:5px"><strong><p><span class="dic_example">sulten som en ravn — голодный как волк
 </sense>
 </entry>
 </superEntry>

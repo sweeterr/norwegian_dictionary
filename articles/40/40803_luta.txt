@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">luta</orth>
-<div><u>adv</u></div>
+<div><u>adv</u>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -12,9 +12,9 @@
 <quote>(имеет усилительное значение):</quote>
 </cit>
 
-<div style="margin-left:5px"><strong><p><span class="dic_example">luta doven — очень ленивый</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">luta fattig — страшно бедный</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">luta lei — предельно скучный</span></p></strong></div>
+<div style="margin-left:5px"><strong><p><span class="dic_example">luta doven — очень ленивый
+<div style="margin-left:5px"><strong><p><span class="dic_example">luta fattig — страшно бедный
+<div style="margin-left:5px"><strong><p><span class="dic_example">luta lei — предельно скучный
 </sense>
 </entry>
 </superEntry>

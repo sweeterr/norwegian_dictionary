@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">bass</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>бас (голос, певец)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">synge bass — петь басом</span></p></strong></div>
+<sense> бас (голос, певец)
+<div style="margin-left:5px"><strong><p><span class="dic_example">synge bass — петь басом
 </sense>
-<sense> <span>басы, басовые ноты</span></div>
+<sense> басы, басовые ноты
 </sense>
-<sense> <u><span>pl</u> (обычно bassi) виолончели и контрабасы</span></div>
+<sense> <u>pl</u> (обычно bassi) виолончели и контрабасы
 </sense>
 </entry>
 </superEntry>

@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">frost</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>мороз, стужа, холод</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">frost binder vannet — мороз сковывает озеро</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha frost i hendene (fingrene) — отморозить руки (пальцы)</span></p></strong></div>
+<sense> мороз, стужа, холод
+<div style="margin-left:5px"><strong><p><span class="dic_example">frost binder vannet — мороз сковывает озеро
+<div style="margin-left:5px"><strong><p><span class="dic_example">ha frost i hendene (fingrene) — отморозить руки (пальцы)
 </sense>
-<sense> <span>озноб</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">har du frost? — тебя знобит?</span></p></strong></div>
+<sense> озноб
+<div style="margin-left:5px"><strong><p><span class="dic_example">har du frost? — тебя знобит?
 </sense>
 </entry>
 </superEntry>

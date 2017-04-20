@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">vits</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>острое замечание, острота, шутка</span></div>
+<sense> острое замечание, острота, шутка
 </sense>
-<sense> <u><span>разг.</u> суть, смысл</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er noen vits i det — в этом есть известный смысл</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ingen vits i det — в этом нет никакого смысла</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">vitsen ved det hele ... — суть всего этого (в том, что ...)</span></p></strong></div>
+<sense> <u>разг.</u> суть, смысл
+<div style="margin-left:5px"><strong><p><span class="dic_example">det er noen vits i det — в этом есть известный смысл
+<div style="margin-left:5px"><strong><p><span class="dic_example">det er ingen vits i det — в этом нет никакого смысла
+<div style="margin-left:5px"><strong><p><span class="dic_example">vitsen ved det hele ... — суть всего этого (в том, что ...)
 </sense>
 </entry>
 </superEntry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">vanmakt</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> <span>обморок</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">falle i vanmakt — упасть в обморок, лишиться чувств</span></p></strong></div>
+<sense> обморок
+<div style="margin-left:5px"><strong><p><span class="dic_example">falle i vanmakt — упасть в обморок, лишиться чувств
 </sense>
-<sense> <span>слабость, бессилие</span></div>
+<sense> слабость, бессилие
 </sense>
 </entry>
 </superEntry>

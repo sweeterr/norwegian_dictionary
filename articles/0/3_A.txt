@@ -4,53 +4,53 @@
 <index></index>
 <form>
 <orth type="lemma">A</orth>
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
 </form>
-<sense> <span>первая буква норвежского алфавита</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">har man (en) sagt a, får (må) man (en) si b – кто сказал А, должен сказать и Б; взялся за гуж, не говори, что не дюж</span></p></strong></div>
+<sense> первая буква норвежского алфавита
+<div style="margin-left:5px"><strong><p><span class="dic_example">har man (en) sagt a, får (må) man (en) si b – кто сказал А, должен сказать и Б; взялся за гуж, не говори, что не дюж
 </sense>
-<sense> <u><span>муз.</u> ля (нота)</span></div>
+<sense> <u>муз.</u> ля (нота)
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">A</orth>
-<u>pron</u> <u>диал.</u></div>
+<u>pron</u> <u>диал.</u>
 </form>
-<sense> <span>она, её</span></div>
+<sense> она, её
 </sense>
-<sense> <span>его</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">A</orth>
-<u>prep</u></div>
-<div><span>указывает на предел, верхнюю границу в количестве, числе (от) до</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre a fire år — от трёх до четырёх лет</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fem a seks kroner — пять-шесть крон</span></p></strong></div>
+<sense> его
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">A</orth>
-<u>int</u></div>
-<div><span>выражает удивление, смятение, испуг</span></div>
-<div><span>а!, о!, ну!</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">a ja da! — ах, ну конечно!</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">a nei! — да нет же!</span></p></strong></div>
+<u>prep</u>
+<div>указывает на предел, верхнюю границу в количестве, числе (от) до
+<div style="margin-left:5px"><strong><p><span class="dic_example">tre a fire år — от трёх до четырёх лет
+<div style="margin-left:5px"><strong><p><span class="dic_example">fem a seks kroner — пять-шесть крон
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">A</orth>
-<u>int</u> <u>разг.</u></div>
-<div><span>выражает раздражение, огорчение говорящего в отношении себя самого:</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">isj a meg! — чтоб тебе пусто было! (про самого себя)</span></p></strong></div>
+<u>int</u>
+<div>выражает удивление, смятение, испуг
+<div>а!, о!, ну!
+<div style="margin-left:5px"><strong><p><span class="dic_example">a ja da! — ах, ну конечно!
+<div style="margin-left:5px"><strong><p><span class="dic_example">a nei! — да нет же!
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">A</orth>
+<u>int</u> <u>разг.</u>
+<div>выражает раздражение, огорчение говорящего в отношении себя самого:
+<div style="margin-left:5px"><strong><p><span class="dic_example">isj a meg! — чтоб тебе пусто было! (про самого себя)
 </sense>
 </entry>
 </superEntry>

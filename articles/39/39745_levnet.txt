@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">levnet</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-et</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-et</em>
 </form>
-<sense> <span>образ жизни, быт</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">liv og levnet — житьё-бытьё</span></p></strong></div>
+<sense> образ жизни, быт
+<div style="margin-left:5px"><strong><p><span class="dic_example">liv og levnet — житьё-бытьё
 </sense>
-<sense> <span>жизнеописание, биография</span></div>
+<sense> жизнеописание, биография
 </sense>
 </entry>
 </superEntry>

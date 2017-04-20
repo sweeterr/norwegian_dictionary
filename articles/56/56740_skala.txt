@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">skala</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>шкала, масштаб, размер</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">glidende skala — скользящая шкала</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i stigende skala — во всё возрастающей степени</span></p></strong></div>
+<sense> шкала, масштаб, размер
+<div style="margin-left:5px"><strong><p><span class="dic_example">glidende skala — скользящая шкала
+<div style="margin-left:5px"><strong><p><span class="dic_example">i stigende skala — во всё возрастающей степени
 </sense>
-<sense> <u><span>муз.</u> гамма</span></div>
+<sense> <u>муз.</u> гамма
 </sense>
-<sense> <u><span>физ.</u> спектр</span></div>
+<sense> <u>физ.</u> спектр
 </sense>
 </entry>
 </superEntry>

@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">frist</orth>
-<div><em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<div><em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>срок</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">siste frist — последний срок</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fristen utløper den 1. juni — срок истекает 1 июня</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">frist er ute — срок кончился (истёк)</span></p></strong></div>
+<sense> срок
+<div style="margin-left:5px"><strong><p><span class="dic_example">siste frist — последний срок
+<div style="margin-left:5px"><strong><p><span class="dic_example">fristen utløper den 1. juni — срок истекает 1 июня
+<div style="margin-left:5px"><strong><p><span class="dic_example">frist er ute — срок кончился (истёк)
 </sense>
-<sense> <span>отсрочка</span></div>
+<sense> отсрочка
 </sense>
 </entry>
 </superEntry>

@@ -4,49 +4,49 @@
 <index></index>
 <form>
 <orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">gjaldt (galdt), gjeldt</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">gjaldt (galdt), gjeldt</em>
 </form>
-<sense> <span>касаться чего-л., затрагивать (вопрос, проблему)</span></div>
+<sense> касаться чего-л., затрагивать (вопрос, проблему)
 </sense>
-<sense> <span>иметь силу, действовать (о законе; платёжном средстве)</span></div>
+<sense> иметь силу, действовать (о законе; платёжном средстве)
 </sense>
-<sense> <span>быть в ходу, в обращении (о деньгах)</span></div>
+<sense> быть в ходу, в обращении (о деньгах)
 </sense>
-<sense> <span>быть действительным (о документе)</span></div>
+<sense> быть действительным (о документе)
 </sense>
-<sense> <span>иметь вес (о людях, мнениях), быть в силе</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre seg gjeldende — заставить считаться с собой, проявить свою силу</span></p></strong></div>
+<sense> иметь вес (о людях, мнениях), быть в силе
+<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre seg gjeldende — заставить считаться с собой, проявить свою силу
 </sense>
-<sense> <span>слыть, считаться (кем-л. -for)</span></div>
+<sense> слыть, считаться (кем-л. -for)
 </sense>
-<sense> <span>в безличном обороте:</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder, <u>разг.</u> det gjeldes — нужно, надлежит (сделать что-л.)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder ikke (<u>разг.</u> det gjeldes ikke) — нельзя, не разрешается</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder om :</span></p></strong></div>
-<div><span>а) речь идёт о, дело идёт о</span></div>
-<div><span>б) это зависит от</span></div>
-<div><span>в) это касается</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder Dem — это касается вас</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">nå gjelder det (+ инфинитив) — а теперь предстоит сделать (+ инфинитив)</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder liv eller død — дело идёт о жизни или смерти</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">når det gjelder — когда дело идёт о чём-л ...</span></p></strong></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva det gjelder — что касается чего-л ...</span></p></strong></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</span></span></em></div>
-<div><u>уст.</u> <span>платить, выплачивать</span></div>
+<sense> в безличном обороте:
+<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder, <u>разг.</u> det gjeldes — нужно, надлежит (сделать что-л.)
+<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder ikke (<u>разг.</u> det gjeldes ikke) — нельзя, не разрешается
+<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder om :
+<div>а) речь идёт о, дело идёт о
+<div>б) это зависит от
+<div>в) это касается
+<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder Dem — это касается вас
+<div style="margin-left:5px"><strong><p><span class="dic_example">nå gjelder det (+ инфинитив) — а теперь предстоит сделать (+ инфинитив)
+<div style="margin-left:5px"><strong><p><span class="dic_example">det gjelder liv eller død — дело идёт о жизни или смерти
+<div style="margin-left:5px"><strong><p><span class="dic_example">når det gjelder — когда дело идёт о чём-л ...
+<div style="margin-left:5px"><strong><p><span class="dic_example">hva det gjelder — что касается чего-л ...
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</span></span></em></div>
-<div><span>кастрировать, холостить</span></div>
+<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<div><u>уст.</u> платить, выплачивать
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">gjelde</orth>
+<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<div>кастрировать, холостить
 </sense>
 </entry>
 </superEntry>

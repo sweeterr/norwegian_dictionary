@@ -4,30 +4,30 @@
 <index></index>
 <form>
 <orth type="lemma">klamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</span></span></em></div>
+<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> <span>обрубок дерева, кусок железа</span></div>
+<sense> обрубок дерева, кусок железа
 </sense>
-<sense> <span>путы (на ноги лошадям)</span></div>
-<div style="margin-left:5px"><strong><p><span class="dic_example">virke (være) som en klamp — мешать, препятствовать, тормозить</span></p></strong></div>
+<sense> путы (на ноги лошадям)
+<div style="margin-left:5px"><strong><p><span class="dic_example">virke (være) som en klamp — мешать, препятствовать, тормозить
 </sense>
-<sense> <u><span>перен.</u> грузный человек</span></div>
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">klamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</span></span></em></div>
-<div><span>стук</span></div>
+<sense> <u>перен.</u> грузный человек
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">klamp</orth>
-<u>int</u></div>
-<div><span>бух!, бах!</span></div>
+<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<div>стук
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">klamp</orth>
+<u>int</u>
+<div>бух!, бах!
 </sense>
 </entry>
 </superEntry>
