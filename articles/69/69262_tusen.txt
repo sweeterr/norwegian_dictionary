@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">tusen</orth>
 <em><span class="dic_color"><span class="dic_comment">|'tu:sn|</em>
-<div><u>num</u>
-<div>тысяча
+<u>num</u>
+тысяча
 <div style="margin-left:5px"><strong><p><span class="dic_example">stort tusen — <u>диал.</u> тысяча двести
 <div style="margin-left:5px"><strong><p><span class="dic_example">titalls tusen — десятки тысяч
 </sense>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">tusen</orth>
 <em><span class="dic_color"><span class="dic_comment">|'tu:sn|</em>
-<div><u>adv</u>
+<u>adv</u>
 <div style="margin-left:5px"><u><strong><p><span class="dic_example">разг.</u> tusen umulig — совершенно невозможно
 </sense>
 </entry>
