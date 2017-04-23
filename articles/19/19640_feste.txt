@@ -6,24 +6,17 @@
 <orth type="lemma">feste</orth>
 <em><span class="dic_color"><span class="dic_comment">-t, -r</em>
 </form>
-<sense> опора
+<sense>
+опора
 </sense>
-<sense> эфес, ручка (холодного оружия)
+<sense>
+эфес, ручка (холодного оружия)
 </sense>
-<sense> <u>ист.</u> крепость
+<sense>
+<u>ист.</u> крепость
 </sense>
-<sense> <u>мор.</u> швартов, причальный конец
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">feste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-</form>
-<sense> праздновать, справлять праздник
-</sense>
-<sense> кутить, пировать
+<sense>
+<u>мор.</u> швартов, причальный конец
 </sense>
 </entry>
 <entry>
@@ -32,15 +25,33 @@
 <orth type="lemma">feste</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 </form>
-<sense> прикреплять, прибивать
+<sense>
+праздновать, справлять праздник
 </sense>
-<sense> закреплять
+<sense>
+кутить, пировать
 </sense>
-<sense> приковывать, привлекать (взгляд, внимание)
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">feste</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+</form>
+<sense>
+прикреплять, прибивать
 </sense>
-<sense> <u>диал.</u> обручиться с кем-л.
+<sense>
+закреплять
 </sense>
-<sense> нанимать, законтрактовывать
+<sense>
+приковывать, привлекать (взгляд, внимание)
+</sense>
+<sense>
+<u>диал.</u> обручиться с кем-л.
+</sense>
+<sense>
+нанимать, законтрактовывать
 <div style="margin-left:5px"><strong><p><span class="dic_example">feste bort — сосватать (просватать) кого-л.
 </sense>
 </entry>

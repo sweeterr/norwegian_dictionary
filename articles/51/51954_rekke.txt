@@ -6,7 +6,8 @@
 <orth type="lemma">rekke</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 </form>
-<sense> ряд, вереница, серия, анфилада
+<sense>
+ряд, вереница, серия, анфилада
 <div style="margin-left:5px"><strong><p><span class="dic_example">en hel rekke — целый ряд
 <div style="margin-left:5px"><strong><p><span class="dic_example">en lang rekke — целый ряд, длинная вереница
 <div style="margin-left:5px"><strong><p><span class="dic_example">i rekke og rad — подряд
@@ -14,13 +15,16 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">i første rekke — в первую очередь
 <div style="margin-left:5px"><strong><p><span class="dic_example">komme sist i rekken — быть последним по счёту
 </sense>
-<sense> <u>мат.</u> ряд чисел
+<sense>
+<u>мат.</u> ряд чисел
 <div style="margin-left:5px"><strong><p><span class="dic_example">aritmetisk rekke — арифметический ряд
 <div style="margin-left:5px"><strong><p><span class="dic_example">geometrisk rekke — геометрический ряд
 </sense>
-<sense> <u>зоол.</u> класс
+<sense>
+<u>зоол.</u> класс
 </sense>
-<sense> <u>воен.</u> колонна по одному
+<sense>
+<u>воен.</u> колонна по одному
 <div style="margin-left:5px"><strong><p><span class="dic_example">i tettsluttede rekker — сомкнутыми рядами
 <div style="margin-left:5px"><strong><p><span class="dic_example">stille seg i rekke — построиться в колонну по одному
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå i første rekke — стоять в первом ряду
@@ -33,11 +37,13 @@
 <orth type="lemma">rekke</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 </form>
-<sense> <u>мор.</u> перила
+<sense>
+<u>мор.</u> перила
 <div style="margin-left:5px"><strong><p><span class="dic_example">over rekken — за борт, за бортом
 <div style="margin-left:5px"><strong><p><span class="dic_example">la noe gå over rekken — выбросить что-л. за борт
 </sense>
-<sense> решётчатая полка (для тарелок), перекладина для подвешивания чего-л.
+<sense>
+решётчатая полка (для тарелок), перекладина для подвешивания чего-л.
 </sense>
 </entry>
 <entry>
@@ -46,15 +52,20 @@
 <orth type="lemma">rekke</orth>
 <em><span class="dic_color"><span class="dic_comment">rakk (rakte), rukket</em>
 </form>
-<sense> доставать (до чего-л.), достигать, добираться, доходить, доезжать (тж. rekke fram)
+<sense>
+доставать (до чего-л.), достигать, добираться, доходить, доезжать (тж. rekke fram)
 </sense>
-<sense> попасть, успеть, прийти вовремя (на пароход, поезд)
+<sense>
+попасть, успеть, прийти вовремя (на пароход, поезд)
 </sense>
-<sense> успеть (сделать что-л.), управиться (с делами, работой)
+<sense>
+успеть (сделать что-л.), управиться (с делами, работой)
 </sense>
-<sense> хватать, быть достаточным (тж. rekke til)
+<sense>
+хватать, быть достаточным (тж. rekke til)
 </sense>
-<sense> тянуться, длиться
+<sense>
+тянуться, длиться
 <div style="margin-left:5px"><strong><p><span class="dic_example">det rakk mot slutt av — время приближалось к концу
 <div style="margin-left:5px"><strong><p><span class="dic_example">det varte og rakk — потребовалось много времени
 </sense>
@@ -65,11 +76,14 @@
 <orth type="lemma">rekke</orth>
 <em><span class="dic_color"><span class="dic_comment">rakte, rakt</em>
 </form>
-<sense> протягивать, вытягивать (руку)
+<sense>
+протягивать, вытягивать (руку)
 </sense>
-<sense> (по)тянуться (к кому, чему-л. - etter, mot, тж. rekke ut)
+<sense>
+(по)тянуться (к кому, чему-л. - etter, mot, тж. rekke ut)
 </sense>
-<sense> передавать, протянуть (что-л. кому-л.)
+<sense>
+передавать, протянуть (что-л. кому-л.)
 </sense>
 </entry>
 <entry>
@@ -87,9 +101,11 @@
 <em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
 <u>диал.</u>
 </form>
-<sense> идти один за другим (вереницей, гуськом)
+<sense>
+идти один за другим (вереницей, гуськом)
 </sense>
-<sense> располагаться по порядку
+<sense>
+располагаться по порядку
 </sense>
 </entry>
 </superEntry>

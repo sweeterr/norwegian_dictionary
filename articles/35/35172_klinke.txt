@@ -6,22 +6,11 @@
 <orth type="lemma">klinke</orth>
 <em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
 </form>
-<sense> щеколда (на двери)
+<sense>
+щеколда (на двери)
 </sense>
-<sense> дверная ручка
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">klinke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-</form>
-<sense> звякать, ударяться со звоном
-</sense>
-<sense> чокаться (с кем-л. - med)
-</sense>
-<sense> бросать шарики или монету об стенку (детская игра)
+<sense>
+дверная ручка
 </sense>
 </entry>
 <entry>
@@ -30,11 +19,30 @@
 <orth type="lemma">klinke</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 </form>
-<sense> расклёпывать (заклёпку), делать головку на заклёпке
+<sense>
+звякать, ударяться со звоном
 </sense>
-<sense> клепать, склёпывать, соединять заклёпками (о предметах)
+<sense>
+чокаться (с кем-л. - med)
 </sense>
-<sense> разбить вдребезги
+<sense>
+бросать шарики или монету об стенку (детская игра)
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">klinke</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+</form>
+<sense>
+расклёпывать (заклёпку), делать головку на заклёпке
+</sense>
+<sense>
+клепать, склёпывать, соединять заклёпками (о предметах)
+</sense>
+<sense>
+разбить вдребезги
 <div style="margin-left:5px"><strong><p><span class="dic_example">klinke av — отклепать
 <div style="margin-left:5px"><strong><p><span class="dic_example">klinke fast — заклёпывать
 <div style="margin-left:5px"><strong><p><span class="dic_example">klinke på — делать заклёпку

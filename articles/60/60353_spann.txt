@@ -6,20 +6,11 @@
 <orth type="lemma">spann</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 </form>
-<sense> бадья, ведро
+<sense>
+бадья, ведро
 </sense>
-<sense> спан (старинная мера сыпучих тел =9 кг)
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">spann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
-</form>
-<sense> упряжка лошадей (собак, оленей)
-</sense>
-<sense> упряжь
+<sense>
+спан (старинная мера сыпучих тел =9 кг)
 </sense>
 </entry>
 <entry>
@@ -28,9 +19,24 @@
 <orth type="lemma">spann</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 </form>
-<sense> пядь (мера длины, равная расстоянию между вытянутыми большим пальцем и мизинцем руки)
+<sense>
+упряжка лошадей (собак, оленей)
 </sense>
-<sense> короткий промежуток времени
+<sense>
+упряжь
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">spann</orth>
+<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+</form>
+<sense>
+пядь (мера длины, равная расстоянию между вытянутыми большим пальцем и мизинцем руки)
+</sense>
+<sense>
+короткий промежуток времени
 </sense>
 </entry><entry>
 <index></index>

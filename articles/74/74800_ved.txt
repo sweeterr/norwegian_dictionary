@@ -6,13 +6,15 @@
 <orth type="lemma">ved</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 </form>
-<sense> дрова
+<sense>
+дрова
 <div style="margin-left:5px"><strong><p><span class="dic_example">et fang ved — охапка дров
 <div style="margin-left:5px"><strong><p><span class="dic_example">hugge ved — рубить дрова
 <div style="margin-left:5px"><strong><p><span class="dic_example">kjøre ved — возить дрова
 <div style="margin-left:5px"><strong><p><span class="dic_example">lø ved — складывать дрова
 </sense>
-<sense> древесина, лесоматериал
+<sense>
+древесина, лесоматериал
 <div style="margin-left:5px"><strong><p><span class="dic_example">løs ved — пористая (рыхлая) древесина
 <div style="margin-left:5px"><strong><p><span class="dic_example">kaste seg i veden — сесть на дерево (о птице)
 <div style="margin-left:5px"><strong><p><span class="dic_example">sitte i veden — сидеть на дереве (о птице)
@@ -25,7 +27,8 @@
 <orth type="lemma">ved</orth>
 <u>prep</u>
 </form>
-<sense> в пространственном значении указывает на:
+<sense>
+в пространственном значении указывает на:
 а) положение одного предмета вблизи другого, у, около, возле
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved ens høyre hånd — по правую руку
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved ens side — рядом с кем-л.
@@ -40,7 +43,8 @@
 г) движение к предмету, в, к, на, за
 <div style="margin-left:5px"><strong><p><span class="dic_example">sette seg ved bordet (peisen, vinduet) — садиться (сесть) за стол (к печке, к окну)
 </sense>
-<sense> во временном значении указывает на:
+<sense>
+во временном значении указывает на:
 а) время действия; иногда переводится наречием:
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved daggry — на рассвете
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved nattetid — ночью
@@ -49,28 +53,34 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved kveld — к вечеру
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved sjutiden — около семи часов
 </sense>
-<sense> указывает на орудие, средство, с помощью которого произведено действие, переводится творительным падежом существительного без предлога:
+<sense>
+указывает на орудие, средство, с помощью которого произведено действие, переводится творительным падежом существительного без предлога:
 <div style="margin-left:5px"><strong><p><span class="dic_example">han ble dødet ved sverd — он был убит мечом
 </sense>
-<sense> указывает на характер совершения действия, переводится чаще всего наречием:
+<sense>
+указывает на характер совершения действия, переводится чаще всего наречием:
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved hjelp av — с помощью
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved lys (lampelys) — при свете свечи (лампы)
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved synet av — при виде
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved et tilfelle — случайно, по случаю
 </sense>
-<sense> указывает на пребывание в определённом настроении, психическом состоянии и т. п.:
+<sense>
+указывает на пребывание в определённом настроении, психическом состоянии и т. п.:
 <div style="margin-left:5px"><strong><p><span class="dic_example">være ikke ved sine fulle fem — быть не в своём уме
 <div style="margin-left:5px"><strong><p><span class="dic_example">være ved godt mot — быть в хорошем расположении духа
 </sense>
-<sense> указывает на характерную черту, качество, свойство:
+<sense>
+указывает на характерную черту, качество, свойство:
 <div style="margin-left:5px"><strong><p><span class="dic_example">det peneste ved henne er øynene — самое красивое в ней - глаза
 <div style="margin-left:5px"><strong><p><span class="dic_example">det er noe lokkende ved ham — в нём есть что-то привлекательное
 </sense>
-<sense> указывает на причину, вызвавшую данное действие, от, из-за (с родительным падежом); при (с предложным падежом)
+<sense>
+указывает на причину, вызвавшую данное действие, от, из-за (с родительным падежом); при (с предложным падежом)
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved uforsiktighet — из-за неосторожности
 <div style="margin-left:5px"><strong><p><span class="dic_example">ved den tanke — при этой мысли
 </sense>
-<sense> указывает на автора произведения, пьесы и т. п., переводится родительным или творительным падежом фамилии автора:
+<sense>
+указывает на автора произведения, пьесы и т. п., переводится родительным или творительным падежом фамилии автора:
 <div style="margin-left:5px"><strong><p><span class="dic_example">«Peer Gynt» ved Henrik Ibsen — «Пер Гюнт» Генрика Ибсена
 </sense>
 </entry>

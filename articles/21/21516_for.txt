@@ -7,9 +7,11 @@
 fôr
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 </form>
-<sense> фураж, корм для скота
+<sense>
+фураж, корм для скота
 </sense>
-<sense> порция корма скоту (на один раз)
+<sense>
+порция корма скоту (на один раз)
 </sense>
 </entry>
 <entry>
@@ -18,11 +20,14 @@ fôr
 <orth type="lemma">for</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 </form>
-<sense> футляр
+<sense>
+футляр
 </sense>
-<sense> подкладка (в платье)
+<sense>
+подкладка (в платье)
 </sense>
-<sense> <u>тех.</u> облицовка, защитный слой чего-л.
+<sense>
+<u>тех.</u> облицовка, защитный слой чего-л.
 </sense>
 </entry>
 <entry>
@@ -38,10 +43,12 @@ fôr
 <orth type="lemma">for</orth>
 <u>adv</u>
 </form>
-<sense> впереди
+<sense>
+впереди
 <div style="margin-left:5px"><strong><p><span class="dic_example">fra for til akter — <u>мор.</u> спереди назад, от носа до кормы
 </sense>
-<sense> слишком, чересчур (ср. altfor)
+<sense>
+слишком, чересчур (ср. altfor)
 <div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke annet for — другого выбора нет
 </sense>
 </entry>
@@ -51,11 +58,13 @@ fôr
 <orth type="lemma">for</orth>
 <u>prep</u>
 </form>
-<sense> указывает на цель, назначение, намерение, для, за, ради, с инфинитивом переводится придаточным предложением цели:
+<sense>
+указывает на цель, назначение, намерение, для, за, ради, с инфинитивом переводится придаточным предложением цели:
 <div style="margin-left:5px"><strong><p><span class="dic_example">gjør det for meg — сделай это для (ради) меня
 <div style="margin-left:5px"><strong><p><span class="dic_example">han reiste til Oslo for å snakke med henne — он поехал в Осло, чтобы поговорить с ней
 </sense>
-<sense> в пространственном значении указывает на:
+<sense>
+в пространственном значении указывает на:
 а) положение в отношении стран света от:
 <div style="margin-left:5px"><strong><p><span class="dic_example">vest for Oslo — к западу от Осло
 <div style="margin-left:5px"><strong><p><span class="dic_example">øst for Trondheim — к востоку от Тронхейма
@@ -65,7 +74,8 @@ fôr
 в) людей, в присутствии которых совершается действие, перед:
 <div style="margin-left:5px"><strong><p><span class="dic_example">tale for en forsamling — выступать перед собранием
 </sense>
-<sense> во временном значении указывает на:
+<sense>
+во временном значении указывает на:
 а) предшествование чему-л. (обычно в сочетании с siden), за, тому назад:
 <div style="margin-left:5px"><strong><p><span class="dic_example">for tre år siden — три года тому назад, за три года до этого
 <div style="margin-left:5px"><strong><p><span class="dic_example">for ikke så lenge siden — недавно
@@ -74,39 +84,47 @@ fôr
 <div style="margin-left:5px"><strong><p><span class="dic_example">for bestandig — на всё время, навсегда
 <div style="margin-left:5px"><strong><p><span class="dic_example">for en flyktig stund — на один миг
 </sense>
-<sense> указывает на причину, источник чего-л., от:
+<sense>
+указывает на причину, источник чего-л., от:
 <div style="margin-left:5px"><strong><p><span class="dic_example">for gråt (lengsel) — от слёз (тоски)
 <div style="margin-left:5px"><strong><p><span class="dic_example">ikke for annet — без иной причины
 <div style="margin-left:5px"><strong><p><span class="dic_example">for et godt ord — без серьёзной причины
 <div style="margin-left:5px"><strong><p><span class="dic_example">falle for sverdet — пасть (погибнуть) от меча
 </sense>
-<sense> указывает на отношение лица к кому, чему-л., к, о, в:
+<sense>
+указывает на отношение лица к кому, чему-л., к, о, в:
 <div style="margin-left:5px"><strong><p><span class="dic_example">sørge for én — заботиться о ком-л.
 <div style="margin-left:5px"><strong><p><span class="dic_example">føle aktelse (vennskap) for én — чувствовать уважение (дружбу) к кому-л.
 </sense>
-<sense> указывает на возмещение, замену, за, на:
+<sense>
+указывает на возмещение, замену, за, на:
 <div style="margin-left:5px"><strong><p><span class="dic_example">for fire kroner :
 а) за четыре кроны (стоимостью)
 б) на четыре кроны (товара)
 <div style="margin-left:5px"><strong><p><span class="dic_example">for penger — за деньги
 <div style="margin-left:5px"><strong><p><span class="dic_example">ikke for noen pris — ни за что, ни за какие деньги
 </sense>
-<sense> указывает на средство от чего-л., от:
+<sense>
+указывает на средство от чего-л., от:
 <div style="margin-left:5px"><strong><p><span class="dic_example">et godt middel for hodepine — хорошее средство от головной боли
 </sense>
-<sense> указывает на обвинение в каком-л. преступлении:
+<sense>
+указывает на обвинение в каком-л. преступлении:
 <div style="margin-left:5px"><strong><p><span class="dic_example">anklage for brudd på statens lov — обвинять в государственном преступлении
 </sense>
-<sense> указывает на физическое воздействие, в, по:
+<sense>
+указывает на физическое воздействие, в, по:
 <div style="margin-left:5px"><strong><p><span class="dic_example">støte én for hodet — ударить кого-л. по голове
 </sense>
-<sense> указывает на последовательность:
+<sense>
+указывает на последовательность:
 <div style="margin-left:5px"><strong><p><span class="dic_example">én for én — один за другим
 <div style="margin-left:5px"><strong><p><span class="dic_example">ord for ord — слово за словом
 <div style="margin-left:5px"><strong><p><span class="dic_example">skritt for skritt — шаг за шагом
 <div style="margin-left:5px"><strong><p><span class="dic_example">år for år — из году в год
 </sense>
-<sense> употребляется с местоимением hva?:
+<sense>
+употребляется с местоимением hva?:
 <div style="margin-left:5px"><strong><p><span class="dic_example">hva for noe? — что такое?, в чём дело?
 <div style="margin-left:5px"><strong><p><span class="dic_example">hva er det for noe? — что это за вещь?
 <div style="margin-left:5px"><strong><p><span class="dic_example">hva for et vær — что за (ну и) погода

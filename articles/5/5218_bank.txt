@@ -6,10 +6,12 @@
 <orth type="lemma">bank</orth>
 
 </form>
-<sense> <em><span class="dic_color"><span class="dic_comment">-et</em>
+<sense>
+<em><span class="dic_color"><span class="dic_comment">-et</em>
 стук
 </sense>
-<sense> <em><span class="dic_color"><span class="dic_comment">-en</em>
+<sense>
+<em><span class="dic_color"><span class="dic_comment">-en</em>
 побои, порка
 <div style="margin-left:5px"><strong><p><span class="dic_example">gi bank — колотить, избивать
 <div style="margin-left:5px"><strong><p><span class="dic_example">få bank — быть побитым, получить побои (порку)
@@ -21,12 +23,15 @@
 <orth type="lemma">bank</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> банк, сберегательная касса
+<sense>
+банк, сберегательная касса
 <div style="margin-left:5px"><strong><p><span class="dic_example">sette penger i banken — положить деньги в банк (в сберегательную кассу)
 </sense>
-<sense> здание банка (сберегательной кассы)
+<sense>
+здание банка (сберегательной кассы)
 </sense>
-<sense> <u>карт.</u> банк, ставка
+<sense>
+<u>карт.</u> банк, ставка
 </sense>
 </entry>
 <entry>
@@ -43,9 +48,11 @@
 <orth type="lemma">bank</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 </form>
-<sense> мель, отмель
+<sense>
+мель, отмель
 </sense>
-<sense> гряда облаков
+<sense>
+гряда облаков
 </sense>
 </entry>
 </superEntry>
