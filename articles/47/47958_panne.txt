@@ -5,11 +5,11 @@
 <form>
 <orth type="lemma">panne</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a)</em> лоб
-<div style="margin-left:5px"><strong><p><span class="dic_example">rynke panne — хмурить лоб
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte sin panne med noe — <lbl>перен.</lbl> ломать себе голову над чем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha en hård panne — быть твердолобым (тупым)
-<div style="margin-left:5px"><strong><p><span class="dic_example">løpe (renne) pannen mot veggen — <lbl>перен.</lbl> биться головой об стену
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte seg en kule for pannen — пустить себе пулю в лоб
+<сit type="example"><text>rynke panne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хмурить лоб</text></cit></cit>
+<сit type="example"><text>bryte sin panne med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> ломать себе голову над чем-л.</text></cit></cit>
+<сit type="example"><text>ha en hård panne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть твердолобым (тупым)</text></cit></cit>
+<сit type="example"><text>løpe (renne) pannen mot veggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> биться головой об стену</text></cit></cit>
+<сit type="example"><text>skyte seg en kule for pannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пустить себе пулю в лоб</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">ha be(i)n i pannen :
 <сit type = "example"><text>ha be(i)n i pannen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> иметь сильную волю</text></cit></cit>
 <сit type = "example"><text>ha be(i)n i pannen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> забрать (вбить) себе в голову</text></cit></cit>
@@ -26,7 +26,7 @@
 </sense>
 <sense>
 чан, бак
-<div style="margin-left:5px"><strong><p><span class="dic_example">være pott og panne — быть мастером на все руки
+<сit type="example"><text>være pott og panne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть мастером на все руки</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

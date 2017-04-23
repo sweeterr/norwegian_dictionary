@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">Babel</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">Babels tårn — Вавилонская башня
+<сit type="example"><text>Babels tårn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Вавилонская башня</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

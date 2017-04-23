@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">kaputt</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) kaputt — испортиться, прийти в негодность
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre kaputt — испортить, вывести из строя
+<сit type="example"><text>bli (være) kaputt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испортиться, прийти в негодность</text></cit></cit>
+<сit type="example"><text>gjøre kaputt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испортить, вывести из строя</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

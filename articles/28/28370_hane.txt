@@ -8,10 +8,10 @@
 </form>
 <sense>
 петух
-<div style="margin-left:5px"><strong><p><span class="dic_example">den røde hane — <lbl>эвф.</lbl> красный петух (пожар)
-<div style="margin-left:5px"><strong><p><span class="dic_example">den røde hane galer — горит, пожар свирепствует
-<div style="margin-left:5px"><strong><p><span class="dic_example">før hanen — до рассвета
-<div style="margin-left:5px"><strong><p><span class="dic_example">være den eneste hane i kurven — <lbl>разг.</lbl> быть единственным мужчиной в дамском обществе
+<сit type="example"><text>den røde hane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>эвф.</lbl> красный петух (пожар)</text></cit></cit>
+<сit type="example"><text>den røde hane galer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горит, пожар свирепствует</text></cit></cit>
+<сit type="example"><text>før hanen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до рассвета</text></cit></cit>
+<сit type="example"><text>være den eneste hane i kurven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть единственным мужчиной в дамском обществе</text></cit></cit>
 </sense>
 <sense>
 флюгер
@@ -21,7 +21,7 @@
 </sense>
 <sense>
 <u>воен.</u> курок (у винтовки)
-<div style="margin-left:5px"><strong><p><span class="dic_example">spenne hanen — взвести курок
+<сit type="example"><text>spenne hanen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взвести курок</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

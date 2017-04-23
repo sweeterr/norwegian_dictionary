@@ -8,11 +8,11 @@
 </form>
 <sense>
 груз(ы)
-<div style="margin-left:5px"><strong><p><span class="dic_example">brekke (bryte, ta hull på) lasten — разгружать (судно)
-<div style="margin-left:5px"><strong><p><span class="dic_example">flyte på lasten — держаться на воде благодаря нетонущему грузу (о тонущем судне)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste lasten — сдвигаться на одну сторону (о грузе во время крена судна)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stue lasten — грузить (судно)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta inn last — принимать груз
+<сit type="example"><text>brekke (bryte, ta hull på) lasten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разгружать (судно)</text></cit></cit>
+<сit type="example"><text>flyte på lasten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться на воде благодаря нетонущему грузу (о тонущем судне)</text></cit></cit>
+<сit type="example"><text>kaste lasten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдвигаться на одну сторону (о грузе во время крена судна)</text></cit></cit>
+<сit type="example"><text>stue lasten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грузить (судно)</text></cit></cit>
+<сit type="example"><text>ta inn last</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать груз</text></cit></cit>
 </sense>
 <sense>
 погрузка
@@ -28,8 +28,8 @@
 </sense>
 <sense>
 <u>уст.</u> бремя, тягость
-<div style="margin-left:5px"><strong><p><span class="dic_example">falle (ligge) én til last — быть в тягость кому-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge (regne) én noe til last — ставить кому-л. что-л. в вину
+<сit type="example"><text>falle (ligge) én til last</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в тягость кому-л.</text></cit></cit>
+<сit type="example"><text>legge (regne) én noe til last</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить кому-л. что-л. в вину</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -40,13 +40,13 @@
 </form>
 <sense>
 порок
-<div style="margin-left:5px"><strong><p><span class="dic_example">last og skara — стыд и позор
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge under for en last — поддаться пороку
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå last og brast (med Enenen) — стоять друг за друга до конца
+<сit type="example"><text>last og skara</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стыд и позор</text></cit></cit>
+<сit type="example"><text>ligge under for en last</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддаться пороку</text></cit></cit>
+<сit type="example"><text>stå last og brast (med Enenen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять друг за друга до конца</text></cit></cit>
 </sense>
 <sense>
 <u>диал.</u> упрёк, порицание
-<div style="margin-left:5px"><strong><p><span class="dic_example">få last for noe — получить упрёк за что-л.
+<сit type="example"><text>få last for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить упрёк за что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

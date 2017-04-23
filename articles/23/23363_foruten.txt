@@ -6,7 +6,7 @@
 <orth type="lemma">foruten</orth>
 <u>adv</u>
 кроме, помимо, исключая, не считая
-<div style="margin-left:5px"><strong><p><span class="dic_example">foruten at ... — кроме того, что ...
+<сit type="example"><text>foruten at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кроме того, что ...</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">foruten</orth>
 <u>prep</u>
 без
-<div style="margin-left:5px"><strong><p><span class="dic_example">være noe foruten — обходиться без чего-л.
+<сit type="example"><text>være noe foruten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обходиться без чего-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

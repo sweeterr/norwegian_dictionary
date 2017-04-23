@@ -8,9 +8,9 @@
 </form>
 <sense>
 имущество, собственность
-<div style="margin-left:5px"><strong><p><span class="dic_example">fast (urørlig) gods — недвижимое имущество
-<div style="margin-left:5px"><strong><p><span class="dic_example">rørlig gods — движимое имущество
-<div style="margin-left:5px"><strong><p><span class="dic_example">øde bort sitt gods — разориться
+<сit type="example"><text>fast (urørlig) gods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недвижимое имущество</text></cit></cit>
+<сit type="example"><text>rørlig gods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>движимое имущество</text></cit></cit>
+<сit type="example"><text>øde bort sitt gods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разориться</text></cit></cit>
 </sense>
 <sense>
 поместье, имение
@@ -23,8 +23,8 @@
 </sense>
 <sense>
 <u>мор.</u> такелаж
-<div style="margin-left:5px"><strong><p><span class="dic_example">løpende gods — бегучий такелаж
-<div style="margin-left:5px"><strong><p><span class="dic_example">lettere gods — литература лёгкого жанра
+<сit type="example"><text>løpende gods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бегучий такелаж</text></cit></cit>
+<сit type="example"><text>lettere gods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>литература лёгкого жанра</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

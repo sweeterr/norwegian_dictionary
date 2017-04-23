@@ -8,11 +8,11 @@
 </form>
 <sense>
 в своё время, иногда, время от времени, то и дело
-<div style="margin-left:5px"><strong><p><span class="dic_example">alt imellom — <lbl>уст.</lbl> то и дело
+<сit type="example"><text>alt imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> то и дело</text></cit></cit>
 </sense>
 <sense>
 между, посредине
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme imellom — встать на пути (мешать)
+<сit type="example"><text>komme imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встать на пути (мешать)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -26,8 +26,8 @@
 </sense>
 <sense>
 часто ставится после управляемых им слов:
-<div style="margin-left:5px"><strong><p><span class="dic_example">mann og mann imellom — между людьми
-<div style="margin-left:5px"><strong><p><span class="dic_example">midt imellom — и то и другое; и то и сё
+<сit type="example"><text>mann og mann imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>между людьми</text></cit></cit>
+<сit type="example"><text>midt imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и то и другое; и то и сё</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

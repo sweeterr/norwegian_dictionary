@@ -16,12 +16,12 @@
 </form>
 <sense>
 обмен
-<div style="margin-left:5px"><strong><p><span class="dic_example">i bytte for — в обмен на
-<div style="margin-left:5px"><strong><p><span class="dic_example">til bytte for — для обмена на
+<сit type="example"><text>i bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в обмен на</text></cit></cit>
+<сit type="example"><text>til bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для обмена на</text></cit></cit>
 </sense>
 <sense>
 добыча, трофеи, жертва (охоты)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) et bytte for — стать жертвой (добычей)
+<сit type="example"><text>bli (være) et bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать жертвой (добычей)</text></cit></cit>
 </sense>
 <sense>
 вещь, полученная в обмен на что-л.
@@ -50,9 +50,9 @@
 </sense>
 <sense>
 переставлять (буквы)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bytte bort — отдать в обмен, променять
-<div style="margin-left:5px"><strong><p><span class="dic_example">bytte inn (til segl — получить в обмен, выменять
-<div style="margin-left:5px"><strong><p><span class="dic_example">bytte ut — см. bytte bort
+<сit type="example"><text>bytte bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать в обмен, променять</text></cit></cit>
+<сit type="example"><text>bytte inn (til segl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить в обмен, выменять</text></cit></cit>
+<сit type="example"><text>bytte ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. bytte bort</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

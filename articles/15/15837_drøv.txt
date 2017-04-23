@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">drøv</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">tygge drøv — жевать жвачку
-<div style="margin-left:5px"><strong><p><span class="dic_example">tygge drøv på noe — без конца обсуждать одно и то же, жевать жвачку
+<сit type="example"><text>tygge drøv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жевать жвачку</text></cit></cit>
+<сit type="example"><text>tygge drøv på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без конца обсуждать одно и то же, жевать жвачку</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

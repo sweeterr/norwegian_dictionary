@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">mas</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">knuse i mas — раздробить на мелкие части
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke i mas — разварить(ся)
+<сit type="example"><text>knuse i mas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздробить на мелкие части</text></cit></cit>
+<сit type="example"><text>koke i mas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разварить(ся)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,8 +15,8 @@
 <orth type="lemma">mas</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 <u>разг.</u> хлопоты, усилия, старания
-<div style="margin-left:5px"><strong><p><span class="dic_example">med stort mas — с большим трудом
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha stort mas — много хлопотать
+<сit type="example"><text>med stort mas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с большим трудом</text></cit></cit>
+<сit type="example"><text>ha stort mas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>много хлопотать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

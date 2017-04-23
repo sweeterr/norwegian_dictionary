@@ -6,9 +6,9 @@
 <orth type="lemma">slik</orth>
 <u>pron</u> <em><span class="dic_color"><span class="dic_comment">(n slikt, <u>pl</u> slike)</em>
 такой, такая (такое, такие), подобный, подобная (подобное, подобные)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg tror du er slik — <lbl>разг.</lbl> я думаю, что у тебя не все дома
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha slikt å gjøre — <lbl>диал.</lbl> быть свободным (незанятым); располагать своим временем
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er slik(t) slag — <lbl>диал.</lbl> совершенно безразлично; совершенно одно и то же
+<сit type="example"><text>jeg tror du er slik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> я думаю, что у тебя не все дома</text></cit></cit>
+<сit type="example"><text>ha slikt å gjøre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> быть свободным (незанятым); располагать своим временем</text></cit></cit>
+<сit type="example"><text>det er slik(t) slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> совершенно безразлично; совершенно одно и то же</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 </form>
 <sense>
 так, таким образом
-<div style="margin-left:5px"><strong><p><span class="dic_example">slik eller slik — так или иначе
+<сit type="example"><text>slik eller slik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так или иначе</text></cit></cit>
 </sense>
 <sense>
 в такой степени, настолько

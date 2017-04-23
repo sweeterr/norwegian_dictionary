@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">stummende</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stummende mørk (svart) — совершенно тёмный
-<div style="margin-left:5px"><strong><p><span class="dic_example">stummende mørke — тьма кромешная
+<сit type="example"><text>stummende mørk (svart)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно тёмный</text></cit></cit>
+<сit type="example"><text>stummende mørke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тьма кромешная</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

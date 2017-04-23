@@ -8,28 +8,28 @@
 </form>
 <sense>
 свежий
-<div style="margin-left:5px"><strong><p><span class="dic_example">friskt fra fatet — прямо из бочки (о пиве)
+<сit type="example"><text>friskt fra fatet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо из бочки (о пиве)</text></cit></cit>
 </sense>
 <sense>
 освежающий, бодрящий, укрепляющий (о воздухе, воде)
 </sense>
 <sense>
 <u>мор.</u> свежий (о ветре)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er frisk i dag — <lbl>разг.</lbl> сегодня дует свежий ветер
+<сit type="example"><text>han er frisk i dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> сегодня дует свежий ветер</text></cit></cit>
 </sense>
 <sense>
 новый (о месте)
-<div style="margin-left:5px"><strong><p><span class="dic_example">flytte til et friskt sted — переехать на новое место
+<сit type="example"><text>flytte til et friskt sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переехать на новое место</text></cit></cit>
 </sense>
 <sense>
 бодрый (о настроении, самочувствии)
 </sense>
 <sense>
 здоровый
-<div style="margin-left:5px"><strong><p><span class="dic_example">frisk og rask — здоровый и бодрый
-<div style="margin-left:5px"><strong><p><span class="dic_example">være riktig frisk — быть в здравом уме
-<div style="margin-left:5px"><strong><p><span class="dic_example">frisk og sund — совершенно здоровый
-<div style="margin-left:5px"><strong><p><span class="dic_example">frisk som en fisk — <lbl>погов.</lbl> свеж как огурчик
+<сit type="example"><text>frisk og rask</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый и бодрый</text></cit></cit>
+<сit type="example"><text>være riktig frisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в здравом уме</text></cit></cit>
+<сit type="example"><text>frisk og sund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно здоровый</text></cit></cit>
+<сit type="example"><text>frisk som en fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> свеж как огурчик</text></cit></cit>
 </sense>
 <sense>
 сочный, яркий (о красках)
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">frisk</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> på en (på ny) frisk — снова
+<сit type="example"><text> på en (på ny) frisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снова</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

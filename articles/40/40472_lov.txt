@@ -8,9 +8,9 @@
 </form>
 <sense>
 закон, законоположение
-<div style="margin-left:5px"><strong><p><span class="dic_example">internasjonal lov — международное право
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten lov og dom — без суда и следствия
-<div style="margin-left:5px"><strong><p><span class="dic_example">foreslå (sanksjonere, vedta) en lov — предлагать (утверждать, принимать) закон
+<сit type="example"><text>internasjonal lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>международное право</text></cit></cit>
+<сit type="example"><text>uten lov og dom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без суда и следствия</text></cit></cit>
+<сit type="example"><text>foreslå (sanksjonere, vedta) en lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предлагать (утверждать, принимать) закон</text></cit></cit>
 </sense>
 <sense>
 закономерность, закон
@@ -30,12 +30,12 @@
 </form>
 <sense>
 разрешение
-<div style="margin-left:5px"><strong><p><span class="dic_example">på egen lov — на свой страх и риск
-<div style="margin-left:5px"><strong><p><span class="dic_example">be om lov — просить разрешения (на что-л. - til)
-<div style="margin-left:5px"><strong><p><span class="dic_example">få lovtil noe — получить разрешение
-<div style="margin-left:5px"><strong><p><span class="dic_example">får jeg lov — разрешите ..., можно ...?
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi lov — дать разрешение
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg tar meg lov til å ... — я позволю себе ...
+<сit type="example"><text>på egen lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на свой страх и риск</text></cit></cit>
+<сit type="example"><text>be om lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просить разрешения (на что-л. - til)</text></cit></cit>
+<сit type="example"><text>få lovtil noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить разрешение</text></cit></cit>
+<сit type="example"><text>får jeg lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разрешите ..., можно ...?</text></cit></cit>
+<сit type="example"><text>gi lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать разрешение</text></cit></cit>
+<сit type="example"><text>jeg tar meg lov til å ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я позволю себе ...</text></cit></cit>
 </sense>
 <sense>
 отпуск, выходной день, разрешение не являться (в школу, на работу)
@@ -57,8 +57,8 @@ få (gi) lov på получить (дать) обещание
 <orth type="lemma">lov</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
 похвала
-<div style="margin-left:5px"><strong><p><span class="dic_example">gud skje lov! — слава богу!
-<div style="margin-left:5px"><strong><p><span class="dic_example">lov og ære — честь и хвала
+<сit type="example"><text>gud skje lov!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слава богу!</text></cit></cit>
+<сit type="example"><text>lov og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честь и хвала</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">mest</orth>
- <u>adv</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> meget <strong>II
+<u>adv</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> meget <strong>II
 </form>
 <sense>
 большей частью, по большей части
@@ -25,9 +25,9 @@
 </sense>
 <sense>
 служит для образования превосходной степени некоторых прилагательных самый
-<div style="margin-left:5px"><strong><p><span class="dic_example">den mest ulykkelige mann — самый несчастный (наинесчастнейший) человек
-<div style="margin-left:5px"><strong><p><span class="dic_example">aller mest — прежде всего
-<div style="margin-left:5px"><strong><p><span class="dic_example">mest mulig — по возможности
+<сit type="example"><text>den mest ulykkelige mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самый несчастный (наинесчастнейший) человек</text></cit></cit>
+<сit type="example"><text>aller mest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прежде всего</text></cit></cit>
+<сit type="example"><text>mest mulig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по возможности</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

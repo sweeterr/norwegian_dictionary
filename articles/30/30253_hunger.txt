@@ -8,9 +8,9 @@
 </form>
 <sense>
 голод
-<div style="margin-left:5px"><strong><p><span class="dic_example">lide hunger — голодать, страдать от голода
-<div style="margin-left:5px"><strong><p><span class="dic_example">stille ens hunger — утолять голод
-<div style="margin-left:5px"><strong><p><span class="dic_example">hunger er den beste kokk — <lbl>погов.</lbl> голод - лучший повар
+<сit type="example"><text>lide hunger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голодать, страдать от голода</text></cit></cit>
+<сit type="example"><text>stille ens hunger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утолять голод</text></cit></cit>
+<сit type="example"><text>hunger er den beste kokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> голод - лучший повар</text></cit></cit>
 </sense>
 <sense>
 сильное желание, жажда (чего-л.)

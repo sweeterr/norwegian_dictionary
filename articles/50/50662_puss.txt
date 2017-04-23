@@ -8,7 +8,7 @@
 </form>
 <sense>
 наряд, украшение
-<div style="margin-left:5px"><strong><p><span class="dic_example">i full puss — в полном блеске
+<сit type="example"><text>i full puss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полном блеске</text></cit></cit>
 </sense>
 <sense>
 штукатурка
@@ -28,7 +28,7 @@
 <orth type="lemma">puss</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 шутка, проделка, трюк
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre (spille) én et puss — сыграть шутку с кем-л.
+<сit type="example"><text>gjøre (spille) én et puss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть шутку с кем-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -36,7 +36,7 @@
 <form>
 <orth type="lemma">puss</orth>
 <u>int</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">puss, ta 'n! — взять его! (приказание собаке)
+<сit type="example"><text>puss, ta 'n!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять его! (приказание собаке)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

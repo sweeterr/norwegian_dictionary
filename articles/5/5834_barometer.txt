@@ -6,9 +6,9 @@
 <orth type="lemma">barometer</orth>
 <em><span class="dic_color"><span class="dic_comment">-eret, -rer</em>
 барометр
-<div style="margin-left:5px"><strong><p><span class="dic_example">barometeret står høyt (lavt) — барометр стоит высоко (низко)
-<div style="margin-left:5px"><strong><p><span class="dic_example">barometeret står på regn — барометр стоит на дожде
-<div style="margin-left:5px"><strong><p><span class="dic_example">barometer stiger (faller) — барометр поднимается (падает)
+<сit type="example"><text>barometeret står høyt (lavt)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>барометр стоит высоко (низко)</text></cit></cit>
+<сit type="example"><text>barometeret står på regn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>барометр стоит на дожде</text></cit></cit>
+<сit type="example"><text>barometer stiger (faller)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>барометр поднимается (падает)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

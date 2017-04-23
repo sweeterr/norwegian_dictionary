@@ -8,12 +8,12 @@
 </form>
 <sense>
 значить, означать, иметь значение, обозначать
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva skal dette bety? — что это значит?
-<div style="margin-left:5px"><strong><p><span class="dic_example">det har ikke noe å bety — это не имеет никакого значения, это не важно
+<сit type="example"><text>hva skal dette bety?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что это значит?</text></cit></cit>
+<сit type="example"><text>det har ikke noe å bety</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не имеет никакого значения, это не важно</text></cit></cit>
 </sense>
 <sense>
 предвещать
-<div style="margin-left:5px"><strong><p><span class="dic_example">det betyr ikke noe godt — это не предвещает ничего хорошего
+<сit type="example"><text>det betyr ikke noe godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не предвещает ничего хорошего</text></cit></cit>
 </sense>
 <sense>
 играть роль, иметь значение

@@ -8,25 +8,25 @@
 </form>
 <sense>
 наименьший, самый маленький, минимальный
-<div style="margin-left:5px"><strong><p><span class="dic_example">aller minst — меньше всего, самый маленький
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke minst, ikke den minste, ikke den aller minste — ни малейший, ни малейшего
-<div style="margin-left:5px"><strong><p><span class="dic_example">minst mulig — по возможности наименьший
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten minst interesse — без малейшего интереса
+<сit type="example"><text>aller minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меньше всего, самый маленький</text></cit></cit>
+<сit type="example"><text>ikke minst, ikke den minste, ikke den aller minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни малейший, ни малейшего</text></cit></cit>
+<сit type="example"><text>minst mulig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по возможности наименьший</text></cit></cit>
+<сit type="example"><text>uten minst interesse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без малейшего интереса</text></cit></cit>
 </sense>
 <sense>
 перед числительными по меньшей мере
-<div style="margin-left:5px"><strong><p><span class="dic_example">i det minste — во всяком случае, при любых условиях
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke det (aller) minste — ничуть, ни капельки, нисколько
-<div style="margin-left:5px"><strong><p><span class="dic_example">sist, men ikke minst — последнее по порядку, но важное по значению
+<сit type="example"><text>i det minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во всяком случае, при любых условиях</text></cit></cit>
+<сit type="example"><text>ikke det (aller) minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничуть, ни капельки, нисколько</text></cit></cit>
+<сit type="example"><text>sist, men ikke minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>последнее по порядку, но важное по значению</text></cit></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">minst</orth>
- <u>adv</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> lite <strong>III, litt
+<u>adv</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> lite <strong>III, litt
 по меньшей мере, меньше всего, в наименьшей степени
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke minst — в неменьшей степени
+<сit type="example"><text>ikke minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в неменьшей степени</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

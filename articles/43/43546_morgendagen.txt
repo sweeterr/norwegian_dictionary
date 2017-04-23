@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">morgendagen</orth>
 завтрашний день
-<div style="margin-left:5px"><strong><p><span class="dic_example">i løpet av morgendagen — в течение завтрашнего дня
-<div style="margin-left:5px"><strong><p><span class="dic_example">sikkerhet for morgendagen — уверенность в завтрашнем дне
+<сit type="example"><text>i løpet av morgendagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в течение завтрашнего дня</text></cit></cit>
+<сit type="example"><text>sikkerhet for morgendagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уверенность в завтрашнем дне</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

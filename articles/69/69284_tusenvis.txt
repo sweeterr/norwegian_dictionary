@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">tusenvis</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i tusenvis — тысячами
-<div style="margin-left:5px"><strong><p><span class="dic_example">tusenvis av tusen — бесчисленный
+<сit type="example"><text>i tusenvis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тысячами</text></cit></cit>
+<сit type="example"><text>tusenvis av tusen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесчисленный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

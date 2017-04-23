@@ -41,22 +41,22 @@
 </form>
 <sense>
 внимание
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi akt — обращать внимание (на что-л. - på)
+<сit type="example"><text>gi akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращать внимание (на что-л. - på)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">gi akt :
 <сit type = "example"><text>gi akt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внимание!, берегись!, осторожно!</text></cit></cit>
 <сit type = "example"><text>gi akt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> смирно!</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta i akt — принимать во внимание, учитывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta seg i akt — быть настороже, быть начеку
+<сit type="example"><text>ta i akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать во внимание, учитывать</text></cit></cit>
+<сit type="example"><text>ta seg i akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть настороже, быть начеку</text></cit></cit>
 </sense>
 <sense>
 почёт, уважение, почтение
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde i akt og ære — почитать (кого-л.), оказывать (кому-л.) почёт и уважение
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i akt og berømmelse hos alle — пользоваться всеобщим уважением
-<div style="margin-left:5px"><strong><p><span class="dic_example">vise en akt og ære — относиться почтительно (к кому-л.)
+<сit type="example"><text>holde i akt og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почитать (кого-л.), оказывать (кому-л.) почёт и уважение</text></cit></cit>
+<сit type="example"><text>stå i akt og berømmelse hos alle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться всеобщим уважением</text></cit></cit>
+<сit type="example"><text>vise en akt og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>относиться почтительно (к кому-л.)</text></cit></cit>
 </sense>
 <sense>
 намерение, цель
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke min akt — я не намерен, это не входит в мой намерения
+<сit type="example"><text>det er ikke min akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не намерен, это не входит в мой намерения</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -65,7 +65,7 @@
 <orth type="lemma">akt</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>ист.</u> опала
-<div style="margin-left:5px"><strong><p><span class="dic_example">erklære (sette) i rikets akt — объявлять вне закона
+<сit type="example"><text>erklære (sette) i rikets akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять вне закона</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

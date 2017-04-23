@@ -8,9 +8,9 @@
 </form>
 <sense>
 отправлять, перевозить, транспортировать морским (водным) путём
-<div style="margin-left:5px"><strong><p><span class="dic_example">skipe inn — грузить на корабль, принимать на борт
-<div style="margin-left:5px"><strong><p><span class="dic_example">skipe ut — отправлять (вывозить) морским (водным) путём
-<div style="margin-left:5px"><strong><p><span class="dic_example">skipe seg — грузиться, садиться на корабль (пароход)
+<сit type="example"><text>skipe inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грузить на корабль, принимать на борт</text></cit></cit>
+<сit type="example"><text>skipe ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправлять (вывозить) морским (водным) путём</text></cit></cit>
+<сit type="example"><text>skipe seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грузиться, садиться на корабль (пароход)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <orth type="lemma">skipe</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
 <u>диал.</u> устраивать, налаживать
-<div style="margin-left:5px"><strong><p><span class="dic_example">skipe seg — процветать, преуспевать
+<сit type="example"><text>skipe seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>процветать, преуспевать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

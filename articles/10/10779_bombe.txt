@@ -8,7 +8,7 @@
 </form>
 <sense>
 бомба
-<div style="margin-left:5px"><strong><p><span class="dic_example">slippe ned bomber — сбрасывать бомбы
+<сit type="example"><text>slippe ned bomber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбрасывать бомбы</text></cit></cit>
 </sense>
 <sense>
 мина (для миномёта)
@@ -18,8 +18,8 @@
 </sense>
 <sense>
 стальной баллон (для хранения сжатых газов)
-<div style="margin-left:5px"><strong><p><span class="dic_example">som en bombe — как гром среди ясного неба
-<div style="margin-left:5px"><strong><p><span class="dic_example">la bomben springe bombe — ошарашить, ошеломить
+<сit type="example"><text>som en bombe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как гром среди ясного неба</text></cit></cit>
+<сit type="example"><text>la bomben springe bombe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ошарашить, ошеломить</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +28,7 @@
 <orth type="lemma">bombe</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 бомбить
-<div style="margin-left:5px"><strong><p><span class="dic_example">byen ble bombet — город подвергся бомбёжке
+<сit type="example"><text>byen ble bombet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>город подвергся бомбёжке</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

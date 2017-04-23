@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">andre</orth>
 <u>num</u> <em><span class="dic_color"><span class="dic_comment">определённая форма от</em> annen <strong>I
-<div style="margin-left:5px"><strong><p><span class="dic_example">for det andre — во-вторых
-<div style="margin-left:5px"><strong><p><span class="dic_example">på andre året — (уже) второй год
+<сit type="example"><text>for det andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во-вторых</text></cit></cit>
+<сit type="example"><text>på andre året</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(уже) второй год</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">andre</orth>
 <u>pron</u>
 <em><span class="dic_color"><span class="dic_comment">определённая форма от</em> annen <strong>II
-<div style="margin-left:5px"><strong><p><span class="dic_example">den ene etter den andre — один за другим
+<сit type="example"><text>den ene etter den andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,8 +24,8 @@
 <orth type="lemma">andre</orth>
 <u>pron</u>
 <u>pl</u> от annen <strong>II
-<div style="margin-left:5px"><strong><p><span class="dic_example">de andre — остальные
-<div style="margin-left:5px"><strong><p><span class="dic_example">blant andre — и среди них
+<сit type="example"><text>de andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остальные</text></cit></cit>
+<сit type="example"><text>blant andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и среди них</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

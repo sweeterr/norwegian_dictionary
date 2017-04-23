@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">montro</orth>
 <em><span class="dic_color"><span class="dic_comment">(тж. раздельно)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">montro hva de ville svare — интересно, что бы они ответили
-<div style="margin-left:5px"><strong><p><span class="dic_example">når reiste de, montro — интересно, когда они уехали
+<сit type="example"><text>montro hva de ville svare</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>интересно, что бы они ответили</text></cit></cit>
+<сit type="example"><text>når reiste de, montro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>интересно, когда они уехали</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

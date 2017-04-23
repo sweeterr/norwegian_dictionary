@@ -8,9 +8,9 @@
 </form>
 <sense>
 профессор
-<div style="margin-left:5px"><strong><p><span class="dic_example">professor i fysikk (historie) — профессор физики (истории)
-<div style="margin-left:5px"><strong><p><span class="dic_example">professor emeritus — заслуженный профессор
-<div style="margin-left:5px"><strong><p><span class="dic_example">ordentlig (overordentlig) professor — ординарный (экстраординарный) профессор
+<сit type="example"><text>professor i fysikk (historie)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>профессор физики (истории)</text></cit></cit>
+<сit type="example"><text>professor emeritus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заслуженный профессор</text></cit></cit>
+<сit type="example"><text>ordentlig (overordentlig) professor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ординарный (экстраординарный) профессор</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> отличный специалист

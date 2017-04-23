@@ -8,22 +8,22 @@
 </form>
 <sense>
 флаг, знамя, вымпел
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gule flagg — жёлтый флаг (знак карантина)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hvite flagg — белый флаг (знак капитуляции, сдачи)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det re(i)ne flagg — норвежский национальный флаг (без эмблемы унии со Швецией)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det røde flagg — революционный флаг
-<div style="margin-left:5px"><strong><p><span class="dic_example">dyppe flagget — <lbl>мор.</lbl> салютовать флагом
-<div style="margin-left:5px"><strong><p><span class="dic_example">hale ned (heise) flagget — спустить (поднять) флаг
-<div style="margin-left:5px"><strong><p><span class="dic_example">med flagget halvt på stang — с приспущенным флагом (в знак траура)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hilse med flagget — салютовать флагом
+<сit type="example"><text>det gule flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтый флаг (знак карантина)</text></cit></cit>
+<сit type="example"><text>det hvite flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белый флаг (знак капитуляции, сдачи)</text></cit></cit>
+<сit type="example"><text>det re(i)ne flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский национальный флаг (без эмблемы унии со Швецией)</text></cit></cit>
+<сit type="example"><text>det røde flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>революционный флаг</text></cit></cit>
+<сit type="example"><text>dyppe flagget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> салютовать флагом</text></cit></cit>
+<сit type="example"><text>hale ned (heise) flagget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить (поднять) флаг</text></cit></cit>
+<сit type="example"><text>med flagget halvt på stang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с приспущенным флагом (в знак траура)</text></cit></cit>
+<сit type="example"><text>hilse med flagget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>салютовать флагом</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stryke flagget :
 <сit type = "example"><text>stryke flagget :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> спустить флаг (в знак сдачи)</text></cit></cit>
 <сit type = "example"><text>stryke flagget :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сдаться</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">vise flagget — <lbl>мор.</lbl> показать флаг
+<сit type="example"><text>vise flagget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> показать флаг</text></cit></cit>
 </sense>
 <sense>
 с определённым артиклем - главнокомандующий флотом (и его штаб)
-<div style="margin-left:5px"><strong><p><span class="dic_example">seile under falsk flagg — выдавать себя за другого ( <lbl>букв.</lbl> плыть под чужим флагом)
+<сit type="example"><text>seile under falsk flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдавать себя за другого ( <lbl>букв.</lbl> плыть под чужим флагом)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

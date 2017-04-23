@@ -8,7 +8,7 @@
 </form>
 <sense>
 банкротство
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå en person (et firma) til konkurs — объявить банкротом
+<сit type="example"><text>slå en person (et firma) til konkurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявить банкротом</text></cit></cit>
 </sense>
 <sense>
 продажа с торгов
@@ -20,9 +20,9 @@
 <orth type="lemma">konkurs</orth>
 <u>adj</u>
 обанкротившийся
-<div style="margin-left:5px"><strong><p><span class="dic_example">erklære konkurs — объявить банкротом
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå konkurs — обанкротиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">være konkurs — быть банкротом
+<сit type="example"><text>erklære konkurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявить банкротом</text></cit></cit>
+<сit type="example"><text>gå konkurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обанкротиться</text></cit></cit>
+<сit type="example"><text>være konkurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть банкротом</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,20 +8,20 @@
 </form>
 <sense>
 значение, смысл
-<div style="margin-left:5px"><strong><p><span class="dic_example">i billedlig betydning — в фигуральном смысле (слева)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i ordets egentlige (sanne) betydning — в прямом смысле (слова)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i overført betydning — в переносном смысле (слова)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være uten betydning — не иметь никакого смысла
-<div style="margin-left:5px"><strong><p><span class="dic_example">skifte betydning — менять смысл (значение)
+<сit type="example"><text>i billedlig betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в фигуральном смысле (слева)</text></cit></cit>
+<сit type="example"><text>i ordets egentlige (sanne) betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в прямом смысле (слова)</text></cit></cit>
+<сit type="example"><text>i overført betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в переносном смысле (слова)</text></cit></cit>
+<сit type="example"><text>være uten betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь никакого смысла</text></cit></cit>
+<сit type="example"><text>skifte betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>менять смысл (значение)</text></cit></cit>
 </sense>
 <sense>
 важность
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke av noen betydning — несущественный, неважный
-<div style="margin-left:5px"><strong><p><span class="dic_example">være av betydning for en — иметь значение для кого-л.
+<сit type="example"><text>ikke av noen betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>несущественный, неважный</text></cit></cit>
+<сit type="example"><text>være av betydning for en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь значение для кого-л.</text></cit></cit>
 </sense>
 <sense>
 выразительность
-<div style="margin-left:5px"><strong><p><span class="dic_example">med betydning — со значением, выразительно
+<сit type="example"><text>med betydning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со значением, выразительно</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

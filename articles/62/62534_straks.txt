@@ -16,14 +16,14 @@
 </form>
 <sense>
 непосредственно рядом, тут же
-<div style="margin-left:5px"><strong><p><span class="dic_example">straks på stedet — тут же на месте
+<сit type="example"><text>straks på stedet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут же на месте</text></cit></cit>
 </sense>
 <sense>
 тотчас, сейчас же, немедленно, моментально
-<div style="margin-left:5px"><strong><p><span class="dic_example">straks etter — сразу после этого
-<div style="margin-left:5px"><strong><p><span class="dic_example">straks med det samme — в тот же момент, в то же мгновение
-<div style="margin-left:5px"><strong><p><span class="dic_example">straks på timen — в тот же момент
-<div style="margin-left:5px"><strong><p><span class="dic_example">klokka er straks — 12 без малого 12 часов
+<сit type="example"><text>straks etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сразу после этого</text></cit></cit>
+<сit type="example"><text>straks med det samme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же момент, в то же мгновение</text></cit></cit>
+<сit type="example"><text>straks på timen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же момент</text></cit></cit>
+<сit type="example"><text>klokka er straks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>12 без малого 12 часов</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +37,6 @@
 </language>
 <quote>(сразу) как только ..., (непосредственно) после того как ...</quote>
 </cit>
-
 </sense>
 </entry>
 </superEntry>

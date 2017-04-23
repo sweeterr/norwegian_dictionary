@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">forlyde</orth>
 <em><span class="dic_color"><span class="dic_comment">-lød (-lydde), -lydt (-lydd)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det forlyder ... — говорят ..., ходят слухи ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">la seg forlyde med — высказать, дать понять
+<сit type="example"><text>det forlyder ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорят ..., ходят слухи ...</text></cit></cit>
+<сit type="example"><text>la seg forlyde med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высказать, дать понять</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

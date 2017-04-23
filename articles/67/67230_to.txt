@@ -6,7 +6,7 @@
 <orth type="lemma">to</orth>
 <em><span class="dic_color"><span class="dic_comment">toa, tær</em>
 <u>диал.</u> палец на ноге
-<div style="margin-left:5px"><strong><p><span class="dic_example">på to — на задних лапах
+<сit type="example"><text>på to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на задних лапах</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 </sense>
 <sense>
 наклонность, склонность
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er god(t) to i gutten — у мальчика хорошие данные
+<сit type="example"><text>det er god(t) to i gutten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у мальчика хорошие данные</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -38,10 +38,10 @@
 <orth type="lemma">to</orth>
 <u>num</u>
 два
-<div style="margin-left:5px"><strong><p><span class="dic_example">begge to — оба
-<div style="margin-left:5px"><strong><p><span class="dic_example">to og to — дважды два
-<div style="margin-left:5px"><strong><p><span class="dic_example">to e(i)ne, ene to (to sammen) — вдвоём, с глазу на глаз
-<div style="margin-left:5px"><strong><p><span class="dic_example">i to ord — в двух словах, вкратце
+<сit type="example"><text>begge to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оба</text></cit></cit>
+<сit type="example"><text>to og to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дважды два</text></cit></cit>
+<сit type="example"><text>to e(i)ne, ene to (to sammen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдвоём, с глазу на глаз</text></cit></cit>
+<сit type="example"><text>i to ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в двух словах, вкратце</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

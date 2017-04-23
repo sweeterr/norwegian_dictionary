@@ -8,26 +8,26 @@
 </form>
 <sense>
 час
-<div style="margin-left:5px"><strong><p><span class="dic_example">en time for tidlig — часом (на час) раньше
-<div style="margin-left:5px"><strong><p><span class="dic_example">en hel (stiv) time — целый (битый) час
-<div style="margin-left:5px"><strong><p><span class="dic_example">halvannen time — полтора часа
-<div style="margin-left:5px"><strong><p><span class="dic_example">for en time siden — час тому назад
-<div style="margin-left:5px"><strong><p><span class="dic_example">i timen, per time — в час
-<div style="margin-left:5px"><strong><p><span class="dic_example">om en time — через час
-<div style="margin-left:5px"><strong><p><span class="dic_example">på timen — сию минуту, сейчас же
+<сit type="example"><text>en time for tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часом (на час) раньше</text></cit></cit>
+<сit type="example"><text>en hel (stiv) time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целый (битый) час</text></cit></cit>
+<сit type="example"><text>halvannen time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полтора часа</text></cit></cit>
+<сit type="example"><text>for en time siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>час тому назад</text></cit></cit>
+<сit type="example"><text>i timen, per time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в час</text></cit></cit>
+<сit type="example"><text>om en time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через час</text></cit></cit>
+<сit type="example"><text>på timen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сию минуту, сейчас же</text></cit></cit>
 </sense>
 <sense>
 время, пора, момент
-<div style="margin-left:5px"><strong><p><span class="dic_example">ledige timer — часы досуга
-<div style="margin-left:5px"><strong><p><span class="dic_example">de små timer — <lbl>разг.</lbl> время после полуночи
-<div style="margin-left:5px"><strong><p><span class="dic_example">langt ut i de små timer — далеко за полночь
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans time er slått — его час пробил
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans siste time — его предсмертный час
+<сit type="example"><text>ledige timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часы досуга</text></cit></cit>
+<сit type="example"><text>de små timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> время после полуночи</text></cit></cit>
+<сit type="example"><text>langt ut i de små timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко за полночь</text></cit></cit>
+<сit type="example"><text>hans time er slått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его час пробил</text></cit></cit>
+<сit type="example"><text>hans siste time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его предсмертный час</text></cit></cit>
 </sense>
 <sense>
 академический час (45 минут), урок
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ta) timer — брать уроки
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi (ha) timer — давать (иметь) уроки
+<сit type="example"><text>få (ta) timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать уроки</text></cit></cit>
+<сit type="example"><text>gi (ha) timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать (иметь) уроки</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +35,7 @@
 <form>
 <orth type="lemma">time</orth>
 <em><span class="dic_color"><span class="dic_comment">-de (-te), -d (-t)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">time seg — <lbl>диал.</lbl> позволять себе, разрешать себе
+<сit type="example"><text>time seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> позволять себе, разрешать себе</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

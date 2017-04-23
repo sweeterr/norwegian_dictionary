@@ -8,10 +8,10 @@
 </form>
 <sense>
 тренировка
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er i god trening — <lbl>спорт.</lbl> он в хорошей форме
-<div style="margin-left:5px"><strong><p><span class="dic_example">han mangler trening — ему не хватает тренировки
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme ut av treningen — потерять спортивную форму
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge i trening — тренироваться
+<сit type="example"><text>han er i god trening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> он в хорошей форме</text></cit></cit>
+<сit type="example"><text>han mangler trening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему не хватает тренировки</text></cit></cit>
+<сit type="example"><text>komme ut av treningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерять спортивную форму</text></cit></cit>
+<сit type="example"><text>ligge i trening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тренироваться</text></cit></cit>
 </sense>
 <sense>
 тренинг (лошадей)

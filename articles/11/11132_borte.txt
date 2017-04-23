@@ -8,9 +8,9 @@
 </form>
 <sense>
 вдали, далеко
-<div style="margin-left:5px"><strong><p><span class="dic_example">langt borte — очень далеко
-<div style="margin-left:5px"><strong><p><span class="dic_example">der borte — там (вдали), вон там
-<div style="margin-left:5px"><strong><p><span class="dic_example">den tid er borte — то время прошло
+<сit type="example"><text>langt borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень далеко</text></cit></cit>
+<сit type="example"><text>der borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>там (вдали), вон там</text></cit></cit>
+<сit type="example"><text>den tid er borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то время прошло</text></cit></cit>
 </sense>
 <sense>
 в отсутствии, в отъезде, в отлучке
@@ -22,8 +22,8 @@
 </sense>
 <sense>
 на расстоянии
-<div style="margin-left:5px"><strong><p><span class="dic_example">et par tusen meter borte — на расстоянии нескольких тысяч метров отсюда
-<div style="margin-left:5px"><strong><p><span class="dic_example">han var ikke borte — он не растерялся, он не упустил случая
+<сit type="example"><text>et par tusen meter borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на расстоянии нескольких тысяч метров отсюда</text></cit></cit>
+<сit type="example"><text>han var ikke borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не растерялся, он не упустил случая</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

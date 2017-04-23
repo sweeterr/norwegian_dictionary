@@ -8,15 +8,15 @@
 </form>
 <sense>
 стоимость, ценность
-<div style="margin-left:5px"><strong><p><span class="dic_example">av stor (liten) verdi — имеющий большую (малую) ценность
+<сit type="example"><text>av stor (liten) verdi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий большую (малую) ценность</text></cit></cit>
 </sense>
 <sense>
 достоинство
 </sense>
 <sense>
 <u>мат.</u> величина
-<div style="margin-left:5px"><strong><p><span class="dic_example">midlere verdier — средние величины
-<div style="margin-left:5px"><strong><p><span class="dic_example">positive (negative) verdier — положительные (отрицательные) величины
+<сit type="example"><text>midlere verdier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>средние величины</text></cit></cit>
+<сit type="example"><text>positive (negative) verdier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положительные (отрицательные) величины</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,7 +8,7 @@
 </form>
 <sense>
 ровная поверхность, плоскость
-<div style="margin-left:5px"><strong><p><span class="dic_example">utfoldelig flate — <lbl>мат.</lbl> развёртываемая плоскость
+<сit type="example"><text>utfoldelig flate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> развёртываемая плоскость</text></cit></cit>
 </sense>
 <sense>
 равнина
@@ -23,7 +23,7 @@
 <orth type="lemma">flate</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 делать ровным, разравнивать
-<div style="margin-left:5px"><strong><p><span class="dic_example">flate ut — выравнивать
+<сit type="example"><text>flate ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

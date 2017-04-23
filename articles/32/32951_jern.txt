@@ -8,12 +8,12 @@
 </form>
 <sense>
 железо
-<div style="margin-left:5px"><strong><p><span class="dic_example">av jern — железный
-<div style="margin-left:5px"><strong><p><span class="dic_example">bløtt jern — мягкое железо
-<div style="margin-left:5px"><strong><p><span class="dic_example">smibart jern — ковкое железо
-<div style="margin-left:5px"><strong><p><span class="dic_example">hård som jern — твёрдый как сталь
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha mange jern i ilden — <lbl>перен.</lbl> иметь много дел, разбрасываться
-<div style="margin-left:5px"><strong><p><span class="dic_example">smi mens jern et er varmt — <lbl>посл.</lbl> куй железо, пока горячо
+<сit type="example"><text>av jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>железный</text></cit></cit>
+<сit type="example"><text>bløtt jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкое железо</text></cit></cit>
+<сit type="example"><text>smibart jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ковкое железо</text></cit></cit>
+<сit type="example"><text>hård som jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый как сталь</text></cit></cit>
+<сit type="example"><text>ha mange jern i ilden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> иметь много дел, разбрасываться</text></cit></cit>
+<сit type="example"><text>smi mens jern et er varmt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> куй железо, пока горячо</text></cit></cit>
 </sense>
 <sense>
 железное изделие

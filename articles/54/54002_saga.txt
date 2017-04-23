@@ -6,9 +6,9 @@
 <orth type="lemma">saga</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 сага, сказание, легенда, повествование
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrive sitt navn inn i landets saga — вписать своё имя в историю страны
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ute av sagaen — <lbl>разг.</lbl> потерять былое значение; выбыть из игры
-<div style="margin-left:5px"><strong><p><span class="dic_example">være en saga blott — кануть в Лету
+<сit type="example"><text>skrive sitt navn inn i landets saga</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вписать своё имя в историю страны</text></cit></cit>
+<сit type="example"><text>være ute av sagaen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> потерять былое значение; выбыть из игры</text></cit></cit>
+<сit type="example"><text>være en saga blott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кануть в Лету</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

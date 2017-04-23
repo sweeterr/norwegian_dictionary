@@ -8,10 +8,10 @@
 </form>
 <sense>
 знак, метка, заметка, галка, пометка (на полях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bite merke i noe — запоминать что-л., брать на заметку
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge merke til — замечать, обращать внимание на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette et merke ute i margen — ставить галку на полях
-<div style="margin-left:5px"><strong><p><span class="dic_example">verd å legge merke til — достойный внимания, достопримечательный
+<сit type="example"><text>bite merke i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запоминать что-л., брать на заметку</text></cit></cit>
+<сit type="example"><text>legge merke til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замечать, обращать внимание на что-л.</text></cit></cit>
+<сit type="example"><text>sette et merke ute i margen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить галку на полях</text></cit></cit>
+<сit type="example"><text>verd å legge merke til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>достойный внимания, достопримечательный</text></cit></cit>
 </sense>
 <sense>
 штемпель
@@ -24,11 +24,11 @@
 </sense>
 <sense>
 псевдоним
-<div style="margin-left:5px"><strong><p><span class="dic_example">under merket — под псевдонимом
+<сit type="example"><text>under merket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под псевдонимом</text></cit></cit>
 </sense>
 <sense>
 симптом, признак
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter alle merker å dømme — судя по всем признакам
+<сit type="example"><text>etter alle merker å dømme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судя по всем признакам</text></cit></cit>
 </sense>
 <sense>
 пятно, след, синяк
@@ -44,7 +44,7 @@
 </sense>
 <sense>
 <u>уст.</u> боевое знамя, вымпел
-<div style="margin-left:5px"><strong><p><span class="dic_example">det kan du legge merke til — можешь быть уверен (что ...)
+<сit type="example"><text>det kan du legge merke til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>можешь быть уверен (что ...)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -55,8 +55,8 @@
 </form>
 <sense>
 замечать, обращать внимание на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">merke seg noe — заметить себе что-л., взять что-л. на заметку
-<div style="margin-left:5px"><strong><p><span class="dic_example">vel å merke! — заметьте хорошенько!, запомните!
+<сit type="example"><text>merke seg noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заметить себе что-л., взять что-л. на заметку</text></cit></cit>
+<сit type="example"><text>vel å merke!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заметьте хорошенько!, запомните!</text></cit></cit>
 </sense>
 <sense>
 ставить штамп (клеймо), клеймить, метить
@@ -72,13 +72,13 @@
 </sense>
 <sense>
 <u>мор.</u> ограждать (фарватер)
-<div style="margin-left:5px"><strong><p><span class="dic_example">merke av — отмечать, размечать
+<сit type="example"><text>merke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отмечать, размечать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">merke opp :
 <сit type = "example"><text>merke opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>спорт.</u> расставлять метки, размечать (трассу)</text></cit></cit>
 <сit type = "example"><text>merke opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> ограждать (фарватер)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">merke ut — выделять, отмечать (кого-л.)
+<сit type="example"><text>merke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделять, отмечать (кого-л.)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">merke seg :
-<div style="margin-left:5px"><strong><p><span class="dic_example">merke seg ut — выделяться
+<сit type="example"><text>merke seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделяться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,11 +8,11 @@
 </form>
 <sense>
 роса
-<div style="margin-left:5px"><strong><p><span class="dic_example">forsvinne som dugg for solen dugg — испариться, исчезнуть ( <lbl>букв.</lbl> исчезнуть как роса на солнце)
+<сit type="example"><text>forsvinne som dugg for solen dugg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испариться, исчезнуть ( <lbl>букв.</lbl> исчезнуть как роса на солнце)</text></cit></cit>
 </sense>
 <sense>
 капельки воды
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er dugg på ruten — стекло запотело
+<сit type="example"><text>det er dugg på ruten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стекло запотело</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">dugg</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke det (et) dugg — ни капельки, ни в малейшей степени
+<сit type="example"><text>ikke det (et) dugg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни капельки, ни в малейшей степени</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

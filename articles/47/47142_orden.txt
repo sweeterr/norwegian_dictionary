@@ -8,20 +8,20 @@
 </form>
 <sense>
 порядок, последовательность, размещение
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter orden — по порядку, по очереди
-<div style="margin-left:5px"><strong><p><span class="dic_example">for ordens skyld — для порядка, ради порядка
-<div style="margin-left:5px"><strong><p><span class="dic_example">i orden — в порядке
-<div style="margin-left:5px"><strong><p><span class="dic_example">få orden på (bringe i orden ) — приводить в порядок
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha god (dårlig) orden på noe — держать что-л. в порядке (беспорядке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kalle til orden — призывать к порядку
+<сit type="example"><text>etter orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по порядку, по очереди</text></cit></cit>
+<сit type="example"><text>for ordens skyld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для порядка, ради порядка</text></cit></cit>
+<сit type="example"><text>i orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в порядке</text></cit></cit>
+<сit type="example"><text>få orden på (bringe i orden )</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в порядок</text></cit></cit>
+<сit type="example"><text>ha god (dårlig) orden på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать что-л. в порядке (беспорядке)</text></cit></cit>
+<сit type="example"><text>kalle til orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>призывать к порядку</text></cit></cit>
 </sense>
 <sense>
 строй
-<div style="margin-left:5px"><strong><p><span class="dic_example">den offentlige orden — общественный строй
+<сit type="example"><text>den offentlige orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественный строй</text></cit></cit>
 </sense>
 <sense>
 <u>воен.</u> построение, строй
-<div style="margin-left:5px"><strong><p><span class="dic_example">sluttet orden — сомкнутый строй
+<сit type="example"><text>sluttet orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сомкнутый строй</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -32,11 +32,11 @@
 </form>
 <sense>
 орден (награда)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli dekorert med en orden — получить орден
+<сit type="example"><text>bli dekorert med en orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить орден</text></cit></cit>
 </sense>
 <sense>
 орден (монашеский)
-<div style="margin-left:5px"><strong><p><span class="dic_example">geistlige ordener — монашеские ордена
+<сit type="example"><text>geistlige ordener</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>монашеские ордена</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

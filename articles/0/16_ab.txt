@@ -6,9 +6,9 @@
 <orth type="lemma">ab</orth>
 <u>prep</u>
 указывает на место, откуда что-л. прибыло
-<div style="margin-left:5px"><strong><p><span class="dic_example">ab Oslo — из Осло
-<div style="margin-left:5px"><strong><p><span class="dic_example">ab fabrikk — с предприятия
-<div style="margin-left:5px"><strong><p><span class="dic_example">ab lager — со склада, самовывозом со склада
+<сit type="example"><text>ab Oslo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из Осло</text></cit></cit>
+<сit type="example"><text>ab fabrikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с предприятия</text></cit></cit>
+<сit type="example"><text>ab lager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со склада, самовывозом со склада</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

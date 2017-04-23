@@ -8,9 +8,9 @@
 </form>
 <sense>
 сила, мощь
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans styrke brast — он выбился из сил
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi ny styrke — придать новые силы
-<div style="margin-left:5px"><strong><p><span class="dic_example">prøve styrke — меряться силами (с кем-л.)
+<сit type="example"><text>hans styrke brast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он выбился из сил</text></cit></cit>
+<сit type="example"><text>gi ny styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>придать новые силы</text></cit></cit>
+<сit type="example"><text>prøve styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меряться силами (с кем-л.)</text></cit></cit>
 </sense>
 <sense>
 прочность, крепость, сопротивление (материалов)
@@ -26,8 +26,8 @@
 </sense>
 <sense>
 <u>воен.</u> численный состав (численность) войск
-<div style="margin-left:5px"><strong><p><span class="dic_example">effektive styrke — боеспособные войска
-<div style="margin-left:5px"><strong><p><span class="dic_example">væpnede styrker — вооружённые силы
+<сit type="example"><text>effektive styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>боеспособные войска</text></cit></cit>
+<сit type="example"><text>væpnede styrker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вооружённые силы</text></cit></cit>
 </sense>
 </entry>
 <entry>

@@ -16,11 +16,11 @@
 </form>
 <sense>
 ценность, стоимость
-<div style="margin-left:5px"><strong><p><span class="dic_example">tillegge stort verd — высоко оценивать
+<сit type="example"><text>tillegge stort verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высоко оценивать</text></cit></cit>
 </sense>
 <sense>
 достоинство
-<div style="margin-left:5px"><strong><p><span class="dic_example">det får stå ved sitt verd — следует оценить по достоинству
+<сit type="example"><text>det får stå ved sitt verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следует оценить по достоинству</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -31,13 +31,13 @@
 </form>
 <sense>
 стоящий
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er verdt 60 kroner — это стоит 60 крон
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke verdt — не стоит, нет смысла (делать что-л.)
+<сit type="example"><text>det er verdt 60 kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это стоит 60 крон</text></cit></cit>
+<сit type="example"><text>det er ikke verdt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не стоит, нет смысла (делать что-л.)</text></cit></cit>
 </sense>
 <sense>
 достойный, заслуживающий
-<div style="margin-left:5px"><strong><p><span class="dic_example">være all ære verd — быть достойным всяческих почестей
-<div style="margin-left:5px"><strong><p><span class="dic_example">være en bedre skjebne verd — быть достойным лучшей участи
+<сit type="example"><text>være all ære verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть достойным всяческих почестей</text></cit></cit>
+<сit type="example"><text>være en bedre skjebne verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть достойным лучшей участи</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

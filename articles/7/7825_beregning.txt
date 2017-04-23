@@ -8,9 +8,9 @@
 </form>
 <sense>
 расчёт, калькуляция
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta i beregning — учитывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta med i beregningen — принимать в расчёт (во внимание)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans beregninger slo ikke til — его расчёты не оправдались
+<сit type="example"><text>ta i beregning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учитывать</text></cit></cit>
+<сit type="example"><text>ta med i beregningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать в расчёт (во внимание)</text></cit></cit>
+<сit type="example"><text>hans beregninger slo ikke til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его расчёты не оправдались</text></cit></cit>
 </sense>
 <sense>
 смета, исчисление расходов и доходов

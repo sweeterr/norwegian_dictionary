@@ -19,7 +19,7 @@
 <orth type="lemma">lenge</orth>
 <em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
 удлинять
-<div style="margin-left:5px"><strong><p><span class="dic_example">lenges — удлиняться, становиться длинней
+<сit type="example"><text>lenges</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удлиняться, становиться длинней</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -38,18 +38,18 @@
 </form>
 <sense>
 долго
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor lenge — как долго, сколько времени
-<div style="margin-left:5px"><strong><p><span class="dic_example">innen lenge — скоро
+<сit type="example"><text>hvor lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как долго, сколько времени</text></cit></cit>
+<сit type="example"><text>innen lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скоро</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">så lenge :
 <сit type = "example"><text>så lenge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> до тех пор пока ...</text></cit></cit>
 <сit type = "example"><text>så lenge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пока</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">adjø så lenge — пока до свидания
+<сit type="example"><text>adjø så lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пока до свидания</text></cit></cit>
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> lenge siden — давно
-<div style="margin-left:5px"><strong><p><span class="dic_example">for lenge siden — очень давно, давным-давно
-<div style="margin-left:5px"><strong><p><span class="dic_example">for ikke lenge siden — недавно
-<div style="margin-left:5px"><strong><p><span class="dic_example">langt om lenge — наконец-то, в конце концов
+<сit type="example"><text> lenge siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давно</text></cit></cit>
+<сit type="example"><text>for lenge siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень давно, давным-давно</text></cit></cit>
+<сit type="example"><text>for ikke lenge siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недавно</text></cit></cit>
+<сit type="example"><text>langt om lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наконец-то, в конце концов</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

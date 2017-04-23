@@ -8,12 +8,12 @@
 </form>
 <sense>
 список, перечень
-<div style="margin-left:5px"><strong><p><span class="dic_example">stryke seg av listen — вычеркнуть себя из списка
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på listen — значиться в списке
+<сit type="example"><text>stryke seg av listen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вычеркнуть себя из списка</text></cit></cit>
+<сit type="example"><text>stå på listen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>значиться в списке</text></cit></cit>
 </sense>
 <sense>
 подписной лист
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne seg på en liste — подписаться по подписному листу
+<сit type="example"><text>tegne seg på en liste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подписаться по подписному листу</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 </form>
 <sense>
 украсть, стащить
-<div style="margin-left:5px"><strong><p><span class="dic_example">liste fra én — выманить что-л. у кого-л. хитростью
+<сit type="example"><text>liste fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выманить что-л. у кого-л. хитростью</text></cit></cit>
 </sense>
 <sense>
 красться, прокрадываться

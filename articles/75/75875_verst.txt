@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">verst</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">superl — от dårlig <strong>I, <strong>II, ille, vond, ond
-<div style="margin-left:5px"><strong><p><span class="dic_example">det går ikke verst — всё идёт хорошо
+<сit type="example"><text>superl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от dårlig <strong>I, <strong>II, ille, vond, ond</text></cit></cit>
+<сit type="example"><text>det går ikke verst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё идёт хорошо</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">ikke så verst :
 <сit type = "example"><text>ikke så verst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не очень, не слишком</text></cit></cit>
 <сit type = "example"><text>ikke så verst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не очень плохо</text></cit></cit>
 <сit type = "example"><text>ikke så verst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> совсем не плохо, весьма не плохо</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er verst mot seg — он сам себе враг
+<сit type="example"><text>han er verst mot seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он сам себе враг</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

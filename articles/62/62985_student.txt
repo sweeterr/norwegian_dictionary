@@ -6,8 +6,8 @@
 <orth type="lemma">student</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 студент
-<div style="margin-left:5px"><strong><p><span class="dic_example">kvinnelig student — студентка
-<div style="margin-left:5px"><strong><p><span class="dic_example">juridisk student — студент юридического факультета
+<сit type="example"><text>kvinnelig student</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>студентка</text></cit></cit>
+<сit type="example"><text>juridisk student</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>студент юридического факультета</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

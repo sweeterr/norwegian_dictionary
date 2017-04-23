@@ -8,15 +8,15 @@
 </form>
 <sense>
 манера, способ, образ
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var på det viset — дело было так
-<div style="margin-left:5px"><strong><p><span class="dic_example">på så vis — так, таким образом
+<сit type="example"><text>det var på det viset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело было так</text></cit></cit>
+<сit type="example"><text>på så vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, таким образом</text></cit></cit>
 </sense>
 <sense>
 обычай, обыкновение, привычка
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var hans vis — это была его привычка
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha for vis — иметь обыкновение (манеру)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke på noen (noe) vis — ни в коем случае
-<div style="margin-left:5px"><strong><p><span class="dic_example">på en (et) vis — в некотором смысле (отношении)
+<сit type="example"><text>det var hans vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это была его привычка</text></cit></cit>
+<сit type="example"><text>ha for vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь обыкновение (манеру)</text></cit></cit>
+<сit type="example"><text>ikke på noen (noe) vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни в коем случае</text></cit></cit>
+<сit type="example"><text>på en (et) vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в некотором смысле (отношении)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -25,8 +25,8 @@
 <orth type="lemma">vis</orth>
 <u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
 мудрый, умный, благоразумный
-<div style="margin-left:5px"><strong><p><span class="dic_example">den vise — мудрец
-<div style="margin-left:5px"><strong><p><span class="dic_example">vis som ve(i)t — <lbl>диал.</lbl> мудр тот, кто это понимает
+<сit type="example"><text>den vise</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мудрец</text></cit></cit>
+<сit type="example"><text>vis som ve(i)t</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> мудр тот, кто это понимает</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -12,8 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">miss</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> <lbl>диал.</lbl> kaste i miss — не попасть, промахнуться
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte i miss — бить мимо цели <lbl>тж. перен.</lbl>
+<сit type="example"><text> <lbl>диал.</lbl> kaste i miss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не попасть, промахнуться</text></cit></cit>
+<сit type="example"><text>skyte i miss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить мимо цели <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

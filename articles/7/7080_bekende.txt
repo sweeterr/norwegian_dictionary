@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">bekende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bekende svart — чёрный-пречёрный
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var bekende mørkt — было темно, хоть глаз выколи
-<div style="margin-left:5px"><strong><p><span class="dic_example">bekende fast — крепко-накрепко
+<сit type="example"><text>bekende svart</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный-пречёрный</text></cit></cit>
+<сit type="example"><text>det var bekende mørkt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>было темно, хоть глаз выколи</text></cit></cit>
+<сit type="example"><text>bekende fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко-накрепко</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

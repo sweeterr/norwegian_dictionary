@@ -14,8 +14,8 @@
 <orth type="lemma">å</orth>
 <em><span class="dic_color"><span class="dic_comment">åen (åa), åer</em>
 небольшая река, речка, крупный ручей
-<div style="margin-left:5px"><strong><p><span class="dic_example">mange bekker små gjør en stor å — <lbl>посл.</lbl> с миру по нитке - голому рубашка
-<div style="margin-left:5px"><strong><p><span class="dic_example">bære vann i å — <lbl>погов.</lbl> в лес дров не возят, в колодец воды не льют
+<сit type="example"><text>mange bekker små gjør en stor å</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> с миру по нитке - голому рубашка</text></cit></cit>
+<сit type="example"><text>bære vann i å</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> в лес дров не возят, в колодец воды не льют</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <orth type="lemma">å</orth>
 <u>pron</u>
 <u>разг.</u> см. hva
-<div style="margin-left:5px"><strong><p><span class="dic_example">å for slag?, å for noe? — что за..?, какой..?
+<сit type="example"><text>å for slag?, å for noe?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что за..?, какой..?</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -39,8 +39,8 @@
 <form>
 <orth type="lemma">å</orth>
 частица, служит показателем неопределённой формы глагола:
-<div style="margin-left:5px"><strong><p><span class="dic_example">å gjøre — делать
-<div style="margin-left:5px"><strong><p><span class="dic_example">å si — сказать
+<сit type="example"><text>å gjøre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать</text></cit></cit>
+<сit type="example"><text>å si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказать</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -48,9 +48,9 @@
 <form>
 <orth type="lemma">å</orth>
 <u>int</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">å! o — !
-<div style="margin-left:5px"><strong><p><span class="dic_example">å nei! da — да ну!
-<div style="margin-left:5px"><strong><p><span class="dic_example">å, la meg se! — дайте подумать!
+<сit type="example"><text>å! o</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>!</text></cit></cit>
+<сit type="example"><text>å nei! da</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да ну!</text></cit></cit>
+<сit type="example"><text>å, la meg se!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дайте подумать!</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,7 +6,7 @@
 <orth type="lemma">nedover</orth>
 <u>adv</u>
 вниз
-<div style="margin-left:5px"><strong><p><span class="dic_example">det går nedover med ham — он выдыхается, он слабеет
+<сit type="example"><text>det går nedover med ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он выдыхается, он слабеет</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">nedover</orth>
 <u>prep</u>
 вниз по
-<div style="margin-left:5px"><strong><p><span class="dic_example">nedover trappen — вниз по лестнице
+<сit type="example"><text>nedover trappen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вниз по лестнице</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

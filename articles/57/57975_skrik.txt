@@ -8,10 +8,10 @@
 </form>
 <sense>
 крик, шум
-<div style="margin-left:5px"><strong><p><span class="dic_example">det siste skrik — <lbl>перен.</lbl> последний крик (моды)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi et skrik — вскрикнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gikk over med et skrik for ham as — он отделался лёгким испугом
-<div style="margin-left:5px"><strong><p><span class="dic_example">mye (meget) skrik og lite ull — шуму много, а дела мало
+<сit type="example"><text>det siste skrik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> последний крик (моды)</text></cit></cit>
+<сit type="example"><text>gi et skrik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскрикнуть</text></cit></cit>
+<сit type="example"><text>det gikk over med et skrik for ham as</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он отделался лёгким испугом</text></cit></cit>
+<сit type="example"><text>mye (meget) skrik og lite ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шуму много, а дела мало</text></cit></cit>
 </sense>
 <sense>
 рыдания, громкий плач, вопль

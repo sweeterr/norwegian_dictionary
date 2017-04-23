@@ -11,24 +11,24 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">det blir bruk :
 <сit type = "example"><text>det blir bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> это будет применяться (употребляться, использоваться)</text></cit></cit>
 <сit type = "example"><text>det blir bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>эк.</u> имеется</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">finne bruk — найти применение (чему-л. - for), использовать
+<сit type="example"><text>finne bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти применение (чему-л. - for), использовать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">få bruk :
 <сit type = "example"><text>få bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> нуждаться (в чём-л. - for)</text></cit></cit>
 <сit type = "example"><text>få bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> употреблять, использовать, применять</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha bruk — нуждаться, чувствовать необходимость (в чём-л. - for)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre bruk av — использовать, употреблять, пользоваться (чем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå av bruk — выйти из употребления, устареть
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme i bruk — войти в употребление, начать употребляться
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta i bruk — начать пользоваться (чем-л.), употреблять (что-л.), применять (что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i bruk — быть в употреблении (в ходу)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til eget bruk — для себя, для собственного употребления
-<div style="margin-left:5px"><strong><p><span class="dic_example">til innvortes bruk — для приёма внутрь, для внутреннего употребления (о лекарстве)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til utvortes bruk — для наружного употребления (о лекарстве)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til utvendig bruk — «наружное» (этикетка на лекарстве)
+<сit type="example"><text>ha bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться, чувствовать необходимость (в чём-л. - for)</text></cit></cit>
+<сit type="example"><text>gjøre bruk av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>использовать, употреблять, пользоваться (чем-л.)</text></cit></cit>
+<сit type="example"><text>gå av bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти из употребления, устареть</text></cit></cit>
+<сit type="example"><text>komme i bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>войти в употребление, начать употребляться</text></cit></cit>
+<сit type="example"><text>ta i bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начать пользоваться (чем-л.), употреблять (что-л.), применять (что-л.)</text></cit></cit>
+<сit type="example"><text>være i bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в употреблении (в ходу)</text></cit></cit>
+<сit type="example"><text>til eget bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для себя, для собственного употребления</text></cit></cit>
+<сit type="example"><text>til innvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для приёма внутрь, для внутреннего употребления (о лекарстве)</text></cit></cit>
+<сit type="example"><text>til utvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для наружного употребления (о лекарстве)</text></cit></cit>
+<сit type="example"><text>til utvendig bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«наружное» (этикетка на лекарстве)</text></cit></cit>
 </sense>
 <sense>
 обычай, привычка, обряд
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er bruk her — здесь так водится, здесь так принято
+<сit type="example"><text>det er bruk her</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>здесь так водится, здесь так принято</text></cit></cit>
 </sense>
 <sense>
 <u>эк.</u> потребление, расход
@@ -45,7 +45,7 @@
 </form>
 <sense>
 хозяйство
-<div style="margin-left:5px"><strong><p><span class="dic_example">et kollektivt bruk — коллективное хозяйство, колхоз
+<сit type="example"><text>et kollektivt bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коллективное хозяйство, колхоз</text></cit></cit>
 </sense>
 <sense>
 промышленное предприятие, фабрика, завод

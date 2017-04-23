@@ -8,13 +8,13 @@
 </form>
 <sense>
 бог
-<div style="margin-left:5px"><strong><p><span class="dic_example">herre gud — боже мой
-<div style="margin-left:5px"><strong><p><span class="dic_example">gud give! — дай-то бог!
-<div style="margin-left:5px"><strong><p><span class="dic_example">gud skje lov! — слава богу!
-<div style="margin-left:5px"><strong><p><span class="dic_example">gud vet — бог весть
-<div style="margin-left:5px"><strong><p><span class="dic_example">det vet gud og hvermann — это всем известно
-<div style="margin-left:5px"><strong><p><span class="dic_example">så gud — ей-богу
-<div style="margin-left:5px"><strong><p><span class="dic_example">det skal gud vite — одному богу известно (что это правда)
+<сit type="example"><text>herre gud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>боже мой</text></cit></cit>
+<сit type="example"><text>gud give!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дай-то бог!</text></cit></cit>
+<сit type="example"><text>gud skje lov!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слава богу!</text></cit></cit>
+<сit type="example"><text>gud vet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бог весть</text></cit></cit>
+<сit type="example"><text>det vet gud og hvermann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это всем известно</text></cit></cit>
+<сit type="example"><text>så gud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ей-богу</text></cit></cit>
+<сit type="example"><text>det skal gud vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одному богу известно (что это правда)</text></cit></cit>
 </sense>
 <sense>
 божество

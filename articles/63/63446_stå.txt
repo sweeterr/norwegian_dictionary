@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stå</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> gå i stå — остановиться, прекратиться, замереть
+<сit type="example"><text> gå i stå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остановиться, прекратиться, замереть</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,18 +15,18 @@
 </form>
 <sense>
 стоять <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå bak disken (stå i butikk) — стоять за прилавком, работать продавцом
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå bak på meiene — стоять на запятках
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på egne be(i)n — быть самостоятельным, зарабатывать себе на жизнь
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå for fugl — делать стойку (о собаке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på lur — подстерегать, поджидать у ловушки
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på ski — (уметь) ходить на лыжах
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på svake føtter — едва передвигаться (о больном человеке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på veiens skille — стоять на распутье, не знать, что делать
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på vakt — стоять на вахте
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå som lamslått — стоять как вкопанный
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå som på nåler (glør) — сидеть как на иголках (угольях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå stille — стоять, не двигаться, не работать (о механизме)
+<сit type="example"><text>stå bak disken (stå i butikk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять за прилавком, работать продавцом</text></cit></cit>
+<сit type="example"><text>stå bak på meiene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на запятках</text></cit></cit>
+<сit type="example"><text>stå på egne be(i)n</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть самостоятельным, зарабатывать себе на жизнь</text></cit></cit>
+<сit type="example"><text>stå for fugl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать стойку (о собаке)</text></cit></cit>
+<сit type="example"><text>stå på lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подстерегать, поджидать у ловушки</text></cit></cit>
+<сit type="example"><text>stå på ski</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(уметь) ходить на лыжах</text></cit></cit>
+<сit type="example"><text>stå på svake føtter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>едва передвигаться (о больном человеке)</text></cit></cit>
+<сit type="example"><text>stå på veiens skille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на распутье, не знать, что делать</text></cit></cit>
+<сit type="example"><text>stå på vakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на вахте</text></cit></cit>
+<сit type="example"><text>stå som lamslått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять как вкопанный</text></cit></cit>
+<сit type="example"><text>stå som på nåler (glør)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть как на иголках (угольях)</text></cit></cit>
+<сit type="example"><text>stå stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять, не двигаться, не работать (о механизме)</text></cit></cit>
 </sense>
 <sense>
 удержаться, не упасть
@@ -42,44 +42,44 @@
 </sense>
 <sense>
 быть помещённым, вложенным (о капитале)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i pant — быть отданным под залог
+<сit type="example"><text>stå i pant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть отданным под залог</text></cit></cit>
 </sense>
 <sense>
 быть высеченным (написанным)
-<div style="margin-left:5px"><strong><p><span class="dic_example">der står — там стоит надпись, там написано
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå én i hodet (stå i hodet på én) — не выходить из головы
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i hæren (marinen) — числиться в армии (во флоте)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i ens tjeneste — состоять на службе у кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på dagsordenen(på programmet) — стоять на повестке дня (в программе)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på lista — стоять в списке, быть занесённым в список
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå som medlem — состоять членом (общества)
+<сit type="example"><text>der står</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>там стоит надпись, там написано</text></cit></cit>
+<сit type="example"><text>stå én i hodet (stå i hodet på én)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не выходить из головы</text></cit></cit>
+<сit type="example"><text>stå i hæren (marinen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>числиться в армии (во флоте)</text></cit></cit>
+<сit type="example"><text>stå i ens tjeneste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>состоять на службе у кого-л.</text></cit></cit>
+<сit type="example"><text>stå på dagsordenen(på programmet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на повестке дня (в программе)</text></cit></cit>
+<сit type="example"><text>stå på lista</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять в списке, быть занесённым в список</text></cit></cit>
+<сit type="example"><text>stå som medlem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>состоять членом (общества)</text></cit></cit>
 </sense>
 <sense>
 выдерживать (удар, напор)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kunne stå for — удержаться, устоять
+<сit type="example"><text>kunne stå for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удержаться, устоять</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå seg for :
 <сit type = "example"><text>stå seg for :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> устоять против чего-л.</text></cit></cit>
 <сit type = "example"><text>stå seg for :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выжить</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå og (eller) falle — победить и (или) погибнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på sitt — настаивать, стоять на своём, держать свою линию
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på sin rett — стоять за свой права, отстаивать свой права
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå seg med — уживаться с кем-л.
+<сit type="example"><text>stå og (eller) falle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>победить и (или) погибнуть</text></cit></cit>
+<сit type="example"><text>stå på sitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настаивать, стоять на своём, держать свою линию</text></cit></cit>
+<сit type="example"><text>stå på sin rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять за свой права, отстаивать свой права</text></cit></cit>
+<сit type="example"><text>stå seg med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уживаться с кем-л.</text></cit></cit>
 </sense>
 <sense>
 находиться (в каком-л. состоянии)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i aks — колоситься
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i begrep — намереваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i blomst (i flor) — быть в цвету, цвести
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i brann (i flammer) — гореть, полыхать
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i fare — быть (находиться) в опасности
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå høyt i prisen — стоить дорого, быть в цене, высоко цениться
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i lys lue — гореть ярким пламенем
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i knopp — набирать бутоны
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i motsetning (stå i strid) med — находиться в противоречии с чем-л., противоречить чему-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i samklang — гармонировать, согласовываться
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i sin beste alder — быть в расцвете сил
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i spissen for — стоять во главе чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på den beste fot med én — быть на дружеской ноге с кем-л.
+<сit type="example"><text>stå i aks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>колоситься</text></cit></cit>
+<сit type="example"><text>stå i begrep</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намереваться</text></cit></cit>
+<сit type="example"><text>stå i blomst (i flor)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в цвету, цвести</text></cit></cit>
+<сit type="example"><text>stå i brann (i flammer)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гореть, полыхать</text></cit></cit>
+<сit type="example"><text>stå i fare</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в опасности</text></cit></cit>
+<сit type="example"><text>stå høyt i prisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоить дорого, быть в цене, высоко цениться</text></cit></cit>
+<сit type="example"><text>stå i lys lue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гореть ярким пламенем</text></cit></cit>
+<сit type="example"><text>stå i knopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>набирать бутоны</text></cit></cit>
+<сit type="example"><text>stå i motsetning (stå i strid) med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в противоречии с чем-л., противоречить чему-л.</text></cit></cit>
+<сit type="example"><text>stå i samklang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гармонировать, согласовываться</text></cit></cit>
+<сit type="example"><text>stå i sin beste alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в расцвете сил</text></cit></cit>
+<сit type="example"><text>stå i spissen for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять во главе чего-л.</text></cit></cit>
+<сit type="example"><text>stå på den beste fot med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на дружеской ноге с кем-л.</text></cit></cit>
 </sense>
 <sense>
 остановиться (о механизме), не работать (о предприятии)
@@ -95,33 +95,33 @@
 </sense>
 <sense>
 <u>мор.</u> идти, держать курс
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå bidevind — идти бейдевинд
+<сit type="example"><text>stå bidevind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти бейдевинд</text></cit></cit>
 </sense>
 <sense>
 как глагол-связка с предикативным существительным и прилагательным:
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå brud — стать невестой, выходить замуж
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå brudgom — стать женихом, жениться
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå modell — служить моделью, позировать
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå skiltvakt — стоять на часах
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå straff — нести наказание
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå dårlig — находиться в тяжёлом (плохом) состоянии
+<сit type="example"><text>stå brud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать невестой, выходить замуж</text></cit></cit>
+<сit type="example"><text>stå brudgom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать женихом, жениться</text></cit></cit>
+<сit type="example"><text>stå modell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить моделью, позировать</text></cit></cit>
+<сit type="example"><text>stå skiltvakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на часах</text></cit></cit>
+<сit type="example"><text>stå straff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нести наказание</text></cit></cit>
+<сit type="example"><text>stå dårlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в тяжёлом (плохом) состоянии</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå fast :
 <сit type = "example"><text>stå fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застрять</text></cit></cit>
 <сit type = "example"><text>stå fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> оставаться в силе, считаться твёрдо решённым</text></cit></cit>
 <сit type = "example"><text>stå fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> держаться крепко, не поддаваться</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå én dyrt (komme én dyrt å stå) — обойтись кому-л. дорого
+<сit type="example"><text>stå én dyrt (komme én dyrt å stå)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обойтись кому-л. дорого</text></cit></cit>
 </sense>
 <sense>
 в сочетании с последующим глаголом выражает длительный характер действия:
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå og tenke — раздумывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">han står og ser på meg — он стоит и смотрит на меня
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå av — сходить (с поезда, трамвая)
+<сit type="example"><text>stå og tenke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздумывать</text></cit></cit>
+<сit type="example"><text>han står og ser på meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он стоит и смотрит на меня</text></cit></cit>
+<сit type="example"><text>stå av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сходить (с поезда, трамвая)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå bak :
 <сit type = "example"><text>stå bak :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стоять позади чего-л.</text></cit></cit>
 <сit type = "example"><text>stå bak :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поддерживать кого-л.</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå etter :
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå én etter livet — посягать на чью-л. жизнь
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå for én — представать перед кем-л.
+<сit type="example"><text>stå én etter livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посягать на чью-л. жизнь</text></cit></cit>
+<сit type="example"><text>stå for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>представать перед кем-л.</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå for noe :
 <сit type = "example"><text>stå for noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> руководить чем-л.</text></cit></cit>
 <сit type = "example"><text>stå for noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> нести ответственность за что-л.</text></cit></cit>
@@ -129,48 +129,48 @@
 <сit type = "example"><text>stå fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выходить вперёд</text></cit></cit>
 <сit type = "example"><text>stå fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> возникать</text></cit></cit>
 <сit type = "example"><text>stå fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выдаваться вперёд, выступать</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå igjen — оставаться в наличии
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå inne — быть напечатанным в газете
+<сit type="example"><text>stå igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться в наличии</text></cit></cit>
+<сit type="example"><text>stå inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть напечатанным в газете</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå mot :
 <сit type = "example"><text>stå mot :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> бороться с кем-л.</text></cit></cit>
 <сit type = "example"><text>stå mot :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сопротивляться (кому, чему-л.)</text></cit></cit>
 <сit type = "example"><text>stå mot :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выситься, вздыматься</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå om :
-<div style="margin-left:5px"><strong><p><span class="dic_example">det står om — дело (речь) идёт о
+<сit type="example"><text>det står om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело (речь) идёт о</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå opp :
 <сit type = "example"><text>stå opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вставать, подниматься</text></cit></cit>
 <сit type = "example"><text>stå opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> восходить (о солнце, луне)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå opp mot — стоять прислонённым к чему-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå oppe — стоять открытым (о двери, окне)
+<сit type="example"><text>stå opp mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять прислонённым к чему-л.</text></cit></cit>
+<сit type="example"><text>stå oppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять открытым (о двери, окне)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå over :
 <сit type = "example"><text>stå over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать сверхурочно, задерживаться на работе</text></cit></cit>
 <сit type = "example"><text>stå over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пережить (болезнь)</text></cit></cit>
 <сit type = "example"><text>stå over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> остаться ненапечатанной (о статье)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå på :
 <сit type = "example"><text>stå på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> продолжаться, тянуться</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det sto ikke på for ham — ему потребовалось мало времени
+<сit type="example"><text>det sto ikke på for ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему потребовалось мало времени</text></cit></cit>
 <сit type = "example"><text>stå på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> случиться, стрястись</text></cit></cit>
 <сit type = "example"><text>stå på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> зависеть от (чего, кого-л.)</text></cit></cit>
 <сit type = "example"><text>stå på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стоять на, показывать (о барометре, термометре, измерительном приборе)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på ens side — быть на чьей-л. стороне, стоять за кого-л.
+<сit type="example"><text>stå på ens side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на чьей-л. стороне, стоять за кого-л.</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå på skrå :
 <сit type = "example"><text>stå på skrå :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> наклониться, накрениться</text></cit></cit>
 <сit type = "example"><text>stå på skrå :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стоять наискосок</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til — зависеть от кого-л., быть чьим-либо делом
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til ansvar — быть в ответе за что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til regnskap — давать отчёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til rådighet — находиться в (чьём-л.) распоряжении
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til pumpene — <lbl>мор.</lbl> к помпам (команда)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå tilbake — оставаться в наличии, сохраняться
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå under én — быть в подчинении у кого-л.
+<сit type="example"><text>stå til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зависеть от кого-л., быть чьим-либо делом</text></cit></cit>
+<сit type="example"><text>stå til ansvar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в ответе за что-л.</text></cit></cit>
+<сit type="example"><text>stå til regnskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать отчёт</text></cit></cit>
+<сit type="example"><text>stå til rådighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в (чьём-л.) распоряжении</text></cit></cit>
+<сit type="example"><text>stå til pumpene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> к помпам (команда)</text></cit></cit>
+<сit type="example"><text>stå tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться в наличии, сохраняться</text></cit></cit>
+<сit type="example"><text>stå under én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в подчинении у кого-л.</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå ut :
 <сit type = "example"><text>stå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выдаваться, торчать</text></cit></cit>
 <сit type = "example"><text>stå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сходить (с поезда, с автомашины)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå ut med — уживаться, ладить с кем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå ved — настаивать на чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvordan står det til? — как поживаете?, как дела?
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå en bakke — кататься с гор
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på (en) bar bakke — <lbl>погов.</lbl> остаться у разбитого корыта
+<сit type="example"><text>stå ut med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уживаться, ладить с кем-л.</text></cit></cit>
+<сit type="example"><text>stå ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настаивать на чём-л.</text></cit></cit>
+<сit type="example"><text>hvordan står det til?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как поживаете?, как дела?</text></cit></cit>
+<сit type="example"><text>stå en bakke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кататься с гор</text></cit></cit>
+<сit type="example"><text>stå på (en) bar bakke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> остаться у разбитого корыта</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,8 +8,8 @@
 </form>
 <sense>
 слабый <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli svak — слабеть
-<div style="margin-left:5px"><strong><p><span class="dic_example">være svak etter en sykdom — чувствовать слабость после болезни
+<сit type="example"><text>bli svak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слабеть</text></cit></cit>
+<сit type="example"><text>være svak etter en sykdom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать слабость после болезни</text></cit></cit>
 </sense>
 <sense>
 хилый, плохой (о здоровье), дряблый (о мускулах)
@@ -19,7 +19,7 @@
 </sense>
 <sense>
 неустойчивый, нетвёрдый (о политике, ценах и т. п.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er svak for — он не может устоять (напр. против соблазна)
+<сit type="example"><text>han er svak for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не может устоять (напр. против соблазна)</text></cit></cit>
 </sense>
 <sense>
 лёгкий (о вине, запахе, звуке)

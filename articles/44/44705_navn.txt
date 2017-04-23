@@ -8,34 +8,34 @@
 </form>
 <sense>
 имя, фамилия
-<div style="margin-left:5px"><strong><p><span class="dic_example">av navn — по имени
-<div style="margin-left:5px"><strong><p><span class="dic_example">på mitt navn — на моё имя
-<div style="margin-left:5px"><strong><p><span class="dic_example">påtatt navn — псевдоним
-<div style="margin-left:5px"><strong><p><span class="dic_example">kalle én ved navn — позвать кого-л. по имени
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppgi falskt navn — указать ложное имя
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppgi sitt navn — сообщить свою фамилию
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta et nytt navn — переменить фамилию
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale i noens navn — говорить от чьего-л. имени
-<div style="margin-left:5px"><strong><p><span class="dic_example">i kongens navn — именем короля
-<div style="margin-left:5px"><strong><p><span class="dic_example">en skal ikke trette om navnet, før barnet er født — <lbl>посл.</lbl> не дели шкуру неубитого медведя ( <lbl>букв.</lbl> не спорь об имени до рождения ребёнка)
+<сit type="example"><text>av navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по имени</text></cit></cit>
+<сit type="example"><text>på mitt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на моё имя</text></cit></cit>
+<сit type="example"><text>påtatt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>псевдоним</text></cit></cit>
+<сit type="example"><text>kalle én ved navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>позвать кого-л. по имени</text></cit></cit>
+<сit type="example"><text>oppgi falskt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>указать ложное имя</text></cit></cit>
+<сit type="example"><text>oppgi sitt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сообщить свою фамилию</text></cit></cit>
+<сit type="example"><text>ta et nytt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переменить фамилию</text></cit></cit>
+<сit type="example"><text>tale i noens navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить от чьего-л. имени</text></cit></cit>
+<сit type="example"><text>i kongens navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>именем короля</text></cit></cit>
+<сit type="example"><text>en skal ikke trette om navnet, før barnet er født</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> не дели шкуру неубитого медведя ( <lbl>букв.</lbl> не спорь об имени до рождения ребёнка)</text></cit></cit>
 </sense>
 <sense>
 название, наименование
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er navnet på gaten? — как называется эта улица?
+<сit type="example"><text>hva er navnet på gaten?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как называется эта улица?</text></cit></cit>
 </sense>
 <sense>
 прозвище, кличка, ласкательное имя
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjært barn har mange navn — <lbl>погов.</lbl> у милого дитяти много имён
+<сit type="example"><text>kjært barn har mange navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> у милого дитяти много имён</text></cit></cit>
 </sense>
 <sense>
 слава, известность, имя, популярность (чего-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">få et navn — стать известным, получить известность
-<div style="margin-left:5px"><strong><p><span class="dic_example">skape seg et navn — создать себе известность (славу, имя)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han har europeisk navn — он известен во всей Европе
+<сit type="example"><text>få et navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать известным, получить известность</text></cit></cit>
+<сit type="example"><text>skape seg et navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создать себе известность (славу, имя)</text></cit></cit>
+<сit type="example"><text>han har europeisk navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он известен во всей Европе</text></cit></cit>
 </sense>
 <sense>
 метка
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette navn på — метить (бельё), вышивать метки
+<сit type="example"><text>sette navn på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метить (бельё), вышивать метки</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

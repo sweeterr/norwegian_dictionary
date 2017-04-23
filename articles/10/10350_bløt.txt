@@ -8,8 +8,8 @@
 </form>
 <sense>
 мягкий
-<div style="margin-left:5px"><strong><p><span class="dic_example">falle bløtt — упасть на что-л. мягкое, не ушибиться при падении
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge bløtt — лежать на чём-л. мягком
+<сit type="example"><text>falle bløtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть на что-л. мягкое, не ушибиться при падении</text></cit></cit>
+<сit type="example"><text>ligge bløtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать на чём-л. мягком</text></cit></cit>
 </sense>
 <sense>
 гладкий, без шероховатостей
@@ -19,7 +19,7 @@
 </sense>
 <sense>
 чувствительный, сентиментальный, нежный
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli bløtt om hjertet — растрогаться
+<сit type="example"><text>bli bløtt om hjertet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растрогаться</text></cit></cit>
 </sense>
 <sense>
 благодушный (о настроении)
@@ -44,17 +44,17 @@
 </sense>
 <sense>
 слабый, женственный (о характере)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han ble bløt i knærne bløt — у него поджилки затряслись
+<сit type="example"><text>han ble bløt i knærne bløt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него поджилки затряслись</text></cit></cit>
 </sense>
 <sense>
 слабоумный
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli bløt — рехнуться
-<div style="margin-left:5px"><strong><p><span class="dic_example">være bløt på pæren — <lbl>груб.</lbl> быть не в своём уме
+<сit type="example"><text>bli bløt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рехнуться</text></cit></cit>
+<сit type="example"><text>være bløt på pæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>груб.</lbl> быть не в своём уме</text></cit></cit>
 </sense>
 <sense>
 мокрый, сырой
-<div style="margin-left:5px"><strong><p><span class="dic_example">være bløt på benene — промочить ноги
-<div style="margin-left:5px"><strong><p><span class="dic_example">bløt til skinnet — промокший до костей
+<сit type="example"><text>være bløt på benene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промочить ноги</text></cit></cit>
+<сit type="example"><text>bløt til skinnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промокший до костей</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -62,7 +62,7 @@
 <form>
 <orth type="lemma">bløt</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge sitt hode i bløt — впадать в раздумье
+<сit type="example"><text>legge sitt hode i bløt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впадать в раздумье</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

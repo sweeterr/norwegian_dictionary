@@ -14,7 +14,7 @@
 <orth type="lemma">luktende</orth>
 <u>adj</u>
 пахучий, издающий запах
-<div style="margin-left:5px"><strong><p><span class="dic_example">ille luktende — плохо пахнущий
+<сit type="example"><text>ille luktende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо пахнущий</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">luktende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">man blir så luktende lei — можно пресытиться, это может надоесть
+<сit type="example"><text>man blir så luktende lei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>можно пресытиться, это может надоесть</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

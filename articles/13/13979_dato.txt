@@ -6,12 +6,12 @@
 <orth type="lemma">dato</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 число, дата
-<div style="margin-left:5px"><strong><p><span class="dic_example">dags dato — сегодняшнее число
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra dags dato — с сегодняшнего числа
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra dato — от сегодняшнего числа
-<div style="margin-left:5px"><strong><p><span class="dic_example">til dato — до сегодняшнего дня, до сего числа, до настоящего времени
-<div style="margin-left:5px"><strong><p><span class="dic_example">under dags dato — сегодняшним числом
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten dato — без числа
+<сit type="example"><text>dags dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодняшнее число</text></cit></cit>
+<сit type="example"><text>fra dags dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с сегодняшнего числа</text></cit></cit>
+<сit type="example"><text>fra dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от сегодняшнего числа</text></cit></cit>
+<сit type="example"><text>til dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до сегодняшнего дня, до сего числа, до настоящего времени</text></cit></cit>
+<сit type="example"><text>under dags dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодняшним числом</text></cit></cit>
+<сit type="example"><text>uten dato</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без числа</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

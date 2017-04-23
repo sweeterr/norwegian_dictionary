@@ -6,8 +6,8 @@
 <orth type="lemma">knappe</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 застёгивать на пуговицы (на кнопки)
-<div style="margin-left:5px"><strong><p><span class="dic_example">knappe igjen — застегнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">knappe ned, knappe opp — расстёгивать
+<сit type="example"><text>knappe igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>застегнуть</text></cit></cit>
+<сit type="example"><text>knappe ned, knappe opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расстёгивать</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,8 +15,8 @@
 <form>
 <orth type="lemma">knappe</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">knappe av — уменьшать, укорачивать, сужать
-<div style="margin-left:5px"><strong><p><span class="dic_example">knappe av på lønnen — сокращать заработную плату
+<сit type="example"><text>knappe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшать, укорачивать, сужать</text></cit></cit>
+<сit type="example"><text>knappe av på lønnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать заработную плату</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

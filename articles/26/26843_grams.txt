@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">grams</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i grams — случайно, наудачу
-<div style="margin-left:5px"><strong><p><span class="dic_example">i grams og grus — от случая к случаю
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste penger i grams — бросать деньги в толпу
+<сit type="example"><text>i grams</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случайно, наудачу</text></cit></cit>
+<сit type="example"><text>i grams og grus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от случая к случаю</text></cit></cit>
+<сit type="example"><text>kaste penger i grams</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросать деньги в толпу</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

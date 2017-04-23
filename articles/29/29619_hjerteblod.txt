@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">hjerteblod</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi sitt hjerteblod — отдать свою жизнь
-<div style="margin-left:5px"><strong><p><span class="dic_example">ofre sitt hjerteblod — пожертвовать своей жизнью
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrive med sitt hjerteblod — писать кровью своего сердца, описывать свой сокровенные чувства
+<сit type="example"><text>gi sitt hjerteblod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать свою жизнь</text></cit></cit>
+<сit type="example"><text>ofre sitt hjerteblod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожертвовать своей жизнью</text></cit></cit>
+<сit type="example"><text>skrive med sitt hjerteblod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать кровью своего сердца, описывать свой сокровенные чувства</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

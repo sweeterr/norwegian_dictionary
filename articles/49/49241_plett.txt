@@ -8,24 +8,24 @@
 </form>
 <sense>
 пятно
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvit plett på kartet — белое пятно на карте
-<div style="margin-left:5px"><strong><p><span class="dic_example">den blinde plett — <lbl>анат.</lbl> слепое пятно
+<сit type="example"><text>hvit plett på kartet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белое пятно на карте</text></cit></cit>
+<сit type="example"><text>den blinde plett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> слепое пятно</text></cit></cit>
 </sense>
 <sense>
 синяк, покраснение (на коже)
 </sense>
 <sense>
 позорное пятно
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette plett på sitt navn — запятнать своё имя
+<сit type="example"><text>sette plett på sitt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запятнать своё имя</text></cit></cit>
 </sense>
 <sense>
 место
 <div style="margin-left:5px"><strong><p><span class="dic_example">på pletten :
 <сit type = "example"><text>på pletten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо на месте</text></cit></cit>
 <сit type = "example"><text>på pletten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сразу, тут же, немедленно</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på en plett — точка в точку
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke røre seg av pletten — не двигаться с места
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme først på pletten — явиться первым
+<сit type="example"><text>på en plett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точка в точку</text></cit></cit>
+<сit type="example"><text>ikke røre seg av pletten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не двигаться с места</text></cit></cit>
+<сit type="example"><text>komme først på pletten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>явиться первым</text></cit></cit>
 </sense>
 <sense>
 <u>астр.</u> пятно на Солнце

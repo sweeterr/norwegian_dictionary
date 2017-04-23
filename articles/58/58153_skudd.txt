@@ -8,18 +8,18 @@
 </form>
 <sense>
 выстрел
-<div style="margin-left:5px"><strong><p><span class="dic_example">løst skudd — холостой выстрел
-<div style="margin-left:5px"><strong><p><span class="dic_example">løsne et skudd — дать выстрел
-<div style="margin-left:5px"><strong><p><span class="dic_example">sende et skudd for baugen — <lbl>мор.</lbl> дать предупредительный выстрел
+<сit type="example"><text>løst skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холостой выстрел</text></cit></cit>
+<сit type="example"><text>løsne et skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать выстрел</text></cit></cit>
+<сit type="example"><text>sende et skudd for baugen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> дать предупредительный выстрел</text></cit></cit>
 </sense>
 <sense>
 патрон, боезаряд
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte med skarpt skudd — стрелять боевыми патронами
+<сit type="example"><text>skyte med skarpt skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять боевыми патронами</text></cit></cit>
 </sense>
 <sense>
 <u>спорт.</u> удар по воротам
-<div style="margin-left:5px"><strong><p><span class="dic_example">avverge skudd — предотвратить гол
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme i skudd — быть в ударе
+<сit type="example"><text>avverge skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предотвратить гол</text></cit></cit>
+<сit type="example"><text>komme i skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в ударе</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -38,9 +38,9 @@
 </form>
 <sense>
 росток, побег, отросток
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme (være) i skuddet — цвести, процветать
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte nye skudd — давать новые ростки (побеги)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i skuddet — быть популярным
+<сit type="example"><text>komme (være) i skuddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цвести, процветать</text></cit></cit>
+<сit type="example"><text>skyte nye skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать новые ростки (побеги)</text></cit></cit>
+<сit type="example"><text>være i skuddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть популярным</text></cit></cit>
 </sense>
 <sense>
 потомок, отпрыск

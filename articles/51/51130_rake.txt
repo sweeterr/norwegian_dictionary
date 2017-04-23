@@ -30,8 +30,8 @@
 </sense>
 <sense>
 <u>уст.</u> брить
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake seg — бриться
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake kastanjene av ilden — таскать каштаны из огня
+<сit type="example"><text>rake seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бриться</text></cit></cit>
+<сit type="example"><text>rake kastanjene av ilden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таскать каштаны из огня</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -42,17 +42,17 @@
 </form>
 <sense>
 касаться, относиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva raker det meg? — какое мне дело до этого?
+<сit type="example"><text>hva raker det meg?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какое мне дело до этого?</text></cit></cit>
 </sense>
 <sense>
 наткнуться, неожиданно встретиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake bort (ombord) i — <lbl>мор.</lbl> столкнуться (с кем-л.), натолкнуться (на что-л.)
+<сit type="example"><text>rake bort (ombord) i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> столкнуться (с кем-л.), натолкнуться (на что-л.)</text></cit></cit>
 </sense>
 <sense>
 оказаться, очутиться (в каком-л. положении)
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake i drift — <lbl>мор.</lbl> лечь в дрейф, дрейфовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake opp i — столкнуться (с чем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">rake sammen — <lbl>уст.</lbl> вступить в ссору (драку)
+<сit type="example"><text>rake i drift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> лечь в дрейф, дрейфовать</text></cit></cit>
+<сit type="example"><text>rake opp i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столкнуться (с чем-л.)</text></cit></cit>
+<сit type="example"><text>rake sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> вступить в ссору (драку)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

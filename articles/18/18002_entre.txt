@@ -8,12 +8,12 @@
 </form>
 <sense>
 входить
-<div style="margin-left:5px"><strong><p><span class="dic_example">entre en havn — <lbl>мор.</lbl> войти в гавань (в порт)
-<div style="margin-left:5px"><strong><p><span class="dic_example">entre ringen — <lbl>спорт.</lbl> выйти на арену
+<сit type="example"><text>entre en havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> войти в гавань (в порт)</text></cit></cit>
+<сit type="example"><text>entre ringen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> выйти на арену</text></cit></cit>
 </sense>
 <sense>
 <u>мор.</u> брать на абордаж
-<div style="margin-left:5px"><strong><p><span class="dic_example">entre i tauene — подниматься по канатам
+<сit type="example"><text>entre i tauene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подниматься по канатам</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

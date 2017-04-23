@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">bloc</orth>
 <u>inv</u> <u>разг.</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en bloc — гуртом, оптом, целиком
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta noe en bloc — брать целиком (оптом)
-<div style="margin-left:5px"><strong><p><span class="dic_example">selge en bloc — продавать оптом
+<сit type="example"><text>en bloc</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гуртом, оптом, целиком</text></cit></cit>
+<сit type="example"><text>ta noe en bloc</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать целиком (оптом)</text></cit></cit>
+<сit type="example"><text>selge en bloc</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продавать оптом</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

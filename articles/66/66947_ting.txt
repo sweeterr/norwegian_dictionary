@@ -8,20 +8,20 @@
 </form>
 <sense>
 вещь <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>, предмет
-<div style="margin-left:5px"><strong><p><span class="dic_example">alle ting — всё
-<div style="margin-left:5px"><strong><p><span class="dic_example">funne ting — найденные вещи
-<div style="margin-left:5px"><strong><p><span class="dic_example">ingen ting — ничего
-<div style="margin-left:5px"><strong><p><span class="dic_example">søte ting — сладости
-<div style="margin-left:5px"><strong><p><span class="dic_example">hver ting til sin tid — <lbl>погов.</lbl> всякому овощу своё время
+<сit type="example"><text>alle ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё</text></cit></cit>
+<сit type="example"><text>funne ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найденные вещи</text></cit></cit>
+<сit type="example"><text>ingen ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничего</text></cit></cit>
+<сit type="example"><text>søte ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сладости</text></cit></cit>
+<сit type="example"><text>hver ting til sin tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> всякому овощу своё время</text></cit></cit>
 </sense>
 <sense>
 дело, обстоятельство, факт, событие
-<div style="margin-left:5px"><strong><p><span class="dic_example">en annen ting — нечто другое, что-л. другое
-<div style="margin-left:5px"><strong><p><span class="dic_example">den ting at vi ... — тот факт, что мы ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er kommet gang i tingene — дела пошли хорошо
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke for ingen ting — не без основания
-<div style="margin-left:5px"><strong><p><span class="dic_example">la tingen løpe — предоставить дело естественному ходу
-<div style="margin-left:5px"><strong><p><span class="dic_example">tingen i seg selv — <lbl>филос.</lbl> вещь в себе
+<сit type="example"><text>en annen ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто другое, что-л. другое</text></cit></cit>
+<сit type="example"><text>den ting at vi ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот факт, что мы ...</text></cit></cit>
+<сit type="example"><text>det er kommet gang i tingene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дела пошли хорошо</text></cit></cit>
+<сit type="example"><text>ikke for ingen ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не без основания</text></cit></cit>
+<сit type="example"><text>la tingen løpe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предоставить дело естественному ходу</text></cit></cit>
+<сit type="example"><text>tingen i seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>филос.</lbl> вещь в себе</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +32,7 @@
 </form>
 <sense>
 сессия (суда, Стортинга, парламента)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til tings — на сессию, на заседание
+<сit type="example"><text>til tings</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на сессию, на заседание</text></cit></cit>
 </sense>
 <sense>
 собрание

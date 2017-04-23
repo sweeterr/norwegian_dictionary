@@ -8,8 +8,8 @@
 </form>
 <sense>
 группа, кучка
-<div style="margin-left:5px"><strong><p><span class="dic_example">i vennenes klynge — в кругу друзей
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i klynger — стоять группами (кучками)
+<сit type="example"><text>i vennenes klynge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в кругу друзей</text></cit></cit>
+<сit type="example"><text>stå i klynger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять группами (кучками)</text></cit></cit>
 </sense>
 <sense>
 купа, группа (деревьев)
@@ -20,8 +20,8 @@
 <form>
 <orth type="lemma">klynge</orth>
 <em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">klynge opp — вешать, вздёргивать на верёвке (канате)
-<div style="margin-left:5px"><strong><p><span class="dic_example">klynge én opp — повесить кого-л.
+<сit type="example"><text>klynge opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вешать, вздёргивать на верёвке (канате)</text></cit></cit>
+<сit type="example"><text>klynge én opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повесить кого-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

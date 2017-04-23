@@ -22,9 +22,9 @@
 <orth type="lemma">så</orth>
 <u>pron</u>
 такой, такая, такое, такие
-<div style="margin-left:5px"><strong><p><span class="dic_example">i så fall — в таком случае
-<div style="margin-left:5px"><strong><p><span class="dic_example">i så måte — в такой мере (степени)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i så tilfelle — в таком случае
+<сit type="example"><text>i så fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в таком случае</text></cit></cit>
+<сit type="example"><text>i så måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в такой мере (степени)</text></cit></cit>
+<сit type="example"><text>i så tilfelle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в таком случае</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -33,8 +33,8 @@
 <orth type="lemma">så</orth>
 <em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
 сеять <u>тж. перен.</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">så seg (selv) — рассеиваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">så til — засевать
+<сit type="example"><text>så seg (selv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассеиваться</text></cit></cit>
+<сit type="example"><text>så til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засевать</text></cit></cit>
 </sense>
 </entry><entry>
 <index></index>
@@ -51,37 +51,37 @@
 </form>
 <sense>
 так, таким образом, столь
-<div style="margin-left:5px"><strong><p><span class="dic_example">(enn) som så — вот так
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke større enn som så — не больше этого
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke så — не так
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er ikke så ung som ... — он не так молод, как ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg er så glad — я так рад
-<div style="margin-left:5px"><strong><p><span class="dic_example">så langt tilbake som ... — так давно, как ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">så lenge som — до тех пор пока
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre ganger så mange — в три раза больше
-<div style="margin-left:5px"><strong><p><span class="dic_example">så snart som — как только
-<div style="margin-left:5px"><strong><p><span class="dic_example">så som så — так себе
-<div style="margin-left:5px"><strong><p><span class="dic_example">ja så (da) — вот как
-<div style="margin-left:5px"><strong><p><span class="dic_example">så trett du er — как ты устал
-<div style="margin-left:5px"><strong><p><span class="dic_example">så vidt — насколько
-<div style="margin-left:5px"><strong><p><span class="dic_example">så vidt jeg vet — насколько я знаю
-<div style="margin-left:5px"><strong><p><span class="dic_example">så og så — такой-то (вместо имени)
-<div style="margin-left:5px"><strong><p><span class="dic_example">så å si — так сказать
-<div style="margin-left:5px"><strong><p><span class="dic_example">se så — вот так, вот
-<div style="margin-left:5px"><strong><p><span class="dic_example">og hva så? — ну и что же?
+<сit type="example"><text>(enn) som så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот так</text></cit></cit>
+<сit type="example"><text>ikke større enn som så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не больше этого</text></cit></cit>
+<сit type="example"><text>ikke så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не так</text></cit></cit>
+<сit type="example"><text>han er ikke så ung som ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не так молод, как ...</text></cit></cit>
+<сit type="example"><text>jeg er så glad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я так рад</text></cit></cit>
+<сit type="example"><text>så langt tilbake som ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так давно, как ...</text></cit></cit>
+<сit type="example"><text>så lenge som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до тех пор пока</text></cit></cit>
+<сit type="example"><text>tre ganger så mange</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в три раза больше</text></cit></cit>
+<сit type="example"><text>så snart som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как только</text></cit></cit>
+<сit type="example"><text>så som så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так себе</text></cit></cit>
+<сit type="example"><text>ja så (da)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот как</text></cit></cit>
+<сit type="example"><text>så trett du er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ты устал</text></cit></cit>
+<сit type="example"><text>så vidt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насколько</text></cit></cit>
+<сit type="example"><text>så vidt jeg vet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насколько я знаю</text></cit></cit>
+<сit type="example"><text>så og så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>такой-то (вместо имени)</text></cit></cit>
+<сit type="example"><text>så å si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так сказать</text></cit></cit>
+<сit type="example"><text>se så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот так, вот</text></cit></cit>
+<сit type="example"><text>og hva så?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну и что же?</text></cit></cit>
 </sense>
 <sense>
 в начале главного предложения при наличии условного придаточного, то:
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvis jeg ser ham igjen så skal jeg gi ham boka — если я увижу его опять, то я передам ему книгу
+<сit type="example"><text>hvis jeg ser ham igjen så skal jeg gi ham boka</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если я увижу его опять, то я передам ему книгу</text></cit></cit>
 </sense>
 <sense>
 в восклицательных предложениях, как:
-<div style="margin-left:5px"><strong><p><span class="dic_example">så trett du er — как ты устал
+<сit type="example"><text>så trett du er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ты устал</text></cit></cit>
 </sense>
 <sense>
 итак
-<div style="margin-left:5px"><strong><p><span class="dic_example">så eida den sak avgjort — итак, дело сделано
-<div style="margin-left:5px"><strong><p><span class="dic_example">så at ... — так, что ...; так, чтобы ...
+<сit type="example"><text>så eida den sak avgjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>итак, дело сделано</text></cit></cit>
+<сit type="example"><text>så at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, что ...; так, чтобы ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

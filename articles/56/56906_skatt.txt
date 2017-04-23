@@ -11,8 +11,8 @@
 </sense>
 <sense>
 <u>перен.</u> сокровище (о человеке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jordens skatter — земные сокровища
-<div style="margin-left:5px"><strong><p><span class="dic_example">min skatt — моё сокровище
+<сit type="example"><text>jordens skatter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>земные сокровища</text></cit></cit>
+<сit type="example"><text>min skatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>моё сокровище</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <orth type="lemma">skatt</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 налог, сбор, подать
-<div style="margin-left:5px"><strong><p><span class="dic_example">direkte (indirekte) skatt — прямой (косвенный) налог
-<div style="margin-left:5px"><strong><p><span class="dic_example">heve skatter — взимать налоги
-<div style="margin-left:5px"><strong><p><span class="dic_example">pålegge skatt — облагать налогом
-<div style="margin-left:5px"><strong><p><span class="dic_example">skattene går godt inn — налоговые деньги поступают хорошо
+<сit type="example"><text>direkte (indirekte) skatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямой (косвенный) налог</text></cit></cit>
+<сit type="example"><text>heve skatter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взимать налоги</text></cit></cit>
+<сit type="example"><text>pålegge skatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>облагать налогом</text></cit></cit>
+<сit type="example"><text>skattene går godt inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налоговые деньги поступают хорошо</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

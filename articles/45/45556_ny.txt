@@ -6,7 +6,7 @@
 <orth type="lemma">ny</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 <u>астр.</u> новолуние
-<div style="margin-left:5px"><strong><p><span class="dic_example">i ny og ne — изредка, время от времени, иногда
+<сit type="example"><text>i ny og ne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изредка, время от времени, иногда</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,13 +17,13 @@
 </form>
 <sense>
 новый
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra nytt av — с самого начала
-<div style="margin-left:5px"><strong><p><span class="dic_example">på ny(tt) — вновь, снова
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er nytt for meg — это новость для меня
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva nytt? — что нового?
-<div style="margin-left:5px"><strong><p><span class="dic_example">så godt som ny — почти новый
-<div style="margin-left:5px"><strong><p><span class="dic_example">høre nytt — услышать новость
-<div style="margin-left:5px"><strong><p><span class="dic_example">nye tider, nye menn — <lbl>посл.</lbl> новые времена - новые люди
+<сit type="example"><text>fra nytt av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с самого начала</text></cit></cit>
+<сit type="example"><text>på ny(tt)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вновь, снова</text></cit></cit>
+<сit type="example"><text>det er nytt for meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это новость для меня</text></cit></cit>
+<сit type="example"><text>hva nytt?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что нового?</text></cit></cit>
+<сit type="example"><text>så godt som ny</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почти новый</text></cit></cit>
+<сit type="example"><text>høre nytt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>услышать новость</text></cit></cit>
+<сit type="example"><text>nye tider, nye menn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> новые времена - новые люди</text></cit></cit>
 </sense>
 <sense>
 молодой (о картофеле, вине)

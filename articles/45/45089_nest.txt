@@ -17,18 +17,18 @@
 <index></index>
 <form>
 <orth type="lemma">nest</orth>
- <u>adj</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> nær 1)
+<u>adj</u> <em><span class="dic_color"><span class="dic_comment">superl — от</em> nær 1)
 </form>
 <sense>
 лежащий рядом (ближе всего)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være noens hjerte nest — быть очень близким кому-л.
+<сit type="example"><text>være noens hjerte nest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очень близким кому-л.</text></cit></cit>
 </sense>
 <sense>
 следующий (за наилучшим), второй (по качеству)
-<div style="margin-left:5px"><strong><p><span class="dic_example">nest best — уступающий лишь самому лучшему, второсортный
-<div style="margin-left:5px"><strong><p><span class="dic_example">nest første — второй по порядку, следующий за
-<div style="margin-left:5px"><strong><p><span class="dic_example">nest siste — предпоследний
-<div style="margin-left:5px"><strong><p><span class="dic_example">nest største — второй по величине
+<сit type="example"><text>nest best</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уступающий лишь самому лучшему, второсортный</text></cit></cit>
+<сit type="example"><text>nest første</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>второй по порядку, следующий за</text></cit></cit>
+<сit type="example"><text>nest siste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предпоследний</text></cit></cit>
+<сit type="example"><text>nest største</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>второй по величине</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +37,7 @@
 <orth type="lemma">nest</orth>
 <u>adv</u>
 <u>уст.</u> сразу, потом (затем, после)
-<div style="margin-left:5px"><strong><p><span class="dic_example">nest etter — сразу за, сейчас же после
+<сit type="example"><text>nest etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сразу за, сейчас же после</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

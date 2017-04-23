@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">kullende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kullende sort (svart) — чёрный как уголь
-<div style="margin-left:5px"><strong><p><span class="dic_example">kullende mørk — тёмный - хоть глаз выколи
+<сit type="example"><text>kullende sort (svart)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный как уголь</text></cit></cit>
+<сit type="example"><text>kullende mørk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный - хоть глаз выколи</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

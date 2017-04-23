@@ -8,20 +8,20 @@
 </form>
 <sense>
 бумага
-<div style="margin-left:5px"><strong><p><span class="dic_example">et ark (stykke) papir — лист бумаги
-<div style="margin-left:5px"><strong><p><span class="dic_example">krittert papir — меловая бумага
-<div style="margin-left:5px"><strong><p><span class="dic_example">linjert papir — линованная бумага
-<div style="margin-left:5px"><strong><p><span class="dic_example">ubeskrevet papir — чистая, неисписанная бумага
-<div style="margin-left:5px"><strong><p><span class="dic_example">bringe på papiret — записать, зафиксировать
-<div style="margin-left:5px"><strong><p><span class="dic_example">papiret er tålmodig — <lbl>погов.</lbl> бумага всё терпит
+<сit type="example"><text>et ark (stykke) papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лист бумаги</text></cit></cit>
+<сit type="example"><text>krittert papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меловая бумага</text></cit></cit>
+<сit type="example"><text>linjert papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>линованная бумага</text></cit></cit>
+<сit type="example"><text>ubeskrevet papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистая, неисписанная бумага</text></cit></cit>
+<сit type="example"><text>bringe på papiret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записать, зафиксировать</text></cit></cit>
+<сit type="example"><text>papiret er tålmodig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> бумага всё терпит</text></cit></cit>
 </sense>
 <sense>
 документ, бумага
-<div style="margin-left:5px"><strong><p><span class="dic_example">kikke én i papirene — совать свой нос в чужие дела
+<сit type="example"><text>kikke én i papirene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совать свой нос в чужие дела</text></cit></cit>
 </sense>
 <sense>
 <u>pl</u> ценные бумаги
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er et dårlig papir — он скверный тип
+<сit type="example"><text>han er et dårlig papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он скверный тип</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

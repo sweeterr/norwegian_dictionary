@@ -29,8 +29,8 @@
 <orth type="lemma">utifra</orth>
 <u>prep</u>
 указывает на движение из пределов, границ предмета, из, от
-<div style="margin-left:5px"><strong><p><span class="dic_example">utifra huset — из дома
-<div style="margin-left:5px"><strong><p><span class="dic_example">utifra seg — вне себя
+<сit type="example"><text>utifra huset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из дома</text></cit></cit>
+<сit type="example"><text>utifra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вне себя</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

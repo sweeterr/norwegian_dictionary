@@ -9,8 +9,8 @@
 </form>
 <sense>
 рисовать, делать зарисовки
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne et billede av — изображать
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne etter naturen — рисовать с натуры
+<сit type="example"><text>tegne et billede av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изображать</text></cit></cit>
+<сit type="example"><text>tegne etter naturen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рисовать с натуры</text></cit></cit>
 </sense>
 <sense>
 чертить, делать план(-эскиз)
@@ -20,9 +20,9 @@
 </sense>
 <sense>
 заносить, записывать (фамилию)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne ned — записывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne til — предвещать, обещать
-<div style="margin-left:5px"><strong><p><span class="dic_example">tegne under — подписывать
+<сit type="example"><text>tegne ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записывать</text></cit></cit>
+<сit type="example"><text>tegne til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предвещать, обещать</text></cit></cit>
+<сit type="example"><text>tegne under</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подписывать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

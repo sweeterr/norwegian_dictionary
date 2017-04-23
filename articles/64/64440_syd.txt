@@ -8,10 +8,10 @@
 </form>
 <sense>
 юг
-<div style="margin-left:5px"><strong><p><span class="dic_example">syd for — к югу от
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra syd — с юга
-<div style="margin-left:5px"><strong><p><span class="dic_example">i syd — на юге
-<div style="margin-left:5px"><strong><p><span class="dic_example">mot syd — к югу
+<сit type="example"><text>syd for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к югу от</text></cit></cit>
+<сit type="example"><text>fra syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с юга</text></cit></cit>
+<сit type="example"><text>i syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на юге</text></cit></cit>
+<сit type="example"><text>mot syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к югу</text></cit></cit>
 </sense>
 <sense>
 <u>собир.</u> Средиземноморские страны
@@ -28,8 +28,8 @@
 </sense>
 <sense>
 к югу, южнее
-<div style="margin-left:5px"><strong><p><span class="dic_example">syd for Oslo — южнее Осло
-<div style="margin-left:5px"><strong><p><span class="dic_example">bo syd i byen — жить в южной части города
+<сit type="example"><text>syd for Oslo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>южнее Осло</text></cit></cit>
+<сit type="example"><text>bo syd i byen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить в южной части города</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

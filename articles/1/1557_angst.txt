@@ -6,9 +6,9 @@
 <orth type="lemma">angst</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 страх, боязнь, опасения, тревожное состояние
-<div style="margin-left:5px"><strong><p><span class="dic_example">dødelig (dødsens) angst — смертельный страх
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha angst — бояться (чего-л. — for)
-<div style="margin-left:5px"><strong><p><span class="dic_example">inngyte en angst — вселять страх (в кого-л.)
+<сit type="example"><text>dødelig (dødsens) angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смертельный страх</text></cit></cit>
+<сit type="example"><text>ha angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бояться (чего-л. — for)</text></cit></cit>
+<сit type="example"><text>inngyte en angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вселять страх (в кого-л.)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,9 +17,9 @@
 <orth type="lemma">angst</orth>
 <u>adj</u>
 боязливый, робкий, пугливый
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre en angst — пугать кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli angst — испугаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">være angst — бояться (чего-л.— for)
+<сit type="example"><text>gjøre en angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пугать кого-л.</text></cit></cit>
+<сit type="example"><text>bli angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испугаться</text></cit></cit>
+<сit type="example"><text>være angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бояться (чего-л.— for)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

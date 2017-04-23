@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">frank</orth>
 <u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fri og frank, frank og fri — свободный (вольный) как ветер
+<сit type="example"><text>fri og frank, frank og fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободный (вольный) как ветер</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

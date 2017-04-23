@@ -8,11 +8,11 @@
 </form>
 <sense>
 остаток (тж. при вычитании)
-<div style="margin-left:5px"><strong><p><span class="dic_example">og fire blir rest — и в остатке четыре
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele resten — всё остальное
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) til rest — быть в остатке
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til rest — оставаться невыплаченной (о сумме денег)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå til rest med — отставать с чем-л.
+<сit type="example"><text>og fire blir rest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и в остатке четыре</text></cit></cit>
+<сit type="example"><text>hele resten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё остальное</text></cit></cit>
+<сit type="example"><text>bli (være) til rest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в остатке</text></cit></cit>
+<сit type="example"><text>stå til rest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться невыплаченной (о сумме денег)</text></cit></cit>
+<сit type="example"><text>stå til rest med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отставать с чем-л.</text></cit></cit>
 </sense>
 <sense>
 <u>pl</u> обломки, куски, остатки
@@ -22,7 +22,7 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">for resten :
 <сit type = "example"><text>for resten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> к тому же, между прочим, впрочем</text></cit></cit>
 <сit type = "example"><text>for resten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в остальном</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på resten — <lbl>диал.</lbl> наконец; в конце концов
+<сit type="example"><text>på resten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> наконец; в конце концов</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

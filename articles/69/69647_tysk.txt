@@ -6,8 +6,8 @@
 <orth type="lemma">tysk</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 немецкий язык
-<div style="margin-left:5px"><strong><p><span class="dic_example">på tysk — по-немецки
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakke (tale) tysk — говорить по-немецки
+<сit type="example"><text>på tysk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по-немецки</text></cit></cit>
+<сit type="example"><text>snakke (tale) tysk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-немецки</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -16,8 +16,8 @@
 <orth type="lemma">tysk</orth>
 <u>adj</u>
 немецкий, германский
-<div style="margin-left:5px"><strong><p><span class="dic_example">en tysk kvinne — немка
-<div style="margin-left:5px"><strong><p><span class="dic_example">de tyske — немцы
+<сit type="example"><text>en tysk kvinne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немка</text></cit></cit>
+<сit type="example"><text>de tyske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немцы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

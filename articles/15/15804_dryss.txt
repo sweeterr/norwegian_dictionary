@@ -6,8 +6,8 @@
 <orth type="lemma">dryss</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>разг.</u> уйма, куча
-<div style="margin-left:5px"><strong><p><span class="dic_example">en dryss av unger — куча детей (в семье)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha en dryss med penger — иметь уйму денег
+<сit type="example"><text>en dryss av unger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куча детей (в семье)</text></cit></cit>
+<сit type="example"><text>ha en dryss med penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь уйму денег</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 </sense>
 <sense>
 <u>перен.</u> дождь
-<div style="margin-left:5px"><strong><p><span class="dic_example">et dryss av epleblomster — осыпание лепестков яблонного цвета
+<сit type="example"><text>et dryss av epleblomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осыпание лепестков яблонного цвета</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

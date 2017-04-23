@@ -8,15 +8,15 @@
 </form>
 <sense>
 граница
-<div style="margin-left:5px"><strong><p><span class="dic_example">naturlig grense — естественная граница
-<div style="margin-left:5px"><strong><p><span class="dic_example">beskytte grenser — охранять границы
-<div style="margin-left:5px"><strong><p><span class="dic_example">danne grensen — образовывать границу, являться границей
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra over grensen — переходить границу (государства)
+<сit type="example"><text>naturlig grense</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>естественная граница</text></cit></cit>
+<сit type="example"><text>beskytte grenser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>охранять границы</text></cit></cit>
+<сit type="example"><text>danne grensen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>образовывать границу, являться границей</text></cit></cit>
+<сit type="example"><text>dra over grensen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переходить границу (государства)</text></cit></cit>
 </sense>
 <sense>
 предел
-<div style="margin-left:5px"><strong><p><span class="dic_example">innen grensene for noe — в пределах чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjenne ingen grenser — не знать границ (предела)
+<сit type="example"><text>innen grensene for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пределах чего-л.</text></cit></cit>
+<сit type="example"><text>kjenne ingen grenser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не знать границ (предела)</text></cit></cit>
 </sense>
 <sense>
 <u>мат.</u> предел, предельная величина
@@ -28,7 +28,7 @@
 <orth type="lemma">grense</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 граничить (с кем, чем-либо - til, mot, тж. grense opp)
-<div style="margin-left:5px"><strong><p><span class="dic_example">grense av — отграничивать
+<сit type="example"><text>grense av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отграничивать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

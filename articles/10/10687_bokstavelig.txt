@@ -6,9 +6,9 @@
 <orth type="lemma">bokstavelig</orth>
 <u>adj</u>
 буквальный, дословный
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta bokstavelig — принимать, понимать (что-л.) буквально
-<div style="margin-left:5px"><strong><p><span class="dic_example">bokstavelig talt — буквально, слово в слово
-<div style="margin-left:5px"><strong><p><span class="dic_example">bokstavelig oversettelse — дословный перевод
+<сit type="example"><text>ta bokstavelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать, понимать (что-л.) буквально</text></cit></cit>
+<сit type="example"><text>bokstavelig talt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>буквально, слово в слово</text></cit></cit>
+<сit type="example"><text>bokstavelig oversettelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дословный перевод</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

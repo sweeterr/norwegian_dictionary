@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">millionvis</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i millionvis — миллионами, в миллионных количествах
-<div style="margin-left:5px"><strong><p><span class="dic_example">millionvis av mennesker — миллионы людей
+<сit type="example"><text>i millionvis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>миллионами, в миллионных количествах</text></cit></cit>
+<сit type="example"><text>millionvis av mennesker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>миллионы людей</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

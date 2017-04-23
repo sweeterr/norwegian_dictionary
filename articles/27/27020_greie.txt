@@ -6,11 +6,11 @@
 <orth type="lemma">greie</orth>
 <em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
 порядок
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele greia — всё это дело, вся эта история, всё это вместе взятое
-<div style="margin-left:5px"><strong><p><span class="dic_example">få greie på — узнать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha greie på — знать (о чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vite greie på иметь представление (o — чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han vet ikke greie på noen ting — <lbl>разг.</lbl> он не имеет ни о чём ни малейшего представления
+<сit type="example"><text>hele greia</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё это дело, вся эта история, всё это вместе взятое</text></cit></cit>
+<сit type="example"><text>få greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
+<сit type="example"><text>ha greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать (о чём-л.)</text></cit></cit>
+<сit type="example"><text>vite greie på иметь представление (o</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чём-л.)</text></cit></cit>
+<сit type="example"><text>han vet ikke greie på noen ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> он не имеет ни о чём ни малейшего представления</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -35,11 +35,11 @@
 </sense>
 <sense>
 <u>разг.</u> смочь, суметь
-<div style="margin-left:5px"><strong><p><span class="dic_example">han greier det — с этим он справится
-<div style="margin-left:5px"><strong><p><span class="dic_example">greie å gjøre noe — суметь (сделать что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">greie ut — объяснить (что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">greie seg — справиться (с чем-л. )
-<div style="margin-left:5px"><strong><p><span class="dic_example">greie det — <lbl>разг.</lbl> спасать жизнь
+<сit type="example"><text>han greier det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этим он справится</text></cit></cit>
+<сit type="example"><text>greie å gjøre noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суметь (сделать что-л.)</text></cit></cit>
+<сit type="example"><text>greie ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объяснить (что-л.)</text></cit></cit>
+<сit type="example"><text>greie seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>справиться (с чем-л. )</text></cit></cit>
+<сit type="example"><text>greie det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> спасать жизнь</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

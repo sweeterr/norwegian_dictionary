@@ -8,16 +8,16 @@
 </form>
 <sense>
 суть, сущность, основной пункт
-<div style="margin-left:5px"><strong><p><span class="dic_example">et poeng i en sak — суть дела
+<сit type="example"><text>et poeng i en sak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суть дела</text></cit></cit>
 </sense>
 <sense>
 балл, отметка, оценка
 </sense>
 <sense>
 <u>спорт.</u> очко
-<div style="margin-left:5px"><strong><p><span class="dic_example">lede i poeng — быть первым по очкам
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge tyve poeng foran — быть на двадцать очков впереди
-<div style="margin-left:5px"><strong><p><span class="dic_example">vinne på poeng — выиграть по очкам
+<сit type="example"><text>lede i poeng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть первым по очкам</text></cit></cit>
+<сit type="example"><text>ligge tyve poeng foran</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на двадцать очков впереди</text></cit></cit>
+<сit type="example"><text>vinne på poeng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выиграть по очкам</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

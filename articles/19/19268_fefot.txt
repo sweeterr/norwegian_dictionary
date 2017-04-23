@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">fefot</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge for fefot — оставлять невспаханным (о земле)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge for fefot — оставаться невспаханным
+<сit type="example"><text>legge for fefot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять невспаханным (о земле)</text></cit></cit>
+<сit type="example"><text>ligge for fefot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться невспаханным</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

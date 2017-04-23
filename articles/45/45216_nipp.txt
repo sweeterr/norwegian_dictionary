@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">nipp</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på nære nippet — чуть было, чуть-чуть не
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå (være) på nippet til å gjøre noe — собраться, приготовиться сделать что-л.
+<сit type="example"><text>på nære nippet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чуть было, чуть-чуть не</text></cit></cit>
+<сit type="example"><text>stå (være) på nippet til å gjøre noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собраться, приготовиться сделать что-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">nipp</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 маленький глоток
-<div style="margin-left:5px"><strong><p><span class="dic_example">drikke i mange små nipp — пить небольшими глотками
+<сit type="example"><text>drikke i mange små nipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пить небольшими глотками</text></cit></cit>
 </sense>
 </entry>
 <entry>

@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">drette</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">drette opp — разводить (скот, домашнюю птицу)
+<сit type="example"><text>drette opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разводить (скот, домашнюю птицу)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

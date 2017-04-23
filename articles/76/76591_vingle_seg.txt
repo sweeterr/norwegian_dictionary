@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">vingle seg</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">vingle seg bort — заблудиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">vingle seg bort i noe — впутаться (вмешаться) во что-л.
+<сit type="example"><text>vingle seg bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
+<сit type="example"><text>vingle seg bort i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впутаться (вмешаться) во что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

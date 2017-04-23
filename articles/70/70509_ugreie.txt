@@ -8,12 +8,12 @@
 </form>
 <sense>
 беспорядок, путаница, неразбериха
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme i ugreien — запутаться, оказаться в беспорядке
+<сit type="example"><text>komme i ugreien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запутаться, оказаться в беспорядке</text></cit></cit>
 </sense>
 <sense>
 порча; неисправность (работающего механизма)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i ugreie — испортиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">det ble noe ugreie med — что-то случилось с (кем, чем-л.)
+<сit type="example"><text>være i ugreie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испортиться</text></cit></cit>
+<сit type="example"><text>det ble noe ugreie med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что-то случилось с (кем, чем-л.)</text></cit></cit>
 </sense>
 <sense>
 неприятность, недоразумение
@@ -30,7 +30,7 @@
 </sense>
 <sense>
 усложнять, создавать неудобства
-<div style="margin-left:5px"><strong><p><span class="dic_example">ugreie seg — спутаться, перепутаться, прийти в беспорядок
+<сit type="example"><text>ugreie seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спутаться, перепутаться, прийти в беспорядок</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

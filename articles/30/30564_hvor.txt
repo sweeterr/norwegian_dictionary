@@ -8,22 +8,22 @@
 </form>
 <sense>
 где?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor fra? — откуда?
+<сit type="example"><text>hvor fra?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откуда?</text></cit></cit>
 </sense>
 <sense>
 куда?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor går du hen? — куда ты идёшь?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor hen? — куда?
+<сit type="example"><text>hvor går du hen?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куда ты идёшь?</text></cit></cit>
+<сit type="example"><text>hvor hen?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куда?</text></cit></cit>
 </sense>
 <sense>
 как?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor lenge? — как долго?, сколько времени?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor meget (hvor mye)? — сколько?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor ofte? — как часто?
+<сit type="example"><text>hvor lenge?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как долго?, сколько времени?</text></cit></cit>
+<сit type="example"><text>hvor meget (hvor mye)?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сколько?</text></cit></cit>
+<сit type="example"><text>hvor ofte?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как часто?</text></cit></cit>
 </sense>
 <sense>
 там, где …
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor enn — где бы ни, куда бы ни
+<сit type="example"><text>hvor enn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>где бы ни, куда бы ни</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

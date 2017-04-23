@@ -8,16 +8,16 @@
 </form>
 <sense>
 снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">evig snø — вечный снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">høy (høg) snø — глубокий снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">jomfruelig snø — первый снег, первая пороша
-<div style="margin-left:5px"><strong><p><span class="dic_example">kram snø — талый снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">mjøllen snø — сухой (рассыпчатый) снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">tung snø — сильный (густой) снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">våt snø — мокрый снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">snøen faller — снег идёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">snøen lå langt ut i april — снег залежался поздно в апреле
-<div style="margin-left:5px"><strong><p><span class="dic_example">den snø som falt i fjor — прошлогодний снег
+<сit type="example"><text>evig snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вечный снег</text></cit></cit>
+<сit type="example"><text>høy (høg) snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глубокий снег</text></cit></cit>
+<сit type="example"><text>jomfruelig snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первый снег, первая пороша</text></cit></cit>
+<сit type="example"><text>kram snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>талый снег</text></cit></cit>
+<сit type="example"><text>mjøllen snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сухой (рассыпчатый) снег</text></cit></cit>
+<сit type="example"><text>tung snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильный (густой) снег</text></cit></cit>
+<сit type="example"><text>våt snø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мокрый снег</text></cit></cit>
+<сit type="example"><text>snøen faller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снег идёт</text></cit></cit>
+<сit type="example"><text>snøen lå langt ut i april</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снег залежался поздно в апреле</text></cit></cit>
+<сit type="example"><text>den snø som falt i fjor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошлогодний снег</text></cit></cit>
 </sense>
 <sense>
 белый порошок (осадок)
@@ -28,9 +28,9 @@
 <form>
 <orth type="lemma">snø</orth>
 <em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det snør — идёт снег
-<div style="margin-left:5px"><strong><p><span class="dic_example">snø inne — заносить снегом
-<div style="margin-left:5px"><strong><p><span class="dic_example">snø ned — засыпать, покрыть снегом
+<сit type="example"><text>det snør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт снег</text></cit></cit>
+<сit type="example"><text>snø inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заносить снегом</text></cit></cit>
+<сit type="example"><text>snø ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засыпать, покрыть снегом</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

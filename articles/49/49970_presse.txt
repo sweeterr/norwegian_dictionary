@@ -8,9 +8,9 @@
 </form>
 <sense>
 пресса, печать
-<div style="margin-left:5px"><strong><p><span class="dic_example">gul presse — жёлтая пресса
-<div style="margin-left:5px"><strong><p><span class="dic_example">få en god (dårlig) presse — получить хороший (плохой) отзыв в печати
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge i pressen — сдать в печать
+<сit type="example"><text>gul presse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтая пресса</text></cit></cit>
+<сit type="example"><text>få en god (dårlig) presse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить хороший (плохой) отзыв в печати</text></cit></cit>
+<сit type="example"><text>legge i pressen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдать в печать</text></cit></cit>
 </sense>
 <sense>
 <u>собир.</u> журналисты
@@ -51,7 +51,7 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">presse på :
 <сit type = "example"><text>presse på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поразить (о болезни)</text></cit></cit>
 <сit type = "example"><text>presse på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> теснить, нажимать (во время работы, спортивных соревнований)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">presse ut — выжимать (сок и т. п.)
+<сit type="example"><text>presse ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выжимать (сок и т. п.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,12 +8,12 @@
 </form>
 <sense>
 важный, значительный, существенный
-<div style="margin-left:5px"><strong><p><span class="dic_example">ytterst viktig — крайне важный
+<сit type="example"><text>ytterst viktig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крайне важный</text></cit></cit>
 </sense>
 <sense>
 чванный, горделивый, надменный
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre seg viktig — важничать, напускать на себя важность
-<div style="margin-left:5px"><strong><p><span class="dic_example">det viktigste er at ... — самое главное в том, что ...
+<сit type="example"><text>gjøre seg viktig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>важничать, напускать на себя важность</text></cit></cit>
+<сit type="example"><text>det viktigste er at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самое главное в том, что ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

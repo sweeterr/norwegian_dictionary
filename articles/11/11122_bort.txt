@@ -4,7 +4,6 @@
 <index></index>
 <form>
 <orth type="lemma">bort</orth>
-
 <u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp bortre, supert bortest)</em>
 дальний, удалённый, крайний
 </sense>
@@ -17,24 +16,24 @@
 </form>
 <sense>
 выражает удаление, движение от данного предмета прочь, в сторону, отсюда
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise bort — уезжать, уехать
-<div style="margin-left:5px"><strong><p><span class="dic_example">bort med ham! — долой его!
-<div style="margin-left:5px"><strong><p><span class="dic_example">bort herfra! — прочь отсюда!, убирайтесь вон!
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg må nå bort — мне пора двигаться (идти, ехать)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg skal bort i aften — я уеду (уйду) сегодня вечером (из дому)
+<сit type="example"><text>reise bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уезжать, уехать</text></cit></cit>
+<сit type="example"><text>bort med ham!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>долой его!</text></cit></cit>
+<сit type="example"><text>bort herfra!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочь отсюда!, убирайтесь вон!</text></cit></cit>
+<сit type="example"><text>jeg må nå bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне пора двигаться (идти, ехать)</text></cit></cit>
+<сit type="example"><text>jeg skal bort i aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я уеду (уйду) сегодня вечером (из дому)</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> выражает отдалённость, расстояние от данного предмета
-<div style="margin-left:5px"><strong><p><span class="dic_example">langt bort — далеко отсюда
-<div style="margin-left:5px"><strong><p><span class="dic_example">være bort — быть в отсутствии, быть далеко (от дома)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bort imot — почти (о числах)
+<сit type="example"><text>langt bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко отсюда</text></cit></cit>
+<сit type="example"><text>være bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в отсутствии, быть далеко (от дома)</text></cit></cit>
+<сit type="example"><text>bort imot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почти (о числах)</text></cit></cit>
 </sense>
 <sense>
 придаёт глаголам предельный характер, выражая прекращение использования, существования, исчезновение, передачу в собственность другому лицу
 переводится глаголами с префиксами у-, от-, за-:
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi bort — отдать
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjemme bort — запрятать
-<div style="margin-left:5px"><strong><p><span class="dic_example">visne bort — увять, завять
+<сit type="example"><text>gi bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать</text></cit></cit>
+<сit type="example"><text>gjemme bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запрятать</text></cit></cit>
+<сit type="example"><text>visne bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увять, завять</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

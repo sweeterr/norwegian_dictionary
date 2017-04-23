@@ -14,7 +14,7 @@
 <orth type="lemma">rapp</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 удар (палкой, хлыстом)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi rapp — ударить (палкой), вытянуть (хлыстом)
+<сit type="example"><text>gi rapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить (палкой), вытянуть (хлыстом)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,9 +22,9 @@
 <form>
 <orth type="lemma">rapp</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på rappet ( rapp en) — в тот же миг в то же мгновение
-<div style="margin-left:5px"><strong><p><span class="dic_example">på (i) røde (raue) rappet (rappen) — в тот же самый миг, в то же самое мгновение
-<div style="margin-left:5px"><strong><p><span class="dic_example">på rapp (rappen, rappet) — подряд, один за другим
+<сit type="example"><text>på rappet ( rapp en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же миг в то же мгновение</text></cit></cit>
+<сit type="example"><text>på (i) røde (raue) rappet (rappen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же самый миг, в то же самое мгновение</text></cit></cit>
+<сit type="example"><text>på rapp (rappen, rappet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подряд, один за другим</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -35,12 +35,12 @@
 </form>
 <sense>
 быстрый, подвижный, прыткий, проворный (о человеке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være rapp på hånden — быть ловким (быстрым) в работе
-<div style="margin-left:5px"><strong><p><span class="dic_example">være rapp på foten — быть быстроногим, быть лёгким на подъём
+<сit type="example"><text>være rapp på hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть ловким (быстрым) в работе</text></cit></cit>
+<сit type="example"><text>være rapp på foten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть быстроногим, быть лёгким на подъём</text></cit></cit>
 </sense>
 <sense>
 сообразительный, бойкий, находчивый
-<div style="margin-left:5px"><strong><p><span class="dic_example">være rapp i munnen (i kjeften) — за словом в карман не лезть
+<сit type="example"><text>være rapp i munnen (i kjeften)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за словом в карман не лезть</text></cit></cit>
 </sense>
 <sense>
 меткий (о словах, замечаниях)

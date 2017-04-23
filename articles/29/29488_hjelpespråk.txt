@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hjelpespråk</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">internasjonalt hjelpespråk — международный искусственный (вспомогательный) язык
+<сit type="example"><text>internasjonalt hjelpespråk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>международный искусственный (вспомогательный) язык</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,10 +6,10 @@
 <orth type="lemma">lik</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 покойник, мертвец, труп
-<div style="margin-left:5px"><strong><p><span class="dic_example">et levende lik — живой труп
-<div style="margin-left:5px"><strong><p><span class="dic_example">ble(i)k som et lik — бледный как мертвец
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge lik — лежать в гробу
-<div style="margin-left:5px"><strong><p><span class="dic_example">se ut som et lik — выглядеть как мертвец
+<сit type="example"><text>et levende lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живой труп</text></cit></cit>
+<сit type="example"><text>ble(i)k som et lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бледный как мертвец</text></cit></cit>
+<сit type="example"><text>ligge lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать в гробу</text></cit></cit>
+<сit type="example"><text>se ut som et lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выглядеть как мертвец</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <orth type="lemma">lik</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 <u>мор.</u> ликтрос, шкаторина
-<div style="margin-left:5px"><strong><p><span class="dic_example">stående lik — передняя (стоячая) шкаторина
+<сit type="example"><text>stående lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передняя (стоячая) шкаторина</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -29,21 +29,21 @@
 </form>
 <sense>
 похожий, схожий
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) lik noen — быть похожим на кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">se (synes) lik ut til — иметь вид, быть похожим на
-<div style="margin-left:5px"><strong><p><span class="dic_example">likt og ulikt — всякая всячина, всё что угодно
+<сit type="example"><text>bli (være) lik noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть похожим на кого-л.</text></cit></cit>
+<сit type="example"><text>se (synes) lik ut til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь вид, быть похожим на</text></cit></cit>
+<сit type="example"><text>likt og ulikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всякая всячина, всё что угодно</text></cit></cit>
 </sense>
 <sense>
 сходный, одинаковый, аналогичный
 </sense>
 <sense>
 равный
-<div style="margin-left:5px"><strong><p><span class="dic_example">dele likt — делить поровну
-<div style="margin-left:5px"><strong><p><span class="dic_example">være lik — быть равным, равняться (чему-л.)
+<сit type="example"><text>dele likt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делить поровну</text></cit></cit>
+<сit type="example"><text>være lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть равным, равняться (чему-л.)</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> подходящий, удобный
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er deg likt — это похоже на тебя; это в твоём духе, стиле
+<сit type="example"><text>det er deg likt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это похоже на тебя; это в твоём духе, стиле</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

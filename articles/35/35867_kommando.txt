@@ -8,8 +8,8 @@
 </form>
 <sense>
 командование
-<div style="margin-left:5px"><strong><p><span class="dic_example">føre kommando — командовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">overta (fratre, nedlegge) kommandoen — принять на себя (сложить с себя) командование
+<сit type="example"><text>føre kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>командовать</text></cit></cit>
+<сit type="example"><text>overta (fratre, nedlegge) kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять на себя (сложить с себя) командование</text></cit></cit>
 </sense>
 <sense>
 командная инстанция
@@ -19,20 +19,20 @@
 </sense>
 <sense>
 команда (устная), приказание
-<div style="margin-left:5px"><strong><p><span class="dic_example">lystre kommando — выполнить приказание
+<сit type="example"><text>lystre kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выполнить приказание</text></cit></cit>
 </sense>
 <sense>
 контроль
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha noe under sin kommando — контролировать
+<сit type="example"><text>ha noe under sin kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>контролировать</text></cit></cit>
 </sense>
 <sense>
 <u>мор.</u> управление
-<div style="margin-left:5px"><strong><p><span class="dic_example">svikte kommando — не слушаться управления
+<сit type="example"><text>svikte kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не слушаться управления</text></cit></cit>
 </sense>
 <sense>
 <u>мор.</u> адмиральский флаг, флаг адмирала
-<div style="margin-left:5px"><strong><p><span class="dic_example">heise kommandoen — поднять флаг (командующего эскадрой, соединением, кораблём)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stryke kommandoen — спустить флаг
+<сit type="example"><text>heise kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять флаг (командующего эскадрой, соединением, кораблём)</text></cit></cit>
+<сit type="example"><text>stryke kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить флаг</text></cit></cit>
 </sense>
 <sense>
 военный округ (военная территориально-административная единица)

@@ -8,8 +8,8 @@
 </form>
 <sense>
 зараза, инфекция
-<div style="margin-left:5px"><strong><p><span class="dic_example">overføre smitte — заражать, переносить заразу
-<div style="margin-left:5px"><strong><p><span class="dic_example">utsette seg for smitte — подвергаться опасности заражения
+<сit type="example"><text>overføre smitte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заражать, переносить заразу</text></cit></cit>
+<сit type="example"><text>utsette seg for smitte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться опасности заражения</text></cit></cit>
 </sense>
 <sense>
 микроб, бактерия
@@ -26,11 +26,11 @@
 </form>
 <sense>
 заражать, переносить инфекцию
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli smittet — заразиться
+<сit type="example"><text>bli smittet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заразиться</text></cit></cit>
 </sense>
 <sense>
 влиять, воздействовать (особенно отрицательно)
-<div style="margin-left:5px"><strong><p><span class="dic_example">smitte av — оставлять пятна краски, краситься
+<сit type="example"><text>smitte av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять пятна краски, краситься</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

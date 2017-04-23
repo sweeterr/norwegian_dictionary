@@ -8,11 +8,11 @@
 </form>
 <sense>
 маленькие:
-<div style="margin-left:5px"><strong><p><span class="dic_example">småen — малыш, малютка
-<div style="margin-left:5px"><strong><p><span class="dic_example">de små — малыши, маленькие дети
-<div style="margin-left:5px"><strong><p><span class="dic_example">du små — малыш, крошка
-<div style="margin-left:5px"><strong><p><span class="dic_example">med smått — с маленькой (строчной) буквы
-<div style="margin-left:5px"><strong><p><span class="dic_example">hun skal ha smått — <lbl>разг.</lbl> она в положении, у неё скоро будет ребёнок
+<сit type="example"><text>småen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малыш, малютка</text></cit></cit>
+<сit type="example"><text>de små</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малыши, маленькие дети</text></cit></cit>
+<сit type="example"><text>du små</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малыш, крошка</text></cit></cit>
+<сit type="example"><text>med smått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с маленькой (строчной) буквы</text></cit></cit>
+<сit type="example"><text>hun skal ha smått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> она в положении, у неё скоро будет ребёнок</text></cit></cit>
 </sense>
 <sense>
 молодые, молоденькие
@@ -25,9 +25,9 @@
 </sense>
 <sense>
 краткосрочные, недолгие, кратковременные
-<div style="margin-left:5px"><strong><p><span class="dic_example">så smått — немного, недолго
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er smått for ham — ему трудно живётся
-<div style="margin-left:5px"><strong><p><span class="dic_example">smått med noe — нехватка чего-л.; мало чего-л.
+<сit type="example"><text>så smått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного, недолго</text></cit></cit>
+<сit type="example"><text>det er smått for ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему трудно живётся</text></cit></cit>
+<сit type="example"><text>smått med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нехватка чего-л.; мало чего-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

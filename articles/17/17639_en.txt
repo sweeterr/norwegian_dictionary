@@ -6,10 +6,10 @@
 <orth type="lemma">en</orth>
 <u>num</u> (всегда под ударением, часто пишется én)
 один, одна, одно
-<div style="margin-left:5px"><strong><p><span class="dic_example">i en, to, tre — в один миг, в мгновение ока
-<div style="margin-left:5px"><strong><p><span class="dic_example">en etter en — один за другим, по очереди
-<div style="margin-left:5px"><strong><p><span class="dic_example">på en gang — одновременно
-<div style="margin-left:5px"><strong><p><span class="dic_example">en og den samme — один и тот же
+<сit type="example"><text>i en, to, tre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в один миг, в мгновение ока</text></cit></cit>
+<сit type="example"><text>en etter en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим, по очереди</text></cit></cit>
+<сit type="example"><text>på en gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одновременно</text></cit></cit>
+<сit type="example"><text>en og den samme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один и тот же</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,10 @@
 </form>
 <sense>
 кто-то, некто
-<div style="margin-left:5px"><strong><p><span class="dic_example">en eller annen — кто-нибудь; кто-то
-<div style="margin-left:5px"><strong><p><span class="dic_example">en og hver — и тот и другой
-<div style="margin-left:5px"><strong><p><span class="dic_example">hver og en — все без исключения
-<div style="margin-left:5px"><strong><p><span class="dic_example">en liten en — малыш, малютка
+<сit type="example"><text>en eller annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто-нибудь; кто-то</text></cit></cit>
+<сit type="example"><text>en og hver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и тот и другой</text></cit></cit>
+<сit type="example"><text>hver og en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все без исключения</text></cit></cit>
+<сit type="example"><text>en liten en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малыш, малютка</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -32,9 +32,9 @@
 <orth type="lemma">en</orth>
 <em><span class="dic_color"><span class="dic_comment">(с. р. et)</em>
 неопределённый артикль м. и ж. р.
-<div style="margin-left:5px"><strong><p><span class="dic_example">en gutt — мальчик
-<div style="margin-left:5px"><strong><p><span class="dic_example">en by — город
-<div style="margin-left:5px"><strong><p><span class="dic_example">for en ti dager siden — около десяти дней тому назад
+<сit type="example"><text>en gutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мальчик</text></cit></cit>
+<сit type="example"><text>en by</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>город</text></cit></cit>
+<сit type="example"><text>for en ti dager siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около десяти дней тому назад</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

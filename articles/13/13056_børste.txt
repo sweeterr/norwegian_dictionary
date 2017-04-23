@@ -8,7 +8,7 @@
 </form>
 <sense>
 щётка
-<div style="margin-left:5px"><strong><p><span class="dic_example">en hård (bløt) børste — жёсткая (мягкая) щётка
+<сit type="example"><text>en hård (bløt) børste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёсткая (мягкая) щётка</text></cit></cit>
 </sense>
 <sense>
 энергичный человек, «огонь»
@@ -39,7 +39,7 @@
 <orth type="lemma">børste</orth>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 <u>уст.</u> щетина
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise børster — ощетиниться
+<сit type="example"><text>reise børster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ощетиниться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

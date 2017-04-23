@@ -6,12 +6,12 @@
 <orth type="lemma">fra</orth>
 <u>adv</u>
 придаёт глаголам движения значение удаления, движения от исходной точки:
-<div style="margin-left:5px"><strong><p><span class="dic_example">falle fra — отвалиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">klippe fra — отрезать
+<сit type="example"><text>falle fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвалиться</text></cit></cit>
+<сit type="example"><text>klippe fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">fra og til :
 <сit type = "example"><text>fra og til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взад и вперёд, туда и сюда</text></cit></cit>
 <сit type = "example"><text>fra og til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>уст.</u> то и дело, время от времени</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gjør hverken fra eller til — это не играет роли, это не имеет значения
+<сit type="example"><text>det gjør hverken fra eller til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не играет роли, это не имеет значения</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,36 +22,36 @@
 </form>
 <sense>
 в пространственном значении указывает на удаление от исходного пункта движения, от, из, с:
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra Norge — из Норвегии
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra byen — из города
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra øst — с востока
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra borde — из-за стола
+<сit type="example"><text>fra Norge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из Норвегии</text></cit></cit>
+<сit type="example"><text>fra byen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из города</text></cit></cit>
+<сit type="example"><text>fra øst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с востока</text></cit></cit>
+<сit type="example"><text>fra borde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за стола</text></cit></cit>
 </sense>
 <sense>
 в пространственном значении указывает на расстояние от какого-л. предмета
-<div style="margin-left:5px"><strong><p><span class="dic_example">Kristiansund ligger 120 kilometer fra Ålesund — Кристиансунн находится в 120 километрах от Олесунна
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra ... til ... — от ... до ...; <lbl>перен.</lbl> начиная ... и кончая ...
+<сit type="example"><text>Kristiansund ligger 120 kilometer fra Ålesund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Кристиансунн находится в 120 километрах от Олесунна</text></cit></cit>
+<сit type="example"><text>fra ... til ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от ... до ...; <lbl>перен.</lbl> начиная ... и кончая ...</text></cit></cit>
 </sense>
 <sense>
 во временном значении указывает на удаление от определённого момента, с, от:
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra denne tid — с этого времени, с этих пор
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra gutter av — с детства, с того времени, как они (мы, вы) были мальчиками
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra klokka tre til sju — от трёх до семи часов
-<div style="margin-left:5px"><strong><p><span class="dic_example">venner fra skolen — друзья со школьной скамьи
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra før — от прежних времён, ещё прежде, ещё до этого
+<сit type="example"><text>fra denne tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этого времени, с этих пор</text></cit></cit>
+<сit type="example"><text>fra gutter av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с детства, с того времени, как они (мы, вы) были мальчиками</text></cit></cit>
+<сit type="example"><text>fra klokka tre til sju</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от трёх до семи часов</text></cit></cit>
+<сit type="example"><text>venner fra skolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>друзья со школьной скамьи</text></cit></cit>
+<сit type="example"><text>fra før</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от прежних времён, ещё прежде, ещё до этого</text></cit></cit>
 </sense>
 <sense>
 указывает на происхождение, на появление из какого-л. источника, от, из:
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor er han fra? — откуда он родом?
-<div style="margin-left:5px"><strong><p><span class="dic_example">han nedstammer fra — он происходит от (такого-то)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ordet er lånt fra fransk — это слово заимствовано из французского языка
+<сit type="example"><text>hvor er han fra?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откуда он родом?</text></cit></cit>
+<сit type="example"><text>han nedstammer fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он происходит от (такого-то)</text></cit></cit>
+<сit type="example"><text>ordet er lånt fra fransk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это слово заимствовано из французского языка</text></cit></cit>
 </sense>
 <sense>
 указывает на отделение от чего-л., освобождение от чего-л., от, у:
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyve noe fra seg — оттолкнуть (отпихнуть) от себя
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra hinannen — один от другого
-<div style="margin-left:5px"><strong><p><span class="dic_example">avsette en fra sin stilling — освободить кого-л. от должности
-<div style="margin-left:5px"><strong><p><span class="dic_example">være fra seg — быть вне себя
+<сit type="example"><text>skyve noe fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оттолкнуть (отпихнуть) от себя</text></cit></cit>
+<сit type="example"><text>fra hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один от другого</text></cit></cit>
+<сit type="example"><text>avsette en fra sin stilling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освободить кого-л. от должности</text></cit></cit>
+<сit type="example"><text>være fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне себя</text></cit></cit>
 </sense>
 </entry>
 <entry>

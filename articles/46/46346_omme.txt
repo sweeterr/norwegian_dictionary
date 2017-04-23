@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">omme</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være omme — закончиться; истечь (о времени)
-<div style="margin-left:5px"><strong><p><span class="dic_example">da året var omme — когда год кончился
-<div style="margin-left:5px"><strong><p><span class="dic_example">livet er omme — жизнь прошла
+<сit type="example"><text>være omme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закончиться; истечь (о времени)</text></cit></cit>
+<сit type="example"><text>da året var omme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>когда год кончился</text></cit></cit>
+<сit type="example"><text>livet er omme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жизнь прошла</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

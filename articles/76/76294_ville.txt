@@ -25,22 +25,22 @@
 </form>
 <sense>
 хотеть, желать, собираться, намереваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva vil du med det? — для чего тебе это?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor vil han hen? — куда он собирается идти (ехать, направиться)?
-<div style="margin-left:5px"><strong><p><span class="dic_example">som du vil! — как хочешь!
-<div style="margin-left:5px"><strong><p><span class="dic_example">ville én vel (ille) — желать добра (зла) кому-л.
+<сit type="example"><text>hva vil du med det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для чего тебе это?</text></cit></cit>
+<сit type="example"><text>hvor vil han hen?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куда он собирается идти (ехать, направиться)?</text></cit></cit>
+<сit type="example"><text>som du vil!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как хочешь!</text></cit></cit>
+<сit type="example"><text>ville én vel (ille)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>желать добра (зла) кому-л.</text></cit></cit>
 </sense>
 <sense>
 в качестве вспомогательного глагола используется для образования будущего времени:
-<div style="margin-left:5px"><strong><p><span class="dic_example">vil du være med? — ты поедешь (пойдёшь) с нами?
-<div style="margin-left:5px"><strong><p><span class="dic_example">vil De ikke komme? — разве вы не придёте (не приедете)?
+<сit type="example"><text>vil du være med?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты поедешь (пойдёшь) с нами?</text></cit></cit>
+<сit type="example"><text>vil De ikke komme?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разве вы не придёте (не приедете)?</text></cit></cit>
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> в форме ville — используется для выражения сослагательности, условности:
-<div style="margin-left:5px"><strong><p><span class="dic_example">bare hun ville gjøre det! — если бы она только это сделала!
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg ville gjerne ha — я хотел бы иметь (купить, приобрести)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ville avsted — стремиться уйти (уехать)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ville til — нуждаться
+<сit type="example"><text> в форме ville</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>используется для выражения сослагательности, условности:</text></cit></cit>
+<сit type="example"><text>bare hun ville gjøre det!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если бы она только это сделала!</text></cit></cit>
+<сit type="example"><text>jeg ville gjerne ha</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я хотел бы иметь (купить, приобрести)</text></cit></cit>
+<сit type="example"><text>ville avsted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стремиться уйти (уехать)</text></cit></cit>
+<сit type="example"><text>ville til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -54,7 +54,7 @@
 </sense>
 <sense>
 скитаться, бродить, не иметь пристанища
-<div style="margin-left:5px"><strong><p><span class="dic_example">ville seg — заблудиться, сбиться с пути
+<сit type="example"><text>ville seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться, сбиться с пути</text></cit></cit>
 </sense>
 </entry><entry>
 <index></index>

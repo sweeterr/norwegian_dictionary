@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sagt</orth>
 <em><span class="dic_color"><span class="dic_comment">p.p. от</em> si <strong>II
-<div style="margin-left:5px"><strong><p><span class="dic_example">dermed er alt sagt — этим всё сказано
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er lettere sagt enn gjort — легко сказать, но трудно сделать
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke sagt — это дело неясное, это ещё неизвестно
-<div style="margin-left:5px"><strong><p><span class="dic_example">kort sagt — коротко говоря
-<div style="margin-left:5px"><strong><p><span class="dic_example">mellom oss sagt — между нами говоря
+<сit type="example"><text>dermed er alt sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этим всё сказано</text></cit></cit>
+<сit type="example"><text>det er lettere sagt enn gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко сказать, но трудно сделать</text></cit></cit>
+<сit type="example"><text>det er ikke sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это дело неясное, это ещё неизвестно</text></cit></cit>
+<сit type="example"><text>kort sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коротко говоря</text></cit></cit>
+<сit type="example"><text>mellom oss sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>между нами говоря</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">re(i)nt ut sagt :
 <сit type = "example"><text>re(i)nt ut sagt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сказано напрямик (откровенно)</text></cit></cit>
 <сit type = "example"><text>re(i)nt ut sagt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо (честно, открыто) говоря</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">som sagt — как уже было сказано, как уже говорилось выше
-<div style="margin-left:5px"><strong><p><span class="dic_example">som sagt så gjort — сказано - сделано
+<сit type="example"><text>som sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как уже было сказано, как уже говорилось выше</text></cit></cit>
+<сit type="example"><text>som sagt så gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказано - сделано</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

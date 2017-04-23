@@ -8,10 +8,10 @@
 </form>
 <sense>
 печь, печка
-<div style="margin-left:5px"><strong><p><span class="dic_example">brenselsparende ovn — экономичная печь
-<div style="margin-left:5px"><strong><p><span class="dic_example">elektrisk ovn — электрическая печь
-<div style="margin-left:5px"><strong><p><span class="dic_example">fyre i ovnen — топить печь
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge i ovnen — затапливать печь
+<сit type="example"><text>brenselsparende ovn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>экономичная печь</text></cit></cit>
+<сit type="example"><text>elektrisk ovn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрическая печь</text></cit></cit>
+<сit type="example"><text>fyre i ovnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>топить печь</text></cit></cit>
+<сit type="example"><text>legge i ovnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затапливать печь</text></cit></cit>
 </sense>
 <sense>
 конфорка

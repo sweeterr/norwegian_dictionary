@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">bratte</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bratte av — круто обрываться (о склоне горы)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bratte seg — <lbl>разг.</lbl> задирать нос, важничать
+<сit type="example"><text>bratte av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>круто обрываться (о склоне горы)</text></cit></cit>
+<сit type="example"><text>bratte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> задирать нос, важничать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,7 +6,7 @@
 <orth type="lemma">selv</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 собственное «я», сам «я»
-<div style="margin-left:5px"><strong><p><span class="dic_example">mitt eget selv — мое «я»
+<сit type="example"><text>mitt eget selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мое «я»</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,15 +18,15 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">seg selv :
 <сit type = "example"><text>seg selv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сам себя</text></cit></cit>
 <сit type = "example"><text>seg selv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> само по себе</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">med seg selv — сам с собой
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) seg selv — стать (быть) самим собой
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme til seg selv — прийти в себя
-<div style="margin-left:5px"><strong><p><span class="dic_example">være (gå) fra seg selv — выйти из себя
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ute av seg selv — быть вне себя
-<div style="margin-left:5px"><strong><p><span class="dic_example">det forstår seg av seg selv — это само собой понятно
-<div style="margin-left:5px"><strong><p><span class="dic_example">den selv samme — тот же самый, идентичный
-<div style="margin-left:5px"><strong><p><span class="dic_example">for seg selv — в стороне, обособленно
-<div style="margin-left:5px"><strong><p><span class="dic_example">selv takk — вам тоже спасибо (ответ на благодарность
+<сit type="example"><text>med seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сам с собой</text></cit></cit>
+<сit type="example"><text>bli (være) seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать (быть) самим собой</text></cit></cit>
+<сit type="example"><text>komme til seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в себя</text></cit></cit>
+<сit type="example"><text>være (gå) fra seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти из себя</text></cit></cit>
+<сit type="example"><text>være ute av seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне себя</text></cit></cit>
+<сit type="example"><text>det forstår seg av seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это само собой понятно</text></cit></cit>
+<сit type="example"><text>den selv samme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот же самый, идентичный</text></cit></cit>
+<сit type="example"><text>for seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в стороне, обособленно</text></cit></cit>
+<сit type="example"><text>selv takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вам тоже спасибо (ответ на благодарность</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -40,9 +40,8 @@
 </language>
 <quote>(в начале предложения) даже</quote>
 </cit>
-
-<div style="margin-left:5px"><strong><p><span class="dic_example">selv den lille gutt ... — даже маленький мальчик ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">selv om ... — даже если ...
+<сit type="example"><text>selv den lille gutt ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже маленький мальчик ...</text></cit></cit>
+<сit type="example"><text>selv om ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

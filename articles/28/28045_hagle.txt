@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">hagle</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hagler — идёт град
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hagler ned — сыплется градом (о чём-л.)
+<сit type="example"><text>det hagler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт град</text></cit></cit>
+<сit type="example"><text>det hagler ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыплется градом (о чём-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

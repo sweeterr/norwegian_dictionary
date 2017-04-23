@@ -14,17 +14,17 @@
 </sense>
 <sense>
 <u>indef</u> как грамматическое подлежащее, ударения не несёт и не переводится:
-<div style="margin-left:5px"><strong><p><span class="dic_example">det blir mørkt — темнеет
-<div style="margin-left:5px"><strong><p><span class="dic_example">det dages (gryr, lysner) — светает
-<div style="margin-left:5px"><strong><p><span class="dic_example">det fryser på — морозит
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hagler — град идёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">det kvelder — вечереет
-<div style="margin-left:5px"><strong><p><span class="dic_example">det lyner — молния сверкает
-<div style="margin-left:5px"><strong><p><span class="dic_example">det regner — дождь идёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">det snør — снег идёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">det tordner — гром гремит
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er på tide — уже пора
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvorledes har De det? — как вы поживаете?
+<сit type="example"><text>det blir mørkt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>темнеет</text></cit></cit>
+<сit type="example"><text>det dages (gryr, lysner)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светает</text></cit></cit>
+<сit type="example"><text>det fryser på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>морозит</text></cit></cit>
+<сit type="example"><text>det hagler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>град идёт</text></cit></cit>
+<сit type="example"><text>det kvelder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вечереет</text></cit></cit>
+<сit type="example"><text>det lyner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>молния сверкает</text></cit></cit>
+<сit type="example"><text>det regner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дождь идёт</text></cit></cit>
+<сit type="example"><text>det snør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снег идёт</text></cit></cit>
+<сit type="example"><text>det tordner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гром гремит</text></cit></cit>
+<сit type="example"><text>det er på tide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уже пора</text></cit></cit>
+<сit type="example"><text>hvorledes har De det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вы поживаете?</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">det var en gang :
 <сit type = "example"><text>det var en gang :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> жил-был</text></cit></cit>
 <сit type = "example"><text>det var en gang :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> как-то раз, однажды</text></cit></cit>
@@ -36,7 +36,7 @@
 <orth type="lemma">det</orth>
 определённый препозитивный артикль среднего рода
 см. den <strong>II
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gode — что-л. хорошее (при субстантивации прилагательных в ед. ч.)
+<сit type="example"><text>det gode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что-л. хорошее (при субстантивации прилагательных в ед. ч.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

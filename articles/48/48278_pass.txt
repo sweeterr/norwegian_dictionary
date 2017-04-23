@@ -6,7 +6,7 @@
 <orth type="lemma">pass</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 паспорт (заграничный)
-<div style="margin-left:5px"><strong><p><span class="dic_example">få sitt pass påskrevet — <lbl>перен.</lbl> подвергаться суровой критике за свои действия
+<сit type="example"><text>få sitt pass påskrevet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> подвергаться суровой критике за свои действия</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +31,7 @@
 <orth type="lemma">pass</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 <u>карт.</u> пас
-<div style="margin-left:5px"><strong><p><span class="dic_example">melde (si) pass — (с)пасовать, пропустить (свой) ход в игре
+<сit type="example"><text>melde (si) pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(с)пасовать, пропустить (свой) ход в игре</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -46,14 +46,14 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> (så) om pass — приблизительно, примерно
-<div style="margin-left:5px"><strong><p><span class="dic_example">(så) på en pass — <lbl>уст.</lbl> примерно, приблизительно
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved (det) pass — <lbl>уст.</lbl> приблизительно (в то время)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til pass — подходящий, уместный
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er til pass for ham (dem) — так ему (им) и надо, поделом ему (им)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre det til pass — угождать, удовлетворять (кого-л. - for)
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme så til pass — подходить, годиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">være til pass — чувствовать себя хорошо, быть в форме
+<сit type="example"><text> (så) om pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приблизительно, примерно</text></cit></cit>
+<сit type="example"><text>(så) på en pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> примерно, приблизительно</text></cit></cit>
+<сit type="example"><text>ved (det) pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> приблизительно (в то время)</text></cit></cit>
+<сit type="example"><text>til pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подходящий, уместный</text></cit></cit>
+<сit type="example"><text>det er til pass for ham (dem)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так ему (им) и надо, поделом ему (им)</text></cit></cit>
+<сit type="example"><text>gjøre det til pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>угождать, удовлетворять (кого-л. - for)</text></cit></cit>
+<сit type="example"><text>komme så til pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подходить, годиться</text></cit></cit>
+<сit type="example"><text>være til pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя хорошо, быть в форме</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,15 +8,15 @@
 </form>
 <sense>
 задача, цель
-<div style="margin-left:5px"><strong><p><span class="dic_example">en matematisk oppgave — математическая задача
-<div style="margin-left:5px"><strong><p><span class="dic_example">besvare en oppgave — отвечать на вопрос (на экзамене)
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette oppgaver — ставить (задавать) задачи
-<div style="margin-left:5px"><strong><p><span class="dic_example">stille seg som oppgave — ставить перед собой задачу (цель)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta oppgave på seg — брать на себя задачу
+<сit type="example"><text>en matematisk oppgave</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>математическая задача</text></cit></cit>
+<сit type="example"><text>besvare en oppgave</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать на вопрос (на экзамене)</text></cit></cit>
+<сit type="example"><text>sette oppgaver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить (задавать) задачи</text></cit></cit>
+<сit type="example"><text>stille seg som oppgave</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить перед собой задачу (цель)</text></cit></cit>
+<сit type="example"><text>ta oppgave på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать на себя задачу</text></cit></cit>
 </sense>
 <sense>
 задание
-<div style="margin-left:5px"><strong><p><span class="dic_example">rette oppgaver — проверять задания
+<сit type="example"><text>rette oppgaver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проверять задания</text></cit></cit>
 </sense>
 <sense>
 <u>pl</u> данные, сведения

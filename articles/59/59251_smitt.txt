@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">smitt</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en smitt — немного
-<div style="margin-left:5px"><strong><p><span class="dic_example">hver smitt og smule — целиком и полностью
+<сit type="example"><text>en smitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного</text></cit></cit>
+<сit type="example"><text>hver smitt og smule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целиком и полностью</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

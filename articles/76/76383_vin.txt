@@ -8,17 +8,17 @@
 </form>
 <sense>
 вино
-<div style="margin-left:5px"><strong><p><span class="dic_example">alkoholfri vin — безалкогольный напиток
-<div style="margin-left:5px"><strong><p><span class="dic_example">edel vin — высокосортное вино
-<div style="margin-left:5px"><strong><p><span class="dic_example">ekte (gammel, ny, svak) vin — натуральное (выдержанное, молодое, лёгкое) вино
-<div style="margin-left:5px"><strong><p><span class="dic_example">vinen dannet perler i glasset — вино искрилось в бокале
+<сit type="example"><text>alkoholfri vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>безалкогольный напиток</text></cit></cit>
+<сit type="example"><text>edel vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокосортное вино</text></cit></cit>
+<сit type="example"><text>ekte (gammel, ny, svak) vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натуральное (выдержанное, молодое, лёгкое) вино</text></cit></cit>
+<сit type="example"><text>vinen dannet perler i glasset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вино искрилось в бокале</text></cit></cit>
 </sense>
 <sense>
 виноград (идущий на изготовление вина)
 </sense>
 <sense>
 виноградная лоза
-<div style="margin-left:5px"><strong><p><span class="dic_example">vill vin — дикий виноград
+<сit type="example"><text>vill vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дикий виноград</text></cit></cit>
 </sense>
 </entry>
 <entry>

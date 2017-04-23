@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">amok</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">løpe (renne) amok — неистовствовать, бушевать, беситься
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå amok — взбеситься
+<сit type="example"><text>løpe (renne) amok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неистовствовать, бушевать, беситься</text></cit></cit>
+<сit type="example"><text>gå amok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взбеситься</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

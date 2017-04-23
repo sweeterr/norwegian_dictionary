@@ -6,7 +6,7 @@
 <orth type="lemma">navle</orth>
 <em><span class="dic_color"><span class="dic_comment">-n</em>
 <u>анат.</u> пупок, пуп
-<div style="margin-left:5px"><strong><p><span class="dic_example">jordens navle — пуп земли
+<сit type="example"><text>jordens navle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пуп земли</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 </sense>
 <sense>
 перевязывать пуповину
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke være riktig navla — <lbl>диал.</lbl> плохо сохраниться, испортиться
+<сit type="example"><text>ikke være riktig navla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> плохо сохраниться, испортиться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

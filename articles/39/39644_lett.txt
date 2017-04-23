@@ -6,7 +6,7 @@
 <orth type="lemma">lett</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 естественная окраска, цвет
-<div style="margin-left:5px"><strong><p><span class="dic_example">lys i letten — светлой окраски
+<сit type="example"><text>lys i letten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлой окраски</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,14 +17,14 @@
 </form>
 <sense>
 лёгкий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lett på roret — послушный (о судне)
-<div style="margin-left:5px"><strong><p><span class="dic_example">lett på tømmen — послушный (о лошади)
-<div style="margin-left:5px"><strong><p><span class="dic_example">lettere sagt enn gjort — сказать легче, чем сделать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha lett for noe — легко усваивать что-л., не встречать трудностей
-<div style="margin-left:5px"><strong><p><span class="dic_example">slippe lett fra noe — легко отделаться от чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta (seg) noe lett — легко относиться к чему-л., не принимать близко к сердцу
-<div style="margin-left:5px"><strong><p><span class="dic_example">være lett — <lbl>мор.</lbl> сняться с якоря
-<div style="margin-left:5px"><strong><p><span class="dic_example">være lett på hånden — иметь лёгкую руку
+<сit type="example"><text>lett på roret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о судне)</text></cit></cit>
+<сit type="example"><text>lett på tømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о лошади)</text></cit></cit>
+<сit type="example"><text>lettere sagt enn gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказать легче, чем сделать</text></cit></cit>
+<сit type="example"><text>ha lett for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко усваивать что-л., не встречать трудностей</text></cit></cit>
+<сit type="example"><text>slippe lett fra noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко отделаться от чего-л.</text></cit></cit>
+<сit type="example"><text>ta (seg) noe lett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко относиться к чему-л., не принимать близко к сердцу</text></cit></cit>
+<сit type="example"><text>være lett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> сняться с якоря</text></cit></cit>
+<сit type="example"><text>være lett på hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь лёгкую руку</text></cit></cit>
 </sense>
 <sense>
 рыхлый (о почве)
@@ -40,7 +40,7 @@
 </sense>
 <sense>
 фривольный, легкомысленный (о поведении)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være lett på det — быть морально распущенным
+<сit type="example"><text>være lett på det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть морально распущенным</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

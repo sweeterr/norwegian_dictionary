@@ -8,14 +8,14 @@
 </form>
 <sense>
 местность, вид местности
-<div style="margin-left:5px"><strong><p><span class="dic_example">berglendt (kupert, åpent) terreng — гористая (пересечённая, открытая) местность
-<div style="margin-left:5px"><strong><p><span class="dic_example">i terrenget — на местности
+<сit type="example"><text>berglendt (kupert, åpent) terreng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гористая (пересечённая, открытая) местность</text></cit></cit>
+<сit type="example"><text>i terrenget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на местности</text></cit></cit>
 </sense>
 <sense>
 поверхность земли
-<div style="margin-left:5px"><strong><p><span class="dic_example">sondere terrenget — зондировать почву
-<div style="margin-left:5px"><strong><p><span class="dic_example">tape terreng — терять влияние
-<div style="margin-left:5px"><strong><p><span class="dic_example">vinne hurtig terreng — быстро получить распространение
+<сit type="example"><text>sondere terrenget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зондировать почву</text></cit></cit>
+<сit type="example"><text>tape terreng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терять влияние</text></cit></cit>
+<сit type="example"><text>vinne hurtig terreng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро получить распространение</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

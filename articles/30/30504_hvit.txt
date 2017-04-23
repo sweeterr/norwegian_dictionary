@@ -8,20 +8,20 @@
 </form>
 <sense>
 белый
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hvite i egget — яичный белок
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hvite i øynene — белки глаз
-<div style="margin-left:5px"><strong><p><span class="dic_example">den hvite linje — <lbl>анат.</lbl> белая линия
+<сit type="example"><text>det hvite i egget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яичный белок</text></cit></cit>
+<сit type="example"><text>det hvite i øynene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белки глаз</text></cit></cit>
+<сit type="example"><text>den hvite linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> белая линия</text></cit></cit>
 </sense>
 <sense>
 седой
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli helt hvit — поседеть
+<сit type="example"><text>bli helt hvit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поседеть</text></cit></cit>
 </sense>
 <sense>
 бледный
 </sense>
 <sense>
 покрытый белыми барашками (о море)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gikk hvitt i vannet — море покрылось белыми барашками
+<сit type="example"><text>det gikk hvitt i vannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море покрылось белыми барашками</text></cit></cit>
 </sense>
 <sense>
 <u>перен.</u> блестящий

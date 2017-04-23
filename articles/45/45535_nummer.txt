@@ -8,16 +8,16 @@
 </form>
 <sense>
 номер
-<div style="margin-left:5px"><strong><p><span class="dic_example">fortløpende nummer — порядковый номер
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke noe å ta nummer på <lbl>разг.</lbl> nummer — игра не стоит свеч
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre (et) stort nummer av noe — поднять шум вокруг (из-за) чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta nummer på noe — купить лотерейный билет
-<div style="margin-left:5px"><strong><p><span class="dic_example">være utenfor nummer — <lbl>воен.</lbl> находиться в запасе (об офицерах)
-<div style="margin-left:5px"><strong><p><span class="dic_example">nummeret er opptatt — номер (телефон) занят
+<сit type="example"><text>fortløpende nummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порядковый номер</text></cit></cit>
+<сit type="example"><text>det er ikke noe å ta nummer på <lbl>разг.</lbl> nummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>игра не стоит свеч</text></cit></cit>
+<сit type="example"><text>gjøre (et) stort nummer av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять шум вокруг (из-за) чего-л.</text></cit></cit>
+<сit type="example"><text>ta nummer på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>купить лотерейный билет</text></cit></cit>
+<сit type="example"><text>være utenfor nummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> находиться в запасе (об офицерах)</text></cit></cit>
+<сit type="example"><text>nummeret er opptatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>номер (телефон) занят</text></cit></cit>
 </sense>
 <sense>
 номер, размер (одежды, обуви)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva nummer bruker De? — какой номер (размер) вы носите?
+<сit type="example"><text>hva nummer bruker De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какой номер (размер) вы носите?</text></cit></cit>
 </sense>
 <sense>
 номер, выпуск (газеты, журнала)
@@ -27,8 +27,8 @@
 </sense>
 <sense>
 <u>презр.</u> <u>разг.</u> фигура, тип (о человеке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme i nummer — <lbl>воен.</lbl> получить штатную должность
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå i nummer — <lbl>воен.</lbl> занимать штатную должность
+<сit type="example"><text>komme i nummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> получить штатную должность</text></cit></cit>
+<сit type="example"><text>stå i nummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> занимать штатную должность</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

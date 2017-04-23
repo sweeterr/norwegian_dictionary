@@ -8,17 +8,17 @@
 </form>
 <sense>
 пар, пары
-<div style="margin-left:5px"><strong><p><span class="dic_example">for full damp — (идти) на всех парах
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge med dampen oppe — стоять под парами (о паровозе, пароходе)
+<сit type="example"><text>for full damp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(идти) на всех парах</text></cit></cit>
+<сit type="example"><text>ligge med dampen oppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять под парами (о паровозе, пароходе)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">sette full damp på :
 <сit type = "example"><text>sette full damp på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать на полный ход (о паровозе, машине и т. п.)</text></cit></cit>
 <сit type = "example"><text>sette full damp på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать изо всех сил, взяться за работу с энергией</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha dampen oppe — <lbl>разг.</lbl> развивать деятельность
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette (slippe) dampen på — пустить пар, нагнетать пар
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette dampen opp — поддать пару
-<div style="margin-left:5px"><strong><p><span class="dic_example">stenge av (avskjære) dampen — <lbl>тех.</lbl> отсечь пар
-<div style="margin-left:5px"><strong><p><span class="dic_example">være under damp — <lbl>мор.</lbl> быть под парами
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå dampen — <lbl>мор.</lbl> давать контрпар
+<сit type="example"><text>ha dampen oppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> развивать деятельность</text></cit></cit>
+<сit type="example"><text>sette (slippe) dampen på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пустить пар, нагнетать пар</text></cit></cit>
+<сit type="example"><text>sette dampen opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддать пару</text></cit></cit>
+<сit type="example"><text>stenge av (avskjære) dampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>тех.</lbl> отсечь пар</text></cit></cit>
+<сit type="example"><text>være under damp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> быть под парами</text></cit></cit>
+<сit type="example"><text>slå dampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> давать контрпар</text></cit></cit>
 </sense>
 <sense>
 испарение, дымка, лёгкий туман
@@ -34,7 +34,7 @@
 </sense>
 <sense>
 общественная столовая
-<div style="margin-left:5px"><strong><p><span class="dic_example">spise på damp — питаться в общественной столовой
+<сit type="example"><text>spise på damp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питаться в общественной столовой</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

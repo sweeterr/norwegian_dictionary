@@ -8,23 +8,23 @@
 </form>
 <sense>
 телефон
-<div style="margin-left:5px"><strong><p><span class="dic_example">mobiltelefon — мобильный телефон
-<div style="margin-left:5px"><strong><p><span class="dic_example">manuell telefon — неавтоматический телефон
-<div style="margin-left:5px"><strong><p><span class="dic_example">trådløs telefon — радиотелефон
-<div style="margin-left:5px"><strong><p><span class="dic_example">pr. telefon — по телефону
-<div style="margin-left:5px"><strong><p><span class="dic_example">det ringer i telefonen — телефон звонит
+<сit type="example"><text>mobiltelefon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мобильный телефон</text></cit></cit>
+<сit type="example"><text>manuell telefon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неавтоматический телефон</text></cit></cit>
+<сit type="example"><text>trådløs telefon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>радиотелефон</text></cit></cit>
+<сit type="example"><text>pr. telefon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по телефону</text></cit></cit>
+<сit type="example"><text>det ringer i telefonen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>телефон звонит</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">slå på telefonen :
 <сit type = "example"><text>slå på telefonen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> позвонить по телефону</text></cit></cit>
 <сit type = "example"><text>slå på telefonen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вызывать по телефону</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakke i telefonen — разговаривать по телефону
+<сit type="example"><text>snakke i telefonen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговаривать по телефону</text></cit></cit>
 </sense>
 <sense>
 разговор по телефону, телефонный звонок
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er telefon til Dem — вас просят к телефону
+<сit type="example"><text>det er telefon til Dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вас просят к телефону</text></cit></cit>
 </sense>
 <sense>
 телефонная трубка
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta telefonen — сиять телефонную трубку
+<сit type="example"><text>ta telefonen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сиять телефонную трубку</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

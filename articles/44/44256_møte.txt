@@ -8,16 +8,16 @@
 </form>
 <sense>
 встреча, свидание
-<div style="margin-left:5px"><strong><p><span class="dic_example">i møte — навстречу
-<div style="margin-left:5px"><strong><p><span class="dic_example">til møtes — <lbl>диал.</lbl> навстречу
-<div style="margin-left:5px"><strong><p><span class="dic_example">avtale møte — договариваться о свидании
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi møte — собраться, прибыть, явиться куда-л.
+<сit type="example"><text>i møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навстречу</text></cit></cit>
+<сit type="example"><text>til møtes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> навстречу</text></cit></cit>
+<сit type="example"><text>avtale møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>договариваться о свидании</text></cit></cit>
+<сit type="example"><text>gi møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собраться, прибыть, явиться куда-л.</text></cit></cit>
 </sense>
 <sense>
 собрание
-<div style="margin-left:5px"><strong><p><span class="dic_example">et felles møte — общее собрание
-<div style="margin-left:5px"><strong><p><span class="dic_example">et offentlig møte — открытое собрание
-<div style="margin-left:5px"><strong><p><span class="dic_example">heve (holde, lede, sammenkalle, sette) et møte — закрывать (проводить, вести, созывать, открывать) собрание
+<сit type="example"><text>et felles møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общее собрание</text></cit></cit>
+<сit type="example"><text>et offentlig møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открытое собрание</text></cit></cit>
+<сit type="example"><text>heve (holde, lede, sammenkalle, sette) et møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрывать (проводить, вести, созывать, открывать) собрание</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -28,17 +28,17 @@
 </form>
 <sense>
 встречать
-<div style="margin-left:5px"><strong><p><span class="dic_example">vel møtt — очень рад (встрече с вами)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vel møtt igjen — до следующей встречи (при прощании)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vel møtt over nyttår — до счастливой встречи в новом году
+<сit type="example"><text>vel møtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень рад (встрече с вами)</text></cit></cit>
+<сit type="example"><text>vel møtt igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до следующей встречи (при прощании)</text></cit></cit>
+<сit type="example"><text>vel møtt over nyttår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до счастливой встречи в новом году</text></cit></cit>
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> møte på samlingsplass — явиться на место сбора
+<сit type="example"><text> møte på samlingsplass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>явиться на место сбора</text></cit></cit>
 </sense>
 <sense>
 сталкиваться (с чем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">møte fram — объявиться, неожиданно появиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">møte opp — выступать (с предложением - med forslag)
+<сit type="example"><text>møte fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявиться, неожиданно появиться</text></cit></cit>
+<сit type="example"><text>møte opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать (с предложением - med forslag)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,8 +8,8 @@
 </form>
 <sense>
 растение
-<div style="margin-left:5px"><strong><p><span class="dic_example">bestemme en plante — определять вид растения
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette planter — сажать растения
+<сit type="example"><text>bestemme en plante</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>определять вид растения</text></cit></cit>
+<сit type="example"><text>sette planter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сажать растения</text></cit></cit>
 </sense>
 <sense>
 <u>презр.</u> отпрыск, чадо, потомок
@@ -35,9 +35,9 @@
 </sense>
 <sense>
 <u>разг.</u> швырнуть, бросить
-<div style="margin-left:5px"><strong><p><span class="dic_example">plante inn — пересаживать из леса
-<div style="margin-left:5px"><strong><p><span class="dic_example">plante om — пересаживать (растения)
-<div style="margin-left:5px"><strong><p><span class="dic_example">plante ut — высаживать (растения)
+<сit type="example"><text>plante inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживать из леса</text></cit></cit>
+<сit type="example"><text>plante om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживать (растения)</text></cit></cit>
+<сit type="example"><text>plante ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высаживать (растения)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

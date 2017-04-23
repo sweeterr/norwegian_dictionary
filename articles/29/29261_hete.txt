@@ -8,7 +8,7 @@
 </form>
 <sense>
 зной, жара
-<div style="margin-left:5px"><strong><p><span class="dic_example">under brennende hete — в сильную жару
+<сit type="example"><text>under brennende hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в сильную жару</text></cit></cit>
 </sense>
 <sense>
 горячка (на работе)
@@ -18,8 +18,8 @@
 </sense>
 <sense>
 страстность, пыл
-<div style="margin-left:5px"><strong><p><span class="dic_example">i kampens hete — в пылу сражения
-<div style="margin-left:5px"><strong><p><span class="dic_example">i stridens hete — в разгаре спора
+<сit type="example"><text>i kampens hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пылу сражения</text></cit></cit>
+<сit type="example"><text>i stridens hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в разгаре спора</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -42,9 +42,9 @@
 <em><span class="dic_color"><span class="dic_comment">het (hette), hett</em>
 называться, именоваться, иметь имя
 … heter det i avisa … говорится в газете
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva heter De? — как вас зовут?, как ваше имя?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hun heter etter (noen) — её назвали в честь (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">(som) det heter — как говорится
+<сit type="example"><text>hva heter De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вас зовут?, как ваше имя?</text></cit></cit>
+<сit type="example"><text>hun heter etter (noen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её назвали в честь (кого-л.)</text></cit></cit>
+<сit type="example"><text>(som) det heter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как говорится</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

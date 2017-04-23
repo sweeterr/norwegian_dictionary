@@ -8,8 +8,8 @@
 </form>
 <sense>
 тон, тональность, интонация
-<div style="margin-left:5px"><strong><p><span class="dic_example">angi (gi, slå an) tonen — <lbl>муз.</lbl> давать тон
-<div style="margin-left:5px"><strong><p><span class="dic_example">anslå en vis tone overfor Enenen — <lbl>перен.</lbl> взять определённый тон в отношении кого-л.
+<сit type="example"><text>angi (gi, slå an) tonen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>муз.</lbl> давать тон</text></cit></cit>
+<сit type="example"><text>anslå en vis tone overfor Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> взять определённый тон в отношении кого-л.</text></cit></cit>
 </sense>
 <sense>
 <u>pl</u> мелодия, песня
@@ -51,9 +51,9 @@
 </sense>
 <sense>
 выбрасывать (флаг, вымпел)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tone bort — исчезать из виду
-<div style="margin-left:5px"><strong><p><span class="dic_example">tone fram — выступать, выделяться, виднеться
-<div style="margin-left:5px"><strong><p><span class="dic_example">tone hen — см. tone bort
+<сit type="example"><text>tone bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исчезать из виду</text></cit></cit>
+<сit type="example"><text>tone fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать, выделяться, виднеться</text></cit></cit>
+<сit type="example"><text>tone hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. tone bort</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,12 +8,12 @@
 </form>
 <sense>
 стиль <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gotisk stil — <lbl>архит.</lbl> готический стиль
+<сit type="example"><text>gotisk stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>архит.</lbl> готический стиль</text></cit></cit>
 </sense>
 <sense>
 стиль, слог
-<div style="margin-left:5px"><strong><p><span class="dic_example">bunden stil — поэзия
-<div style="margin-left:5px"><strong><p><span class="dic_example">fortellende stil — повествовательный стиль
+<сit type="example"><text>bunden stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поэзия</text></cit></cit>
+<сit type="example"><text>fortellende stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повествовательный стиль</text></cit></cit>
 </sense>
 <sense>
 школьное сочинение
@@ -23,11 +23,11 @@
 </sense>
 <sense>
 календарный стиль
-<div style="margin-left:5px"><strong><p><span class="dic_example">gammel (ny) stil — старый (новый) стиль
+<сit type="example"><text>gammel (ny) stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старый (новый) стиль</text></cit></cit>
 </sense>
 <sense>
 <u>полигр.</u> шрифт
-<div style="margin-left:5px"><strong><p><span class="dic_example">i stor stil — на широкую ногу
+<сit type="example"><text>i stor stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на широкую ногу</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

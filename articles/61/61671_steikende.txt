@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">steikende</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">steikende hett (varmt) — очень жаркий (тёплый)
-<div style="margin-left:5px"><strong><p><span class="dic_example">steikende sint — страшно злой
+<сit type="example"><text>steikende hett (varmt)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень жаркий (тёплый)</text></cit></cit>
+<сit type="example"><text>steikende sint</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страшно злой</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

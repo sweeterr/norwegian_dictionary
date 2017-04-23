@@ -6,8 +6,8 @@
 <orth type="lemma">føde</orth>
 <em><span class="dic_color"><span class="dic_comment">-n</em>
 питание, пища, корм
-<div style="margin-left:5px"><strong><p><span class="dic_example">vegetabilisk føde — растительная пища
-<div style="margin-left:5px"><strong><p><span class="dic_example">berge føden — зарабатывать себе на пропитание
+<сit type="example"><text>vegetabilisk føde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растительная пища</text></cit></cit>
+<сit type="example"><text>berge føden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зарабатывать себе на пропитание</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,8 +21,8 @@
 </sense>
 <sense>
 <u>тех.</u> питать, накачивать, нагнетать
-<div style="margin-left:5px"><strong><p><span class="dic_example">føde fram — выкармливать, оставлять на зиму (животных)
-<div style="margin-left:5px"><strong><p><span class="dic_example">føde opp — откармливать на убой
+<сit type="example"><text>føde fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкармливать, оставлять на зиму (животных)</text></cit></cit>
+<сit type="example"><text>føde opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откармливать на убой</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -33,9 +33,9 @@
 </form>
 <sense>
 родить, рожать
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli født — родиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er uekte født — он внебрачный ребёнок
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg var ikke født i går — я не малый ребёнок
+<сit type="example"><text>bli født</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>родиться</text></cit></cit>
+<сit type="example"><text>han er uekte født</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он внебрачный ребёнок</text></cit></cit>
+<сit type="example"><text>jeg var ikke født i går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не малый ребёнок</text></cit></cit>
 </sense>
 <sense>
 порождать

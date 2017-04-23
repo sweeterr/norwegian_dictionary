@@ -16,17 +16,17 @@
 </form>
 <sense>
 при ответе на вопрос, содержащий отрицание:
-<div style="margin-left:5px"><strong><p><span class="dic_example">har hun ingen barn? jo, hun har to — у неё нет детей? что вы (да как же), у неё двое
+<сit type="example"><text>har hun ingen barn? jo, hun har to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у неё нет детей? что вы (да как же), у неё двое</text></cit></cit>
 </sense>
 <sense>
 ведь, же
-<div style="margin-left:5px"><strong><p><span class="dic_example">vi er jo så gamle venner — мы ведь такие старые друзья
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo, dog — всё же, всё-таки
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo, visst — да, конечно
+<сit type="example"><text>vi er jo så gamle venner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы ведь такие старые друзья</text></cit></cit>
+<сit type="example"><text>jo, dog</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё же, всё-таки</text></cit></cit>
+<сit type="example"><text>jo, visst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, конечно</text></cit></cit>
 </sense>
 <sense>
 с формами сравнительной степени:
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo ... dess ..., jo ... desto ..., jo ... jo ... — чем ... тем ...
+<сit type="example"><text>jo ... dess ..., jo ... desto ..., jo ... jo ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чем ... тем ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,18 +8,18 @@
 </form>
 <sense>
 рождение
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra fødselen av — от рождения
-<div style="margin-left:5px"><strong><p><span class="dic_example">norsk av fødsel — норвежец по рождению
-<div style="margin-left:5px"><strong><p><span class="dic_example">før Kristi fødsel — до нашей эры, до рождества Христова
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter Kristi fødsel — нашей эры, после рождества Христова
+<сit type="example"><text>fra fødselen av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от рождения</text></cit></cit>
+<сit type="example"><text>norsk av fødsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежец по рождению</text></cit></cit>
+<сit type="example"><text>før Kristi fødsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до нашей эры, до рождества Христова</text></cit></cit>
+<сit type="example"><text>etter Kristi fødsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нашей эры, после рождества Христова</text></cit></cit>
 </sense>
 <sense>
 роды
-<div style="margin-left:5px"><strong><p><span class="dic_example">vanskelig fødsel — тяжёлые роды
+<сit type="example"><text>vanskelig fødsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлые роды</text></cit></cit>
 </sense>
 <sense>
 возникновение, начало
-<div style="margin-left:5px"><strong><p><span class="dic_example">kvele i fødselen — уничтожить в самом зародыше
+<сit type="example"><text>kvele i fødselen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожить в самом зародыше</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

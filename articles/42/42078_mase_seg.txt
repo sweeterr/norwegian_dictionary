@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">mase seg</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">mase seg opp — разгорячиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">mase seg ut — довести себя до изнеможения (вознёй, хлопотами)
+<сit type="example"><text>mase seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разгорячиться</text></cit></cit>
+<сit type="example"><text>mase seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довести себя до изнеможения (вознёй, хлопотами)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

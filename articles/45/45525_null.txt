@@ -8,15 +8,15 @@
 </form>
 <sense>
 ноль
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå på null — стоять на ноле (о физических приборах)
-<div style="margin-left:5px"><strong><p><span class="dic_example">under null — ниже ноля (о температуре)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved null grader — при температуре ноль градусов
+<сit type="example"><text>stå på null</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на ноле (о физических приборах)</text></cit></cit>
+<сit type="example"><text>under null</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ниже ноля (о температуре)</text></cit></cit>
+<сit type="example"><text>ved null grader</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при температуре ноль градусов</text></cit></cit>
 </sense>
 <sense>
 ничто, пустое место (о человеке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">null og niks — <lbl>разг.</lbl> никудышный, бессодержательный
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha null penger — не иметь ни копейки
-<div style="margin-left:5px"><strong><p><span class="dic_example">i null komma niks tid — в мгновение ока, вмиг
+<сit type="example"><text>null og niks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> никудышный, бессодержательный</text></cit></cit>
+<сit type="example"><text>ha null penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь ни копейки</text></cit></cit>
+<сit type="example"><text>i null komma niks tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в мгновение ока, вмиг</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

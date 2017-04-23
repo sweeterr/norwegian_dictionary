@@ -6,8 +6,8 @@
 <orth type="lemma">vant</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
 <u>мор.</u> ванты, снасти
-<div style="margin-left:5px"><strong><p><span class="dic_example">stramme vantene — тянуть ванты
-<div style="margin-left:5px"><strong><p><span class="dic_example">svikte vantene — ослабить ванты
+<сit type="example"><text>stramme vantene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть ванты</text></cit></cit>
+<сit type="example"><text>svikte vantene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослабить ванты</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,12 +18,12 @@
 </form>
 <sense>
 приученный, привыкший
-<div style="margin-left:5px"><strong><p><span class="dic_example">være vant til (med, ved) — привыкнуть к чему-л., свыкнуться с чем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">være godt (dårlig) vant — привыкнуть жить в хороших (плохих) условиях
+<сit type="example"><text>være vant til (med, ved)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть к чему-л., свыкнуться с чем-л.</text></cit></cit>
+<сit type="example"><text>være godt (dårlig) vant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть жить в хороших (плохих) условиях</text></cit></cit>
 </sense>
 <sense>
 опытный, испытанный
-<div style="margin-left:5px"><strong><p><span class="dic_example">med vant hånd — опытной рукой
+<сit type="example"><text>med vant hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опытной рукой</text></cit></cit>
 </sense>
 <sense>
 привычный, обычный
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">vant</orth>
 <em><span class="dic_color"><span class="dic_comment">pret — от</em> vinne <strong>I
-<div style="margin-left:5px"><strong><p><span class="dic_example">det beste han vant — как только мог, что было сил
+<сit type="example"><text>det beste han vant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как только мог, что было сил</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

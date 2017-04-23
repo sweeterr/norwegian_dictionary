@@ -21,8 +21,8 @@
 <orth type="lemma">galt</orth>
 <u>adv</u>
 плохо, неверно, ошибочно
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er galt — это неверно, это не так
-<div style="margin-left:5px"><strong><p><span class="dic_example">det går galt — дело плохо
+<сit type="example"><text>det er galt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это неверно, это не так</text></cit></cit>
+<сit type="example"><text>det går galt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело плохо</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

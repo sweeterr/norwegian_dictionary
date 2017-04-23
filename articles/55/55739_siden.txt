@@ -8,14 +8,14 @@
 </form>
 <sense>
 с тех пор
-<div style="margin-left:5px"><strong><p><span class="dic_example">for fem år siden — пять лет тому назад
-<div style="margin-left:5px"><strong><p><span class="dic_example">lenge siden — давным-давно, с давних пор
-<div style="margin-left:5px"><strong><p><span class="dic_example">like siden — с тех пор
-<div style="margin-left:5px"><strong><p><span class="dic_example">noen tid siden — некоторое время тому назад
+<сit type="example"><text>for fem år siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять лет тому назад</text></cit></cit>
+<сit type="example"><text>lenge siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давным-давно, с давних пор</text></cit></cit>
+<сit type="example"><text>like siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с тех пор</text></cit></cit>
+<сit type="example"><text>noen tid siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>некоторое время тому назад</text></cit></cit>
 </sense>
 <sense>
 затем, впоследствии
-<div style="margin-left:5px"><strong><p><span class="dic_example">men siden? — ну а затем что?
+<сit type="example"><text>men siden?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну а затем что?</text></cit></cit>
 </sense>
 <sense>
 позднее, после
@@ -27,9 +27,9 @@
 <orth type="lemma">siden</orth>
 <u>prep</u>
 начиная с
-<div style="margin-left:5px"><strong><p><span class="dic_example">siden i går — со вчерашнего дня
-<div style="margin-left:5px"><strong><p><span class="dic_example">siden — 1963 начиная с 1963 года
-<div style="margin-left:5px"><strong><p><span class="dic_example">siden sist — за последнее время
+<сit type="example"><text>siden i går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со вчерашнего дня</text></cit></cit>
+<сit type="example"><text>siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>1963 начиная с 1963 года</text></cit></cit>
+<сit type="example"><text>siden sist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за последнее время</text></cit></cit>
 </sense>
 </entry>
 <entry>

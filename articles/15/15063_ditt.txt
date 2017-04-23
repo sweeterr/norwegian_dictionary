@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">ditt</orth>
 <u>pron</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">poss — см. din
+<сit type="example"><text>poss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. din</text></cit></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ditt</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> snakke om ditt og datt — поговорить о том о сём
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ditt og datt — бывать и тут и там
+<сit type="example"><text> snakke om ditt og datt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поговорить о том о сём</text></cit></cit>
+<сit type="example"><text>være ditt og datt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бывать и тут и там</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

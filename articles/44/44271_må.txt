@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">må</orth>
 <em><span class="dic_color"><span class="dic_comment">pres — от</em> måtte
-<div style="margin-left:5px"><strong><p><span class="dic_example">må hende — должно быть (вероятно)
-<div style="margin-left:5px"><strong><p><span class="dic_example">må tro — хотел бы я знать, интересно
-<div style="margin-left:5px"><strong><p><span class="dic_example">må tro om det er sant — хотел бы я знать, правда ли это
-<div style="margin-left:5px"><strong><p><span class="dic_example">må vite — понимаешь (как вводное слово)
+<сit type="example"><text>må hende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>должно быть (вероятно)</text></cit></cit>
+<сit type="example"><text>må tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотел бы я знать, интересно</text></cit></cit>
+<сit type="example"><text>må tro om det er sant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотел бы я знать, правда ли это</text></cit></cit>
+<сit type="example"><text>må vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимаешь (как вводное слово)</text></cit></cit>
 </sense>
 </entry>
 <entry>

@@ -8,12 +8,12 @@
 </form>
 <sense>
 неудача, невезение
-<div style="margin-left:5px"><strong><p><span class="dic_example">han har uhell med noe — ему не везёт с чем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte i uhell — иметь неудачу в картах
+<сit type="example"><text>han har uhell med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему не везёт с чем-л.</text></cit></cit>
+<сit type="example"><text>sitte i uhell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь неудачу в картах</text></cit></cit>
 </sense>
 <sense>
 несчастный случай, несчастье
-<div style="margin-left:5px"><strong><p><span class="dic_example">til alt uhell — в довершение всех несчастий
+<сit type="example"><text>til alt uhell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в довершение всех несчастий</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

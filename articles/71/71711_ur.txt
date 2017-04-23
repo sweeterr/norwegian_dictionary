@@ -36,11 +36,11 @@
 <orth type="lemma">ur</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 часы
-<div style="margin-left:5px"><strong><p><span class="dic_example">elektrisk ur — электрические часы
-<div style="margin-left:5px"><strong><p><span class="dic_example">frøken Ur — <lbl>разг.</lbl> «точное время» (автоматическая телефонная станция точного времени)
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter mitt ur — по моим часам
-<div style="margin-left:5px"><strong><p><span class="dic_example">stille et ur — ставить часы (на определённое время)
-<div style="margin-left:5px"><strong><p><span class="dic_example">trekke (opp) et ur — заводить часы
+<сit type="example"><text>elektrisk ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрические часы</text></cit></cit>
+<сit type="example"><text>frøken Ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> «точное время» (автоматическая телефонная станция точного времени)</text></cit></cit>
+<сit type="example"><text>etter mitt ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по моим часам</text></cit></cit>
+<сit type="example"><text>stille et ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить часы (на определённое время)</text></cit></cit>
+<сit type="example"><text>trekke (opp) et ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заводить часы</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -49,8 +49,8 @@
 <orth type="lemma">ur</orth>
 <u>adv</u>
 <u>диал.</u> очень, чрезвычайно
-<div style="margin-left:5px"><strong><p><span class="dic_example">ur liten — малюсенький
-<div style="margin-left:5px"><strong><p><span class="dic_example">ur tynn — тонюсенький
+<сit type="example"><text>ur liten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малюсенький</text></cit></cit>
+<сit type="example"><text>ur tynn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тонюсенький</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">koke</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">en koke fisk — порция рыбы (которую можно сварить в один приём)
+<сit type="example"><text>en koke fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порция рыбы (которую можно сварить в один приём)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -31,11 +31,11 @@
 </sense>
 <sense>
 <u>перен.</u> кипеть, бурлить (о людской массе, страстях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke bort — увариваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke bort for Enenen — <lbl>разг.</lbl> забывать кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke inn — увариваться, развариваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke opp — вскипать
-<div style="margin-left:5px"><strong><p><span class="dic_example">koke over — уходить через край (о молоке)
+<сit type="example"><text>koke bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увариваться</text></cit></cit>
+<сit type="example"><text>koke bort for Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> забывать кого-л.</text></cit></cit>
+<сit type="example"><text>koke inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увариваться, развариваться</text></cit></cit>
+<сit type="example"><text>koke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскипать</text></cit></cit>
+<сit type="example"><text>koke over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уходить через край (о молоке)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">koke ut :
 <сit type = "example"><text>koke ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выкипеть</text></cit></cit>
 <сit type = "example"><text>koke ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прокипятить</text></cit></cit>

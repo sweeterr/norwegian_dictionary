@@ -6,8 +6,8 @@
 <orth type="lemma">sinne</orth>
 <em><span class="dic_color"><span class="dic_comment">-t</em>
 злость, ярость
-<div style="margin-left:5px"><strong><p><span class="dic_example">fare opp i fullt sinne — вспылить, прийти в ярость
-<div style="margin-left:5px"><strong><p><span class="dic_example">når sinnet kommer over ham — когда ярость охватывает его
+<сit type="example"><text>fare opp i fullt sinne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспылить, прийти в ярость</text></cit></cit>
+<сit type="example"><text>når sinnet kommer over ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>когда ярость охватывает его</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">sinne</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sinne seg opp — разозлиться
+<сit type="example"><text>sinne seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разозлиться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

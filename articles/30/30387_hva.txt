@@ -8,20 +8,20 @@
 </form>
 <sense>
 <u>inter</u> что?, что за?, какой?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva annet? — что ещё?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva behager? — <lbl>уст.</lbl> что угодно?, что вы сказали?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det (for noe)? — что это такое?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er det med Dem? — что с вами?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva for en? — что за?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener du? — что ты имеешь в виду?
-<div style="margin-left:5px"><strong><p><span class="dic_example">på hva måte? — каким образом?
+<сit type="example"><text>hva annet?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что ещё?</text></cit></cit>
+<сit type="example"><text>hva behager?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> что угодно?, что вы сказали?</text></cit></cit>
+<сit type="example"><text>hva er det (for noe)?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что это такое?</text></cit></cit>
+<сit type="example"><text>hva er det med Dem?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что с вами?</text></cit></cit>
+<сit type="example"><text>hva for en?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что за?</text></cit></cit>
+<сit type="example"><text>hva mener du?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что ты имеешь в виду?</text></cit></cit>
+<сit type="example"><text>på hva måte?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каким образом?</text></cit></cit>
 </sense>
 <sense>
 <u>rel</u> что
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke vite hva er hva — не различать что к чему
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva … angår — что касается ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva enten (eller, heller) — чтобы ни, какой бы ни
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva som helst — что угодно, что бы ни
+<сit type="example"><text>ikke vite hva er hva</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не различать что к чему</text></cit></cit>
+<сit type="example"><text>hva … angår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается ...</text></cit></cit>
+<сit type="example"><text>hva enten (eller, heller)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтобы ни, какой бы ни</text></cit></cit>
+<сit type="example"><text>hva som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что угодно, что бы ни</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

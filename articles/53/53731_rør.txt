@@ -8,8 +8,8 @@
 </form>
 <sense>
 труба, трубка, трубочка
-<div style="margin-left:5px"><strong><p><span class="dic_example">sveisede rør — сварные трубы
-<div style="margin-left:5px"><strong><p><span class="dic_example">valsede rør — катаные трубы
+<сit type="example"><text>sveisede rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сварные трубы</text></cit></cit>
+<сit type="example"><text>valsede rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>катаные трубы</text></cit></cit>
 </sense>
 <sense>
 дымовая труба
@@ -19,9 +19,9 @@
 </sense>
 <sense>
 телефонная трубка
-<div style="margin-left:5px"><strong><p><span class="dic_example">henge røret på — повесить трубку
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge røret på — положить трубку
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta røret — снять трубку
+<сit type="example"><text>henge røret på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повесить трубку</text></cit></cit>
+<сit type="example"><text>legge røret på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положить трубку</text></cit></cit>
+<сit type="example"><text>ta røret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снять трубку</text></cit></cit>
 </sense>
 <sense>
 тростник, камыш
@@ -40,7 +40,7 @@
 </sense>
 <sense>
 <u>анат.</u> тракт, канал (дыхательный, пищеварительный)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det evstakiske rør — евстахиева труба
+<сit type="example"><text>det evstakiske rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>евстахиева труба</text></cit></cit>
 </sense>
 <sense>
 радиолампа

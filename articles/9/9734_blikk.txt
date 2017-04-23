@@ -8,20 +8,20 @@
 </form>
 <sense>
 взгляд, взор, выражение глаз
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha et fast blikk — иметь твёрдый взгляд
-<div style="margin-left:5px"><strong><p><span class="dic_example">et bebreidende blikk — укоризненный взгляд
-<div style="margin-left:5px"><strong><p><span class="dic_example">et flyktig blikk — быстрый (беглый) взгляд
-<div style="margin-left:5px"><strong><p><span class="dic_example">veksle et blikk med noen — переглядываться с кем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">feste blikket på noen — всматриваться в кого-л., пристально смотреть на кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste et blikk på noen — бросать взгляд на кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">låne et blikk — (по)дарйть взглядом
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved første blikk — с первого взгляда
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå blikket ned — опустить глаза
+<сit type="example"><text>ha et fast blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь твёрдый взгляд</text></cit></cit>
+<сit type="example"><text>et bebreidende blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>укоризненный взгляд</text></cit></cit>
+<сit type="example"><text>et flyktig blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый (беглый) взгляд</text></cit></cit>
+<сit type="example"><text>veksle et blikk med noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переглядываться с кем-л.</text></cit></cit>
+<сit type="example"><text>feste blikket på noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всматриваться в кого-л., пристально смотреть на кого-л.</text></cit></cit>
+<сit type="example"><text>kaste et blikk på noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросать взгляд на кого-л.</text></cit></cit>
+<сit type="example"><text>låne et blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)дарйть взглядом</text></cit></cit>
+<сit type="example"><text>ved første blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с первого взгляда</text></cit></cit>
+<сit type="example"><text>slå blikket ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опустить глаза</text></cit></cit>
 </sense>
 <sense>
 смётка
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha et skarpt blikk for noe — иметь смётку (хватку) на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha et blikk på livets gang — разбираться в житейских делах
+<сit type="example"><text>ha et skarpt blikk for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь смётку (хватку) на что-л.</text></cit></cit>
+<сit type="example"><text>ha et blikk på livets gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбираться в житейских делах</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +45,7 @@
 </form>
 <sense>
 жесть, листовое железо
-<div style="margin-left:5px"><strong><p><span class="dic_example">av blikk — жестяной
+<сit type="example"><text>av blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жестяной</text></cit></cit>
 </sense>
 <sense>
 <u>муз.</u> духовой инструмент

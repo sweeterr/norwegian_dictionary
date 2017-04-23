@@ -6,9 +6,9 @@
 <orth type="lemma">ekvator</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>геогр.</u> экватор
-<div style="margin-left:5px"><strong><p><span class="dic_example">himmelens ekvator — <lbl>астр.</lbl> небесный экватор
-<div style="margin-left:5px"><strong><p><span class="dic_example">under ekvator — в экваториальных районах, на экваторе
-<div style="margin-left:5px"><strong><p><span class="dic_example">passere ekvator — пересечь экватор
+<сit type="example"><text>himmelens ekvator</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>астр.</lbl> небесный экватор</text></cit></cit>
+<сit type="example"><text>under ekvator</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в экваториальных районах, на экваторе</text></cit></cit>
+<сit type="example"><text>passere ekvator</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересечь экватор</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

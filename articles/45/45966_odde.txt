@@ -6,7 +6,7 @@
 <orth type="lemma">odde</orth>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 <u>геогр.</u> мыс, нос, стрелка
-<div style="margin-left:5px"><strong><p><span class="dic_example">runde (klare) en odde — огибать мыс
+<сit type="example"><text>runde (klare) en odde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огибать мыс</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">odde</orth>
 <u>adj</u>
 непарный, нечётный
-<div style="margin-left:5px"><strong><p><span class="dic_example">par og odde — чёт-нечет
+<сit type="example"><text>par og odde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёт-нечет</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

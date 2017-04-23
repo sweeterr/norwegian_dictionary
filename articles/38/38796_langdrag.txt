@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">langdrag</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">trekke noe i langdrag — тянуть волынку (канителить)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det drar (trekker) i langdrag — дело затянулось
+<сit type="example"><text>trekke noe i langdrag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть волынку (канителить)</text></cit></cit>
+<сit type="example"><text>det drar (trekker) i langdrag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело затянулось</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

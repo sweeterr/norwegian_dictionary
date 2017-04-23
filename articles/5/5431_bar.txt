@@ -6,8 +6,8 @@
 <orth type="lemma">bar</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 хвоя
-<div style="margin-left:5px"><strong><p><span class="dic_example">strø med bar — посыпать хвоей, убрать еловыми ветками (на похоронах)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte bar — ломать еловые ветки
+<сit type="example"><text>strø med bar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посыпать хвоей, убрать еловыми ветками (на похоронах)</text></cit></cit>
+<сit type="example"><text>bryte bar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ломать еловые ветки</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -34,24 +34,24 @@
 </form>
 <sense>
 голый, обнажённый, непокрытый
-<div style="margin-left:5px"><strong><p><span class="dic_example">med sine bare hender — голыми руками
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå bar — ходить без верхней одежды
+<сit type="example"><text>med sine bare hender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голыми руками</text></cit></cit>
+<сit type="example"><text>gå bar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить без верхней одежды</text></cit></cit>
 </sense>
 <sense>
 голый, лишённый растительности, лишённый листьев (о деревьях)
 </sense>
 <sense>
 в определённой форме без определяющего слова перед существительным с определённым артиклем, один только:
-<div style="margin-left:5px"><strong><p><span class="dic_example">i bare skjorten — без пиджака, в одной только рубашке
-<div style="margin-left:5px"><strong><p><span class="dic_example">på bare gulvet — прямо на полу
+<сit type="example"><text>i bare skjorten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без пиджака, в одной только рубашке</text></cit></cit>
+<сit type="example"><text>på bare gulvet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо на полу</text></cit></cit>
 </sense>
 <sense>
 обычно в определённой форме перед отвлечёнными именами существительными, настоящий
-<div style="margin-left:5px"><strong><p><span class="dic_example">han var bare barnet — он был ещё настоящим ребёнком
-<div style="margin-left:5px"><strong><p><span class="dic_example">være blank og bar — не иметь ни гроша
-<div style="margin-left:5px"><strong><p><span class="dic_example">under bar himmel — под открытым небом
-<div style="margin-left:5px"><strong><p><span class="dic_example">på den bare jord — на голой земле
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke for sitt bare liv — ни за что на свете
+<сit type="example"><text>han var bare barnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он был ещё настоящим ребёнком</text></cit></cit>
+<сit type="example"><text>være blank og bar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь ни гроша</text></cit></cit>
+<сit type="example"><text>under bar himmel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под открытым небом</text></cit></cit>
+<сit type="example"><text>på den bare jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на голой земле</text></cit></cit>
+<сit type="example"><text>ikke for sitt bare liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни за что на свете</text></cit></cit>
 </sense>
 </entry><entry>
 <index></index>

@@ -8,14 +8,14 @@
 </form>
 <sense>
 спина
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende én baken — повернуться спиной к кому-л. (в знак презрения)
+<сit type="example"><text>vende én baken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуться спиной к кому-л. (в знак презрения)</text></cit></cit>
 </sense>
 <sense>
 спинка (одежды, мебели и т. д.)
 </sense>
 <sense>
 задняя часть, обратная сторона (чего-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha mange år på baken — быть в преклонном возрасте
+<сit type="example"><text>ha mange år på baken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в преклонном возрасте</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -32,8 +32,8 @@
 <orth type="lemma">bak</orth>
 <u>adv</u>
 назад, сзади
-<div style="margin-left:5px"><strong><p><span class="dic_example">både for og bak — и сзади и спереди
-<div style="margin-left:5px"><strong><p><span class="dic_example">bak fram — задом наперёд
+<сit type="example"><text>både for og bak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и сзади и спереди</text></cit></cit>
+<сit type="example"><text>bak fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задом наперёд</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -44,15 +44,15 @@
 </form>
 <sense>
 указывает на положение одного предмета позади другого, за, сзади, позади
-<div style="margin-left:5px"><strong><p><span class="dic_example">bak ens rygg — за чьей-л. спиной
-<div style="margin-left:5px"><strong><p><span class="dic_example">bak kulissene — за кулисами
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrive seg noe bak øret — зарубить себе на носу
-<div style="margin-left:5px"><strong><p><span class="dic_example">han har folket bak seg — за ним (идёт) народ
-<div style="margin-left:5px"><strong><p><span class="dic_example">bak bevegelsen ... — движение поддерживается ...
+<сit type="example"><text>bak ens rygg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за чьей-л. спиной</text></cit></cit>
+<сit type="example"><text>bak kulissene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за кулисами</text></cit></cit>
+<сit type="example"><text>skrive seg noe bak øret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зарубить себе на носу</text></cit></cit>
+<сit type="example"><text>han har folket bak seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за ним (идёт) народ</text></cit></cit>
+<сit type="example"><text>bak bevegelsen ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>движение поддерживается ...</text></cit></cit>
 </sense>
 <sense>
 указывает на положение за пределами определённого рубежа, за, по ту сторону
-<div style="margin-left:5px"><strong><p><span class="dic_example">bak grensen — по ту сторону границы
+<сit type="example"><text>bak grensen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по ту сторону границы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

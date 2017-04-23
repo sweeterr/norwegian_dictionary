@@ -8,9 +8,9 @@
 </form>
 <sense>
 комната, номер (в гостинице), палата (в больнице)
-<div style="margin-left:5px"><strong><p><span class="dic_example">dele værelse — жить вместе в одной комнате (с кем-л.), делить комнату (с кем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">få værelse — получить комнату (номер)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha værelse inn til ... — иметь комнату, выходящую в ...
+<сit type="example"><text>dele værelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить вместе в одной комнате (с кем-л.), делить комнату (с кем-л.)</text></cit></cit>
+<сit type="example"><text>få værelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить комнату (номер)</text></cit></cit>
+<сit type="example"><text>ha værelse inn til ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь комнату, выходящую в ...</text></cit></cit>
 </sense>
 <sense>
 <u>уст.</u> пребывание (где-л.)

@@ -6,8 +6,8 @@
 <orth type="lemma">skje</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 ложка
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi én noe inn med skjeer — <lbl>погов.</lbl> сообщать что-л. через час по чайной ложке
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta skjeen i en annen hånd — <lbl>посл.</lbl> изменить тактику (поведение)
+<сit type="example"><text>gi én noe inn med skjeer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сообщать что-л. через час по чайной ложке</text></cit></cit>
+<сit type="example"><text>ta skjeen i en annen hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> изменить тактику (поведение)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,13 +18,13 @@
 </form>
 <sense>
 происходить, иметь место, случаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva er skjedd? — что случилось?
+<сit type="example"><text>hva er skjedd?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что случилось?</text></cit></cit>
 </sense>
 <sense>
 сбываться
-<div style="margin-left:5px"><strong><p><span class="dic_example">skal skje! — будет сделано!
-<div style="margin-left:5px"><strong><p><span class="dic_example">takk skje deg! — спасибо тебе!
-<div style="margin-left:5px"><strong><p><span class="dic_example">Gud skje lov! — слава богу!
+<сit type="example"><text>skal skje!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будет сделано!</text></cit></cit>
+<сit type="example"><text>takk skje deg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спасибо тебе!</text></cit></cit>
+<сit type="example"><text>Gud skje lov!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слава богу!</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

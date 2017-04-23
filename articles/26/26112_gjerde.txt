@@ -6,9 +6,9 @@
 <orth type="lemma">gjerde</orth>
 <em><span class="dic_color"><span class="dic_comment">-t, -r</em>
 забор, изгородь, ограда
-<div style="margin-left:5px"><strong><p><span class="dic_example">levende gjerde — живая изгородь
-<div style="margin-left:5px"><strong><p><span class="dic_example">bygge (sette) gjerde — ставить забор (ограду)
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme innenfor gjerdet — <lbl>разг.</lbl> быть принятым в узком кругу
+<сit type="example"><text>levende gjerde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живая изгородь</text></cit></cit>
+<сit type="example"><text>bygge (sette) gjerde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить забор (ограду)</text></cit></cit>
+<сit type="example"><text>komme innenfor gjerdet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть принятым в узком кругу</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,8 +17,8 @@
 <orth type="lemma">gjerde</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 огораживать, ставить забор (ограду)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjerde av — отгораживать
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjerde inn — огораживать
+<сit type="example"><text>gjerde av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отгораживать</text></cit></cit>
+<сit type="example"><text>gjerde inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огораживать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

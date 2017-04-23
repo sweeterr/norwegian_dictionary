@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">love</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> på tro og love — на веру, без проверки
+<сit type="example"><text> på tro og love</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на веру, без проверки</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -26,11 +26,11 @@
 </sense>
 <sense>
 <u>разг.</u> гарантировать, заверять (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">love for én (noe) — ручаться за кого-л. (что-л.)
+<сit type="example"><text>love for én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ручаться за кого-л. (что-л.)</text></cit></cit>
 </sense>
 <sense>
 предвещать что-л. хорошее (приятное)
-<div style="margin-left:5px"><strong><p><span class="dic_example">love på — <lbl>разг.</lbl> уверять
+<сit type="example"><text>love på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> уверять</text></cit></cit>
 </sense>
 </entry>
 <entry>

@@ -8,11 +8,11 @@
 </form>
 <sense>
 брак, замужество, женитьба
-<div style="margin-left:5px"><strong><p><span class="dic_example">et godt gifte — удачный (счастливый) брак
+<сit type="example"><text>et godt gifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удачный (счастливый) брак</text></cit></cit>
 </sense>
 <sense>
 партия (о женитьбе или замужестве)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det beste gifte — выгодная партия
+<сit type="example"><text>det beste gifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выгодная партия</text></cit></cit>
 </sense>
 <sense>
 <u>диал.</u> пара (о муже, жене)
@@ -37,9 +37,9 @@
 </sense>
 <sense>
 <u>разг.</u> просватать (за кого-л. - med)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gifte bort — выдать замуж
-<div style="margin-left:5px"><strong><p><span class="dic_example">gifte seg — жениться, выйти замуж, пожениться
-<div style="margin-left:5px"><strong><p><span class="dic_example">vi vil gifteoss — мы хотим пожениться
+<сit type="example"><text>gifte bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдать замуж</text></cit></cit>
+<сit type="example"><text>gifte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жениться, выйти замуж, пожениться</text></cit></cit>
+<сit type="example"><text>vi vil gifteoss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы хотим пожениться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

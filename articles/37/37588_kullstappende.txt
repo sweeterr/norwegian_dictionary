@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">kullstappende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kullstappende mørk — абсолютно тёмный
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er kullstappende mørke — ни зги не видно
+<сit type="example"><text>kullstappende mørk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>абсолютно тёмный</text></cit></cit>
+<сit type="example"><text>det er kullstappende mørke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни зги не видно</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

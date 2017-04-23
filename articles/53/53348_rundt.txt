@@ -11,11 +11,11 @@
 </sense>
 <sense>
 повсюду, и там и сям
-<div style="margin-left:5px"><strong><p><span class="dic_example">rundt i rommene — по комнатам
-<div style="margin-left:5px"><strong><p><span class="dic_example">rundt (omkring) i landet — по (всей) стране
-<div style="margin-left:5px"><strong><p><span class="dic_example">løpe rundt med ærender — бегать по поручениям
-<div style="margin-left:5px"><strong><p><span class="dic_example">det går rundt for meg — мне дурно, мне скверно
-<div style="margin-left:5px"><strong><p><span class="dic_example">rundt regnet — круглым счётом
+<сit type="example"><text>rundt i rommene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по комнатам</text></cit></cit>
+<сit type="example"><text>rundt (omkring) i landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по (всей) стране</text></cit></cit>
+<сit type="example"><text>løpe rundt med ærender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бегать по поручениям</text></cit></cit>
+<сit type="example"><text>det går rundt for meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне дурно, мне скверно</text></cit></cit>
+<сit type="example"><text>rundt regnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>круглым счётом</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,8 +24,8 @@
 <orth type="lemma">rundt</orth>
 <u>prep</u>
 вокруг
-<div style="margin-left:5px"><strong><p><span class="dic_example">stikke rundt hjørnet — завернуть за угол
-<div style="margin-left:5px"><strong><p><span class="dic_example">seile rundt Nordkapp — обогнуть мыс Нордкап
+<сit type="example"><text>stikke rundt hjørnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завернуть за угол</text></cit></cit>
+<сit type="example"><text>seile rundt Nordkapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обогнуть мыс Нордкап</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

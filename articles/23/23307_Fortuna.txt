@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">Fortuna</orth>
 Фортуна (богиня судьбы, удачи, счастья)
-<div style="margin-left:5px"><strong><p><span class="dic_example">fru Fortuna — госпожа Удача
+<сit type="example"><text>fru Fortuna</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>госпожа Удача</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

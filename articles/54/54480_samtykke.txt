@@ -6,10 +6,10 @@
 <orth type="lemma">samtykke</orth>
 <em><span class="dic_color"><span class="dic_comment">-t</em>
 согласие, одобрение, разрешение
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ha) ens samtykke til noe — получить (иметь) чьё-л. согласие на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi sitt samtykke til noe — давать свое согласие на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">hente ens samtykke — получить чьё-л. согласие
-<div style="margin-left:5px"><strong><p><span class="dic_example">nekte sitt samtykke til noe — не дать согласия на что-л.
+<сit type="example"><text>få (ha) ens samtykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить (иметь) чьё-л. согласие на что-л.</text></cit></cit>
+<сit type="example"><text>gi sitt samtykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать свое согласие на что-л.</text></cit></cit>
+<сit type="example"><text>hente ens samtykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить чьё-л. согласие</text></cit></cit>
+<сit type="example"><text>nekte sitt samtykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не дать согласия на что-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <orth type="lemma">samtykke</orth>
 <em><span class="dic_color"><span class="dic_comment">-te (-ket), -t (-ket)</em>
 соглашаться, давать согласие (на что-л. - i), разрешать
-<div style="margin-left:5px"><strong><p><span class="dic_example">den som tier, samtykker — <lbl>посл.</lbl> молчание - знак согласия
+<сit type="example"><text>den som tier, samtykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> молчание - знак согласия</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

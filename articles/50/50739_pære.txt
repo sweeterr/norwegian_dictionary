@@ -11,9 +11,9 @@
 </sense>
 <sense>
 электрическая лампочка
-<div style="margin-left:5px"><strong><p><span class="dic_example">pæra er brent ut — лампочка перегорела
-<div style="margin-left:5px"><strong><p><span class="dic_example">være bløt på pæren — <lbl>разг.</lbl> быть слабоумным
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er bløt på pæren — у него не все дома
+<сit type="example"><text>pæra er brent ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лампочка перегорела</text></cit></cit>
+<сit type="example"><text>være bløt på pæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть слабоумным</text></cit></cit>
+<сit type="example"><text>han er bløt på pæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него не все дома</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <orth type="lemma">pære</orth>
 <u>adv</u>
 <u>разг.</u> совсем, совершенно
-<div style="margin-left:5px"><strong><p><span class="dic_example">pære full — мертвецки пьяный
+<сit type="example"><text>pære full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мертвецки пьяный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

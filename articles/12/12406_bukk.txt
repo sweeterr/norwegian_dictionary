@@ -20,12 +20,12 @@
 </sense>
 <sense>
 козлы, облучок (для кучера)
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte på bukken — сидеть на козлах
+<сit type="example"><text>sitte på bukken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на козлах</text></cit></cit>
 </sense>
 <sense>
 <u>спорт.</u> козёл
-<div style="margin-left:5px"><strong><p><span class="dic_example">hoppe bukk — играть в чехарду
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå bukk — водить при игре в чехарду
+<сit type="example"><text>hoppe bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в чехарду</text></cit></cit>
+<сit type="example"><text>stå bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>водить при игре в чехарду</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +34,7 @@
 <orth type="lemma">bukk</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 <u>разг.</u> ошибка, промах
-<div style="margin-left:5px"><strong><p><span class="dic_example">begå (gjøre) en bukk — дать маху
+<сit type="example"><text>begå (gjøre) en bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать маху</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -43,7 +43,7 @@
 <orth type="lemma">bukk</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 поклон
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre et dypt bukk — низко поклониться
+<сit type="example"><text>gjøre et dypt bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низко поклониться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

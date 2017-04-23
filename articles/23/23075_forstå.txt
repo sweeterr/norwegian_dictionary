@@ -8,11 +8,11 @@
 </form>
 <sense>
 понимать
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg forstår — понимаю
-<div style="margin-left:5px"><strong><p><span class="dic_example">det forstår seg selv — это ясно само по себе
-<div style="margin-left:5px"><strong><p><span class="dic_example">det forstår seg — само собой разумеется
-<div style="margin-left:5px"><strong><p><span class="dic_example">la forstå — дать понять
-<div style="margin-left:5px"><strong><p><span class="dic_example">forstå seg på noe — разбираться в чём-л., понимать в чём-л.
+<сit type="example"><text>jeg forstår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимаю</text></cit></cit>
+<сit type="example"><text>det forstår seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ясно само по себе</text></cit></cit>
+<сit type="example"><text>det forstår seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>само собой разумеется</text></cit></cit>
+<сit type="example"><text>la forstå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать понять</text></cit></cit>
+<сit type="example"><text>forstå seg på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбираться в чём-л., понимать в чём-л.</text></cit></cit>
 </sense>
 <sense>
 уметь делать что-л.

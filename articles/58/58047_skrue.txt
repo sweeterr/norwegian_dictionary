@@ -8,15 +8,15 @@
 </form>
 <sense>
 винт, шуруп, болт
-<div style="margin-left:5px"><strong><p><span class="dic_example">dobbeltgjenget skrue — винт с двухходовой нарезкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">endeløs skrue — бесконечный винт, шнек
-<div style="margin-left:5px"><strong><p><span class="dic_example">flergjenget skrue — многониточный (многооборотный) винт
-<div style="margin-left:5px"><strong><p><span class="dic_example">forsenket skrue — утопленный винт
-<div style="margin-left:5px"><strong><p><span class="dic_example">høyregjenget skrue — винт с правой нарезкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">rundgjenget skrue — винт с круглой нарезкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">rundhodet skrue — винт с круглой головкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">skarpgjenget skrue — винт с треугольной нарезкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">venstregjenget skrue — винт с левой нарезкой
+<сit type="example"><text>dobbeltgjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с двухходовой нарезкой</text></cit></cit>
+<сit type="example"><text>endeløs skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесконечный винт, шнек</text></cit></cit>
+<сit type="example"><text>flergjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многониточный (многооборотный) винт</text></cit></cit>
+<сit type="example"><text>forsenket skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утопленный винт</text></cit></cit>
+<сit type="example"><text>høyregjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с правой нарезкой</text></cit></cit>
+<сit type="example"><text>rundgjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с круглой нарезкой</text></cit></cit>
+<сit type="example"><text>rundhodet skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с круглой головкой</text></cit></cit>
+<сit type="example"><text>skarpgjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с треугольной нарезкой</text></cit></cit>
+<сit type="example"><text>venstregjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с левой нарезкой</text></cit></cit>
 </sense>
 <sense>
 регулировочный (установочный) винт
@@ -32,8 +32,8 @@
 </sense>
 <sense>
 <u>мор.</u> гребной винт, <u>ав.</u> пропеллер
-<div style="margin-left:5px"><strong><p><span class="dic_example">han har en skrue løs — <lbl>погов.</lbl> у него не хватает винтика в голове
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette sine ord på skruer — выражаться витиевато (двусмысленно)
+<сit type="example"><text>han har en skrue løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> у него не хватает винтика в голове</text></cit></cit>
+<сit type="example"><text>sette sine ord på skruer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выражаться витиевато (двусмысленно)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -57,8 +57,8 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">skrue av :
 <сit type = "example"><text>skrue av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отвинчивать</text></cit></cit>
 <сit type = "example"><text>skrue av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выключать (радио)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrue fast — крепко привинтить
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrue inn — ввинчивать, завинчивать
+<сit type="example"><text>skrue fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко привинтить</text></cit></cit>
+<сit type="example"><text>skrue inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ввинчивать, завинчивать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">skrue ned :
 <сit type = "example"><text>skrue ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> привернуть фитиль (лампы)</text></cit></cit>
 <сit type = "example"><text>skrue ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сбивать (цены)</text></cit></cit>
@@ -66,9 +66,9 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">skrue opp :
 <сit type = "example"><text>skrue opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отвинчивать, вывёртывать (фитиль)</text></cit></cit>
 <сit type = "example"><text>skrue opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> включать (радио)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrue på — привинчивать
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrue sammen — свинчивать, соединять винтами (болтами)
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrue ut — вывинчивать, отвинчивать, развинчивать
+<сit type="example"><text>skrue på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привинчивать</text></cit></cit>
+<сit type="example"><text>skrue sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свинчивать, соединять винтами (болтами)</text></cit></cit>
+<сit type="example"><text>skrue ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вывинчивать, отвинчивать, развинчивать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

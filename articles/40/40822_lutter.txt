@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">lutter</orth>
 <u>adj</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">han var lutter øre — он был весь слух и внимание
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er lutter løgn — это явная (чистейшая) ложь
+<сit type="example"><text>han var lutter øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он был весь слух и внимание</text></cit></cit>
+<сit type="example"><text>det er lutter løgn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это явная (чистейшая) ложь</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

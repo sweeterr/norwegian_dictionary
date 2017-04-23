@@ -6,8 +6,8 @@
 <orth type="lemma">imot</orth>
 <u>adv</u>
 напротив, навстречу, против
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha noe imot — иметь что-л. против
-<div style="margin-left:5px"><strong><p><span class="dic_example">si imot — не соглашаться на что-л., возражать, противоречить
+<сit type="example"><text>ha noe imot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь что-л. против</text></cit></cit>
+<сit type="example"><text>si imot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не соглашаться на что-л., возражать, противоречить</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,17 +19,17 @@
 </form>
 <sense>
 действие, направленное в противоположную сторону к, против
-<div style="margin-left:5px"><strong><p><span class="dic_example">tvert imot — прямо напротив
-<div style="margin-left:5px"><strong><p><span class="dic_example">han seilte imot nord — он держал курс к северу
+<сit type="example"><text>tvert imot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо напротив</text></cit></cit>
+<сit type="example"><text>han seilte imot nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он держал курс к северу</text></cit></cit>
 </sense>
 <sense>
 приближение к определённой точке во времени к, около
-<div style="margin-left:5px"><strong><p><span class="dic_example">hen imot aften — к вечеру
-<div style="margin-left:5px"><strong><p><span class="dic_example">klokka går imot seks — время приближается к шести часам
+<сit type="example"><text>hen imot aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к вечеру</text></cit></cit>
+<сit type="example"><text>klokka går imot seks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время приближается к шести часам</text></cit></cit>
 </sense>
 <sense>
 отношение к кому-л. или чему-л. по отношению к, к
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha forpliktelser imot sine barn — иметь обязательства по отношению к своим детям
+<сit type="example"><text>ha forpliktelser imot sine barn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь обязательства по отношению к своим детям</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

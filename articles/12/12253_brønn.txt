@@ -8,16 +8,16 @@
 </form>
 <sense>
 колодец
-<div style="margin-left:5px"><strong><p><span class="dic_example">artesisk brønn — артезианский колодец
-<div style="margin-left:5px"><strong><p><span class="dic_example">grave brønn — рыть колодец
-<div style="margin-left:5px"><strong><p><span class="dic_example">når brønnen er tom, vet en hva vannet er verdt — <lbl>посл.</lbl> цену вещи узнаешь, как потеряешь
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er for sent å lukke brønnen når barnet er druknet — <lbl>посл.</lbl> парнишка ввалился, так и колодец накрыли
+<сit type="example"><text>artesisk brønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>артезианский колодец</text></cit></cit>
+<сit type="example"><text>grave brønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рыть колодец</text></cit></cit>
+<сit type="example"><text>når brønnen er tom, vet en hva vannet er verdt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> цену вещи узнаешь, как потеряешь</text></cit></cit>
+<сit type="example"><text>det er for sent å lukke brønnen når barnet er druknet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> парнишка ввалился, так и колодец накрыли</text></cit></cit>
 </sense>
 <sense>
 минеральный источник
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> kunnskaps brønn — кладезь знаний (премудростей)
+<сit type="example"><text> kunnskaps brønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кладезь знаний (премудростей)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

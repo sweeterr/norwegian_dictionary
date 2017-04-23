@@ -4,11 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">sådan</orth>
-
 <u><em><span class="dic_color"><span class="dic_comment">pron</u> (n sådant; <u>pl</u> sådanne)</em>
 такой, такая (такое, такие); подобный, подобная (подобное, подобные)
-<div style="margin-left:5px"><strong><p><span class="dic_example">som sådan — как таковой, как таковая, как таковое
-<div style="margin-left:5px"><strong><p><span class="dic_example">en sådan mann — такой (подобный) человек
+<сit type="example"><text>som sådan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как таковой, как таковая, как таковое</text></cit></cit>
+<сit type="example"><text>en sådan mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>такой (подобный) человек</text></cit></cit>
 см. тж. sånn <strong>I
 </sense>
 </entry>

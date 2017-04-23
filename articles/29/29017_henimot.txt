@@ -6,7 +6,7 @@
 <orth type="lemma">henimot</orth>
 <u>adv</u>
 около, почти
-<div style="margin-left:5px"><strong><p><span class="dic_example">henimot 100 kroner — около ста крон
+<сit type="example"><text>henimot 100 kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около ста крон</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">henimot</orth>
 <u>prep</u>
 указывает на движение от говорящего к какому-л. предмету к, в направлении к
-<div style="margin-left:5px"><strong><p><span class="dic_example">vi gikk henimot sjøen — мы шли по направлению к морю
+<сit type="example"><text>vi gikk henimot sjøen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы шли по направлению к морю</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,10 +6,10 @@
 <orth type="lemma">rotte</orth>
 <em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
 крыса
-<div style="margin-left:5px"><strong><p><span class="dic_example">rottene forlater det synkende skip — <lbl>погов.</lbl> бегут как крысы с тонущего корабля
-<div style="margin-left:5px"><strong><p><span class="dic_example">luftens rotter — вороны
-<div style="margin-left:5px"><strong><p><span class="dic_example">en fattig rotte — <lbl>перен.</lbl> бедняк
-<div style="margin-left:5px"><strong><p><span class="dic_example">en gammel rotte — <lbl>презр.</lbl> жулик, плут
+<сit type="example"><text>rottene forlater det synkende skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> бегут как крысы с тонущего корабля</text></cit></cit>
+<сit type="example"><text>luftens rotter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вороны</text></cit></cit>
+<сit type="example"><text>en fattig rotte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> бедняк</text></cit></cit>
+<сit type="example"><text>en gammel rotte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>презр.</lbl> жулик, плут</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">rotte</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">rotte seg sammen — сговариваться, быть в заговоре
+<сit type="example"><text>rotte seg sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сговариваться, быть в заговоре</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

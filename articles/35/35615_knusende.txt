@@ -6,7 +6,7 @@
 <orth type="lemma">knusende</orth>
 <u>adj</u>
 исключительный, ошеломляющий
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er knusende! — <lbl>разг.</lbl> вот это здорово!, потрясающе!
+<сit type="example"><text>det er knusende!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> вот это здорово!, потрясающе!</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -14,9 +14,9 @@
 <form>
 <orth type="lemma">knusende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">knusende likegyldig — совершенно безразличный
-<div style="margin-left:5px"><strong><p><span class="dic_example">knusende rolig — совершенно спокойный
-<div style="margin-left:5px"><strong><p><span class="dic_example">knusende sikker — абсолютно уверенный
+<сit type="example"><text>knusende likegyldig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно безразличный</text></cit></cit>
+<сit type="example"><text>knusende rolig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно спокойный</text></cit></cit>
+<сit type="example"><text>knusende sikker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>абсолютно уверенный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

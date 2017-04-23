@@ -8,17 +8,17 @@
 </form>
 <sense>
 ширина
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre i bredden — трое рядом, по трое в ряд
-<div style="margin-left:5px"><strong><p><span class="dic_example">av dobbelt bredde — двойной ширины
+<сit type="example"><text>tre i bredden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трое рядом, по трое в ряд</text></cit></cit>
+<сit type="example"><text>av dobbelt bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двойной ширины</text></cit></cit>
 </sense>
 <sense>
 пространность (изложения)
-<div style="margin-left:5px"><strong><p><span class="dic_example">unødig bredde i fremstillingen — излишние подробности в изложении
+<сit type="example"><text>unødig bredde i fremstillingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>излишние подробности в изложении</text></cit></cit>
 </sense>
 <sense>
 <u>геогр.</u> широта
-<div style="margin-left:5px"><strong><p><span class="dic_example">nord (syd) bredde — северная (южная) широта
-<div style="margin-left:5px"><strong><p><span class="dic_example">befinne seg på høy (lav) bredde — находиться в верхних (нижних) широтах
+<сit type="example"><text>nord (syd) bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>северная (южная) широта</text></cit></cit>
+<сit type="example"><text>befinne seg på høy (lav) bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в верхних (нижних) широтах</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

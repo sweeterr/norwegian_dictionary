@@ -8,14 +8,14 @@
 </form>
 <sense>
 медицина
-<div style="margin-left:5px"><strong><p><span class="dic_example">indre medisin — терапия
-<div style="margin-left:5px"><strong><p><span class="dic_example">studere medisin — быть студентом-медиком
+<сit type="example"><text>indre medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терапия</text></cit></cit>
+<сit type="example"><text>studere medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть студентом-медиком</text></cit></cit>
 </sense>
 <sense>
 лекарство
-<div style="margin-left:5px"><strong><p><span class="dic_example">medisin til innvortes bruk — лекарство для приёма внутрь
-<div style="margin-left:5px"><strong><p><span class="dic_example">medisin til utvortes bruk — наружное лекарство
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta (inn) medisin — принимать лекарство
+<сit type="example"><text>medisin til innvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лекарство для приёма внутрь</text></cit></cit>
+<сit type="example"><text>medisin til utvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наружное лекарство</text></cit></cit>
+<сit type="example"><text>ta (inn) medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать лекарство</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

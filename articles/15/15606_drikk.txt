@@ -8,12 +8,12 @@
 </form>
 <sense>
 напиток
-<div style="margin-left:5px"><strong><p><span class="dic_example">berusende (sterke, spirituøse) drikker — спиртные напитки
+<сit type="example"><text>berusende (sterke, spirituøse) drikker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спиртные напитки</text></cit></cit>
 </sense>
 <sense>
 питьё
-<div style="margin-left:5px"><strong><p><span class="dic_example">mat og drikke — еда и питьё
-<div style="margin-left:5px"><strong><p><span class="dic_example">takk for mat og drikke — благодарю за угощение
+<сit type="example"><text>mat og drikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>еда и питьё</text></cit></cit>
+<сit type="example"><text>takk for mat og drikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>благодарю за угощение</text></cit></cit>
 </sense>
 <sense>
 порция вина (водки)
@@ -23,8 +23,8 @@
 </sense>
 <sense>
 пьянство
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå seg på drikk(en) — запить, начать пьянствовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">være forfallen til drikk — пьянствовать, пить горькую
+<сit type="example"><text>slå seg på drikk(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запить, начать пьянствовать</text></cit></cit>
+<сit type="example"><text>være forfallen til drikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пьянствовать, пить горькую</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

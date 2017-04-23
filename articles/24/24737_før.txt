@@ -21,13 +21,13 @@
 </form>
 <sense>
 прежде, раньше
-<div style="margin-left:5px"><strong><p><span class="dic_example">før eller senere — раньше или позже
-<div style="margin-left:5px"><strong><p><span class="dic_example">før i tida — прежде
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo før jo heller — чем раньше, тем лучше
+<сit type="example"><text>før eller senere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раньше или позже</text></cit></cit>
+<сit type="example"><text>før i tida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прежде</text></cit></cit>
+<сit type="example"><text>jo før jo heller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чем раньше, тем лучше</text></cit></cit>
 </sense>
 <sense>
 прежде чем
-<div style="margin-left:5px"><strong><p><span class="dic_example">knapt ... før, neppe ... før — едва, не успел(а) ... как ...
+<сit type="example"><text>knapt ... før, neppe ... før</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>едва, не успел(а) ... как ...</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -36,7 +36,7 @@
 <orth type="lemma">før</orth>
 <u>prep</u>
 во временном значении указывает на совершение одного действия до другого до, перед
-<div style="margin-left:5px"><strong><p><span class="dic_example">før tiden — раньше своего (положенного) времени
+<сit type="example"><text>før tiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раньше своего (положенного) времени</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

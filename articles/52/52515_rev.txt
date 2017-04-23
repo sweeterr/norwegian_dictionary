@@ -8,8 +8,8 @@
 </form>
 <sense>
 <u>зоол.</u> лисица
-<div style="margin-left:5px"><strong><p><span class="dic_example">listig som en rev — хитёр как лиса
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha en rev bak øret — быть себе на уме, лукавить, хитрить
+<сit type="example"><text>listig som en rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитёр как лиса</text></cit></cit>
+<сit type="example"><text>ha en rev bak øret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть себе на уме, лукавить, хитрить</text></cit></cit>
 </sense>
 <sense>
 песец
@@ -19,7 +19,7 @@
 </sense>
 <sense>
 <u>разг.</u> хитрец, плут, «лиса»
-<div style="margin-left:5px"><strong><p><span class="dic_example">en gammel rev — завзятый хитрец, старый плут
+<сit type="example"><text>en gammel rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завзятый хитрец, старый плут</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -50,7 +50,7 @@
 <orth type="lemma">rev</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 <u>мор.</u> риф (на парусе)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta (inn) et rev — (за)рифить парус, взять риф
+<сit type="example"><text>ta (inn) et rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(за)рифить парус, взять риф</text></cit></cit>
 </sense>
 </entry>
 <entry>

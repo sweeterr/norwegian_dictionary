@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">troppe</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">troppe av — <lbl>воен.</lbl> разойтись, рассеяться
-<div style="margin-left:5px"><strong><p><span class="dic_example">troppe inn — вторгнуться, войти
+<сit type="example"><text>troppe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> разойтись, рассеяться</text></cit></cit>
+<сit type="example"><text>troppe inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вторгнуться, войти</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">troppe opp :
 <сit type = "example"><text>troppe opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> собираться</text></cit></cit>
 <сit type = "example"><text>troppe opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> появиться, показаться, предстать</text></cit></cit>

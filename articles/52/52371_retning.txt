@@ -8,15 +8,15 @@
 </form>
 <sense>
 направление
-<div style="margin-left:5px"><strong><p><span class="dic_example">i alle retninger — во все стороны, во всех направлениях
-<div style="margin-left:5px"><strong><p><span class="dic_example">i motsatt retning — в обратном направлении
-<div style="margin-left:5px"><strong><p><span class="dic_example">i pilens retning — в направлении, указанном стрелкой
-<div style="margin-left:5px"><strong><p><span class="dic_example">i retning mot — в направлении чего-л.
+<сit type="example"><text>i alle retninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во все стороны, во всех направлениях</text></cit></cit>
+<сit type="example"><text>i motsatt retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в обратном направлении</text></cit></cit>
+<сit type="example"><text>i pilens retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в направлении, указанном стрелкой</text></cit></cit>
+<сit type="example"><text>i retning mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в направлении чего-л.</text></cit></cit>
 </sense>
 <sense>
 курс
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå inn på en retning — взять курс на (какое-л. направление)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta feil av retningen — взять неправильный курс
+<сit type="example"><text>slå inn på en retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять курс на (какое-л. направление)</text></cit></cit>
+<сit type="example"><text>ta feil av retningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять неправильный курс</text></cit></cit>
 </sense>
 <sense>
 <u>перен.</u> направление, уклон, течение (в литературе, науке, искусстве)
@@ -26,14 +26,14 @@
 </sense>
 <sense>
 <u>воен.</u> равнение
-<div style="margin-left:5px"><strong><p><span class="dic_example">retning høyre! — равнение направо! (команда)
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde retningen — держать равнение (на кого-л. - med noen)
+<сit type="example"><text>retning høyre!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>равнение направо! (команда)</text></cit></cit>
+<сit type="example"><text>holde retningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать равнение (на кого-л. - med noen)</text></cit></cit>
 </sense>
 <sense>
 <u>воен.</u> наводка
-<div style="margin-left:5px"><strong><p><span class="dic_example">i retning av — в отношении (чего-л.), что касается ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">noe i den retning — нечто подобное
-<div style="margin-left:5px"><strong><p><span class="dic_example">noe i retning av — нечто похожее (на что-л.)
+<сit type="example"><text>i retning av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в отношении (чего-л.), что касается ...</text></cit></cit>
+<сit type="example"><text>noe i den retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто подобное</text></cit></cit>
+<сit type="example"><text>noe i retning av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто похожее (на что-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

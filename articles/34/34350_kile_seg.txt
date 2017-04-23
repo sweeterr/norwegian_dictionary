@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">kile seg</orth>
 <em><span class="dic_color"><span class="dic_comment">-te, -t</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kile seg fast — <lbl>тех.</lbl> заклиниться, застрять
-<div style="margin-left:5px"><strong><p><span class="dic_example">kile seg inn — вклиниваться (между кем-л. - mellom)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kile seg ut — <lbl>горн.</lbl> сойти на нет (о жиле, пласте)
+<сit type="example"><text>kile seg fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>тех.</lbl> заклиниться, застрять</text></cit></cit>
+<сit type="example"><text>kile seg inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вклиниваться (между кем-л. - mellom)</text></cit></cit>
+<сit type="example"><text>kile seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>горн.</lbl> сойти на нет (о жиле, пласте)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

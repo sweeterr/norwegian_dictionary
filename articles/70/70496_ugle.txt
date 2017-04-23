@@ -8,15 +8,15 @@
 </form>
 <sense>
 сова
-<div style="margin-left:5px"><strong><p><span class="dic_example">kortøret ugle — болотная сова
+<сit type="example"><text>kortøret ugle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>болотная сова</text></cit></cit>
 </sense>
 <sense>
 сыч
-<div style="margin-left:5px"><strong><p><span class="dic_example">bære (føre) ugler til Aten — <lbl>посл.</lbl> в лес дров не возят, в колодец воды не льют
+<сit type="example"><text>bære (føre) ugler til Aten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в лес дров не возят, в колодец воды не льют</text></cit></cit>
 </sense>
 <sense>
 совка, или ночница (бабочка)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ugler i mosen — тут дело нечисто, тут что-то не так
+<сit type="example"><text>det er ugler i mosen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут дело нечисто, тут что-то не так</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,10 +24,10 @@
 <form>
 <orth type="lemma">ugle</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ugle til — накрашивать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ugle ut — намазывать
+<сit type="example"><text>ugle til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрашивать</text></cit></cit>
+<сit type="example"><text>ugle ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намазывать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">ugle seg :
-<div style="margin-left:5px"><strong><p><span class="dic_example">ugle seg til — накрашиваться, намазываться
+<сit type="example"><text>ugle seg til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрашиваться, намазываться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

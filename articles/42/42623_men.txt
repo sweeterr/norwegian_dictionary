@@ -6,11 +6,11 @@
 <orth type="lemma">men</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 вред; убыток, ущерб
-<div style="margin-left:5px"><strong><p><span class="dic_example">til mens — во вред, в ущерб
+<сit type="example"><text>til mens</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во вред, в ущерб</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">uten men :
 <сit type = "example"><text>uten men :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> без вреда</text></cit></cit>
 <сit type = "example"><text>uten men :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> без сучка, без задоринки</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lide men ved noe — потерпеть убыток в чём-л.
+<сit type="example"><text>lide men ved noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерпеть убыток в чём-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,12 +19,12 @@
 <orth type="lemma">men</orth>
 <u>konj</u>
 но, а, однако, же
-<div style="margin-left:5px"><strong><p><span class="dic_example">men allikevel — но всё же
-<div style="margin-left:5px"><strong><p><span class="dic_example">men dog — но, ведь
-<div style="margin-left:5px"><strong><p><span class="dic_example">vel, ... men — да ..., но
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er dog et «men» ved det — тут есть одно «но»
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke noe — «men» пожалуйста, без всяких «но»
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke bare ... men også ... — не только ..., но (также) и ...
+<сit type="example"><text>men allikevel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>но всё же</text></cit></cit>
+<сit type="example"><text>men dog</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>но, ведь</text></cit></cit>
+<сit type="example"><text>vel, ... men</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да ..., но</text></cit></cit>
+<сit type="example"><text>det er dog et «men» ved det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут есть одно «но»</text></cit></cit>
+<сit type="example"><text>ikke noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«men» пожалуйста, без всяких «но»</text></cit></cit>
+<сit type="example"><text>ikke bare ... men også ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не только ..., но (также) и ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

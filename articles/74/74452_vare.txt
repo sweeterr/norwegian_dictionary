@@ -8,12 +8,12 @@
 </form>
 <sense>
 товар, <u>pl</u> товары
-<div style="margin-left:5px"><strong><p><span class="dic_example">flytende varer — жидкий товар
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjøpte varer — купленный товар
-<div style="margin-left:5px"><strong><p><span class="dic_example">skadde varer — товар с браком
-<div style="margin-left:5px"><strong><p><span class="dic_example">sterke varer — спиртные напитки
-<div style="margin-left:5px"><strong><p><span class="dic_example">tipptopp varer — отборный (первоклассный) товар
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta noe for god vare — принять что-л. за чистую монету
+<сit type="example"><text>flytende varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий товар</text></cit></cit>
+<сit type="example"><text>kjøpte varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>купленный товар</text></cit></cit>
+<сit type="example"><text>skadde varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>товар с браком</text></cit></cit>
+<сit type="example"><text>sterke varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спиртные напитки</text></cit></cit>
+<сit type="example"><text>tipptopp varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отборный (первоклассный) товар</text></cit></cit>
+<сit type="example"><text>ta noe for god vare</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять что-л. за чистую монету</text></cit></cit>
 </sense>
 <sense>
 дело, поступок
@@ -39,7 +39,7 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">ta i vare :
 <сit type = "example"><text>ta i vare :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> смотреть, следить за чем-л.</text></cit></cit>
 <сit type = "example"><text>ta i vare :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взять под защиту (охрану)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta seg i vare — остерегаться, быть осторожным
+<сit type="example"><text>ta seg i vare</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остерегаться, быть осторожным</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -48,7 +48,7 @@
 <orth type="lemma">vare</orth>
 <em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 предупреждать, предостерегать, обращать внимание (кого-л. на что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vare seg — быть осторожным, остерегаться
+<сit type="example"><text>vare seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть осторожным, остерегаться</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -59,11 +59,11 @@
 </form>
 <sense>
 длиться, тянуться, продолжаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">vare ved — продолжаться, тянуться непрерывно
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli varende — <lbl>уст.</lbl> длиться, тянуться
-<div style="margin-left:5px"><strong><p><span class="dic_example">det varer — (это) продолжается, длится
-<div style="margin-left:5px"><strong><p><span class="dic_example">det varer kort (lenge) med noe — требуется мало (много) времени для чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">det varte og det rakk — а время шло и шло
+<сit type="example"><text>vare ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продолжаться, тянуться непрерывно</text></cit></cit>
+<сit type="example"><text>bli varende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> длиться, тянуться</text></cit></cit>
+<сit type="example"><text>det varer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(это) продолжается, длится</text></cit></cit>
+<сit type="example"><text>det varer kort (lenge) med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>требуется мало (много) времени для чего-л.</text></cit></cit>
+<сit type="example"><text>det varte og det rakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а время шло и шло</text></cit></cit>
 </sense>
 <sense>
 служить, носиться (о предмете одежды)

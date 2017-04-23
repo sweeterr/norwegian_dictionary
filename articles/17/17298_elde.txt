@@ -6,8 +6,8 @@
 <orth type="lemma">elde</orth>
 <em><span class="dic_color"><span class="dic_comment">-n</em>
 старость, пожилой возраст
-<div style="margin-left:5px"><strong><p><span class="dic_example">høy elde — преклонный возраст, глубокая старость
-<div style="margin-left:5px"><strong><p><span class="dic_example">dø av elde — умереть от старости
+<сit type="example"><text>høy elde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>преклонный возраст, глубокая старость</text></cit></cit>
+<сit type="example"><text>dø av elde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>умереть от старости</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,6 @@
 </language>
 <quote>(со)старить</quote>
 </cit>
-
 </sense>
 </entry>
 <entry>

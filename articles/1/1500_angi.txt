@@ -11,8 +11,8 @@
 </sense>
 <sense>
 указывать, называть, давать сведения
-<div style="margin-left:5px"><strong><p><span class="dic_example">angi som grunn — называть в качестве причины
-<div style="margin-left:5px"><strong><p><span class="dic_example">angi kilder — указывать источники (библиографические)
+<сit type="example"><text>angi som grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>называть в качестве причины</text></cit></cit>
+<сit type="example"><text>angi kilder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>указывать источники (библиографические)</text></cit></cit>
 </sense>
 <sense>
 angi tonen <u>муз.</u> задавать тон <em><span class="dic_color"><span class="dic_comment">(тж. <u>перен.</u> )</em>
@@ -22,7 +22,7 @@ angi tonen <u>муз.</u> задавать тон <em><span class="dic_color"><s
 </sense>
 <sense>
 предъявлять к оплате (к досмотру)
-<div style="margin-left:5px"><strong><p><span class="dic_example">angi til (for) fortolling — предъявлять к таможенному досмотру
+<сit type="example"><text>angi til (for) fortolling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять к таможенному досмотру</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

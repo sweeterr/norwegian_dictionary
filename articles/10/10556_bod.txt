@@ -21,9 +21,9 @@
 <form>
 <orth type="lemma">bod</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på boden — в тюрьме для уголовных преступников, в исправительном доме (по названию тюрьмы в Осло - Bodsfengslet, в настоящее время Botsfengslet)
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme på bod — попасть в тюрьму
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte på bod — сидеть в тюрьме (исправительном доме)
+<сit type="example"><text>på boden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тюрьме для уголовных преступников, в исправительном доме (по названию тюрьмы в Осло - Bodsfengslet, в настоящее время Botsfengslet)</text></cit></cit>
+<сit type="example"><text>komme på bod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в тюрьму</text></cit></cit>
+<сit type="example"><text>sitte på bod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в тюрьме (исправительном доме)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

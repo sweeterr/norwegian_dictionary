@@ -8,7 +8,7 @@
 </form>
 <sense>
 ясный, очевидный
-<div style="margin-left:5px"><strong><p><span class="dic_example">være grei på noe — знать что-л. определённо, ясно представлять себе
+<сit type="example"><text>være grei på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать что-л. определённо, ясно представлять себе</text></cit></cit>
 </sense>
 <sense>
 открытый, правильный (о чертах лица)
@@ -18,9 +18,9 @@
 </sense>
 <sense>
 лёгкий, простой
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke grei — сложный, трудный
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke greit (å gjøre noe) — трудно сделать что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">er det greitt? — всё в порядке?
+<сit type="example"><text>ikke grei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложный, трудный</text></cit></cit>
+<сit type="example"><text>det er ikke greit (å gjøre noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудно сделать что-л.</text></cit></cit>
+<сit type="example"><text>er det greitt?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё в порядке?</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

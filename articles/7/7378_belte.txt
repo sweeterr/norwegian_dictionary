@@ -8,13 +8,13 @@
 </form>
 <sense>
 пояс, кушак, ремень
-<div style="margin-left:5px"><strong><p><span class="dic_example">med sverd ved beltet — <lbl>шутл.</lbl> с ножом за поясом
-<div style="margin-left:5px"><strong><p><span class="dic_example">bære barn under belte — <lbl>разг.</lbl> быть беременной
+<сit type="example"><text>med sverd ved beltet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> с ножом за поясом</text></cit></cit>
+<сit type="example"><text>bære barn under belte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть беременной</text></cit></cit>
 </sense>
 <sense>
 <u>геогр.</u> полоса, пояс, зона
-<div style="margin-left:5px"><strong><p><span class="dic_example">et belte av is — полоса льдов
-<div style="margin-left:5px"><strong><p><span class="dic_example">et dødt og stille belte — мёртвое пространство
+<сit type="example"><text>et belte av is</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полоса льдов</text></cit></cit>
+<сit type="example"><text>et dødt og stille belte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мёртвое пространство</text></cit></cit>
 </sense>
 <sense>
 <u>мат.</u> сферический сегмент

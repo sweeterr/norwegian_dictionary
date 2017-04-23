@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">stampe</orth>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette i stampe — приводить к застою
+<сit type="example"><text>sette i stampe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить к застою</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">stå i stampe :
 <сit type = "example"><text>stå i stampe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> находиться в застое</text></cit></cit>
 <сit type = "example"><text>stå i stampe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застыть в одном положении</text></cit></cit>
@@ -43,7 +43,7 @@
 </sense>
 <sense>
 <u>мор.</u> зарываться носом
-<div style="margin-left:5px"><strong><p><span class="dic_example">stampe fram — идти топая ногами
+<сit type="example"><text>stampe fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти топая ногами</text></cit></cit>
 </sense>
 </entry>
 <entry>

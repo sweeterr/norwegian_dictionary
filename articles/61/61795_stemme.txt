@@ -8,15 +8,15 @@
 </form>
 <sense>
 голос
-<div style="margin-left:5px"><strong><p><span class="dic_example">første (annen) stemme — <lbl>муз.</lbl> первый (второй) голос
-<div style="margin-left:5px"><strong><p><span class="dic_example">stemmen brast — голос сорвался
-<div style="margin-left:5px"><strong><p><span class="dic_example">synge med halv stemme — петь вполголоса
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale med bristende stemme — говорить срывающимся (ломающимся) голосом
+<сit type="example"><text>første (annen) stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>муз.</lbl> первый (второй) голос</text></cit></cit>
+<сit type="example"><text>stemmen brast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голос сорвался</text></cit></cit>
+<сit type="example"><text>synge med halv stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь вполголоса</text></cit></cit>
+<сit type="example"><text>tale med bristende stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить срывающимся (ломающимся) голосом</text></cit></cit>
 </sense>
 <sense>
 избирательный голос
-<div style="margin-left:5px"><strong><p><span class="dic_example">avgi sin stemme — проголосовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">telle opp stemmene — подсчитывать голоса
+<сit type="example"><text>avgi sin stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проголосовать</text></cit></cit>
+<сit type="example"><text>telle opp stemmene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подсчитывать голоса</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 </form>
 <sense>
 настраивать (напр. музыкальные инструменты)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være stemt — быть настроенным (в чью-л. пользу - for, против кого, чего-л. - mot)
+<сit type="example"><text>være stemt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть настроенным (в чью-л. пользу - for, против кого, чего-л. - mot)</text></cit></cit>
 </sense>
 <sense>
 подбирать (цвета, краски; тж. stemme sammen)
@@ -40,7 +40,7 @@
 </sense>
 <sense>
 голосовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke stemme — воздерживаться от голосования
+<сit type="example"><text>ikke stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воздерживаться от голосования</text></cit></cit>
 </sense>
 <sense>
 высказываться в пользу чего-л.
@@ -67,7 +67,7 @@
 </sense>
 <sense>
 прекращать циркуляцию (воды, крови и т. д.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stemme blod — <lbl>разг.</lbl> останавливать кровь
+<сit type="example"><text>stemme blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> останавливать кровь</text></cit></cit>
 </sense>
 <sense>
 сжимать, прижимать, сдавливать

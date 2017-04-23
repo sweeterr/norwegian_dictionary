@@ -8,11 +8,11 @@
 </form>
 <sense>
 удар
-<div style="margin-left:5px"><strong><p><span class="dic_example">det siste støt — смертельный удар
-<div style="margin-left:5px"><strong><p><span class="dic_example">bibringe én et støt — наносить удар кому-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi et støt — ударить, толкнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå for støtet — выдержать удар
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta støtet av — парировать (отражать) удар
+<сit type="example"><text>det siste støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смертельный удар</text></cit></cit>
+<сit type="example"><text>bibringe én et støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наносить удар кому-л.</text></cit></cit>
+<сit type="example"><text>gi et støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить, толкнуть</text></cit></cit>
+<сit type="example"><text>stå for støtet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдержать удар</text></cit></cit>
+<сit type="example"><text>ta støtet av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>парировать (отражать) удар</text></cit></cit>
 </sense>
 <sense>
 толчок, рывок, импульс
@@ -22,7 +22,7 @@
 </sense>
 <sense>
 порыв (ветра)
-<div style="margin-left:5px"><strong><p><span class="dic_example">støt av musikk — звуки музыки (раздавшиеся неожиданно)
+<сit type="example"><text>støt av musikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звуки музыки (раздавшиеся неожиданно)</text></cit></cit>
 </sense>
 <sense>
 большой глоток
@@ -32,8 +32,8 @@
 </sense>
 <sense>
 <u>спорт.</u> толчок (в поднятии штанги)
-<div style="margin-left:5px"><strong><p><span class="dic_example">to arms støt — толчок двумя руками
-<div style="margin-left:5px"><strong><p><span class="dic_example">venstre arms støt — толчок левой рукой
+<сit type="example"><text>to arms støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толчок двумя руками</text></cit></cit>
+<сit type="example"><text>venstre arms støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толчок левой рукой</text></cit></cit>
 </sense>
 <sense>
 <u>фон.</u> затвор, смычка

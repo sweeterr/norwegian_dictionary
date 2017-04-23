@@ -8,8 +8,8 @@
 </form>
 <sense>
 чуб, чёлка, вихор, хохол
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra én i luggen — драть кого-л. за чуб (за хохол)
-<div style="margin-left:5px"><strong><p><span class="dic_example">fare (komme) i luggen på hverandre — вцепиться друг другу в волосы
+<сit type="example"><text>dra én i luggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>драть кого-л. за чуб (за хохол)</text></cit></cit>
+<сit type="example"><text>fare (komme) i luggen på hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вцепиться друг другу в волосы</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> пышная шевелюра
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">lugg</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi én et lugg — оттаскать за волосы
+<сit type="example"><text>gi én et lugg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оттаскать за волосы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

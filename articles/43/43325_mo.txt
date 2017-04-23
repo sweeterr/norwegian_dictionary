@@ -14,8 +14,8 @@
 </sense>
 <sense>
 <u>воен.</u> <u>разг.</u> полигон, учебное поле
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise på moen — направляться на учение
-<div style="margin-left:5px"><strong><p><span class="dic_example">være på moen — быть на учениях
+<сit type="example"><text>reise på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>направляться на учение</text></cit></cit>
+<сit type="example"><text>være på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на учениях</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,8 +24,8 @@
 <orth type="lemma">mo</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>собир.</u> метеосводки
-<div style="margin-left:5px"><strong><p><span class="dic_example">innenlandsk mo — метеосводка по стране
-<div style="margin-left:5px"><strong><p><span class="dic_example">utenlandsk mo — метеосводка по зарубежным странам
+<сit type="example"><text>innenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по стране</text></cit></cit>
+<сit type="example"><text>utenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по зарубежным странам</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -52,7 +52,7 @@
 </form>
 <sense>
 <u>диал.</u> слабый, обессилевший
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er mo i knærne — у него подгибаются коленки (от слабости)
+<сit type="example"><text>han er mo i knærne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него подгибаются коленки (от слабости)</text></cit></cit>
 </sense>
 <sense>
 <u>поэт.</u> <u>уст.</u> подавленный, угнетённый, грустный
@@ -63,7 +63,7 @@
 <form>
 <orth type="lemma">mo</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">mo alene — совершенно один
+<сit type="example"><text>mo alene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно один</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

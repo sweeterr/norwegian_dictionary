@@ -6,8 +6,8 @@
 <orth type="lemma">trikk</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 трамвай, трамвайный поезд, трамвайный вагон
-<div style="margin-left:5px"><strong><p><span class="dic_example">miste trikken — не попасть (не успеть) на трамвай
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta trikken — сесть на трамвай
+<сit type="example"><text>miste trikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не попасть (не успеть) на трамвай</text></cit></cit>
+<сit type="example"><text>ta trikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сесть на трамвай</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 </sense>
 <sense>
 ловкая проделка
-<div style="margin-left:5px"><strong><p><span class="dic_example">spille én trikk — сыграть шутку с кем-л.
+<сit type="example"><text>spille én trikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть шутку с кем-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

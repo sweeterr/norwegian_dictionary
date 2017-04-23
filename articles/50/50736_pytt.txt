@@ -14,9 +14,9 @@
 <orth type="lemma">pytt</orth>
 pytt! <u>int</u>
 тьфу!
-<div style="margin-left:5px"><strong><p><span class="dic_example">pytt med det! — чепуха!, наплевать!
-<div style="margin-left:5px"><strong><p><span class="dic_example">pytt sann — это ничего не значит (не меняет)
-<div style="margin-left:5px"><strong><p><span class="dic_example">si pytt til noe — наплевать на что-л.
+<сit type="example"><text>pytt med det!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чепуха!, наплевать!</text></cit></cit>
+<сit type="example"><text>pytt sann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ничего не значит (не меняет)</text></cit></cit>
+<сit type="example"><text>si pytt til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наплевать на что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

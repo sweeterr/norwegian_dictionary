@@ -6,10 +6,10 @@
 <orth type="lemma">dem</orth>
 <u>pron</u> <em><span class="dic_color"><span class="dic_comment">(объектн. п. от de |di:|)</em>
 им, их
-<div style="margin-left:5px"><strong><p><span class="dic_example">hos dem — у них
-<div style="margin-left:5px"><strong><p><span class="dic_example">med dem — с ними
-<div style="margin-left:5px"><strong><p><span class="dic_example">om dem — о них
-<div style="margin-left:5px"><strong><p><span class="dic_example">til dem — к ним
+<сit type="example"><text>hos dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у них</text></cit></cit>
+<сit type="example"><text>med dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с ними</text></cit></cit>
+<сit type="example"><text>om dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>о них</text></cit></cit>
+<сit type="example"><text>til dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к ним</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,10 +18,10 @@
 <orth type="lemma">dem</orth>
 Dem
 <u>pron</u> <em><span class="dic_color"><span class="dic_comment">(объектн. п. от De)</em> Вам, Вас (форма вежливости)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hos dem — у Вас
-<div style="margin-left:5px"><strong><p><span class="dic_example">med dem — с Вами
-<div style="margin-left:5px"><strong><p><span class="dic_example">om dem — о Вас
-<div style="margin-left:5px"><strong><p><span class="dic_example">til dem — к Вам
+<сit type="example"><text>hos dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у Вас</text></cit></cit>
+<сit type="example"><text>med dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с Вами</text></cit></cit>
+<сit type="example"><text>om dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>о Вас</text></cit></cit>
+<сit type="example"><text>til dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к Вам</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

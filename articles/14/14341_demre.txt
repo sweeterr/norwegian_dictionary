@@ -8,11 +8,11 @@
 </form>
 <sense>
 (рас)светать
-<div style="margin-left:5px"><strong><p><span class="dic_example">det demrer — светает
+<сit type="example"><text>det demrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светает</text></cit></cit>
 </sense>
 <sense>
 проясняться (о мыслях, представлениях), становиться яснее (явственнее)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det demret for henne — её осенило
+<сit type="example"><text>det demret for henne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её осенило</text></cit></cit>
 </sense>
 <sense>
 светиться, испускать слабый свет
@@ -25,10 +25,10 @@
 </sense>
 <sense>
 <u>уст.</u> смеркаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">demre fram — всплыть, появиться снова (о мыслях, представлениях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">demre hen — раствориться, исчезнуть (во мраке, в тумане)
+<сit type="example"><text>demre fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всплыть, появиться снова (о мыслях, представлениях)</text></cit></cit>
+<сit type="example"><text>demre hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раствориться, исчезнуть (во мраке, в тумане)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">demre opp :
-<div style="margin-left:5px"><strong><p><span class="dic_example">det demrer opp av seg selv — это ясно само собой
+<сit type="example"><text>det demrer opp av seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ясно само собой</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

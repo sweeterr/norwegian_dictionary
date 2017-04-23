@@ -8,8 +8,8 @@
 </form>
 <sense>
 мешок, мешочек, куль, кулёк, пакет (бумажный)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han har både i pose og sekk — у него всего вдоволь
-<div style="margin-left:5px"><strong><p><span class="dic_example">man kan ikke ha både i sekk og pose — <lbl>посл.</lbl> двумя зайцами погонишься, ни одного не поймаешь
+<сit type="example"><text>han har både i pose og sekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него всего вдоволь</text></cit></cit>
+<сit type="example"><text>man kan ikke ha både i sekk og pose</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> двумя зайцами погонишься, ни одного не поймаешь</text></cit></cit>
 </sense>
 <sense>
 сумка, кошелёк
@@ -22,7 +22,7 @@
 </sense>
 <sense>
 складка на одежде
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakke (tale) re(i)nt ut av posen — говорить откровенно (без обиняков)
+<сit type="example"><text>snakke (tale) re(i)nt ut av posen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить откровенно (без обиняков)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -44,7 +44,7 @@
 </sense>
 <sense>
 распухать, опухать (тж. pose seg)
-<div style="margin-left:5px"><strong><p><span class="dic_example">pose ut — раздувать
+<сit type="example"><text>pose ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздувать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

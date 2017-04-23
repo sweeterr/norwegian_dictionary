@@ -8,12 +8,12 @@
 </form>
 <sense>
 письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">et rekommandert brev — заказное письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">et åpent brev — открытое письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">besørge et brev — доставить письмо, сдать письмо на почту
-<div style="margin-left:5px"><strong><p><span class="dic_example">brekke (bryte, lukke opp) et brev — вскрывать, распечатывать письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrive om et brev — переписывать письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">veksle brev — обмениваться письмами, переписываться
+<сit type="example"><text>et rekommandert brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заказное письмо</text></cit></cit>
+<сit type="example"><text>et åpent brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открытое письмо</text></cit></cit>
+<сit type="example"><text>besørge et brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доставить письмо, сдать письмо на почту</text></cit></cit>
+<сit type="example"><text>brekke (bryte, lukke opp) et brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскрывать, распечатывать письмо</text></cit></cit>
+<сit type="example"><text>skrive om et brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переписывать письмо</text></cit></cit>
+<сit type="example"><text>veksle brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обмениваться письмами, переписываться</text></cit></cit>
 </sense>
 <sense>
 послание
@@ -23,8 +23,8 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">ha brev på noe :
 <сit type = "example"><text>ha brev på noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> иметь грамоту на что-л.</text></cit></cit>
 <сit type = "example"><text>ha brev på noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> иметь законное право делать что-л.</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi brev på noe — давать грамоту на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi noen brev på — гарантировать, обеспечивать кому-л. что-л.
+<сit type="example"><text>gi brev på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать грамоту на что-л.</text></cit></cit>
+<сit type="example"><text>gi noen brev på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гарантировать, обеспечивать кому-л. что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

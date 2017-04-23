@@ -6,10 +6,10 @@
 <orth type="lemma">tromme</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 <u>муз.</u> барабан
-<div style="margin-left:5px"><strong><p><span class="dic_example">trommene går — бьют в барабаны (в знак тревоги)
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå (røre) tromme — ударять в барабан (в оркестре)
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå på tromme — барабанить, отбивать барабанную дробь
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå på tromme for én — шумно восхвалять кого-л.
+<сit type="example"><text>trommene går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бьют в барабаны (в знак тревоги)</text></cit></cit>
+<сit type="example"><text>slå (røre) tromme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударять в барабан (в оркестре)</text></cit></cit>
+<сit type="example"><text>slå på tromme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>барабанить, отбивать барабанную дробь</text></cit></cit>
+<сit type="example"><text>slå på tromme for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шумно восхвалять кого-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +23,7 @@
 </sense>
 <sense>
 стучать(пальцами), барабанить (о дожде, граде)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tromme sammen — созывать барабанным боем, <lbl>перен.</lbl> скликать
+<сit type="example"><text>tromme sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>созывать барабанным боем, <lbl>перен.</lbl> скликать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

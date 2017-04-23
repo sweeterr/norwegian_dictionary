@@ -6,8 +6,8 @@
 <orth type="lemma">hundre</orth>
 <em><span class="dic_color"><span class="dic_comment">-t, -r</em>
 сотня
-<div style="margin-left:5px"><strong><p><span class="dic_example">et lite hundre — сто, малая сотня
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stort hundre — сто двадцать
+<сit type="example"><text>et lite hundre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сто, малая сотня</text></cit></cit>
+<сit type="example"><text>et stort hundre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сто двадцать</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -16,7 +16,7 @@
 <orth type="lemma">hundre</orth>
 <u>num</u>
 сто
-<div style="margin-left:5px"><strong><p><span class="dic_example">hundre og ett er ute! — всё кончено!, пришёл конец!, игра проиграна!
+<сit type="example"><text>hundre og ett er ute!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё кончено!, пришёл конец!, игра проиграна!</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

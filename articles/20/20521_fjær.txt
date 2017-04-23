@@ -8,13 +8,13 @@
 </form>
 <sense>
 перо (птицы)
-<div style="margin-left:5px"><strong><p><span class="dic_example">lett som en fjær — лёгкий как перышко
+<сit type="example"><text>lett som en fjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий как перышко</text></cit></cit>
 </sense>
 <sense>
 оперение, перья
-<div style="margin-left:5px"><strong><p><span class="dic_example">felle fjærene — линять
-<div style="margin-left:5px"><strong><p><span class="dic_example">smykke seg med lånte fjær — рядиться в чужие перья
-<div style="margin-left:5px"><strong><p><span class="dic_example">en fjær blir til en høns — <lbl>посл.</lbl> делать из мухи слона
+<сit type="example"><text>felle fjærene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>линять</text></cit></cit>
+<сit type="example"><text>smykke seg med lånte fjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рядиться в чужие перья</text></cit></cit>
+<сit type="example"><text>en fjær blir til en høns</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> делать из мухи слона</text></cit></cit>
 </sense>
 <sense>
 пружина, рессора

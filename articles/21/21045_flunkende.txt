@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">flunkende</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">flunkende fin — очень изящный
-<div style="margin-left:5px"><strong><p><span class="dic_example">flunkende ny — совершенно новый, с иголочки
+<сit type="example"><text>flunkende fin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень изящный</text></cit></cit>
+<сit type="example"><text>flunkende ny</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно новый, с иголочки</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

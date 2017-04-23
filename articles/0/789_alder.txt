@@ -8,25 +8,25 @@
 </form>
 <sense>
 возраст
-<div style="margin-left:5px"><strong><p><span class="dic_example">høy alder — почтенный возраст
-<div style="margin-left:5px"><strong><p><span class="dic_example">farlig alder — переходный (опасный) возраст
-<div style="margin-left:5px"><strong><p><span class="dic_example">med alderen — с годами, с возрастом
-<div style="margin-left:5px"><strong><p><span class="dic_example">han bærer sin alder godt — он выглядит хорошо для своих лет
-<div style="margin-left:5px"><strong><p><span class="dic_example">for sin alder — для своего возраста
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er på min alder — он моего возраста, он моих лет
-<div style="margin-left:5px"><strong><p><span class="dic_example">i en alder av ... — в возрасте ... лет
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i sin beste alder — быть в расцвете лет
-<div style="margin-left:5px"><strong><p><span class="dic_example">være på alder med — быть одних лет с кем-л.
+<сit type="example"><text>høy alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почтенный возраст</text></cit></cit>
+<сit type="example"><text>farlig alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переходный (опасный) возраст</text></cit></cit>
+<сit type="example"><text>med alderen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с годами, с возрастом</text></cit></cit>
+<сit type="example"><text>han bærer sin alder godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он выглядит хорошо для своих лет</text></cit></cit>
+<сit type="example"><text>for sin alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для своего возраста</text></cit></cit>
+<сit type="example"><text>han er på min alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он моего возраста, он моих лет</text></cit></cit>
+<сit type="example"><text>i en alder av ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в возрасте ... лет</text></cit></cit>
+<сit type="example"><text>være i sin beste alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в расцвете лет</text></cit></cit>
+<сit type="example"><text>være på alder med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть одних лет с кем-л.</text></cit></cit>
 </sense>
 <sense>
 старость
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra på alderen — стареть
-<div style="margin-left:5px"><strong><p><span class="dic_example">være til alders — быть в преклонном возрасте
+<сit type="example"><text>dra på alderen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стареть</text></cit></cit>
+<сit type="example"><text>være til alders</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в преклонном возрасте</text></cit></cit>
 </sense>
 <sense>
 век (исторический период)
-<div style="margin-left:5px"><strong><p><span class="dic_example">den gyllne alder — золотой век
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra alders tid — с незапамятных времён, исстари
+<сit type="example"><text>den gyllne alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотой век</text></cit></cit>
+<сit type="example"><text>fra alders tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с незапамятных времён, исстари</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

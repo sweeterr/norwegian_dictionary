@@ -8,8 +8,8 @@
 </form>
 <sense>
 немой, безмолвный, молчаливый
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli stum — онеметь, оцепенеть, застыть
-<div style="margin-left:5px"><strong><p><span class="dic_example">stum som graven (som en fisk) — нем как могила (как рыба)
+<сit type="example"><text>bli stum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>онеметь, оцепенеть, застыть</text></cit></cit>
+<сit type="example"><text>stum som graven (som en fisk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нем как могила (как рыба)</text></cit></cit>
 </sense>
 <sense>
 безжизненный, мёртвый
@@ -31,7 +31,7 @@
 <form>
 <orth type="lemma">stum</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">stum mørkt — темно хоть глаз выколи
+<сit type="example"><text>stum mørkt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>темно хоть глаз выколи</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

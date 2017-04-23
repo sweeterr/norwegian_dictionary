@@ -6,11 +6,11 @@
 <orth type="lemma">sukker</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 сахар
-<div style="margin-left:5px"><strong><p><span class="dic_example">brunt sukker — жжёный сахар
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvitt sukker — белый (свекловичный) сахар
-<div style="margin-left:5px"><strong><p><span class="dic_example">raffinert sukker — рафинированный сахар
-<div style="margin-left:5px"><strong><p><span class="dic_example">rått sukker — нерафинированный сахар
-<div style="margin-left:5px"><strong><p><span class="dic_example">sukkeret mitt! — золотко моё! (ласкательное обращение)
+<сit type="example"><text>brunt sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жжёный сахар</text></cit></cit>
+<сit type="example"><text>hvitt sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белый (свекловичный) сахар</text></cit></cit>
+<сit type="example"><text>raffinert sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рафинированный сахар</text></cit></cit>
+<сit type="example"><text>rått sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нерафинированный сахар</text></cit></cit>
+<сit type="example"><text>sukkeret mitt!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотко моё! (ласкательное обращение)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">toppende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">toppende full — полный до краёв, переполненный
-<div style="margin-left:5px"><strong><p><span class="dic_example">toppende gal (rasende) — совершенно взбешённый
+<сit type="example"><text>toppende full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полный до краёв, переполненный</text></cit></cit>
+<сit type="example"><text>toppende gal (rasende)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно взбешённый</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

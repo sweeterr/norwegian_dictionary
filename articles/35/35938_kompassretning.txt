@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">kompassretning</orth>
 <em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i alle kompassretninger — во всех направлениях
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra alle kompassretninger — со всех сторон
-<div style="margin-left:5px"><strong><p><span class="dic_example">til alle kompassretninger — во все стороны
+<сit type="example"><text>i alle kompassretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во всех направлениях</text></cit></cit>
+<сit type="example"><text>fra alle kompassretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со всех сторон</text></cit></cit>
+<сit type="example"><text>til alle kompassretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во все стороны</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

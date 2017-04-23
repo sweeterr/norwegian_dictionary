@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ad</orth>
 <u>adv</u> (только в устойчивых сочетаниях) указывает на распространение действия в различных направлениях раз
-<div style="margin-left:5px"><strong><p><span class="dic_example">splitte ad — разлететься, расколоться
+<сit type="example"><text>splitte ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разлететься, расколоться</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,32 +17,32 @@
 <sense>
 указывает на направление движения к определённому предмету,
 по направлению к, к:
-<div style="margin-left:5px"><strong><p><span class="dic_example">de gikk ad elven — они шли к реке
+<сit type="example"><text>de gikk ad elven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они шли к реке</text></cit></cit>
 </sense>
 <sense>
 указывает на движение по поверхности предмета в одном направлении, по:
-<div style="margin-left:5px"><strong><p><span class="dic_example">hen ad veien — по дороге
-<div style="margin-left:5px"><strong><p><span class="dic_example">ad den veien — этой дорогой
+<сit type="example"><text>hen ad veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по дороге</text></cit></cit>
+<сit type="example"><text>ad den veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этой дорогой</text></cit></cit>
 </sense>
 <sense>
 указывает на приближение к определённой точке во времени, к:
-<div style="margin-left:5px"><strong><p><span class="dic_example">det lider ad aften — дело идёт к вечеру, вечереет
+<сit type="example"><text>det lider ad aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело идёт к вечеру, вечереет</text></cit></cit>
 </sense>
 <sense>
 с некоторыми глаголами, выражающими душевное состояние, настроение, над:
-<div style="margin-left:5px"><strong><p><span class="dic_example">le (vrenge) ad noen — смеяться (издеваться) над кем-л.
+<сit type="example"><text>le (vrenge) ad noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смеяться (издеваться) над кем-л.</text></cit></cit>
 </sense>
 <sense>
 в сочетании с наречиями:
-<div style="margin-left:5px"><strong><p><span class="dic_example">ad inn — в, через
-<div style="margin-left:5px"><strong><p><span class="dic_example">inn ad vinduet — через окно
-<div style="margin-left:5px"><strong><p><span class="dic_example">ned ad — вниз, вниз по
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå ned ad trappen — спускаться (идти вниз) по лестнице
-<div style="margin-left:5px"><strong><p><span class="dic_example">opp ad — вверх, вверх по
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå opp ad bakken — подниматься в гору
-<div style="margin-left:5px"><strong><p><span class="dic_example">ut ad — из
-<div style="margin-left:5px"><strong><p><span class="dic_example">ut ad vinduet — из окна
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er sin far opp ad dage — он вылитый отец
+<сit type="example"><text>ad inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в, через</text></cit></cit>
+<сit type="example"><text>inn ad vinduet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через окно</text></cit></cit>
+<сit type="example"><text>ned ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вниз, вниз по</text></cit></cit>
+<сit type="example"><text>gå ned ad trappen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускаться (идти вниз) по лестнице</text></cit></cit>
+<сit type="example"><text>opp ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вверх, вверх по</text></cit></cit>
+<сit type="example"><text>gå opp ad bakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подниматься в гору</text></cit></cit>
+<сit type="example"><text>ut ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из</text></cit></cit>
+<сit type="example"><text>ut ad vinduet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из окна</text></cit></cit>
+<сit type="example"><text>han er sin far opp ad dage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он вылитый отец</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

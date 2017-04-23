@@ -8,24 +8,24 @@
 </form>
 <sense>
 знакомство (с чем-л.), знание (чего-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">få rede på — (раз)узнать, разведать
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (finne) rede i — разобраться в чём-л., уяснить себе
+<сit type="example"><text>få rede på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(раз)узнать, разведать</text></cit></cit>
+<сit type="example"><text>få (finne) rede i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разобраться в чём-л., уяснить себе</text></cit></cit>
 </sense>
 <sense>
 отчёт, разъяснение
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre rede for — отдавать отчёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre rede for seg — нести ответственность, держать ответ
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre rede og riktighet for seg — рассчитываться с кем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre seg rede for noe — отдать себе отчёт в чём-либо
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha rede på noe — иметь представление о чём-либо, разбираться в чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde rede på noe — отдавать себе отчёт в чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">skaffe seg rede på — узнать, разузнать, разведать
-<div style="margin-left:5px"><strong><p><span class="dic_example">stå (ta) rede på noe — <lbl>редко</lbl> разобраться в чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">vite rede på noe — иметь представление о чём-л., разбираться в чём-л.
+<сit type="example"><text>gjøre rede for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавать отчёт</text></cit></cit>
+<сit type="example"><text>gjøre rede for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нести ответственность, держать ответ</text></cit></cit>
+<сit type="example"><text>gjøre rede og riktighet for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассчитываться с кем-л.</text></cit></cit>
+<сit type="example"><text>gjøre seg rede for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать себе отчёт в чём-либо</text></cit></cit>
+<сit type="example"><text>ha rede på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь представление о чём-либо, разбираться в чём-л.</text></cit></cit>
+<сit type="example"><text>holde rede på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавать себе отчёт в чём-л.</text></cit></cit>
+<сit type="example"><text>skaffe seg rede på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать, разузнать, разведать</text></cit></cit>
+<сit type="example"><text>stå (ta) rede på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>редко</lbl> разобраться в чём-л.</text></cit></cit>
+<сit type="example"><text>vite rede på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь представление о чём-л., разбираться в чём-л.</text></cit></cit>
 </sense>
 <sense>
 порядок
-<div style="margin-left:5px"><strong><p><span class="dic_example">bringe rede i noe — навести порядок в чём-л.
+<сit type="example"><text>bringe rede i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навести порядок в чём-л.</text></cit></cit>
 </sense>
 <sense>
 <u>уст.</u> готовность, подготовленность
@@ -42,8 +42,8 @@
 </form>
 <sense>
 <u>уст.</u> гнездо
-<div style="margin-left:5px"><strong><p><span class="dic_example">bygge et rede — вить гнездо
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge på rede — сидеть на яйцах, высиживать птенцов
+<сit type="example"><text>bygge et rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вить гнездо</text></cit></cit>
+<сit type="example"><text>ligge på rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на яйцах, высиживать птенцов</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> дом, домашний очаг
@@ -55,9 +55,9 @@
 <orth type="lemma">rede</orth>
 <u>adj</u>
 готовый, подготовившийся (к чему-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">med rede penger — наличными деньгами
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha noe på rede hånd — иметь что-л. наготове (под рукой)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være rede — быть готовым
+<сit type="example"><text>med rede penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наличными деньгами</text></cit></cit>
+<сit type="example"><text>ha noe på rede hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь что-л. наготове (под рукой)</text></cit></cit>
+<сit type="example"><text>være rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть готовым</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -68,7 +68,7 @@
 </form>
 <sense>
 стелить постель
-<div style="margin-left:5px"><strong><p><span class="dic_example">som man reder, så ligger man — <lbl>посл.</lbl> как постелешь, так и поспишь; что посеешь, то и пожнёшь (см. тж. re)
+<сit type="example"><text>som man reder, så ligger man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> как постелешь, так и поспишь; что посеешь, то и пожнёшь (см. тж. re)</text></cit></cit>
 </sense>
 <sense>
 выкапывать (о картофеле, овощах)
@@ -84,7 +84,7 @@
 </sense>
 <sense>
 <u>уст.</u> платить (тж. rede ut)
-<div style="margin-left:5px"><strong><p><span class="dic_example">rede ut — объяснить
+<сit type="example"><text>rede ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объяснить</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

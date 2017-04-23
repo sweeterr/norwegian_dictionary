@@ -6,8 +6,8 @@
 <orth type="lemma">de</orth>
 <em><span class="dic_color"><span class="dic_comment">|di|</em>
 определённый препозитивный артикль множественного числа:
-<div style="margin-left:5px"><strong><p><span class="dic_example">de høye fjell (ene) — высокие горы (известные, данные)
-<div style="margin-left:5px"><strong><p><span class="dic_example">de fattige (rike, vise) — бедняки (богачи, мудрецы) (при субстантивации прилагательных во мн. ч.), см. den <strong>II
+<сit type="example"><text>de høye fjell (ene)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокие горы (известные, данные)</text></cit></cit>
+<сit type="example"><text>de fattige (rike, vise)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бедняки (богачи, мудрецы) (при субстантивации прилагательных во мн. ч.), см. den <strong>II</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -21,8 +21,8 @@
 <em><span class="dic_color"><span class="dic_comment">pers (объектн. п. dem)</em> они
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> dem — см. den <strong>1), 2)
-<div style="margin-left:5px"><strong><p><span class="dic_example">de her (der) — вот эти (те)
+<сit type="example"><text> dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. den <strong>1), 2)</text></cit></cit>
+<сit type="example"><text>de her (der)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот эти (те)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

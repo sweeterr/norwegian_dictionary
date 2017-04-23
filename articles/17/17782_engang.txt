@@ -8,16 +8,16 @@
 </form>
 <sense>
 однажды, как-то раз
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var engang ... — <lbl>фольк.</lbl> жил-был ...
+<сit type="example"><text>det var engang ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>фольк.</lbl> жил-был ...</text></cit></cit>
 </sense>
 <sense>
 когда-либо, когда-нибудь
-<div style="margin-left:5px"><strong><p><span class="dic_example">endelig engang — наконец-то
-<div style="margin-left:5px"><strong><p><span class="dic_example">nå engang — ну, ведь
+<сit type="example"><text>endelig engang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наконец-то</text></cit></cit>
+<сit type="example"><text>nå engang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну, ведь</text></cit></cit>
 </sense>
 <sense>
 как-то раз
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke engang — ни разу, даже не
+<сit type="example"><text>ikke engang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни разу, даже не</text></cit></cit>
 </sense>
 </entry>
 <entry>

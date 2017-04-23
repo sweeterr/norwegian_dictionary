@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">tu</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i tu — <lbl>разг.</lbl> на части, на куски, вдребезги
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta i tu med — браться за что-л.
+<сit type="example"><text>i tu</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> на части, на куски, вдребезги</text></cit></cit>
+<сit type="example"><text>ta i tu med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>браться за что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

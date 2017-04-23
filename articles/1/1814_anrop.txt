@@ -8,13 +8,13 @@
 </form>
 <sense>
 оклик, зов
-<div style="margin-left:5px"><strong><p><span class="dic_example">stanse på anrop — остановиться на зов (оклик)
+<сit type="example"><text>stanse på anrop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остановиться на зов (оклик)</text></cit></cit>
 </sense>
 <sense>
 позывные сигналы
-<div style="margin-left:5px"><strong><p><span class="dic_example">heise anrop — поднимать флажные сигналы
-<div style="margin-left:5px"><strong><p><span class="dic_example">sende anrop — посылать радиосигналы
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå anrop — передавать сигналы семафором
+<сit type="example"><text>heise anrop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать флажные сигналы</text></cit></cit>
+<сit type="example"><text>sende anrop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посылать радиосигналы</text></cit></cit>
+<сit type="example"><text>slå anrop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передавать сигналы семафором</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

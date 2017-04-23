@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">gårde</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">av gårde — прочь со двора
-<div style="margin-left:5px"><strong><p><span class="dic_example">få av gårde — отправить (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i morgen skal vi av gårde — завтра отправляемся в путь
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg må av gårde — я должен удалиться (уйти)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjøre av gårde — уезжать
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette av gårde — отправиться (в дорогу)
+<сit type="example"><text>av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочь со двора</text></cit></cit>
+<сit type="example"><text>få av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправить (кого-л.)</text></cit></cit>
+<сit type="example"><text>i morgen skal vi av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтра отправляемся в путь</text></cit></cit>
+<сit type="example"><text>jeg må av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я должен удалиться (уйти)</text></cit></cit>
+<сit type="example"><text>kjøre av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уезжать</text></cit></cit>
+<сit type="example"><text>sette av gårde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться (в дорогу)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

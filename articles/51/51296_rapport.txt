@@ -8,14 +8,14 @@
 </form>
 <sense>
 рапорт, донесение, сообщение, доклад, отчёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">muntlig rapport — устное донесение, устный отчёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">skriftlig rapport — письменное донесение
-<div style="margin-left:5px"><strong><p><span class="dic_example">avgi (inngi) rapport — делать доклад, докладывать, доносить, сообщать
-<div style="margin-left:5px"><strong><p><span class="dic_example">avlegge rapport — <lbl>воен.</lbl> доложить, сдать рапорт
+<сit type="example"><text>muntlig rapport</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устное донесение, устный отчёт</text></cit></cit>
+<сit type="example"><text>skriftlig rapport</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменное донесение</text></cit></cit>
+<сit type="example"><text>avgi (inngi) rapport</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать доклад, докладывать, доносить, сообщать</text></cit></cit>
+<сit type="example"><text>avlegge rapport</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> доложить, сдать рапорт</text></cit></cit>
 </sense>
 <sense>
 связь, контакт, соотношение
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde seg i rapport (stå i rapport) med — быть (находиться) в связи (с кем, чем-л.)
+<сit type="example"><text>holde seg i rapport (stå i rapport) med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в связи (с кем, чем-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

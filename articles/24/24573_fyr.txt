@@ -6,12 +6,12 @@
 <orth type="lemma">fyr</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 парень, паренёк
-<div style="margin-left:5px"><strong><p><span class="dic_example">en dårlig fyr — скверный тип
-<div style="margin-left:5px"><strong><p><span class="dic_example">en flink fyr — храбрец
-<div style="margin-left:5px"><strong><p><span class="dic_example">en godmodig fyr — славный малый
-<div style="margin-left:5px"><strong><p><span class="dic_example">en liten fyr — паренёк, мальчуган
-<div style="margin-left:5px"><strong><p><span class="dic_example">en lystig fyr — весельчак
-<div style="margin-left:5px"><strong><p><span class="dic_example">en snurrig fyr — комик, шутник
+<сit type="example"><text>en dårlig fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скверный тип</text></cit></cit>
+<сit type="example"><text>en flink fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>храбрец</text></cit></cit>
+<сit type="example"><text>en godmodig fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>славный малый</text></cit></cit>
+<сit type="example"><text>en liten fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>паренёк, мальчуган</text></cit></cit>
+<сit type="example"><text>en lystig fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весельчак</text></cit></cit>
+<сit type="example"><text>en snurrig fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>комик, шутник</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,23 +22,23 @@
 </form>
 <sense>
 огонь, пламя
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ta) fyr — загореться
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette fyr på — поджечь (дом, здание)
+<сit type="example"><text>få (ta) fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>загореться</text></cit></cit>
+<сit type="example"><text>sette fyr på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поджечь (дом, здание)</text></cit></cit>
 </sense>
 <sense>
 маяк
 </sense>
 <sense>
 <u>воен.</u> огонь, стрельба
-<div style="margin-left:5px"><strong><p><span class="dic_example">fyr! — огонь!
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi akt, fyr! — внимание, огонь! (команда)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi fyr — открывать огонь
+<сit type="example"><text>fyr!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огонь!</text></cit></cit>
+<сit type="example"><text>gi akt, fyr!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внимание, огонь! (команда)</text></cit></cit>
+<сit type="example"><text>gi fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открывать огонь</text></cit></cit>
 </sense>
 <sense>
 <u>тех.</u> топка
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> <lbl>мор.</lbl> gå ned fyrene — спускать пары
+<сit type="example"><text> <lbl>мор.</lbl> gå ned fyrene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать пары</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

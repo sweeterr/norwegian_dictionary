@@ -8,10 +8,10 @@
 </form>
 <sense>
 пятно
-<div style="margin-left:5px"><strong><p><span class="dic_example">blå flekk — синяк
-<div style="margin-left:5px"><strong><p><span class="dic_example">den gule flekk — <lbl>анат.</lbl> жёлтое пятно
-<div style="margin-left:5px"><strong><p><span class="dic_example">fjerne flekker — выводить пятна
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette flekker på noe — посадить пятно на что-л.
+<сit type="example"><text>blå flekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>синяк</text></cit></cit>
+<сit type="example"><text>den gule flekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> жёлтое пятно</text></cit></cit>
+<сit type="example"><text>fjerne flekker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выводить пятна</text></cit></cit>
+<сit type="example"><text>sette flekker på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посадить пятно на что-л.</text></cit></cit>
 </sense>
 <sense>
 позорное пятно
@@ -21,9 +21,9 @@
 </sense>
 <sense>
 небольшой участок (земли)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke få av flekken — не сдвинуть с места
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke kunne komme (flytte, røre) av flekken — не быть в состоянии сдвинуться с места
-<div style="margin-left:5px"><strong><p><span class="dic_example">på (stående) flekken — тут же на месте
+<сit type="example"><text>ikke få av flekken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не сдвинуть с места</text></cit></cit>
+<сit type="example"><text>ikke kunne komme (flytte, røre) av flekken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не быть в состоянии сдвинуться с места</text></cit></cit>
+<сit type="example"><text>på (stående) flekken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут же на месте</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,14 +8,14 @@
 </form>
 <sense>
 край (сосуда, чашки, ямы и т. п.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til bredden — до краёв
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved gravens bredd — на краю могилы
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved stupets bredd — на краю пропасти
+<сit type="example"><text>til bredden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до краёв</text></cit></cit>
+<сit type="example"><text>ved gravens bredd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на краю могилы</text></cit></cit>
+<сit type="example"><text>ved stupets bredd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на краю пропасти</text></cit></cit>
 </sense>
 <sense>
 берег (реки, озера, моря)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det går over alle bredder (grenser) — это переходит все границы
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå over sine bredder — выйти из берегов (о реке)
+<сit type="example"><text>det går over alle bredder (grenser)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это переходит все границы</text></cit></cit>
+<сit type="example"><text>gå over sine bredder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти из берегов (о реке)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <orth type="lemma">bredd</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>диал.</u> ширина
-<div style="margin-left:5px"><strong><p><span class="dic_example">i bredd med — рядом, бок о бок
+<сit type="example"><text>i bredd med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рядом, бок о бок</text></cit></cit>
 <u><span class="dic_color"><span class="dic_comment">см. тж.</u> <a href="http://norwegian_russian.academic.ru/11506/bredde">bredde</a>
 </sense>
 </entry>

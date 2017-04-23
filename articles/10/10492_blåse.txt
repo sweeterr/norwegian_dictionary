@@ -21,27 +21,27 @@
 </form>
 <sense>
 дуть (о человеке, о ветре)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det blåser sterkt — дует сильный ветер
+<сit type="example"><text>det blåser sterkt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дует сильный ветер</text></cit></cit>
 </sense>
 <sense>
 бушевать (о буре)
 </sense>
 <sense>
 играть (на духовом инструменте)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse (i) fløyte (horn) — играть на флейте (рожке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse med basuner — трубить в трубы
+<сit type="example"><text>blåse (i) fløyte (horn)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на флейте (рожке)</text></cit></cit>
+<сit type="example"><text>blåse med basuner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трубить в трубы</text></cit></cit>
 </sense>
 <sense>
 <u>воен.</u> подавать горном сигнал (подъёма, тревоги, атаки, отбоя)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse til angrep — <lbl>уст.</lbl> играть атаку
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse til retrett — <lbl>уст.</lbl> бить отбой
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse til våpen — <lbl>уст.</lbl> призывать к оружию, призывать под знамёна
+<сit type="example"><text>blåse til angrep</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> играть атаку</text></cit></cit>
+<сit type="example"><text>blåse til retrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> бить отбой</text></cit></cit>
+<сit type="example"><text>blåse til våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> призывать к оружию, призывать под знамёна</text></cit></cit>
 </sense>
 <sense>
 сопеть (тж. в знак презрения)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse og snøfte — всхлипывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">det blåser jeg i! — <lbl>разг.</lbl> мне наплевать!
-<div style="margin-left:5px"><strong><p><span class="dic_example">blås! — чушь!, ерунда!
+<сit type="example"><text>blåse og snøfte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всхлипывать</text></cit></cit>
+<сit type="example"><text>det blåser jeg i!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> мне наплевать!</text></cit></cit>
+<сit type="example"><text>blås!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чушь!, ерунда!</text></cit></cit>
 </sense>
 <sense>
 выбрасывать фонтан воды (о китах)
@@ -52,11 +52,11 @@
 <сit type = "example"><text>blåse av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сдувать, сносить (ветром)</text></cit></cit>
 <сit type = "example"><text>blåse av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> презрительно отзываться о ком, чём-л.</text></cit></cit>
 <сit type = "example"><text>blåse av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>тех.</u> продувать (котёл)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse bort — сдуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse igjennom — продувать (с целью прочистки)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse opp — надувать
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse ut — гасить, задувать (свечу, лампу)
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse ut en røksky — выпускать клубы дыма (во время курения)
+<сit type="example"><text>blåse bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдуть</text></cit></cit>
+<сit type="example"><text>blåse igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продувать (с целью прочистки)</text></cit></cit>
+<сit type="example"><text>blåse opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надувать</text></cit></cit>
+<сit type="example"><text>blåse ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гасить, задувать (свечу, лампу)</text></cit></cit>
+<сit type="example"><text>blåse ut en røksky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпускать клубы дыма (во время курения)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

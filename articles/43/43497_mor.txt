@@ -8,17 +8,17 @@
 </form>
 <sense>
 мать
-<div style="margin-left:5px"><strong><p><span class="dic_example">en ensligstillet (ensligstående) mor — мать-одиночка
-<div style="margin-left:5px"><strong><p><span class="dic_example">mor til tre barn — мать трёх детей
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli mor — стать матерью
+<сit type="example"><text>en ensligstillet (ensligstående) mor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мать-одиночка</text></cit></cit>
+<сit type="example"><text>mor til tre barn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мать трёх детей</text></cit></cit>
+<сit type="example"><text>bli mor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать матерью</text></cit></cit>
 </sense>
 <sense>
 мама (обращение к своей матери)
 </sense>
 <sense>
 матушка, мамаша (обращение к пожилой женщине)
-<div style="margin-left:5px"><strong><p><span class="dic_example">mor Johansen — матушка Юхансен
-<div style="margin-left:5px"><strong><p><span class="dic_example">be for sin syke mor — <lbl>разг.</lbl> преследовать собственную выгоду под предлогом защиты интересов другого
+<сit type="example"><text>mor Johansen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>матушка Юхансен</text></cit></cit>
+<сit type="example"><text>be for sin syke mor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> преследовать собственную выгоду под предлогом защиты интересов другого</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

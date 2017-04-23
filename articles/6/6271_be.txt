@@ -8,11 +8,11 @@
 </form>
 <sense>
 просить, умолять (о чём-л. - om)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg ber deg — я тебя прошу
+<сit type="example"><text>jeg ber deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я тебя прошу</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">jeg ber :
 <сit type = "example"><text>jeg ber :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пожалуйста (ответ на извинение)</text></cit></cit>
 <сit type = "example"><text>jeg ber :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не за что, не стоит благодарности (ответ на благодарность)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">la seg be — заставить просить себя
+<сit type="example"><text>la seg be</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить просить себя</text></cit></cit>
 </sense>
 <sense>
 просить, ходатайствовать (за кого-л. - for)
@@ -22,10 +22,10 @@
 </sense>
 <sense>
 приглашать
-<div style="margin-left:5px"><strong><p><span class="dic_example">be til gjest (til aften, til middag) — приглашать в гости (к ужину, к обеду)
-<div style="margin-left:5px"><strong><p><span class="dic_example">be til seg — приглашать к себе
-<div style="margin-left:5px"><strong><p><span class="dic_example">be inn på kaffe — приглашать на чашку кофе
-<div style="margin-left:5px"><strong><p><span class="dic_example">be selskap — созывать гостей
+<сit type="example"><text>be til gjest (til aften, til middag)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приглашать в гости (к ужину, к обеду)</text></cit></cit>
+<сit type="example"><text>be til seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приглашать к себе</text></cit></cit>
+<сit type="example"><text>be inn på kaffe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приглашать на чашку кофе</text></cit></cit>
+<сit type="example"><text>be selskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>созывать гостей</text></cit></cit>
 </sense>
 <sense>
 молиться

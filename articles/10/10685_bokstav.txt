@@ -8,8 +8,8 @@
 </form>
 <sense>
 буква
-<div style="margin-left:5px"><strong><p><span class="dic_example">små (store) bokstaver — строчные (прописные) буквы
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter bokstaven — буквально
+<сit type="example"><text>små (store) bokstaver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>строчные (прописные) буквы</text></cit></cit>
+<сit type="example"><text>etter bokstaven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>буквально</text></cit></cit>
 </sense>
 <sense>
 <u>полигр.</u> литера

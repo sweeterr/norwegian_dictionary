@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">somre</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-edes), -et (-edes)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det somrer — дело идёт к лету, наступает лето
-<div style="margin-left:5px"><strong><p><span class="dic_example">det somret (det somredes) — наступало лето
+<сit type="example"><text>det somrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело идёт к лету, наступает лето</text></cit></cit>
+<сit type="example"><text>det somret (det somredes)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наступало лето</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

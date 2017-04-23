@@ -6,7 +6,7 @@
 <orth type="lemma">knipe</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 трудное (тяжёлое, опасное) положение
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme i knipe — попасть в оборот
+<сit type="example"><text>komme i knipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в оборот</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 </form>
 <sense>
 щипать, ущипнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">knipe seg i armen — щипать себя за руку (чтобы не заснуть)
+<сit type="example"><text>knipe seg i armen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щипать себя за руку (чтобы не заснуть)</text></cit></cit>
 </sense>
 <sense>
 схватить, цапнуть
@@ -36,10 +36,10 @@
 </sense>
 <sense>
 скупиться, жадничать, быть прижимистым
-<div style="margin-left:5px"><strong><p><span class="dic_example">knipe av — отщипнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">knipe inn — забрать, ушить (платье)
+<сit type="example"><text>knipe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отщипнуть</text></cit></cit>
+<сit type="example"><text>knipe inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забрать, ушить (платье)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">knipe seg :
-<div style="margin-left:5px"><strong><p><span class="dic_example">knipe seg gjennom noe — протиснуться через что-л.
+<сit type="example"><text>knipe seg gjennom noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>протиснуться через что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,7 +8,7 @@
 </form>
 <sense>
 остриё, лезвие
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge med odd og egg — <lbl>уст.</lbl> оборонять, защищать с оружием в руках
+<сit type="example"><text>verge med odd og egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> оборонять, защищать с оружием в руках</text></cit></cit>
 </sense>
 <sense>
 гребень (горы)
@@ -29,12 +29,12 @@
 <orth type="lemma">egg</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 яйцо
-<div style="margin-left:5px"><strong><p><span class="dic_example">bløtkokt egg — яйцо всмятку
-<div style="margin-left:5px"><strong><p><span class="dic_example">forlorne egg — яйцо-пашот
-<div style="margin-left:5px"><strong><p><span class="dic_example">hardkokt egg — крутое яйцо
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge egg — класть яйца
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge på egg — сидеть на яйцах
-<div style="margin-left:5px"><strong><p><span class="dic_example">ste(i)ke egg — делать яйчницу-глазунью
+<сit type="example"><text>bløtkokt egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яйцо всмятку</text></cit></cit>
+<сit type="example"><text>forlorne egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яйцо-пашот</text></cit></cit>
+<сit type="example"><text>hardkokt egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крутое яйцо</text></cit></cit>
+<сit type="example"><text>legge egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>класть яйца</text></cit></cit>
+<сit type="example"><text>ligge på egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на яйцах</text></cit></cit>
+<сit type="example"><text>ste(i)ke egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать яйчницу-глазунью</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

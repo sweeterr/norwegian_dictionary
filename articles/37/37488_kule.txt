@@ -8,14 +8,14 @@
 </form>
 <sense>
 пуля, ядро
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte seg en kule for pannen (gjennom hodet) — застрелиться
+<сit type="example"><text>skyte seg en kule for pannen (gjennom hodet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>застрелиться</text></cit></cit>
 </sense>
 <sense>
 шар, шарик
 </sense>
 <sense>
 <u>спорт.</u> ядро
-<div style="margin-left:5px"><strong><p><span class="dic_example">støte en kule — толкать ядро
+<сit type="example"><text>støte en kule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толкать ядро</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -34,14 +34,14 @@
 </form>
 <sense>
 компания, группа (людей)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele kula — все, вся компания
+<сit type="example"><text>hele kula</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все, вся компания</text></cit></cit>
 </sense>
 <sense>
 партия (в игре)
 </sense>
 <sense>
 неожиданный улов <u>тж. перен.</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre en kule — взять богатый улов
+<сit type="example"><text>gjøre en kule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять богатый улов</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -58,7 +58,7 @@
 <orth type="lemma">kule</orth>
 <em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
 дуть (о свежем ветре)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det kuler — дует свежий ветер
+<сit type="example"><text>det kuler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дует свежий ветер</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

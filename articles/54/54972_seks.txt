@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">seks</orth>
 <u>num</u> шесть
-<div style="margin-left:5px"><strong><p><span class="dic_example">si seks — <lbl>разг.</lbl> поразить, вызвать удивление
+<сit type="example"><text>si seks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> поразить, вызвать удивление</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

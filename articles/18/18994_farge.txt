@@ -8,14 +8,14 @@
 </form>
 <sense>
 цвет, краска
-<div style="margin-left:5px"><strong><p><span class="dic_example">bleke farger — блёклые тона
-<div style="margin-left:5px"><strong><p><span class="dic_example">livlige farger — сочные краски (тона)
-<div style="margin-left:5px"><strong><p><span class="dic_example">lyse farger — светлые краски (тона)
-<div style="margin-left:5px"><strong><p><span class="dic_example">mørke farger — тёмные краски (тона)
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrikende (skingrende) farger — яркие (кричащие) цвета, краски
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte fargen — нарушать гамму цветов
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste fargen — терять краски
-<div style="margin-left:5px"><strong><p><span class="dic_example">male med sterke farger — описывать в ярких красках
+<сit type="example"><text>bleke farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>блёклые тона</text></cit></cit>
+<сit type="example"><text>livlige farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сочные краски (тона)</text></cit></cit>
+<сit type="example"><text>lyse farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлые краски (тона)</text></cit></cit>
+<сit type="example"><text>mørke farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тёмные краски (тона)</text></cit></cit>
+<сit type="example"><text>skrikende (skingrende) farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яркие (кричащие) цвета, краски</text></cit></cit>
+<сit type="example"><text>bryte fargen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушать гамму цветов</text></cit></cit>
+<сit type="example"><text>kaste fargen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терять краски</text></cit></cit>
+<сit type="example"><text>male med sterke farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>описывать в ярких красках</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">skifte farge :
 <сit type = "example"><text>skifte farge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> менять окраску</text></cit></cit>
 <сit type = "example"><text>skifte farge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> меняться в лице</text></cit></cit>
@@ -25,15 +25,15 @@
 </sense>
 <sense>
 <u>pl</u> флаг, национальные цвета
-<div style="margin-left:5px"><strong><p><span class="dic_example">de norske farger — норвежский национальный флаг
+<сit type="example"><text>de norske farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский национальный флаг</text></cit></cit>
 </sense>
 <sense>
 колорит, оттенок
 </sense>
 <sense>
 <u>карт.</u> масть
-<div style="margin-left:5px"><strong><p><span class="dic_example">bekjenne farge — раскрыть свой карты <lbl>тж. перен.</lbl>
-<div style="margin-left:5px"><strong><p><span class="dic_example">følge (svikte) farge — ходить (не ходить) в масть
+<сit type="example"><text>bekjenne farge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскрыть свой карты <lbl>тж. перен.</lbl></text></cit></cit>
+<сit type="example"><text>følge (svikte) farge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить (не ходить) в масть</text></cit></cit>
 </sense>
 <sense>
 направление (политическое)
@@ -50,7 +50,7 @@
 </sense>
 <sense>
 придавать особый колорит
-<div style="margin-left:5px"><strong><p><span class="dic_example">farge av — краситься (о только что покрашенной поверхности)
+<сit type="example"><text>farge av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>краситься (о только что покрашенной поверхности)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

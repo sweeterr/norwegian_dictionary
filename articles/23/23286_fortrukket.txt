@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">fortrukket</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">fortrukket ansikt — перекошенное (искажённое) лицо
-<div style="margin-left:5px"><strong><p><span class="dic_example">fortrukne trekk — искаженные черты лица (от гнева)
+<сit type="example"><text>fortrukket ansikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перекошенное (искажённое) лицо</text></cit></cit>
+<сit type="example"><text>fortrukne trekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искаженные черты лица (от гнева)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

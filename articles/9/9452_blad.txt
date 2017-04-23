@@ -8,20 +8,20 @@
 </form>
 <sense>
 лист (растения)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i mangel av tobakk røker man andre blader — <lbl>погов.</lbl> за неимением гербовой пишут на простой, на безрыбье и рак рыба
+<сit type="example"><text>i mangel av tobakk røker man andre blader</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> за неимением гербовой пишут на простой, на безрыбье и рак рыба</text></cit></cit>
 </sense>
 <sense>
 vandrende blad <u>зоол.</u> листотелка, или листовидка
 </sense>
 <sense>
 лист (бумаги), страница
-<div style="margin-left:5px"><strong><p><span class="dic_example">spille (synge) noe fra bladet — играть (петь) с листа
-<div style="margin-left:5px"><strong><p><span class="dic_example">bladet har vendt seg — <lbl>перен.</lbl> обстоятельства переменились, дела приняли другой оборот
-<div style="margin-left:5px"><strong><p><span class="dic_example">et ærerikt blad — славная страница (в истории страны, чьей-л. жизни и т. д.)
+<сit type="example"><text>spille (synge) noe fra bladet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть (петь) с листа</text></cit></cit>
+<сit type="example"><text>bladet har vendt seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> обстоятельства переменились, дела приняли другой оборот</text></cit></cit>
+<сit type="example"><text>et ærerikt blad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>славная страница (в истории страны, чьей-л. жизни и т. д.)</text></cit></cit>
 </sense>
 <sense>
 газета
-<div style="margin-left:5px"><strong><p><span class="dic_example">grunnlegge et blad — основать газету
+<сit type="example"><text>grunnlegge et blad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>основать газету</text></cit></cit>
 </sense>
 <sense>
 редакция газеты (здание, помещение)
@@ -30,8 +30,8 @@ vandrende blad <u>зоол.</u> листотелка, или листовидк�
 лезвие (ножа, топора), лопасть (весла, пропеллера), полотнище (пилы)
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> <lbl>карт.</lbl> malet (<lbl>диал.</lbl> mala) blad — фигурная карта
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta bladet fra munnen — говорить без обиняков, без стеснения, высказываться открыто
+<сit type="example"><text> <lbl>карт.</lbl> malet (<lbl>диал.</lbl> mala) blad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фигурная карта</text></cit></cit>
+<сit type="example"><text>ta bladet fra munnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить без обиняков, без стеснения, высказываться открыто</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,10 +6,10 @@
 <orth type="lemma">verb</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 глагол
-<div style="margin-left:5px"><strong><p><span class="dic_example">imperfektive (perfektive) verber — глаголы несовершенного (совершенного) вида
-<div style="margin-left:5px"><strong><p><span class="dic_example">intransitive (transitive) verber — непереходные (переходные) глаголы
-<div style="margin-left:5px"><strong><p><span class="dic_example">refleksive verber — возвратные глаголы
-<div style="margin-left:5px"><strong><p><span class="dic_example">uregelmessige verber — неправильные глаголы
+<сit type="example"><text>imperfektive (perfektive) verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глаголы несовершенного (совершенного) вида</text></cit></cit>
+<сit type="example"><text>intransitive (transitive) verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непереходные (переходные) глаголы</text></cit></cit>
+<сit type="example"><text>refleksive verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возвратные глаголы</text></cit></cit>
+<сit type="example"><text>uregelmessige verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неправильные глаголы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

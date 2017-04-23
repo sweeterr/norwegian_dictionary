@@ -6,7 +6,7 @@
 <orth type="lemma">trill</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
 переливчатый звук
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha trill på r'en — произносить раскатистое «p»
+<сit type="example"><text>ha trill på r'en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>произносить раскатистое «p»</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -14,8 +14,8 @@
 <form>
 <orth type="lemma">trill</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">trill rund — совершенно круглый
-<div style="margin-left:5px"><strong><p><span class="dic_example">det gikk trill rundt for henne — у неё голова пошла кругом
+<сit type="example"><text>trill rund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно круглый</text></cit></cit>
+<сit type="example"><text>det gikk trill rundt for henne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у неё голова пошла кругом</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -6,12 +6,12 @@
 <orth type="lemma">flaske</orth>
 <em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
 бутылка
-<div style="margin-left:5px"><strong><p><span class="dic_example">fylle en flaske — наполнить бутылку
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette kork i en flaske — закупорить бутылку
-<div style="margin-left:5px"><strong><p><span class="dic_example">trekke opp en flaske — откупорить бутылку
-<div style="margin-left:5px"><strong><p><span class="dic_example">kikke for dypt i flasken — хлебнуть лишнего
-<div style="margin-left:5px"><strong><p><span class="dic_example">søke sin trøst i flasken — искать забвения в вине
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta til flasken — пристраститься к алкоголю
+<сit type="example"><text>fylle en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наполнить бутылку</text></cit></cit>
+<сit type="example"><text>sette kork i en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закупорить бутылку</text></cit></cit>
+<сit type="example"><text>trekke opp en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откупорить бутылку</text></cit></cit>
+<сit type="example"><text>kikke for dypt i flasken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хлебнуть лишнего</text></cit></cit>
+<сit type="example"><text>søke sin trøst i flasken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искать забвения в вине</text></cit></cit>
+<сit type="example"><text>ta til flasken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пристраститься к алкоголю</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">flaske</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">flaske opp — выкормить, вырастить (ребёнка), взрастить, воспитать
+<сit type="example"><text>flaske opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкормить, вырастить (ребёнка), взрастить, воспитать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

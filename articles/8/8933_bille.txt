@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">bille</orth>
 <em><span class="dic_color"><span class="dic_comment">-te, -t</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bille inn — вообразить
-<div style="margin-left:5px"><strong><p><span class="dic_example">bille seg inn — вообразить себе, вбить себе в голову
+<сit type="example"><text>bille inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вообразить</text></cit></cit>
+<сit type="example"><text>bille seg inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вообразить себе, вбить себе в голову</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

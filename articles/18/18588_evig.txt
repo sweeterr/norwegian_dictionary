@@ -8,9 +8,9 @@
 </form>
 <sense>
 вечный
-<div style="margin-left:5px"><strong><p><span class="dic_example">evig din — твой навсегда (подпись в письме)
-<div style="margin-left:5px"><strong><p><span class="dic_example">til evig tid, for evig — навечно
-<div style="margin-left:5px"><strong><p><span class="dic_example">hver evige dag — каждый божий день
+<сit type="example"><text>evig din</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твой навсегда (подпись в письме)</text></cit></cit>
+<сit type="example"><text>til evig tid, for evig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навечно</text></cit></cit>
+<сit type="example"><text>hver evige dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каждый божий день</text></cit></cit>
 </sense>
 <sense>
 нескончаемый

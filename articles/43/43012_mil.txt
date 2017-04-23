@@ -6,12 +6,12 @@
 <orth type="lemma">mil</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), =</em>
 миля
-<div style="margin-left:5px"><strong><p><span class="dic_example">en gammel norsk mil — старая норвежская миля (11294,73 м)
-<div style="margin-left:5px"><strong><p><span class="dic_example">en norsk mil — норвежская миля (10 000 м)
-<div style="margin-left:5px"><strong><p><span class="dic_example">engelsk mil — английская миля (1609.33 м)
-<div style="margin-left:5px"><strong><p><span class="dic_example">geografisk mil — географическая миля (7420,438 м)
-<div style="margin-left:5px"><strong><p><span class="dic_example">nautisk mil — морская миля (1852 м)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre ti mils fart — <lbl>мор.</lbl> идти со скоростью десять узлов
+<сit type="example"><text>en gammel norsk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая норвежская миля (11294,73 м)</text></cit></cit>
+<сit type="example"><text>en norsk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская миля (10 000 м)</text></cit></cit>
+<сit type="example"><text>engelsk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>английская миля (1609.33 м)</text></cit></cit>
+<сit type="example"><text>geografisk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>географическая миля (7420,438 м)</text></cit></cit>
+<сit type="example"><text>nautisk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>морская миля (1852 м)</text></cit></cit>
+<сit type="example"><text>gjøre ti mils fart</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> идти со скоростью десять узлов</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

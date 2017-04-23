@@ -8,13 +8,13 @@
 </form>
 <sense>
 еда, пища, кушанье
-<div style="margin-left:5px"><strong><p><span class="dic_example">kald (varm) mat — холодное (горячее) блюдо
-<div style="margin-left:5px"><strong><p><span class="dic_example">mat og drikke — пища и питьё
-<div style="margin-left:5px"><strong><p><span class="dic_example">mat og losji — квартира и стол, полный пансион
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten mat — не поевши
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er (var mat for mons — есть (было), чем полакомиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">maten står på bordet — обед на столе, кушать подано
-<div style="margin-left:5px"><strong><p><span class="dic_example">takk for maten — благодарю за угощение
+<сit type="example"><text>kald (varm) mat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодное (горячее) блюдо</text></cit></cit>
+<сit type="example"><text>mat og drikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пища и питьё</text></cit></cit>
+<сit type="example"><text>mat og losji</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>квартира и стол, полный пансион</text></cit></cit>
+<сit type="example"><text>uten mat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не поевши</text></cit></cit>
+<сit type="example"><text>det er (var mat for mons</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>есть (было), чем полакомиться</text></cit></cit>
+<сit type="example"><text>maten står på bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обед на столе, кушать подано</text></cit></cit>
+<сit type="example"><text>takk for maten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>благодарю за угощение</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> бутерброд

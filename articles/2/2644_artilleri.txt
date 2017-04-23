@@ -6,9 +6,9 @@
 <orth type="lemma">artilleri</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 артиллерия (род войск, орудия и т. п.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">artilleriet spilte opp — артиллерия открыла огонь
-<div style="margin-left:5px"><strong><p><span class="dic_example">motorisert artilleri — артиллерия на механической тяге
-<div style="margin-left:5px"><strong><p><span class="dic_example">selvdrevet artilleri — самоходная артиллерия
+<сit type="example"><text>artilleriet spilte opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>артиллерия открыла огонь</text></cit></cit>
+<сit type="example"><text>motorisert artilleri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>артиллерия на механической тяге</text></cit></cit>
+<сit type="example"><text>selvdrevet artilleri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самоходная артиллерия</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

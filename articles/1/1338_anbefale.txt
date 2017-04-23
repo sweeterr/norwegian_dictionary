@@ -8,11 +8,11 @@
 </form>
 <sense>
 рекомендовать, предлагать, советовать
-<div style="margin-left:5px"><strong><p><span class="dic_example">vi anbefaler oss til Deres velvilje — остаёмся готовые к услугам (в официальном письме)
+<сit type="example"><text>vi anbefaler oss til Deres velvilje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остаёмся готовые к услугам (в официальном письме)</text></cit></cit>
 </sense>
 <sense>
 <u>уст.</u> передавать, доверять
-<div style="margin-left:5px"><strong><p><span class="dic_example">anbefale seg — <lbl>уст.</lbl> откланиваться
+<сit type="example"><text>anbefale seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> откланиваться</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

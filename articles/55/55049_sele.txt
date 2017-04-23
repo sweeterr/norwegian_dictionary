@@ -8,14 +8,14 @@
 </form>
 <sense>
 сбруя, упряжь
-<div style="margin-left:5px"><strong><p><span class="dic_example">selen bryter hesten — сбруя трет
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge selen på en hest — запрягать лошадь
+<сit type="example"><text>selen bryter hesten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбруя трет</text></cit></cit>
+<сit type="example"><text>legge selen på en hest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запрягать лошадь</text></cit></cit>
 </sense>
 <sense>
 шлея, лямка
 <сit type = "example"><text>legge seg i selen — <u>разг.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впрягаться в лямку</text></cit></cit>
 <сit type = "example"><text>legge seg i selen — <u>разг.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из кожи вон лезть</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i selen — трудиться, работать изо всех сил; <lbl>перен.</lbl> тянуть лямку
+<сit type="example"><text>være i selen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудиться, работать изо всех сил; <lbl>перен.</lbl> тянуть лямку</text></cit></cit>
 </sense>
 <sense>
 подтяжки, помочи
@@ -30,8 +30,8 @@
 <orth type="lemma">sele</orth>
 <em><span class="dic_color"><span class="dic_comment">-te, -t</em>
 запрягать
-<div style="margin-left:5px"><strong><p><span class="dic_example">sele av — распрягать
-<div style="margin-left:5px"><strong><p><span class="dic_example">sele på — впрягать, запрягать
+<сit type="example"><text>sele av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распрягать</text></cit></cit>
+<сit type="example"><text>sele på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впрягать, запрягать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

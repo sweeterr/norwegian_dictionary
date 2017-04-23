@@ -8,20 +8,20 @@
 </form>
 <sense>
 место
-<div style="margin-left:5px"><strong><p><span class="dic_example">nummererte plasser — нумерованные места
-<div style="margin-left:5px"><strong><p><span class="dic_example">av mangel på plass — из-за недостатка места
-<div style="margin-left:5px"><strong><p><span class="dic_example">bytte plass med én — обменяться местами
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi (gjøre, vike) plass — уступить место (кому, чему-л. - for), освободить место, посторониться
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjør plass! — дайте дорогу!, посторонитесь!
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppta meget plass — занимать много места
-<div style="margin-left:5px"><strong><p><span class="dic_example">reservere plass — (за)бронировать место
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta plass — садиться, занимать место
+<сit type="example"><text>nummererte plasser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нумерованные места</text></cit></cit>
+<сit type="example"><text>av mangel på plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за недостатка места</text></cit></cit>
+<сit type="example"><text>bytte plass med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обменяться местами</text></cit></cit>
+<сit type="example"><text>gi (gjøre, vike) plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уступить место (кому, чему-л. - for), освободить место, посторониться</text></cit></cit>
+<сit type="example"><text>gjør plass!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дайте дорогу!, посторонитесь!</text></cit></cit>
+<сit type="example"><text>oppta meget plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занимать много места</text></cit></cit>
+<сit type="example"><text>reservere plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(за)бронировать место</text></cit></cit>
+<сit type="example"><text>ta plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться, занимать место</text></cit></cit>
 </sense>
 <sense>
 должность, служба
-<div style="margin-left:5px"><strong><p><span class="dic_example">fylle sin plass — соответствовать своей должности
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette én på plass — <lbl>перен.</lbl> поставить кого-л. на своё место, осадить (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være på sin rette plass — быть на своём месте, соответствовать своему назначению
+<сit type="example"><text>fylle sin plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать своей должности</text></cit></cit>
+<сit type="example"><text>sette én på plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> поставить кого-л. на своё место, осадить (кого-л.)</text></cit></cit>
+<сit type="example"><text>være på sin rette plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на своём месте, соответствовать своему назначению</text></cit></cit>
 </sense>
 <sense>
 городская площадь, сквер
@@ -43,7 +43,7 @@
 </sense>
 <sense>
 <u>ж.-д.</u><span class="dic_color"><span class="dic_comment">, <u>мор.</u> класс
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise på første (annen, tredje) plass — ехать в первом (втором, третьем) классе
+<сit type="example"><text>reise på første (annen, tredje) plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать в первом (втором, третьем) классе</text></cit></cit>
 </sense>
 <sense>
 <u>мор.</u> местонахождение, координаты (судна)

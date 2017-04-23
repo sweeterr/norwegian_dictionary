@@ -8,12 +8,12 @@
 </form>
 <sense>
 перепись населения
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde manntall — производить перепись населения
+<сit type="example"><text>holde manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>производить перепись населения</text></cit></cit>
 </sense>
 <sense>
 список (избирателей, налогоплательщиков)
-<div style="margin-left:5px"><strong><p><span class="dic_example">føre manntall — составлять списки
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppta manntall — вносить (включать) в списки, зарегистрировать (кого-л.)
+<сit type="example"><text>føre manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>составлять списки</text></cit></cit>
+<сit type="example"><text>oppta manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вносить (включать) в списки, зарегистрировать (кого-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

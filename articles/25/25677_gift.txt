@@ -6,10 +6,10 @@
 <orth type="lemma">gift</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
 яд, отрава
-<div style="margin-left:5px"><strong><p><span class="dic_example">blande gift — подмешивать яд
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta gift — принять яд, отравиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">det kan du ta gift på — за это можно поручиться головой
-<div style="margin-left:5px"><strong><p><span class="dic_example">spy gift — <lbl>перен.</lbl> изрыгать яд, говорить гневные слова
+<сit type="example"><text>blande gift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подмешивать яд</text></cit></cit>
+<сit type="example"><text>ta gift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять яд, отравиться</text></cit></cit>
+<сit type="example"><text>det kan du ta gift på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за это можно поручиться головой</text></cit></cit>
+<сit type="example"><text>spy gift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> изрыгать яд, говорить гневные слова</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <orth type="lemma">gift</orth>
 <u>adj</u>
 женатый, замужняя
-<div style="margin-left:5px"><strong><p><span class="dic_example">være gift med — быть женатым на (ком-л.), быть замужем за (кем-л.)
+<сit type="example"><text>være gift med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть женатым на (ком-л.), быть замужем за (кем-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

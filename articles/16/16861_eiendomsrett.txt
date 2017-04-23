@@ -6,9 +6,9 @@
 <orth type="lemma">eiendomsrett</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 <u>юр.</u> право собственности
-<div style="margin-left:5px"><strong><p><span class="dic_example">personlig eiendomsrett — право личной собственности
-<div style="margin-left:5px"><strong><p><span class="dic_example">privat eiendomsrett — право частной собственности
-<div style="margin-left:5px"><strong><p><span class="dic_example">sosialistisk eiendomsrett — право социалистической собственности
+<сit type="example"><text>personlig eiendomsrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право личной собственности</text></cit></cit>
+<сit type="example"><text>privat eiendomsrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право частной собственности</text></cit></cit>
+<сit type="example"><text>sosialistisk eiendomsrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право социалистической собственности</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,13 +8,13 @@
 </form>
 <sense>
 приветствие
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjengjelde (besvare) hilsen — отвечать на приветствие
+<сit type="example"><text>gjengjelde (besvare) hilsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать на приветствие</text></cit></cit>
 </sense>
 <sense>
 привет, поклон
-<div style="margin-left:5px"><strong><p><span class="dic_example">hjertelig hilsen — сердечный привет
-<div style="margin-left:5px"><strong><p><span class="dic_example">sende én sin hilsen — посылать кому-л. поклон (привет)
-<div style="margin-left:5px"><strong><p><span class="dic_example">militær hilsen — <lbl>воен.</lbl> отдание чести
+<сit type="example"><text>hjertelig hilsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сердечный привет</text></cit></cit>
+<сit type="example"><text>sende én sin hilsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посылать кому-л. поклон (привет)</text></cit></cit>
+<сit type="example"><text>militær hilsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> отдание чести</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

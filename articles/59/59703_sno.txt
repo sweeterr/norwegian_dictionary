@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">sno</orth>
 <em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det snor — дует холодный ветер
+<сit type="example"><text>det snor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дует холодный ветер</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -32,8 +32,8 @@
 </sense>
 <sense>
 <u>уст.</u> вертеть, вить
-<div style="margin-left:5px"><strong><p><span class="dic_example">sno seg — виться, извиваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">sno seg som en ål — извиваться ужом
+<сit type="example"><text>sno seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>виться, извиваться</text></cit></cit>
+<сit type="example"><text>sno seg som en ål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться ужом</text></cit></cit>
 </sense>
 </entry>
 <entry>

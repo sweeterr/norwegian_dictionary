@@ -21,8 +21,8 @@
 <form>
 <orth type="lemma">dobbelt</orth>
 <u>adv</u> вдвое, дважды, вдвойне
-<div style="margin-left:5px"><strong><p><span class="dic_example">dobbelt så stor — вдвое больший
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg ser dobbelt — у меня двоится в глазах
+<сit type="example"><text>dobbelt så stor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдвое больший</text></cit></cit>
+<сit type="example"><text>jeg ser dobbelt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня двоится в глазах</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

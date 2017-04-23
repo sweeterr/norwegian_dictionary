@@ -8,19 +8,19 @@
 </form>
 <sense>
 кусок, штука
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stykke — немного, чуточку
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stykke brød — ломоть хлеба
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stykke sukker — кусок сахару
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stykke tøy — отрез материи
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stykke vei — отрезок дороги
-<div style="margin-left:5px"><strong><p><span class="dic_example">ti stykker kveg — десять голов скота
-<div style="margin-left:5px"><strong><p><span class="dic_example">et stivt (sterkt) stykke — грубая выходка
-<div style="margin-left:5px"><strong><p><span class="dic_example">(for (per)) stykket — за штуку
-<div style="margin-left:5px"><strong><p><span class="dic_example">fem stykker — <lbl>разг.</lbl> пять человек
+<сit type="example"><text>et stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного, чуточку</text></cit></cit>
+<сit type="example"><text>et stykke brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ломоть хлеба</text></cit></cit>
+<сit type="example"><text>et stykke sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кусок сахару</text></cit></cit>
+<сit type="example"><text>et stykke tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрез материи</text></cit></cit>
+<сit type="example"><text>et stykke vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезок дороги</text></cit></cit>
+<сit type="example"><text>ti stykker kveg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>десять голов скота</text></cit></cit>
+<сit type="example"><text>et stivt (sterkt) stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грубая выходка</text></cit></cit>
+<сit type="example"><text>(for (per)) stykket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за штуку</text></cit></cit>
+<сit type="example"><text>fem stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> пять человек</text></cit></cit>
 </sense>
 <sense>
 обрезок, обрывок, осколок, черепок
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte (gjøre) i stykker — разбить вдребезги
+<сit type="example"><text>bryte (gjøre) i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбить вдребезги</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">gå i stykker :
 <сit type = "example"><text>gå i stykker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сломаться</text></cit></cit>
 <сit type = "example"><text>gå i stykker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> разлететься вдребезги</text></cit></cit>
@@ -36,16 +36,16 @@
 </sense>
 <sense>
 произведение, рассказ, вещь (музыкальная), пьеса, фильм
-<div style="margin-left:5px"><strong><p><span class="dic_example">stykket gjør stor lykke — пьеса идёт с большим успехом
+<сit type="example"><text>stykket gjør stor lykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пьеса идёт с большим успехом</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> человек, тип
 </sense>
 <sense>
 <u>школ.</u> задача, арифметический пример
-<div style="margin-left:5px"><strong><p><span class="dic_example">i enkelte (alle, mange) stykker — в ряде случаев (во всех, многих отношениях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">i dette stykket — что касается этого ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">blåse én et langt stykke — <lbl>разг.</lbl> не считаться с кем-л., плевать на кого-л.
+<сit type="example"><text>i enkelte (alle, mange) stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в ряде случаев (во всех, многих отношениях)</text></cit></cit>
+<сit type="example"><text>i dette stykket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается этого ...</text></cit></cit>
+<сit type="example"><text>blåse én et langt stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> не считаться с кем-л., плевать на кого-л.</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">når det kommer til stykket :
 <сit type = "example"><text>når det kommer til stykket :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в решительный момент</text></cit></cit>
 <сit type = "example"><text>når det kommer til stykket :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в конечном счёте</text></cit></cit>
@@ -57,8 +57,8 @@
 <orth type="lemma">stykke</orth>
 <em><span class="dic_color"><span class="dic_comment">-ket (-te), -ket (-t)</em>
 делить на части
-<div style="margin-left:5px"><strong><p><span class="dic_example">stykke opp — разделить, поделить
-<div style="margin-left:5px"><strong><p><span class="dic_example">stykke ut — выделить
+<сit type="example"><text>stykke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделить, поделить</text></cit></cit>
+<сit type="example"><text>stykke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделить</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

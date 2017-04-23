@@ -8,9 +8,9 @@
 </form>
 <sense>
 отвращение, омерзение, неприязнь
-<div style="margin-left:5px"><strong><p><span class="dic_example">føle (ha, nære) avsky — питать отвращение (к чему-л. - for)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være til avsky for alle — вызывать отвращение у всех
-<div style="margin-left:5px"><strong><p><span class="dic_example">med avsky — с омерзением
+<сit type="example"><text>føle (ha, nære) avsky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питать отвращение (к чему-л. - for)</text></cit></cit>
+<сit type="example"><text>være til avsky for alle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать отвращение у всех</text></cit></cit>
+<сit type="example"><text>med avsky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с омерзением</text></cit></cit>
 </sense>
 <sense>
 то, что вызывает отвращение
@@ -22,7 +22,7 @@
 <orth type="lemma">avsky</orth>
 <em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
 чувствовать (питать) отвращение
-<div style="margin-left:5px"><strong><p><span class="dic_example">avsky ham — чувствовать к нему отвращение
+<сit type="example"><text>avsky ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать к нему отвращение</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

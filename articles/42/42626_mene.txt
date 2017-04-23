@@ -8,21 +8,21 @@
 </form>
 <sense>
 думать, полагать, считать, иметь в виду, подразумевать
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener De med det? — что вы этим хотите сказать?; что вы имеете в виду?
-<div style="margin-left:5px"><strong><p><span class="dic_example">mener du ikke at ...? — не кажется ли тебе, что ...?
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener du om ham? — что ты думаешь о нём?
+<сit type="example"><text>hva mener De med det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что вы этим хотите сказать?; что вы имеете в виду?</text></cit></cit>
+<сit type="example"><text>mener du ikke at ...?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не кажется ли тебе, что ...?</text></cit></cit>
+<сit type="example"><text>hva mener du om ham?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что ты думаешь о нём?</text></cit></cit>
 </sense>
 <sense>
 намереваться, собираться (сделать что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg mente ikke noe ondt med det — я не собирался обидеть этим, я не имел в виду ничего дурного
-<div style="margin-left:5px"><strong><p><span class="dic_example">mene det ærlig med én — иметь честные намерения в отношении кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">mene det godt med én — желать кому-л. добра
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ment som ... — быть задуманным как ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ment på — диал, решить (сделать что-л.)
+<сit type="example"><text>jeg mente ikke noe ondt med det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не собирался обидеть этим, я не имел в виду ничего дурного</text></cit></cit>
+<сit type="example"><text>mene det ærlig med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь честные намерения в отношении кого-л.</text></cit></cit>
+<сit type="example"><text>mene det godt med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>желать кому-л. добра</text></cit></cit>
+<сit type="example"><text>være ment som ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть задуманным как ...</text></cit></cit>
+<сit type="example"><text>være ment på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>диал, решить (сделать что-л.)</text></cit></cit>
 </sense>
 <sense>
 означать, значить
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva mener dette ord? — что значит это слово?
+<сit type="example"><text>hva mener dette ord?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что значит это слово?</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

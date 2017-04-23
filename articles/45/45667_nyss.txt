@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">nyss</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> få nyss om — узнать (пронюхать) о чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha nyss om — знать о чём-л.
+<сit type="example"><text> få nyss om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать (пронюхать) о чём-л.</text></cit></cit>
+<сit type="example"><text>ha nyss om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать о чём-л.</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +14,7 @@
 <orth type="lemma">nyss</orth>
 <u>adv</u>
 только что, как раз, недавно
-<div style="margin-left:5px"><strong><p><span class="dic_example">for nyss — недавно
+<сit type="example"><text>for nyss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недавно</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

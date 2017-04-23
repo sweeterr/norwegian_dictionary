@@ -8,16 +8,16 @@
 </form>
 <sense>
 письмо, алфавит
-<div style="margin-left:5px"><strong><p><span class="dic_example">arabisk skrift — арабское письмо
-<div style="margin-left:5px"><strong><p><span class="dic_example">gotisk skrift — готический алфавит
-<div style="margin-left:5px"><strong><p><span class="dic_example">hemmelig skrift — тайнопись
+<сit type="example"><text>arabisk skrift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>арабское письмо</text></cit></cit>
+<сit type="example"><text>gotisk skrift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готический алфавит</text></cit></cit>
+<сit type="example"><text>hemmelig skrift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тайнопись</text></cit></cit>
 </sense>
 <sense>
 шрифт
 </sense>
 <sense>
 надпись
-<div style="margin-left:5px"><strong><p><span class="dic_example">i skrift og (i) tale — устно и письменно
+<сit type="example"><text>i skrift og (i) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устно и письменно</text></cit></cit>
 </sense>
 <sense>
 печатное издание
@@ -32,9 +32,9 @@
 <orth type="lemma">skrift</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -er</em>
 сочинение, литературное произведение
-<div style="margin-left:5px"><strong><p><span class="dic_example">etterlatte skrifter — посмертные (оставшиеся после смерти) сочинения
-<div style="margin-left:5px"><strong><p><span class="dic_example">samlede skrifter — собрание сочинений
-<div style="margin-left:5px"><strong><p><span class="dic_example">utvalgte skrifter — избранные сочинения
+<сit type="example"><text>etterlatte skrifter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посмертные (оставшиеся после смерти) сочинения</text></cit></cit>
+<сit type="example"><text>samlede skrifter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собрание сочинений</text></cit></cit>
+<сit type="example"><text>utvalgte skrifter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избранные сочинения</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

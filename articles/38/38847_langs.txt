@@ -6,11 +6,11 @@
 <orth type="lemma">langs</orth>
 <u>prep</u>
 вдоль
-<div style="margin-left:5px"><strong><p><span class="dic_example">langs hele fronten — по всему фронту, на протяжении всего фронта
-<div style="margin-left:5px"><strong><p><span class="dic_example">langs kysten — вдоль побережья
-<div style="margin-left:5px"><strong><p><span class="dic_example">langs siden — <lbl>мор.</lbl> вдоль борта судна
-<div style="margin-left:5px"><strong><p><span class="dic_example">på langs — вдоль
-<div style="margin-left:5px"><strong><p><span class="dic_example">på langs og tvers — вдоль и поперёк
+<сit type="example"><text>langs hele fronten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по всему фронту, на протяжении всего фронта</text></cit></cit>
+<сit type="example"><text>langs kysten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль побережья</text></cit></cit>
+<сit type="example"><text>langs siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> вдоль борта судна</text></cit></cit>
+<сit type="example"><text>på langs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль</text></cit></cit>
+<сit type="example"><text>på langs og tvers</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль и поперёк</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

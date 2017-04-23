@@ -6,7 +6,7 @@
 <orth type="lemma">man</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 грива
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette man — ерошить шерсть (о собаке)
+<сit type="example"><text>sette man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ерошить шерсть (о собаке)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <orth type="lemma">man</orth>
 <u>pron</u>
 является подлежащим неопределённо-личного предложения; отдельным словом не переводится:
-<div style="margin-left:5px"><strong><p><span class="dic_example">man lot meg forstå at ... — мне дали понять, что ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">man sier — говорят
-<div style="margin-left:5px"><strong><p><span class="dic_example">man har sagt meg — мне сказали
-<div style="margin-left:5px"><strong><p><span class="dic_example">man tror — полагают, думают
-<div style="margin-left:5px"><strong><p><span class="dic_example">man tillater seg herved å oversende ... — настоящим посылаем (препровождаем) ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">om man tør spørre — если будет позволено спросить
-<div style="margin-left:5px"><strong><p><span class="dic_example">som man reder, så ligger man — как постелешь, так и поспишь
+<сit type="example"><text>man lot meg forstå at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне дали понять, что ...</text></cit></cit>
+<сit type="example"><text>man sier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорят</text></cit></cit>
+<сit type="example"><text>man har sagt meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне сказали</text></cit></cit>
+<сit type="example"><text>man tror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полагают, думают</text></cit></cit>
+<сit type="example"><text>man tillater seg herved å oversende ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настоящим посылаем (препровождаем) ...</text></cit></cit>
+<сit type="example"><text>om man tør spørre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если будет позволено спросить</text></cit></cit>
+<сit type="example"><text>som man reder, så ligger man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как постелешь, так и поспишь</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

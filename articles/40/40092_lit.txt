@@ -6,7 +6,7 @@
 <orth type="lemma">lit</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
 миг, мгновение
-<div style="margin-left:5px"><strong><p><span class="dic_example">i siste liten — в самый последний момент
+<сit type="example"><text>i siste liten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в самый последний момент</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,9 +15,9 @@
 <orth type="lemma">lit</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
 доверие
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha lit til — доверять
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette sin lit til — доверяться кому-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå ( <lbl>уст.</lbl> feste) lit til — поверить во что-л.
+<сit type="example"><text>ha lit til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доверять</text></cit></cit>
+<сit type="example"><text>sette sin lit til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доверяться кому-л.</text></cit></cit>
+<сit type="example"><text>slå ( <lbl>уст.</lbl> feste) lit til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поверить во что-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

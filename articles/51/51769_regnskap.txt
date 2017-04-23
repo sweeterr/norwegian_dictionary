@@ -8,8 +8,8 @@
 </form>
 <sense>
 отчётная ведомость
-<div style="margin-left:5px"><strong><p><span class="dic_example">avslutte et regnskap — закрыть счёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">føre (holde) regnskap — вести отчётность, учитывать (товар, поступления)
+<сit type="example"><text>avslutte et regnskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрыть счёт</text></cit></cit>
+<сit type="example"><text>føre (holde) regnskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести отчётность, учитывать (товар, поступления)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">gjøre opp et regnskap :
 <сit type = "example"><text>gjøre opp et regnskap :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> подвести итог</text></cit></cit>
 <сit type = "example"><text>gjøre opp et regnskap :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> произвести расчёт с кем-л.</text></cit></cit>
@@ -17,12 +17,12 @@
 </sense>
 <sense>
 отчёт
-<div style="margin-left:5px"><strong><p><span class="dic_example">avlegge (gjøre) et regnskap for én — отчитываться перед кем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra (kalle, kreve) én til regnskap — привлекать кого-л. к ответу; требовать от кого-л. ответа
+<сit type="example"><text>avlegge (gjøre) et regnskap for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отчитываться перед кем-л.</text></cit></cit>
+<сit type="example"><text>dra (kalle, kreve) én til regnskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привлекать кого-л. к ответу; требовать от кого-л. ответа</text></cit></cit>
 </sense>
 <sense>
 счёты
-<div style="margin-left:5px"><strong><p><span class="dic_example">et gammelt regnskap — старые счёты (с кем-л.)
+<сit type="example"><text>et gammelt regnskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старые счёты (с кем-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

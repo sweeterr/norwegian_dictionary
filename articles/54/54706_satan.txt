@@ -6,9 +6,9 @@
 <orth type="lemma">satan</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 сатана, черт, дьявол
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva satan! — <lbl>разг.</lbl> что за черт!
-<div style="margin-left:5px"><strong><p><span class="dic_example">for satan! — <lbl>разг.</lbl> черт возьми!
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi satan i noe (Enenen) — <lbl>разг.</lbl> послать что-л. (кого-л.) к черту
+<сit type="example"><text>hva satan!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> что за черт!</text></cit></cit>
+<сit type="example"><text>for satan!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> черт возьми!</text></cit></cit>
+<сit type="example"><text>gi satan i noe (Enenen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> послать что-л. (кого-л.) к черту</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

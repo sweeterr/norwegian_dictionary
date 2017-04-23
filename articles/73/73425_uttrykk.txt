@@ -8,10 +8,10 @@
 </form>
 <sense>
 выражение
-<div style="margin-left:5px"><strong><p><span class="dic_example">billedlig (adekvat) uttrykk — образное (адекватное) выражение
-<div style="margin-left:5px"><strong><p><span class="dic_example">stående uttrykk — устойчивое словосочетание, фразеологическое сращение
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten uttrykk — невыразительно
-<div style="margin-left:5px"><strong><p><span class="dic_example">én må dempe sine uttrykk — нужно выражаться осторожнее
+<сit type="example"><text>billedlig (adekvat) uttrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>образное (адекватное) выражение</text></cit></cit>
+<сit type="example"><text>stående uttrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устойчивое словосочетание, фразеологическое сращение</text></cit></cit>
+<сit type="example"><text>uten uttrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>невыразительно</text></cit></cit>
+<сit type="example"><text>én må dempe sine uttrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нужно выражаться осторожнее</text></cit></cit>
 </sense>
 <sense>
 термин
@@ -21,8 +21,8 @@
 </sense>
 <sense>
 высказывание
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi uttrykk for noe — выразить, высказать что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">med et mildt uttrykk — мягко выражаясь
+<сit type="example"><text>gi uttrykk for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выразить, высказать что-л.</text></cit></cit>
+<сit type="example"><text>med et mildt uttrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягко выражаясь</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

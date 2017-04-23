@@ -6,9 +6,9 @@
 <orth type="lemma">kur</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 лечение, курс лечения
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjennomgå en kur — пройти курс лечения
-<div style="margin-left:5px"><strong><p><span class="dic_example">ligge i (under) kur — находиться на излечении
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta én i kur — <lbl>разг.</lbl> взять кого-л. в оборот
+<сit type="example"><text>gjennomgå en kur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройти курс лечения</text></cit></cit>
+<сit type="example"><text>ligge i (under) kur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться на излечении</text></cit></cit>
+<сit type="example"><text>ta én i kur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> взять кого-л. в оборот</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -19,11 +19,11 @@
 </form>
 <sense>
 официальный приём
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi kur — устроить официальный приём
+<сit type="example"><text>gi kur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить официальный приём</text></cit></cit>
 </sense>
 <sense>
 ухаживание
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre kur til noen — ухаживать за кем-л.
+<сit type="example"><text>gjøre kur til noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ухаживать за кем-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

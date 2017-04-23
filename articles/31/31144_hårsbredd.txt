@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">hårsbredd</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var bare en hårsbredd — на волосок, чуть-чуть было
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke vike en hårsbredd — не отступить ни на йоту
+<сit type="example"><text>det var bare en hårsbredd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на волосок, чуть-чуть было</text></cit></cit>
+<сit type="example"><text>ikke vike en hårsbredd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не отступить ни на йоту</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,13 +8,13 @@
 </form>
 <sense>
 слепой
-<div style="margin-left:5px"><strong><p><span class="dic_example">være født blind — родиться слепым
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli blind — ослепнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre blind — ослеплять, слепить (тж. перен)
+<сit type="example"><text>være født blind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>родиться слепым</text></cit></cit>
+<сit type="example"><text>bli blind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослепнуть</text></cit></cit>
+<сit type="example"><text>gjøre blind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослеплять, слепить (тж. перен)</text></cit></cit>
 </sense>
 <sense>
 ослеплённый, ничего не замечающий
-<div style="margin-left:5px"><strong><p><span class="dic_example">være blind for noe — <lbl>перен.</lbl> закрывать глаза на что-л.
+<сit type="example"><text>være blind for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> закрывать глаза на что-л.</text></cit></cit>
 </sense>
 <sense>
 скрытый, невидимый

@@ -8,27 +8,27 @@
 </form>
 <sense>
 место
-<div style="margin-left:5px"><strong><p><span class="dic_example">et åpent sted — открытое место
-<div style="margin-left:5px"><strong><p><span class="dic_example">i mitt (ditt) sted — на моём (твоём) месте
-<div style="margin-left:5px"><strong><p><span class="dic_example">på et visst sted — в определённом месте
+<сit type="example"><text>et åpent sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открытое место</text></cit></cit>
+<сit type="example"><text>i mitt (ditt) sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на моём (твоём) месте</text></cit></cit>
+<сit type="example"><text>på et visst sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в определённом месте</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">på stedet :
 <сit type = "example"><text>på stedet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> на месте; дома</text></cit></cit>
 <сit type = "example"><text>på stedet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> тут же, тотчас же</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">finne ( <lbl>уст.</lbl> ha) sted — иметь место, происходить
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke ha blivende sted — не иметь места, куда голову приклонить
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme til stede — появиться, обнаружиться
+<сit type="example"><text>finne ( <lbl>уст.</lbl> ha) sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь место, происходить</text></cit></cit>
+<сit type="example"><text>ikke ha blivende sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь места, куда голову приклонить</text></cit></cit>
+<сit type="example"><text>komme til stede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>появиться, обнаружиться</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">være til stede :
 <сit type = "example"><text>være til stede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> присутствовать, быть налицо (на месте)</text></cit></cit>
 <сit type = "example"><text>være til stede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть, существовать</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på stedet hvil — <lbl>воен.</lbl> вольно (команда)
+<сit type="example"><text>på stedet hvil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> вольно (команда)</text></cit></cit>
 </sense>
 <sense>
 дом, жилище, помещение, дача
-<div style="margin-left:5px"><strong><p><span class="dic_example">et visst sted — <lbl>разг.</lbl> уборная
+<сit type="example"><text>et visst sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> уборная</text></cit></cit>
 </sense>
 <sense>
 местность, край
-<div style="margin-left:5px"><strong><p><span class="dic_example">i stedet, i det sted — вместо, взамен
+<сit type="example"><text>i stedet, i det sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вместо, взамен</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,20 +8,20 @@
 </form>
 <sense>
 край, кромка, ребро, грань
-<div style="margin-left:5px"><strong><p><span class="dic_example">på kanten av bordet — на край стола
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette (stille) på kant — ставить на ребро (на узкую сторону)
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte på kanten av stolen — сидеть на краешке стула
+<сit type="example"><text>på kanten av bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на край стола</text></cit></cit>
+<сit type="example"><text>sette (stille) på kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить на ребро (на узкую сторону)</text></cit></cit>
+<сit type="example"><text>sitte på kanten av stolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на краешке стула</text></cit></cit>
 </sense>
 <sense>
 кайма, кант, бордюр
 </sense>
 <sense>
 сторона, местность
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra disse kanter — из этих мест
-<div style="margin-left:5px"><strong><p><span class="dic_example">på alle kanter — повсюду, везде
-<div style="margin-left:5px"><strong><p><span class="dic_example">på disse kanter — в эти(х) места(х)
-<div style="margin-left:5px"><strong><p><span class="dic_example">han er meget ofte på den kant — он часто бывает в таком настроении
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme (være) på kant med én — поссориться с кем-л., быть в натянутых отношениях с кем-л.; være på en kant (på kanten) <lbl>разг.</lbl> быть навеселе, быть под мухой
+<сit type="example"><text>fra disse kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из этих мест</text></cit></cit>
+<сit type="example"><text>på alle kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повсюду, везде</text></cit></cit>
+<сit type="example"><text>på disse kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в эти(х) места(х)</text></cit></cit>
+<сit type="example"><text>han er meget ofte på den kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он часто бывает в таком настроении</text></cit></cit>
+<сit type="example"><text>komme (være) på kant med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поссориться с кем-л., быть в натянутых отношениях с кем-л.; være på en kant (på kanten) <lbl>разг.</lbl> быть навеселе, быть под мухой</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -29,8 +29,8 @@
 <form>
 <orth type="lemma">kant</orth>
 <u>диал.</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kant i (om) kant — кувырком, кубарем
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme på kant — (по)катиться
+<сit type="example"><text>kant i (om) kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кувырком, кубарем</text></cit></cit>
+<сit type="example"><text>komme på kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)катиться</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -39,7 +39,7 @@
 <orth type="lemma">kant</orth>
 <u>adj</u>
 <u>мор.</u> <u>уст.</u> готов
-<div style="margin-left:5px"><strong><p><span class="dic_example">kant og klar — готов (о), в порядке
+<сit type="example"><text>kant og klar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готов (о), в порядке</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

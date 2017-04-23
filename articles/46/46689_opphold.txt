@@ -8,12 +8,12 @@
 </form>
 <sense>
 пребывание
-<div style="margin-left:5px"><strong><p><span class="dic_example">under oppholdet — во время пребывания
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor langt opphold er det i ...? — сколько времени мы пробудем в ...?
+<сit type="example"><text>under oppholdet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во время пребывания</text></cit></cit>
+<сit type="example"><text>hvor langt opphold er det i ...?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сколько времени мы пробудем в ...?</text></cit></cit>
 </sense>
 <sense>
 остановка, перерыв
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten opphold — непрерывно, без передышки
+<сit type="example"><text>uten opphold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непрерывно, без передышки</text></cit></cit>
 </sense>
 <sense>
 сухая погода, погода без осадков

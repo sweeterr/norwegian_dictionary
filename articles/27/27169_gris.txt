@@ -8,12 +8,12 @@
 </form>
 <sense>
 поросёнок
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste gris — опороситься
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi grisen flesk — <lbl>посл.</lbl> в лес дров не возят, в колодец воды не льют
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ta) hele grisen — взять всё себе
-<div style="margin-left:5px"><strong><p><span class="dic_example">en fet gris — <lbl>разг.</lbl> «жирный кусочек»
-<div style="margin-left:5px"><strong><p><span class="dic_example">det likner ikke grisen — это ни на что не похоже
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er bare til å gi grisen — это ломаного гроша не стоит
+<сit type="example"><text>kaste gris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опороситься</text></cit></cit>
+<сit type="example"><text>gi grisen flesk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в лес дров не возят, в колодец воды не льют</text></cit></cit>
+<сit type="example"><text>få (ta) hele grisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять всё себе</text></cit></cit>
+<сit type="example"><text>en fet gris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> «жирный кусочек»</text></cit></cit>
+<сit type="example"><text>det likner ikke grisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ни на что не похоже</text></cit></cit>
+<сit type="example"><text>det er bare til å gi grisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ломаного гроша не стоит</text></cit></cit>
 </sense>
 <sense>
 свинина

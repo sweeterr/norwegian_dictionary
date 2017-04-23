@@ -8,8 +8,8 @@
 </form>
 <sense>
 руда
-<div style="margin-left:5px"><strong><p><span class="dic_example">anrike malm — обогащать руду
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte malm — добывать руду
+<сit type="example"><text>anrike malm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обогащать руду</text></cit></cit>
+<сit type="example"><text>bryte malm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добывать руду</text></cit></cit>
 </sense>
 <sense>
 чёрный металл, чугун
@@ -19,7 +19,7 @@
 </sense>
 <sense>
 ядровая древесина
-<div style="margin-left:5px"><strong><p><span class="dic_example">haner av annen malm — он человек другой породы
+<сit type="example"><text>haner av annen malm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он человек другой породы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

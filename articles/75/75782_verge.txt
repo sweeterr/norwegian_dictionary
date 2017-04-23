@@ -21,8 +21,8 @@
 </form>
 <sense>
 охрана, защита
-<div style="margin-left:5px"><strong><p><span class="dic_example">i sitt verge — на своё попечение
-<div style="margin-left:5px"><strong><p><span class="dic_example">i mitt verge — на моём попечении
+<сit type="example"><text>i sitt verge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на своё попечение</text></cit></cit>
+<сit type="example"><text>i mitt verge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на моём попечении</text></cit></cit>
 </sense>
 <sense>
 сабля, шашка
@@ -39,14 +39,14 @@
 </sense>
 <sense>
 беречь, оберегать, охранять
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge for noe — гарантировать от чего-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge for seg — отводить от себя (удар, нападение)
+<сit type="example"><text>verge for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гарантировать от чего-л.</text></cit></cit>
+<сit type="example"><text>verge for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отводить от себя (удар, нападение)</text></cit></cit>
 </sense>
 <sense>
 <u>диал.</u> пасти (скот)
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge om — защищать
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge seg — защищаться, обороняться
-<div style="margin-left:5px"><strong><p><span class="dic_example">verge seg med nebb og klør — защищаться и руками и ногами
+<сit type="example"><text>verge om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>защищать</text></cit></cit>
+<сit type="example"><text>verge seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>защищаться, обороняться</text></cit></cit>
+<сit type="example"><text>verge seg med nebb og klør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>защищаться и руками и ногами</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,8 +8,8 @@
 </form>
 <sense>
 бревно, балка
-<div style="margin-left:5px"><strong><p><span class="dic_example">som en stokk — как колода, как чурбан
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå fra stokk til vegg — идти, шатаясь во все стороны
+<сit type="example"><text>som en stokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как колода, как чурбан</text></cit></cit>
+<сit type="example"><text>gå fra stokk til vegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти, шатаясь во все стороны</text></cit></cit>
 </sense>
 <sense>
 колодки (для преступников)
@@ -22,7 +22,7 @@
 </sense>
 <sense>
 штатный состав, штат
-<div style="margin-left:5px"><strong><p><span class="dic_example">over stokk og stein — через горы и леса
+<сit type="example"><text>over stokk og stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через горы и леса</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

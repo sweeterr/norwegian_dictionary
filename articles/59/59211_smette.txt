@@ -24,13 +24,13 @@
 </form>
 <sense>
 прошмыгнуть, проскользнуть
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette forbi — проскользнуть мимо
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette fra én — ускользнуть от кого-л.
+<сit type="example"><text>smette forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проскользнуть мимо</text></cit></cit>
+<сit type="example"><text>smette fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ускользнуть от кого-л.</text></cit></cit>
 </sense>
 <sense>
 проходить через ворота (о коровах, овцах)
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette inn — (про)скользнуть куда-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette unna — ускользнуть, выскользнуть
+<сit type="example"><text>smette inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(про)скользнуть куда-л.</text></cit></cit>
+<сit type="example"><text>smette unna</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ускользнуть, выскользнуть</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -39,9 +39,9 @@
 <orth type="lemma">smette</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
 просовывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette av — скинуть, сбросить (одежду, обувь)
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette på — накинуть (одежду), быстро надеть (обувь)
-<div style="margin-left:5px"><strong><p><span class="dic_example">smette seg — спрятаться, скрыться, укрыться, избежать неприятностей
+<сit type="example"><text>smette av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скинуть, сбросить (одежду, обувь)</text></cit></cit>
+<сit type="example"><text>smette på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накинуть (одежду), быстро надеть (обувь)</text></cit></cit>
+<сit type="example"><text>smette seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрятаться, скрыться, укрыться, избежать неприятностей</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

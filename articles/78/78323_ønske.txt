@@ -8,15 +8,15 @@
 </form>
 <sense>
 желание, стремление
-<div style="margin-left:5px"><strong><p><span class="dic_example">drevet av ønsket — движимый желанием
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter mitt ønske — согласно моему желанию, по моему желанию
-<div style="margin-left:5px"><strong><p><span class="dic_example">oppfylle et ønske — выполнить желание
-<div style="margin-left:5px"><strong><p><span class="dic_example">vekke ønske om — вызвать интерес к чему-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">alt går etter ønske — всё идёт как по маслу
+<сit type="example"><text>drevet av ønsket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>движимый желанием</text></cit></cit>
+<сit type="example"><text>etter mitt ønske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласно моему желанию, по моему желанию</text></cit></cit>
+<сit type="example"><text>oppfylle et ønske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выполнить желание</text></cit></cit>
+<сit type="example"><text>vekke ønske om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызвать интерес к чему-л.</text></cit></cit>
+<сit type="example"><text>alt går etter ønske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё идёт как по маслу</text></cit></cit>
 </sense>
 <sense>
 пожелание
-<div style="margin-left:5px"><strong><p><span class="dic_example">uttale ønske om ... — высказывать пожелание о ...
+<сit type="example"><text>uttale ønske om ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высказывать пожелание о ...</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -27,19 +27,19 @@
 </form>
 <sense>
 желать, хотеть
-<div style="margin-left:5px"><strong><p><span class="dic_example">ønske én til lykke — поздравлять (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ønske én lykke på reisen — желать кому-л. счастливого пути
-<div style="margin-left:5px"><strong><p><span class="dic_example">la(te) tilbake meget å ønske — оставлять желать многого
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg skulle (ville) ønske — я хотел бы ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">være ønsket gjest — быть желанным гостем
-<div style="margin-left:5px"><strong><p><span class="dic_example">ønske én vel møtt — обратиться к кому-л. со словами «добро пожаловать»
+<сit type="example"><text>ønske én til lykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поздравлять (кого-л.)</text></cit></cit>
+<сit type="example"><text>ønske én lykke på reisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>желать кому-л. счастливого пути</text></cit></cit>
+<сit type="example"><text>la(te) tilbake meget å ønske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять желать многого</text></cit></cit>
+<сit type="example"><text>jeg skulle (ville) ønske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я хотел бы ...</text></cit></cit>
+<сit type="example"><text>være ønsket gjest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть желанным гостем</text></cit></cit>
+<сit type="example"><text>ønske én vel møtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обратиться к кому-л. со словами «добро пожаловать»</text></cit></cit>
 </sense>
 <sense>
 пожелать
 </sense>
 <sense>
 <u>разг.</u> передавать привет
-<div style="margin-left:5px"><strong><p><span class="dic_example">ønske én dit pepperen gror — послать кого-л. к чёрту
+<сit type="example"><text>ønske én dit pepperen gror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послать кого-л. к чёрту</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

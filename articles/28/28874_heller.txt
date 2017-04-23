@@ -17,11 +17,11 @@
 <index></index>
 <form>
 <orth type="lemma">heller</orth>
- <u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp — от gjerne)</em>
+<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp — от gjerne)</em>
 </form>
 <sense>
 лучше
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo før, jo heller — чем раньше (скорее), тем лучше
+<сit type="example"><text>jo før, jo heller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чем раньше (скорее), тем лучше</text></cit></cit>
 </sense>
 <sense>
 скорее
@@ -30,9 +30,9 @@
 достаточно, довольно
 </sense>
 <sense>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> heller ikke, ikke heller — также не, тоже не
-<div style="margin-left:5px"><strong><p><span class="dic_example">han røyker ikke, og jeg ikke heller — он не курит, и я также
-<div style="margin-left:5px"><strong><p><span class="dic_example">heller enn gjerne — весьма охотно, с большим удовольствием
+<сit type="example"><text> heller ikke, ikke heller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>также не, тоже не</text></cit></cit>
+<сit type="example"><text>han røyker ikke, og jeg ikke heller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не курит, и я также</text></cit></cit>
+<сit type="example"><text>heller enn gjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весьма охотно, с большим удовольствием</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

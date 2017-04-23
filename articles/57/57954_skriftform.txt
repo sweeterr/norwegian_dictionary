@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skriftform</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i skriftform — в письменном виде
+<сit type="example"><text>i skriftform</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в письменном виде</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

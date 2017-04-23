@@ -33,8 +33,8 @@
 <orth type="lemma">A</orth>
 <u>prep</u>
 указывает на предел, верхнюю границу в количестве, числе (от) до
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre a fire år — от трёх до четырёх лет
-<div style="margin-left:5px"><strong><p><span class="dic_example">fem a seks kroner — пять-шесть крон
+<сit type="example"><text>tre a fire år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от трёх до четырёх лет</text></cit></cit>
+<сit type="example"><text>fem a seks kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять-шесть крон</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -44,8 +44,8 @@
 <u>int</u>
 выражает удивление, смятение, испуг
 а!, о!, ну!
-<div style="margin-left:5px"><strong><p><span class="dic_example">a ja da! — ах, ну конечно!
-<div style="margin-left:5px"><strong><p><span class="dic_example">a nei! — да нет же!
+<сit type="example"><text>a ja da!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах, ну конечно!</text></cit></cit>
+<сit type="example"><text>a nei!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да нет же!</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -54,7 +54,7 @@
 <orth type="lemma">A</orth>
 <u>int</u> <u>разг.</u>
 выражает раздражение, огорчение говорящего в отношении себя самого:
-<div style="margin-left:5px"><strong><p><span class="dic_example">isj a meg! — чтоб тебе пусто было! (про самого себя)
+<сit type="example"><text>isj a meg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтоб тебе пусто было! (про самого себя)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,27 +8,27 @@
 </form>
 <sense>
 речь, выступление
-<div style="margin-left:5px"><strong><p><span class="dic_example">en beåndet (fengende) tale — вдохновенная (зажигательная) речь
-<div style="margin-left:5px"><strong><p><span class="dic_example">direkte (indirekte) tale — <lbl>грам.</lbl> прямая (косвенная) речь
-<div style="margin-left:5px"><strong><p><span class="dic_example">i skrift og (i) tale — письменно и устно
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde (gjøre) en tale — произносить речь
-<div style="margin-left:5px"><strong><p><span class="dic_example">miste talens bruk — лишиться речи
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale er sølv, men taushet er gull — <lbl>посл.</lbl> слово - серебро, молчание - золото
+<сit type="example"><text>en beåndet (fengende) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдохновенная (зажигательная) речь</text></cit></cit>
+<сit type="example"><text>direkte (indirekte) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>грам.</lbl> прямая (косвенная) речь</text></cit></cit>
+<сit type="example"><text>i skrift og (i) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменно и устно</text></cit></cit>
+<сit type="example"><text>holde (gjøre) en tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>произносить речь</text></cit></cit>
+<сit type="example"><text>miste talens bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лишиться речи</text></cit></cit>
+<сit type="example"><text>tale er sølv, men taushet er gull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> слово - серебро, молчание - золото</text></cit></cit>
 </sense>
 <sense>
 разговор, беседа
-<div style="margin-left:5px"><strong><p><span class="dic_example">bringe på tale — затронуть в разговоре
+<сit type="example"><text>bringe på tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затронуть в разговоре</text></cit></cit>
 <сit type = "example"><text>få én i tale:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь возможность поговорить с кем-л.</text></cit></cit>
 <сit type = "example"><text>få én i tale:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить заговорить</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">høre tale om — слышать разговор о (чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme på tale om — разговориться о (ком, чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">være på tale — быть (служить) предметом (темой) разговора
-<div style="margin-left:5px"><strong><p><span class="dic_example">talen falt på — разговор зашёл о (чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er tale om — речь идёт о (ком, чём-л.)
+<сit type="example"><text>høre tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слышать разговор о (чём-л.)</text></cit></cit>
+<сit type="example"><text>komme på tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговориться о (ком, чём-л.)</text></cit></cit>
+<сit type="example"><text>være på tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (служить) предметом (темой) разговора</text></cit></cit>
+<сit type="example"><text>talen falt på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговор зашёл о (чём-л.)</text></cit></cit>
+<сit type="example"><text>det er tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>речь идёт о (ком, чём-л.)</text></cit></cit>
 </sense>
 <sense>
 язык, диалект
-<div style="margin-left:5px"><strong><p><span class="dic_example">norsk tale — норвежский язык, норвежская речь
+<сit type="example"><text>norsk tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский язык, норвежская речь</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -39,40 +39,40 @@
 </form>
 <sense>
 говорить
-<div style="margin-left:5px"><strong><p><span class="dic_example">alvorlig (oppriktig, ærlig) talt — серьёзно (откровенно, честно) говоря
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale flytende — говорить бегло (гладко)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale fritt — говорить свободно, без запинки
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale hardt til én — говорить в резких тонах с кем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale norsk (russisk) — говорить по-норвежски (по-русски)
-<div style="margin-left:5px"><strong><p><span class="dic_example">hva språk taler De? — <lbl>уст.</lbl> на каком языке вы говорите?
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale om — рассказывать о (чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">for ikke å tale om — не говоря уже о (ком, чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale for én (for ens sak) — говорить в пользу кого-л., замолвить словечко за кого-л.
+<сit type="example"><text>alvorlig (oppriktig, ærlig) talt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>серьёзно (откровенно, честно) говоря</text></cit></cit>
+<сit type="example"><text>tale flytende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить бегло (гладко)</text></cit></cit>
+<сit type="example"><text>tale fritt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить свободно, без запинки</text></cit></cit>
+<сit type="example"><text>tale hardt til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить в резких тонах с кем-л.</text></cit></cit>
+<сit type="example"><text>tale norsk (russisk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-норвежски (по-русски)</text></cit></cit>
+<сit type="example"><text>hva språk taler De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> на каком языке вы говорите?</text></cit></cit>
+<сit type="example"><text>tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассказывать о (чём-л.)</text></cit></cit>
+<сit type="example"><text>for ikke å tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не говоря уже о (ком, чём-л.)</text></cit></cit>
+<сit type="example"><text>tale for én (for ens sak)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить в пользу кого-л., замолвить словечко за кого-л.</text></cit></cit>
 </sense>
 <sense>
 разговаривать, беседовать (с кем-л. - med)
-<div style="margin-left:5px"><strong><p><span class="dic_example">De taler med N. — с вами говорит Н. (по телефону)
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg må tale noen ord med deg — мне нужно с тобой поговорить
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale med seg selv — разговаривать с самим собой
+<сit type="example"><text>De taler med N.</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с вами говорит Н. (по телефону)</text></cit></cit>
+<сit type="example"><text>jeg må tale noen ord med deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне нужно с тобой поговорить</text></cit></cit>
+<сit type="example"><text>tale med seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговаривать с самим собой</text></cit></cit>
 </sense>
 <sense>
 выступать с речью, произносить речь
 <div style="margin-left:5px"><strong><p><span class="dic_example">tale godt for seg :
 <сit type = "example"><text>tale godt for seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть хорошим оратором, обладать красноречием</text></cit></cit>
 <сit type = "example"><text>tale godt for seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> говорить само за себя (о чём-л.)</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale mot én — выступать против кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale til ens unnskyldning — выступать в оправдание (в защиту) кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale ved graven — произносить надгробную речь
+<сit type="example"><text>tale mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать против кого-л.</text></cit></cit>
+<сit type="example"><text>tale til ens unnskyldning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать в оправдание (в защиту) кого-л.</text></cit></cit>
+<сit type="example"><text>tale ved graven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>произносить надгробную речь</text></cit></cit>
 </sense>
 <sense>
 <u>церк.</u> проповедовать, говорить проповедь
 <div style="margin-left:5px"><strong><p><span class="dic_example">tale bort :
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale bort i været — говорить впустую (на ветер)
+<сit type="example"><text>tale bort i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить впустую (на ветер)</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">tale fram :
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale fram og tilbake — тщательно обсуждать
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale noe over — обсуждать что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale ut — высказываться
-<div style="margin-left:5px"><strong><p><span class="dic_example">tale ut av — выявляться, явствовать
+<сit type="example"><text>tale fram og tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тщательно обсуждать</text></cit></cit>
+<сit type="example"><text>tale noe over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обсуждать что-л.</text></cit></cit>
+<сit type="example"><text>tale ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высказываться</text></cit></cit>
+<сit type="example"><text>tale ut av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выявляться, явствовать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

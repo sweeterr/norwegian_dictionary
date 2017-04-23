@@ -6,7 +6,7 @@
 <orth type="lemma">dette</orth>
 <em><span class="dic_color"><span class="dic_comment">datt, dettet</em>
 <u>разг.</u> падать, шлёпаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">dette ned — упасть
+<сit type="example"><text>dette ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,9 +15,9 @@
 <orth type="lemma">dette</orth>
 <u>pron</u>
 <u><span class="dic_color"><span class="dic_comment">см.</u> <a href="http://norwegian_russian.academic.ru/14362/denne">denne</a>
-<div style="margin-left:5px"><strong><p><span class="dic_example">dette er en gutt (en pike, et hus) — это мальчик (девочка, дом)
-<div style="margin-left:5px"><strong><p><span class="dic_example">dette er Oslo — говорит Осло (формула начала радиопередачи)
-<div style="margin-left:5px"><strong><p><span class="dic_example">dette og hint — и то и сё
+<сit type="example"><text>dette er en gutt (en pike, et hus)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это мальчик (девочка, дом)</text></cit></cit>
+<сit type="example"><text>dette er Oslo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорит Осло (формула начала радиопередачи)</text></cit></cit>
+<сit type="example"><text>dette og hint</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и то и сё</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

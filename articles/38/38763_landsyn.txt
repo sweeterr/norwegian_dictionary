@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">landsyn</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha (få) landsyn — <lbl>мор.</lbl> видеть (увидеть) землю с корабля
+<сit type="example"><text>ha (få) landsyn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> видеть (увидеть) землю с корабля</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,7 +8,7 @@
 </form>
 <sense>
 воротник, воротничок
-<div style="margin-left:5px"><strong><p><span class="dic_example">bløt (stiv, løs, fast) snipp — мягкий (крахмальный, пристежной, пришивной) воротничок
+<сit type="example"><text>bløt (stiv, løs, fast) snipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий (крахмальный, пристежной, пришивной) воротничок</text></cit></cit>
 </sense>
 <sense>
 конец, кончик
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">snipp</orth>
 <u>int</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">snipp, snapp, snute, så er eventyret ute — вот и сказке конец
+<сit type="example"><text>snipp, snapp, snute, så er eventyret ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот и сказке конец</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

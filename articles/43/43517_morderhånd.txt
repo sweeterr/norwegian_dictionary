@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">morderhånd</orth>
 <em><span class="dic_color"><span class="dic_comment">-hånda (-hånden), -hender</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">dø av (for) morderhåndhånd — умереть от руки убийцы
-<div style="margin-left:5px"><strong><p><span class="dic_example">falle for morderhåndhånd — пасть от руки убийцы
+<сit type="example"><text>dø av (for) morderhåndhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>умереть от руки убийцы</text></cit></cit>
+<сit type="example"><text>falle for morderhåndhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пасть от руки убийцы</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

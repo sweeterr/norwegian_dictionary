@@ -12,8 +12,8 @@
 <form>
 <orth type="lemma">våre</orth>
 <em><span class="dic_color"><span class="dic_comment">-te, -t</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det våres — весна идёт, наступает весна
-<div style="margin-left:5px"><strong><p><span class="dic_example">trærne våres — деревья покрываются листвой
+<сit type="example"><text>det våres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весна идёт, наступает весна</text></cit></cit>
+<сit type="example"><text>trærne våres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>деревья покрываются листвой</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

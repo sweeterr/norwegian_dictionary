@@ -8,9 +8,9 @@
 </form>
 <sense>
 поворот
-<div style="margin-left:5px"><strong><p><span class="dic_example">halv vending — поворот на 180°
-<div style="margin-left:5px"><strong><p><span class="dic_example">hel vending — поворот на 360°
-<div style="margin-left:5px"><strong><p><span class="dic_example">vending på stedet — <lbl>воен.</lbl> поворот на месте
+<сit type="example"><text>halv vending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поворот на 180°</text></cit></cit>
+<сit type="example"><text>hel vending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поворот на 360°</text></cit></cit>
+<сit type="example"><text>vending på stedet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> поворот на месте</text></cit></cit>
 </sense>
 <sense>
 поездка, короткий рейс
@@ -20,14 +20,14 @@
 </sense>
 <sense>
 течение (событий, болезни)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta en annen (farlig, lykkelig) vending — принять другой (опасный, счастливый) оборот
+<сit type="example"><text>ta en annen (farlig, lykkelig) vending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять другой (опасный, счастливый) оборот</text></cit></cit>
 </sense>
 <sense>
 <u>лингв.</u> выражение, оборот речи
-<div style="margin-left:5px"><strong><p><span class="dic_example">en stående vending — устойчивое словосочетание, поговорка
-<div style="margin-left:5px"><strong><p><span class="dic_example">fort (kvikk, lett, rask) i vendingen — лёгок на подъём
-<div style="margin-left:5px"><strong><p><span class="dic_example">i en snever vending — в тяжелую минуту, в трудном положении
-<div style="margin-left:5px"><strong><p><span class="dic_example">se(i)n (seig, tung) i vendingen — медлительный
+<сit type="example"><text>en stående vending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устойчивое словосочетание, поговорка</text></cit></cit>
+<сit type="example"><text>fort (kvikk, lett, rask) i vendingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгок на подъём</text></cit></cit>
+<сit type="example"><text>i en snever vending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тяжелую минуту, в трудном положении</text></cit></cit>
+<сit type="example"><text>se(i)n (seig, tung) i vendingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>медлительный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

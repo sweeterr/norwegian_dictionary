@@ -17,8 +17,8 @@
 </sense>
 <sense>
 ровня, пара, подобие
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans make fin(ne)s ikke — ему подобных нет на свете
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg har aldri sett maken — я никогда не видел ничего подобного
+<сit type="example"><text>hans make fin(ne)s ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему подобных нет на свете</text></cit></cit>
+<сit type="example"><text>jeg har aldri sett maken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я никогда не видел ничего подобного</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,7 @@
 <form>
 <orth type="lemma">make</orth>
 <u>adj</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">være make — быть парой (к чему-л.)
+<сit type="example"><text>være make</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть парой (к чему-л.)</text></cit></cit>
 </sense>
 </entry>
 <entry>

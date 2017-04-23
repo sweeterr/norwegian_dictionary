@@ -6,7 +6,7 @@
 <orth type="lemma">frampå</orth>
 <u>adv</u>
 вперёд, впереди
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde seg frampå — быть на виду (в первых рядах)
+<сit type="example"><text>holde seg frampå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на виду (в первых рядах)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,12 +17,12 @@
 </form>
 <sense>
 в пространственном значении указывает на продвижение по какой-л. плоскости, на
-<div style="margin-left:5px"><strong><p><span class="dic_example">frampå taket — на крыше
+<сit type="example"><text>frampå taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на крыше</text></cit></cit>
 </sense>
 <sense>
 во временном значении указывает на отрезок времени внутри какого-л. периода, к или переводится описательно:
-<div style="margin-left:5px"><strong><p><span class="dic_example">det led frampå morgenen — уже наступало утро
-<div style="margin-left:5px"><strong><p><span class="dic_example">frampå dagen — во второй половине дня, после обеда
+<сit type="example"><text>det led frampå morgenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уже наступало утро</text></cit></cit>
+<сit type="example"><text>frampå dagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во второй половине дня, после обеда</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

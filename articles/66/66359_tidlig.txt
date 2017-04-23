@@ -4,7 +4,6 @@
 <index></index>
 <form>
 <orth type="lemma">tidlig</orth>
-
 <em><span class="dic_color"><span class="dic_comment">|'ti:li|</em>
 <u>adj</u>
 </form>
@@ -30,12 +29,12 @@
 </form>
 <sense>
 рано
-<div style="margin-left:5px"><strong><p><span class="dic_example">fortidlig — слишком рано
-<div style="margin-left:5px"><strong><p><span class="dic_example">i dag tidlig — сегодня рано утром
-<div style="margin-left:5px"><strong><p><span class="dic_example">i morgen tidlig — завтра спозаранку
-<div style="margin-left:5px"><strong><p><span class="dic_example">tidlig i måneden — в начале месяца
-<div style="margin-left:5px"><strong><p><span class="dic_example">tidlig på sommeren — в начале лета
-<div style="margin-left:5px"><strong><p><span class="dic_example">tidlig års — в начале года
+<сit type="example"><text>fortidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слишком рано</text></cit></cit>
+<сit type="example"><text>i dag tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня рано утром</text></cit></cit>
+<сit type="example"><text>i morgen tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтра спозаранку</text></cit></cit>
+<сit type="example"><text>tidlig i måneden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в начале месяца</text></cit></cit>
+<сit type="example"><text>tidlig på sommeren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в начале лета</text></cit></cit>
+<сit type="example"><text>tidlig års</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в начале года</text></cit></cit>
 </sense>
 <sense>
 раньше, прежде

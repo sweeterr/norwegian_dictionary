@@ -8,10 +8,10 @@
 </form>
 <sense>
 шов
-<div style="margin-left:5px"><strong><p><span class="dic_example">fransk søm — французский шов
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå opp i sømmen — разойтись по шву
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå (noen, noe) etter i sømmene — тщательно (придирчиво) осматривать что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">sprette opp en søm — распороть шов
+<сit type="example"><text>fransk søm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>французский шов</text></cit></cit>
+<сit type="example"><text>gå opp i sømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разойтись по шву</text></cit></cit>
+<сit type="example"><text>gå (noen, noe) etter i sømmene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тщательно (придирчиво) осматривать что-л.</text></cit></cit>
+<сit type="example"><text>sprette opp en søm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распороть шов</text></cit></cit>
 </sense>
 <sense>
 кайма, рубец
@@ -35,7 +35,7 @@
 <orth type="lemma">søm</orth>
 <em><span class="dic_color"><span class="dic_comment">-met (-men), = (-mer)</em>
 гвоздь (с большой шляпкой)
-<div style="margin-left:5px"><strong><p><span class="dic_example">stille sømmet på hodet — <lbl>перен.</lbl> поставить что-л. с ног на голову
+<сit type="example"><text>stille sømmet på hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> поставить что-л. с ног на голову</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,13 +8,13 @@
 </form>
 <sense>
 аренда, наём
-<div style="margin-left:5px"><strong><p><span class="dic_example">bo til leie — снимать комнату для жилья
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha til leie — сдавать внаём
-<div style="margin-left:5px"><strong><p><span class="dic_example">være til leie — сдаваться внаём
+<сit type="example"><text>bo til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать комнату для жилья</text></cit></cit>
+<сit type="example"><text>ha til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём</text></cit></cit>
+<сit type="example"><text>være til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдаваться внаём</text></cit></cit>
 </sense>
 <sense>
 арендная плата (за снимаемое помещение)
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge på leien — повысить плату за снимаемое помещение
+<сit type="example"><text>legge på leien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повысить плату за снимаемое помещение</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +45,7 @@
 <orth type="lemma">leie</orth>
 <em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
 вести
-<div style="margin-left:5px"><strong><p><span class="dic_example">leie ved (i) hånden — вести за руку
+<сit type="example"><text>leie ved (i) hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести за руку</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -71,7 +71,7 @@
 </sense>
 <sense>
 нанимать (на работу)
-<div style="margin-left:5px"><strong><p><span class="dic_example">leie bort (ut) — сдавать внаём
+<сit type="example"><text>leie bort (ut)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

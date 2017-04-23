@@ -16,16 +16,16 @@
 </form>
 <sense>
 число, цифра
-<div style="margin-left:5px"><strong><p><span class="dic_example">benevnt tall — именованное число
-<div style="margin-left:5px"><strong><p><span class="dic_example">blandet tall — смешанное число
-<div style="margin-left:5px"><strong><p><span class="dic_example">brudne tall — <lbl>уст.</lbl> дробные числа, дроби
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele tall — целое число
-<div style="margin-left:5px"><strong><p><span class="dic_example">imaginert tall — мнимое число
-<div style="margin-left:5px"><strong><p><span class="dic_example">like tall — чётное число
-<div style="margin-left:5px"><strong><p><span class="dic_example">et rundt tall — круглое число
-<div style="margin-left:5px"><strong><p><span class="dic_example">sammensatt tall — сложное число
-<div style="margin-left:5px"><strong><p><span class="dic_example">ulike (odde) tall — нечётное число
-<div style="margin-left:5px"><strong><p><span class="dic_example">ærefryktinngytende tall — баснословная (устрашающая) цифра
+<сit type="example"><text>benevnt tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>именованное число</text></cit></cit>
+<сit type="example"><text>blandet tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смешанное число</text></cit></cit>
+<сit type="example"><text>brudne tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> дробные числа, дроби</text></cit></cit>
+<сit type="example"><text>hele tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целое число</text></cit></cit>
+<сit type="example"><text>imaginert tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мнимое число</text></cit></cit>
+<сit type="example"><text>like tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чётное число</text></cit></cit>
+<сit type="example"><text>et rundt tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>круглое число</text></cit></cit>
+<сit type="example"><text>sammensatt tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложное число</text></cit></cit>
+<сit type="example"><text>ulike (odde) tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечётное число</text></cit></cit>
+<сit type="example"><text>ærefryktinngytende tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баснословная (устрашающая) цифра</text></cit></cit>
 </sense>
 <sense>
 <u>грам.</u> число

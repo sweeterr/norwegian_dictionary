@@ -8,14 +8,14 @@
 </form>
 <sense>
 камень, камешек, булыжник
-<div style="margin-left:5px"><strong><p><span class="dic_example">litografisk stein — литографский камень
-<div style="margin-left:5px"><strong><p><span class="dic_example">edle (ekte) steiner — драгоценные камни
-<div style="margin-left:5px"><strong><p><span class="dic_example">bryte stein — добывать (ломать) камень
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå til bunns (synke) som en stein — пойти ко дну камнем
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke la(de) stein på stein — не оставить камня на камне
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste den første stein — <lbl>перен.</lbl> первому бросить обвинение кому-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">sove som en stein — спать как убитый
-<div style="margin-left:5px"><strong><p><span class="dic_example">det falt en stein fra mitt bryst — у меня словно гора упала с плеч
+<сit type="example"><text>litografisk stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>литографский камень</text></cit></cit>
+<сit type="example"><text>edle (ekte) steiner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>драгоценные камни</text></cit></cit>
+<сit type="example"><text>bryte stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добывать (ломать) камень</text></cit></cit>
+<сit type="example"><text>gå til bunns (synke) som en stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойти ко дну камнем</text></cit></cit>
+<сit type="example"><text>ikke la(de) stein på stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не оставить камня на камне</text></cit></cit>
+<сit type="example"><text>kaste den første stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> первому бросить обвинение кому-л.</text></cit></cit>
+<сit type="example"><text>sove som en stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спать как убитый</text></cit></cit>
+<сit type="example"><text>det falt en stein fra mitt bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня словно гора упала с плеч</text></cit></cit>
 </sense>
 <sense>
 риф, подводный камень
@@ -33,7 +33,7 @@
 <orth type="lemma">stein</orth>
 <u>adv</u>
 совершенно, абсолютно
-<div style="margin-left:5px"><strong><p><span class="dic_example">stein død — без всяких признаков жизни
+<сit type="example"><text>stein død</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всяких признаков жизни</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

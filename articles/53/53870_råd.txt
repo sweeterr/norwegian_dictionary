@@ -6,10 +6,10 @@
 <orth type="lemma">råd</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 совет, указание
-<div style="margin-left:5px"><strong><p><span class="dic_example">etter hans råd — по его совету
-<div style="margin-left:5px"><strong><p><span class="dic_example">be om råd — просить совета
-<div style="margin-left:5px"><strong><p><span class="dic_example">følge ens råd — следовать совету (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">spørre til råds — спрашивать совета, советоваться
+<сit type="example"><text>etter hans råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по его совету</text></cit></cit>
+<сit type="example"><text>be om råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просить совета</text></cit></cit>
+<сit type="example"><text>følge ens råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следовать совету (кого-л.)</text></cit></cit>
+<сit type="example"><text>spørre til råds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрашивать совета, советоваться</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -20,12 +20,12 @@
 </form>
 <sense>
 совет (коллегиальный орган)
-<div style="margin-left:5px"><strong><p><span class="dic_example">folkets råd — парламент
+<сit type="example"><text>folkets råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>парламент</text></cit></cit>
 </sense>
 <sense>
 совет, совещание
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte i rådet — быть членом совета
-<div style="margin-left:5px"><strong><p><span class="dic_example">holde råd om — держать совет, совещаться (о чём-л.)
+<сit type="example"><text>sitte i rådet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть членом совета</text></cit></cit>
+<сit type="example"><text>holde råd om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать совет, совещаться (о чём-л.)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -44,16 +44,16 @@
 </form>
 <sense>
 выход (из затруднительного положения)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke vite sin (sitt) arme råd — не знать что делать, не видеть выхода
+<сit type="example"><text>ikke vite sin (sitt) arme råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не знать что делать, не видеть выхода</text></cit></cit>
 </sense>
 <sense>
 средство, путь (решения чего-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">kommer tid kommer råd — утро вечера мудренее
+<сit type="example"><text>kommer tid kommer råd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утро вечера мудренее</text></cit></cit>
 </sense>
 <sense>
 материальная возможность (сделать что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha god råd på noe — быть хорошо обеспеченным чем-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha råd til — иметь возможность (сделать что-л.)
+<сit type="example"><text>ha god råd på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть хорошо обеспеченным чем-л.</text></cit></cit>
+<сit type="example"><text>ha råd til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь возможность (сделать что-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

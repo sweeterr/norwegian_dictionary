@@ -6,8 +6,8 @@
 <orth type="lemma">maske</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 петля (в вязании)
-<div style="margin-left:5px"><strong><p><span class="dic_example">miste (slippe) en maske av pinnen — спустить петлю
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta opp en maske — поднять петлю
+<сit type="example"><text>miste (slippe) en maske av pinnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить петлю</text></cit></cit>
+<сit type="example"><text>ta opp en maske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять петлю</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -16,9 +16,9 @@
 <orth type="lemma">maske</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 маска <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">kaste masken — сбросить маску
-<div style="margin-left:5px"><strong><p><span class="dic_example">la masken falle — сбросить с себя маску
-<div style="margin-left:5px"><strong><p><span class="dic_example">han ga meg en i masken — <lbl>груб.</lbl> он дал мне по физиономии
+<сit type="example"><text>kaste masken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбросить маску</text></cit></cit>
+<сit type="example"><text>la masken falle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбросить с себя маску</text></cit></cit>
+<сit type="example"><text>han ga meg en i masken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>груб.</lbl> он дал мне по физиономии</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">maske</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">maske én av — сорвать маску с кого-л.
+<сit type="example"><text>maske én av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сорвать маску с кого-л.</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

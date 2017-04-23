@@ -8,8 +8,8 @@
 </form>
 <sense>
 летосчисление
-<div style="margin-left:5px"><strong><p><span class="dic_example">arabisk tidsregning — мусульманская эра, хиджра
-<div style="margin-left:5px"><strong><p><span class="dic_example">kristen tidsregning — христианская эра
+<сit type="example"><text>arabisk tidsregning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мусульманская эра, хиджра</text></cit></cit>
+<сit type="example"><text>kristen tidsregning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>христианская эра</text></cit></cit>
 </sense>
 <sense>
 хронология

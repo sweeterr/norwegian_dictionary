@@ -6,7 +6,7 @@
 <orth type="lemma">trosse</orth>
 <em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
 трос, канат
-<div style="margin-left:5px"><strong><p><span class="dic_example">la gå en trosse — <lbl>мор.</lbl> отдать (отпустить) трос
+<сit type="example"><text>la gå en trosse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> отдать (отпустить) трос</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +23,7 @@
 </sense>
 <sense>
 не поддаваться
-<div style="margin-left:5px"><strong><p><span class="dic_example">trosse enhver beskrivelse — не поддаваться никакому описанию
+<сit type="example"><text>trosse enhver beskrivelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не поддаваться никакому описанию</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

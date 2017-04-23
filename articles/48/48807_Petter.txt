@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">Petter</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">lille Petter spillemann — <lbl>разг.</lbl> мизинец
+<сit type="example"><text>lille Petter spillemann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> мизинец</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

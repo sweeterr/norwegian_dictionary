@@ -6,13 +6,13 @@
 <orth type="lemma">annen</orth>
 <u>num</u> <em><span class="dic_color"><span class="dic_comment">(n annet, определённая ф. den andre, det andre)</em>
 второй
-<div style="margin-left:5px"><strong><p><span class="dic_example">for annen gang — вторично
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra dag til annen — изо дня в день
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra tid til annen — от времени до времени
-<div style="margin-left:5px"><strong><p><span class="dic_example">hver annen dag — через день
-<div style="margin-left:5px"><strong><p><span class="dic_example">et hotell av annen rang — гостиница второго разряда
-<div style="margin-left:5px"><strong><p><span class="dic_example">reise på annen klasse — ехать (плыть) во втором классе
-<div style="margin-left:5px"><strong><p><span class="dic_example">hans annen fedreland — его вторая родина
+<сit type="example"><text>for annen gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вторично</text></cit></cit>
+<сit type="example"><text>fra dag til annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изо дня в день</text></cit></cit>
+<сit type="example"><text>fra tid til annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от времени до времени</text></cit></cit>
+<сit type="example"><text>hver annen dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через день</text></cit></cit>
+<сit type="example"><text>et hotell av annen rang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гостиница второго разряда</text></cit></cit>
+<сit type="example"><text>reise på annen klasse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать (плыть) во втором классе</text></cit></cit>
+<сit type="example"><text>hans annen fedreland</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его вторая родина</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,10 +22,10 @@
 <u>pron</u> <em><span class="dic_color"><span class="dic_comment">(n annet, <u>pl</u> andre; определённая ф. den andre, det andre, de andre)</em>
 другой, другая (другое, другие)
 иной, иная (иное, иные)
-<div style="margin-left:5px"><strong><p><span class="dic_example">en eller annen — кто-нибудь
-<div style="margin-left:5px"><strong><p><span class="dic_example">ingen annen — никто другой
-<div style="margin-left:5px"><strong><p><span class="dic_example">som en annen — как всякий другой
-<div style="margin-left:5px"><strong><p><span class="dic_example">en annen dag — когда-нибудь, в другой раз
+<сit type="example"><text>en eller annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто-нибудь</text></cit></cit>
+<сit type="example"><text>ingen annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никто другой</text></cit></cit>
+<сit type="example"><text>som en annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как всякий другой</text></cit></cit>
+<сit type="example"><text>en annen dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>когда-нибудь, в другой раз</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

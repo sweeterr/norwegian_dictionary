@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">søkkende</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">søkkende borte — бесследно исчезнув
-<div style="margin-left:5px"><strong><p><span class="dic_example">søkkende full — совершенно полный
-<div style="margin-left:5px"><strong><p><span class="dic_example">søkkende rik — очень богатый
-<div style="margin-left:5px"><strong><p><span class="dic_example">søkkende stille — совершенно тихий
+<сit type="example"><text>søkkende borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесследно исчезнув</text></cit></cit>
+<сit type="example"><text>søkkende full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно полный</text></cit></cit>
+<сit type="example"><text>søkkende rik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень богатый</text></cit></cit>
+<сit type="example"><text>søkkende stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно тихий</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

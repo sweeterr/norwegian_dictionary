@@ -16,8 +16,8 @@
 </form>
 <sense>
 длинный
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre meter lang(t) — длиной в три метра
-<div style="margin-left:5px"><strong><p><span class="dic_example">han falt så lang han var — он упал во весь рост
+<сit type="example"><text>tre meter lang(t)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>длиной в три метра</text></cit></cit>
+<сit type="example"><text>han falt så lang han var</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он упал во весь рост</text></cit></cit>
 </sense>
 <sense>
 далёкий, большой (о расстоянии)
@@ -27,12 +27,12 @@
 </sense>
 <sense>
 долгий, длительный
-<div style="margin-left:5px"><strong><p><span class="dic_example">fem timer lang — пятичасовой
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele dagen lang — весь день
-<div style="margin-left:5px"><strong><p><span class="dic_example">hele natten lang — всю ночь
-<div style="margin-left:5px"><strong><p><span class="dic_example">noen tid lang — некоторое время
-<div style="margin-left:5px"><strong><p><span class="dic_example">tiden lang — всё время
-<div style="margin-left:5px"><strong><p><span class="dic_example">tre minutter lang — трёхминутный
+<сit type="example"><text>fem timer lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пятичасовой</text></cit></cit>
+<сit type="example"><text>hele dagen lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь день</text></cit></cit>
+<сit type="example"><text>hele natten lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всю ночь</text></cit></cit>
+<сit type="example"><text>noen tid lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>некоторое время</text></cit></cit>
+<сit type="example"><text>tiden lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё время</text></cit></cit>
+<сit type="example"><text>tre minutter lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трёхминутный</text></cit></cit>
 </sense>
 <sense>
 пространный, многословный

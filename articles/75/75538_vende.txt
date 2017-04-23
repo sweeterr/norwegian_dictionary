@@ -22,9 +22,9 @@
 </form>
 <sense>
 повёртывать, перевёртывать, переворачивать
-<div style="margin-left:5px"><strong><p><span class="dic_example">vend! — смотри на обороте!
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende i (til) noe — превращать во что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende i penger — реализовать, превратить в деньги
+<сit type="example"><text>vend!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотри на обороте!</text></cit></cit>
+<сit type="example"><text>vende i (til) noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>превращать во что-л.</text></cit></cit>
+<сit type="example"><text>vende i penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>реализовать, превратить в деньги</text></cit></cit>
 </sense>
 <sense>
 выворачивать наизнанку, перелицовывать
@@ -34,23 +34,23 @@
 </sense>
 <sense>
 развёртывать, поворачивать назад (автомашину и т. п.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende hjem (hjemover) — вернуться домой
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende tilbake — повернуть обратно
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende tilbake til noe — вернуться ещё раз (к чему-л.)
+<сit type="example"><text>vende hjem (hjemover)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться домой</text></cit></cit>
+<сit type="example"><text>vende tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть обратно</text></cit></cit>
+<сit type="example"><text>vende tilbake til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться ещё раз (к чему-л.)</text></cit></cit>
 </sense>
 <sense>
 обращать (взор, внимание на что-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende om — повернуть обратно
+<сit type="example"><text>vende om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть обратно</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">vende opp :
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende opp og ned på noe — перевернуть всё вверх дном
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende seg — повернуться, перевернуться
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende seg fra én — отвернуться от кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende seg mot én — обратиться (выступить) против кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende seg til (mot) noe — обратиться к чему-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">hvor man så vender seg hen ... — куда ни посмотришь ...
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende seg om — обернуться
-<div style="margin-left:5px"><strong><p><span class="dic_example">vende ut mot gate — выходить окнами на улицу (о доме, комнате)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det vender seg i meg — меня тошнит
+<сit type="example"><text>vende opp og ned på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перевернуть всё вверх дном</text></cit></cit>
+<сit type="example"><text>vende seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуться, перевернуться</text></cit></cit>
+<сit type="example"><text>vende seg fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвернуться от кого-л.</text></cit></cit>
+<сit type="example"><text>vende seg mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обратиться (выступить) против кого-л.</text></cit></cit>
+<сit type="example"><text>vende seg til (mot) noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обратиться к чему-л.</text></cit></cit>
+<сit type="example"><text>hvor man så vender seg hen ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куда ни посмотришь ...</text></cit></cit>
+<сit type="example"><text>vende seg om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обернуться</text></cit></cit>
+<сit type="example"><text>vende ut mot gate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить окнами на улицу (о доме, комнате)</text></cit></cit>
+<сit type="example"><text>det vender seg i meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меня тошнит</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

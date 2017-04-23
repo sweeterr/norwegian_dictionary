@@ -6,11 +6,11 @@
 <orth type="lemma">forslag</orth>
 <em><span class="dic_color"><span class="dic_comment">-et, =</em>
 предложение
-<div style="margin-left:5px"><strong><p><span class="dic_example">på ens forslag — по предложению (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">forkaste et forslag — отклонить предложение
-<div style="margin-left:5px"><strong><p><span class="dic_example">komme med et forslag (stille et forslag, framsette et forslag, framlegge et forslag) — внести предложение
-<div style="margin-left:5px"><strong><p><span class="dic_example">sende inn et forslag — представить (послать) предложение
-<div style="margin-left:5px"><strong><p><span class="dic_example">vedta et forslag — принять предложение
+<сit type="example"><text>på ens forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по предложению (кого-л.)</text></cit></cit>
+<сit type="example"><text>forkaste et forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонить предложение</text></cit></cit>
+<сit type="example"><text>komme med et forslag (stille et forslag, framsette et forslag, framlegge et forslag)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внести предложение</text></cit></cit>
+<сit type="example"><text>sende inn et forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>представить (послать) предложение</text></cit></cit>
+<сit type="example"><text>vedta et forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять предложение</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,7 @@
 <form>
 <orth type="lemma">forslag</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke noe forslag i pengene nå — никаких денег не хватает
+<сit type="example"><text>det er ikke noe forslag i pengene nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никаких денег не хватает</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

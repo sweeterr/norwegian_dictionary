@@ -6,7 +6,7 @@
 <orth type="lemma">kjeve</orth>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 левая рука (используемая вместо правой, как у левшей)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bruke kjeven — быть левшой
+<сit type="example"><text>bruke kjeven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть левшой</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 </form>
 <sense>
 челюсть
-<div style="margin-left:5px"><strong><p><span class="dic_example">slå kjeven av ledd — свернуть челюсть
+<сit type="example"><text>slå kjeven av ledd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свернуть челюсть</text></cit></cit>
 </sense>
 <sense>
 <u>разг.</u> рот, пасть, зев

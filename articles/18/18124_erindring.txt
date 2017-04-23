@@ -8,10 +8,10 @@
 </form>
 <sense>
 память, воспоминание
-<div style="margin-left:5px"><strong><p><span class="dic_example">til erindring — на память (о ком-л. - om)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bringe i erindring — напоминать (кому-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">framkalle i erindringen — вызвать воспоминания
-<div style="margin-left:5px"><strong><p><span class="dic_example">det var helt ute av min erindring — это совершенно выпало у меня из головы
+<сit type="example"><text>til erindring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на память (о ком-л. - om)</text></cit></cit>
+<сit type="example"><text>bringe i erindring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напоминать (кому-л.)</text></cit></cit>
+<сit type="example"><text>framkalle i erindringen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызвать воспоминания</text></cit></cit>
+<сit type="example"><text>det var helt ute av min erindring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это совершенно выпало у меня из головы</text></cit></cit>
 </sense>
 <sense>
 <u>pl</u> воспоминания, мемуары

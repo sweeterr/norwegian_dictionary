@@ -8,11 +8,11 @@
 </form>
 <sense>
 материя, ткань
-<div style="margin-left:5px"><strong><p><span class="dic_example">hjemmevevet tøy — домотканая материя
-<div style="margin-left:5px"><strong><p><span class="dic_example">impregnert tøy — прорезиненная ткань
-<div style="margin-left:5px"><strong><p><span class="dic_example">kipret tøy — диагональ (ткань)
-<div style="margin-left:5px"><strong><p><span class="dic_example">skotsk tøy — шотландка (клетчатая ткань)
-<div style="margin-left:5px"><strong><p><span class="dic_example">tøyet slår folder — материя мнётся
+<сit type="example"><text>hjemmevevet tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>домотканая материя</text></cit></cit>
+<сit type="example"><text>impregnert tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прорезиненная ткань</text></cit></cit>
+<сit type="example"><text>kipret tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>диагональ (ткань)</text></cit></cit>
+<сit type="example"><text>skotsk tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шотландка (клетчатая ткань)</text></cit></cit>
+<сit type="example"><text>tøyet slår folder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>материя мнётся</text></cit></cit>
 </sense>
 <sense>
 отрез (на платье, костюм)
@@ -22,17 +22,17 @@
 </sense>
 <sense>
 бельё
-<div style="margin-left:5px"><strong><p><span class="dic_example">skifte tøy — сменить бельё
-<div style="margin-left:5px"><strong><p><span class="dic_example">skylle opp tøy — полоскать бельё
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta på seg tøyet — надевать бельё
+<сit type="example"><text>skifte tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сменить бельё</text></cit></cit>
+<сit type="example"><text>skylle opp tøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полоскать бельё</text></cit></cit>
+<сit type="example"><text>ta på seg tøyet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надевать бельё</text></cit></cit>
 </sense>
 <sense>
 вещи, багаж
 </sense>
 <sense>
 упряжь
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge seg i tøyet — <lbl>перен.</lbl> впрягаться во что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i tøyet — <lbl>уст.</lbl> <lbl>перен.</lbl> тянуть лямку
+<сit type="example"><text>legge seg i tøyet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> впрягаться во что-л.</text></cit></cit>
+<сit type="example"><text>være i tøyet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> <lbl>перен.</lbl> тянуть лямку</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,14 +8,14 @@
 </form>
 <sense>
 норвежский язык
-<div style="margin-left:5px"><strong><p><span class="dic_example">på norsk — на норвежском языке, по-норвежски
-<div style="margin-left:5px"><strong><p><span class="dic_example">på god(t) norsk — на чистейшем норвежском языке
-<div style="margin-left:5px"><strong><p><span class="dic_example">lære seg norsk — учиться норвежскому языку
-<div style="margin-left:5px"><strong><p><span class="dic_example">snakker De norsk? — говорите ли вы по-норвежски?
+<сit type="example"><text>på norsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на норвежском языке, по-норвежски</text></cit></cit>
+<сit type="example"><text>på god(t) norsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на чистейшем норвежском языке</text></cit></cit>
+<сit type="example"><text>lære seg norsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учиться норвежскому языку</text></cit></cit>
+<сit type="example"><text>snakker De norsk?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорите ли вы по-норвежски?</text></cit></cit>
 </sense>
 <sense>
 норвежец
-<div style="margin-left:5px"><strong><p><span class="dic_example">hun er norsk — она норвежка
+<сit type="example"><text>hun er norsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она норвежка</text></cit></cit>
 </sense>
 <sense>
 норвежский обычай

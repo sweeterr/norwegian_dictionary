@@ -8,12 +8,12 @@
 </form>
 <sense>
 крест
-<div style="margin-left:5px"><strong><p><span class="dic_example">i kors — крест-накрест, крестом
-<div style="margin-left:5px"><strong><p><span class="dic_example">bære (ha) sitt kors — <lbl>перен.</lbl> нести свой крест
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge armene (hendene) i kors — скрестить руки
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke legge to pinner i kors — палец о палец не ударить
-<div style="margin-left:5px"><strong><p><span class="dic_example">sitte med benene i kors — сидеть нога на ногу
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta korset — <lbl>ист.</lbl> стать крестоносцем
+<сit type="example"><text>i kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крест-накрест, крестом</text></cit></cit>
+<сit type="example"><text>bære (ha) sitt kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> нести свой крест</text></cit></cit>
+<сit type="example"><text>legge armene (hendene) i kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скрестить руки</text></cit></cit>
+<сit type="example"><text>ikke legge to pinner i kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>палец о палец не ударить</text></cit></cit>
+<сit type="example"><text>sitte med benene i kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть нога на ногу</text></cit></cit>
+<сit type="example"><text>ta korset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ист.</lbl> стать крестоносцем</text></cit></cit>
 </sense>
 <sense>
 крестное знамение
@@ -23,7 +23,7 @@
 </sense>
 <sense>
 распятие
-<div style="margin-left:5px"><strong><p><span class="dic_example">det Norges Røde Kors — Норвежский Красный Крест
+<сit type="example"><text>det Norges Røde Kors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Норвежский Красный Крест</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

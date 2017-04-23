@@ -6,11 +6,11 @@
 <orth type="lemma">fire</orth>
 <u>num</u>
 четыре
-<div style="margin-left:5px"><strong><p><span class="dic_example">innenfor våre egne fire vegger — в четырёх стенах
-<div style="margin-left:5px"><strong><p><span class="dic_example">krype på alle fire — пресмыкаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">på alle fire — на четвереньках
-<div style="margin-left:5px"><strong><p><span class="dic_example">sa sikkert som to og to er fire — верно, как дважды два четыре
-<div style="margin-left:5px"><strong><p><span class="dic_example">under fire øyne — с глазу на глаз
+<сit type="example"><text>innenfor våre egne fire vegger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в четырёх стенах</text></cit></cit>
+<сit type="example"><text>krype på alle fire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пресмыкаться</text></cit></cit>
+<сit type="example"><text>på alle fire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на четвереньках</text></cit></cit>
+<сit type="example"><text>sa sikkert som to og to er fire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>верно, как дважды два четыре</text></cit></cit>
+<сit type="example"><text>under fire øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с глазу на глаз</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 </sense>
 <sense>
 <u>мор.</u> травить (концы)
-<div style="margin-left:5px"><strong><p><span class="dic_example">fire ned — спускать (на тросе, канате)
+<сit type="example"><text>fire ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать (на тросе, канате)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

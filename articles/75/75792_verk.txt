@@ -14,7 +14,7 @@
 </sense>
 <sense>
 опухоль, нарыв, гнойник
-<div style="margin-left:5px"><strong><p><span class="dic_example">det hadde satt seg verk i såret — рана распухла
+<сit type="example"><text>det hadde satt seg verk i såret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рана распухла</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -25,9 +25,9 @@
 </form>
 <sense>
 труд, работа, дело
-<div style="margin-left:5px"><strong><p><span class="dic_example">(ens) henders verk — дело рук (кого-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå i verk med — приняться за работу
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå (skride) til verket — приступить к работе
+<сit type="example"><text>(ens) henders verk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело рук (кого-л.)</text></cit></cit>
+<сit type="example"><text>gå i verk med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приняться за работу</text></cit></cit>
+<сit type="example"><text>gå (skride) til verket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приступить к работе</text></cit></cit>
 </sense>
 <sense>
 фабрика, завод
@@ -37,8 +37,8 @@
 </sense>
 <sense>
 произведение, сочинение, труд
-<div style="margin-left:5px"><strong><p><span class="dic_example">et verk i tre bind — сочинение в трёх томах
-<div style="margin-left:5px"><strong><p><span class="dic_example">samlede verker — собрание сочинений
+<сit type="example"><text>et verk i tre bind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сочинение в трёх томах</text></cit></cit>
+<сit type="example"><text>samlede verker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собрание сочинений</text></cit></cit>
 </sense>
 <sense>
 подвиг, героический поступок
@@ -48,7 +48,7 @@
 </sense>
 <sense>
 <u>воен.</u> укрепление, форт
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette (få) i verk — провести в жизнь, осуществить
+<сit type="example"><text>sette (få) i verk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провести в жизнь, осуществить</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

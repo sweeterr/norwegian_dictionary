@@ -8,13 +8,13 @@
 </form>
 <sense>
 знание, осведомлённость
-<div style="margin-left:5px"><strong><p><span class="dic_example">med (uten) mitt vitende — с (без) моего ведома
+<сit type="example"><text>med (uten) mitt vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с (без) моего ведома</text></cit></cit>
 </sense>
 <sense>
 понимание, сознание
-<div style="margin-left:5px"><strong><p><span class="dic_example">med fullt vitende — полностью осознавая
-<div style="margin-left:5px"><strong><p><span class="dic_example">med vitende og vilje — сознавая, отдавая себе отчёт (в чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">mot sitt bedre vitende — против своих убеждений
+<сit type="example"><text>med fullt vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полностью осознавая</text></cit></cit>
+<сit type="example"><text>med vitende og vilje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сознавая, отдавая себе отчёт (в чём-л.)</text></cit></cit>
+<сit type="example"><text>mot sitt bedre vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против своих убеждений</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +23,7 @@
 <orth type="lemma">vitende</orth>
 <u>adj</u>
 знающий, сведущий
-<div style="margin-left:5px"><strong><p><span class="dic_example">bli (være) vitende om — знать, быть в курсе
+<сit type="example"><text>bli (være) vitende om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать, быть в курсе</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

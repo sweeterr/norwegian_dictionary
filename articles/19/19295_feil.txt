@@ -8,17 +8,17 @@
 </form>
 <sense>
 недостаток (моральный, физический), изъян, порок
-<div style="margin-left:5px"><strong><p><span class="dic_example">jeg har en feil i hoften — у меня болит поясница (бедро)
+<сit type="example"><text>jeg har en feil i hoften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня болит поясница (бедро)</text></cit></cit>
 </sense>
 <sense>
 поломка, неисправность (механизма, машины)
 </sense>
 <sense>
 ошибка, погрешность, промах
-<div style="margin-left:5px"><strong><p><span class="dic_example">alminnelig feil — общая ошибка
-<div style="margin-left:5px"><strong><p><span class="dic_example">begå en feil — сделать (допустить) ошибку
-<div style="margin-left:5px"><strong><p><span class="dic_example">rette en feil — исправить ошибку
-<div style="margin-left:5px"><strong><p><span class="dic_example">rette på feil — исправлять ошибки
+<сit type="example"><text>alminnelig feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общая ошибка</text></cit></cit>
+<сit type="example"><text>begå en feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать (допустить) ошибку</text></cit></cit>
+<сit type="example"><text>rette en feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправить ошибку</text></cit></cit>
+<сit type="example"><text>rette på feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправлять ошибки</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -27,8 +27,8 @@
 <orth type="lemma">feil</orth>
 <u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
 ошибочный, неправильный, неверный
-<div style="margin-left:5px"><strong><p><span class="dic_example">en feil nøkkel — не тот ключ
-<div style="margin-left:5px"><strong><p><span class="dic_example">han gikk en feil vei — он пошёл не по той дороге
+<сit type="example"><text>en feil nøkkel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не тот ключ</text></cit></cit>
+<сit type="example"><text>han gikk en feil vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пошёл не по той дороге</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -37,18 +37,18 @@
 <orth type="lemma">feil</orth>
 <u>adv</u>
 неверно, неправильно, ошибочно
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå feil — заблудиться
-<div style="margin-left:5px"><strong><p><span class="dic_example">hugge feil — промахнуться, ударить мимо
-<div style="margin-left:5px"><strong><p><span class="dic_example">høre feil — ослышаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">regne feil — просчитаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">skyte feil — стрелять мимо цели, промахнуться
+<сit type="example"><text>gå feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
+<сit type="example"><text>hugge feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промахнуться, ударить мимо</text></cit></cit>
+<сit type="example"><text>høre feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослышаться</text></cit></cit>
+<сit type="example"><text>regne feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просчитаться</text></cit></cit>
+<сit type="example"><text>skyte feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять мимо цели, промахнуться</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">slå feil :
 <сit type = "example"><text>slå feil :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не удаться, сорваться</text></cit></cit>
 <сit type = "example"><text>slå feil :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> промахнуться</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta feil — ошибиться, составить себе неверное представление
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta feil av noe(n) — неправильно судить о ком, чём-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">trå feil — оступиться <lbl>тж. перен.</lbl>
-<div style="margin-left:5px"><strong><p><span class="dic_example">underrette feil — неправильно информировать (осведомлять), сообщать неверные сведения
+<сit type="example"><text>ta feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ошибиться, составить себе неверное представление</text></cit></cit>
+<сit type="example"><text>ta feil av noe(n)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неправильно судить о ком, чём-л.</text></cit></cit>
+<сit type="example"><text>trå feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оступиться <lbl>тж. перен.</lbl></text></cit></cit>
+<сit type="example"><text>underrette feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неправильно информировать (осведомлять), сообщать неверные сведения</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">føye</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example"> med føye — с полным правом, на полном основании
-<div style="margin-left:5px"><strong><p><span class="dic_example">uten føye — необоснованно
-<div style="margin-left:5px"><strong><p><span class="dic_example">alle til føye — покоряться, подчиняться
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi føye til — <lbl>уст.</lbl> дать повод (к чему-л.)
+<сit type="example"><text> med føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с полным правом, на полном основании</text></cit></cit>
+<сit type="example"><text>uten føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>необоснованно</text></cit></cit>
+<сit type="example"><text>alle til føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покоряться, подчиняться</text></cit></cit>
+<сit type="example"><text>gi føye til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> дать повод (к чему-л.)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -16,7 +16,7 @@
 <orth type="lemma">føye</orth>
 <u>adj</u>
 <u>уст.</u> малюсенький, крошечный, незначительный
-<div style="margin-left:5px"><strong><p><span class="dic_example">om føye tid (stund) — через мгновение, скоро
+<сit type="example"><text>om føye tid (stund)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через мгновение, скоро</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -30,9 +30,9 @@
 </sense>
 <sense>
 владеть (словом)
-<div style="margin-left:5px"><strong><p><span class="dic_example">føye inn — вкладывать
-<div style="margin-left:5px"><strong><p><span class="dic_example">føye sammen — складывать, соединять
-<div style="margin-left:5px"><strong><p><span class="dic_example">føye til — добавлять
+<сit type="example"><text>føye inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вкладывать</text></cit></cit>
+<сit type="example"><text>føye sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>складывать, соединять</text></cit></cit>
+<сit type="example"><text>føye til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добавлять</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

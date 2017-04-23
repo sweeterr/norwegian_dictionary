@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">fedre</orth>
 <u>pl</u> от far <strong>I
-<div style="margin-left:5px"><strong><p><span class="dic_example">byens fedre — старейшие люди города
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå til sine fedre — отправиться к праотцам, умереть
+<сit type="example"><text>byens fedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старейшие люди города</text></cit></cit>
+<сit type="example"><text>gå til sine fedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться к праотцам, умереть</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

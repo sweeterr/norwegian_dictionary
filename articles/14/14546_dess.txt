@@ -12,13 +12,13 @@
 <form>
 <orth type="lemma">dess</orth>
 <u>adv</u> тем
-<div style="margin-left:5px"><strong><p><span class="dic_example">dess bedre — тем лучше
-<div style="margin-left:5px"><strong><p><span class="dic_example">dess mer(e) (mindre) — тем больше менее
+<сit type="example"><text>dess bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем лучше</text></cit></cit>
+<сit type="example"><text>dess mer(e) (mindre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем больше менее</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">dess verre :
 <сit type = "example"><text>dess verre :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> к сожалению</text></cit></cit>
 <сit type = "example"><text>dess verre :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> тем хуже</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke dess (to) mindre — тем не менее, всё равно
-<div style="margin-left:5px"><strong><p><span class="dic_example">jo ... dess ... — чем ... тем ..., dess ... dess ... чем ... тем ...
+<сit type="example"><text>ikke dess (to) mindre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем не менее, всё равно</text></cit></cit>
+<сit type="example"><text>jo ... dess ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чем ... тем ..., dess ... dess ... чем ... тем ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

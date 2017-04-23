@@ -8,35 +8,35 @@
 </form>
 <sense>
 конец, окончание
-<div style="margin-left:5px"><strong><p><span class="dic_example">fra ende til annen — из конца в конец
-<div style="margin-left:5px"><strong><p><span class="dic_example">på alle ender — везде, повсюду
-<div style="margin-left:5px"><strong><p><span class="dic_example">det led mot enden — дело шло к концу
-<div style="margin-left:5px"><strong><p><span class="dic_example">det får ingen ende — это никогда не кончится
-<div style="margin-left:5px"><strong><p><span class="dic_example">få (ha, ta) ende — закончить(ся), окончить(ся)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre ende på — покончить (с кем, чем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gjøre ende på seg — покончить с собой
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå til ende — идти, двигаться к концу
-<div style="margin-left:5px"><strong><p><span class="dic_example">når enden er god, er allting godt — <lbl>погов.</lbl> всё хорошо, что хорошо кончается
+<сit type="example"><text>fra ende til annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из конца в конец</text></cit></cit>
+<сit type="example"><text>på alle ender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>везде, повсюду</text></cit></cit>
+<сit type="example"><text>det led mot enden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело шло к концу</text></cit></cit>
+<сit type="example"><text>det får ingen ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это никогда не кончится</text></cit></cit>
+<сit type="example"><text>få (ha, ta) ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закончить(ся), окончить(ся)</text></cit></cit>
+<сit type="example"><text>gjøre ende på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покончить (с кем, чем-л.)</text></cit></cit>
+<сit type="example"><text>gjøre ende på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покончить с собой</text></cit></cit>
+<сit type="example"><text>gå til ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти, двигаться к концу</text></cit></cit>
+<сit type="example"><text>når enden er god, er allting godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> всё хорошо, что хорошо кончается</text></cit></cit>
 </sense>
 <sense>
 край, грань
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette noe på ende — поставить на попа (на узкий край, на грань); <lbl>перен.</lbl> перевернуть вверх дном
+<сit type="example"><text>sette noe på ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить на попа (на узкий край, на грань); <lbl>перен.</lbl> перевернуть вверх дном</text></cit></cit>
 </sense>
 <sense>
 зад, задняя часть
-<div style="margin-left:5px"><strong><p><span class="dic_example">få på enden — заработать розгу
+<сit type="example"><text>få på enden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заработать розгу</text></cit></cit>
 </sense>
 <sense>
 смерть, кончина
 </sense>
 <sense>
 кончик, конец (верёвки, каната)
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi en båt en ende — <lbl>мор.</lbl> подать на судно конец
-<div style="margin-left:5px"><strong><p><span class="dic_example">spinne en ende — <lbl>мор.</lbl> <lbl>разг.</lbl> рассказывать небылицы, травить
+<сit type="example"><text>gi en båt en ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> подать на судно конец</text></cit></cit>
+<сit type="example"><text>spinne en ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> <lbl>разг.</lbl> рассказывать небылицы, травить</text></cit></cit>
 </sense>
 <sense>
 <u>уст.</u> цель, намерение
-<div style="margin-left:5px"><strong><p><span class="dic_example">til den ende — с (этой) целью
+<сit type="example"><text>til den ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с (этой) целью</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -50,7 +50,7 @@
 </sense>
 <sense>
 закончиться (чем-л. - med, i)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ende blindt — оканчиваться тупиком (об улице)
+<сit type="example"><text>ende blindt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оканчиваться тупиком (об улице)</text></cit></cit>
 </sense>
 <sense>
 оканчиваться (о словах, на что-л. - på)
@@ -65,10 +65,10 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">ende fram :
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо</text></cit></cit>
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> откровенно</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">ende ned — прямо вниз
-<div style="margin-left:5px"><strong><p><span class="dic_example">ende opp — прямо вверх
-<div style="margin-left:5px"><strong><p><span class="dic_example">ende over seg — что есть мочи
-<div style="margin-left:5px"><strong><p><span class="dic_example">ende til værs — прямо в воздух, вверх
+<сit type="example"><text>ende ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо вниз</text></cit></cit>
+<сit type="example"><text>ende opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо вверх</text></cit></cit>
+<сit type="example"><text>ende over seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что есть мочи</text></cit></cit>
+<сit type="example"><text>ende til værs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо в воздух, вверх</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

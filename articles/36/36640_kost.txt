@@ -8,7 +8,7 @@
 </form>
 <sense>
 метла, метёлка, щётка (для пола, мебели)
-<div style="margin-left:5px"><strong><p><span class="dic_example">nye koster feier best — <lbl>посл.</lbl> новая метла чисто метёт
+<сit type="example"><text>nye koster feier best</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> новая метла чисто метёт</text></cit></cit>
 </sense>
 <sense>
 кисть, кисточка
@@ -31,15 +31,15 @@
 </form>
 <sense>
 пища, стол
-<div style="margin-left:5px"><strong><p><span class="dic_example">mager kost — малопитательная еда
-<div style="margin-left:5px"><strong><p><span class="dic_example">kost og losji — полный пансион
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha full kost — жить на всём готовом (на полном иждивении)
-<div style="margin-left:5px"><strong><p><span class="dic_example">sette på small kost — плохо кормить кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">være i kost hos én — столоваться у кого-л.
+<сit type="example"><text>mager kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малопитательная еда</text></cit></cit>
+<сit type="example"><text>kost og losji</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полный пансион</text></cit></cit>
+<сit type="example"><text>ha full kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить на всём готовом (на полном иждивении)</text></cit></cit>
+<сit type="example"><text>sette på small kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо кормить кого-л.</text></cit></cit>
+<сit type="example"><text>være i kost hos én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столоваться у кого-л.</text></cit></cit>
 </sense>
 <sense>
 питание
-<div style="margin-left:5px"><strong><p><span class="dic_example">en passende kost — правильное питание
+<сit type="example"><text>en passende kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>правильное питание</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -48,7 +48,7 @@
 <orth type="lemma">kost</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
 расходы
-<div style="margin-left:5px"><strong><p><span class="dic_example">på noens kost — за чей-л. счёт
+<сit type="example"><text>på noens kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за чей-л. счёт</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -57,7 +57,7 @@
 <orth type="lemma">kost</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
 <u>диал.</u> куча, груда
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå til kost — быть выкинутым на помойку
+<сit type="example"><text>gå til kost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть выкинутым на помойку</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

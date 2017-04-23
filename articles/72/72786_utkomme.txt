@@ -8,14 +8,14 @@
 </form>
 <sense>
 доходы, материальная обеспеченность, средства к жизни
-<div style="margin-left:5px"><strong><p><span class="dic_example">et rikelig (rundelig) utkomme — хороший заработок, большие доходы
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha sitt gode (knappe) utkomme — быть хорошо (плохо) обеспеченным материально
+<сit type="example"><text>et rikelig (rundelig) utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хороший заработок, большие доходы</text></cit></cit>
+<сit type="example"><text>ha sitt gode (knappe) utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть хорошо (плохо) обеспеченным материально</text></cit></cit>
 </sense>
 <sense>
 возможность
-<div style="margin-left:5px"><strong><p><span class="dic_example">vite utkomme med — уметь обращаться с (кем, чем-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er ikke utkomme med ham (henne, dem) — невозможно иметь дело с ним (ней, ними)
-<div style="margin-left:5px"><strong><p><span class="dic_example">(her er) intet utkomme — тут (здесь) нет выхода
+<сit type="example"><text>vite utkomme med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уметь обращаться с (кем, чем-л.)</text></cit></cit>
+<сit type="example"><text>det er ikke utkomme med ham (henne, dem)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>невозможно иметь дело с ним (ней, ними)</text></cit></cit>
+<сit type="example"><text>(her er) intet utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут (здесь) нет выхода</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,7 @@
 </form>
 <sense>
 выходить из печати (об издании)
-<div style="margin-left:5px"><strong><p><span class="dic_example">utkommet hos ... — изданный (таким-то)
+<сit type="example"><text>utkommet hos ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изданный (таким-то)</text></cit></cit>
 </sense>
 <sense>
 появляться

@@ -14,7 +14,7 @@
 </sense>
 <sense>
 <u>разг.</u> бестия, скотина
-<div style="margin-left:5px"><strong><p><span class="dic_example">ditt best! — ах ты скотина!
+<сit type="example"><text>ditt best!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах ты скотина!</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -44,11 +44,11 @@
 </sense>
 <sense>
 перед прилагательными:
-<div style="margin-left:5px"><strong><p><span class="dic_example">den best mulige — самый возможный
+<сit type="example"><text>den best mulige</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самый возможный</text></cit></cit>
 </sense>
 <sense>
 дорогой (в обращениях)
-<div style="margin-left:5px"><strong><p><span class="dic_example">(min) beste fru Hansen! — дорогая госпожа Хансен!
+<сit type="example"><text>(min) beste fru Hansen!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дорогая госпожа Хансен!</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -69,7 +69,7 @@
 </sense>
 <sense>
 с глаголами указывает на развитие действия:
-<div style="margin-left:5px"><strong><p><span class="dic_example">være best i gang — быть в полном разгаре
+<сit type="example"><text>være best i gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в полном разгаре</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -77,7 +77,7 @@
 <form>
 <orth type="lemma">best</orth>
 <u>konj</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">best som, best så — как раз когда
+<сit type="example"><text>best som, best så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как раз когда</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">table d'hote</orth>
 <em><span class="dic_color"><span class="dic_comment">|tabl'do:t|</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">spise table d'hote — заказывать еду по общему меню (в ресторане, в отличие от порционного)
+<сit type="example"><text>spise table d'hote</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заказывать еду по общему меню (в ресторане, в отличие от порционного)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

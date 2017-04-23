@@ -8,21 +8,21 @@
 </form>
 <sense>
 личность, человек, особа, персона
-<div style="margin-left:5px"><strong><p><span class="dic_example">en enslig person — одинокий человек
-<div style="margin-left:5px"><strong><p><span class="dic_example">en høytstående person — высокопоставленное лицо
-<div style="margin-left:5px"><strong><p><span class="dic_example">offentlig person — общественный деятель
-<div style="margin-left:5px"><strong><p><span class="dic_example">private personer — частные лица
-<div style="margin-left:5px"><strong><p><span class="dic_example">voksne personer — взрослые
-<div style="margin-left:5px"><strong><p><span class="dic_example">i egen person — собственной персоной
-<div style="margin-left:5px"><strong><p><span class="dic_example">min person — я лично
+<сit type="example"><text>en enslig person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одинокий человек</text></cit></cit>
+<сit type="example"><text>en høytstående person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокопоставленное лицо</text></cit></cit>
+<сit type="example"><text>offentlig person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественный деятель</text></cit></cit>
+<сit type="example"><text>private personer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>частные лица</text></cit></cit>
+<сit type="example"><text>voksne personer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взрослые</text></cit></cit>
+<сit type="example"><text>i egen person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собственной персоной</text></cit></cit>
+<сit type="example"><text>min person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я лично</text></cit></cit>
 </sense>
 <sense>
 внешность, внешний вид человека
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjenne én av person — знать кого-л. по внешнему виду
+<сit type="example"><text>kjenne én av person</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать кого-л. по внешнему виду</text></cit></cit>
 </sense>
 <sense>
 персонаж, действующее лицо
-<div style="margin-left:5px"><strong><p><span class="dic_example">de handlende personer — <lbl>театр.</lbl> действующие лица
+<сit type="example"><text>de handlende personer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>театр.</lbl> действующие лица</text></cit></cit>
 </sense>
 <sense>
 <u>презр.</u> субъект, тип

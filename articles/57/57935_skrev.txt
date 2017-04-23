@@ -8,11 +8,11 @@
 </form>
 <sense>
 шаг (как мера длины)
-<div style="margin-left:5px"><strong><p><span class="dic_example">ta lange skrev — идти большими шагами
+<сit type="example"><text>ta lange skrev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти большими шагами</text></cit></cit>
 </sense>
 <sense>
 <u>анат.</u> промежность
-<div style="margin-left:5px"><strong><p><span class="dic_example">til skrevet — по пояс
+<сit type="example"><text>til skrevet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по пояс</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">skrev</orth>
 <em><span class="dic_color"><span class="dic_comment">-et</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå over skrevet (over skrevs) — зайти слишком далеко, перейти все границы, слишком много себе позволить
+<сit type="example"><text>gå over skrevet (over skrevs)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зайти слишком далеко, перейти все границы, слишком много себе позволить</text></cit></cit>
 </sense>
 </entry>
 <entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">familiekrets</orth>
 семейный круг
-<div style="margin-left:5px"><strong><p><span class="dic_example">i sin familiekrets — в семейном кругу
+<сit type="example"><text>i sin familiekrets</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в семейном кругу</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

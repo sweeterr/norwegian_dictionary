@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">skrå</orth>
 <em><span class="dic_color"><span class="dic_comment">-en, -er</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">(skrær) — <lbl>уст.</lbl> картечь
+<сit type="example"><text>(skrær)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> картечь</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +29,7 @@
 </form>
 <sense>
 жевательный табак
-<div style="margin-left:5px"><strong><p><span class="dic_example">tygge skrå — жевать табак
+<сit type="example"><text>tygge skrå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жевать табак</text></cit></cit>
 </sense>
 <sense>
 жвачка табаку
@@ -70,8 +70,8 @@
 </sense>
 <sense>
 резать (кроить) вкось
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrå ned — отлого опускаться
-<div style="margin-left:5px"><strong><p><span class="dic_example">skrå opp — отлого подниматься
+<сit type="example"><text>skrå ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отлого опускаться</text></cit></cit>
+<сit type="example"><text>skrå opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отлого подниматься</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

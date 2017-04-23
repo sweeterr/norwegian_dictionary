@@ -8,7 +8,7 @@
 </form>
 <sense>
 ковёр, коврик
-<div style="margin-left:5px"><strong><p><span class="dic_example">banke tepper — выбивать ковры
+<сit type="example"><text>banke tepper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбивать ковры</text></cit></cit>
 </sense>
 <sense>
 тяжёлая скатерть
@@ -18,8 +18,8 @@
 </sense>
 <sense>
 театральный занавес
-<div style="margin-left:5px"><strong><p><span class="dic_example">teppet går opp — занавес поднимается
-<div style="margin-left:5px"><strong><p><span class="dic_example">teppet går ned (faller) — занавес опускается
+<сit type="example"><text>teppet går opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес поднимается</text></cit></cit>
+<сit type="example"><text>teppet går ned (faller)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес опускается</text></cit></cit>
 </sense>
 <sense>
 покров (снежный)

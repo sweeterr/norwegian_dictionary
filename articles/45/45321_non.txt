@@ -9,8 +9,8 @@
 </form>
 <sense>
 время около 3 часов дня
-<div style="margin-left:5px"><strong><p><span class="dic_example">over non — после 3 часов дня
-<div style="margin-left:5px"><strong><p><span class="dic_example">ved nons tid — около трёх часов дня, к трём часам дня
+<сit type="example"><text>over non</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после 3 часов дня</text></cit></cit>
+<сit type="example"><text>ved nons tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около трёх часов дня, к трём часам дня</text></cit></cit>
 </sense>
 <sense>
 обед, трапеза (около 3 часов дня)
@@ -22,7 +22,7 @@
 <orth type="lemma">non</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
 <u>разг.</u> тройка (оценка на экзамене)
-<div style="margin-left:5px"><strong><p><span class="dic_example">bestå eksamen med non — сдать экзамен на тройку
+<сit type="example"><text>bestå eksamen med non</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдать экзамен на тройку</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

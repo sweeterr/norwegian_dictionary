@@ -8,17 +8,17 @@
 </form>
 <sense>
 память, воспоминание
-<div style="margin-left:5px"><strong><p><span class="dic_example">lyse (sørgelige) minner — светлые (тяжёлые) воспоминания
-<div style="margin-left:5px"><strong><p><span class="dic_example">til minne om én — в память кого-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">bevare minnet om noe — помнить, сохранять в памяти, хранить воспоминание (о ком, чём-л.)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det rant meg i minne — мне вспомнилось
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra(ge) én noe til minne — воскрешать чьи-л. воспоминания, напоминать, заставлять кого-л. вспоминать что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">dra(ge) seg (dra(ge)s) til minne — <lbl>уст.</lbl> вспоминать
-<div style="margin-left:5px"><strong><p><span class="dic_example">gå én av minne — быть забытым, забываться
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha i friskt minne — хорошо помнить, запомнить
-<div style="margin-left:5px"><strong><p><span class="dic_example">legge seg noe på minne — запомнить что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">minnene strømmet inn over ham — воспоминания нахлынули на него
-<div style="margin-left:5px"><strong><p><span class="dic_example">aldri (ikke) i manns minne — с незапамятных времён
+<сit type="example"><text>lyse (sørgelige) minner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлые (тяжёлые) воспоминания</text></cit></cit>
+<сit type="example"><text>til minne om én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в память кого-л.</text></cit></cit>
+<сit type="example"><text>bevare minnet om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>помнить, сохранять в памяти, хранить воспоминание (о ком, чём-л.)</text></cit></cit>
+<сit type="example"><text>det rant meg i minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне вспомнилось</text></cit></cit>
+<сit type="example"><text>dra(ge) én noe til minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воскрешать чьи-л. воспоминания, напоминать, заставлять кого-л. вспоминать что-л.</text></cit></cit>
+<сit type="example"><text>dra(ge) seg (dra(ge)s) til minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> вспоминать</text></cit></cit>
+<сit type="example"><text>gå én av minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть забытым, забываться</text></cit></cit>
+<сit type="example"><text>ha i friskt minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо помнить, запомнить</text></cit></cit>
+<сit type="example"><text>legge seg noe på minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запомнить что-л.</text></cit></cit>
+<сit type="example"><text>minnene strømmet inn over ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспоминания нахлынули на него</text></cit></cit>
+<сit type="example"><text>aldri (ikke) i manns minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с незапамятных времён</text></cit></cit>
 </sense>
 <sense>
 сувенир, подарок на память
@@ -36,8 +36,8 @@
 <orth type="lemma">minne</orth>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 <u>уст.</u> согласие, соизволение
-<div style="margin-left:5px"><strong><p><span class="dic_example">gi sitt minne til — дать своё согласие на что-л.
-<div style="margin-left:5px"><strong><p><span class="dic_example">ha (få) ens minne — иметь (получить) чьё-л. согласие
+<сit type="example"><text>gi sitt minne til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать своё согласие на что-л.</text></cit></cit>
+<сit type="example"><text>ha (få) ens minne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь (получить) чьё-л. согласие</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -46,7 +46,7 @@
 <orth type="lemma">minne</orth>
 <em><span class="dic_color"><span class="dic_comment">-te (-net), -t (-net)</em>
 напоминать (o чём-л. - om, på)
-<div style="margin-left:5px"><strong><p><span class="dic_example">det er på sin plass å minne om at ... — уместно напомнить, что ...
+<сit type="example"><text>det er på sin plass å minne om at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уместно напомнить, что ...</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,6 @@
 <index></index>
 <form>
 <orth type="lemma">mindre</orth>
-
 <u>adj</u> <em><span class="dic_color"><span class="dic_comment">komp</em> от liten
 </form>
 <sense>
@@ -21,19 +20,19 @@
 <index></index>
 <form>
 <orth type="lemma">mindre</orth>
- <u>adv</u> <em><span class="dic_color"><span class="dic_comment">komp — от</em> lite <strong>III, litt
+<u>adv</u> <em><span class="dic_color"><span class="dic_comment">komp — от</em> lite <strong>III, litt
 </form>
 <sense>
 менее, меньше, в меньшем количестве, в меньшей степени
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke desto mindre — тем не менее
-<div style="margin-left:5px"><strong><p><span class="dic_example">stadig mindre — всё меньше и меньше
+<сit type="example"><text>ikke desto mindre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем не менее</text></cit></cit>
+<сit type="example"><text>stadig mindre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё меньше и меньше</text></cit></cit>
 </sense>
 <sense>
 короче (по времени)
 </sense>
 <sense>
 перед прилагательными для выражения иронического отрицания не очень-то
-<div style="margin-left:5px"><strong><p><span class="dic_example">mindre heldig — не очень-то успешный, не очень-то удачный
+<сit type="example"><text>mindre heldig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не очень-то успешный, не очень-то удачный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

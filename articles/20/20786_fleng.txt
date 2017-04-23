@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">fleng</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">i fleng — вперемешку, как попало, в беспорядке
-<div style="margin-left:5px"><strong><p><span class="dic_example">alt går i fleng — всё ползёт по швам, всё разваливается
+<сit type="example"><text>i fleng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вперемешку, как попало, в беспорядке</text></cit></cit>
+<сit type="example"><text>alt går i fleng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё ползёт по швам, всё разваливается</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

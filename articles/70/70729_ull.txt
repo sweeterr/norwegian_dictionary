@@ -8,11 +8,11 @@
 </form>
 <sense>
 шерсть, шерстяная ткань (пряжа)
-<div style="margin-left:5px"><strong><p><span class="dic_example">av ull — из шерсти, шерстяной
-<div style="margin-left:5px"><strong><p><span class="dic_example">he(i)le ull — чистая шерсть
-<div style="margin-left:5px"><strong><p><span class="dic_example">spansk ull — мериносовая шерсть
-<div style="margin-left:5px"><strong><p><span class="dic_example">blande ull og mel i samme pose — <lbl>погов.</lbl> смешивать абсолютно разные вещи (букв, смешать шерсть с мукой в одном мешке)
-<div style="margin-left:5px"><strong><p><span class="dic_example">mye skrik og lite ull — <lbl>погов.</lbl> много шуму из ничего
+<сit type="example"><text>av ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из шерсти, шерстяной</text></cit></cit>
+<сit type="example"><text>he(i)le ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистая шерсть</text></cit></cit>
+<сit type="example"><text>spansk ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мериносовая шерсть</text></cit></cit>
+<сit type="example"><text>blande ull og mel i samme pose</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> смешивать абсолютно разные вещи (букв, смешать шерсть с мукой в одном мешке)</text></cit></cit>
+<сit type="example"><text>mye skrik og lite ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> много шуму из ничего</text></cit></cit>
 </sense>
 <sense>
 руно
@@ -22,9 +22,9 @@
 </sense>
 <sense>
 серая дымка, туман
-<div style="margin-left:5px"><strong><p><span class="dic_example">ikke spinne uten ull — иметь заднюю мысль, быть себе на уме
-<div style="margin-left:5px"><strong><p><span class="dic_example">kjenne ulla — понимать что к чему; не дать себя провести
-<div style="margin-left:5px"><strong><p><span class="dic_example">være (av) samme ulla — <lbl>перен.</lbl> быть из одного теста
+<сit type="example"><text>ikke spinne uten ull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь заднюю мысль, быть себе на уме</text></cit></cit>
+<сit type="example"><text>kjenne ulla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимать что к чему; не дать себя провести</text></cit></cit>
+<сit type="example"><text>være (av) samme ulla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> быть из одного теста</text></cit></cit>
 </sense>
 </entry>
 </superEntry>
