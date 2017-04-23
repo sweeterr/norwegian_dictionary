@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">best</orth>
 <u>adj</u>
-<em><span class="dic_color"><span class="dic_comment">(superl. от god, bra <strong>I)</em>
+<gramGrp><note>superl. от god, bra I</note></gramGrp>
 </form>
 <sense>
 лучший, самый лучший, наилучший, отменный
@@ -56,7 +56,7 @@
 <form>
 <orth type="lemma">best</orth>
 <u>adv</u>
-<u>superl.</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/26717/godt">godt</a>, <a href="http://norwegian_russian.academic.ru/11306/bra">bra</a> <span class="dic_color"><span class="dic_comment">II
+<gramGrp><note>superl. от godt, bra II</note></gramGrp>
 </form>
 <sense>
 лучше всего, лучше всех

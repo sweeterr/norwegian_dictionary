@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">meg</orth>
 <em><span class="dic_color"><span class="dic_comment">|mei|</em>
-<u>pron</u> (<u>объектн. п.</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/32914/jeg">jeg</a>)
+<u>pron</u>
+<gramGrp><note>объектн. п. от jeg</note></gramGrp>
 мне, меня
 <сit type="example"><text>av meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от меня</text></cit></cit>
 <сit type="example"><text>med meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со мной</text></cit></cit>

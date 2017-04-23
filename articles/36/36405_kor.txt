@@ -33,7 +33,7 @@
 <form>
 <orth type="lemma">kor</orth>
 <u>adv</u>
-<div style="margin-left:5px"><u><strong><p><span class="dic_example">диал.</u> kor som er — как бы то ни было, во всяком случае
+<сit type="example"><text><lbl>диал.</lbl> kor som er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как бы то ни было, во всяком случае</text></cit></cit>
 см. тж. hvor, hvordan, hvorledes
 </sense>
 </entry>

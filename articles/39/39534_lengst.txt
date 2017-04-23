@@ -4,21 +4,24 @@
 <index></index>
 <form>
 <orth type="lemma">lengst</orth>
-<u>adj</u> <u>superl</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/38781/lang">lang</a> <span class="dic_color"><span class="dic_comment">II
+<u>adj</u>
+<gramGrp><note>superl от lang II</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lengst</orth>
-<u>adv</u> <u>superl</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/38878/langt">langt</a>
+<u>adv</u>
+<gramGrp><note>superl от langt</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lengst</orth>
-<u>adv</u> <u>superl</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/39527/lenge">lenge</a> <span class="dic_color"><span class="dic_comment">IV
+<u>adv</u>
+<gramGrp><note>superl от lenge IV</note></gramGrp>
 <сit type="example"><text>for lengst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>издавна</text></cit></cit>
 </sense>
 </entry>

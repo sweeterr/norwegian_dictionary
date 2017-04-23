@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">peis</orth>
 <em><span class="dic_color"><span class="dic_comment">-en</em>
-<div style="margin-left:5px"><u><strong><p><span class="dic_example">разг.</u> komme på en peis — захмелеть
+<сit type="example"><text><lbl>разг.</lbl> komme på en peis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>захмелеть</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

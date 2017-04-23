@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">givakt</orth>
 <u>inv</u>
-<div style="margin-left:5px"><u><strong><p><span class="dic_example">воен.</u> stå i givakt — стоять по команде «смирно»
+<сit type="example"><text><lbl>воен.</lbl> stå i givakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять по команде «смирно»</text></cit></cit>
 <сit type="example"><text>kommandere givakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скомандовать «смирно»</text></cit></cit>
 </sense>
 </entry>

@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">alt</orth>
 <u>pron</u>
-<u><span class="dic_color"><span class="dic_comment">см.</u> <a href="http://norwegian_russian.academic.ru/885/all">all</a>
+<ref>all</ref>
 <сit type="example"><text>alt det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё это, всё что ...</text></cit></cit>
 <сit type="example"><text>alt i hop, alt sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё целиком, всё вместе взятое</text></cit></cit>
 <сit type="example"><text>alt i alt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в целом, в сумме</text></cit></cit>
