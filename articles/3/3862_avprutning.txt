@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">avprutning</orth>
 <div style="margin-left:5px"><strong><p><span class="dic_example">uten avprutning :
-а) без сокращений, без вычетов
-б) не торгуясь (о цене)
+<сit type = "example"><text>uten avprutning :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> без сокращений, без вычетов</text></cit></cit>
+<сit type = "example"><text>uten avprutning :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не торгуясь (о цене)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

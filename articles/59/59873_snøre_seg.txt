@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">snøre seg</orth>
 <div style="margin-left:5px"><strong><p><span class="dic_example">snøre seg sammen :
-а) стягиваться (о петле)
-б) затягиваться в корсет
+<сit type = "example"><text>snøre seg sammen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стягиваться (о петле)</text></cit></cit>
+<сit type = "example"><text>snøre seg sammen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> затягиваться в корсет</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

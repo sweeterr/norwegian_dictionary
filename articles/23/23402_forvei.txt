@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">forvei</orth>
 <div style="margin-left:5px"><strong><p><span class="dic_example">i forveien :
-а) вперёд, впереди
+<сit type = "example"><text>i forveien :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вперёд, впереди</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">gå i forveien — идти вперёд (впереди)
-б) раньше, заранее, заблаговременно
+<сit type = "example"><text>i forveien :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> раньше, заранее, заблаговременно</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">året i forveien — в предшествующем году, годом раньше
 </sense>
 </entry>

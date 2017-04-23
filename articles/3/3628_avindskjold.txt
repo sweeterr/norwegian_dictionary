@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">avindskjold</orth>
-<div style="margin-left:5px"><strong><p><span class="dic_example">bære (føre) avindskjold — <u>уст.</u>
-а) сражаться (против кого-л. - mot)
-б) быть предателем (по отношению к кому-л. - mot)
+<сit type = "example"><text>bære (føre) avindskjold — <u>уст.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сражаться (против кого-л. - mot)</text></cit></cit>
+<сit type = "example"><text>bære (føre) avindskjold — <u>уст.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть предателем (по отношению к кому-л. - mot)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

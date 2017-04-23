@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">beknip</orth>
 <div style="margin-left:5px"><strong><p><span class="dic_example">komme i beknip :
-а) застрять, заклиниться
-б) попасть в затруднительное положение, попасть в переделку
+<сit type = "example"><text>komme i beknip :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застрять, заклиниться</text></cit></cit>
+<сit type = "example"><text>komme i beknip :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> попасть в затруднительное положение, попасть в переделку</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">være i beknip — быть в беде (в затруднительном положении)
 <div style="margin-left:5px"><strong><p><span class="dic_example">være i beknip for penger — испытывать материальные затруднения
 </sense>

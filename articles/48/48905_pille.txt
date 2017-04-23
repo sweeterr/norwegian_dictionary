@@ -51,11 +51,11 @@
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille ned — сбить (выстрелом, камнем)
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille opp — собирать, поднимать
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille på :
-а) дотрагиваться до чего-л.
-б) слегка критиковать, осуждать
+<сit type = "example"><text>pille på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> дотрагиваться до чего-л.</text></cit></cit>
+<сit type = "example"><text>pille på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> слегка критиковать, осуждать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille ut :
-а) отбирать, выбирать
-б) выковыривать
+<сit type = "example"><text>pille ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отбирать, выбирать</text></cit></cit>
+<сit type = "example"><text>pille ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выковыривать</text></cit></cit>
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille ut av én — выведывать (что-л.) у кого-л.
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille seg — чиститься клювом (о птицах)
 <div style="margin-left:5px"><strong><p><span class="dic_example">pille seg i nesa — <u>разг.</u> ковырять в носу
@@ -66,10 +66,8 @@
 <form>
 <orth type="lemma">pille</orth>
 <em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
-<div style="margin-left:5px"><strong><p><span class="dic_example">pille av :
-<u>разг.</u>
-а) скрыться, смыться (тж. pille bort, pille vekk)
-б) умереть
+<сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> скрыться, смыться (тж. pille bort, pille vekk)</text></cit></cit>
+<сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> умереть</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

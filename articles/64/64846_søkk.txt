@@ -21,9 +21,8 @@
 <form>
 <orth type="lemma">søkk</orth>
 <u>adv</u>
-<div style="margin-left:5px"><strong><p><span class="dic_example">søkk full — <u>разг.</u>
-а) очень полный, набитый
-б) совершенно пьяный
+<сit type = "example"><text>søkk full — <u>разг.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень полный, набитый</text></cit></cit>
+<сit type = "example"><text>søkk full — <u>разг.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно пьяный</text></cit></cit>
 </sense>
 </entry>
 </superEntry>
