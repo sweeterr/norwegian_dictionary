@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snøball</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 снежок, снежный ком
 <сit type="example"><text>kaste snøball</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в снежки</text></cit></cit>
 <сit type="example"><text>kaste snøball på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросаться снежками</text></cit></cit>

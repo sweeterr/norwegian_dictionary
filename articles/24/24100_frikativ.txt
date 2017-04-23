@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frikativ</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>фон.</u> щелевой (фрикативный) звук
 </sense>
 </entry>
@@ -12,7 +12,10 @@
 <index></index>
 <form>
 <orth type="lemma">frikativ</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em> <u>фон.</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+ <u>фон.</u>
 щелевой, фрикативный
 </sense>
 </entry>

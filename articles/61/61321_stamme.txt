@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 ствол (дерева)
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>зоол.</u> голавль
 </sense>
 </entry>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 происходить (от кого, чего-л. - fra)
 принадлежать по рождению (к кому, чему-л. - fra, тж. stamme ned)
 </sense>
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 заикаться

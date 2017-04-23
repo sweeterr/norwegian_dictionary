@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sokn</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 багор
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sokn</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-et)</em>
+<inflection><orth extent="part">-a (-et)</orth></inflection>
 <u>диал.</u> см. sogn
 </sense>
 </entry>

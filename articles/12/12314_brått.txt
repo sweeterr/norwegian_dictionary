@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brått</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 вдруг, внезапно, неожиданно, сразу
 <сit type="example"><text>ha det brått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спешить, торопиться</text></cit></cit>
 </sense>

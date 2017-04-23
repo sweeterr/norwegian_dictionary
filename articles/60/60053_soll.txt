@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">soll</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 хлеб, вымоченный в молоке
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">soll</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 толпа, скопище
 <сit type="example"><text>sanke soll på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столпиться вокруг кого-л.</text></cit></cit>
 </sense>

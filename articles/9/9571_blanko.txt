@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blanko</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>ком.</u> незаполненный
 <сit type="example"><text>in blanko</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на предъявителя</text></cit></cit>
 </sense>

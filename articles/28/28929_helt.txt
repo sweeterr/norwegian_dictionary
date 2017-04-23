@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">helt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 герой
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">helt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 целиком, полностью

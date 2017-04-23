@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ål</orth>
-<em><span class="dic_color"><span class="dic_comment">ålen, åler</em>
+<inflection><orth>ålen, åler</orth></inflection>
 угорь (рыба)
 <сit type="example"><text>glatt som en ål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скользкий как угорь</text></cit></cit>
 <сit type="example"><text>smidig som en ål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гибкий как угорь</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">ål</orth>
-<em><span class="dic_color"><span class="dic_comment">ålen</em>
+<inflection><orth>ålen</orth></inflection>
 </form>
 <sense>
 узкая тёмная полоса (вдоль спины лошади)
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">ål</orth>
-<em><span class="dic_color"><span class="dic_comment">ålen, åler</em>
+<inflection><orth>ålen, åler</orth></inflection>
 <u>диал.</u> ремень
 </sense>
 </entry>
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">ål</orth>
-<em><span class="dic_color"><span class="dic_comment">ålen, åler</em>
+<inflection><orth>ålen, åler</orth></inflection>
 <u>диал.</u> побег, росток
 </sense>
 </entry>

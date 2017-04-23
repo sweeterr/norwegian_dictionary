@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">premiere</orth>
 <phon>|premj'æ:rә|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em> <u>театр.</u> премьера
+<inflection><orth extent="part">-n, -r</orth></inflection>
+ <u>театр.</u> премьера
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">premiere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 премировать, присуждать премию
 </sense>
 </entry>

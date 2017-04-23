@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">annen</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 <inflection><orth>n annet, определённая ф. den andre, det andre</orth></inflection>
 второй
 <сit type="example"><text>for annen gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вторично</text></cit></cit>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">annen</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <inflection><orth>n annet, pl andre; определённая ф. den andre, det andre, de andre</orth></inflection>
 другой, другая (другое, другие)
 иной, иная (иное, иные)

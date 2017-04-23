@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">dros</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>редко</u> уважаемая женщина
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">dros</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> dras
+<gramGrp><tns>pret</tns><note>от dras</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

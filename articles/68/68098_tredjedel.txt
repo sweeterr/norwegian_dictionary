@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tredjedel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 третья часть, треть
 <сit type="example"><text>to tredjedeler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>две трети</text></cit></cit>
 <сit type="example"><text>to og en tredjedel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>два и одна треть</text></cit></cit>

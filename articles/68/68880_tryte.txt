@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tryte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> см. trut
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tryte</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>диал.</u> окунь
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tryte</orth>
-<em><span class="dic_color"><span class="dic_comment">trøt (traut), trytt (trutt)</em>
+<inflection><orth>trøt (traut), trytt (trutt)</orth></inflection>
 иссякнуть, кончиться
 <сit type="example"><text>det tryter ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нужды нет</text></cit></cit>
 <сit type="example"><text>tryte på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не хватать, недоставать</text></cit></cit>

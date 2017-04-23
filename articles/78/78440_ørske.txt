@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ørske</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 бред
 <сit type="example"><text>i ørske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в бреду, бессознательно</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">ørske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 бредить

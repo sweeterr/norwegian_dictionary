@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjempe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 борец, атлет
@@ -16,7 +16,7 @@
 <u>уст.</u> воитель, воин, поборник
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>бот.</u> подорожник
 </sense>
 </entry>
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjempe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> нос, носовая часть (лодки)
 </sense>
 </entry>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjempe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 сражаться, биться (оружием), драться (кулаками)

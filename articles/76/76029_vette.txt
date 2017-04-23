@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> см. vete
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n (-t), -r</em>
+<inflection><orth extent="part">-n (-t), -r</orth></inflection>
 <u>фольк.</u> домовой, водяной, ведьма
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">vette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> см. lunne I
 </sense>
 </entry>
@@ -35,7 +35,7 @@ lite vette <u>диал.</u> немножко, чуточку
 <index></index>
 <form>
 <orth type="lemma">vette</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> поднять паруса
 </sense>
 </entry>

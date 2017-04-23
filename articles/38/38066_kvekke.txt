@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvekke</orth>
-<em><span class="dic_color"><span class="dic_comment">kvakk, kvekket</em>
+<inflection><orth>kvakk, kvekket</orth></inflection>
 </form>
 <sense>
 вздрагивать, пугаться
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 квакать

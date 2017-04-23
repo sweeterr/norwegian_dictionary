@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">halse</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> ошейник
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">halse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 лаять, поднять лай

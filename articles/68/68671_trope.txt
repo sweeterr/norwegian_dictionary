@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trope</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>лит.</u> троп
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trope</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 тропик

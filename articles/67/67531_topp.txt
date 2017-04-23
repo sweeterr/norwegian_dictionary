@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">topp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 верхушка, верхняя часть
@@ -55,7 +55,7 @@
 <index></index>
 <form>
 <orth type="lemma">topp</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 <u>уст.</u> хорошо, ладно, есть
 </sense>
 </entry>

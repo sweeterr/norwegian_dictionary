@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">runde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 круговое движение, движение по кругу
@@ -30,14 +30,14 @@
 <сit type="example"><text>bokse en runde på tre minutter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трёхминутный раунд по боксу</text></cit></cit>
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> тур
+<u>шахм.</u> тур
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">runde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 округлять, делать круглым

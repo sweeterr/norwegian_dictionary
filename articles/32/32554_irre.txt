@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">irre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>поэт.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">irre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 покрываться зелёным налётом (о меди, бронзе, латуни)
 </sense>
 </entry>

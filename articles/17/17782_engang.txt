@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">engang</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 однажды, как-то раз
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">engang</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 раз, коль скоро
 </sense>
 </entry>

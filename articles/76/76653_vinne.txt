@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinne</orth>
-<em><span class="dic_color"><span class="dic_comment">vant (vann), vunnet</em>
+<inflection><orth>vant (vann), vunnet</orth></inflection>
 </form>
 <sense>
 выигрывать
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinne</orth>
-<em><span class="dic_color"><span class="dic_comment">-net (-te), -net (-t)</em>
+<inflection><orth extent="part">-net (-te), -net (-t)</orth></inflection>
 <u>диал.</u> быть занятым (работать) в сельском хозяйстве
 </sense>
 </entry>

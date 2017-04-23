@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">for</orth>
 fôr
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 фураж, корм для скота
@@ -18,7 +18,7 @@ fôr
 <index></index>
 <form>
 <orth type="lemma">for</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 футляр
@@ -34,14 +34,14 @@ fôr
 <index></index>
 <form>
 <orth type="lemma">for</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> fare II
+<gramGrp><tns>pret</tns><note>от fare II</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">for</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 впереди
@@ -56,7 +56,7 @@ fôr
 <index></index>
 <form>
 <orth type="lemma">for</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 указывает на цель, назначение, намерение, для, за, ради, с инфинитивом переводится придаточным предложением цели:
@@ -137,7 +137,7 @@ fôr
 <index></index>
 <form>
 <orth type="lemma">for</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 вводит придаточные предложения причины, так как, потому что, ибо:
 <сit type="example"><text>for om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если</text></cit></cit>
 </sense>

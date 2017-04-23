@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dabbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <ref>dape</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dabbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 идти вразвалку
 <сit type="example"><text>dabbe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослабеть</text></cit></cit>
 <сit type = "example"><text>han er dabbet av i det siste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> он сдал за последнее время</text></cit></cit>

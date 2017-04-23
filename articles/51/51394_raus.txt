@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">raus</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -22,7 +22,9 @@
 <index></index>
 <form>
 <orth type="lemma">raus</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> щедрый, обильный
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">overøvrighet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 высшее начальство
 <сit type="example"><text>geistlig overøvrighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высшие духовные власти</text></cit></cit>
 <сit type="example"><text>verdslig overøvrighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высшие гражданские власти</text></cit></cit>

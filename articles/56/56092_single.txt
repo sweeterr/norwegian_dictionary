@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>спорт.</u> одиночка (в гребле, теннисе и т. п.)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 простой
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 звякать, звенеть, дребезжать
 </sense>
 </entry>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">single</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 посыпать щебнем (гравием)
 </sense>
 </entry>

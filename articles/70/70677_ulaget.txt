@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ulaget</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 несделанный, неподготовленный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ulaget</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 не разделённый на слой
 </sense>
 </entry>

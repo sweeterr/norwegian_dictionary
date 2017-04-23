@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">sto</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a)</em>
+<inflection><orth extent="part">-et (-a)</orth></inflection>
 <u>диал.</u> табун лошадей
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">sto</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> stå II
+<gramGrp><tns>pret</tns><note>от stå II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

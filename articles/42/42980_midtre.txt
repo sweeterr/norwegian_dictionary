@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">midtre</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 средний, лежащий посредине, серединный, центральный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">midtre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> намечать середину, среднюю точку
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">labeit</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 затруднительное положение
 <сit type="example"><text>komme i labeiten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в затруднительное положение</text></cit></cit>
 <сit type="example"><text>være i labeiten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в затруднительном положении</text></cit></cit>

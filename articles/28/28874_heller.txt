@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">heller</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>(r)
+<inflection><orth extent="part">-en, -e</orth></inflection>
+(r)
 </form>
 <sense>
 каменистая пещера
@@ -17,7 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">heller</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp — от gjerne)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+<gramGrp><note>komp от gjerne</note></gramGrp>
 </form>
 <sense>
 лучше

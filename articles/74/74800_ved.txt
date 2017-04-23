@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ved</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 дрова
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">ved</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на положение одного предмета вблизи другого, у, около, возле

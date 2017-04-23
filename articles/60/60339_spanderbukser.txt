@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spanderbukser</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em>
+<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 <сit type="example"><text>ha (ta, trekke) spanderbuksene på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> расщедриться, раскошелиться</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrei</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 стая (волков), косяк (трески)
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrei</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> skride
+<gramGrp><tns>pret</tns><note>от skride</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

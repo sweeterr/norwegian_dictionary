@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nord</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 север
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">nord</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 на север, к северу, в северном направлении
 <сit type="example"><text>nord for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>севернее, к северу от</text></cit></cit>
 <сit type="example"><text>nord og ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в преисподнюю</text></cit></cit>

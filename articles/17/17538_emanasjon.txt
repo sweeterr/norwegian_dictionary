@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">emanasjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 истечение
 </sense>
 <sense>
-излучение, <u>хим.</u><span class="dic_color"><span class="dic_comment">, <u>физ.</u> эманация
+излучение, <u>хим.</u>, <u>физ.</u> эманация
 </sense>
 <sense>
 <u>филос.</u> эманация

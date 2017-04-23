@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">otte</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 рассвет, предрассветные сумерки
 <сit type="example"><text>stå opp i otta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вставать на рассвете</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">otte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> страх, ужас
 </sense>
 </entry>

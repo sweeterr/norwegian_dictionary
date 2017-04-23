@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ville</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">ville</orth>
-<em><span class="dic_color"><span class="dic_comment">pres vil, pret ville, p.p. villet</em>
+<inflection><orth>pres vil, pret ville, p.p. villet</orth></inflection>
 </form>
 <sense>
 хотеть, желать, собираться, намереваться
@@ -47,7 +47,7 @@
 <index></index>
 <form>
 <orth type="lemma">ville</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 сбить с пути, завести куда-л.
@@ -60,7 +60,7 @@
 <index></index>
 <form>
 <orth type="lemma">ville</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> ville II
+<gramGrp><tns>pret</tns><note>от ville II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 охапка (сена, соломы)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-met), -t (-met)</em>
+<inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 </form>
 <sense>
 чесать, причёсывать (волосы)

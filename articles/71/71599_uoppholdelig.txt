@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uoppholdelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 беспрестанный, непрерывный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">uoppholdelig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 немедленно, тут же, незамедлительно; безотлагательно
 </sense>
 </entry>

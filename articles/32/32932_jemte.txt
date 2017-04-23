@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">jemte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 житель провинции Емтланд
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">jemte</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type = "example"><text>jemte med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в той же степени что и, равно как и</text></cit></cit>
 <сit type = "example"><text>jemte med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вместе, заодно (с чем-л.)</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lidderlig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 распутный, безнравственный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">lidderlig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 ужасно, страшно
 </sense>
 </entry>

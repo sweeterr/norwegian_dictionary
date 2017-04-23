@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">midnatt</orth>
-<em><span class="dic_color"><span class="dic_comment">-natten (-natta), -netter</em>
+<inflection><orth extent="part">-natten (-natta), -netter</orth></inflection>
 полночь
 <сit type="example"><text>til langt over midnatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко за полночь</text></cit></cit>
 <сit type="example"><text>ved midnatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около полуночи</text></cit></cit>

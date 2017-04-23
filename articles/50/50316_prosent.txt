@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">prosent</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 процент
 <сit type="example"><text>hundre prosent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полностью, целиком</text></cit></cit>
 <сit type="example"><text>mange prosent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в большой степени</text></cit></cit>

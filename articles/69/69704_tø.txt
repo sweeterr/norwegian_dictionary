@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tø</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>уст.</u> оттепель
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tø</orth>
-<em><span class="dic_color"><span class="dic_comment">tødde, tødd</em>
+<inflection><orth>tødde, tødd</orth></inflection>
 </form>
 <sense>
 таять, оттаивать

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avspise</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>уст.</u> съесть всё, закончить еду, откушать, отобедать, отужинать
 <сit type="example"><text>avspise en med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять кого-л. пойти на уступки в его требованиях</text></cit></cit>
 <сit type="example"><text>la seg avspise med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойти на уступки, удовольствоваться меньшим</text></cit></cit>

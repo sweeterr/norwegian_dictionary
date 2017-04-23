@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">låse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 запирать на замок
 <сit type="example"><text>låse etter én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запереть дверь за кем-л.</text></cit></cit>
 <сit type="example"><text>låse seg inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запереться</text></cit></cit>

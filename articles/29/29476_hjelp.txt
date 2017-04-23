@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hjelp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 помощь, содействие
 <сit type="example"><text>første hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первая помощь</text></cit></cit>
 <сit type="example"><text>ved egen hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>своими силами</text></cit></cit>

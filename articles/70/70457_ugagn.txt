@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ugagn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 вред, ущерб
 <сit type="example"><text>gjøre ugagn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наносить вред (ущерб)</text></cit></cit>
 </sense>

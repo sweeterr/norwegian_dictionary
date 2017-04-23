@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 нагорье (покрытое оленьим мхом, мелким кустарником и т. п.)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 муха; комар, гнус, мошка и т. п.
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 самолёт
 <сit type="example"><text>rette et fly</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ав.</lbl> выравнивать самолёт</text></cit></cit>
 </sense>
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">fløy (flaug), fløyet</em>
+<inflection><orth>fløy (flaug), fløyet</orth></inflection>
 </form>
 <sense>
 лететь, летать
@@ -81,7 +81,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -95,7 +95,7 @@
 <index></index>
 <form>
 <orth type="lemma">fly</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> разбрасывать приманку для рыбы, собирать рыбу с помощью приманки
 </sense>
 </entry>

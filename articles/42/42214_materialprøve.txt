@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">materialprøve</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 испытание материалов
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">materialprøve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em> испытывать материалы
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
+ испытывать материалы
 </sense>
 </entry>
 </superEntry>

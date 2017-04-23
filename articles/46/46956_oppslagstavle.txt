@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppslagstavle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 доска объявлений
 <сit type="example"><text>bladets oppslagstavle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>газетная витрина</text></cit></cit>
 </sense>

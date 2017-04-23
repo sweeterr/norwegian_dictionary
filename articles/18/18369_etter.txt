@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">etter</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 позади
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">etter</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на местонахождение позади (после) данного предмета, за

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kar</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 мужчина, молодой человек, парень
 <сit type="example"><text>bra (grei, hyggelig) kar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хороший (расторопный, приятный) человек</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">kar</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 чан, лохань, ушат

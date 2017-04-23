@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ås</orth>
-<em><span class="dic_color"><span class="dic_comment">åsen, åser</em>
+<inflection><orth>åsen, åser</orth></inflection>
 </form>
 <sense>
 гряда холмов (обычно покрытых лесом)
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">ås</orth>
-<em><span class="dic_color"><span class="dic_comment">åsen, åser</em>
+<inflection><orth>åsen, åser</orth></inflection>
 </form>
 <sense>
 ось колеса
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">ås</orth>
-<em><span class="dic_color"><span class="dic_comment">åsen, æser</em>
+<inflection><orth>åsen, æser</orth></inflection>
 <u>миф.</u> ас (древнескандинавское божество)
 </sense>
 </entry>

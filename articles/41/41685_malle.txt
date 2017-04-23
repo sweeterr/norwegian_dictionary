@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">malle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 сом (рыба)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">malle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <ref>malje</ref>
 </sense>
 </entry>

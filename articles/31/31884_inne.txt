@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">inne</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 внутри, в (чём-л.)
 <сit type="example"><text>er fruen inne?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хозяйка дома?</text></cit></cit>
 <сit type="example"><text>der inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>там (внутри)</text></cit></cit>

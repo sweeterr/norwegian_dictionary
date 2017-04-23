@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">strøk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 местность, район
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">strøk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 поглаживание
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">strøk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> stryke
+<gramGrp><tns>pret</tns><note>от stryke</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

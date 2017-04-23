@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pris</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 цена (на что-л. - på)
 <сit type="example"><text>faste (stramme) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдые цены</text></cit></cit>
 <сit type="example"><text>høye (dyre) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокие цены</text></cit></cit>
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">pris</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 приз, премия, награда, вознаграждение
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">pris</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> добыча, улов, удача
 <сit type="example"><text>gi til pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросить на произвол судьбы</text></cit></cit>
 </sense>
@@ -51,7 +51,7 @@
 <index></index>
 <form>
 <orth type="lemma">pris</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 щепотка
 <сit type="example"><text>ta seg en pris (tobakk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять понюшку табаку</text></cit></cit>
 </sense>

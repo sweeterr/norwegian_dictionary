@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">salve</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 мазь, крем
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">salve</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 залп
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">salve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 мазать мазью (кремом)

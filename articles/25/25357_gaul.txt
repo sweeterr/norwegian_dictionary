@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gaul</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 порыв ветра
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gaul</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u> вой, рёв
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">gaul</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <ref>gagl</ref>
 </sense>
 </entry>

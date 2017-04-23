@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">len</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>ист.</u> лен, ленное владение
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">len</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> временное затишье (во время бури, шторма)
 </sense>
 </entry>
@@ -20,7 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">len</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 мягкий (о поверхности)

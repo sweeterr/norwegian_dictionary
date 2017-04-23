@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">trehundreårs</orth>
-<u>adj</u> <u>inv</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<gramGrp><pos>inv</pos></gramGrp>
 </form>
 <sense>
 трёхсотлетний

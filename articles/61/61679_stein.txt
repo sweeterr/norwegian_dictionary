@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stein</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 камень, камешек, булыжник
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">stein</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 совершенно, абсолютно
 <сit type="example"><text>stein død</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всяких признаков жизни</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">styrt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 стремительный поток, морская волна, водяной вал
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">styrt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>ав.</u> управляемый (о ракетах и т. п.)
 </sense>
 </entry>
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">styrt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>styrt fornærmet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильно оскорблённый, кровно обиженный</text></cit></cit>
 </sense>
 </entry>

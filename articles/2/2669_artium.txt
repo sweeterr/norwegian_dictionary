@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">artium</orth>
-<span class="dic_color"><span class="dic_comment">|'art∫ium|
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<phon>|'art∫ium|</phon>
+<inflection><orth extent="part">-en</orth></inflection>
 экзамен на аттестат зрелости, выпускной экзамен (в средней школе)
 <сit type="example"><text>stå (stryke) til artium</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готовиться к экзамену на аттестат зрелости</text></cit></cit>
 <сit type="example"><text>ta artium</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать экзамен на аттестат зрелости</text></cit></cit>

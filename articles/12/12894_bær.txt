@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 ягода
 <сit type="example"><text>plukke (sanke) bær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собирать ягоды</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">femte</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 пятый
 <сit type="example"><text>være det femte hjul på vognen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> быть пятой спицей в колеснице</text></cit></cit>
 </sense>

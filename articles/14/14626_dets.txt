@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">dets</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(род. п. от det I)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>род. п.</case><note>от det I</note></inflection>
 его
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nykke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 причуда, прихоть, вздорная выдумка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">nykke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-ket), -t (-ket)</em>
+<inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 рвануть, потянуть, вырвать
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringing</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 звон
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringing</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 кольцевание (птиц)
 </sense>
 </entry>

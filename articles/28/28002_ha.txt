@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ha</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 га, гектар (мера земли)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ha</orth>
-<em><span class="dic_color"><span class="dic_comment">hadde, hatt</em>
+<inflection><orth>hadde, hatt</orth></inflection>
 </form>
 <sense>
 иметь
@@ -69,7 +69,7 @@
 <form>
 <orth type="lemma">ha</orth>
 ha!
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 ах!, а-а! (выражение досады, горечи, удивления, презрения)
 <сit type="example"><text>si (svare) ja og ha</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соглашаться на что-л., ответить согласием</text></cit></cit>
 </sense>

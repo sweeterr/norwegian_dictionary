@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tralle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 ручная грузовая тележка
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tralle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 петь, напевать без слов (тж. tralle på)
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">tralle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> везти (ехать) на грузовой тележке
 </sense>
 </entry>

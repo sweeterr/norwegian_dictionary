@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringhet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 незначительность, малость
 <сit type="example"><text>min ringhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>моя ничтожная персона</text></cit></cit>
 </sense>

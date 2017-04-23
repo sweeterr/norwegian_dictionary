@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forretningsmessig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 торговый, деловой (об отношениях)
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">forretningsmessig</orth>
-<u>adv</u> с деловой точки зрения, по-деловому
+<gramGrp><pos>adv</pos></gramGrp>
+ с деловой точки зрения, по-деловому
 </sense>
 </entry>
 </superEntry>

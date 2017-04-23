@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spjåke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>разг.</u> пёстро, безвкусно одетая женщина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spjåke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 одеваться пёстро и безвкусно
 </sense>
 </entry>

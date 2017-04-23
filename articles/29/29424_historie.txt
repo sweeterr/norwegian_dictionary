@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">historie</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">тк. sg</em> история
+<u>тк. sg</u> история
 <сit type="example"><text>gå over i historien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>войти в историю</text></cit></cit>
 <сit type="example"><text>historien har bevart det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>история сохранила это</text></cit></cit>
 </sense>

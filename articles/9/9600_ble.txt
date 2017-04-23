@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ble</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">ble</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> bli
+<gramGrp><tns>pret</tns><note>от bli</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

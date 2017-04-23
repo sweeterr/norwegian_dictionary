@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smekk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 шлепок, хлопок, лёгкий удар
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">smekk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 клапан, разрез на брюках
 </sense>
 </entry>

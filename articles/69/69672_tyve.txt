@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tyve</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 двадцать
 <ref>tjue</ref>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">tyve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> стащить, стянуть, украсть
 </sense>
 </entry>

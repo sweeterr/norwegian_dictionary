@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kaffe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 кофе
 <сit type="example"><text>sterk (tynn, rå, ubrent, brent, malt) kaffe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий (жидкий, сырой, нежареный, жареный, молотый) кофе</text></cit></cit>
 <сit type="example"><text>koke kaffe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>варить кофе</text></cit></cit>

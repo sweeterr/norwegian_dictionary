@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">operasjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
-операция <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
+операция <u>в разн. знач.</u>
 <сit type="example"><text>militær operasjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>военная операция</text></cit></cit>
 <сit type="example"><text>offensiv operasjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> наступательная операция</text></cit></cit>
 <сit type="example"><text>plastiske operasjoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> пластические операции</text></cit></cit>

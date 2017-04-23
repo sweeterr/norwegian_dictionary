@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">ingen</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">f ingen (или <u>диал.</u> inga), n intet</em>
+<gramGrp><pos>pron</pos></gramGrp>
+ <inflection><orth>f ingen (или <u>диал.</u> inga), n intet</orth></inflection>
 </form>
 <sense>
 никто, ни один из

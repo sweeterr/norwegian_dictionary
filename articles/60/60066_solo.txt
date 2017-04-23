@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">solo</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 сольный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">solo</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 соло
 <сit type="example"><text>spille (synge) solo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть (петь) соло, солировать</text></cit></cit>
 </sense>

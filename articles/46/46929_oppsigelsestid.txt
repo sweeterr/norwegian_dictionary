@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppsigelsestid</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 срок отказа (от службы, договора, подписки)
 <сit type="example"><text>sette penger inn på 1 års oppsigelsestid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать срочный вклад в сберкассу (с обязательством не изымать его в течение года)</text></cit></cit>
 </sense>

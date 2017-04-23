@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">renning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 побег, отросток, отпрыск
 </sense>
 </entry>
@@ -12,8 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">renning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> основа
+<inflection><orth extent="part">-en, -er</orth></inflection>
+<u>текст.</u> основа
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 см. trø I, II
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> педаль (швейной машины, прялки)
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>диал.</u> вешала (для сушки рыбы)
 </sense>
 </entry>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 стремянка (переносная лестница)
 </sense>
 </entry>

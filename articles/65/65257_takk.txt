@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">takk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 благодарность
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">takk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 зубец, зазубрина

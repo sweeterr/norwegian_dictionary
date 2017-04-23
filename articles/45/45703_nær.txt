@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">nær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t (komp nærmere, superl nærmeste)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t (komp nærmere, superl nærmeste)</orth></inflection>
 </form>
 <sense>
 ближний, близлежащий
@@ -26,7 +28,8 @@
 <index></index>
 <form>
 <orth type="lemma">nær</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp nærmere, superl nærmest)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp nærmere, superl nærmest)</orth></inflection>
 </form>
 <sense>
 близко, поблизости, вблизи, неподалёку

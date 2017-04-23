@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ni-</orth>
-<u>pref</u>
+<gramGrp><pos>pref</pos></gramGrp>
 придаёт глаголу усилительное значение:
 <сit type="example"><text>niarbeide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>усердно трудиться</text></cit></cit>
 <сit type="example"><text>nipåstå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упрямо утверждать (что-л.), настаивать (на чём-л.)</text></cit></cit>

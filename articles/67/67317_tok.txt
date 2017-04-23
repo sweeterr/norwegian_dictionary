@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">tok</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> глупый человек, дурак
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">tok</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> ta
+<gramGrp><tns>pret</tns><note>от ta</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

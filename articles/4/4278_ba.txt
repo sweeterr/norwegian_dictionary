@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">ba</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> be
+<gramGrp><tns>pret</tns><note>от be</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ba</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 <u>уст.</u> ба! (восклицание, выражающее безразличие, беспечность)
 </sense>
 </entry>

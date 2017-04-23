@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skryte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> сухостойное дерево
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skryte</orth>
-<em><span class="dic_color"><span class="dic_comment">skrøt (skrytte), skrytt</em>
+<inflection><orth>skrøt (skrytte), skrytt</orth></inflection>
 </form>
 <sense>
 хвастаться, бахвалиться (чем-л. - av)

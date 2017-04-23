@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plump</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 всплеск, плеск
@@ -17,7 +17,9 @@
 <index></index>
 <form>
 <orth type="lemma">plump</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 массивный, тяжёлый, неповоротливый
@@ -32,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">plump</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 бултых, шлёп
 </sense>
 </entry>

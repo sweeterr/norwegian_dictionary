@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smie</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 кузница
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">smie</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-et), -dd (-et)</em>
+<inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 <ref>smi</ref>
 </sense>
 </entry>

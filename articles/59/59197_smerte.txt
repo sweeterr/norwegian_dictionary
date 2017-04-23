@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smerte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 боль
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">smerte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 болеть
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">smerte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>мор.</u> оплетать, обматывать
 </sense>
 </entry>

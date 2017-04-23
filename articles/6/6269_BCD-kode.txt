@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">BCD-kode</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>комп.</u> двоичнодесятичный код, двоично-десятичный код
 </sense>
 </entry>

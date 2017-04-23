@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rakkel</orth>
-<em><span class="dic_color"><span class="dic_comment">-kelet (-let)</em>
+<inflection><orth extent="part">-kelet (-let)</orth></inflection>
 <u>разг.</u> халтурная работа
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rakkel</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 <u>разг.</u> каланча (о высоком и тощем человеке)
 </sense>
 </entry>

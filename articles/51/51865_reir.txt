@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">reir</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 гнездо
 <сit type="example"><text>bygge reir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вить гнездо</text></cit></cit>
 <сit type="example"><text>ligge på reir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в гнезде</text></cit></cit>

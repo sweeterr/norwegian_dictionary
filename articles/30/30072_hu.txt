@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hu</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <ref>hug</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hu</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <u>диал.</u> см. hun II
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">hu</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 ух, тьфу (используется для выражения страха, боли, отвращения)
 </sense>
 </entry>

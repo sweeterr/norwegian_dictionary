@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hore</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>груб.</u> шлюха, потаскуха
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hore</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 распутничать, вести распутный образ жизни, заниматься проституцией
 </sense>
 </entry>

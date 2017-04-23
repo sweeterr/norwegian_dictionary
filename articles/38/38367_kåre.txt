@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">kåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 выбирать, избирать (на должность)
 <сit type="example"><text>folkets kårne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>члены тинга (суда, парламента)</text></cit></cit>
 <сit type="example"><text>de kårne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избранные</text></cit></cit>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">kåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 слабо дуть (о ветре)
 </sense>
 </entry>

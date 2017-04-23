@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">brånem</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 сообразительный, быстро усваивающий, схватывающий на лету (о человеке)
 </sense>
 </entry>

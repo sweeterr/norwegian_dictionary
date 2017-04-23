@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">varsel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 тюлень-сторож (в тюленьем стаде)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">varsel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elet, -ler</em>
+<inflection><orth extent="part">-elet, -ler</orth></inflection>
 </form>
 <sense>
 предупреждение

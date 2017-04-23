@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vak</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>церк.</u>
 </form>
 <sense>
@@ -25,7 +25,7 @@ ligge på vak <u>диал.</u> не спать, бодрствовать
 <index></index>
 <form>
 <orth type="lemma">vak</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -46,7 +46,9 @@ ligge på vak <u>диал.</u> не спать, бодрствовать
 <index></index>
 <form>
 <orth type="lemma">vak</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 бодрствующий, не спящий

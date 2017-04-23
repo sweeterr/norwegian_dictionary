@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gigg</orth>
 <phon>|ji:g|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 <u>мор.</u> гичка
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">gigg</orth>
 <phon>|jig:|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 джига (старинный танец)
 </sense>
 </entry>

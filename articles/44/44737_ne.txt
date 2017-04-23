@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 ущерб (луны)
 <сit type="example"><text>være i ne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ущербе (о луне)</text></cit></cit>
 <сit type="example"><text>i ny og ne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изредка, время от времени; иногда</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hogg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 удар (ножом, копьём и т. п.)
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">hogg</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> hogge
+<gramGrp><tns>pret</tns><note>от hogge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

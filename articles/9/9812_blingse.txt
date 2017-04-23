@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blingse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> косить глазами
 <сit type="example"><text>blingse til en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покоситься, бросить беглый взгляд на кого-л</text></cit></cit>
 </sense>

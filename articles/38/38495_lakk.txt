@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 лак, лаковое покрытие
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">lakk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> lekke III
+<gramGrp><tns>pret</tns><note>от lekke III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

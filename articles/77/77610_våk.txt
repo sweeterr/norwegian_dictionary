@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">våk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>зоол.</u> канюк, или сарыч
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">våk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> маленький мальчик, парнишка
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">våk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 полынья, прорубь
 </sense>
 </entry>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">våk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> бодрствующий, не спящий
 </sense>
 </entry>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">våk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> :
 </form>
 <sense>

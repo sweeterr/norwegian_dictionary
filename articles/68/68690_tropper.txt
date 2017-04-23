@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tropper</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em>
+<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 войска, воинские части
 <сit type="example"><text>fiendtlige tropper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неприятельские войска</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">makeskifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 обмен недвижимого имущества (на другое недвижимое)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">makeskifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 обменивать недвижимое имущество (на другое недвижимое имущество)
 </sense>
 </entry>

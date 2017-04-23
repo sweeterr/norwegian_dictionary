@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svarteliste</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 чёрный список
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">svarteliste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> заносить в чёрный список
 </sense>
 </entry>

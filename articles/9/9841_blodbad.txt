@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blodbad</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 резня, кровавая баня, кровопролитие
 <сit type="example"><text>anrette et stort blodbadbad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить резню</text></cit></cit>
 </sense>

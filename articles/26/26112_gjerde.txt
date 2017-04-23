@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjerde</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 забор, изгородь, ограда
 <сit type="example"><text>levende gjerde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живая изгородь</text></cit></cit>
 <сit type="example"><text>bygge (sette) gjerde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить забор (ограду)</text></cit></cit>
@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjerde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 огораживать, ставить забор (ограду)
 <сit type="example"><text>gjerde av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отгораживать</text></cit></cit>
 <сit type="example"><text>gjerde inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огораживать</text></cit></cit>

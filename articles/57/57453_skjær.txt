@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 свет, отсвет, отблеск, проблеск
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 шхеры; подводный камень <u>тж. перен.</u>
 <сit type="example"><text>et blindt skjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подводный риф, подводная скала</text></cit></cit>
 </sense>
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 порез, разрез, зарубина
@@ -56,10 +56,12 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-чистый <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+чистый <u>в разн. знач.</u>
 </sense>
 <sense>
 ясный, чёткий, безоблачный
@@ -78,7 +80,9 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 зрелый, созревший, поспевший
 </sense>
 </entry>
@@ -86,7 +90,9 @@
 <index></index>
 <form>
 <orth type="lemma">skjær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 пугливый, робкий
 </sense>
 </entry>

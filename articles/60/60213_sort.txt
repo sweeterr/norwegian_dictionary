@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sort</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 сорт, род, тип
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sort</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 чёрный цвет, чёрная краска
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">sort</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 чёрный

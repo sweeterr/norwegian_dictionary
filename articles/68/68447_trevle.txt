@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trevle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 растеребить, размочалить на волоконца, растрепать на нитки (верёвку)
 <сit type="example"><text>trevle seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размочалиться, растрепаться (о конце верёвки)</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">trevle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

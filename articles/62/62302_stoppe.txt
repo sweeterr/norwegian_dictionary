@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stoppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> след(ы), дорожка, тропинка (на снегу)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">stoppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-pet (-te), -pet (-t)</em>
+<inflection><orth extent="part">-pet (-te), -pet (-t)</orth></inflection>
 </form>
 <sense>
 останавливаться
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">stoppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 набивать (подушку, матрац и т. п.)

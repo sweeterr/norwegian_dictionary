@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">finne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 финн
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">finne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 плавник
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">finne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 угорь, прыщ
 </sense>
 </entry>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">finne</orth>
-<em><span class="dic_color"><span class="dic_comment">fant (fann), funnet (funnen)</em>
+<inflection><orth>fant (fann), funnet (funnen)</orth></inflection>
 </form>
 <sense>
 находить, найти, обнаружить

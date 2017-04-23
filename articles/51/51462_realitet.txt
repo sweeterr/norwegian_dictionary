@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">realitet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 реальность, действительность
 <сit type="example"><text>i realiteten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в действительности</text></cit></cit>
 </sense>

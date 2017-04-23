@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krinkel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elen, -ler</em>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
 изгиб, впадина
 <сit type="example"><text>i krinkler og kroker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в изгибах, в поворотах</text></cit></cit>
 </sense>

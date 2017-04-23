@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvillig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 несклонный, нерасположенный
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvillig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>юр.</u> беспристрастный, непредвзятый
 </sense>
 </entry>

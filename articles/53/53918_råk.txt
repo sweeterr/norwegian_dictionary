@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">råk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
+<inflection><orth extent="part">-en (-et), -er</orth></inflection>
 тропа (дорожка), протоптанная домашним скотом
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">råk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 разводье, полынья
 <сit type="example"><text>bryte opp råk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проложить во льду дорогу (для судов)</text></cit></cit>
 </sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">råk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 случай, случайность, случайное совпадение
 </sense>
 </entry>

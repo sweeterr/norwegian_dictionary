@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">konkav</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<u>мат.</u><span class="dic_color"><span class="dic_comment">, <u>физ.</u> вогнутый
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<u>мат.</u>, <u>физ.</u> вогнутый
 </sense>
 </entry>
 </superEntry>

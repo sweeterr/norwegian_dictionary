@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hete</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 зной, жара
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">hete</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 нагревать, раскалять (обычно hete opp)
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">hete</orth>
-<em><span class="dic_color"><span class="dic_comment">het (hette), hett</em>
+<inflection><orth>het (hette), hett</orth></inflection>
 называться, именоваться, иметь имя
 … heter det i avisa … говорится в газете
 <сit type="example"><text>hva heter De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вас зовут?, как ваше имя?</text></cit></cit>

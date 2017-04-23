@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ben</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 кость
@@ -51,7 +51,9 @@
 <index></index>
 <form>
 <orth type="lemma">ben</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 прямой
 </sense>
 </entry>

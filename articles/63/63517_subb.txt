@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">subb</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> неряха (о мужчине)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">subb</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 тяжёлая (медлительная) походка
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">subb</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 дефицит, недочёт, недостача
 </sense>
 </entry>

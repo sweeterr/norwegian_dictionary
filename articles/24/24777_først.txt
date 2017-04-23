@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">først</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 употребляется всегда в определённой форме первый
 <сit type="example"><text>den første</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первый</text></cit></cit>
 <сit type="example"><text>det første</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самое первое (, что) ...</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">først</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 сначала, сперва, вначале
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">først</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 как только
 </sense>
 </entry>

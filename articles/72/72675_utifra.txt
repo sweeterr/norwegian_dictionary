@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utifra</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">utifra</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 извне, снаружи
 <ref>utenfra</ref>
 </sense>
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">utifra</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 указывает на движение из пределов, границ предмета, из, от
 <сit type="example"><text>utifra huset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из дома</text></cit></cit>
 <сit type="example"><text>utifra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вне себя</text></cit></cit>

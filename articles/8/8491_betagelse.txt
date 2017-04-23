@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">betagelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>редко</u> возбуждённость, возбуждение
 <сit type="example"><text>i betagelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с возбуждением</text></cit></cit>
 </sense>

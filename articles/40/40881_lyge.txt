@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lyge</orth>
-<em><span class="dic_color"><span class="dic_comment">løg (laug), løyet</em>
+<inflection><orth>løg (laug), løyet</orth></inflection>
 лгать, врать, говорить неправду
 <сit type="example"><text>lyge for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>врать кому-л.</text></cit></cit>
 <сit type="example"><text>lyge på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оболгать (оклеветать) кого-л.</text></cit></cit>

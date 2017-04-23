@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trespann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 деревянное ведро, бадья
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trespann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 тройка (упряжка)
 </sense>
 </entry>

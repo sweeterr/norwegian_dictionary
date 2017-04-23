@@ -4,10 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">svær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тяжёлый <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+тяжёлый <u>в разн. знач.</u>
 </sense>
 <sense>
 прочный, крепкий, солидный

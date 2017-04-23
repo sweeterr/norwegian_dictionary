@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avblås(n)ing</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 отбой
 <сit type="example"><text>avblåsing av luftalarm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отбой воздушной тревоги</text></cit></cit>
 </sense>

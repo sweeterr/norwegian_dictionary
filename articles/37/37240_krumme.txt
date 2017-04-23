@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krumme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 мякиш
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">krumme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-met), -t (-met)</em>
+<inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 сгибать, искривлять
 </sense>
 </entry>

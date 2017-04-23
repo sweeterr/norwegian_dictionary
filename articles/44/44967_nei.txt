@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nei</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
 отказ
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">nei</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 нет

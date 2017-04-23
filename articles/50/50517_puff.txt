@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">puff</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 пуф (мебель), небольшой диван
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">puff</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 буф (отделка платья)
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">puff</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 выдох, затяжка (при курении), выхлоп (дыма, пара)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> стопа, ступня
 </sense>
 </entry>
@@ -40,7 +40,9 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 затхлый, прогорклый
 </sense>
 </entry>
@@ -48,7 +50,9 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -72,7 +76,7 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> чувствовать страстное влечение (к кому-л.); страстно желать (чего-л.)
 </sense>
 </entry>
@@ -80,7 +84,7 @@
 <index></index>
 <form>
 <orth type="lemma">trå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dte (-dde), -dt (-dd)</em>
+<inflection><orth extent="part">-dte (-dde), -dt (-dd)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">auksjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 аукцион, торги
 <сit type="example"><text>drive til auksjons</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить (имущество) на аукцион</text></cit></cit>
 <сit type="example"><text>holde auksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проводить аукцион (чего-л.- over)</text></cit></cit>

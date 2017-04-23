@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stripe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 толстая черта, полоса
@@ -20,7 +20,7 @@ Stripa <u>разг.</u> район для прогулок (в Осло, ули�
 <index></index>
 <form>
 <orth type="lemma">stripe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 образовывать складки (о материи), морщить (о тесном костюме)
 </sense>
 </entry>

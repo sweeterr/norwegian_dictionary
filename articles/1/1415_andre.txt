@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">andre</orth>
-<u>num</u> <em><span class="dic_color"><span class="dic_comment">определённая форма от</em> annen I
+<gramGrp><pos>num</pos></gramGrp>
+ <gramGrp><note>определённая форма от annen I</note></gramGrp>
 <сit type="example"><text>for det andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во-вторых</text></cit></cit>
 <сit type="example"><text>på andre året</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(уже) второй год</text></cit></cit>
 </sense>
@@ -13,8 +14,8 @@
 <index></index>
 <form>
 <orth type="lemma">andre</orth>
-<u>pron</u>
-<em><span class="dic_color"><span class="dic_comment">определённая форма от</em> annen II
+<gramGrp><pos>pron</pos></gramGrp>
+<gramGrp><note>определённая форма от annen II</note></gramGrp>
 <сit type="example"><text>den ene etter den andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">andre</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <gramGrp><num>pl</num><note>от annen II</note></gramGrp>
 <сit type="example"><text>de andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остальные</text></cit></cit>
 <сit type="example"><text>blant andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и среди них</text></cit></cit>

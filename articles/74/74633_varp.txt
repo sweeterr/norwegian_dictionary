@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">varp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 замёт кошелькового невода
@@ -20,7 +20,7 @@
 <u>разг.</u> обильный улов рыбы
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> основа
+<u>текст.</u> основа
 </sense>
 <sense>
 <u>мор.</u> перлинь для верпования

@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">visst</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> vite
+<gramGrp><tns>p.p.</tns><note>от vite</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">visst</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 конечно, определённо, безусловно

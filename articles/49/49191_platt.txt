@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">platt</orth>
-<u>inv</u>
+<gramGrp><pos>inv</pos></gramGrp>
 решка (монеты)
 <сit type="example"><text>platt eller krone</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>орёл или решка</text></cit></cit>
 <сit type="example"><text>slå platt og krone</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>решать спор бросанием монеты</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">platt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 низкий, пошлый, грубый, вульгарный
 </sense>
 </entry>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">platt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 совершенно, полностью, совсем

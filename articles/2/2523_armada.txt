@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">armada</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 армада, флотилия военных кораблей
 <сit type="example"><text>den uovervinnelige armada</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>"Непобедимая армада" (военный флот, направленный в 1588 испанским королём Филиппом II — против Англии и потерпевший поражение)</text></cit></cit>
 </sense>

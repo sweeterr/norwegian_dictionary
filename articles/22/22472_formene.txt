@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">formene</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 запрещать, налагать запрет
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">formene</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>уст.</u> считать, полагать
 </sense>
 </entry>

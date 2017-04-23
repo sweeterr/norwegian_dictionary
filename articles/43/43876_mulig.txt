@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mulig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 возможный
 <сit type="example"><text>er det mulig?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не может быть!</text></cit></cit>
 <сit type="example"><text>det er meget mulig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вполне возможно</text></cit></cit>

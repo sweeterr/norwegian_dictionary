@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">hemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>,<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
+,
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 задерживать, тормозить, сковывать

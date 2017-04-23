@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">deri</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в (э)том, там внутри
 <сit type="example"><text>deri innbefattet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>включая, в том числе</text></cit></cit>
 <сit type="example"><text>deri er saken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в том-то и дело</text></cit></cit>

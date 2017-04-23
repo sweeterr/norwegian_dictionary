@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">borgerrettighet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em> 
+<inflection><orth extent="part">-en, -er</orth></inflection>
+ 
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
 <u>юр.</u> гражданские права
 </sense>

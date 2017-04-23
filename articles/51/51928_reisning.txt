@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">reisning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 восстановление, возрождение
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">reisning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 осанка, выправка, постановка, посадка (головы, тела, рук и т. п.)
 </sense>
 </entry>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">reisning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>собир.</u> <u>мор.</u> снасти, такелаж
 </sense>
 </entry>

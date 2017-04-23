@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pusse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 чистить
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">pusse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>разг.</u> науськивать, натравливать собаку (на кого-л. - på)
 </sense>
 </entry>

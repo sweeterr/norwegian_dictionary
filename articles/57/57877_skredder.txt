@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skredder</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 портной
 <сit type="example"><text>ligge skredder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать (спать) голым</text></cit></cit>
 <сit type="example"><text>sitte skredder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть поджав ноги, сидеть по-портновски</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blå</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 синева (моря, неба)
@@ -21,8 +21,8 @@
 <index></index>
 <form>
 <orth type="lemma">blå</orth>
-<u>adj</u>
-<em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 синий, голубой

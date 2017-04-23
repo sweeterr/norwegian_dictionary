@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sokne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 чистить багром дно водоёма
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">sokne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <ref>sogne</ref>
 </sense>
 </entry>

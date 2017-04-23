@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tut</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 носик (чайника, кофейника и т. п.)
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">tut</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
 вой, рёв, завывание

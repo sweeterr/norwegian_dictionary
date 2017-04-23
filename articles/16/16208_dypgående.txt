@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dypgående</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>мор.</u> осадка (судна)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dypgående</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 глубоко сидящий, с большой осадкой (о корабле)
 </sense>
 </entry>

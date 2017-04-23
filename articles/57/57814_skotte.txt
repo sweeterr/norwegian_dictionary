@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skotte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 шотландец
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skotte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>разг.</u> смотреть украдкой, бросать быстрый взгляд (на кого, что-л.)
 </sense>
 </entry>

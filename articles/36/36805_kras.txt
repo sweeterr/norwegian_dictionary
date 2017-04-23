@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kras</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> треск, хруст
 <сit type="example"><text>gå i kras</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбиться, разлететься на куски</text></cit></cit>
 </sense>

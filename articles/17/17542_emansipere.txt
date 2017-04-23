@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">emansipere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 эмансипировать, освобождать
 <сit type="example"><text>emansipere seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эмансипироваться, освобождаться</text></cit></cit>
 </sense>

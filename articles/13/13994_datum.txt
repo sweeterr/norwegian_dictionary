@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">datum</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er (data)</em>
+<inflection><orth extent="part">-en (-et), -er (data)</orth></inflection>
 </form>
 <sense>
 дата, число

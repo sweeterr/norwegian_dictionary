@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 естественная окраска, цвет
 <сit type="example"><text>lys i letten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлой окраски</text></cit></cit>
 </sense>
@@ -13,10 +13,10 @@
 <index></index>
 <form>
 <orth type="lemma">lett</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-лёгкий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+лёгкий <u>в разн. знач.</u>
 <сit type="example"><text>lett på roret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о судне)</text></cit></cit>
 <сit type="example"><text>lett på tømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о лошади)</text></cit></cit>
 <сit type="example"><text>lettere sagt enn gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказать легче, чем сделать</text></cit></cit>

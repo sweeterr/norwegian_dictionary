@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stup</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 обрыв, пропасть
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">stup</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 вверх тормашками, вниз головой
 </sense>
 </entry>

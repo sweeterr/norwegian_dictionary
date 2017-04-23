@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">sen</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t (komp senere, superl senest)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t (komp senere, superl senest)</orth></inflection>
 </form>
 <sense>
 поздний

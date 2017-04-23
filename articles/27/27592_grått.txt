@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grått</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 серая краска, серый цвет
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">grått</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> gråte
+<gramGrp><tns>p.p.</tns><note>от gråte</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

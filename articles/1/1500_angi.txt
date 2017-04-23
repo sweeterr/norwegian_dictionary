@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">angi</orth>
-<em><span class="dic_color"><span class="dic_comment">anga (angav), angitt</em>
+<inflection><orth>anga (angav), angitt</orth></inflection>
 </form>
 <sense>
 разъяснять, давать разъяснения
@@ -15,7 +15,7 @@
 <сit type="example"><text>angi kilder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>указывать источники (библиографические)</text></cit></cit>
 </sense>
 <sense>
-angi tonen <u>муз.</u> задавать тон <em><span class="dic_color"><span class="dic_comment">(тж. <u>перен.</u> )</em>
+angi tonen <u>муз.</u> задавать тон <u>тж. перен.</u>
 </sense>
 <sense>
 выдавать (преступника), доносить, осведомлять (органы власти)

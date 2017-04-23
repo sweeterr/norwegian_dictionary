@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frø</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 семя, зерно, зернышко
 <сit type = "example"><text>gå (opp) i frø :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пойти в семя</text></cit></cit>
 <сit type = "example"><text>gå (opp) i frø :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>шутл.</u> остаться в старых девах</text></cit></cit>

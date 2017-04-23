@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lempe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 осторожность, мягкость, такт
 <сit type="example"><text>med lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осторожно, мягко</text></cit></cit>
 <сit type="example"><text>med (ved) list og lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитро и осторожно</text></cit></cit>
@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">lempe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 приспосабливать, подгонять, прилаживать

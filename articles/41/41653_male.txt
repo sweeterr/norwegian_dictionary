@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">male</orth>
-<em><span class="dic_color"><span class="dic_comment">malte (<u>уст.</u> mol), malt</em>
+<inflection><orth>malte (<u>уст.</u> mol), malt</orth></inflection>
 </form>
 <sense>
 молоть, перемалывать
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">male</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 красить

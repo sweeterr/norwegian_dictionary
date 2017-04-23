@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gadd</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> остриё, острый конец
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gadd</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> сухая, смолистая сосна
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">gadd</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> gidde
+<gramGrp><tns>pret</tns><note>от gidde</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

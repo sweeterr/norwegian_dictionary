@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppveie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
 взвешивать
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppveie</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 прокладывать путь (дорогу) по снегу и т. п.
 </sense>
 </entry>

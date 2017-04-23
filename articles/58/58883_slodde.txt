@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slodde</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 примитивная борона, волокуша
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">slodde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> разравнивать пашню волокушей
 </sense>
 </entry>

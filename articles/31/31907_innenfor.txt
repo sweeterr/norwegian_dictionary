@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innenfor</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 внутри
 <сit type="example"><text>være innenfor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> считаться своим (в каком-л. кругу)</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">innenfor</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 указывает на местонахождение в пределах ограниченного пространства внутри, в, в пределах (чего-л.)

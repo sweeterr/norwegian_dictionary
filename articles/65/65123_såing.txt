@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">såing</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 сев, посев
 <сit type="example"><text>tettradet såing</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>с.-х.</lbl> узкорядный сев</text></cit></cit>
 </sense>

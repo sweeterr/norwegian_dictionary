@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> 
 <ref>sted 1)</ref>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">stelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-let), -t (-let)</em>
+<inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
 налаживать, устраивать, наводить порядок

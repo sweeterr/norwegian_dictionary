@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">likkiste</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 гроб
 <сit type="example"><text>svømmende likkiste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>пренебр.</lbl> старая калоша (о судне)</text></cit></cit>
 <сit type="example"><text>bli en pinn til ens likkiste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вогнать кого-л. в гроб</text></cit></cit>

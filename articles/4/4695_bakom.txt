@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakom</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 назад, сзади
 <сit type="example"><text>det stikker noe bakom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за этим что-то кроется</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakom</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 за, позади (чего-л.)
 </sense>
 </entry>

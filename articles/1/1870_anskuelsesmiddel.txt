@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">anskuelsesmiddel</orth>
-<em><span class="dic_color"><span class="dic_comment">-let, -ler</em> 
+<inflection><orth extent="part">-let, -ler</orth></inflection>
+ 
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
 наглядные пособия (в школе и т. п.)
 </sense>

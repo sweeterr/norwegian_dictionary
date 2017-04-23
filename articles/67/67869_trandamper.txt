@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trandamper</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 судно, гружёное рыбьим жиром (ворванью, жидким китовым жиром)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trandamper</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 рабочий, занятый вытопкой рыбьего жира (ворвани)
 </sense>
 </entry>

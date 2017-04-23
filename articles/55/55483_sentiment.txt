@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sentiment</orth>
 <phon>|saŋti'maŋ|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -s</em>
+<inflection><orth extent="part">-en (-et), -s</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 сантименты
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">doktorgrad</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 учёная степень доктора наук
 <сit type="example"><text>oppnå (ta) doktoren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить степень доктора наук</text></cit></cit>
 </sense>

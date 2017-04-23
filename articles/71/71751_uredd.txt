@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uredd</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 бесстрашный, храбрый
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">uredd</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 непостланный, неприбранный (о постели)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dyste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 разбрасывать, рассеивать что-л., посыпать (чем-л. - med)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dyste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>ист.</u> сражаться на турнире
 </sense>
 </entry>

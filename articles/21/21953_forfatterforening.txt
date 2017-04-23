@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forfatterforening</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 союз писателей, объединение писателей
 <сit type="example"><text>Den norske forfatterforening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Объединение норвежских писателей</text></cit></cit>
 </sense>

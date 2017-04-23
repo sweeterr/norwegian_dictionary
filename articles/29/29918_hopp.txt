@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hopp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 прыжок
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">hopp</orth>
 hopp!
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 гоп!
 </sense>
 </entry>

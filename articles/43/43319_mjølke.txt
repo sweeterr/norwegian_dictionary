@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mjølke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>бот.</u> кипрей
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">mjølke</orth>
-<em><span class="dic_color"><span class="dic_comment">-а</em>
+<inflection><orth extent="part">-а</orth></inflection>
 <u>диал.</u> см. melke I
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">mjølke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> см. melke II
 </sense>
 </entry>

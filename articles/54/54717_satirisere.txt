@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">satirisere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 писать сатиры
 <сit type="example"><text>satirisere over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высмеивать (кого, что-л.)</text></cit></cit>
 </sense>

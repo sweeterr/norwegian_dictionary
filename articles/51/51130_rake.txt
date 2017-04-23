@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rake</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 грабли
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">rake</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 грести, сгребать (кочергой, граблями)
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">rake</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 касаться, относиться

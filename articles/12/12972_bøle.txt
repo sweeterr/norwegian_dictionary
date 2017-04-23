@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bøle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>диал.</u> ларь (для мука, зерна)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bøle</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 обиталище, жилище

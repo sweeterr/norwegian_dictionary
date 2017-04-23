@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">diagnose</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>мед.</u> диагноз
 <сit type="example"><text>stille en diagnose</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить диагноз</text></cit></cit>
 </sense>

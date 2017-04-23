@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kveik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <сit type="example"><text>få en kveik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подкрепиться, взбодриться, освежиться</text></cit></cit>
 <сit type="example"><text>sette kveik i én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подбодрить кого-л., вселить бодрость в кого-л.</text></cit></cit>
 </sense>

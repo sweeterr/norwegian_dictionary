@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">droge</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">droge</orth>
 <phon>|`dro:gә|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 аптекарские товары, лекарственное сырьё
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lutter</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <сit type="example"><text>han var lutter øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он был весь слух и внимание</text></cit></cit>
 <сit type="example"><text>det er lutter løgn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это явная (чистейшая) ложь</text></cit></cit>
 </sense>

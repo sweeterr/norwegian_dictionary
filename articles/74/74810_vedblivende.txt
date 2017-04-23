@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedblivende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 продолжающийся, длящийся
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedblivende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 постоянно, всё ещё, по-прежнему
 </sense>
 </entry>

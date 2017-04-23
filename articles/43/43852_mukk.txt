@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mukk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u> ikke et mukk - ни слова
 <сit type="example"><text>forsto ikke et mukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ровно ничего не понял</text></cit></cit>
 <сit type="example"><text>uten et mukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не говоря ни слова, не возражая</text></cit></cit>

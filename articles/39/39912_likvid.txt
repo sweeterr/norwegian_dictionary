@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">likvid</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>фон.</u> плавный согласный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">likvid</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 ходкий, легко реализуемый (о ценных бумагах)

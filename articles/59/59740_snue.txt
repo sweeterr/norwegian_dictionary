@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snue</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 насморк
 <сit type="example"><text>få snue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>схватить насморк</text></cit></cit>
 <сit type="example"><text>ha snue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть с насморком</text></cit></cit>

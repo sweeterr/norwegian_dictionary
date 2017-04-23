@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skeise</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>диал.</u> см. skøyte II
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skeise</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u> кататься на коньках
 </sense>
 </entry>

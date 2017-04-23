@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skum</orth>
-<em><span class="dic_color"><span class="dic_comment">-met</em>
+<inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
 пена
@@ -26,7 +26,9 @@
 <index></index>
 <form>
 <orth type="lemma">skum</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> тёмный
 </sense>
 </entry>

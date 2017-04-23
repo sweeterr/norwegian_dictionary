@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kompass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 компас
 <сit type="example"><text>seile på kompasset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плыть по компасу</text></cit></cit>
 </sense>

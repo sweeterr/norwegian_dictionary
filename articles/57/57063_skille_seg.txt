@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skille seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-let), -t (-let)</em>
+<inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 разлагаться
 <сit type = "example"><text>skille seg fra :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выпадать (в осадок)</text></cit></cit>
 <сit type = "example"><text>skille seg fra :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отделяться, отслаиваться</text></cit></cit>

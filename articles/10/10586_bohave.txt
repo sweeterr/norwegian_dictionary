@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bohave</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>уст.</u> мебель, обстановка, утварь
 <сit type="example"><text>et stykke bohave</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один предмет мебели</text></cit></cit>
 </sense>

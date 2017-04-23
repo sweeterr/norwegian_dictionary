@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">klauv</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> копыто
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">klauv</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> klyve
+<gramGrp><tns>pret</tns><note>от klyve</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plate</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 пластинка, плитка
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">plate</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 обшивать листовым металлом (бронёй)

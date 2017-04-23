@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nøkk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>фольк.</u> водяной
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">nøkk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> <u>ист.</u> канонерка, канонерская лодка
 </sense>
 </entry>

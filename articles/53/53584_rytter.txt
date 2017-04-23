@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rytter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
 наездник, всадник
@@ -13,7 +13,7 @@
 <u>воен.</u> кавалерист
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> конь
+<u>шахм.</u> конь
 </sense>
 </entry>
 </superEntry>

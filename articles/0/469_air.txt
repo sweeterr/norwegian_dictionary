@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">air</orth>
-<span class="dic_color"><span class="dic_comment">|ær|
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<phon>|ær|</phon>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 вид, осанка, поза, манера держать себя

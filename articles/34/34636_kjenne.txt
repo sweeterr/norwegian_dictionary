@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 крошка, чуточка, капелька, совсем немного
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 признак
 <сit type="example"><text>gi til kjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать знать (понять)</text></cit></cit>
 <сit type="example"><text>gi seg til kjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявиться, стать заметным; дать о себе знать</text></cit></cit>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 знать

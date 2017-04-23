@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vandle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <сit type = "example"><text>handle og vandle :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> жить-поживать</text></cit></cit>
 <сit type = "example"><text>handle og vandle :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> торговать, вести торговые дела</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">vandle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> собирать сено в охапку
 </sense>
 </entry>

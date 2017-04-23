@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 обращать внимание (на что-л.), принимать во внимание (что-л.), интересоваться (чём-л.)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">anse</orth>
-<em><span class="dic_color"><span class="dic_comment">anså, ansett</em>
+<inflection><orth>anså, ansett</orth></inflection>
 </form>
 <sense>
 принимать (за кого, что-л.- for)

@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">sinnssyk</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 душевнобольной, помешанный
 <сit type="example"><text>erklære (én) sinnssyk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>признать (объявить) кого-л. сумасшедшим</text></cit></cit>
 </sense>

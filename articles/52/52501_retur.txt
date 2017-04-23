@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">retur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>редко</u>
 </form>
 <sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">retur</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 обратно, назад
 </sense>
 </entry>

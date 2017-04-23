@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">pikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 слабый стук
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">pikk</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 тук-тук
 </sense>
 </entry>

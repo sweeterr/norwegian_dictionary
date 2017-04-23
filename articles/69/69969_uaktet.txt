@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uaktet</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 несмотря на, невзирая на, вопреки
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">uaktet</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 хотя
 </sense>
 </entry>

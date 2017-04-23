@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 укол, укус (насекомого), покалывание
@@ -26,7 +26,7 @@
 <u>карт.</u> взятка
 <сit type="example"><text>gjøre stikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать взятку</text></cit></cit>
 <сit type="example"><text>ta inn (heim, hjem) et stikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять взятку</text></cit></cit>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <сit type = "example"><text>late i stikken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> бросать (кого-л.) на произвол судьбы</text></cit></cit>
 <сit type = "example"><text>late i stikken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> предать кого-л., изменить кому-л.</text></cit></cit>
 <сit type="example"><text>stå i stikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть брошенным на произвол судьбы</text></cit></cit>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">stikk</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 прямо, как раз
 <сit type="example"><text>stikk mot oss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо на нас</text></cit></cit>
 <сit type="example"><text>i stikk motsatt retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в (прямо) противоположном направлении</text></cit></cit>

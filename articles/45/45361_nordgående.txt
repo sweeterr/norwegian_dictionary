@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nordgående</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
 плавание (поездка) на север
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">nordgående</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 идущий (направляющийся) на север
 </sense>
 </entry>

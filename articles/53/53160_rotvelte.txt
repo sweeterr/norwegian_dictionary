@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rotvelte</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 дерево, вырванное с корнем (ветром), бурелом
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rotvelte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 вырывать деревья с корнем (о ветре)
 </sense>
 </entry>

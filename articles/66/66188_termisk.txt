@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">termisk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 термический, тепловой
 <сit type="example"><text>termisk strålevirkning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тепловое воздействие излучения</text></cit></cit>
 </sense>

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">attåt</orth>
-<u>adv</u> <u>диал.</u>
+<gramGrp><pos>adv</pos></gramGrp>
+ <u>диал.</u>
 </form>
 <sense>
 вплотную, впритык
@@ -17,7 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">attåt</orth>
-<u>prep</u> <u>диал.</u>
+<gramGrp><pos>prep</pos></gramGrp>
+ <u>диал.</u>
 </form>
 <sense>
 вплотную к (чему-л.)

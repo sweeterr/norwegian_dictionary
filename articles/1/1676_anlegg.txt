@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anlegg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 стройка, строительство, сооружение
@@ -29,7 +29,7 @@
 <u>юр.</u> возбуждение судебного дела (против кого-л.— mot)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">физиол.</em> зародыш
+<u>физиол.</u> зародыш
 </sense>
 <sense>
 <u>мед.</u> предрасположение, предрасположенность (к болезни)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flor</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 пол в хлеву
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">flor</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 цветение
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">flor</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 чёрный креп, чёрный флёр (траур)
 </sense>
 </entry>

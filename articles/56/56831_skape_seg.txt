@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skape seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 жеманиться, корчить из себя
 <сit type="example"><text>skape seg til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дурачиться, притворяться, напускать на себя</text></cit></cit>
 </sense>

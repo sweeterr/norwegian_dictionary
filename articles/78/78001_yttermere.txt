@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">yttermere</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 дальнейший, последующий
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">yttermere</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 дополнительно, к тому же
 </sense>
 </entry>

@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">jer</orth>
-<u>pron</u> <u>pers</u>
+<gramGrp><pos>pron</pos></gramGrp>
+ 
+<gramGrp><pos>pers</pos></gramGrp>
 <u>уст.</u> <u>объектн.</u> вам
 </sense>
 </entry>
@@ -12,7 +14,9 @@
 <index></index>
 <form>
 <orth type="lemma">jer</orth>
-<u>pron</u> <u>poss</u>
+<gramGrp><pos>pron</pos></gramGrp>
+ 
+<gramGrp><pos>poss</pos></gramGrp>
 <u>уст.</u> ваш, ваша, ваше, ваши
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">senter</orth>
-<em><span class="dic_color"><span class="dic_comment">-eret (-ret), -rer</em>
+<inflection><orth extent="part">-eret (-ret), -rer</orth></inflection>
 центр
 <сit type="example"><text>motoriske senter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> двигательные центры</text></cit></cit>
 </sense>

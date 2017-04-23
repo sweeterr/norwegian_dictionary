@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ti</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 десять
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ti</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 <u>уст.</u> так как, поэтому, по этой причине,; поскольку, ибо
 </sense>
 </entry>

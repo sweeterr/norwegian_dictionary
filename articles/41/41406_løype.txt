@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">løype</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 сычужина (вещество, употребляющееся при изготовлении сыра)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">løype</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 рыбные отходы (для кормления скота)
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">løype</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 лыжня
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">løype</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 скользить по льду (снегу)
@@ -68,7 +68,7 @@
 <index></index>
 <form>
 <orth type="lemma">løype</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 створаживать при помощи сычужины (молоко)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lik</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 покойник, мертвец, труп
 <сit type="example"><text>et levende lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живой труп</text></cit></cit>
 <сit type="example"><text>ble(i)k som et lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бледный как мертвец</text></cit></cit>
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">lik</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>мор.</u> ликтрос, шкаторина
 <сit type="example"><text>stående lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передняя (стоячая) шкаторина</text></cit></cit>
 </sense>
@@ -25,7 +25,9 @@
 <index></index>
 <form>
 <orth type="lemma">lik</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 похожий, схожий

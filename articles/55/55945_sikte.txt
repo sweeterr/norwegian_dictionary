@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sikte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 кругозор, горизонт, поле зрения
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">sikte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 прицеливаться, нацеливаться
@@ -46,7 +46,7 @@
 <index></index>
 <form>
 <orth type="lemma">sikte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 просеивать (муку)
@@ -59,7 +59,7 @@
 <index></index>
 <form>
 <orth type="lemma">sikte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 обвинять, подозревать (в чём-л. - for)
 </sense>
 </entry>

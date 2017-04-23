@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fillehaug</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 куча тряпья
 <сit type="example"><text>han forsvant som en ånd i en fillehaug</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он как в воду канул</text></cit></cit>
 </sense>

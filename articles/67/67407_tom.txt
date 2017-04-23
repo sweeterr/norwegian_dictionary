@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tom</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,9 @@
 <index></index>
 <form>
 <orth type="lemma">tom</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 пустой, порожний

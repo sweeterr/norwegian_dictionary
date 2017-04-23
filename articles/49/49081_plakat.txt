@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plakat</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 объявление, официальное распоряжение (вывешиваемое для всеобщего сведения)
@@ -18,7 +18,9 @@
 <index></index>
 <form>
 <orth type="lemma">plakat</orth>
-<u>adj</u> <u>predic</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<gramGrp><pos>predic</pos></gramGrp>
 <u>разг.</u> совершенно пьяный
 </sense>
 </entry>
@@ -26,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">plakat</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 совершенно, полностью
 </sense>
 </entry>

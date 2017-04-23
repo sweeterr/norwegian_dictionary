@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">omvendt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 обратный
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">omvendt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 наоборот
 </sense>
 </entry>

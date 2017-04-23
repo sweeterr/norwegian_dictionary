@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bille</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>зоол.</u> жук
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bille</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <сit type="example"><text>bille inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вообразить</text></cit></cit>
 <сit type="example"><text>bille seg inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вообразить себе, вбить себе в голову</text></cit></cit>
 </sense>

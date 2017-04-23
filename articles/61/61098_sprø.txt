@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">sprø</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 хрупкий, ломкий
@@ -23,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprø</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-dde), -et (-dd)</em>
+<inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 поджаривать, подсушивать (хлеб)
 </sense>
 </entry>

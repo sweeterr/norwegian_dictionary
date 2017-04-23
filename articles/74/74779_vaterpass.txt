@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vaterpass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 ватерпас, нивелир
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vaterpass</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 горизонтально
 </sense>
 </entry>

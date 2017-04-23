@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortse</orth>
-<em><span class="dic_color"><span class="dic_comment">-så, -sett</em>
+<inflection><orth extent="part">-så, -sett</orth></inflection>
 не принимать во внимание, не учитывать (чего-л. - fra)
 <сit type="example"><text>bortsett fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не считая того, что; не говоря о том, что; исключая, кроме того, что</text></cit></cit>
 </sense>

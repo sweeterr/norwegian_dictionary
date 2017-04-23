@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">akkurat</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 точный, точно пригнанный
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">akkurat</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 как раз, точно, ровно, именно

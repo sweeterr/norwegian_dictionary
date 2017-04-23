@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">y</orth>
-<em><span class="dic_color"><span class="dic_comment">-'en,-'er</em>
+<inflection><orth extent="part">-'en,-'er</orth></inflection>
 </form>
 <sense>
 двадцать пятая буква норвежского алфавита
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">y</orth>
-<em><span class="dic_color"><span class="dic_comment">ydde, ydd</em>
+<inflection><orth>ydde, ydd</orth></inflection>
 <u>диал.</u> см. yre II
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fiskevær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 временный рыбацкий посёлок (на сезон рыбной ловли)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fiskevær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 погода, благоприятствующая рыбной ловле
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">fiskevær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bums</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>разг.</u> сразу, неожиданно, вдруг
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">bums</orth>
-<u>int</u> бух!, шлёп!
+<gramGrp><pos>int</pos></gramGrp>
+ бух!, шлёп!
 </sense>
 </entry>
 </superEntry>

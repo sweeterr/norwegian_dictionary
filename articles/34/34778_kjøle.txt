@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjøle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjøle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 охлаждать

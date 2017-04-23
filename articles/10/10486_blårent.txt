@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blårent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <сit type="example"><text><lbl>диал.</lbl> blårent melk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снятое молоко</text></cit></cit>
 </sense>
 </entry>

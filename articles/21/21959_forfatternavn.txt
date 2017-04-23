@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forfatternavn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>

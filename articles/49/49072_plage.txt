@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plage</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 бедствие, тяжёлое испытание, напасть
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">plage</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 мучить, терзать

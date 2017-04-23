@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">krek</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 беспомощное существо, слабое животное
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">krek</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> kreke
+<gramGrp><tns>pret</tns><note>от kreke</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

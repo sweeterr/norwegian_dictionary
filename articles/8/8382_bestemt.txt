@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bestemt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 определённый, установленный
@@ -27,7 +27,8 @@
 <index></index>
 <form>
 <orth type="lemma">bestemt</orth>
-<u>adv</u> определённо, без сомнения
+<gramGrp><pos>adv</pos></gramGrp>
+ определённо, без сомнения
 </sense>
 </entry>
 </superEntry>

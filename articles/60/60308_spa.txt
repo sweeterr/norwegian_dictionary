@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spa</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 копать лопатой (заступом), рыть
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">spa</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 жидкий бульон (мясной отвар)
 </sense>
 </entry>

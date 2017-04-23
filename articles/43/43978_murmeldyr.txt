@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">murmeldyr</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>зоол.</u> сурок
 <сit type="example"><text>sove som et murmeldyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спать как сурок</text></cit></cit>
 </sense>

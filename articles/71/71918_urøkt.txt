@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">urøkt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 беспорядок, запущенность
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">urøkt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 некопчёный
 </sense>
 </entry>

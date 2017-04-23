@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klage</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 жалоба, сетование
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">klage</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 жаловаться, тужить, сетовать, высказывать недовольство, огорчение (чем-л.)

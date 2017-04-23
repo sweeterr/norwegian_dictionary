@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">serve</orth>
 <phon>|sørv|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 подача мяча (в теннисе)
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">serve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>мор.</u> клетневать
 </sense>
 </entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">serve</orth>
 <phon>|sørvә|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 подавать мяч (в теннисе)
 </sense>
 </entry>

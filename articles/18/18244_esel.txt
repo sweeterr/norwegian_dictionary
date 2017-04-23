@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">esel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elet (-let), -ler</em>
+<inflection><orth extent="part">-elet (-let), -ler</orth></inflection>
 осёл
 <сit type="example"><text>ditt esel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> осёл (восклицание)</text></cit></cit>
 <сit type="example"><text>være stedig som et esel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть упрямым как осёл</text></cit></cit>

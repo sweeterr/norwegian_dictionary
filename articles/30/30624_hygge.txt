@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 уют, удобство
 <сit type="example"><text>ha hygge av én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать удовольствие, находясь в чьём-л. обществе</text></cit></cit>
 <сit type="example"><text>være til hygge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вносить уют своим присутствием (о человеке)</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">hygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-get), -d (-get)</em>
+<inflection><orth extent="part">-de (-get), -d (-get)</orth></inflection>
 создавать уют
 <сit type="example"><text>hygge for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заботиться о ком-л.</text></cit></cit>
 <сit type="example"><text>hygge om én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ухаживать за кем-л.</text></cit></cit>

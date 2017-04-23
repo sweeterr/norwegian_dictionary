@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smitte</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 зараза, инфекция
@@ -22,7 +22,9 @@
 <index></index>
 <form>
 <orth type="lemma">smitte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>,<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
+,
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 заражать, переносить инфекцию

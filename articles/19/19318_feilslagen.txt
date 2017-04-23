@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">feilslagen</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-ent (-et)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-ent (-et)</orth></inflection>
 неудавшийся, неудачный
 </sense>
 </entry>

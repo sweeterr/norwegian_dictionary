@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lukke seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-ket (-te), -ket (-t)</em>
+<inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 закрыться
 <сit type="example"><text>lukke seg inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запереться</text></cit></cit>
 </sense>

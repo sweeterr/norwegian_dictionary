@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">hva</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
-<u>inter</u> что?, что за?, какой?
+<gramGrp><pos>inter</pos></gramGrp>
+ что?, что за?, какой?
 <сit type="example"><text>hva annet?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что ещё?</text></cit></cit>
 <сit type="example"><text>hva behager?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> что угодно?, что вы сказали?</text></cit></cit>
 <сit type="example"><text>hva er det (for noe)?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что это такое?</text></cit></cit>
@@ -17,7 +18,8 @@
 <сit type="example"><text>på hva måte?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каким образом?</text></cit></cit>
 </sense>
 <sense>
-<u>rel</u> что
+<gramGrp><pos>rel</pos></gramGrp>
+ что
 <сit type="example"><text>ikke vite hva er hva</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не различать что к чему</text></cit></cit>
 <сit type="example"><text>hva … angår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается ...</text></cit></cit>
 <сit type="example"><text>hva enten (eller, heller)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтобы ни, какой бы ни</text></cit></cit>

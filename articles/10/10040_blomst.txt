@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blomst</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 цветок
@@ -23,7 +23,7 @@
 <сit type="example"><text>stå i blomst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цвести</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u><span class="dic_color"><span class="dic_comment">, <u>ирон.</u> вычурный, витиеватый оборот речи
+<u>поэт.</u>, <u>ирон.</u> вычурный, витиеватый оборот речи
 <сit type="example"><text>veltalenhetens blomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цветы красноречия</text></cit></cit>
 </sense>
 </entry>

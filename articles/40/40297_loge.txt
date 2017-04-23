@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">loge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> пламя, язык пламени
 см. тж. lue II
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">loge</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 гореть, пылать
 см. тж. lue III
 </sense>

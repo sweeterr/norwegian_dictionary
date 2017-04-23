@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">varpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">varpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 <u>диал.</u> производить замёт кошелькового невода
@@ -27,7 +27,7 @@
 <u>разг.</u> тащить, волочить
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> сновать, ткать основу
+<u>текст.</u> сновать, ткать основу
 </sense>
 <sense>
 <u>мор.</u> верповать, верповаться

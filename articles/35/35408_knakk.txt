@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">knakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 стук, треск, хруст
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">knakk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> knekke I
+<gramGrp><tns>pret</tns><note>от knekke I</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

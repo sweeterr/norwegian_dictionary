@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stump</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 кусок, обрубок, обломок
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">stump</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 тупой, неострый, притупившийся
 </sense>
 </entry>

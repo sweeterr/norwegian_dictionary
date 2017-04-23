@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 паспорт (заграничный)
 <сit type="example"><text>få sitt pass påskrevet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> подвергаться суровой критике за свои действия</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 горный перевал
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 уход (за кем-л.), забота (о ком-л.)
 </sense>
 </entry>
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>карт.</u> пас
 <сit type="example"><text>melde (si) pass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(с)пасовать, пропустить (свой) ход в игре</text></cit></cit>
 </sense>
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">pass</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>спорт.</u> пас
 </sense>
 </entry>

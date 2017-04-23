@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stedlinje</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <сit type="example"><text>astronomisk stedlinje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>линия Сомнера</text></cit></cit>
 <сit type="example"><text>terrestrisk stedlinje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>астр.</lbl> линия положения</text></cit></cit>
 </sense>

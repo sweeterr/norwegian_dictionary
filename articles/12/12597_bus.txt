@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bus</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u> сильная буря
 <сit type="example"><text>ha (være på) et bus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опьянеть, быть под хмельком</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">bus</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 необдуманно, опрометчиво
 <сit type="example"><text>gå (løpe) bus på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти (бежать) прямо к (чему-л.)</text></cit></cit>
 </sense>

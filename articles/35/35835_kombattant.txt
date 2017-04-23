@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kombattant</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> строевик (о военнослужащем)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kombattant</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 строевой
 </sense>
 </entry>

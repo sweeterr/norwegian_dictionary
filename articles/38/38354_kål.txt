@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kål</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 капуста
 <сit type="example"><text>gjøre kål på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покончить, прикончить, укокошить</text></cit></cit>
 <сit type="example"><text>koke bort i kålen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кончиться ничем, не дать никаких результатов (о предложениях, планах и т. п.)</text></cit></cit>

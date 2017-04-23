@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grein</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 ветвь, ветка
@@ -40,7 +40,7 @@ ha grein på <u>диал.</u> знать, иметь представление 
 <index></index>
 <form>
 <orth type="lemma">grein</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> grine
+<gramGrp><tns>pret</tns><note>от grine</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

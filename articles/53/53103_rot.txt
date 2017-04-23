@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rot</orth>
-<em><span class="dic_color"><span class="dic_comment">rota (roten), røtter</em>
+<inflection><orth>rota (roten), røtter</orth></inflection>
 </form>
 <sense>
 корень, корешок
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">rot</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -53,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">rot</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 беспорядок, путаница, сумятица
 </sense>
 </entry>

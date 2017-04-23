@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">fæl</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 скверный, отвратительный, гадкий, мерзкий
 <сit type="example"><text>være fæl i munnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить гадости</text></cit></cit>
 <сit type="example"><text>være fæl til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть способным к чему-л.</text></cit></cit>

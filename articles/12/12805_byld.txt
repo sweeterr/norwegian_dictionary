@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">byld</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 нарыв, нагноение
 <сit type="example"><text>røre ved bylden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затронуть больной вопрос</text></cit></cit>
 <сit type="example"><text>nå gikk det hull på bylden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>последовал взрыв негодования</text></cit></cit>

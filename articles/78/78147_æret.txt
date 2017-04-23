@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">æret</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(pl ærede)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><num>pl</num><orth>ærede</orth></inflection>
 уважаемый (тж. в обращении)
 <сit type="example"><text>som svar på Deres ærede (brev)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в ответ на Ваше письмо</text></cit></cit>
 <сit type="example"><text>den ærede foregående taler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уважаемый предыдущий оратор</text></cit></cit>

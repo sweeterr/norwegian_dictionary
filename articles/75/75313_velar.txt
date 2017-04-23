@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">velar</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>фон.</u> заднеязычный согласный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">velar</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>фон.</u> заднеязычный
 </sense>
 </entry>

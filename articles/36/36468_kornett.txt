@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kornett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>муз.</u> корнет
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kornett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>воен.</u> <u>уст.</u> корнет
 </sense>
 </entry>

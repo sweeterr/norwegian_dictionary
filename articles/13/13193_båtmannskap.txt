@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">båtmannskap</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em> , <em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
+ , 
+<inflection><orth extent="part">-en</orth></inflection>
 команда корабля (шлюпки)
 </sense>
 </entry>

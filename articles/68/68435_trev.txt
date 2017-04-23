@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trev</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">trev</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> trive
+<gramGrp><tns>pret</tns><note>от trive</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

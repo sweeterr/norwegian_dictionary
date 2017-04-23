@@ -4,14 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">våre</orth>
-<u>pron</u> <gramGrp><num>pl</num><note>от vår II</note></gramGrp>
+<gramGrp><pos>pron</pos></gramGrp>
+ <gramGrp><num>pl</num><note>от vår II</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">våre</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <сit type="example"><text>det våres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весна идёт, наступает весна</text></cit></cit>
 <сit type="example"><text>trærne våres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>деревья покрываются листвой</text></cit></cit>
 </sense>

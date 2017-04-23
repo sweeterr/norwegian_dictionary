@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stanse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>тех.</u> штамп, пресс
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">stanse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 останавливаться
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">stanse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>тех.</u>
 </form>
 <sense>

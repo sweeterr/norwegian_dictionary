@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">arbeidsbyrde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 рабочая нагрузка
 <сit type="example"><text>økt arbeidsbyrde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возросшая рабочая нагрузка</text></cit></cit>
 </sense>

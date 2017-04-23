@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tort</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 унижение, позор, оскорбление
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tort</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> tore II
+<gramGrp><tns>p.p.</tns><note>от tore II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

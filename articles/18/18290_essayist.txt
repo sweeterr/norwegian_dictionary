@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">essayist</orth>
 <phon>|es:e'jist|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 эссеист, очеркист, публицист
 </sense>
 </entry>

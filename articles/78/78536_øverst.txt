@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">øverst</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 верхний, самый верхний
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">øverst</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 на самом верху, вверху
 </sense>
 </entry>

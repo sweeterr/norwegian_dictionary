@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hylle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 полка, полочка
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">hylle</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 оболочка, обёртка, чехол
 </sense>
 </entry>
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">hylle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 почитать (кого-л.), преклоняться перед (кем-л.)
@@ -54,7 +54,7 @@
 <index></index>
 <form>
 <orth type="lemma">hylle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 закутывать, заворачивать, обёртывать (тж. hylle inn)

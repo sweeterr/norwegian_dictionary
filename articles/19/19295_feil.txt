@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">feil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, =</em>
+<inflection><orth extent="part">-en, =</orth></inflection>
 </form>
 <sense>
 недостаток (моральный, физический), изъян, порок
@@ -25,7 +25,9 @@
 <index></index>
 <form>
 <orth type="lemma">feil</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 ошибочный, неправильный, неверный
 <сit type="example"><text>en feil nøkkel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не тот ключ</text></cit></cit>
 <сit type="example"><text>han gikk en feil vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пошёл не по той дороге</text></cit></cit>
@@ -35,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">feil</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 неверно, неправильно, ошибочно
 <сit type="example"><text>gå feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
 <сit type="example"><text>hugge feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промахнуться, ударить мимо</text></cit></cit>

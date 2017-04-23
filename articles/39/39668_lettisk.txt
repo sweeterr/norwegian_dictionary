@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lettisk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 латышский язык
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">lettisk</orth>
-<u>adj</u> латышский
+<gramGrp><pos>adj</pos></gramGrp>
+ латышский
 </sense>
 </entry>
 </superEntry>

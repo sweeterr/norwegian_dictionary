@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">en</orth>
-<u>num</u> (всегда под ударением, часто пишется én)
+<gramGrp><pos>num</pos></gramGrp>
+ (всегда под ударением, часто пишется én)
 один, одна, одно
 <сit type="example"><text>i en, to, tre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в один миг, в мгновение ока</text></cit></cit>
 <сit type="example"><text>en etter en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим, по очереди</text></cit></cit>
@@ -16,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">en</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
 кто-то, некто
@@ -30,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">en</orth>
-<em><span class="dic_color"><span class="dic_comment">(с. р. et)</em>
+<gramGrp><gender>n</gender><note>от et</note></gramGrp>
 неопределённый артикль м. и ж. р.
 <сit type="example"><text>en gutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мальчик</text></cit></cit>
 <сit type="example"><text>en by</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>город</text></cit></cit>

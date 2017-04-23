@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">verb</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 глагол
 <сit type="example"><text>imperfektive (perfektive) verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глаголы несовершенного (совершенного) вида</text></cit></cit>
 <сit type="example"><text>intransitive (transitive) verber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непереходные (переходные) глаголы</text></cit></cit>

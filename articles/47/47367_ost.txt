@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ost</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 сыр
@@ -14,14 +14,14 @@
 головка сыру
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">тк. sg</em> творог
+<u>тк. sg</u> творог
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ost</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 см. øst I
 </sense>
 </entry>

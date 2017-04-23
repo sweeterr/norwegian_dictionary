@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">pyramide</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
-пирамида <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
+пирамида <u>в разн. знач.</u>
 <сit type="example"><text>regulær pyramide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> правильная пирамида</text></cit></cit>
 </sense>
 </entry>

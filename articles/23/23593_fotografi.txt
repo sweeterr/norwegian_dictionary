@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fotografi</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 фотодело, фотография, фотографирование
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fotografi</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 фотографический снимок, фотография
 <сit type="example"><text>ta et fotografi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать фотоснимок, снять</text></cit></cit>
 </sense>

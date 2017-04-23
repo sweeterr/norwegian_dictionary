@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">beit</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>диал.</u> свежие ветви, листва деревьев (в качестве корма для домашних животных)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">beit</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">beit</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>разг.</u> затруднительное положение
 <сit type="example"><text>komme i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в затруднительное положение</text></cit></cit>
 <сit type="example"><text>sette i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить в затруднительное положение</text></cit></cit>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">beit</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> bite III
+<gramGrp><tns>pret</tns><note>от bite III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

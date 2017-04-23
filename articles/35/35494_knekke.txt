@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knekke</orth>
-<em><span class="dic_color"><span class="dic_comment">knakk, knekt</em>
+<inflection><orth>knakk, knekt</orth></inflection>
 </form>
 <sense>
 трещать
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">knekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-ket), -t (-ket)</em>
+<inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 </form>
 <sense>
 открыть (закрыть) с треском, хлопнуть (чем-л.)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 табуретка, стул на трёх ножках
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">krakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> отмель, банка
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">krakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 береговой лёд, припай
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">krakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 крах (банка, фирмы)
 <сit type="example"><text>bli krakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лопнуть, прогореть (о банке, фирме)</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">overdekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 верхний слой, покрытие
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">overdekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-ket (-te), -ket (-t)</em>
+<inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 </form>
 <sense>
 покрывать

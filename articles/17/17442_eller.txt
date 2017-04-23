@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">eller</orth>
-<u>konj</u> или, либо
+<gramGrp><pos>konj</pos></gramGrp>
+ или, либо
 <сit type="example"><text>eller også</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>или же</text></cit></cit>
 <сit type="example"><text>enten ... eller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>или ..., или ...; либо ..., либо ...</text></cit></cit>
 <сit type="example"><text>hverken ... eller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни ... ни ...</text></cit></cit>

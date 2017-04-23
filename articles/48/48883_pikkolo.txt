@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pikkolo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>муз.</u> флейта пикколо
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">pikkolo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 ливрейный мальчик, мальчик-рассыльный (в гостинице, магазине)
 </sense>
 </entry>

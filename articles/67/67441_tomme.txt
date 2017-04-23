@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 дюйм (норвежский = 2,6145 см, английский = 2,54 см)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">tomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 ощупывать пальцами

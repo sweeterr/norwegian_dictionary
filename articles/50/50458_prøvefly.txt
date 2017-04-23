@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">prøvefly</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>ав.</u> опытный самолёт, самолёт, подлежащий испытанию
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">prøvefly</orth>
-<em><span class="dic_color"><span class="dic_comment">-fløy (-flaug), -fløyet (-flydd)</em>
+<inflection><orth extent="part">-fløy (-flaug), -fløyet (-flydd)</orth></inflection>
 <u>ав.</u>
 </form>
 <sense>

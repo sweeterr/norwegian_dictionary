@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-get (-de), -get (-d)</em>
+<inflection><orth extent="part">-get (-de), -get (-d)</orth></inflection>
 </form>
 <sense>
 пятиться задом
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">rygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 тащить, волочить
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lang</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> галерея, балкон (вдоль стены дома)
 </sense>
 </entry>
@@ -12,7 +12,10 @@
 <index></index>
 <form>
 <orth type="lemma">lang</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em> <em><span class="dic_color"><span class="dic_comment">(komp lengre, superl lengst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+ <inflection><orth>(komp lengre, superl lengst)</orth></inflection>
 </form>
 <sense>
 длинный

@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">ung</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp yngre, superl yngst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp yngre, superl yngst)</orth></inflection>
 </form>
 <sense>
-молодой <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+молодой <u>в разн. знач.</u>
 <сit type="example"><text>gammel og ung, unge og gamle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и стар и млад</text></cit></cit>
 </sense>
 <sense>

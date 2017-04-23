@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ri</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 приступ, припадок (болезни, боли, меланхолии)
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">ri</orth>
-<em><span class="dic_color"><span class="dic_comment">re(i)d (rei, ridde), ridd</em>
+<inflection><orth>re(i)d (rei, ridde), ridd</orth></inflection>
 </form>
 <sense>
 ездить верхом

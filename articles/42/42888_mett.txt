@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 см. met I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">mett</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 сытый, накормленный, пресытившийся
 <сit type="example"><text>drikke seg mett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напиться</text></cit></cit>
 <сit type="example"><text>gråte seg mett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наплакаться</text></cit></cit>

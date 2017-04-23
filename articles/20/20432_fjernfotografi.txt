@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fjernfotografi</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 фототелеграф, передача фототелеграмм
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fjernfotografi</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 снимок, переданный или полученный по радио
 </sense>
 </entry>

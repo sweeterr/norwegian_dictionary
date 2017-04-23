@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">empire</orth>
 <phon>|аŋ'pir|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>иск.</u> стиль ампир
 <сit type="example"><text>i empire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в стиле ампир</text></cit></cit>
 </sense>

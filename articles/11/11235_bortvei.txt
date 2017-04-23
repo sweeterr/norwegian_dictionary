@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortvei</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 дорога, путь (от исходного пункта)
 <сit type="example"><text>på bortveien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по пути от исходного пункта, по дороге туда</text></cit></cit>
 </sense>

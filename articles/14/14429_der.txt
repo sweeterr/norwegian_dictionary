@@ -4,16 +4,18 @@
 <index></index>
 <form>
 <orth type="lemma">der</orth>
-<u>pron</u> <u>уст.</u>
+<gramGrp><pos>pron</pos></gramGrp>
+ <u>уст.</u>
 </form>
 <sense>
-<u>rel</u>
+<gramGrp><pos>rel</pos></gramGrp>
 который, которая, которое, которые
 <сit type="example"><text>hvem der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который</text></cit></cit>
 <сit type="example"><text>hva der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то, что</text></cit></cit>
 </sense>
 <sense>
-<u>indef</u> как грамматическое подлежащее, ударения не несёт и не переводится:
+<gramGrp><pos>indef</pos></gramGrp>
+ как грамматическое подлежащее, ударения не несёт и не переводится:
 <сit type="example"><text>der var engang en gammel fisker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жил-был старый рыбак</text></cit></cit>
 <сit type="example"><text>der er ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>есть, имеется</text></cit></cit>
 </sense>
@@ -22,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">der</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 там
@@ -54,7 +56,7 @@
 <index></index>
 <form>
 <orth type="lemma">der</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 там где
 </sense>
 </entry>

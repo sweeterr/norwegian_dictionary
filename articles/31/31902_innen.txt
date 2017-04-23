@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innen</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 внутри (чего-л.)
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">innen</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 прежде чем, до того как
 </sense>
 </entry>

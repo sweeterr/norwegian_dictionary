@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">talende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 говорящий, красноречивый, выразительный
 <сit type="example"><text>den talende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оратор, выступающий</text></cit></cit>
 </sense>

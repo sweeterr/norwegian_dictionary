@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forlangende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 требование
 <сit type="example"><text>på forlangende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по требованию</text></cit></cit>
 <сit type="example"><text>framsette forlangende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять (ставить) требования (относительно чего-л. - om)</text></cit></cit>

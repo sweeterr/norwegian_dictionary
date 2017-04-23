@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kveve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t (-n)</em>
+<inflection><orth extent="part">-t (-n)</orth></inflection>
 см. kvev II
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kveve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 <u>хим.</u> азот
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">kveve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

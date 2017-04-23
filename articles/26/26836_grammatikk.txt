@@ -6,12 +6,12 @@
 <orth type="lemma">grammatikk</orth>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 грамматика (наука)
 <сit type="example"><text>alminnelig (deskriptiv, historisk) grammatikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всеобщая (описательная, историческая) грамматика</text></cit></cit>
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 учебник грамматики
 </sense>
 </entry>

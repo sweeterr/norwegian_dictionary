@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vov</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 лай
 </sense>
 </entry>
@@ -12,14 +12,16 @@
 <index></index>
 <form>
 <orth type="lemma">vov</orth>
-<u>диал.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</em> veve
+<u>диал.</u> 
+<gramGrp><tns>pret</tns><note>от veve</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vov</orth>
-vov! <u>int</u>
+vov! 
+<gramGrp><pos>int</pos></gramGrp>
 гав-гав! (подражание лаю собаки)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mestertittel</orth>
-<em><span class="dic_color"><span class="dic_comment">-telen, -ler</em>
+<inflection><orth extent="part">-telen, -ler</orth></inflection>
 <u>спорт.</u> звание чемпиона
 <сit type="example"><text>kjempe om mestertittel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бороться за звание чемпиона</text></cit></cit>
 </sense>

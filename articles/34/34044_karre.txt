@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">karre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 слабо дуть (о ветре)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">karre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> см. kurre II
 </sense>
 </entry>

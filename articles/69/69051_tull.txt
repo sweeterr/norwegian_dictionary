@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tull</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 круг
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">tull</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 моток, клубок шерсти, скатавшаяся шерсть
@@ -47,7 +47,7 @@
 <index></index>
 <form>
 <orth type="lemma">tull</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 глупая затея (выдумка)
 </sense>
 </entry>

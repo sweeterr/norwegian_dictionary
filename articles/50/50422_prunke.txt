@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">prunke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 блистать, выступать в полном блеске
 <сit type="example"><text>prunke med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щеголять, хвастаться чем-л.</text></cit></cit>
 </sense>

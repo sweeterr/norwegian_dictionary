@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">finkarde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>,<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
+,
+<inflection><orth extent="part">-et</orth></inflection>
 прочёсывать частым гребнем (шерсть)
 </sense>
 </entry>

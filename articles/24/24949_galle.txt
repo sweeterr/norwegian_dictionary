@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">galle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 жёлчь
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">galle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
 <u>бот.</u> галлы
 </sense>

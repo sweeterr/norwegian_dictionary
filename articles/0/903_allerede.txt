@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">allerede</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 уже, уже только
 <сit type="example"><text>allerede dette er nok ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уже и этого достаточно ...</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bryne</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 точильный камень (брусок, оселок)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bryne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 точить, оттачивать (с помощью бруска, оселка), заострять
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">bryne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u> вытаскивать лодку на берег
 <сit type="example"><text>brynt opp i fjæra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выброшенный на берег</text></cit></cit>
 </sense>

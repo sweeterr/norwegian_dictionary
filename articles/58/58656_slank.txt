@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">slank</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 стройный, тонкий, гибкий
 <сit type="example"><text>slanke linjer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изящные линии</text></cit></cit>
 </sense>

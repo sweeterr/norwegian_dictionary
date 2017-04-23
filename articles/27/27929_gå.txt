@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gå</orth>
-<em><span class="dic_color"><span class="dic_comment">gikk, gått (gangen)</em>
+<inflection><orth>gikk, gått (gangen)</orth></inflection>
 </form>
 <sense>
 ходить, идти (тж. о средствах транспорта)
@@ -185,7 +185,7 @@
 <index></index>
 <form>
 <orth type="lemma">gå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> обращать внимание, замечать, ощущать
 </sense>
 </entry>

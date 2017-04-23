@@ -4,11 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">avbildning</orth>
-) <em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+) 
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 изображение (действие)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 рисунок, иллюстрация
 </sense>
 </entry>

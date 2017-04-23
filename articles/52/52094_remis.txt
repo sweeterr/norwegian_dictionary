@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">remis</orth>
 <phon>|re'mi|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> ничейная партия, ничья
+<u>шахм.</u> ничейная партия, ничья
 </sense>
 <sense>
 <u>карт.</u> ремиз
@@ -19,10 +19,10 @@
 <form>
 <orth type="lemma">remis</orth>
 <phon>|re'mi|</phon>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> ничейный, сыгранный вничью
+<u>шахм.</u> ничейный, сыгранный вничью
 </sense>
 <sense>
 <u>карт.</u> bli remis - обремизиться

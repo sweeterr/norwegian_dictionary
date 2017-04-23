@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">inntektsside</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>бухг.</u> актив
 <сit type="example"><text>føre på inntektsside</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записать в актив</text></cit></cit>
 </sense>

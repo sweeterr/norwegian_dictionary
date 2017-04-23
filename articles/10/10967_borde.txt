@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">borde</orth>
 <phon>|'bordə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <ref>bord</ref>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">borde</orth>
 <phon>|bu:rə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>мор.</u>
 </form>
 <sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">jevning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 человек, равный другому (в каком-л. отношении), ровня
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">jevning</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 приправа (к кушанью)
 </sense>
 </entry>

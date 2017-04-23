@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bra</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp bedre, supert best)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp bedre, supert best)</orth></inflection>
 </form>
 <sense>
 хороший
@@ -13,7 +14,8 @@
 <сit type="example"><text>det er ikke bra med Dem?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вам нехорошо?</text></cit></cit>
 </sense>
 <sense>
-<u>predic</u> здоровый, в хорошем состоянии
+<gramGrp><pos>predic</pos></gramGrp>
+ здоровый, в хорошем состоянии
 <сit type="example"><text>jeg er helt bra nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я теперь совсем здоров</text></cit></cit>
 <сit type="example"><text>ha det bra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя хорошо (где-л.)</text></cit></cit>
 <сit type="example"><text>jeg synes bra om det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне это нравится</text></cit></cit>
@@ -33,7 +35,8 @@
 <index></index>
 <form>
 <orth type="lemma">bra</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp bedre, superl best)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp bedre, superl best)</orth></inflection>
 </form>
 <sense>
 хорошо

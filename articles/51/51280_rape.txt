@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rape</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">rape</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 покрытый гравием склон горы
 </sense>
 </entry>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">rape</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 рыгать, отрыгивать
 </sense>
 </entry>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">rape</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u> собирать (сгребать) в кучу
 </sense>
 </entry>
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">rape</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

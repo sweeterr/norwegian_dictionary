@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flate</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 ровная поверхность, плоскость
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">flate</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 делать ровным, разравнивать
 <сit type="example"><text>flate ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать</text></cit></cit>
 </sense>

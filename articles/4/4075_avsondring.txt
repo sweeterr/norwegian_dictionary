@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avsondring</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 отделение, обособление
@@ -16,7 +16,7 @@
 уединение
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">физиол.</em> выделения, секреция
+<u>физиол.</u> выделения, секреция
 </sense>
 </entry>
 </superEntry>

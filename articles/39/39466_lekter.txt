@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lekter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>мор.</u> лихтер, шаланда
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lekter</orth>
-<em><span class="dic_color"><span class="dic_comment">-eret, -rer</em>
+<inflection><orth extent="part">-eret, -rer</orth></inflection>
 хоры (в церкви, кирке)
 </sense>
 </entry>

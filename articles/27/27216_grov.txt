@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grov</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>диал.</u> низина, ложбина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">grov</orth>
-<em><span class="dic_color"><span class="dic_comment">groven (grova), grover (grever)</em>
+<inflection><orth>groven (grova), grover (grever)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -26,8 +26,10 @@
 <index></index>
 <form>
 <orth type="lemma">grov</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<em><span class="dic_color"><span class="dic_comment">(komp grovere, <u>диал.</u> grøvre, supert grovest, <u>диал.</u> grøvst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth>(komp grovere, <u>диал.</u> grøvre, supert grovest, <u>диал.</u> grøvst)</orth></inflection>
 </form>
 <sense>
 грубый
@@ -58,7 +60,7 @@
 <index></index>
 <form>
 <orth type="lemma">grov</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> grave
+<gramGrp><tns>pret</tns><note>от grave</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

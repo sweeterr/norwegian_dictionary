@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">natte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>уст.</u> переночевать
 <сit type="example"><text>det nattes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опускается ночь</text></cit></cit>
 </sense>

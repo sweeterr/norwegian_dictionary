@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjennomblåse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 продуть
 <сit type="example"><text>vi ble gjennomblåst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нас продуло насквозь</text></cit></cit>
 </sense>

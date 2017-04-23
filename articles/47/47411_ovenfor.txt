@@ -4,14 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">ovenfor</orth>
-<u>adv</u> выше, ранее
+<gramGrp><pos>adv</pos></gramGrp>
+ выше, ранее
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ovenfor</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 над, поверх, выше по (течению)
 </sense>
 </entry>

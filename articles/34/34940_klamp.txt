@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 обрубок дерева, кусок железа
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">klamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 стук
 </sense>
 </entry>
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">klamp</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 бух!, бах!
 </sense>
 </entry>

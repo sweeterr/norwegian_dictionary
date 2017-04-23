@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bokstavelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 буквальный, дословный
 <сit type="example"><text>ta bokstavelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать, понимать (что-л.) буквально</text></cit></cit>
 <сit type="example"><text>bokstavelig talt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>буквально, слово в слово</text></cit></cit>

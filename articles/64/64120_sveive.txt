@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">sveive</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em> (de), <em><span class="dic_color"><span class="dic_comment">-et</em> (-d)
+<inflection><orth extent="part">-et</orth></inflection>
+ (de), 
+<inflection><orth extent="part">-et</orth></inflection>
+ (-d)
 </form>
 <sense>
 вращать, вертеть, крутить (что-л. - på)

@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">atmosfære</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-атмосфера <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+атмосфера <u>в разн. знач.</u>
 <сit type="example"><text>tre atmosfærers trykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давление в три атмосферы</text></cit></cit>
 </sense>
 <sense>

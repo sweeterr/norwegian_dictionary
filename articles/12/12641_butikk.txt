@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">butikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 лавка, магазин
 <сit type="example"><text>på butikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в магазине</text></cit></cit>
 <сit type="example"><text>lukke butikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрыть лавочку <lbl>тж. перен.</lbl></text></cit></cit>

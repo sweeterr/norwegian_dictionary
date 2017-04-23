@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">fingernem</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 имеющий ловкие пальцы (при игре на рояле, печатании на машинке и т. п.), ловкий, проворный
 </sense>
 </entry>

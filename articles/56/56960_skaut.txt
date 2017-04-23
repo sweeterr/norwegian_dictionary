@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skaut</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <u>диал.</u> см. skjøt III 2)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skaut</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 головной платок, косынка
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">skaut</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> skyte
+<gramGrp><tns>pret</tns><note>от skyte</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

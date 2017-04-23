@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">ør-</orth>
-<u>pref</u> усиливает значение прилагательного, перед которым ставится:
+<gramGrp><pos>pref</pos></gramGrp>
+ усиливает значение прилагательного, перед которым ставится:
 <сit type="example"><text>ørgammel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старый-престарый, совсем старый</text></cit></cit>
 <сit type="example"><text>ørliten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крошечный</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anklage</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 обвинение, жалоба
 <сit type="example"><text>rette anklager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвинуть обвинения, обвинить (кого-л. —mot)</text></cit></cit>
 <сit type="example"><text>sette under anklage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обвинить (кого-л.)</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">anklage</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 обвинять, упрекать (в чём-л.— for)

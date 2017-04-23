@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vivank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <сit type="example"><text><lbl>диал.</lbl> gi seg ut på vivanken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться куда глаза глядят</text></cit></cit>
 <сit type="example"><text>gå (være) på vivanken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбрестись (о мыслях)</text></cit></cit>
 <сit type = "example"><text>komme på vivank(e) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отправиться в поездку</text></cit></cit>

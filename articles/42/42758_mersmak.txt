@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mersmak</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 аппетит к чему-л.
 <сit type="example"><text>gi mersmak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать аппетит</text></cit></cit>
 <сit type="example"><text>ha mersmak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не наесться досыта чем-л.</text></cit></cit>

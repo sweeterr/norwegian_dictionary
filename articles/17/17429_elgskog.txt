@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">elgskog</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 лес, в котором водятся лоси
 <сit type="example"><text>gå i elgskog</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти на охоту на лося</text></cit></cit>
 </sense>

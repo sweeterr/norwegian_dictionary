@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">dun</orth>
--a (<em><span class="dic_color"><span class="dic_comment">-et</em>)
+-a (
+<inflection><orth extent="part">-et</orth></inflection>
+)
 </form>
 <sense>
 пух
@@ -19,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">dun</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 шум, гул
 </sense>
 </entry>

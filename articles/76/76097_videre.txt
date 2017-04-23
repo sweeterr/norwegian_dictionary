@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">videre</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp — от vid)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><note>komp от vid</note></gramGrp>
 дальнейший, последующий
 </sense>
 </entry>
@@ -12,7 +13,8 @@
 <index></index>
 <form>
 <orth type="lemma">videre</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp — от vidt)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+<gramGrp><note>komp от vidt</note></gramGrp>
 </form>
 <sense>
 дальше, далее

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">overbord</orth>
-<em><span class="dic_color"><span class="dic_comment">(тж. раздельно)</em> <u>adv</u>
+<u>тж. раздельно</u> 
+<gramGrp><pos>adv</pos></gramGrp>
 за борт, за бортом
 <сit type="example"><text>mann overbord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>человек за бортом</text></cit></cit>
 <сit type = "example"><text>kaste overbord :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выбрасывать за борт</text></cit></cit>

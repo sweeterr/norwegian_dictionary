@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">sekund</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 </form>
 <sense>
-секунда <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+секунда <u>в разн. знач.</u>
 <сit type="example"><text>på sekundet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сию секунду</text></cit></cit>
 <сit type="example"><text>vite tiden på sekundet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать время абсолютно точно</text></cit></cit>
 </sense>

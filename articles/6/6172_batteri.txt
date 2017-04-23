@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">batteri</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-<u>воен.</u><span class="dic_color"><span class="dic_comment">, <u>тех.</u><span class="dic_color"><span class="dic_comment">, <u>эл.</u> батарея
+<u>воен.</u>, <u>тех.</u>, <u>эл.</u> батарея
 </sense>
 <sense>
 <u>муз.</u> ударные инструменты (в оркестре)

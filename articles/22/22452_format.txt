@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">format</orth>
 fórmat
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 закуска, первое блюдо (в обеде)
 </sense>
 </entry>
@@ -14,7 +14,7 @@ fórmat
 <form>
 <orth type="lemma">format</orth>
 formát
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 формат, размер
 <сit type="example"><text>i lite(stort) format</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небольшого (большого) формата</text></cit></cit>
 </sense>

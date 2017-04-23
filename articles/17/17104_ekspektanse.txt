@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ekspektanse</orth>
 <phon>|-'taŋsə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 ожидание, надежда (на что-л.)
 <сit type="example"><text>stå på ekspektanse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ожидать своей очереди, стоять на очереди</text></cit></cit>
 </sense>

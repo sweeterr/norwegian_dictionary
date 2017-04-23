@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">aure</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> см. ørret
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">aure</orth>
-<em><span class="dic_color"><span class="dic_comment">-а, -а</em>
+<inflection><orth extent="part">-а, -а</orth></inflection>
 <u>диал.</u> см. yre III
 </sense>
 </entry>

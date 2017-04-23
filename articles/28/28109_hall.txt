@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hall</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 двухсветный зал, палатка
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">hall</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 жёрнов
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">hall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u> склон, откос
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snerre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <сit type="example"><text>stå i snerrene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> оказаться в трудном положении, испытывать денежные затруднения</text></cit></cit>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">snerre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 рычать, скалить зубы, огрызаться (о собаке)

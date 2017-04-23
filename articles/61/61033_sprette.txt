@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprette</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> дамская подвязка (из кожи с серебряным крючком)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprette</orth>
-<em><span class="dic_color"><span class="dic_comment">spratt, sprettet</em>
+<inflection><orth>spratt, sprettet</orth></inflection>
 </form>
 <sense>
 вздрогнуть, дёрнуться (о человеке)
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprette</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 лить, проливать

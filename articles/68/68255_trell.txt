@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 раб, невольник
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">trell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 трудовые мозоли (на руках)
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">trell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 поплавок (для сетей)
 </sense>
 </entry>

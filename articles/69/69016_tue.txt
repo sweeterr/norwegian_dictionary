@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tue</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 бугорок, кочка
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">tue</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> см. tvåge
 </sense>
 </entry>

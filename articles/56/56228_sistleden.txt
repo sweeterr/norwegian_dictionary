@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sistleden</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 прошедший, прошлый, предыдущий
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">sistleden</orth>
-<u>adv</u> <u>уст.</u> недавно, на днях
+<gramGrp><pos>adv</pos></gramGrp>
+ <u>уст.</u> недавно, на днях
 </sense>
 </entry>
 </superEntry>

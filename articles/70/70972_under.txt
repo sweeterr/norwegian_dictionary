@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">under</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -e</em>
+<inflection><orth extent="part">-et, -e</orth></inflection>
 чудо, необъяснимое явление
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">under</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на положение под предметом, под (с творительным падежом существительных или местоимений)

@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">parre</orth>
--ret (-te), -ret (<em><span class="dic_color"><span class="dic_comment">-t</em>)
+-ret (-te), -ret (
+<inflection><orth extent="part">-t</orth></inflection>
+)
 </form>
 <sense>
 ставить в пары, подбирать (размещать) попарно

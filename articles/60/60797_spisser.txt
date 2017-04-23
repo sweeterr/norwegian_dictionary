@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spisser</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 точилка, точильный камень
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spisser</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>уст.</u> стопка водки (коньяку и т. д.)
 </sense>
 </entry>

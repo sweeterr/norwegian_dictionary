@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">slag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-удар <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+удар <u>в разн. знач.</u>
 <сit type="example"><text>et hard slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый удар</text></cit></cit>
 <сit type="example"><text>et slag i ansiktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удар в лицо, пощёчина</text></cit></cit>
 <сit type="example"><text>slag i slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подряд, непрерывно</text></cit></cit>
@@ -74,7 +74,7 @@
 <index></index>
 <form>
 <orth type="lemma">slag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 род, вид, сорт
 <сit type="example"><text>all slag(s)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всякого рода (сорта)</text></cit></cit>
 <сit type="example"><text>av det beste slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лучшего качества, высшего сорта</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">følge</orth>
 <phon>|`fölə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 последствие, следствие, результат
@@ -25,7 +25,7 @@
 <form>
 <orth type="lemma">følge</orth>
 <phon>|`fölə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 сопровождение, компания
@@ -48,7 +48,7 @@
 <form>
 <orth type="lemma">følge</orth>
 <phon>|`fölə|</phon>
-<em><span class="dic_color"><span class="dic_comment">fulgte, fulgt</em>
+<inflection><orth>fulgte, fulgt</orth></inflection>
 </form>
 <sense>
 следовать (кому, чему-л., за кем, чем-л. - etter, på)

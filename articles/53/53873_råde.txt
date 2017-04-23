@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">råde</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 см. rå III
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">råde</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 см. rå IV
 </sense>
 </entry>

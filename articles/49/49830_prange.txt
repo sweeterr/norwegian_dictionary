@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">prange</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 блистать, красоваться
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">prange</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">prange</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>мор.</u> идти на всех парусах
 </sense>
 </entry>

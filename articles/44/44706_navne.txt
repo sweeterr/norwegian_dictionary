@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">navne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 тёзка
 <сit type="example"><text>gå etter navne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>фольк.</lbl> являться во сне</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">navne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 метить, вышивать метки
 </sense>
 </entry>

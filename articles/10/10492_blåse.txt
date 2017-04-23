@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blåse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 флейта, дудка, свисток
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">blåse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 дуть (о человеке, о ветре)

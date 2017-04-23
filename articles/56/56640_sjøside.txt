@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjøside</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 сторона (острова, города и т. п.), обращенная к морю, приморский район
 <сit type="example"><text>fra sjøsida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с моря, со стороны моря</text></cit></cit>
 <сit type="example"><text>på sjøsida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у моря</text></cit></cit>

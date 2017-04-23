@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fortegning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 модель, образец, узор
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fortegning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 ошибочная запись, неверный рисунок
 </sense>
 </entry>

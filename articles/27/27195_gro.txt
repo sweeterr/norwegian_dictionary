@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gro</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
 рост, прорастание
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">gro</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 прорастать, расти, давать побеги, произрастать
 <сit type="example"><text>gro fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расти, вырастать</text></cit></cit>
 <сit type = "example"><text>gro igjen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вновь зарасти, порасти травой</text></cit></cit>

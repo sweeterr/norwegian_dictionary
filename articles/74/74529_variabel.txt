@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">variabel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elen, -ler</em>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
 <u>мат.</u> переменная величина
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">variabel</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 изменчивый, неустойчивый, непостоянный, переменный

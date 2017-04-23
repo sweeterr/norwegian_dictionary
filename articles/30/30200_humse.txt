@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">humse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> подпрыгивать, ковылять, хромать
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">humse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> усмехаться про себя, приглушённо смеяться
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 голос
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">stemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 настраивать (напр. музыкальные инструменты)
@@ -56,7 +56,7 @@
 <index></index>
 <form>
 <orth type="lemma">stemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-met), -t (-met)</em>
+<inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 </form>
 <sense>
 запруживать, перегораживать плотиной

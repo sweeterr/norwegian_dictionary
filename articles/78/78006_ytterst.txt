@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ytterst</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 самый крайний, самый последний, самый внешний
 <сit type = "example"><text>den ytterste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> самый крайний, дальний</text></cit></cit>
 <сit type = "example"><text>den ytterste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внешний, поверхностный</text></cit></cit>
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">ytterst</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 крайне, в высшей степени, чрезвычайно

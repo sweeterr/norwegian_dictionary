@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">polypp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u><span class="dic_color"><span class="dic_comment">, <u>мед.</u> полип
+<u>зоол.</u>, <u>мед.</u> полип
 </sense>
 <sense>
 <u>зоол.</u> каракатица, спрут

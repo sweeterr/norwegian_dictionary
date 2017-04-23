@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedkommende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 <сit type="example"><text>for denne manns vedkommende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается этого человека, относительно этого человека</text></cit></cit>
 <сit type="example"><text>(jeg) for mitt vedkommende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается меня</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedkommende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 касающийся, относящийся к
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedkommende</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 относительно, по поводу, что касается, касательно
 </sense>
 </entry>

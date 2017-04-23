@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">den</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
-<u>pers</u> 
+<gramGrp><pos>pers</pos></gramGrp>
+ 
 <inflection><orth>род. п. dens, n det, род. п. dets</orth></inflection>
 он, она (оно) (о существительных, не обозначающих лиц)
 </sense>

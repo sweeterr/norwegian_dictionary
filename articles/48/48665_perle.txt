@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">perle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 жемчуг, жемчужина <u>тж. перен.</u>
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">perle</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>разг.</u> замечательный
 </sense>
 </entry>
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">perle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 выступать крупными каплями

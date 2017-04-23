@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n (-t)</em>
+<inflection><orth extent="part">-n (-t)</orth></inflection>
 <u>фольк.</u> леший, домовой
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvette</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> упасть в обморок, потерять сознание
 </sense>
 </entry>

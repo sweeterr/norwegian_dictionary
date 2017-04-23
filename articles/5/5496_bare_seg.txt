@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bare seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 удержаться, воздержаться (от чего-л. - for)
 <сit type="example"><text>han kunne ikke bare seg for å smile</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не мог удержаться от улыбки, он не мог не улыбнуться</text></cit></cit>
 </sense>

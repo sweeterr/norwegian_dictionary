@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blokk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 обработанная глыба
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">blokk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 блок (политических партий, государств)
 </sense>
 </entry>

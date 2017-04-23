@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">panter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 чиновник, налагающий арест на имущество (при описи за долги)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">panter</orth>
-<em><span class="dic_color"><span class="dic_comment">-eren, -ere(r) (-rer)</em>
+<inflection><orth extent="part">-eren, -ere(r) (-rer)</orth></inflection>
 <u>зоол.</u> пантера, леопард
 </sense>
 </entry>

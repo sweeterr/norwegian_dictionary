@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">statsmakt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 государственная власть
 <сit type="example"><text>de tre statsmakter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>законодательная, исполнительная и судебная власти (Стортинг, правительство, Верховный суд в Норвегии)</text></cit></cit>
 <сit type="example"><text>den fjerde statsmakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пресса</text></cit></cit>

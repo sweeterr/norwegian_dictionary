@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snes</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 два десятка (как единица счёта штучных товаров)
 <сit type="example"><text>for et (en) snes år siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лет двадцать тому назад</text></cit></cit>
 </sense>

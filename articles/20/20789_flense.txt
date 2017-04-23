@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flense</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>тех.</u> загибать кромку (борты), фланцевать
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">flense</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 разделывать (тушу кита)
 </sense>
 </entry>

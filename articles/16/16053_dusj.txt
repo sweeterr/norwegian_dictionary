@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dusj</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 душ
 <сit type="example"><text>virke som en kald dusj</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>действовать (на кого-л.) как ушат холодной воды</text></cit></cit>
 </sense>

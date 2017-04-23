@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bedrøvelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 огорчение, печаль, забота
 <сit type="example"><text>til vår store bedrøvelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к нашему большому сожалению</text></cit></cit>
 </sense>

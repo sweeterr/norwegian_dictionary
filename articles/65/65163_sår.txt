@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sår</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 рана <u>тж. перен.</u>, ранение
 <сit type="example"><text>lett (åpent) sår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкая (открытая) рана</text></cit></cit>
 <сit type="example"><text>såret er lukket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рана закрылась</text></cit></cit>
@@ -18,7 +18,9 @@
 <index></index>
 <form>
 <orth type="lemma">sår</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 больной, болезненный

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvie</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-et, <u>уст.</u> kved), -dd (-et)</em>
+<inflection><orth extent="part">-dde (-et, <u>уст.</u> kved), -dd (-et)</orth></inflection>
 </form>
 <sense>
 ныть, хныкать
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvie</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> загонять скот в загон
 </sense>
 </entry>

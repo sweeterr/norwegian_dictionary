@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vel</orth>
-<em><span class="dic_color"><span class="dic_comment">-let, =</em>
+<inflection><orth extent="part">-let, =</orth></inflection>
 </form>
 <sense>
 благо, благополучие, польза
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">vel</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 хорошо, благополучно, успешно

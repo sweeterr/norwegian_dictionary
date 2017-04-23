@@ -4,20 +4,20 @@
 <index></index>
 <form>
 <orth type="lemma">sparre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 стропило
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> шпарутка
+<u>текст.</u> шпарутка
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">sparre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>спорт.</u> боксировать
 </sense>
 </entry>

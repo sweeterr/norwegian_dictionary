@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">setning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 <u>грам.</u> предложение
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">setning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 оседание, опускание, смещение (почвы)

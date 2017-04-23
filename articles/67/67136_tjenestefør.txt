@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">tjenestefør</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<u><span class="dic_color"><span class="dic_comment">см.</u> tjenstedyktig
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<ref>tjenstedyktig</ref>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">øl</orth>
-<em><span class="dic_color"><span class="dic_comment">ølen</em>
+<inflection><orth>ølen</orth></inflection>
 </form>
 <sense>
 дымка, лёгкий туман
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">øl</orth>
-<em><span class="dic_color"><span class="dic_comment">ølet (ølen)</em>
+<inflection><orth>ølet (ølen)</orth></inflection>
 </form>
 <sense>
 пиво

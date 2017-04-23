@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">erve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 наследство, наследие
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">erve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 наследовать, получать в наследство
 </sense>
 </entry>

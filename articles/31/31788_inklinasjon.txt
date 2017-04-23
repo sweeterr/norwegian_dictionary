@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">inklinasjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 склонность, расположение
 </sense>
 <sense>
-<u>астр.</u><span class="dic_color"><span class="dic_comment">, <u>физ.</u> наклонение, наклон, склонение
+<u>астр.</u>, <u>физ.</u> наклонение, наклон, склонение
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kannestøper</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 жестянщик
 <сit type="example"><text>politisk kannestøper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>политикан, краснобай</text></cit></cit>
 </sense>

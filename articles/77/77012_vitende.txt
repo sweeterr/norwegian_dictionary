@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vitende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 знание, осведомлённость
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">vitende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 знающий, сведущий
 <сit type="example"><text>bli (være) vitende om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать, быть в курсе</text></cit></cit>
 </sense>

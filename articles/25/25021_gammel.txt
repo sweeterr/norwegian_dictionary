@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">gammel</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em> <em><span class="dic_color"><span class="dic_comment">(komp eldre, superl eldest)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+ <inflection><orth>(komp eldre, superl eldest)</orth></inflection>
 </form>
 <sense>
 старый

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 барак
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">brakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 возделывать землю под пар
 </sense>
 </entry>

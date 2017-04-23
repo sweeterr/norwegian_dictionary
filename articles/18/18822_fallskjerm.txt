@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fallskjerm</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 парашют
 <сit type="example"><text>hoppe ut med (i) fallskjerm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прыгать с парашютом</text></cit></cit>
 </sense>

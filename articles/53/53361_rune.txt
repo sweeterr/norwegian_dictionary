@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rune</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">rune</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>лит.</u> руна, финская эпическая песнь
 </sense>
 </entry>

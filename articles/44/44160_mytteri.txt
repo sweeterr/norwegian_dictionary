@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mytteri</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 бунт, мятеж
 <сit type="example"><text>anstifte et mytteri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спровоцировать мятеж</text></cit></cit>
 <сit type="example"><text>få i stand mytteri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять мятеж</text></cit></cit>

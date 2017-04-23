@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ruske</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">ruske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 дёргать, трясти
@@ -40,7 +40,7 @@
 <index></index>
 <form>
 <orth type="lemma">ruske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> моросить (о дожде)
 </sense>
 </entry>

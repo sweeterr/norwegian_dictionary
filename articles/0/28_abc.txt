@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">abc</orth>
-<span class="dic_color"><span class="dic_comment">|abe'se:|
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
+<phon>|abe'se:|</phon>
+<inflection><orth extent="part">-'en, -'er</orth></inflection>
 </form>
 <sense>
 азбука

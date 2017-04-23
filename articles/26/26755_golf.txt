@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">golf</orth>
 <phon>|golf|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>геогр.</u> морской залив
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">golf</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>спорт.</u> гольф
 </sense>
 </entry>

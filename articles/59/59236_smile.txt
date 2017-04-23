@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smile</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 улыбаться, усмехаться
 <сit type="example"><text>lykken smilte til ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему улыбнулось счастье</text></cit></cit>
 <сit type="example"><text>smile av, smile over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>улыбаться кому-л.</text></cit></cit>

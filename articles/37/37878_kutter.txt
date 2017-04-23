@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kutter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -е</em>
+<inflection><orth extent="part">-en, -е</orth></inflection>
 <u>мор.</u> катер, парусник, яхта
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kutter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>тех.</u> фреза, фрезер, резак
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">kutter</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> дрожащий звук
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dugurd</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 завтрак (в сельских районах Норвегии)
 <сit type="example"><text>en dag til dugurds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недолго, непродолжительный срок</text></cit></cit>
 </sense>

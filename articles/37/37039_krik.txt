@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 углубление, впадина, ямка, изгиб
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">krik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 кляча, одёр
 </sense>
 </entry>

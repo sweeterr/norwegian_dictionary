@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tott</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 пакля, очёсы
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">tott</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> большой палец руки
 </sense>
 </entry>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">tott</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 <u>мор.</u> туго выбранный, натянутый (о тросе)

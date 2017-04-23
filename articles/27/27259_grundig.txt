@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grundig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 основательный, тщательный (об исследовании), глубокий (о знаниях)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">grundig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 основательно, тщательно (изучать что-л.), глубоко (знать что-л.)
 </sense>
 </entry>

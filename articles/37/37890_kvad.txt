@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvad</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>поэт.</u>
 </form>
 <sense>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvad</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> kvede II
+<gramGrp><tns>pret</tns><note>от kvede II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

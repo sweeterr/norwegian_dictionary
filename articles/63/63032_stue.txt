@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stue</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 изба (в одну комнату), избушка, хижина, лачуга
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">stue</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-dde), -et (-dd)</em>
+<inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 тушить (мясо и т. п.)
 </sense>
 </entry>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">stue</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-dde), -et (-dd)</em>
+<inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 </form>
 <sense>
 <u>мор.</u> штивать, плотно укладывать (груз в трюме)

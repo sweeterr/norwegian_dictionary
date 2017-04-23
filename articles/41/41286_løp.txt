@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">løp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 деревянный ящичек с ручкой
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">løp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 бег
@@ -49,7 +49,7 @@
 <сit type="example"><text>tilføre løpet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закончить бег</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u><span class="dic_color"><span class="dic_comment">, <u>мор.</u> проплыв, заплыв, парусные соревнования
+<u>спорт.</u>, <u>мор.</u> проплыв, заплыв, парусные соревнования
 </sense>
 <sense>
 <u>муз.</u> пассаж, рулада
@@ -68,7 +68,7 @@
 <index></index>
 <form>
 <orth type="lemma">løp</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> løpe II
+<gramGrp><tns>pret</tns><note>от løpe II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

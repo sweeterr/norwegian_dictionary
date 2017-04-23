@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinde</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 лебёдка, ворот; <u>мор.</u> брашпиль
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinde</orth>
-<em><span class="dic_color"><span class="dic_comment">vandt, vundet</em>
+<inflection><orth>vandt, vundet</orth></inflection>
 </form>
 <sense>
 обматывать, обвивать, обвязывать
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 принюхиваться, нюхать, разнюхивать, тянуть носом (о животных)
 </sense>
 </entry>

@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">seig</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 выносливый
@@ -23,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">seig</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> sige II
+<gramGrp><tns>pret</tns><note>от sige II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

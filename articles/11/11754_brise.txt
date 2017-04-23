@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brise</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 слабо дуть (о ветре)
 <сit type="example"><text>brise opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слабо подуть, потянуть (о ветре)</text></cit></cit>
 </sense>

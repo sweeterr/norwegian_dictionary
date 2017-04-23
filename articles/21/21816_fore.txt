@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>уст.</u> поведение, поступок
 </sense>
 </entry>
@@ -12,8 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<em><span class="dic_color"><span class="dic_comment">fôre</em>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth>fôre</orth></inflection>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 кормить, давать корм (животным)
 <сit type="example"><text>fore opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закладывать корм (животным)</text></cit></cit>
 </sense>
@@ -22,8 +22,8 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<em><span class="dic_color"><span class="dic_comment">fôre</em>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth>fôre</orth></inflection>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 подшивать подкладку, ставить подкладку
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 впереди

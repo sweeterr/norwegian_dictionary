@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">løgner</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 лгун, лжец, врун
 <сit type="example"><text>gjøre én til løgner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обвинить кого-л. во лжи</text></cit></cit>
 </sense>

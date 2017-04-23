@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tiende</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 десятая часть
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">tiende</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 десятый
 </sense>
 </entry>

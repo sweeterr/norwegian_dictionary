@@ -4,13 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">hvo</orth>
-<u>pron</u> <u>уст.</u>
+<gramGrp><pos>pron</pos></gramGrp>
+ <u>уст.</u>
 </form>
 <sense>
-<u>inter</u> кто?
+<gramGrp><pos>inter</pos></gramGrp>
+ кто?
 </sense>
 <sense>
-<u>rel</u> тот который, который
+<gramGrp><pos>rel</pos></gramGrp>
+ тот который, который
 </sense>
 </entry>
 </superEntry>

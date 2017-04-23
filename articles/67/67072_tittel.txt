@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tittel</orth>
-<em><span class="dic_color"><span class="dic_comment">-telen, -ler</em>
+<inflection><orth extent="part">-telen, -ler</orth></inflection>
 </form>
 <sense>
 заголовок, заглавие (книги, рассказа), название (газеты, журнала)

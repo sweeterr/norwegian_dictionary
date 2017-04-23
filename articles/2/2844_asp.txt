@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">asp</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 осина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">asp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>зоол.</u> жерех
 </sense>
 </entry>

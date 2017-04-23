@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">leie</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 аренда, наём
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">leie</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 ложе, постель
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">leie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 вести
 <сit type="example"><text>leie ved (i) hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести за руку</text></cit></cit>
 </sense>
@@ -52,7 +52,7 @@
 <index></index>
 <form>
 <orth type="lemma">leie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
 сдавать внаём (в аренду)

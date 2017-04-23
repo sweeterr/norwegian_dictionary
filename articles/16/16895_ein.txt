@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">ein</orth>
-<u>num</u> один
+<gramGrp><pos>num</pos></gramGrp>
+ один
 </sense>
 </entry>
 </superEntry>

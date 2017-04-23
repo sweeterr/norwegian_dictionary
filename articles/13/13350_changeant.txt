@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">changeant</orth>
 <phon>|∫aŋ'∫aŋ|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 шёлковая ткань с переливчатой окраской
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">changeant</orth>
 <phon>|∫aŋ'∫aŋ|</phon>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 переливчатый, с переливами (о цвете)
 </sense>
 </entry>

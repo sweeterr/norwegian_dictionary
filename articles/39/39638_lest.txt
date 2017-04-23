@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lest</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 колодка (для обуви)
 <сit type="example"><text>skjære (slå) alle over en lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> стричь всех под одну гребёнку</text></cit></cit>
 <сit type="example"><text>skomaker, bli ved din lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> знай, чеботарь, своё кривое голенище (а в закройщики не суйся)!</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">lest</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u>
 </form>
 <sense>
@@ -28,14 +28,14 @@
 <index></index>
 <form>
 <orth type="lemma">lest</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> густая трава, густые хлеба
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">lest</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> less II
+<gramGrp><tns>pret</tns><note>от less II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ensilering</orth>
 <phon>|en-|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 силосование кормов
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klynge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 группа, кучка
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">klynge</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <сit type="example"><text>klynge opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вешать, вздёргивать на верёвке (канате)</text></cit></cit>
 <сit type="example"><text>klynge én opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повесить кого-л.</text></cit></cit>
 </sense>

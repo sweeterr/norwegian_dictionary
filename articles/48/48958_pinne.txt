@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pinne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 щепка, лучина, палочка, колышек
@@ -42,7 +42,8 @@
 <index></index>
 <form>
 <orth type="lemma">pinne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em> (тж. pinne opp)
+<inflection><orth extent="part">-et, -et</orth></inflection>
+ (тж. pinne opp)
 </form>
 <sense>
 щепать лучину, колоть дрова на мелкие поленья

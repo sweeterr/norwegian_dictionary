@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dublere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 удваивать, сдваивать
@@ -19,7 +19,7 @@
 <u>ж.-д.</u> назначать дополнительный поезд
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">охот.</em> сделать двойной выстрел (дублет)
+<u>охот.</u> сделать двойной выстрел (дублет)
 </sense>
 <sense>
 ударить дуплетом (в бильярдной игре)

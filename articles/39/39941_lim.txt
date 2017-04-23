@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lim</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 клей
 <сit type="example"><text>fast (flytende) lim</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый (жидкий) клей</text></cit></cit>
 <сit type="example"><text>dette limet binder godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этот клей хорошо клеит</text></cit></cit>
@@ -14,7 +14,8 @@
 <index></index>
 <form>
 <orth type="lemma">lim</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em> <u>диал.</u>
+<inflection><orth extent="part">-et</orth></inflection>
+ <u>диал.</u>
 известняк, известь
 </sense>
 </entry>

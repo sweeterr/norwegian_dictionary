@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mai</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 май
 <сit type="example"><text>mai kulde gjør bondens lader fulle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> май холодный - год хлебородный</text></cit></cit>
 </sense>

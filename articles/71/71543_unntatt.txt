@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">unntatt</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 см. unntagen I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">unntatt</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 см. unntagen II
 </sense>
 </entry>

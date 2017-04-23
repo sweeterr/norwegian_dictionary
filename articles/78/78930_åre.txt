@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">åre</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 весло
 <сit type="example"><text>dra (legge seg, trekke) på årene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налечь на вёсла</text></cit></cit>
 <сit type="example"><text>legge årene inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> табанить</text></cit></cit>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">åre</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 кровеносный сосуд, вена
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">åre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 место для костра в курной избе

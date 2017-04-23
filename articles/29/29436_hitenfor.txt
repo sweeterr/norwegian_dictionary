@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hitenfor</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 по эту сторону
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hitenfor</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 по эту сторону чего-л.
 </sense>
 </entry>

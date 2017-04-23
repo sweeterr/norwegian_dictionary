@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kiste</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 сундук
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">kiste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 складывать в штабеля (дрова)
 </sense>
 </entry>

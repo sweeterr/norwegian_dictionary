@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skuddvidde</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 дальность стрельбы (полёта снаряда), досягаемость огня
 <сit type="example"><text>innenfor skuddvidde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пределах досягаемости огня</text></cit></cit>
 <сit type="example"><text>utenfor skuddvidde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вне досягаемости огня</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">røyker</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 курильщик
 <сit type="example"><text>en sterk (lidenskapelig) røyker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заядлый курильщик</text></cit></cit>
 </sense>

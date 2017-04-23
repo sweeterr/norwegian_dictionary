@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kaste seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 бросаться
 <сit type="example"><text>kaste seg fram og tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метаться из стороны в сторону</text></cit></cit>
 <сit type="example"><text>kaste seg over kunst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увлечься искусством, уйти с головой в искусство</text></cit></cit>

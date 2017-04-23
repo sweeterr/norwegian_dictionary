@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dovning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> лентяй
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dovning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 безвозмездная помощь (соседей), помочь; <u>мор.</u> аврал

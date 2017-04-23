@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">at</orth>
-<u>adv</u> .
+<gramGrp><pos>adv</pos></gramGrp>
 как компонент сложных глаголов:
 <сit type="example"><text>bære seg at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести себя, держаться</text></cit></cit>
 <сit type="example"><text>skille at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отделять, разъединять, разделять</text></cit></cit>
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">at</orth>
-<em><span class="dic_color"><span class="dic_comment">konj</em>
+<gramGrp><pos>konj</pos></gramGrp>
 что, чтобы
 <сit type="example"><text>for at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтобы</text></cit></cit>
 <сit type="example"><text>uten at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без того чтобы</text></cit></cit>

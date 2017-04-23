@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">leite</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 момент
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">leite</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-te), -a (-t)</em>
+<inflection><orth extent="part">-a (-te), -a (-t)</orth></inflection>
 <ref>lete</ref>
 </sense>
 </entry>

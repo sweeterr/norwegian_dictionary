@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flyfotograff</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 фотографирование с воздуха, аэрофотосъёмка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">flyfotograff</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 аэрофотоснимок
 </sense>
 </entry>

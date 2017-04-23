@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">toppende</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 верхний конец, верхушка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">toppende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>toppende full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полный до краёв, переполненный</text></cit></cit>
 <сit type="example"><text>toppende gal (rasende)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно взбешённый</text></cit></cit>
 </sense>

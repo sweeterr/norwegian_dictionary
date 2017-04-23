@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjennom</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 вполне, весьма
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjennom</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на движение через какое-л. отверстие, через, в

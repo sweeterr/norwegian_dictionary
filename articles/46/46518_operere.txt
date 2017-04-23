@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">operere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 действовать, оперировать (чем-л. - med)
@@ -14,7 +14,7 @@
 <сit type="example"><text>la seg operere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласиться на операцию</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u><span class="dic_color"><span class="dic_comment">, <u>мор.</u> действовать; проводить операцию
+<u>воен.</u>, <u>мор.</u> действовать; проводить операцию
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">laug</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 местное объединение ремесленников
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">laug</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> купание
 </sense>
 </entry>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">laug</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> lyge
+<gramGrp><tns>pret</tns><note>от lyge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

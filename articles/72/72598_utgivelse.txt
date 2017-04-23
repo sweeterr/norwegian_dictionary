@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utgivelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 издание, опубликование
 <сit type="example"><text>under utgivelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в процессе опубликования, в печати</text></cit></cit>
 <сit type="example"><text>være under utgivelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подготавливаться к изданию</text></cit></cit>

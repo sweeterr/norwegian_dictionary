@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrelle</orth>
-<em><span class="dic_color"><span class="dic_comment">skrelte (skrall), skrelt</em>
+<inflection><orth>skrelte (skrall), skrelt</orth></inflection>
 </form>
 <sense>
 греметь, грохотать
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-let), -t (-let)</em>
+<inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 чистить, снимать кожицу (шелуху)
 </sense>
 </entry>

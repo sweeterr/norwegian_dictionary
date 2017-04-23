@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">relikt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 </form>
 <sense>
@@ -18,8 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">relikt</orth>
-<u>adj</u>
-<u>зоол.</u><span class="dic_color"><span class="dic_comment">, <u>бот.</u> реликтовый
+<gramGrp><pos>adj</pos></gramGrp>
+<u>зоол.</u>, <u>бот.</u> реликтовый
 </sense>
 </entry>
 </superEntry>

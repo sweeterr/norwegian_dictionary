@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innbyrdes</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 взаимный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">innbyrdes</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 взаимно, между собой, друг друга, друг другу
 </sense>
 </entry>

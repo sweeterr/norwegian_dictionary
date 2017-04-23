@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">g</orth>
 <phon>|ge|</phon>
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
+<inflection><orth extent="part">-'en, -'er</orth></inflection>
 </form>
 <sense>
 седьмая буква норвежского алфавита

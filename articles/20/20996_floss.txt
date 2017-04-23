@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">floss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 плюш
 <сit type="example"><text>av floss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плюшевый</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">floss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> см. flosshatt
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">floss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>воен.</u> <u>мор.</u> надувной спасательный плотик
 </sense>
 </entry>

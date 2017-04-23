@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tein</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 веретено (ручное)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">tein</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 <u>хим.</u> теин, танин (в чае)
 </sense>
 </entry>

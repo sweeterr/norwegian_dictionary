@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pølsepinne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <сit type="example"><text>koke suppe på en pølsepinne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> (делать) много шуму из ничего, делать из мухи слона</text></cit></cit>
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">småvær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 маленький рыбачий посёлок
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">småvær</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> переменная погода с небольшими дождями
 </sense>
 </entry>

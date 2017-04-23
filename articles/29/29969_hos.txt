@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">hos</orth>
-<u>adv</u> около, поблизости, рядом
+<gramGrp><pos>adv</pos></gramGrp>
+ около, поблизости, рядом
 <сit type="example"><text>være hos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>присутствовать</text></cit></cit>
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">hos</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении употребляется для обозначения местонахождения поблизости от предмета, около, у

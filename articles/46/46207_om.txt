@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">om</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">om</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 кругом, вокруг
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">om</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на движение или расположение вокруг данного предмета вокруг, за:
@@ -79,7 +79,7 @@
 <index></index>
 <form>
 <orth type="lemma">om</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 если, если бы, ли
 <сit type="example"><text>jeg vet ikke оm han er her</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не знаю, здесь ли он</text></cit></cit>
 <сit type="example"><text>om enn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если, хотя</text></cit></cit>

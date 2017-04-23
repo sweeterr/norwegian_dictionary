@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">indre</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 внутренняя часть, внутренность (чего-л.)
@@ -21,7 +21,8 @@
 <index></index>
 <form>
 <orth type="lemma">indre</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp innerst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp innerst)</orth></inflection>
 внутренний
 </sense>
 </entry>
@@ -29,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">indre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 сшивать двойным скрытым швом
 </sense>
 </entry>

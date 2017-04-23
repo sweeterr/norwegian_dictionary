@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avvinne</orth>
-<em><span class="dic_color"><span class="dic_comment">avvant, avvunnet</em>
+<inflection><orth>avvant, avvunnet</orth></inflection>
 добиться(чего-л.)
 <сit type="example"><text>avvinne noen interesse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возбудить интерес в ком-л., заинтересовать кого-л</text></cit></cit>
 </sense>

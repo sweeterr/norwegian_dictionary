@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stam</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 <u>зоол.</u> см. stamme II
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">stam</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 заикающийся
 </sense>
 </entry>

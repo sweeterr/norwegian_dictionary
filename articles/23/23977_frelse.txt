@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 спасение, избавление
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">frelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 спасать, избавлять, освобождать
 </sense>
 </entry>

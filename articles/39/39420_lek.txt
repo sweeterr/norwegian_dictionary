@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lek</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 игра, забава
@@ -24,7 +24,9 @@
 <index></index>
 <form>
 <orth type="lemma">lek</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 мирской, светский
 </sense>
 </entry>

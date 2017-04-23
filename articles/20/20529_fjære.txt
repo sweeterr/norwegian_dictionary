@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fjære</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
 отлив
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">fjære</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 убывать (о воде)
 <сit type="example"><text>det fjærer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вода убывает</text></cit></cit>
 </sense>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">fjære</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 подрессоривать, ставить пружины (рессоры)

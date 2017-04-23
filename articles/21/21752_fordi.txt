@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fordi</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 потому что, так как
 <сit type="example"><text>ikke fordi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не потому</text></cit></cit>
 <сit type="example"><text>fordi om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> даже если</text></cit></cit>

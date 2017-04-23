@@ -4,10 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">vill</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-дикий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+дикий <u>в разн. знач.</u>
 <сit type="example"><text>i vill tilstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в диком виде</text></cit></cit>
 <сit type="example"><text>vill (vilt) fremmed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно чужой</text></cit></cit>
 <сit type="example"><text>skyte vilt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять беспорядочно, наугад (не целясь)</text></cit></cit>

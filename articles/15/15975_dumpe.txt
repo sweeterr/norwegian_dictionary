@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dumpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 тяжело упасть; шлёпнуться
 <сit type="example"><text>dumpe igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провалиться (сквозь что-л.)</text></cit></cit>
 <сit type="example"><text>dumpe ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грохнуться</text></cit></cit>
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">dumpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>ком.</u> продавать по бросовым ценам, совершать демпинг
 </sense>
 </entry>

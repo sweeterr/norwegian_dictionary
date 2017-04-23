@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">betesukker</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 свекловичный сахар
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">betesukker</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em> кусковой сахар
+<inflection><orth extent="part">-et</orth></inflection>
+ кусковой сахар
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">åker</orth>
-<em><span class="dic_color"><span class="dic_comment">-eren, -rer</em>
+<inflection><orth extent="part">-eren, -rer</orth></inflection>
 поле, пашня, нива
 <сit type="example"><text>vårpløyd åker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>с.-х.</lbl> поле, вспаханное весной</text></cit></cit>
 <сit type="example"><text>åkeren ligger brak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поле стоит под паром</text></cit></cit>

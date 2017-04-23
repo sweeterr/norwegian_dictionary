@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">være</orth>
-<em><span class="dic_color"><span class="dic_comment">pres er, pret var, p.p. vært</em>
+<inflection><orth>pres er, pret var, p.p. vært</orth></inflection>
 </form>
 <sense>
 быть, существовать, жить
@@ -112,7 +112,7 @@
 <index></index>
 <form>
 <orth type="lemma">være</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 чуять

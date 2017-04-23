@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utefra</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 извне, снаружи
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">utefra</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 со стороны, с, из
 </sense>
 </entry>

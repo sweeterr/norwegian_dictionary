@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">verve</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 живость, яркость
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">verve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 вербовать, набирать, производить набор
 <сit type="example"><text>la seg verve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завербоваться</text></cit></cit>
 </sense>

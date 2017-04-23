@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">drev</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 травля, облава (на охоте)
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">drev</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> drive II
+<gramGrp><tns>pret</tns><note>от drive II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

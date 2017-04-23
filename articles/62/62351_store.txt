@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">store</orth>
 <phon>|sto:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 штора из тюля, гардина (из тюля, редкой прозрачной ткани)
 </sense>
 </entry>

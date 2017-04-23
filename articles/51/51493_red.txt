@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">red</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> рейд
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">red</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> ri II
+<gramGrp><tns>pret</tns><note>от ri II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

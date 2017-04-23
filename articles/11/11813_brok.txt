@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brok</orth>
-<em><span class="dic_color"><span class="dic_comment">broka, brøker</em>
+<inflection><orth>broka, brøker</orth></inflection>
 <u>диал.</u> штаны
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">brok</orth>
-<em><span class="dic_color"><span class="dic_comment">broken, brøker</em>
+<inflection><orth>broken, brøker</orth></inflection>
 <u>мор.</u> строп, буксирный канат
 </sense>
 </entry>

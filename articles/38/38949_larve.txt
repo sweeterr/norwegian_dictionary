@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">larve</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>зоол.</u> личинка, куколка, гусеница
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">larve</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>разг.</u> тряпка, лоскут
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ogival</orth>
 <phon>|-∫i-, -gi-|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>воен.</u> оживальная часть снаряда
 </sense>
 </entry>
@@ -13,7 +13,9 @@
 <index></index>
 <form>
 <orth type="lemma">ogival</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>воен.</u> заострённый, оживальный
 </sense>
 </entry>

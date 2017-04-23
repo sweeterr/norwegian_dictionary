@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fristelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 соблазн, искушение
 <сit type="example"><text>falle i fristelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддаться соблазну</text></cit></cit>
 <сit type="example"><text>føre en ut i fristelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соблазнять кого-л., вводить кого-л. в искушение</text></cit></cit>

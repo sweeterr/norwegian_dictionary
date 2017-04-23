@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">barbe(i)nt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 босой
 <сit type="example"><text>gå barbent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить босиком</text></cit></cit>
 </sense>

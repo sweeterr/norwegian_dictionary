@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kladask</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> хлопок, шлепок (рукой, чем-л. плоским)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kladask</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 шлёп, хлоп
 </sense>
 </entry>

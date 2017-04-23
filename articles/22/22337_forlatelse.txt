@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forlatelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 прощение, извинение
 <сit type="example"><text>om forlatelse !</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошу прощения, извините, простите</text></cit></cit>
 <сit type="example"><text>syndenes forlatelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>церк.</lbl> отпущение грехов</text></cit></cit>

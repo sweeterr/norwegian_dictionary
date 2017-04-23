@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kurve</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 <u>мат.</u> кривая (линия)
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">kurve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 гнуть, сгибать
 </sense>
 </entry>

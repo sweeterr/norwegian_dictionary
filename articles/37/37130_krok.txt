@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krok</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 крюк, крючок, костыль, багор
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">krok</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> kryke
+<gramGrp><tns>pret</tns><note>от kryke</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

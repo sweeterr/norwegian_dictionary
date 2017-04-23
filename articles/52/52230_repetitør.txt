@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">repetitør</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>муз.</u><span class="dic_color"><span class="dic_comment">, <u>театр.</u> аккомпаниатор
+<u>муз.</u>, <u>театр.</u> аккомпаниатор
 </sense>
 <sense>
 репетитор

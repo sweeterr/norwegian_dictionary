@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tufs</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 клок, прядь волос
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">tufs</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 пустяк, мелочь
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">tufs</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 хилый, болезненный

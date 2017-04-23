@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">styrbord</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 <u>мор.</u> правый борт
 <сit type="example"><text>om styrbord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с правого борта</text></cit></cit>
 <сit type="example"><text>roret hart styrbord!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право руля! (команда)</text></cit></cit>

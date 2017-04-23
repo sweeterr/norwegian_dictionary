@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bleik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 беление, отбелка
@@ -21,7 +21,9 @@
 <index></index>
 <form>
 <orth type="lemma">bleik</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 бледный

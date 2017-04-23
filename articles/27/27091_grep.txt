@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grep</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 хватка, ухватка, навык
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">grep</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> gripe
+<gramGrp><tns>pret</tns><note>от gripe</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

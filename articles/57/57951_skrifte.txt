@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t (-n)</em>
+<inflection><orth extent="part">-t (-n)</orth></inflection>
 <u>церк.</u> исповедь
 <сit type="example"><text>stå skrifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исповедоваться</text></cit></cit>
 <сit type = "example"><text>ta i skrifte :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> допрашивать</text></cit></cit>
@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 <u>церк.</u> исповедовать (кого-л.)

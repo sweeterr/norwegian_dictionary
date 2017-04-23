@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tromme</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>муз.</u> барабан
 <сit type="example"><text>trommene går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бьют в барабаны (в знак тревоги)</text></cit></cit>
 <сit type="example"><text>slå (røre) tromme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударять в барабан (в оркестре)</text></cit></cit>
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">tromme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 бить в барабан, барабанить

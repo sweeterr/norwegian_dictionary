@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bleike</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>зоол.</u> мерланка, или пикша черноморская
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bleike</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 белить, отбеливать (ткань, бумагу), обесцвечивать
 </sense>
 </entry>

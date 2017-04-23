@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">koke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <сit type="example"><text>en koke fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порция рыбы (которую можно сварить в один приём)</text></cit></cit>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">koke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 кипеть

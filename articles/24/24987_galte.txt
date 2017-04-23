@@ -4,13 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">galte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em> см. galt I
+<inflection><orth extent="part">-n, -r</orth></inflection>
+ см. galt I
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">galte</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> gale
+<gramGrp><tns>pret</tns><note>от gale</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,13 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">batt</orth>
-<u>диал.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</em> binde
+<u>диал.</u> 
+<gramGrp><tns>pret</tns><note>от binde</note></gramGrp>
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">batt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> bitte I
+<gramGrp><tns>pret</tns><note>от bitte I</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

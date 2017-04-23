@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">langs</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 вдоль
 <сit type="example"><text>langs hele fronten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по всему фронту, на протяжении всего фронта</text></cit></cit>
 <сit type="example"><text>langs kysten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль побережья</text></cit></cit>

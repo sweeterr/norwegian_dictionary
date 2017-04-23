@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">riste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 трясти, вытрясать, встряхивать
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">riste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 вырезать (высекать) письмена (на коре, камне)
 <сit type="example"><text>riste inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>врезаться в память</text></cit></cit>
 </sense>
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">riste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 жарить на открытом огне

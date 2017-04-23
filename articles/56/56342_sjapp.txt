@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjapp</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>
@@ -16,7 +16,7 @@
 </sense>
 <sense>
 <u>разг.</u> парикмахерская
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>

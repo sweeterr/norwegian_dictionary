@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">middel</orth>
-<em><span class="dic_color"><span class="dic_comment">-delet (-let), -ler</em>
+<inflection><orth extent="part">-delet (-let), -ler</orth></inflection>
 </form>
 <sense>
 средство, способ
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">middel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>разг.</u> класс (средней школы)
 </sense>
 </entry>

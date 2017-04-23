@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">daglig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 ежедневный, каждодневный
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">daglig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 ежедневно, каждый день
 </sense>
 </entry>

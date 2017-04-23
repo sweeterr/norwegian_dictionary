@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">få</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp færre, superl færrest)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp færre, superl færrest)</orth></inflection>
 немногие, небольшое количество, несколько
 <сit type="example"><text>ikke få</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не малое число, не малое количество</text></cit></cit>
 <сit type="example"><text>i få ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в нескольких словах</text></cit></cit>
@@ -15,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">få</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 немногие, мало
 </sense>
 </entry>
@@ -23,10 +24,10 @@
 <index></index>
 <form>
 <orth type="lemma">få</orth>
-<em><span class="dic_color"><span class="dic_comment">fikk, fått</em>
+<inflection><orth>fikk, fått</orth></inflection>
 </form>
 <sense>
-получать <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+получать <u>в разн. знач.</u>
 <сit type="example"><text>få noe til odel og eie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить что-л. в наследство</text></cit></cit>
 <сit type="example"><text>få en til ekte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять в мужья, жёны</text></cit></cit>
 <сit type="example"><text>få hinannen (hverandre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожениться</text></cit></cit>
@@ -99,7 +100,7 @@
 <index></index>
 <form>
 <orth type="lemma">få</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> размачивать, мочить (лен, коноплю)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">danke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> бродить, слоняться без дела
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">danke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> отпускать (домой), увольнять (с работы)
 </sense>
 </entry>

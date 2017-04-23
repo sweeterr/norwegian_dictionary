@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">trau</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> ленивый, медлительный
 </sense>
 </entry>
@@ -12,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">trau</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 корытце (для теста, воды, корма)

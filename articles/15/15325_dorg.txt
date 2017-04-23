@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dorg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 длинная леса (бечёвка) с приманкой на крючке (для ловли рыбы с движущегося судна
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dorg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 ловля рыбы с помощью длинной лесы (бечёвки) с приманкой на крючке (с движущегося судна)
 </sense>
 </entry>

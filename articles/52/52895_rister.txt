@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rister</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 высекатель рун
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rister</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>тех.</u> встряхиватель (при сортировке)
 </sense>
 </entry>

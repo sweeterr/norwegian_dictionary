@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slakk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 мор, отвисшая часть троса, ходовой (свободный) конец троса
 <сit type="example"><text>ta (hale) inn slakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбрать провисший трос, натянуть трос</text></cit></cit>
 </sense>
@@ -13,7 +13,9 @@
 <index></index>
 <form>
 <orth type="lemma">slakk</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 свободный, ненатянутый (о тросе)

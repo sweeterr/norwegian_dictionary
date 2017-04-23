@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjevle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 скалка (для раскатывания теста)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjevle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 раскатывать тесто скалкой
 </sense>
 </entry>

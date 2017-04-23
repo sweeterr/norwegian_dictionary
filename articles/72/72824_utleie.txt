@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utleie</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 сдача внаём (напрокат)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">utleie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 сдавать внаём (напрокат)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">banner</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -e</em>
+<inflection><orth extent="part">-et, -e</orth></inflection>
 знамя, флаг, стяг
 <сit type="example"><text>tjene under ens banner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить под чьим-л. знаменем</text></cit></cit>
 </sense>

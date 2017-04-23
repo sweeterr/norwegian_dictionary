@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">fornøden</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>уст.</u> необходимый
 <сit type="example"><text>det er fornødent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нужно, необходимо</text></cit></cit>
 <сit type = "example"><text>ha noe fornødent :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> нуждаться в чём-л., ощущать потребность в чём-л.</text></cit></cit>

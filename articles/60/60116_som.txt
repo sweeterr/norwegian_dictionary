@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">som</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 который, которая, которое, которые, что, кто
 <сit type="example"><text>den (hvem) som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который; та, которая</text></cit></cit>
 <сit type="example"><text>det (hva) som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то, которое</text></cit></cit>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">som</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
 как; так, как ...

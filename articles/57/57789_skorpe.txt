@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skorpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 корка (хлеба), кора (Земли), струп (на ране), наст (на снегу)
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">skorpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 покрываться коркой (тж. skorpes)

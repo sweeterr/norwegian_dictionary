@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">raske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 торопиться
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">raske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">raske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 подходить (о тесте)
 </sense>
 </entry>

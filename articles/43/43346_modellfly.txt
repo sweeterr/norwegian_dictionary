@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">modellfly</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 авиамодель
 <сit type="example"><text>modellfly med mekanisk motor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>авиамодель с механическим мотором</text></cit></cit>
 </sense>

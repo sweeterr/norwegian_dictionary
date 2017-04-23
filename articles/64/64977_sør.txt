@@ -4,14 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">sør</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em> см. syd I
+<inflection><orth extent="part">-et</orth></inflection>
+ см. syd I
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">sør</orth>
-<u>adv</u> к югу, на юге)
+<gramGrp><pos>adv</pos></gramGrp>
+ к югу, на юге)
 </sense>
 </entry>
 </superEntry>

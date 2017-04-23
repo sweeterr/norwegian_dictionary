@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pisk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 кнут, плётка, хлыст, арапник
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">pisk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, =</em>
+<inflection><orth extent="part">-en, =</orth></inflection>
 </form>
 <sense>
 удар хлыстом (кнутом, плёткой)

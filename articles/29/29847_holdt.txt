@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">holdt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 привал, остановка
@@ -18,14 +18,14 @@
 <index></index>
 <form>
 <orth type="lemma">holdt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret и p.p. от</em> holde
+<gramGrp><tns>pret и p.p.</tns><note>от holde</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">holdt</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 <сit type="example"><text>holdt!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоп! <lbl>воен.</lbl> стой! (команда)</text></cit></cit>
 <сit type="example"><text>holdt litt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подожди немного</text></cit></cit>
 </sense>

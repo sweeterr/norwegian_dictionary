@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bekomme</orth>
-<em><span class="dic_color"><span class="dic_comment">bekom, bekommet</em>
+<inflection><orth>bekom, bekommet</orth></inflection>
 </form>
 <sense>
 <сit type="example"><text> bekomme en vel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть кого-л. на пользу</text></cit></cit>

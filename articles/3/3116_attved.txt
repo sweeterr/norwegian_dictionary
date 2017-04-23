@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">attved</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>диал.</u> в дополнение, ещё, к тому же
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">attved</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 <u>диал.</u> рядом с (кем-л.), около, подле
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 морда, рыло, пятачок (у свиньи)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 мул
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">mule</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 мюль-машина
 </sense>
 </entry>

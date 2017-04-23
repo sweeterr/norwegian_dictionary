@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">per</orth>
-<em><span class="dic_color"><span class="dic_comment">(в письменной форме pr.)</em> <u>prep</u>
+<orth type="var">pr.<note>в письменной форме</note></orth>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 указывает на пункт, через который совершается движение, через

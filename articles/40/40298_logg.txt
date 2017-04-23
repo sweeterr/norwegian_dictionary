@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">logg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> лаг (прибор для измерения скорости судна)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">logg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <сit type="example"><text>være sid i loggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть крепким (выносливым)</text></cit></cit>
 <сit type="example"><text>være stø i loggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть твёрдым (выносливым, надёжным)</text></cit></cit>
 </sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">logg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 толстое бревно
 </sense>
 </entry>

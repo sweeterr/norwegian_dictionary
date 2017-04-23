@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">taug</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <ref>tau</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">taug</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> медлительный, неповоротливый
 </sense>
 </entry>
@@ -20,7 +20,8 @@
 <index></index>
 <form>
 <orth type="lemma">taug</orth>
-<u>уст.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</em> tie
+<u>уст.</u> 
+<gramGrp><tns>pret</tns><note>от tie</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

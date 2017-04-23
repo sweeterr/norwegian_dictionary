@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjennomgående</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 сквозной (о болте)
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjennomgående</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 сплошь, без исключения
 </sense>
 </entry>

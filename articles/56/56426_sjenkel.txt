@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjenkel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elen, -ler</em>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
 шенкель
 <сit type="example"><text>gi hesten sjenkelen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать лошади шенкеля</text></cit></cit>
 </sense>

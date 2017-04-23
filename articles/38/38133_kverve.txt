@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kverve</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> кольцо (из ивняка для закрывания калитки)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kverve</orth>
-<em><span class="dic_color"><span class="dic_comment">kvarv, kvervet</em>
+<inflection><orth>kvarv, kvervet</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">kverve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 искажать (действительность, факты)

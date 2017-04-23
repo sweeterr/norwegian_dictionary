@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gikt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 ревматизм
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">gikt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>тех.</u> загрузочное окно, колошник
 </sense>
 </entry>

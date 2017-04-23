@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spenning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 напряжённость, напряжённое состояние, натянутость, натянутые
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">spenning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 удар ногой, пинок
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">glatt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 ровный, гладкий
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">glatt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> glette III
+<gramGrp><tns>pret</tns><note>от glette III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

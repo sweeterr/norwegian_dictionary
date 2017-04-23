@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">linnet</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
 полотняная (нижняя мужская) рубашка, женская сорочка
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">linnet</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>уст.</u> полотняный
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">steward</orth>
 <phon>|'stjuәrd|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em> стюард, официант (на пассажирском судне)
+<inflection><orth extent="part">-en, -er</orth></inflection>
+ стюард, официант (на пассажирском судне)
 </sense>
 </entry>
 </superEntry>

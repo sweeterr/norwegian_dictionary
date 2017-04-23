@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprøyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 шприц, спринцовка
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprøyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 пускать струю, брызгать
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprøyte</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text><lbl>разг.</lbl> sprøyte full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>битком набитый</text></cit></cit>
 <сit type="example"><text>sprøyte gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">aldeles</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 совершенно, совсем, вполне, абсолютно
 <сit type="example"><text>aldeles ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем не, вовсе не</text></cit></cit>
 <сit type="example"><text>helt og aldeles</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целиком и полностью</text></cit></cit>

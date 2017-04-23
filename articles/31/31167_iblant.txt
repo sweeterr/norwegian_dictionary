@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">iblant</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 иногда, временами, время от времени
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">iblant</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 <u>уст.</u> между, среди
 <сit type="example"><text>iblant annet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>между прочим</text></cit></cit>
 </sense>

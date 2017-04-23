@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blei</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> см. bleig
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">blei</orth>
-<u>диал.</u> <em><span class="dic_color"><span class="dic_comment">pret — от</em> bli
+<u>диал.</u> 
+<gramGrp><tns>pret</tns><note>от bli</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

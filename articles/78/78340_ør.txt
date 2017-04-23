@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ør</orth>
-<em><span class="dic_color"><span class="dic_comment">øren (øra), ører</em>
+<inflection><orth>øren (øra), ører</orth></inflection>
 </form>
 <sense>
 песчаная коса
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">ør</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 сбитый с толку, ошарашенный, теряющий сознание

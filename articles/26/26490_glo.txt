@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">glo</orth>
-<em><span class="dic_color"><span class="dic_comment">gloen (gloa), glør</em>
+<inflection><orth>gloen (gloa), glør</orth></inflection>
 </form>
 <sense>
 горящий уголь, жар
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">glo</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 пристально глядеть, уставиться, выпучить глаза (на что-л. - etter, på)
 </sense>
 </entry>

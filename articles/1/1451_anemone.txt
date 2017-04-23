@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">anemone</orth>
-<span class="dic_color"><span class="dic_comment">|-'mu:-|
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<phon>|-'mu:-|</phon>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>бот.</u> ветреница
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bandy</orth>
 <phon>|'bændi|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>спорт.</u> хоккей с мячом
 </sense>
 </entry>

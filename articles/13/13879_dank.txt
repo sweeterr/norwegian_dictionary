@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 праздное времяпрепровождение, безделье, шатание без дела
 <сit type="example"><text>drive dank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>болтаться без дела, шататься</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">dank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 медяк, медная монета
 </sense>
 </entry>

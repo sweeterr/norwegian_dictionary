@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 напряжённый, находящийся в напряжённом состоянии
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">spent</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>диал.</u> совершенно, целиком и полностью
 </sense>
 </entry>

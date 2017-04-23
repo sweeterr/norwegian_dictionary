@@ -6,11 +6,12 @@
 <orth type="lemma">etsning</orth>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 гравирование на металле травлением
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em> гравюра на металле, офорт
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
+ гравюра на металле, офорт
 </sense>
 </entry>
 </superEntry>

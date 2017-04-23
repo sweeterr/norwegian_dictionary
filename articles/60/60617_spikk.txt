@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 проделка, (злая) шутка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 обрезки, отходы
 </sense>
 </entry>

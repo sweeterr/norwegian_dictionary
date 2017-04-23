@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rør</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 труба, трубка, трубочка
@@ -63,7 +63,7 @@
 <index></index>
 <form>
 <orth type="lemma">rør</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u> чепуха, ерунда, болтовня
 </sense>
 </entry>

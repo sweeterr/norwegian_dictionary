@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">var</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> гной, гнойная жидкость
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">var</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 наволочка, чехол
 </sense>
 </entry>
@@ -20,7 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">var</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 бдительный, насторожённый, внимательный
@@ -46,7 +48,7 @@
 <index></index>
 <form>
 <orth type="lemma">var</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> være I
+<gramGrp><tns>pret</tns><note>от være I</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">moderskjøt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 лоно матери, материнское лоно
 <сit type="example"><text>jordens moderskjøt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недра земли</text></cit></cit>
 </sense>

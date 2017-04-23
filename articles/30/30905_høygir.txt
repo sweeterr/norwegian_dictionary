@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">høygir</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
-<u>тех.</u><span class="dic_color"><span class="dic_comment">, <u>авт.</u> повышенная передача, передача большой скорости
+<inflection><orth extent="part">-et</orth></inflection>
+<u>тех.</u>, <u>авт.</u> повышенная передача, передача большой скорости
 <сit type = "example"><text>på høygir :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> на высокой скорости</text></cit></cit>
 <сit type = "example"><text>på høygir :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> с большим напряжением</text></cit></cit>
 </sense>

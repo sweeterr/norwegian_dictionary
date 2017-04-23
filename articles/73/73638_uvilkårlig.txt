@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvilkårlig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 непроизвольный, невольный, автоматический, спонтанный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">uvilkårlig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 непроизвольно, невольно, автоматически
 </sense>
 </entry>

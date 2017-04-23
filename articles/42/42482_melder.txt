@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">melder</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
 игрок, объявляющий козырь
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">melder</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

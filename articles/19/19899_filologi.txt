@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">filologi</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 филология
 <сit type="example"><text>germansk filologi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>германская филология</text></cit></cit>
 <сit type="example"><text>norrøn filologi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>древнескандинавская филология</text></cit></cit>

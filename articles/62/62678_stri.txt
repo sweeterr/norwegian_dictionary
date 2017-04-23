@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">stri</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 упрямый, своенравный
@@ -27,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">stri</orth>
-<em><span class="dic_color"><span class="dic_comment">stridde (stred), stridd (stridt)</em>
+<inflection><orth>stridde (stred), stridd (stridt)</orth></inflection>
 <ref>stride</ref>
 </sense>
 </entry>

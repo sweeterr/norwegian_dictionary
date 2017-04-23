@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">glede</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 радость, веселье
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">glede</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 <ref>gle</ref>
 </sense>
 </entry>

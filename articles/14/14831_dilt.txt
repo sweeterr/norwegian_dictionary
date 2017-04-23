@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dilt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 рысца
 <сit type="example"><text>kjøre dilt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать мелкой рысью</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">dilt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>разг.</u> человек, рабски подражающий чему-л., низкопоклонник
 </sense>
 </entry>

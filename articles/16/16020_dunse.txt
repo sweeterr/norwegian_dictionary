@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dunse</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>диал.</u> толстая неопрятная женщина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dunse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

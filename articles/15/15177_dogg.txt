@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dogg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 дог (порода собак)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dogg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 багор
@@ -25,7 +25,8 @@
 <index></index>
 <form>
 <orth type="lemma">dogg</orth>
-<em><span class="dic_color"><span class="dic_comment">-а</em> см. dugg I
+<inflection><orth extent="part">-а</orth></inflection>
+ см. dugg I
 </sense>
 </entry>
 </superEntry>

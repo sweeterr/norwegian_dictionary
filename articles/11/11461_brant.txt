@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">brant</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> крутой спуск, обрыв, круча, крутизна
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">brant</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> brenne II
+<gramGrp><tns>pret</tns><note>от brenne II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

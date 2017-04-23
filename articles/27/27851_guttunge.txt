@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">guttunge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 мальчонка, мальчуган, <u>пренебр.</u> мальчишка
 <сit type="example"><text>vanartet guttunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> паршивый мальчишка</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sky</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 боязнь, страх (перед чем-л. - for)
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">sky</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 облако, туча
@@ -47,7 +47,7 @@
 <index></index>
 <form>
 <orth type="lemma">sky</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 пугливый, боязливый (обычно о животных)
@@ -61,7 +61,7 @@
 <index></index>
 <form>
 <orth type="lemma">sky</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-et), -dd (-et)</em>
+<inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 </form>
 <sense>
 бояться, опасаться, остерегаться

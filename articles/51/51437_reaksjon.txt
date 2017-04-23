@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">reaksjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>хим.</u><span class="dic_color"><span class="dic_comment">, <u>физ.</u> реакция
+<u>хим.</u>, <u>физ.</u> реакция
 </sense>
 <sense>
 <u>психол.</u> ответная реакция

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">høy</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 сено
 <сit type="example"><text>nyslått høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежескошенное сено</text></cit></cit>
 <сit type="example"><text>høyet er inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сено свезено с поля (на сеновал)</text></cit></cit>
@@ -17,10 +17,12 @@
 <index></index>
 <form>
 <orth type="lemma">høy</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-высокий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+высокий <u>в разн. знач.</u>
 <сit type="example"><text>ti meter høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высотой в десять метров</text></cit></cit>
 <сit type="example"><text>to (tre, fire и т. д.) mann høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по два (три, четыре и т. д.) человека в глубину (о рядах)</text></cit></cit>
 <сit type="example"><text>høy i hatten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> чванный, надменный</text></cit></cit>

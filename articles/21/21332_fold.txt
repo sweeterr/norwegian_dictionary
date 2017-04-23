@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fold</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 складка, сгиб
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">fold</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> загон (для скота)
 </sense>
 </entry>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">fold</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <сit type="example"><text><lbl>диал.</lbl> kornet ga ti (fem) fold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>урожай зерновых сам-десят (сам-пят)</text></cit></cit>
 </sense>
 </entry>

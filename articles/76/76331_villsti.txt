@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">villsti</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 узкая дорожка (тропинка)
 <сit type="example"><text>på villsti</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на ложном пути</text></cit></cit>
 </sense>

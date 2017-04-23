@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">eng</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 луг, лужайка
 <сit type="example"><text>enårig og flerårig eng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>с.-х.</lbl> однолетние и многолетние травы</text></cit></cit>
 <сit type="example"><text>tykk eng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>луг с густой травой</text></cit></cit>
@@ -15,7 +15,9 @@
 <index></index>
 <form>
 <orth type="lemma">eng</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 узкий, ограниченный

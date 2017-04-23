@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 прилив
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">flo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">flo</orth>
-<em><span class="dic_color"><span class="dic_comment">floen (floa), floer (flør)</em>
+<inflection><orth>floen (floa), floer (flør)</orth></inflection>
 </form>
 <sense>
 ровный слой (земли и т. п.)

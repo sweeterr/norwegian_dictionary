@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bunker</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>воен.</u> дерево-земляное укрепление
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bunker</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>мор.</u> бункер, угольная яма
 </sense>
 </entry>

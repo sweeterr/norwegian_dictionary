@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">by</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 город
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">by</orth>
-<em><span class="dic_color"><span class="dic_comment">bød (bau(d), bydde), budt (bydd)</em>
+<inflection><orth>bød (bau(d), bydde), budt (bydd)</orth></inflection>
 </form>
 <sense>
 приглашать

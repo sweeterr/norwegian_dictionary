@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">intet</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>филос.</u> ничто
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">intet</orth>
-<u>pron</u> ср. от ingen
+<gramGrp><pos>pron</pos></gramGrp>
+ ср. от ingen
 </sense>
 </entry>
 </superEntry>

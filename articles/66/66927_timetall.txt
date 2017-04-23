@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">timetall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 число (количество) учебных (лекционных) часов
 <сit type="example"><text>i timetall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часами</text></cit></cit>
 </sense>

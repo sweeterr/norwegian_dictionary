@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ry</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 молва, слух
@@ -24,7 +24,9 @@
 <index></index>
 <form>
 <orth type="lemma">ry</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 неровный, шероховатый, шершавый
@@ -43,7 +45,7 @@
 <index></index>
 <form>
 <orth type="lemma">ry</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 кишеть

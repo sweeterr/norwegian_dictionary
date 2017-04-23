@@ -4,13 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">hvis</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
-<u>inter</u> чей?, чья?, чьё?, чьи?
+<gramGrp><pos>inter</pos></gramGrp>
+ чей?, чья?, чьё?, чьи?
 </sense>
 <sense>
-<u>rel</u>
+<gramGrp><pos>rel</pos></gramGrp>
 чей, чья, чьё, чьи
 </sense>
 </entry>
@@ -18,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">hvis</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 если, в том случае если, если бы
 </sense>
 </entry>

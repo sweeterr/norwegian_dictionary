@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dakapo</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 бис! (возглас)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">dakapo</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>муз.</u> повторно, на бис
 <сit type="example"><text>spille dakapo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на бис</text></cit></cit>
 </sense>

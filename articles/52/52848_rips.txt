@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rips</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 красная (белая) смородина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rips</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 репс (ткань)
 </sense>
 </entry>

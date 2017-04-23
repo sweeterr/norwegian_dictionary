@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">dårlig</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp verre, supert verst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp verre, supert verst)</orth></inflection>
 </form>
 <sense>
 плохой, скверный
@@ -35,7 +36,8 @@
 <index></index>
 <form>
 <orth type="lemma">dårlig</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp verre, supert verst)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp verre, supert verst)</orth></inflection>
 плохо, скверно
 </sense>
 </entry>

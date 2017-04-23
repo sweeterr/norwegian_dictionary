@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">åreslag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 взмах веслом, гребок
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">åreslag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 удар пульса
 <сit type="example"><text>kjenne på åreslagene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проверять пульс</text></cit></cit>
 </sense>

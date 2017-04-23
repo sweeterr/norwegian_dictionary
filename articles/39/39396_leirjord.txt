@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">leirjord</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 глинистая почва, суглинок
 </sense>
 <sense>
-<u>хим.</u><span class="dic_color"><span class="dic_comment">, <u>тех.</u> глинозём, окись алюминия
+<u>хим.</u>, <u>тех.</u> глинозём, окись алюминия
 </sense>
 </entry>
 </superEntry>

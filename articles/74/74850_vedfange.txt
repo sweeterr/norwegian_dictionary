@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vedfange</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, =</em>
+<inflection><orth extent="part">-t, =</orth></inflection>
 вязанка дров
 <сit type="example"><text>ligge på vedfange</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> отправиться за дровами в лес</text></cit></cit>
 </sense>

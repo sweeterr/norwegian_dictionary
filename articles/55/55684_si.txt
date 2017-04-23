@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">si</orth>
-<u>pron</u> (<em><span class="dic_color"><span class="dic_comment">f</em> от sin, обычно стоит после сущ.)
+<gramGrp><pos>pron</pos></gramGrp>
+<gramGrp><gender>f</gender><note>от sin, обычно стоит после сущ.</note></gramGrp>
 своя
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">si</orth>
-<em><span class="dic_color"><span class="dic_comment">sa, sagt</em>
+<inflection><orth>sa, sagt</orth></inflection>
 </form>
 <sense>
 говорить, сказать

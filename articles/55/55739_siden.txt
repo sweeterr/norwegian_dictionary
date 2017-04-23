@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">siden</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 с тех пор
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">siden</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 начиная с
 <сit type="example"><text>siden i går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со вчерашнего дня</text></cit></cit>
 <сit type="example"><text>siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>1963 начиная с 1963 года</text></cit></cit>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">siden</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
 так как, поскольку

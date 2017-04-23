@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøsk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> верзила, силач
 <u>разг.</u> битюг
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøsk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 трухлявое дерево

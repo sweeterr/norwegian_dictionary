@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 взгляд, взор, выражение глаз
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">blikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 блик, отблеск
@@ -41,7 +41,7 @@
 <index></index>
 <form>
 <orth type="lemma">blikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 жесть, листовое железо

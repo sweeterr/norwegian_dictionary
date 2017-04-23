@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">partisipium</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er (-a)</em>
+<inflection><orth extent="part">-et, -er (-a)</orth></inflection>
 <u>грам.</u> причастие
 <сit type="example"><text>nåtids (present) partisipium</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>причастие настоящего времени, причастие I</text></cit></cit>
 <сit type="example"><text>fortids (perfektum) partisipium</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>причастие прошедшего времени, причастие II</text></cit></cit>

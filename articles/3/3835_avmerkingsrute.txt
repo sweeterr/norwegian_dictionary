@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avmerkingsrute</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>комп.</u> позиция для отметки, окошко метки, флаговая кнопка (для указания включения/выключения требуемых опций, напр. "галочкой" или "крестиком")
 </sense>
 </entry>

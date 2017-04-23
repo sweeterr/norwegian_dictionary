@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">revers</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 обратная сторона (монеты и т. п.); <u>перен.</u> обратная сторона медали
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">revers</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>тех.</u> реверс, обратный ход
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vogge</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 колыбель, люлька
 см. тж. vugge I
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">vogge</orth>
-<em><span class="dic_color"><span class="dic_comment">-get (-de), -get (-d)</em>
+<inflection><orth extent="part">-get (-de), -get (-d)</orth></inflection>
 убаюкивать, укачивать, баюкать, качать (ребёнка)
 см. тж. vugge II
 </sense>

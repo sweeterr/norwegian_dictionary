@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">daglys</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 светлый, немеркнущий (о северном вечере, ночи), белый (о ночах на севере)
 </sense>
 </entry>

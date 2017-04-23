@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">stor</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t (komp større, superl størst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t (komp større, superl størst)</orth></inflection>
 </form>
 <sense>
 большой, крупный, <u>перен.</u> великий

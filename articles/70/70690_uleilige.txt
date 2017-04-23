@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uleilige</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 беспокоить, тревожить, причинять беспокойство, утруждать
 <сit type="example"><text>må jeg uleilige Dem med ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> могу я (разрешите) вас побеспокоить</text></cit></cit>
 <сit type="example"><text>uleilige Dem ikke!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не беспокойтесь!</text></cit></cit>

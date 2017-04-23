@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snø</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 снег
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">snø</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <сit type="example"><text>det snør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт снег</text></cit></cit>
 <сit type="example"><text>snø inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заносить снегом</text></cit></cit>
 <сit type="example"><text>snø ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засыпать, покрыть снегом</text></cit></cit>

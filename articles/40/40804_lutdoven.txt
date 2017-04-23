@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">lutdoven</orth>
-<em><span class="dic_color"><span class="dic_comment">(тж. раздельно)</em> <u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<u>тж. раздельно</u> 
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>разг.</u> очень ленивый
 </sense>
 </entry>

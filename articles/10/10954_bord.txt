@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
 стол
@@ -52,7 +52,7 @@
 <form>
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>мор.</u> борт (судна)
 <сit type="example"><text>om bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на борту (см. тж. ombord)</text></cit></cit>
 <сit type="example"><text>over bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за бортом, за борт (см. тж. overbord)</text></cit></cit>
@@ -68,7 +68,7 @@
 <form>
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 доска, тесина
 </sense>
 </entry>
@@ -77,7 +77,7 @@
 <form>
 <orth type="lemma">bord</orth>
 <phon>|bord|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 край, кант (материи, ткани), кайма

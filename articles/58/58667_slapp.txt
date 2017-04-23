@@ -10,7 +10,9 @@
 <index></index>
 <form>
 <orth type="lemma">slapp</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 слабый, расслабленный, вялый, дряблый
@@ -32,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">slapp</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> slippe
+<gramGrp><tns>pret</tns><note>от slippe</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

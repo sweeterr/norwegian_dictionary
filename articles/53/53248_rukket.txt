@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rukket</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> в морщинах, в складках
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rukket</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> rekke III
+<gramGrp><tns>p.p.</tns><note>от rekke III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

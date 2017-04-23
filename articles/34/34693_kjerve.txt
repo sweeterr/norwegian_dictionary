@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjerve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 пук, связка, снопик, пучок (льна или веток)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjerve</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 вязать в пучки (лён, траву)

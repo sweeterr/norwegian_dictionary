@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">veit</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 <u>диал.</u> канава
@@ -17,7 +17,8 @@
 <index></index>
 <form>
 <orth type="lemma">veit</orth>
-<u>разг.</u> <em><span class="dic_color"><span class="dic_comment">pres — от</em> vite
+<u>разг.</u>
+<gramGrp><tns>pres</tns><note>от vite</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

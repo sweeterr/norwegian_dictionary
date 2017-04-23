@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vannskade</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 ущерб (убыток), нанесённый ливнем (наводнением, повреждением водопровода)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vannskade</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 повреждать (портить) водой (во время наводнения и т. п.)
 </sense>
 </entry>

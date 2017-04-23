@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 слой (земли, снега и т д.), пласт, напластование
@@ -53,7 +53,7 @@
 <сit type="example"><text>et sammensatt lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сборная команда</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u><span class="dic_color"><span class="dic_comment">, <u>мор.</u> орудия одного борта
+<u>воен.</u>, <u>мор.</u> орудия одного борта
 <сit type="example"><text>gi det glatte lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать залп всем бортом</text></cit></cit>
 <сit type="example"><text>på nytt lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снова, вновь</text></cit></cit>
 </sense>
@@ -62,7 +62,7 @@
 <index></index>
 <form>
 <orth type="lemma">lag</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u>
 </form>
 <sense>

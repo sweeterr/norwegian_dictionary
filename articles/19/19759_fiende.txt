@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fiende</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 враг, неприятель, противник
 <сit type="example"><text>en bitter fiende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>злейший враг</text></cit></cit>
 <сit type="example"><text>min argeste fiende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мой злейший враг</text></cit></cit>

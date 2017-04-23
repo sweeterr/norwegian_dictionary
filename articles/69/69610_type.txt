@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">type</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-тип <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+тип <u>в разн. знач.</u>
 </sense>
 <sense>
 модель, образец

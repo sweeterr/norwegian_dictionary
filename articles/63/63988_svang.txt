@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">svang</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -26,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">svang</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> svinge
+<gramGrp><tns>pret</tns><note>от svinge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

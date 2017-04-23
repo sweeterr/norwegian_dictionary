@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">pirum</orth>
-<u>adj</u> <u>predic</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<gramGrp><pos>predic</pos></gramGrp>
 пьяный, напившийся
 </sense>
 </entry>

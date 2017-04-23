@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rå</orth>
-<em><span class="dic_color"><span class="dic_comment">råen (råa), rær</em>
+<inflection><orth>råen (råa), rær</orth></inflection>
 <u>мор.</u> рея
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">rå</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 сырой
@@ -44,7 +46,7 @@
 <index></index>
 <form>
 <orth type="lemma">rå</orth>
-<em><span class="dic_color"><span class="dic_comment">rådde(rådet), rådd (rådet)</em>
+<inflection><orth>rådde(rådet), rådd (rådet)</orth></inflection>
 </form>
 <sense>
 советовать, рекомендовать
@@ -59,7 +61,7 @@
 <index></index>
 <form>
 <orth type="lemma">rå</orth>
-<em><span class="dic_color"><span class="dic_comment">rådde, rådd</em>
+<inflection><orth>rådde, rådd</orth></inflection>
 </form>
 <sense>
 господствовать (о порядке, дисциплине), царить (о тишине, молчании)

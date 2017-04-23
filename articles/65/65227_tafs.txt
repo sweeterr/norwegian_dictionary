@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tafs</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 клок, спутанная прядь, клубок
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">tafs</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> тряпьё, лохмотья, клочья
 </sense>
 </entry>

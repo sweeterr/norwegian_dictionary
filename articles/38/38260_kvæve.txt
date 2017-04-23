@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">kvæve</orth>
--a (<em><span class="dic_color"><span class="dic_comment">-et</em>)
+-a (
+<inflection><orth extent="part">-et</orth></inflection>
+)
 см. kvev II
 </sense>
 </entry>
@@ -12,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvæve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 см. kveve II
 </sense>
 </entry>
@@ -20,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvæve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 см. kveve III
 </sense>
 </entry>

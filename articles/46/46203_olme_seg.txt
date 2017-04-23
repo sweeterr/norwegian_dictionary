@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">olme seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 свирепеть
 <сit type="example"><text>olme seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассвирепеть</text></cit></cit>
 </sense>

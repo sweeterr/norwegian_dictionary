@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 грохот, гул, шум
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrell</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 очистки, обрезки, кожура, шелуха
 </sense>
 </entry>

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">mindre</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">komp</em> от liten
+<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><note>komp от liten</note></gramGrp>
 </form>
 <sense>
 меньший (о размере); более короткий (о времени)
@@ -20,7 +21,8 @@
 <index></index>
 <form>
 <orth type="lemma">mindre</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">komp — от</em> lite III, litt
+<gramGrp><pos>adv</pos></gramGrp>
+ <gramGrp><note>komp от lite III, litt</note></gramGrp>
 </form>
 <sense>
 менее, меньше, в меньшем количестве, в меньшей степени

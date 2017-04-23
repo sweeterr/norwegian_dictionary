@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ugreie</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 беспорядок, путаница, неразбериха
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">ugreie</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 спутывать, перепутывать, запутывать, приводить в беспорядок

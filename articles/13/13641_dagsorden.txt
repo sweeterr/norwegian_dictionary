@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dagsorden</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 повестка дня
 <сit type="example"><text>sette på dagsordenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>включить в повестку дня, поставить на обсуждение</text></cit></cit>
 <сit type="example"><text>stå (være) på dagsordenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на повестке дня</text></cit></cit>

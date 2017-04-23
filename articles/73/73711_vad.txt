@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vad</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 брод
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vad</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 невод, трал
 <сit type="example"><text>trekke vad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть невод</text></cit></cit>
 </sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">vad</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u> бечёвка с наживкой, толстая леса
 </sense>
 </entry>

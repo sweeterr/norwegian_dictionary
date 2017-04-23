@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">duge</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 годиться (на что-л. - til noe), подходить (к чему-л. - til noe)
 <сit type="example"><text>det duger ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не годится, так дело не пойдёт</text></cit></cit>
 </sense>

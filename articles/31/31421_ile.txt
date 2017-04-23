@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ile</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 источник, ключ
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ile</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 грузило (на сетях)
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">ile</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> завалинка, стена из дёрна (вокруг землянки или погреба)
 </sense>
 </entry>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">ile</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 мчаться, нестись, спешить, торопиться
 <сit type="example"><text>ile til hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спешить на помощь</text></cit></cit>
 <сit type="example"><text>tiden iler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время летит</text></cit></cit>

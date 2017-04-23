@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hagle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> дробовое ружьё
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hagle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <сit type="example"><text>det hagler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт град</text></cit></cit>
 <сit type="example"><text>det hagler ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыплется градом (о чём-л.)</text></cit></cit>
 </sense>

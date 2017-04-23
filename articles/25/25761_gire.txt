@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gire</orth>
 <phon>|'gi:rə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>тех.</u>
 </form>
 <sense>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">gire</orth>
 <phon>|'jirə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 <u>мор.</u> отклоняться от курса, сбиваться с курса

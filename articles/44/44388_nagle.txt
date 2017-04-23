@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nagle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 гвоздь
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">nagle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-ede), -et (-ed)</em>
+<inflection><orth extent="part">-et (-ede), -et (-ed)</orth></inflection>
 прибивать (прикреплять) гвоздями
 <сit type="example"><text>han sto som naglet fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он стоял как вкопанный</text></cit></cit>
 <сit type="example"><text>nagle øyne i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вперить взор во что-л.</text></cit></cit>

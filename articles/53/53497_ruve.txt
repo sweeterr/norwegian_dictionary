@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ruve</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 куча, груда, штабель, стопка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ruve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
 иметь большой объём, занимать много места

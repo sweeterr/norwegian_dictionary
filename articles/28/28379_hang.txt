@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hang</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
 чрезмерная страсть, склонность, тяга (к вину, обману и т. п.)
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">hang</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> henge
+<gramGrp><tns>pret</tns><note>от henge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">reiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> леса с крючком (без удилища)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">reiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 повязка, бандаж
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">reiv</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> rive II
+<gramGrp><tns>pret</tns><note>от rive II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

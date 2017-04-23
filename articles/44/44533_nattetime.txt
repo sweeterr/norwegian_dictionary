@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nattetime</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 ночной час
 <сit type="example"><text>de små nattetimene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время после полуночи</text></cit></cit>
 <сit type="example"><text>i de små nattetimene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глубокой ночью</text></cit></cit>

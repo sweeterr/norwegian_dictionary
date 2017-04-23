@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flid</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 старание, прилежание, рвение в работе
 <сit type="example"><text>med flid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарочито, нарочно</text></cit></cit>
 </sense>

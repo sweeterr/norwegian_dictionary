@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tenner</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
 зажигалка
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">tenner</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em>
+<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num><note>от tann</note></gramGrp>
 <сit type="example"><text>bite tennene sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стискивать зубы</text></cit></cit>
 <сit type="example"><text>flekke tenner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>показывать зубы, огрызаться</text></cit></cit>

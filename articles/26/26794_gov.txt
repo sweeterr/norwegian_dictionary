@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gov</orth>
 <phon>|go:v|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> облако (пыли, брызг, дыма, пара)
 </sense>
 </entry>

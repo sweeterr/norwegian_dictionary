@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">nauten</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<u><span class="dic_color"><span class="dic_comment">см.</u> nautet
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<ref>nautet</ref>
 </sense>
 </entry>
 </superEntry>

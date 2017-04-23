@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">inntil</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на движение до какого-л. предмета, к определённому предмету - до, к:
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">inntil</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 до тех пор пока
 </sense>
 </entry>

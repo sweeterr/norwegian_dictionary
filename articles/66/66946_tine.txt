@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tine</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 деревянная коробочка (круглая или овальная)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tine</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 таять, стаивать (о снеге, льде)
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">tine</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 выбирать рыбу из сети
 </sense>
 </entry>

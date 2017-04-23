@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tagge</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>комп.</u> расставлять теги, помечать раздел документа командами форматирования
 </sense>
 </entry>

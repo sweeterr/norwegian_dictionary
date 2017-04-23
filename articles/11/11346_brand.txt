@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brand</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> см. brann I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">brand</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 <u>диал.</u> стойка, столб
@@ -33,7 +33,7 @@
 <form>
 <orth type="lemma">brand</orth>
 <phon>|brænd|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 клеймо, фабричная марка
 </sense>
 </entry>

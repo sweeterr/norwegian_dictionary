@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">trafikkavdeling</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-<u>ж.-д.</u><span class="dic_color"><span class="dic_comment">, <u>ав.</u> отдел службы движения
+<u>ж.-д.</u>, <u>ав.</u> отдел службы движения
 </sense>
 <sense>
 отдел автоинспекции в полиции

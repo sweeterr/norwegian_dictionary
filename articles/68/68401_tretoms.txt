@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">tretoms</orth>
-<u>adj</u>
-<u>inv</u> трёхдюймовый
+<gramGrp><pos>adj</pos></gramGrp>
+
+<gramGrp><pos>inv</pos></gramGrp>
+ трёхдюймовый
 </sense>
 </entry>
 </superEntry>

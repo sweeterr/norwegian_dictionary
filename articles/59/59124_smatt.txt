@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">smatt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 чавканье, чмоканье
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">smatt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> smette III
+<gramGrp><tns>pret</tns><note>от smette III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

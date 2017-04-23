@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortunder</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 указывает на местоположение предмета где-то внизу, на значительном расстоянии от говорящего там внизу
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortunder</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 указывает на положение одного предмета под другим на расстоянии от говорящего там под чем-л.
 </sense>
 </entry>

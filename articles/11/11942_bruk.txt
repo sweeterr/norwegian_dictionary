@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bruk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 применение, употребление, использование
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">bruk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 хозяйство
@@ -56,7 +56,7 @@
 <index></index>
 <form>
 <orth type="lemma">bruk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> сплавной лес, сплав
 </sense>
 </entry>

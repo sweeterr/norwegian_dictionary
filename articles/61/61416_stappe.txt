@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stappe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 пюре; мусс
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">stappe</orth>
-<em><span class="dic_color"><span class="dic_comment">-pet (-te), -pet (-t)</em>
+<inflection><orth extent="part">-pet (-te), -pet (-t)</orth></inflection>
 </form>
 <sense>
 набивать, наполнять
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">stappe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> см. stampe III 3)
 </sense>
 </entry>

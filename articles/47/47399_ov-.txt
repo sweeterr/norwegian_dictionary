@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ov-</orth>
-<u>pref</u>
+<gramGrp><pos>pref</pos></gramGrp>
 со значением весьма, очень, чрезвычайно:
 <сit type="example"><text>ovtung</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайно тяжёлый</text></cit></cit>
 </sense>

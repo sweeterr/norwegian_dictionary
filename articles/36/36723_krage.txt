@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krage</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 ворот
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">krage</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 выдаваться вперёд, торчать, выступать, нависать (о карнизе, выступе, балке и т. п.)
 </sense>
 </entry>

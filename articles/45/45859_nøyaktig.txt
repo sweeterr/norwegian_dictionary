@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nøyaktig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 точный, пунктуальный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">nøyaktig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 точно, ровно

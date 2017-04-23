@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">seksti</orth>
 <phon>|'seksti|</phon>
-<u>num</u> шестьдесят
+<gramGrp><pos>num</pos></gramGrp>
+ шестьдесят
 </sense>
 </entry>
 </superEntry>

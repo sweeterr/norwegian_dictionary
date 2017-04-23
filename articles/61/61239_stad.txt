@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stad</orth>
-<em><span class="dic_color"><span class="dic_comment">staden, steder</em>
+<inflection><orth>staden, steder</orth></inflection>
 город:
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">stad</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> см. sted
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">stad</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>разг.</u> с места (тронуться, отправиться и т. п.)
 </sense>
 </entry>

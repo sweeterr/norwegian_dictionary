@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smurt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 смазанный
 </sense>
 </entry>
@@ -12,8 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">smurt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p.</em>
-от smøre
+<gramGrp><tns>p.p.</tns><note>от smøre</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

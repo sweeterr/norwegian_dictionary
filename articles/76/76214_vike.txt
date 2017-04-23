@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vike</orth>
-<em><span class="dic_color"><span class="dic_comment">ve(i)k (vikte), veket (vikt)</em>
+<inflection><orth>ve(i)k (vikte), veket (vikt)</orth></inflection>
 </form>
 <sense>
 отступать, отходить (перед кем-л. - for)
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">vike</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>

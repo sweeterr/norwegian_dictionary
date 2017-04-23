@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sla</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> пологая местность
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">sla</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 <u>диал.</u> пологий, покатый, отлогий
 </sense>
 </entry>

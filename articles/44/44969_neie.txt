@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">neie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 делать реверанс (книксен), приседать, приветствовать, слегка приседая (тж. neie seg)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">neie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 <u>мор.</u> найтовить, делать найтов
 </sense>
 </entry>

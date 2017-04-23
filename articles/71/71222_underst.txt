@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">underst</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 самый нижний
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">underst</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 ниже всего (всех), в самом низу
 </sense>
 </entry>

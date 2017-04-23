@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">eggcelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u><span class="dic_color"><span class="dic_comment">, <u>анат.</u> яйцеклетка
+<u>зоол.</u>, <u>анат.</u> яйцеклетка
 </sense>
 <sense>
 <u>бот.</u> семенная клетка

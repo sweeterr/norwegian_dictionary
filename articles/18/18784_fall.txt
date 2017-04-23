@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 падение <u>тж. перен.</u>
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">fall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 случай
@@ -59,7 +59,7 @@
 <index></index>
 <form>
 <orth type="lemma">fall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>мор.</u> фал
 </sense>
 </entry>

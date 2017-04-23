@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forskjell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 различие, разница
 <сit type="example"><text>til forskjell fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в отличие от ...</text></cit></cit>
 <сit type="example"><text>gjøre forskjell mellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать разницу между</text></cit></cit>

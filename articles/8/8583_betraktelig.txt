@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">betraktelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 значительный, видный, существенный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">betraktelig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 значительно, существенно, в немалой степени
 </sense>
 </entry>

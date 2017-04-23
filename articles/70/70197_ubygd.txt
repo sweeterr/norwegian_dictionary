@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">ubygd</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 пустынная (дикая) местность
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 незастроенный

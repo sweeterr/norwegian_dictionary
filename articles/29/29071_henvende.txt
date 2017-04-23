@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">henvende</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 обращать (речь к кому-л., внимание на что-л. - til)
 <сit type="example"><text>henvende seg til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращаться к кому-л.</text></cit></cit>
 </sense>

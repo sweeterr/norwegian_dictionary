@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">styrbar</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<u>мор.</u><span class="dic_color"><span class="dic_comment">, <u>ав.</u> управляемый, поддающийся управлению
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<u>мор.</u>, <u>ав.</u> управляемый, поддающийся управлению
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">naturlig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 естественный, природный
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">naturlig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 естественно

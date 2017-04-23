@@ -4,14 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">dirk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em> отмычка
+<inflection><orth extent="part">-en, -er</orth></inflection>
+ отмычка
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">dirk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em> <u>мор.</u> грузовой шкентель
+<inflection><orth extent="part">-en, -er</orth></inflection>
+ <u>мор.</u> грузовой шкентель
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">li</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 поросший лесом (травой) горный склон
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">li</orth>
-<em><span class="dic_color"><span class="dic_comment">lidde (le(i)d), lidd</em>
+<inflection><orth>lidde (le(i)d), lidd</orth></inflection>
 проходить, течь, идти (о времени)
 <сit type="example"><text>dagen le(i)d og skre(i)d</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>день клонился к вечеру</text></cit></cit>
 <сit type="example"><text>det le(i)d langt på høsten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было поздней осенью</text></cit></cit>

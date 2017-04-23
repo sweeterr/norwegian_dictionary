@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utvest</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> северо-северо-западный ветер
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">utvest</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>диал.</u> на северо-северо-запад
 </sense>
 </entry>

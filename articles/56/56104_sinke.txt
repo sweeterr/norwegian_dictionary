@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sinke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 умственно отсталый (дефективный) ребёнок
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">sinke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 замедлять, сдерживать
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">sinke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>стр.</u> вязать в лапу
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rabatt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 грядка, рабатка, удлинённая клумба
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">rabatt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 скидка (в цене), уступка
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snavl</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>груб.</u> рыло, пасть
 <сit type="example"><text>bruke snavla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брюзжать, браниться, ругаться</text></cit></cit>
 <сit type="example"><text>hold snavla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замолчи, заткни глотку</text></cit></cit>

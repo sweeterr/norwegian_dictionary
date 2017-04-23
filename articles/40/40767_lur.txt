@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 рожок
 <сit type="example"><text>blåse på (i) lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трубить в рожок</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">lur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 короткий сон
 <сit type="example"><text>ta seg (sove) en lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вздремнуть, чуть-чуть соснуть</text></cit></cit>
 </sense>
@@ -30,7 +30,9 @@
 <index></index>
 <form>
 <orth type="lemma">lur</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 хитрый, лукавый

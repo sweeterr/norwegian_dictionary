@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">av</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 прочь, в сторону, <u>мор.</u> на (некотором) расстоянии
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">av</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на исходный пункт движения, из, с:

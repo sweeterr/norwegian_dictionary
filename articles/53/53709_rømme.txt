@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rømme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 сливки
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rømme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-met), -t (-met)</em>
+<inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 </form>
 <sense>
 сбежать, дезертировать

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">løe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 сеновал (сарай)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">løe</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <ref>lø</ref>
 </sense>
 </entry>

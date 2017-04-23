@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">netter</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em> <gramGrp><num>pl</num><note>от natt</note></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+ <gramGrp><num>pl</num><note>от natt</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

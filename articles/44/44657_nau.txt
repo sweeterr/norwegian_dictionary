@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">nau</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>(t)
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+(t)
 <u>диал.</u> слабый (о ветре)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">passe</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 подходящий, пригодный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">passe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 соответствовать размерам, годиться, подходить, быть впору
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">passe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 следить, смотреть (за кем, чем-л. - på)
@@ -59,7 +59,7 @@
 <index></index>
 <form>
 <orth type="lemma">passe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>карт.</u> (с)пасовать
 </sense>
 </entry>
@@ -67,7 +67,7 @@
 <index></index>
 <form>
 <orth type="lemma">passe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>спорт.</u> передавать мяч, пасовать
 </sense>
 </entry>

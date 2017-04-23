@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hegre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>зоол.</u> цапля серая
 <сit type="example"><text>hvit hegre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цапля белая</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">hegre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <ref>hildre</ref>
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> лужа, мелкий пруд
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">flå</orth>
-<em><span class="dic_color"><span class="dic_comment">flåen (flåa), flåer (flær)</em>
+<inflection><orth>flåen (flåa), flåer (flær)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">flå</orth>
-<em><span class="dic_color"><span class="dic_comment">flåen (flåa), flåer (flær)</em>
+<inflection><orth>flåen (flåa), flåer (flær)</orth></inflection>
 <u>диал.</u> поплавок на рыболовной сети
 </sense>
 </entry>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">flå</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u>
 </form>
 <sense>
@@ -48,7 +48,7 @@
 <index></index>
 <form>
 <orth type="lemma">flå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 сдирать кожу, свежевать

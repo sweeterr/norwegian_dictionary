@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">filet</orth>
 <phon>|fi'le:|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 филе, филей, филейная часть (туши)
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">filet</orth>
 <phon>|fi'le:|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 филе (вышивка на сетке из ниток)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slette</orth>
-<em><span class="dic_color"><span class="dic_comment">-а (-en), -er</em>
+<inflection><orth extent="part">-а (-en), -er</orth></inflection>
 равнина, ровная местность
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">slette</orth>
-<em><span class="dic_color"><span class="dic_comment">-а</em>
+<inflection><orth extent="part">-а</orth></inflection>
 <u>диал.</u> см. sludd
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">slette</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 выравнивать, сравнивать, сглаживать, разгладить (складки)

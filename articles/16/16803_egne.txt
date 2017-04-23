@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">egne</orth>
 <phon>|einə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 подобать, приличествовать
 <сit type = "example"><text>være lite egnet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть плохо приспособленным (к чему-л. - til)</text></cit></cit>
 <сit type = "example"><text>være lite egnet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть неподходящим, непригодным (для чего-л.- til)</text></cit></cit>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">egne</orth>
 <phon>|еŋnə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 насаживать приманку
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 пристань, причал, мостки, мол, пирс
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">brygge</orth>
-<em><span class="dic_color"><span class="dic_comment">-get (-de), -get (-d)</em>
+<inflection><orth extent="part">-get (-de), -get (-d)</orth></inflection>
 гнать (самогон, брагу), варить (пиво, глинтвейн), приготовлять (пунш)
 <сit type="example"><text>brygge på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размышлять (о чём-л.)</text></cit></cit>
 <сit type="example"><text>brygge sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> <lbl>разг.</lbl> состряпать (что-л.)</text></cit></cit>

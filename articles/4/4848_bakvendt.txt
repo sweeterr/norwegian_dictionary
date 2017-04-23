@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakvendt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 обратный, повёрнутый задом наперёд
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakvendt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 задом наперёд

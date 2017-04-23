@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ettermiddag</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 время после полудня, вторая половина дня
 <сit type="example"><text>i ettermiddags</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня после обеда</text></cit></cit>
 <сit type="example"><text>i går ettermiddag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вчера во второй половине дня</text></cit></cit>

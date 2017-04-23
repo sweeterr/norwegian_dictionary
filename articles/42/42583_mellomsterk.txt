@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">mellomsterk</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 средний по силе, средний по крепости (о табаке, о вине)
 </sense>
 </entry>

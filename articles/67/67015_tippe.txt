@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">tippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 приводить в наклонное положение
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">tippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 давать на чай
@@ -53,7 +53,8 @@
 <index></index>
 <form>
 <orth type="lemma">tippe</orth>
-<u>int</u> tippe-tippe! цып-цып!
+<gramGrp><pos>int</pos></gramGrp>
+ tippe-tippe! цып-цып!
 </sense>
 </entry>
 </superEntry>

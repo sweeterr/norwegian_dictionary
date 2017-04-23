@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dommerfløyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>спорт.</u> судейский свисток, свисток судьи
 <сit type="example"><text>dommerfløyten gikk for full tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судья дал свисток, возвестивший об окончании матча</text></cit></cit>
 </sense>

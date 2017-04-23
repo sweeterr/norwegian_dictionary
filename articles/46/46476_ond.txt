@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">ond</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t (komp verre, superl verst)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t (komp verre, superl verst)</orth></inflection>
 </form>
 <sense>
 плохой, дурной, скверный

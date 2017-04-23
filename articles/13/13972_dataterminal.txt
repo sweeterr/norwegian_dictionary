@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dataterminal</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>комп.</u> оконечное устройство (для) сбора данных, терминал (для) ввода данных
 </sense>
 </entry>

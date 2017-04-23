@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">stil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стиль <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+стиль <u>в разн. знач.</u>
 <сit type="example"><text>gotisk stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>архит.</lbl> готический стиль</text></cit></cit>
 </sense>
 <sense>

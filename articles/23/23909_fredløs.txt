@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fredløs</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>бот.</u> вербейник
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">fredløs</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 опальный, находящийся вне закона, изгнанный

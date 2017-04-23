@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">herd</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 плита, под (в печи)
@@ -13,14 +13,14 @@
 шахта (доменной печи)
 </sense>
 <sense>
-<u>уст.</u><span class="dic_color"><span class="dic_comment">, <u>поэт.</u> очаг, камелёк
+<u>уст.</u>, <u>поэт.</u> очаг, камелёк
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">herd</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> плечо
 </sense>
 </entry>

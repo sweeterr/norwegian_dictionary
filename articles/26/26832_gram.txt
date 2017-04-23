@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gram</orth>
-<em><span class="dic_color"><span class="dic_comment">-met, =</em>
+<inflection><orth extent="part">-met, =</orth></inflection>
 грамм
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gram</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
 гусеница (бабочки)

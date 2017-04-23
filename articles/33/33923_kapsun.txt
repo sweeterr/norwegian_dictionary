@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kapsun</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 узда, уздечка с удилами
 <сit type="example"><text>legge kapsun på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> надеть узду на кого-л.; держать кого-л. в своих руках</text></cit></cit>
 </sense>

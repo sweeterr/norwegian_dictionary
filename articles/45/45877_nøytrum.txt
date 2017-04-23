@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">nøytrum</orth>
-<em><span class="dic_color"><span class="dic_comment">-umet</em>
+<inflection><orth extent="part">-umet</orth></inflection>
 </form>
 <sense>
-<u>грам.</u> <em><span class="dic_color"><span class="dic_comment">тк. sg</em> средний род
+<u>грам.</u> <u>тк. sg</u> средний род
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>-a</note></gramGrp>

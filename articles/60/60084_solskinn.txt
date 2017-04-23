@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">solskinn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 солнечный свет, солнечное сияние
 <сit type="example"><text>slikke solskinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>греться на солнце</text></cit></cit>
 </sense>

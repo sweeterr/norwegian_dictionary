@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krølle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 локон
 <сit type="example"><text>sette krøller i håret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завивать локоны</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">krølle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-let), -t (-let)</em>
+<inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
 завивать (волосы)

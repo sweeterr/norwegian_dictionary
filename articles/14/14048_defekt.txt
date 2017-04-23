@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">defekt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 недостаток, дефект, изъян, недочёт
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">defekt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 неполный, имеющий пропуски, дефектный

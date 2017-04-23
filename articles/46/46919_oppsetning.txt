@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">oppsetning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-постановка <em><span class="dic_color"><span class="dic_comment">(тж. <u>театр.</u>)</em>
+постановка <u>тж.</u> <u>театр.</u>
 </sense>
 <sense>
 причёска, укладка (волос)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forsagt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <ref>forsagd</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">forsagt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 боязливый, застенчивый, робкий
 </sense>
 </entry>

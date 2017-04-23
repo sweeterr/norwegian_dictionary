@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">niste</orth>
-<em><span class="dic_color"><span class="dic_comment">-a</em>
+<inflection><orth extent="part">-a</orth></inflection>
 съестные припасы, сухой завтрак, дорожная снедь (то, что берут с собой на работу, прогулку, в поездку и т. п.)
 <сit type="example"><text>tære minnets niste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить одними воспоминаниями</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">niste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <сit type="example"><text>niste ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снабжать съестными припасами, сухим завтраком (кого-л. в дорогу, на работу)</text></cit></cit>
 </sense>
 </entry>

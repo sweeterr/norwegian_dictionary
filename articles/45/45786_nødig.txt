@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nødig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 <u>уст.</u> необходимый
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">nødig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 нехотя, скрепя сердце

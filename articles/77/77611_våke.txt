@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">våke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 бдение, бессонная ночь
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">våke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 бодрствовать, не спать

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lokomotiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 локомотив (паровоз, тепловоз, электровоз)
 <сit type="example"><text>puste som et lokomotiv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пыхтеть как паровоз</text></cit></cit>
 </sense>

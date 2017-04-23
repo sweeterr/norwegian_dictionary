@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 узел (с вещами), связка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">knytte</orth>
-<em><span class="dic_color"><span class="dic_comment">knyttet (<u>уст.</u> knøt), knyttet</em>
+<inflection><orth>knyttet (<u>уст.</u> knøt), knyttet</orth></inflection>
 </form>
 <sense>
 завязывать (делать) узлы

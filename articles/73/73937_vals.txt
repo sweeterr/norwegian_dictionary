@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vals</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 вальс
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vals</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>тех.</u> вал, валик, вальцы; ролик, вращающийся цилиндр
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tekstbehandler</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>комп.</u> текстовой процессор (программа подготовки и редактирования текста)
 </sense>
 </entry>

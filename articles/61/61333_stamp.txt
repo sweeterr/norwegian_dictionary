@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 чан, ушат, деревянная бадья, лохань
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 пестик (в ступе)
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 ломбард
 </sense>
 </entry>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">stamp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 глухой удар, глухой звук, топот
 </sense>
 </entry>

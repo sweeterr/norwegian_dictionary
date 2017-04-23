@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">jekel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elen, -ler</em>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
 <u>разг.</u> чёрт (ругательство)
 <сit type="example"><text>hva er det for en jekel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какого чёрта, вот чёрт</text></cit></cit>
 </sense>

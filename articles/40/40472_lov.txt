@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lov</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 закон, законоположение
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">lov</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 разрешение
@@ -55,7 +55,7 @@ få (gi) lov på получить (дать) обещание
 <index></index>
 <form>
 <orth type="lemma">lov</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 похвала
 <сit type="example"><text>gud skje lov!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слава богу!</text></cit></cit>
 <сit type="example"><text>lov og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честь и хвала</text></cit></cit>

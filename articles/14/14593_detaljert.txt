@@ -4,14 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">detaljert</orth>
-<u>adj</u> детальный, подробный, обстоятельный
+<gramGrp><pos>adj</pos></gramGrp>
+ детальный, подробный, обстоятельный
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">detaljert</orth>
-<u>adv</u> детально, подробно, обстоятельно
+<gramGrp><pos>adv</pos></gramGrp>
+ детально, подробно, обстоятельно
 </sense>
 </entry>
 </superEntry>

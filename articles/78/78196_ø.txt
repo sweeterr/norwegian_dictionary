@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ø</orth>
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
+<inflection><orth extent="part">-'en, -'er</orth></inflection>
 двадцать восьмая буква норвежского алфавита
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ø</orth>
-<em><span class="dic_color"><span class="dic_comment">øen</em>
+<inflection><orth>øen</orth></inflection>
 см. øy
 </sense>
 </entry>

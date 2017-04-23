@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 см. skår I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 надрез, порез, зарубка
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">skåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> молодая чайка
 </sense>
 </entry>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">skåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 делать надрезы, зарубки
 <сit type="example"><text>skåre ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>срубить топором</text></cit></cit>
 <сit type="example"><text>skåre på hornene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> стареть</text></cit></cit>

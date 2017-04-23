@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hov</orth>
-<em><span class="dic_color"><span class="dic_comment">hoven, hover (høver)</em>
+<inflection><orth>hoven, hover (høver)</orth></inflection>
 копыто
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hov</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>ист.</u> языческий храм (в древней Норвегии и Исландии)
 </sense>
 </entry>

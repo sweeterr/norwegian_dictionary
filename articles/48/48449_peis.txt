@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">peis</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 очаг, камин, большая печь
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">peis</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <сit type="example"><text><lbl>разг.</lbl> komme på en peis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>захмелеть</text></cit></cit>
 </sense>
 </entry>

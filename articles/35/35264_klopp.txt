@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klopp</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 мостки, лавы (через речку, топкое место)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">klopp</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 стук-стук
 </sense>
 </entry>

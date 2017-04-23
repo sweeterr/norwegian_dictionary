@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utas</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в противном случае, иначе
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">utas</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 если только не
 </sense>
 </entry>

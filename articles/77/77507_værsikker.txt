@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">værsikker</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 устойчивый против воздействия погоды (о краске и т. п.)
 </sense>
 </entry>

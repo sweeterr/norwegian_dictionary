@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 трудное (тяжёлое, опасное) положение
 <сit type="example"><text>komme i knipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в оборот</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">knipe</orth>
-<em><span class="dic_color"><span class="dic_comment">kne(i)p, knepet</em>
+<inflection><orth>kne(i)p, knepet</orth></inflection>
 </form>
 <sense>
 щипать, ущипнуть

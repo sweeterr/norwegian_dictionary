@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilfredsstillende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 удовлетворяющий, удовлетворительный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilfredsstillende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>школ.</u> удовлетворительно (отметка в норвежской школе)
 <сit type="example"><text>meget tilfredsstillende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весьма удовлетворительно</text></cit></cit>
 <сit type="example"><text>noenlunde tilfredsstillende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>более или менее удовлетворительно</text></cit></cit>

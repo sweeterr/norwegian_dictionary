@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrøne</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 небылица, вымысел, выдумка
 <сit type="example"><text>fortelle skrøner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассказывать сказки (небылицы)</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrøne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 рассказывать небылицы, выдумывать, сочинять

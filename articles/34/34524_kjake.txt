@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjake</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjake</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-te), -a (-t)</em>
+<inflection><orth extent="part">-a (-te), -a (-t)</orth></inflection>
 <u>диал.</u> ругаться, пререкаться, ссориться
 </sense>
 </entry>

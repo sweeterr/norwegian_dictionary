@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brugde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 гигантская акула
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">brugde</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>диал.</u> высокая спинка (стула, скамейки)
 </sense>
 </entry>

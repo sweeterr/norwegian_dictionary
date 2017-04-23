@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tett</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 плотный, густой
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">tett</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 плотно, густо

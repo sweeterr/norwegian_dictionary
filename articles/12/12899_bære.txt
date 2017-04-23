@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bære</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 шалаш (из еловых ветвей)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bære</orth>
-<em><span class="dic_color"><span class="dic_comment">bar, båret</em>
+<inflection><orth>bar, båret</orth></inflection>
 </form>
 <sense>
 носить, нести

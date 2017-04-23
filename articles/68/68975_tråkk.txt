@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tråkk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>разг.</u> утоптанная (утрамбованная) площадка (перед домом и т. п.)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tråkk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 топот, звук шагов

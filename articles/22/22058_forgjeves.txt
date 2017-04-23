@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forgjeves</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 напрасный, безрезультатный, бесполезный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">forgjeves</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 напрасно, зря, безрезультатно
 </sense>
 </entry>

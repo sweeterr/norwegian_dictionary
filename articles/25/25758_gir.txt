@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gir</orth>
 <phon>|gi:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>тех.</u>
 </form>
 <sense>
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">gir</orth>
 <phon>|ji:r|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>мор.</u> отклонение от курса, изменение курса
 <сit type="example"><text>samtidig gir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поворот «все вдруг»</text></cit></cit>
 </sense>

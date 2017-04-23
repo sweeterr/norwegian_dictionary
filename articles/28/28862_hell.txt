@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hell</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 склон, откос
 <сit type="example"><text>på hell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в наклонном положении</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">hell</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 удача, успех, везение
 <сit type="example"><text>et hell i uhellet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нет худа без добра</text></cit></cit>
 <сit type="example"><text>med hell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>успешно, благополучно</text></cit></cit>

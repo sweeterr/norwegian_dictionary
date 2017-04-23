@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stave</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 читать по складам
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">stave</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 брести, опираясь на палку

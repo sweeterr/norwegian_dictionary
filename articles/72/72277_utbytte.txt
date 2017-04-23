@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utbytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 выручка, доход, прибыль
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">utbytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 обменивать, производить обмен

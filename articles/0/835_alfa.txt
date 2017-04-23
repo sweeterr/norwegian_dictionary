@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">alfa</orth>
-<u>inv</u>
+<gramGrp><pos>inv</pos></gramGrp>
 альфа
 <сit type="example"><text>alfa og omega</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>альфа и омега, самое главное, сущность</text></cit></cit>
 </sense>

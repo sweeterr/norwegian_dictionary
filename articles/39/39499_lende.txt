@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 местность
 <сit type="example"><text>bratt (kronglet, lav, uført, åpent) lende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересечённая (кочковатая, низменная, непроходимая, открытая) местность</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">lende</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> вытаскивать на землю (сушу)
 </sense>
 </entry>

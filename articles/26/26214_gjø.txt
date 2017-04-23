@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjø</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 лай
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjø</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 лаять (на кого-л. - på)
 <сit type="example"><text>gjø mot en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>облаять кого-л.</text></cit></cit>
 </sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjø</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 откармливать

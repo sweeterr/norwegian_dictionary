@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">utslått</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-выбитый <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+выбитый <u>в разн. знач.</u>
 </sense>
 <sense>
 поверженный, побеждённый (в соревновании и т. п.)
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">utslått</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> отдельно лежащий луг
 </sense>
 </entry>

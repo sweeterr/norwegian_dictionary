@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">tredagers</orth>
-<u>adj</u> <u>inv</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<gramGrp><pos>inv</pos></gramGrp>
 трёхдневный
 </sense>
 </entry>

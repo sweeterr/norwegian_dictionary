@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjeninnsette</orth>
-<em><span class="dic_color"><span class="dic_comment">-satte, -satt</em>
+<inflection><orth extent="part">-satte, -satt</orth></inflection>
 устраивать вновь, водворять, возвращать на прежнее место
 <сit type="example"><text>gjeninnsette i rettigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восстанавливать в правах</text></cit></cit>
 </sense>

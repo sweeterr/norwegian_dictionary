@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">debitere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 дебетовать, заносить в дебет
 <сit type="example"><text>debitere en for et beløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записать кому-л. сумму в дебет</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lav</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 мох, лишайник
 </sense>
 </entry>
@@ -12,10 +12,12 @@
 <index></index>
 <form>
 <orth type="lemma">lav</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-низкий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+низкий <u>в разн. знач.</u>
 </sense>
 <sense>
 небольшого роста, невысокий

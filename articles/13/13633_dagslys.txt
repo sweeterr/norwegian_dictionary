@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dagslys</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 дневной свет
 <сit type="example"><text>i dagslyset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в светлое время дня</text></cit></cit>
 <сit type="example"><text>ved dagslys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>днём, при дневном свете</text></cit></cit>
@@ -14,7 +14,9 @@
 <index></index>
 <form>
 <orth type="lemma">dagslys</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <ref>daglys</ref>
 </sense>
 </entry>

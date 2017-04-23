@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">betydelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 значительный
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">betydelig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 значительно, порядочно

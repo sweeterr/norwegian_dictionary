@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hø</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 круглая горная вершина
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">hø</orth>
 hø!
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 употребляется для выражения презрения фи!
 </sense>
 </entry>

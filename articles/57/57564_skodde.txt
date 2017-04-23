@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skodde</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 туман
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">skodde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>уст.</u> см. skåte I
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bande</orth>
 <phon>|'bandə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 банда, шайка
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">bande</orth>
 <phon>|'bandə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 оркестр
@@ -33,7 +33,7 @@
 <form>
 <orth type="lemma">bande</orth>
 <phon>|'bandə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 набивать обручи
 </sense>
 </entry>

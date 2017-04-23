@@ -4,14 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">ane</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em> предок
+<inflection><orth extent="part">-n, -r</orth></inflection>
+ предок
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ane</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 предчувствовать, чуять, предвидеть

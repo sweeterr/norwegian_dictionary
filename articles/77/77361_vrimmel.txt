@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vrimmel</orth>
-<em><span class="dic_color"><span class="dic_comment">-melen, -ler</em>
+<inflection><orth extent="part">-melen, -ler</orth></inflection>
 масса, множество, толпа, толчея
 <сit type="example"><text>livets vrimmel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суета жизни</text></cit></cit>
 </sense>

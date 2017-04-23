@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 проигрыш
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">bet</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> bite III
+<gramGrp><tns>pret</tns><note>от bite III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

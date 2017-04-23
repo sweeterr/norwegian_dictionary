@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">tieres</orth>
-<u>adj</u>
-<u>inv</u> стоящий десять эре
+<gramGrp><pos>adj</pos></gramGrp>
+
+<gramGrp><pos>inv</pos></gramGrp>
+ стоящий десять эре
 </sense>
 </entry>
 </superEntry>

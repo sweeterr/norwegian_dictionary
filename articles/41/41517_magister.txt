@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">magister</orth>
-<em><span class="dic_color"><span class="dic_comment">-eren, -ere (-rer)</em>
+<inflection><orth extent="part">-eren, -ere (-rer)</orth></inflection>
 магистр (учёная степень)
 <сit type="example"><text>magister bibendi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>студ.</lbl> тамада</text></cit></cit>
 <сit type="example"><text>sverge til magisterens ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слепо верить в авторитеты</text></cit></cit>

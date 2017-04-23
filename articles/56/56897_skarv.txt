@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skarv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>зоол.</u> баклан
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skarv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 босяк, оборванец
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">skarv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 голая скала
 </sense>
 </entry>

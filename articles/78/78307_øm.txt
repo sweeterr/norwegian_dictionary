@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">øm</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">ømt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>ømt</orth></inflection>
 </form>
 <sense>
 нежный, ласковый

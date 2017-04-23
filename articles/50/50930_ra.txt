@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ra</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 морены, моренный вал
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ra</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-dde), -et (-dd)</em>
+<inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 связывать снопы по два для сушки на шестах
 </sense>
 </entry>

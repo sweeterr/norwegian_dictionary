@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ildende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 пламенеющий
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">ildende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>ildende rød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огненно-красный</text></cit></cit>
 <сit type="example"><text>ildende he(i)t</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскалённый</text></cit></cit>
 </sense>

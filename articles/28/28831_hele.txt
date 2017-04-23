@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hele</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> иней
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hele</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 целое
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">hele</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 исправлять, чинить, заделывать
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">hele</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <сit type="example"><text><lbl>мор.</lbl> hele sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сращивать, скреплять (концы троса, каната)</text></cit></cit>
 </sense>
 </entry>
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">hele</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 укрывать краденое
 </sense>
 </entry>

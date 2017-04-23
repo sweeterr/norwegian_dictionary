@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anskrik</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 тревожный крик, крик о помощи
 <сit type="example"><text>gjøre anskrik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять крик (шум)</text></cit></cit>
 </sense>

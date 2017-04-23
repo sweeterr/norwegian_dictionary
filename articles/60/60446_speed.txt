@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">speed</orth>
 <phon>|spi:d|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>разг.</u> скорость
 <сit type="example"><text>(for) full speed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полной скоростью</text></cit></cit>
 <сit type="example"><text>sette speeden opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>развивать скорость</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">strede</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 небольшая улица, переулок, проезд (в городе)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">strede</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 узкий пролив
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brune</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -21,7 +21,10 @@
 <index></index>
 <form>
 <orth type="lemma">brune</orth>
--te (<em><span class="dic_color"><span class="dic_comment">-et</em>), <em><span class="dic_color"><span class="dic_comment">-t (-et)</em>
+-te (
+<inflection><orth extent="part">-et</orth></inflection>
+), 
+<inflection><orth extent="part">-t (-et)</orth></inflection>
 слегка поджарить, подрумянить
 </sense>
 </entry>

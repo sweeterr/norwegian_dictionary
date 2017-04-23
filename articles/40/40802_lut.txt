@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lut</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 щёлок, щёлочь
 <сit type="example"><text>gå for lut og kaldt vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> холодать и голодать</text></cit></cit>
 <сit type="example"><text>det skal skarp lut til skurvete hoder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> клин клином вышибают</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">lut</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> надел, часть, доля
 </sense>
 </entry>
@@ -22,7 +22,9 @@
 <index></index>
 <form>
 <orth type="lemma">lut</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 наклонённый, склонённый, наклонившийся вперёд
 <сit type="example"><text>lut i ryggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сутулый</text></cit></cit>
 </sense>
@@ -31,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">lut</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <ref>luta</ref>
 </sense>
 </entry>

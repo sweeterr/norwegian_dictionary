@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">høylass</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 воз сена
 <сit type="example"><text>en nål i et høylass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иголка в стоге сена</text></cit></cit>
 </sense>

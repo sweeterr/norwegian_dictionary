@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utfor</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>спорт.</u> скоростной спуск с горы (на лыжах)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">utfor</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 вниз (и вперёд), под гору, с горы
@@ -26,7 +26,8 @@
 <index></index>
 <form>
 <orth type="lemma">utfor</orth>
-<u>prep</u> вниз по ..., под (и вдоль чего-л.)
+<gramGrp><pos>prep</pos></gramGrp>
+ вниз по ..., под (и вдоль чего-л.)
 </sense>
 </entry>
 </superEntry>

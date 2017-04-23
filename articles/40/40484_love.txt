@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">love</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> ладонь
 </sense>
 </entry>
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">love</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 обещать, давать обещание, сулить
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">love</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 хвалить, восхвалять
 </sense>
 </entry>

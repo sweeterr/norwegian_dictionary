@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tokt</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en, -et), -er</em>
+<inflection><orth extent="part">-a (-en, -et), -er</orth></inflection>
 <u>диал.</u> приступ, припадок
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">tokt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 рейс, плавание (судна)

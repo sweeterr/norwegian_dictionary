@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">meningsbrytning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 разногласие
 <сit type="example"><text>taktiske meningsbrytninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тактические разногласия</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">damstille</orth>
-<em><span class="dic_color"><span class="dic_comment">-а</em>
+<inflection><orth extent="part">-а</orth></inflection>
 <u>диал.</u> мёртвая тишина, мёртвый штиль
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">damstille</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 без малейшего ветерка
 </sense>
 </entry>

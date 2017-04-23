@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klyster</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 клизма, клистир
 <сit type="example"><text>sette et klyster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить клизму</text></cit></cit>
 </sense>

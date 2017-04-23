@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spore</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 шпора
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">spore</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>бот.</u> спора
 </sense>
 </entry>
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">spore</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 преследовать, идти по следу
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">spore</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 пришпорить лошадь

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flykte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 бежать, удирать, спасаться бегством
 <сit type = "example"><text>flykte bort :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> убежать, удрать</text></cit></cit>
 <сit type = "example"><text>flykte bort :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> угасать (о дне)</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trave</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">trave</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 скирда (из 24 снопов)
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">trave</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 жалкий, несчастный
 </sense>
 </entry>
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">trave</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
 идти (бежать) рысью

@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bassgitar</orth>
-<span class="dic_color"><span class="dic_comment">|gi'ta:r|
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<phon>|gi'ta:r|</phon>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>муз.</u> бас-гитара
 </sense>
 </entry>

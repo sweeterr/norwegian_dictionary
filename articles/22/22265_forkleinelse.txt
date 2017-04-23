@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forkleinelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 принижение, умаление
 <сit type="example"><text>uten forkleinelse for herr X</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не умаляя достоирства господина X</text></cit></cit>
 </sense>

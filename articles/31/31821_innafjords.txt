@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innafjords</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 находящийся в пределах фиорда
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">innafjords</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в фиорде, в районе (в пределах) фиорда; по фиорду
 </sense>
 </entry>

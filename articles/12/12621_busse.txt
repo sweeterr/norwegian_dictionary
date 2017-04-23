@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">busse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 <u>диал.</u> человек, дядя
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">busse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> ехать на автобусе ( <u>уст.</u> на конке)
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">busse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 прикреплять колышком (клином), заклинивать
 </sense>
 </entry>

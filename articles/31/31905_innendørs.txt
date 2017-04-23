@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innendørs</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 домашний, комнатный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">innendørs</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в доме, в закрытом помещении
 </sense>
 </entry>

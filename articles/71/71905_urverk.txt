@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">urverk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 часовой механизм
 <сit type="example"><text>som et urverk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точно, как часы</text></cit></cit>
 </sense>

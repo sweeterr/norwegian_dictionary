@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 выражение, фраза
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 гримаса
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 фразёрствовать
 </sense>
 </entry>
@@ -45,7 +45,7 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>диал.</u> потрескивать, шипеть (об огне)
 </sense>
 </entry>
@@ -53,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">frase</orth>
-<em><span class="dic_color"><span class="dic_comment">-så, -sett</em>
+<inflection><orth extent="part">-så, -sett</orth></inflection>
 не принимать во внимание, не считаться
 </sense>
 </entry>

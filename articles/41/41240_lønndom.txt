@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lønndom</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 тайна, загадка (природы)
 <сit type="example"><text>i lønndom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>втайне, тайком</text></cit></cit>
 </sense>

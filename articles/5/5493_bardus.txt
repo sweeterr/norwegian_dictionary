@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bardus</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 внезапный, резкий, неожиданный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bardus</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 неожиданно
 <сit type="example"><text>komme bardus på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свалиться как снег на голову, появиться неожиданно</text></cit></cit>
 </sense>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">bardus</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 шлёп, бах
 </sense>
 </entry>

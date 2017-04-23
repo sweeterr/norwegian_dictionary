@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">våg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 небольшой залив, бухта
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">våg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> гной
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">våg</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 <u>диал.</u> <u>уст.</u> вог (единица веса = 18 кг)
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">våg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 риск
 <сit type="example"><text>på våg og vinne (von)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на авось, наобум, наудачу</text></cit></cit>
 </sense>

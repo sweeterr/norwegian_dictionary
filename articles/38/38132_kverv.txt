@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kverv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
 круг (при обшивке судна)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kverv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 проблеск
 <сit type="example"><text>i et kverv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мельком</text></cit></cit>
 </sense>
@@ -26,7 +26,9 @@
 <index></index>
 <form>
 <orth type="lemma">kverv</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> быстрый, расторопный, ловкий
 </sense>
 </entry>

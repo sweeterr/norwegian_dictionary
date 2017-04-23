@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">batist</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 батист (ткань)
 <сit type="example"><text>av batist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>батистовый</text></cit></cit>
 </sense>

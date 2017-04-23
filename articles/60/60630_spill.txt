@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">spill</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-игра <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+игра <u>в разн. знач.</u>
 <сit type="example"><text>spillet er uavgjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>игра вничью</text></cit></cit>
 <сit type="example"><text>et avtalt spill</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заранее предрешённое дело</text></cit></cit>
 <сit type="example"><text>et dobbelt spill</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двойная игра</text></cit></cit>
@@ -41,7 +41,7 @@
 <index></index>
 <form>
 <orth type="lemma">spill</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 расточительство, пустая (бессмысленная) трата (времени, сил, денег)
@@ -54,7 +54,7 @@
 <index></index>
 <form>
 <orth type="lemma">spill</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>мор.</u> брашпиль, лебёдка, ворот, шпиль
 </sense>
 </entry>
@@ -62,7 +62,7 @@
 <index></index>
 <form>
 <orth type="lemma">spill</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>spill levende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем как живой</text></cit></cit>
 <сit type="example"><text>spill naken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно голый</text></cit></cit>
 <сit type="example"><text>spill våken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем проснувшийся</text></cit></cit>

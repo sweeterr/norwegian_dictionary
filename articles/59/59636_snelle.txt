@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 катушка, бобина, шпуля
@@ -13,7 +13,7 @@
 <u>разг.</u> толстушка
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> цевка
+<u>текст.</u> цевка
 </sense>
 <sense>
 <u>эл.</u> ролик-изолятор
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">snelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>бот.</u> хвощ
 </sense>
 </entry>
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">snelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 наматывать на катушку (шпульку, бобину)
 </sense>
 </entry>

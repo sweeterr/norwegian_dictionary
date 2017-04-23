@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hav</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 море, океан
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">hav</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 ручка (чайника, ведра, кастрюли, чемодана, двери)

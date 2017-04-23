@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">rokere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> рокировать(ся)
+<u>шахм.</u> рокировать(ся)
 </sense>
 <sense>
 <u>воен.</u> перестраивать боевой порядок (в обороне)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stupende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>stupende bratt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвесный</text></cit></cit>
 <сit type="example"><text>stupende mørk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный хоть глаз выколи</text></cit></cit>
 <сit type="example"><text>stupende trett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страшно усталый</text></cit></cit>

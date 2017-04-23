@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">reaumurtermometer</orth>
 <phon>|reo'my:r-|</phon>
-<em><span class="dic_color"><span class="dic_comment">-eret, -rer</em>
+<inflection><orth extent="part">-eret, -rer</orth></inflection>
 термометр со шкалой Реомюра
 </sense>
 </entry>

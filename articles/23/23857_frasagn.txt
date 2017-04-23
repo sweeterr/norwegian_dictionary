@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frasagn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 сказание, легенда, былина, предание
 <сit type="example"><text>det går frasagn om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт молва</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">overveielse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 раздумье, размышление, взвешивание в уме (обстоятельств, условий)
 <сit type="example"><text>etter moden (nærmere) overveielse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после зрелого (более тщательного) размышления</text></cit></cit>
 <сit type = "example"><text>ta under overveielse :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> продумать что-л.</text></cit></cit>

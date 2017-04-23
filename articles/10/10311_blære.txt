@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blære</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 пузырь, волдырь
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">blære</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 пузыриться, покрываться пузырями (волдырями)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pust</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 дыхание
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">pust</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 вдох, выдох
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">pust</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>уст.</u> пощёчина, затрещина
 </sense>
 </entry>

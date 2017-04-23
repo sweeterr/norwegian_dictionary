@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortover</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 указывает на местонахождение предмета на расстоянии от говорящего на той стороне, вон там, там вдали
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">bortover</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 указывает на положение по ту сторону реки, улицы и т. д. по ту сторону
 <сit type="example"><text>bortover gaten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по ту сторону улицы</text></cit></cit>
 </sense>

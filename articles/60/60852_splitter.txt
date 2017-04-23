@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">splitter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 смутьян, раскольник
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">splitter</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 совершенно, полностью, абсолютно
 </sense>
 </entry>

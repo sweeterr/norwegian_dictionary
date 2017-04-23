@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vare</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 товар, <lbl>pl</lbl> товары
@@ -23,14 +23,15 @@
 <index></index>
 <form>
 <orth type="lemma">vare</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em> см. varde I
+<inflection><orth extent="part">-n</orth></inflection>
+ см. varde I
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vare</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <сit type = "example"><text>ta vare på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внимательно следить (наблюдать) за чем-л.</text></cit></cit>
 <сit type = "example"><text>ta vare på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заботиться о чём-л.</text></cit></cit>
 <сit type = "example"><text>ta vare på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> принимать во внимание, учитывать</text></cit></cit>
@@ -44,7 +45,7 @@
 <index></index>
 <form>
 <orth type="lemma">vare</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 предупреждать, предостерегать, обращать внимание (кого-л. на что-л.)
 <сit type="example"><text>vare seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть осторожным, остерегаться</text></cit></cit>
 </sense>
@@ -53,7 +54,7 @@
 <index></index>
 <form>
 <orth type="lemma">vare</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 длиться, тянуться, продолжаться

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vev</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
+<inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
 тканьё, ткачество
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">vev</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 <u>анат.</u> ткань

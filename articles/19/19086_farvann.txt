@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">farvann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>мор.</u> фарватер
 <сit type="example"><text>fritt farvann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободный проход для кораблей</text></cit></cit>
 <сit type="example"><text>være i farvannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на подступах, на подходе (к чему-л.)</text></cit></cit>

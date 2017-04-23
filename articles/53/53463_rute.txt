@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rute</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 маршрут
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">rute</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 квадрат, квадратное поле (на чём-л.)

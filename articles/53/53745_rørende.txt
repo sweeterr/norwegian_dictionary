@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rørende</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 конец трубы
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rørende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 трогательный, сентиментальный
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ale</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 разводить (скот), выращивать (тж. ale opp)
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">ale</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 пахать сохой
 </sense>
 </entry>

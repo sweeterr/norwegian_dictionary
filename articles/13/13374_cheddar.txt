@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">cheddar</orth>
 <phon>|'∫ed:ar|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 чеддер (сорт сыра)
 </sense>
 </entry>

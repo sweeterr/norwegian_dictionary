@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">straff</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 наказание, кара, возмездие
 <сit type="example"><text>betinget straff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>условное наказание</text></cit></cit>
 <сit type="example"><text>legemlig (korporlig) straff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>телесное наказание</text></cit></cit>

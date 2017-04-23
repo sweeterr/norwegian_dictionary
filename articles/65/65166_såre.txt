@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">såre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 ранить, поранить
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">såre</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 весьма, очень, в большой степени
 <сit type="example"><text>aldri så såre ... før ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не успело ..., как ...</text></cit></cit>
 <сit type="example"><text>gråte så såre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горько плакать</text></cit></cit>

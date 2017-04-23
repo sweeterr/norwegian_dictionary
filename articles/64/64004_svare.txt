@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svare</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>разг.</u> громадный, огромный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">svare</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 отвечать (на что-л. - på, til), откликаться

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stige</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 лестница (приставная, верёвочная, переносная)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">stige</orth>
-<em><span class="dic_color"><span class="dic_comment">ste(i)g, steget</em>
+<inflection><orth>ste(i)g, steget</orth></inflection>
 </form>
 <sense>
 подниматься, восходить (о солнце, луне)

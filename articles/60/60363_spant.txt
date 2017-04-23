@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">spant</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 <u>мор.</u> шпангоут, ребро
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">spant</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> spinne
+<gramGrp><tns>pret</tns><note>от spinne</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

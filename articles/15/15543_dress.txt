@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dress</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 мужской костюм
 <сit type="example"><text>full dress</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>парадный костюм</text></cit></cit>
 <сit type="example"><text>hel dress</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>костюм-тройка</text></cit></cit>

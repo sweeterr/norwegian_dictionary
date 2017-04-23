@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">spiller</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-игрок <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+игрок <u>в разн. знач.</u>
 <сit type="example"><text>spiller av en stor klasse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>игрок высокого класса</text></cit></cit>
 <сit type="example"><text>passe på spilleren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> «опекать» игрока</text></cit></cit>
 </sense>
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">spiller</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 совершенно, абсолютно, совсем, полностью
 </sense>
 </entry>

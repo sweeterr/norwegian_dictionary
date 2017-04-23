@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dronning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 королева
@@ -14,7 +14,7 @@
 <u>зоол.</u> матка (насекомых)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> ферзь
+<u>шахм.</u> ферзь
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kredit</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 кредит
 <сit type="example"><text>debet og kredit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>бухг.</lbl> расход и приход</text></cit></cit>
 <сit type="example"><text>oppføre noe til ens kredit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записать кому-л. в кредит</text></cit></cit>

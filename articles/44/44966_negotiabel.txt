@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">negotiabel</orth>
 <phon>|negusi'a:bəl|</phon>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>ком.</u> могущий быть переуступленным, купленным, проданным (о векселе, коммерческом обязательстве)
 </sense>
 </entry>

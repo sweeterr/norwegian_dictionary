@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">greie</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 порядок
 <сit type="example"><text>hele greia</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё это дело, вся эта история, всё это вместе взятое</text></cit></cit>
 <сit type="example"><text>få greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">greie</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> сбруя, упряжь
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">greie</orth>
-<em><span class="dic_color"><span class="dic_comment">-d(d)e, -d(d)</em>
+<inflection><orth extent="part">-d(d)e, -d(d)</orth></inflection>
 </form>
 <sense>
 причесывать, расчёсывать (волосы)

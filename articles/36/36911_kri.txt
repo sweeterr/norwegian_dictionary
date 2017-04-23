@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kri</orth>
-<em><span class="dic_color"><span class="dic_comment">kridde (kred), kridd</em>
+<inflection><orth>kridde (kred), kridd</orth></inflection>
 забрасывать (кого-л. землёй, камнями)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kri</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <сit type="example"><text>kri etter noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стремиться к чему-л.</text></cit></cit>
 </sense>
 </entry>

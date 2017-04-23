@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kreppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> узкий пролив, проток
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kreppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-pet (-te), -pet (-t)</em>
+<inflection><orth extent="part">-pet (-te), -pet (-t)</orth></inflection>
 завивать волосы
 </sense>
 </entry>

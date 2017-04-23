@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekvivalent</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 эквивалент
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekvivalent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 равный, равнозначный, равносильный, эквивалентный
 </sense>
 </entry>

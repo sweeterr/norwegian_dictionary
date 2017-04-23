@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">morsmelk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 материнское молоко
 <сit type="example"><text>innsige noe med morsmelken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всосать что-л. с молоком матери</text></cit></cit>
 </sense>

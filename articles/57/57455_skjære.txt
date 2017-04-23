@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjære</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> ножницы
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjære</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 <u>зоол.</u> сорока
@@ -25,10 +25,10 @@
 <index></index>
 <form>
 <orth type="lemma">skjære</orth>
-<em><span class="dic_color"><span class="dic_comment">skar, skåret</em>
+<inflection><orth>skar, skåret</orth></inflection>
 </form>
 <sense>
-резать <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>, пилить
+резать <u>в разн. знач.</u>, пилить
 </sense>
 <sense>
 кроить, вырезать (тж. skjære til)

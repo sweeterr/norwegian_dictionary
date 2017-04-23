@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nebbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 сосуд без крышки с носиком (для сливок, соуса, молока и т. п.)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">nebbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 </form>
 <sense>
 <u>шутл.</u> переругиваться

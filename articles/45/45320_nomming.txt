@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nomming</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> неясные контуры (земли, суши)
 <сit type="example"><text>se en nomming av land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть слабые очертания земли (суши), различать контуры суши (с моря)</text></cit></cit>
 </sense>

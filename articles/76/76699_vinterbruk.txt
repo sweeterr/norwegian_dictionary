@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vinterbruk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 <сit type="example"><text>til vinterbruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для употребления (использования) зимой, для носки зимой</text></cit></cit>
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lån</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 штабель (досок, тесин)
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">lån</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 заём, ссуда

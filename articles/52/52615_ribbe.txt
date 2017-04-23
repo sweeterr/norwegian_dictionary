@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ribbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 <u>анат.</u> ребро
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">ribbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 обирать, отнимать (чьё-л. имущество, деньги)

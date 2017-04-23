@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nordi</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 далее на север (к северу), севернее
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">nordi</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 к северу от, на север от
 </sense>
 </entry>

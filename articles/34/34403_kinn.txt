@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kinn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 щека
 <сit type="example"><text>bollete kinner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пухлые щёки</text></cit></cit>
 <сit type="example"><text>sitte med hånd under kinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть, подперев щёку</text></cit></cit>

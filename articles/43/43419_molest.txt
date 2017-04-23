@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">molest</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 повреждение, ущерб
 <сit type="example"><text>bli utsatt for molest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерпеть ущерб</text></cit></cit>
 <сit type="example"><text>tilføye én molest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наносить кому-л. ущерб</text></cit></cit>

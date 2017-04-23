@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">straks</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 немедленный, моментальный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">straks</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 непосредственно рядом, тут же
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">straks</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>

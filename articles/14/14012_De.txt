@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">De</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(объектн. п. Dem)</em> Вы (форма вежливости)
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>объектн. п.</case><note>от Dem</note></inflection>
+Вы (форма вежливости)
 </sense>
 </entry>
 </superEntry>

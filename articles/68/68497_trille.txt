@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trille</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 коляска, фаэтон
 <сit type="example"><text>sorgens trille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> полицейская повозка</text></cit></cit>
 <сit type = "example"><text>det spiller ingen trille :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> это ничего не значит, это не играет никакой роли</text></cit></cit>
@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">trille</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 трель
 <сit type="example"><text>slå triller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выводить трели</text></cit></cit>
 </sense>
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">trille</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 крутиться, вертеться, вращаться
@@ -49,7 +49,7 @@
 <index></index>
 <form>
 <orth type="lemma">trille</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 выводить трели, заливаться трелями
 </sense>
 </entry>

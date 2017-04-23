@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skritt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 шаг
@@ -26,7 +26,7 @@
 <сit type="example"><text>holde én tre skritt fra livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать кого-л. на почтительном расстоянии</text></cit></cit>
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> ход
+<u>шахм.</u> ход
 </sense>
 <sense>
 см. skrev I

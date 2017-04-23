@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kapervirksomhet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>ист.</u> каперство, морской разбой
 <сit type="example"><text>drive kapervirksomhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься каперством</text></cit></cit>
 </sense>

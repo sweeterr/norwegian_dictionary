@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">sær</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 особенный, особый
@@ -21,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">sær</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 см. især, særlig II
 </sense>
 </entry>

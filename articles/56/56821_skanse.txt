@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skanse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 <u>воен.</u> полевое укрепление, окоп
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">skanse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <u>воен.</u> сооружать полевые укрепления, окапываться
 </sense>
 </entry>

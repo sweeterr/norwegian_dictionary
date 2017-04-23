@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smette</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-et), -er</em>
+<inflection><orth extent="part">-a (-et), -er</orth></inflection>
 <u>диал.</u> дыра, отверстие, щель
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">smette</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>разг.</u> убежище, укрытие
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">smette</orth>
-<em><span class="dic_color"><span class="dic_comment">smatt, smettet</em>
+<inflection><orth>smatt, smettet</orth></inflection>
 </form>
 <sense>
 прошмыгнуть, проскользнуть
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">smette</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 просовывать
 <сit type="example"><text>smette av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скинуть, сбросить (одежду, обувь)</text></cit></cit>
 <сit type="example"><text>smette på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накинуть (одежду), быстро надеть (обувь)</text></cit></cit>

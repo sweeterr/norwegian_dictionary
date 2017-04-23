@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">umake</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 непарный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">umake</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <ref>umak</ref>
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">umake</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 затруднять, беспокоить, утруждать
 </sense>
 </entry>

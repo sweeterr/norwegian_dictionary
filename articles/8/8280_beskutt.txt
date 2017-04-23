@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">beskutt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 обстрелянный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">beskutt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> beskyte
+<gramGrp><tns>p.p.</tns><note>от beskyte</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

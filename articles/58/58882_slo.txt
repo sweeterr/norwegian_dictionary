@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slo</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> дорога, по которой возят с гор сено волоком
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">slo</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 рыбьи внутренности (потроха)
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">slo</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> slå II
+<gramGrp><tns>pret</tns><note>от slå II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

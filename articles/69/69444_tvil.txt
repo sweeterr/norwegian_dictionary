@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tvil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 сомнение, неуверенность (в чём-л.)
 <сit type="example"><text>uten tvil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без сомнения, несомненно</text></cit></cit>
 <сit type="example"><text>dra i tvil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергать сомнению</text></cit></cit>

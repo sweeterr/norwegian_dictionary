@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svins</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <сit type="example"><text>svins og svans</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> бездельничанье, хождение взад и вперёд без дела</text></cit></cit>
 </sense>
 </entry>

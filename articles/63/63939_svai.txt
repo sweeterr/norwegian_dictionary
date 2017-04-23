@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svai</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 гибкость, мягкость
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">svai</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 гибкий, стройный

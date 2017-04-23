@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lønning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 вознаграждение
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">lønning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>мор.</u> поручни (на палубе, трапах, мостиках), релинги
 </sense>
 </entry>

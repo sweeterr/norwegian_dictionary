@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rasende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 бешеный, головокружительный (о скорости)
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">rasende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 страшно, ужасно (с усилительным значением)
 </sense>
 </entry>

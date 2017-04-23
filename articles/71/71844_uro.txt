@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uro</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 беспокойство, тревога
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">uro</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-dde), -et (-dd)</em>
+<inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 </form>
 <sense>
 беспокоить, тревожить, волновать

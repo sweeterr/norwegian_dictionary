@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> см. bøtte
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 обмен
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">bytte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 обменивать, менять (на что-л. - i, mot)

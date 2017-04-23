@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">grapefrukt</orth>
 <phon>|'grεipfrukt|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>бот.</u> грейпфрут
 </sense>
 </entry>

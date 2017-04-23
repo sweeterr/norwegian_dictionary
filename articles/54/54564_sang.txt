@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sang</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 пение
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">sang</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> synge
+<gramGrp><tns>pret</tns><note>от synge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

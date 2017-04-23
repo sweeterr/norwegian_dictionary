@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sleppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 расселина, трещина (в горе), расщелина
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sleppe</orth>
-<em><span class="dic_color"><span class="dic_comment">slapp, sloppet</em>
+<inflection><orth>slapp, sloppet</orth></inflection>
 <ref>slippe</ref>
 </sense>
 </entry>

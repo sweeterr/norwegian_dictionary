@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">glette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 просвет в облаках (тучах)
 <сit type="example"><text>østa glette gir våt hette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если на востоке ясно, жди дождя</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">glette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>мин.</u> окись свинца, глет
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">glette</orth>
-<em><span class="dic_color"><span class="dic_comment">glatt, glettet</em>
+<inflection><orth>glatt, glettet</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bergsvineblom</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
-<span class="dic_color"><span class="dic_comment">|blom:|
+<phon>|blom:|</phon>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>бот.</u> крестовник лесной (Senecio sylvaticus)
 </sense>
 </entry>

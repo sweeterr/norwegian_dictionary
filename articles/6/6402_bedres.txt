@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">bedres</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<em><span class="dic_color"><span class="dic_comment">-des, -ts</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
+
+<inflection><orth extent="part">-des, -ts</orth></inflection>
 </form>
 <sense>
 улучшаться

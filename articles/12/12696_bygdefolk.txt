@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bygdefolk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>собир.</u> местные жители, жители деревни (посёлка)
 <сit type="example"><text>byfolk og bygdefolk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жители города и деревни</text></cit></cit>
 </sense>

@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">lutlei</orth>
-<em><span class="dic_color"><span class="dic_comment">(тж. раздельно)</em> <u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<u>тж. раздельно</u> 
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 крайне неприятный

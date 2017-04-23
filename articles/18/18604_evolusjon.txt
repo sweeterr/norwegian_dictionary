@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">evolusjon</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 эволюция
 </sense>
 <sense>
-<u>воен.</u><span class="dic_color"><span class="dic_comment">, <u>мор.</u> маневрирование
+<u>воен.</u>, <u>мор.</u> маневрирование
 </sense>
 </entry>
 </superEntry>

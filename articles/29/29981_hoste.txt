@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hoste</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 кашель
 <сit type="example"><text>hård (løs, tørr) hoste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильный (мягкий, сухой) кашель</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">hoste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 кашлять
 </sense>
 </entry>

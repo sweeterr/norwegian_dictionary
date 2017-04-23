@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fåfengt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 тщетный, бесполезный, напрасный, безрезультатный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fåfengt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 тщетно, напрасно, зря
 </sense>
 </entry>

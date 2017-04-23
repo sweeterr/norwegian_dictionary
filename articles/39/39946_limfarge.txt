@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">limfarge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 клеевая краска
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">limfarge</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 окрашивать клеевой краской
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bare</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 только, лишь, всего лишь
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">bare</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
 хоть бы, лишь бы

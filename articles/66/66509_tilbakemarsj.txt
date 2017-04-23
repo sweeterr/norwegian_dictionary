@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilbakemarsj</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 отход, отступление (войск)
 <сit type="example"><text>avskjære tilbakemarsjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать пути отхода</text></cit></cit>
 </sense>

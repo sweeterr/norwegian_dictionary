@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">immer</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e(r)</em>
+<inflection><orth extent="part">-en, -e(r)</orth></inflection>
 <u>зоол.</u> гагара чернозобая
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">immer</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>уст.</u> всегда, постоянно
 </sense>
 </entry>

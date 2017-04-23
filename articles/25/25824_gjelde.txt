@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">gjaldt (galdt), gjeldt</em>
+<inflection><orth>gjaldt (galdt), gjeldt</orth></inflection>
 </form>
 <sense>
 касаться чего-л., затрагивать (вопрос, проблему)
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>уст.</u> платить, выплачивать
 </sense>
 </entry>
@@ -51,7 +51,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjelde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 кастрировать, холостить
 </sense>
 </entry>

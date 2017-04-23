@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">tro</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-вера <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+вера <u>в разн. знач.</u>
 </sense>
 <sense>
 доверие
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">tro</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
 корыто, кормушка (для свиней)
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">tro</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -61,7 +61,7 @@
 <index></index>
 <form>
 <orth type="lemma">tro</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 верный, надёжный, преданный
@@ -76,7 +76,7 @@
 <index></index>
 <form>
 <orth type="lemma">tro</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 верить (в кого, во что-л. - på)

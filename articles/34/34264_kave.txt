@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">kave</orth>
--n, <em><span class="dic_color"><span class="dic_comment">-t</em>
+-n, 
+<inflection><orth extent="part">-t</orth></inflection>
 см. kav II 1)
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">kave</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
 барахтаться (в воде, снегу и т. п.)

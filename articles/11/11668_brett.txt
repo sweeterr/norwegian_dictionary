@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brett</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 тесина, широкая тонкая доска, дощечка
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">brett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 складка, сгиб

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bore seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 пробиваться, пробивать себе дорогу
 <сit type="example"><text>bore seg fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробиться, протиснуться вперёд</text></cit></cit>
 </sense>

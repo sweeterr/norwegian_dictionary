@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">varde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 пирамида (холмик) из камней (как знак на местности), сторожевой знак, опознавательный знак (из камней)
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">varde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 отмечать дорогу (маршрут) холмиками из камней (или каким-л, другими предметами)
 </sense>
 </entry>

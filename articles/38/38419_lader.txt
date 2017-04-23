@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lader</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 <u>воен.</u> заряжающий (у орудия)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lader</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em>
+<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 <u>уст.</u> манеры, жесты
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">elv</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 река
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">elv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>миф.</u> эльф
 </sense>
 </entry>

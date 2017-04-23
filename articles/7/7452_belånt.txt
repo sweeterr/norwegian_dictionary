@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">belånt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 заложенный
 <сit type="example"><text>huset er belånt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дом заложен</text></cit></cit>
 </sense>

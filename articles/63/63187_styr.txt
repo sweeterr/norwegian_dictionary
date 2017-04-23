@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">styr</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">styr</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <сit type="example"><text>få (ha) styr på skipet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>управлять судном</text></cit></cit>
 <сit type = "example"><text>gå over styr :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> лопнуть, обанкротиться, пойти с молотка</text></cit></cit>
 <сit type = "example"><text>gå over styr :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> кончиться ничем, внезапно прекратиться</text></cit></cit>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">styr</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 ведение домашнего хозяйства
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">farse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 мясной (рыбный) фарш
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">farse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 фарс <u>тж. перен.</u>
 </sense>
 </entry>

@@ -11,7 +11,7 @@
 <index></index>
 <form>
 <orth type="lemma">la</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">la</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-det), -dd (-det)</em>
+<inflection><orth extent="part">-dde (-det), -dd (-det)</orth></inflection>
 </form>
 <sense>
 заряжать (аккумулятор, конденсатор)
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">la</orth>
-<em><span class="dic_color"><span class="dic_comment">lot, latt</em>
+<inflection><orth>lot, latt</orth></inflection>
 в повелительном наклонении с последующим инфинитивом смыслового глагола выражает приказание, предложение, побуждение:
 <сit type="example"><text>la det være</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пусть будет так</text></cit></cit>
 <сit type="example"><text>la ham komme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пусть он придёт</text></cit></cit>
@@ -60,7 +60,7 @@
 <index></index>
 <form>
 <orth type="lemma">la</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> legge
+<gramGrp><tns>pret</tns><note>от legge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

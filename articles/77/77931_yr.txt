@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">yr</orth>
-<em><span class="dic_color"><span class="dic_comment">yret (yren)</em>
+<inflection><orth>yret (yren)</orth></inflection>
 </form>
 <sense>
 мелкий дождь, изморось
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">yr</orth>
-<em><span class="dic_color"><span class="dic_comment">yret</em>
+<inflection><orth>yret</orth></inflection>
 </form>
 <sense>
 беспорядочное движение
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">yr</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 шальной, озорной, шаловливый, резвый

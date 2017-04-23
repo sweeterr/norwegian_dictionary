@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 пэл (старинная норвежская мера жидких тел = 0,25 л)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">pel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 кол, шест, столб, свая
 <сit type="example"><text>stå til pels</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять у позорного столба <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>slå en pel gjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покончить с чем-л., разделаться с чем-л.</text></cit></cit>

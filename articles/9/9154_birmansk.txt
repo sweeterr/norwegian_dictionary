@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">birmansk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 бирманский язык
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">birmansk</orth>
-<u>adj</u> бирманский
+<gramGrp><pos>adj</pos></gramGrp>
+ бирманский
 </sense>
 </entry>
 </superEntry>

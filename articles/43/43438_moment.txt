@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">moment</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
 мгновение, миг, момент
@@ -17,7 +17,7 @@
 основное положение (доклада)
 </sense>
 <sense>
-<u>физ.</u><span class="dic_color"><span class="dic_comment">, <u>тех.</u> момент
+<u>физ.</u>, <u>тех.</u> момент
 </sense>
 </entry>
 </superEntry>

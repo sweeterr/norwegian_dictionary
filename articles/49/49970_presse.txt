@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">presse</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 пресса, печать
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">presse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-set), -t (-set)</em>
+<inflection><orth extent="part">-te (-set), -t (-set)</orth></inflection>
 </form>
 <sense>
 давить, жать, сжимать

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trumpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> ворчунья, брюзга
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trumpe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> толкать, пихать
 <сit type = "example"><text>trumpe vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отталкивать, отпихивать</text></cit></cit>
 <сit type = "example"><text>trumpe vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отгонять от себя (мысли)</text></cit></cit>

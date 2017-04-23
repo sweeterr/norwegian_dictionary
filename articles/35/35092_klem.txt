@@ -4,7 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">klem</orth>
-<em><span class="dic_color"><span class="dic_comment">-men</em> (<em><span class="dic_color"><span class="dic_comment">-met</em> )
+<inflection><orth extent="part">-men</orth></inflection>
+ (
+<inflection><orth extent="part">-met</orth></inflection>
+ )
 </form>
 <sense>
 напор, давление, нажим

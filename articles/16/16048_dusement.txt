@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">dusement</orth>
 <phon>|-'maŋ|</phon>
-<u>adj</u> <u>predic</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<gramGrp><pos>predic</pos></gramGrp>
 <u>разг.</u> удручённый, грустный, не в настроении, не в форме
 </sense>
 </entry>

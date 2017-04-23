@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">godvillig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 добровольный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">godvillig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 добровольно, охотно, с охотой
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vane</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 обычай, традиция
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">vane</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u> охранять (оберегать) горные пастбища
 </sense>
 </entry>

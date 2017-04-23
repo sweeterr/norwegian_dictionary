@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">tapper</orth>
-<u>adj</u>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><orth extent="part">-t</orth></inflection>
 <inflection><num>pl</num><orth>tapre</orth></inflection>
 храбрый, доблестный, смелый, мужественный
 <сit type="example"><text>holde seg tapper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не отступать, настоять на своем</text></cit></cit>

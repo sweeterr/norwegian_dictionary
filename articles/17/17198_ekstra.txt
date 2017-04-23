@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">ekstra</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-<u>predic</u> превосходный, высшего качества
+<gramGrp><pos>predic</pos></gramGrp>
+ превосходный, высшего качества
 </sense>
 <sense>
 добавочный, дополнительный, сверхурочный
@@ -17,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekstra</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 чрезвычайно, сверх меры, особо

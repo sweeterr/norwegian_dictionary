@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hekt</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>разг.</u> på hektа - на грани (чего-л.)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hekt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>мор.</u> hekt og tett - в полном порядке
 </sense>
 </entry>

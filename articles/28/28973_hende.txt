@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hende</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 случаться, происходить
 <сit type="example"><text>det har hendt ham en ulykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с ним стряслось несчастье</text></cit></cit>
 <сit type="example"><text>hva er hendt med deg?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что с тобой случилось?</text></cit></cit>

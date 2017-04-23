@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">dens</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(род. п. от den I, II)</em> его, её
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>род. п.</case><note>от den I, II</note></inflection>
+его, её
 </sense>
 </entry>
 </superEntry>

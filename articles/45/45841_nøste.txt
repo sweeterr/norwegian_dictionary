@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nøste</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 клубок (моток) ниток
@@ -17,7 +17,8 @@
 <index></index>
 <form>
 <orth type="lemma">nøste</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em> мотать, наматывать (нитки)
+<inflection><orth extent="part">-et, -et</orth></inflection>
+ мотать, наматывать (нитки)
 </sense>
 </entry>
 </superEntry>

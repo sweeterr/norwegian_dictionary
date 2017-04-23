@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">utskille</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 делить, отделять
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">физиол.</em> выделять
+<u>физиол.</u> выделять
 </sense>
 </entry>
 </superEntry>

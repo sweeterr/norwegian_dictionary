@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">holde seg</orth>
-<em><span class="dic_color"><span class="dic_comment">holdt, holdt</em>
+<inflection><orth>holdt, holdt</orth></inflection>
 продержаться (о крепости)
 <сit type="example"><text>holde seg flytende (over vannet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться на воде</text></cit></cit>
 <сit type="example"><text>holde seg godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо сохраниться, хорошо держаться (несмотря на возраст)</text></cit></cit>

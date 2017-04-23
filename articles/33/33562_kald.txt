@@ -4,10 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">kald</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-холодный <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+холодный <u>в разн. знач.</u>
 <сit type="example"><text>det blir kaldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежеет, холодает</text></cit></cit>
 <сit type="example"><text>det er bitende kaldt ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на улице жгучий мороз</text></cit></cit>
 <сit type="example"><text>isende kaldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>леденяще холодно</text></cit></cit>

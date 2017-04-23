@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">drikke</orth>
-<em><span class="dic_color"><span class="dic_comment">-t (-n)</em>
+<inflection><orth extent="part">-t (-n)</orth></inflection>
 <ref>drikk 2)</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">drikke</orth>
-<em><span class="dic_color"><span class="dic_comment">drakk, drukket</em>
+<inflection><orth>drakk, drukket</orth></inflection>
 </form>
 <sense>
 пить (чай, кофе, молоко и т. д.), выпить

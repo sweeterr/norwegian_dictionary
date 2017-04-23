@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knutt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 кнут
 <сit type="example"><text>få knutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить удар кнутом</text></cit></cit>
 <сit type="example"><text>gi knutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить кнутом</text></cit></cit>

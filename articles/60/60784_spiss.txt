@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spiss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 кончик, остриё, шпиль
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">spiss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 шпиц (порода собак)
 </sense>
 </entry>
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">spiss</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 приправа (к пище)
 <сit type="example"><text>sette spissen på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приправить пряностями</text></cit></cit>
 </sense>
@@ -53,7 +53,9 @@
 <index></index>
 <form>
 <orth type="lemma">spiss</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 острый, остроконечный, заострённый

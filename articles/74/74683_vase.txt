@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vase</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 ваза
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vase</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 путаница, неразбериха, беспорядок, мешанина
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">vase</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 спутывать, перепутывать (нитки, сеть и т. п.)

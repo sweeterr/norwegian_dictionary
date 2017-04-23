@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 деревянная бадейка (для хранения молока
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringe</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 малый, незначительный, несущественный
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringe</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 бить в колокол, звонить (к церковной службе - til)
@@ -67,7 +67,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 окружать, окаймлять, располагаться вокруг (тж. ringe inn)
@@ -76,7 +76,7 @@
 кольцевать (птиц, животных), кольцевать ствол (деревьев)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">охот.</em> обкладывать кольцом (зверей)
+<u>охот.</u> обкладывать кольцом (зверей)
 </sense>
 <sense>
 окружать (противника)

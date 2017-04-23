@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">drønn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 грохот, гул
 <сit type="example"><text>drønn av kanoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грохот пушек</text></cit></cit>
 </sense>

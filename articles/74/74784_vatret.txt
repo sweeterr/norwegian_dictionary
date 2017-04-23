@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vatret</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 волнистый, покрытый рябью (о воде)
@@ -13,7 +13,7 @@
 переливчатый (о красках)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> муарированный
+<u>текст.</u> муарированный
 </sense>
 </entry>
 </superEntry>

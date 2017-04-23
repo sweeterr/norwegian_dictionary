@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fure</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 борозда
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">fure</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <ref>furu</ref>
 </sense>
 </entry>
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">fure</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 морщить, сморщивать
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">fure</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

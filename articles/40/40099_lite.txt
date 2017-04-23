@@ -4,21 +4,24 @@
 <index></index>
 <form>
 <orth type="lemma">lite</orth>
-<em><span class="dic_color"><span class="dic_comment">litte (le(i)t), litt</em> полагаться (на кого-л. - på); доверять
+<inflection><orth>litte (le(i)t), litt</orth></inflection>
+полагаться (на кого-л. - på); доверять
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lite</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">n — от liten</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><gender>n</gender><note>от liten</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lite</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp mindre)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+<inflection><orth>komp mindre</orth></inflection>
 немного, мало
 <сit type="example"><text>bry seg liteom noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не обращать внимания на что-л., относиться к чему-л. равнодушно</text></cit></cit>
 </sense>

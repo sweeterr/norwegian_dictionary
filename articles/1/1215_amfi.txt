@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">amfi</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>разг.</u> амфитеатр
 <сit type="example"><text>sitte i amfi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в амфитеатре</text></cit></cit>
 <сit type="example"><text>stående amfi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>входной билет в амфитеатр без места для сидения</text></cit></cit>

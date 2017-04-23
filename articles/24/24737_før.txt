@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">før</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 дородный, полный
@@ -17,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">før</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 прежде, раньше
@@ -34,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">før</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 во временном значении указывает на совершение одного действия до другого до, перед
 <сit type="example"><text>før tiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раньше своего (положенного) времени</text></cit></cit>
 </sense>

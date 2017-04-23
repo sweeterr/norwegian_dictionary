@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">like</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 ровня
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">like</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> возмещение, компенсация
 <сit type="example"><text>gjøre like for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возмещать что-л.</text></cit></cit>
 </sense>
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">like</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 одинаковый, равный
@@ -49,7 +49,7 @@
 <index></index>
 <form>
 <orth type="lemma">like</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 любить
 <сit type="example"><text>jeg liker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне нравится</text></cit></cit>
 <сit type="example"><text>være godt likt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть популярным, пользоваться популярностью</text></cit></cit>
@@ -60,7 +60,7 @@
 <index></index>
 <form>
 <orth type="lemma">like</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 одинаково, равно

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hun</orth>
-<em><span class="dic_color"><span class="dic_comment">-(n)en, -(n)er</em>
+<inflection><orth extent="part">-(n)en, -(n)er</orth></inflection>
 самка
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">hun</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(объекн. п. henne, род. п. hennes)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><orth>объекн. п. henne, род. п. hennes</orth></inflection>
 она (только об одушевлённых существах ж. р.) (редко о кораблях, лодках)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">antrekk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 одежда, платье
 <сit type="example"><text>daglig antrekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повседневная одежда</text></cit></cit>
 <сit type="example"><text>holde en i antrekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эксплуатировать, заставлять кого-л. работать</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">helle</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 </form>
 <sense>
 каменная плита, плоский камень
@@ -20,7 +20,8 @@
 <index></index>
 <form>
 <orth type="lemma">helle</orth>
--te , <em><span class="dic_color"><span class="dic_comment">-t</em>
+-te , 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 быть в наклонном положении, иметь наклон

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">meis</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 плетёная корзинка (приспособленная для ношения на спине или для вьючных животных)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">meis</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <ref>meise</ref>
 </sense>
 </entry>

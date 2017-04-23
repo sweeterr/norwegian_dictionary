@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">orv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> косовище (косы)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">orv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> кольцо из ивовой ветки (для запирания калитки)
 </sense>
 </entry>

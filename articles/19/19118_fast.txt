@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fast</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 крепкий, прочный
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">fast</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>уст.</u> почти
 </sense>
 </entry>
@@ -50,7 +50,7 @@
 <index></index>
 <form>
 <orth type="lemma">fast</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 <u>уст.</u> хотя, несмотря на то, что
 </sense>
 </entry>

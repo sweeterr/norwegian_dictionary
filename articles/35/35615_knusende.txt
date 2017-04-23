@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knusende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 исключительный, ошеломляющий
 <сit type="example"><text>det er knusende!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> вот это здорово!, потрясающе!</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">knusende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>knusende likegyldig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно безразличный</text></cit></cit>
 <сit type="example"><text>knusende rolig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно спокойный</text></cit></cit>
 <сit type="example"><text>knusende sikker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>абсолютно уверенный</text></cit></cit>

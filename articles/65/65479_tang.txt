@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tang</orth>
-<em><span class="dic_color"><span class="dic_comment">tanga (tangen), tenger</em>
+<inflection><orth>tanga (tangen), tenger</orth></inflection>
 </form>
 <sense>
 щипцы, клещи, кусачки, плоскогубцы
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tang</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 <u>бот.</u> взморник, или застера, или морская трава
 </sense>
 </entry>

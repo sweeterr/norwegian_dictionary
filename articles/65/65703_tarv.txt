@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tarv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 потребность, нужда
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tarv</orth>
-<em><span class="dic_color"><span class="dic_comment">pres — от</em> turve
+<gramGrp><tns>pres</tns><note>от turve</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

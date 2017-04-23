@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">gjøs</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> гюйс
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">gjøs</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> gyse
+<gramGrp><tns>pret</tns><note>от gyse</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

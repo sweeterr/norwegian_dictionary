@@ -4,14 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">buldrende</orth>
-<u>adj</u> шумный
+<gramGrp><pos>adj</pos></gramGrp>
+ шумный
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">buldrende</orth>
-<u>adv</u> шумно
+<gramGrp><pos>adv</pos></gramGrp>
+ шумно
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilliggende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>юр.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilliggende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 прилежащий, прилегающий, примыкающий, граничащий
 </sense>
 </entry>

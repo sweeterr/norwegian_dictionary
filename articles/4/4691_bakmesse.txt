@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakmesse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <сit type = "example"><text>komme i bakmessen — <u>разг.</u> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного опоздать</text></cit></cit>
 <сit type = "example"><text>komme i bakmessen — <u>разг.</u> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти слишком поздно</text></cit></cit>
 </sense>

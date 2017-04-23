@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 слеза
 <сit type="example"><text>tårene styrtet ut av øynene på henne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слёзы брызнули у неё из глаз</text></cit></cit>
 <сit type="example"><text>felle tårer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лить (проливать) слёзы</text></cit></cit>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tåre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>уст.</u> плакать
 <сit type = "example"><text>det tårer :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> слёзы показываются на глазах</text></cit></cit>
 <сit type = "example"><text>det tårer :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> глаза слезятся</text></cit></cit>

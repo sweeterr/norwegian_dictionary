@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skar</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 нагар (на свече)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skar</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 ущелье, теснина, расселина
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">skar</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> skjære III
+<gramGrp><tns>pret</tns><note>от skjære III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frigear</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>авт.</u> нейтральная передача, нейтральное положение
 <сit type="example"><text>sette vognen i frigear</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>включить нейтральную передачу</text></cit></cit>
 </sense>

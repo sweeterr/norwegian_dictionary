@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lodd</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 судьба, участь, доля, рок
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">lodd</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
 гиря
@@ -51,7 +51,7 @@
 <index></index>
 <form>
 <orth type="lemma">lodd</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>тех.</u> припой, сплав для паяния
 </sense>
 </entry>

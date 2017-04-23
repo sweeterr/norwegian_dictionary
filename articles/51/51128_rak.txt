@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rak</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 фитиль (свечи)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rak</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 обломки кораблекрушения
@@ -25,7 +25,9 @@
 <index></index>
 <form>
 <orth type="lemma">rak</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 прямой (об осанке человека)
@@ -40,14 +42,16 @@
 <index></index>
 <form>
 <orth type="lemma">rak</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> нежный, слегка пряный (о вкусе специально обработанной рыбы
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">rak</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> reke III
+<gramGrp><tns>pret</tns><note>от reke III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

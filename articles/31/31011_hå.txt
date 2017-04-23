@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 отава
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">hå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 небольшая акула
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">hå</orth>
 hå!
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 </form>
 <sense>
 ого! (употребляется для выражения удивления, презрения, недоверия)

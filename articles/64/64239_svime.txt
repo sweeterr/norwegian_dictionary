@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svime</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 головокружение, обморок
 <сit type="example"><text>falle i svime</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть в обморок</text></cit></cit>
 <сit type="example"><text>slå i svime</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довести до обморока</text></cit></cit>
@@ -15,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">svime</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>

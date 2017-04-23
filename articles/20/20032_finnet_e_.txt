@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">finnet(e)</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 плавниковый, имеющий плавники
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">finnet(e)</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 прыщавый, угреватый, в прыщах, в угрях (о коже)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dødstille</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 безветрие
 <сit type="example"><text>ligge i dødstille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в мёртвый штиль</text></cit></cit>
 </sense>

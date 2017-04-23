@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ladning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 погрузка, отгрузка
@@ -17,7 +17,7 @@
 зарядка, заряжение (действие)
 </sense>
 <sense>
-<u>воен.</u><span class="dic_color"><span class="dic_comment">, <u>эл.</u> заряд
+<u>воен.</u>, <u>эл.</u> заряд
 </sense>
 </entry>
 </superEntry>

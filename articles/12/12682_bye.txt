@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bye</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">bye</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>дет.</u> колыбель
 <сit type="example"><text>i bya di</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в твоей колыбельке (кроватке)</text></cit></cit>
 </sense>
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">bye</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> качать, укачивать, убаюкивать (ребёнка)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kram</orth>
-<em><span class="dic_color"><span class="dic_comment">-met</em>
+<inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
 хлам, старьё, бросовый материал
@@ -25,7 +25,9 @@
 <index></index>
 <form>
 <orth type="lemma">kram</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 мокрый, липкий (о снеге)

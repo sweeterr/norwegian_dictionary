@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">audienssøkende</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 человек, записавшийся (пришедший) на приём
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">audienssøkende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 добивающийся аудиенции
 </sense>
 </entry>

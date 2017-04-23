@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stykke</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 кусок, штука
@@ -53,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">stykke</orth>
-<em><span class="dic_color"><span class="dic_comment">-ket (-te), -ket (-t)</em>
+<inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 делить на части
 <сit type="example"><text>stykke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделить, поделить</text></cit></cit>
 <сit type="example"><text>stykke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделить</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">får</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 овца, баран
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">får</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> борозда
 </sense>
 </entry>

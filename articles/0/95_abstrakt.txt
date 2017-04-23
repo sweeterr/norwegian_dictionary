@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">abstrakt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>муз.</u> рычаг мехов органа
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">abstrakt</orth>
-<em><span class="dic_color"><span class="dic_comment">–et, –er</em>
+<inflection><orth extent="part">-et, –er</orth></inflection>
 <u>лингв.</u> отвлечённое (абстрактное) имя существительное
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">abstrakt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 абстрактный, отвлечённый

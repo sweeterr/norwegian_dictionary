@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">veie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
 весить, иметь вес <u>тж. перен.</u>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">veie</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 <u>диал.</u> прокладывать дорогу (обычно по снегу)
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slubbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <ref>slubb</ref>
 </sense>
 </entry>
@@ -12,8 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">slubbe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> тростить
+<inflection><orth extent="part">-et, -et</orth></inflection>
+<u>текст.</u> тростить
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sold</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>воен.</u> <u>уст.</u> жалованье
 <сit type="example"><text>stå (være) i ens sold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>состоять на службе у кого-л. (за плату)</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">sold</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>редко</u> попойка, пьянка, кутёж
 </sense>
 </entry>

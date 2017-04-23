@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lokk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 локон
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">lokk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 завлекательная песня (мелодия)
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">lokk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 крышка
 <сit type="example"><text>få lokket igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрыть крышку (чемодана и т. п.)</text></cit></cit>
 <сit type="example"><text>lette på lokket lokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приподнять завесу</text></cit></cit>

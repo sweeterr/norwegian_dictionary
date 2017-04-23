@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lasting</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 ластик, сатин (материя)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lasting</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 погрузка, отгрузка
 </sense>
 </entry>

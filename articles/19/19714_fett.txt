@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fett</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 жир, жировые отложения, сало
 <сit type="example"><text>bli stekt i sitt eget fett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> бить противника его же оружием</text></cit></cit>
 <сit type="example"><text>det er meg ett fett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне совершенно безразлично</text></cit></cit>

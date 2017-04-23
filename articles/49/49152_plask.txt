@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plask</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 плеск, всплеск
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">plask</orth>
-plask! <u>int</u>
+plask! 
+<gramGrp><pos>int</pos></gramGrp>
 бултых!
 </sense>
 </entry>

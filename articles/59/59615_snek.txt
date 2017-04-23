@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">snek</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> резкий запах, вонь
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">snek</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> snike
+<gramGrp><tns>pret</tns><note>от snike</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vestpå</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 на западе, в Западной Норвегии
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">vestpå</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 на запад от
 </sense>
 </entry>

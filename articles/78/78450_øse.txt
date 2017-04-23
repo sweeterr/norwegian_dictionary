@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">øse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> волнение, возбуждение
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">øse</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 ковш, черпак, разливательная ложка
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">øse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 черпать, вычерпывать
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">øse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 лить (о дожде)
 <сit type="example"><text>øse ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лить как из ведра</text></cit></cit>
 </sense>
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">øse</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>

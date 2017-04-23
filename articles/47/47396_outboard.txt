@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">outboard</orth>
 <phon>|autbord|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -s</em> (-er)
+<inflection><orth extent="part">-en, -s</orth></inflection>
+ (-er)
 <u>мор.</u> лодка (шлюпка) с подвесным мотором
 </sense>
 </entry>

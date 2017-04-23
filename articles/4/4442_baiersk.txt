@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">baiersk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 баварский
 <сit type="example"><text>baiersk øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баварское пиво</text></cit></cit>
 </sense>

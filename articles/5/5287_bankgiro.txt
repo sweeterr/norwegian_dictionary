@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bankgiro</orth>
-<span class="dic_color"><span class="dic_comment">|'∫i:ru|
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<phon>|'∫i:ru|</phon>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>банк.</u> банковская система жиросчётов, жиро, жирорасчёт
 </sense>
 </entry>

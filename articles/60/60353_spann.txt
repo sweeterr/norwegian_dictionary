@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 бадья, ведро
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">spann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 упряжка лошадей (собак, оленей)
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">spann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 пядь (мера длины, равная расстоянию между вытянутыми большим пальцем и мизинцем руки)
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">spann</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> spinne
+<gramGrp><tns>pret</tns><note>от spinne</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

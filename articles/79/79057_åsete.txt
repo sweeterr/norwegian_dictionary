@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">åsete</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 поместье, имение
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">åsete</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 холмистый (о местности)
 </sense>
 </entry>

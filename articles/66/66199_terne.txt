@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">terne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 <u>поэт.</u> любимая девушка, возлюбленная
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">terne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <u>зоол.</u> крачка
 </sense>
 </entry>
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">terne</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>разг.</u> фонарь
 <u>сокр.</u> от lanterne
 </sense>

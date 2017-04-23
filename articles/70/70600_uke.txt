@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 неделя
 <сit type="example"><text>forleden (siste) uke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошедшая неделя</text></cit></cit>
 <сit type="example"><text>hele uken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целая неделя</text></cit></cit>

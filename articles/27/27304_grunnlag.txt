@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grunnlag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 основа, базис, основание
 <сit type="example"><text>på grunnlag av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на основе (чего-л.)</text></cit></cit>
 <сit type="example"><text>danne grunnlaget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить основанием</text></cit></cit>

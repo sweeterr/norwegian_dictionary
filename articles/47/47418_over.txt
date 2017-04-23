@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">over</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 наверху, сверху, над
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">over</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на положение одного предмета над другим над

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">post</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 пост, должность, место
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">post</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 почта, почтовое отделение
@@ -46,7 +46,7 @@
 <index></index>
 <form>
 <orth type="lemma">post</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 косяк (двери, окна)
@@ -59,7 +59,7 @@
 <index></index>
 <form>
 <orth type="lemma">post</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 статья расхода

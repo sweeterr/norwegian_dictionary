@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stemmerett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 право голоса, избирательное право
 <сit type="example"><text>alminnelig stemmerett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всеобщее избирательное право</text></cit></cit>
 <сit type="example"><text>fradømt stemmeretten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лишённый избирательных прав</text></cit></cit>

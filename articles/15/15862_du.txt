@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">du</orth>
-<u><em><span class="dic_color"><span class="dic_comment">pron</u> (объектн. п. deg, <u>уст.</u> dig)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>объектн. п.</case><orth>deg, <u>уст.</u> dig</orth></inflection>
 ты
 <сit type="example"><text>si du til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на «ты» с кем-л.</text></cit></cit>
 <сit type="example"><text>tiltale én med du</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращаться на «ты» к кому-л.</text></cit></cit>
@@ -14,7 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">du</orth>
-<em><span class="dic_color"><span class="dic_comment">du(d)de, du(d)d</em>
+<inflection><orth>du(d)de, du(d)d</orth></inflection>
 <ref>duge</ref>
 </sense>
 </entry>

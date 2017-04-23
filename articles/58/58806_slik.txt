@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slik</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <inflection><orth>n slikt, pl slike</orth></inflection>
 такой, такая (такое, такие), подобный, подобная (подобное, подобные)
 <сit type="example"><text>jeg tror du er slik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> я думаю, что у тебя не все дома</text></cit></cit>
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">slik</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 так, таким образом

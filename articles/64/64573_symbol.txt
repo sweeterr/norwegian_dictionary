@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">symbol</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 символ, знак
 <сit type="example"><text>nasjonale symboler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>государственный флаг и государственный герб</text></cit></cit>
 </sense>

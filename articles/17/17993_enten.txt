@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">enten</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 или
 <сit type="example"><text>enten ... eller ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>или ..., или ...</text></cit></cit>
 <сit type="example"><text>enten man vil eller ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хочешь не хочешь</text></cit></cit>

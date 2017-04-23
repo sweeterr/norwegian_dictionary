@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 песчаная равнина, пустырь
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>собир.</u> метеосводки
 <сit type="example"><text>innenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по стране</text></cit></cit>
 <сit type="example"><text>utenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по зарубежным странам</text></cit></cit>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 мелкие отбросы, мелкий мусор
 </sense>
 </entry>
@@ -40,7 +40,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> тепловатый, чуть тёпленький
 </sense>
 </entry>
@@ -48,7 +48,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 <u>диал.</u> слабый, обессилевший
@@ -62,7 +62,7 @@
 <index></index>
 <form>
 <orth type="lemma">mo</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>mo alene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно один</text></cit></cit>
 </sense>
 </entry>

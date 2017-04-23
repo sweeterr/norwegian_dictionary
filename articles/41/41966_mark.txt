@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mark</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 личинка, червяк
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">mark</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 земля, грунт
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">mark</orth>
-<em><span class="dic_color"><span class="dic_comment">marka (marken), merker</em>
+<inflection><orth>marka (marken), merker</orth></inflection>
 </form>
 <sense>
 четверть килограмма

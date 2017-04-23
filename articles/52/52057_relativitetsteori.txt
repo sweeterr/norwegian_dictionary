@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">relativitetsteori</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>физ.</u> теория относительности
 <сit type="example"><text>alminnelig (spesiell) relativitetsteori</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общая (частная) теория относительности</text></cit></cit>
 </sense>

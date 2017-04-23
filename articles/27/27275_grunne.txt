@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">grunne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em> <u>мор.</u>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
+ <u>мор.</u>
 </form>
 <sense>
 отмель, мель
@@ -17,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">grunne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 мелеть, становиться мелким
 <сit type="example"><text>grunne opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заносить дно (песком, илом)</text></cit></cit>
 </sense>
@@ -26,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">grunne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 основывать

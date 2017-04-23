@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">torsdag</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 четверг
 <сit type="example"><text>om torsdagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в четверг, по четвергам</text></cit></cit>
 <сit type="example"><text>i torsdags</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в прошлый четверг</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avbrenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 сжигать, выжигать
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">avbrenne</orth>
-<em><span class="dic_color"><span class="dic_comment">avbrant, avbrent</em>
+<inflection><orth>avbrant, avbrent</orth></inflection>
 выгорать, сгорать
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">applaus</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 аплодисменты, овация
 <сit type="example"><text>til enestående applaus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под бурные аплодисменты</text></cit></cit>
 </sense>

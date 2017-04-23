@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">pauvre</orth>
 <phon>|'po:vәr|</phon>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 нищенский, жалкий, бедный
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lom</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 <u>зоол.</u> гагара
 <сit type="example"><text>rødstrupet lom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гагара краснозобая</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">lom</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> см. låm
 </sense>
 </entry>

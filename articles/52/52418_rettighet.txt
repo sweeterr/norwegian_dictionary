@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rettighet</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 право, привилегия
 <сit type="example"><text>politiske rettigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>политические права</text></cit></cit>
 <сit type="example"><text>økonomiske rettigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>экономические привилегии</text></cit></cit>

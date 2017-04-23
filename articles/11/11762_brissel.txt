@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brissel</orth>
-<em><span class="dic_color"><span class="dic_comment">-selen, -ler</em>
+<inflection><orth extent="part">-selen, -ler</orth></inflection>
 <u>анат.</u> вилочковая железа
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">brissel</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 красная краска (из дерева, произрастающего в Бразилии)
 </sense>
 </entry>

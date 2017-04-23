@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">naggende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <сit type="example"><text>naggende fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко-накрепко</text></cit></cit>
 <сit type="example"><text>naggende stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тихо-тихо</text></cit></cit>
 </sense>

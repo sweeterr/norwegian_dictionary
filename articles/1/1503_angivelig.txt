@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">angivelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 мнимый, предполагаемый, вероятный
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">angivelig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 якобы, будто бы
 </sense>
 </entry>

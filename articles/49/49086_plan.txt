@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">plan</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-план <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+план <u>в разн. знач.</u>
 <сit type="example"><text>arbeide (gå fram) etter en plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работать по плану</text></cit></cit>
 <сit type="example"><text>framlegge (utkaste) en plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намечать план</text></cit></cit>
 <сit type="example"><text>forfølge sin plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следовать своему плану</text></cit></cit>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">plan</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 горизонтальная плоскость, <u>мат.</u> плоскость
@@ -58,7 +58,9 @@
 <index></index>
 <form>
 <orth type="lemma">plan</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 плоский, ровный
 </sense>
 </entry>

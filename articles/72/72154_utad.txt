@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utad</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>уст.</u> направленный наружу
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">utad</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 наружу, вон, в сторону (от чего-л.)
 </sense>
 </entry>

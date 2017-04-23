@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anklagebenk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 скамья подсудимых
 <сit type="example"><text>sitte på anklagebenken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на скамье подсудимых, быть обвинённым в чём-л.</text></cit></cit>
 </sense>

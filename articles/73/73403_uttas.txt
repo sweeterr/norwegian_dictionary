@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uttas</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>диал.</u> в противном случае
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">uttas</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 <u>диал.</u> исключая, за исключением
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">uttas</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 <u>диал.</u> если только не
 </sense>
 </entry>

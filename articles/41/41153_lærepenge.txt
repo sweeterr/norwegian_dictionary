@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">lærepenge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
-расплата (за убыток, ущерб, <em><span class="dic_color"><span class="dic_comment">тж.</em> <u>перен</u>)
+<inflection><orth extent="part">-n</orth></inflection>
+расплата (за убыток, ущерб, <u>тж.</u> <u>перен</u>)
 <сit type="example"><text>det var dyre lærepenge(r) for ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он дорого поплатился (за что-л.), это было для него суровым уроком</text></cit></cit>
 <сit type="example"><text>få en lærepenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить урок, извлечь урок (из чего-л.)</text></cit></cit>
 </sense>

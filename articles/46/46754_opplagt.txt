@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">opplagt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 расположенный, склонный (к чему-л. - til)
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">opplagt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 явно
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">plikt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 обязанность, долг, обязательство
 <сit type="example"><text>en hellig plikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>священный долг</text></cit></cit>
 <сit type="example"><text>huslige plikter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>домашние обязанности (дела)</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">plikt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>мор.</u> <u>уст.</u> носовой люк (шлюпки)
 </sense>
 </entry>

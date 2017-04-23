@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 зерно, зёрнышко
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 маслобойка (сосуд)
 </sense>
 </entry>
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">kjerne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 сбивать масло
 </sense>
 </entry>

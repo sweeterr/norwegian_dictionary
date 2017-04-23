@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tidlig</orth>
 <phon>|'ti:li|</phon>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 ранний
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">tidlig</orth>
 <phon>|'ti:li|</phon>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 рано

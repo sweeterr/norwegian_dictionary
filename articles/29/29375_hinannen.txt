@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hinannen</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 один другого, друг друга
 <сit type="example"><text>fra hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один от другого, друг от друга</text></cit></cit>
 <сit type="example"><text>om hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один о другом, друг о друге</text></cit></cit>

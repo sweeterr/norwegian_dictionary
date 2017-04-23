@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">parere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 отражать, парировать (удар)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">parere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 слушаться, повиноваться
 <сit type="example"><text>parere ordre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подчиниться приказу</text></cit></cit>
 </sense>

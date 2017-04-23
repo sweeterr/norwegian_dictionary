@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rust</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 ржавчина, коррозия
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">rust</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> гребень горы; небольшой горный хребет
 </sense>
 </entry>

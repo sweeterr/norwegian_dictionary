@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sving</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
+<inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
 взмах, размах, взлёт, <u>перен.</u> движение, ход
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">sving</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 взмах (рукой, палкой)

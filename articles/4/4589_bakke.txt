@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 склон, спуск, горка, скат
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 поднос
 </sense>
 </entry>
@@ -42,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>рыб.</u> перемёт, донная удочка с несколькими крючками
 </sense>
 </entry>
@@ -50,7 +50,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>тех.</u>
 </form>
 <sense>
@@ -67,7 +67,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 убирать паруса
@@ -82,7 +82,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 разливать, раздавать (пищу)
 <сit type="example"><text>bakke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрывать на стол, подавать к столу</text></cit></cit>
 </sense>
@@ -91,7 +91,7 @@
 <index></index>
 <form>
 <orth type="lemma">bakke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 выступать горбом, холмиться (о местности)
 </sense>
 </entry>

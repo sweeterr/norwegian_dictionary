@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pasient</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 пациент, больной
 <сit type="example"><text>behandle en pasient</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лечить больного</text></cit></cit>
 </sense>

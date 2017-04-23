@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bryllup</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 свадьба
 <сit type="example"><text>ha (holde, <lbl>редко</lbl> ture) bryllup</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать свадьбу</text></cit></cit>
 <сit type="example"><text>bryllupet skal stå i morgen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свадьба будет завтра</text></cit></cit>

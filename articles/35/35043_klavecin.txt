@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klavecin</orth>
 <phon>|-'seŋ|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <u>муз.</u> клавесин
 </sense>
 </entry>

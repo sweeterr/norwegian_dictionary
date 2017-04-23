@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">flau</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t(t)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t(t)</orth></inflection>
 </form>
 <sense>
 вялый (о торговле, настроении),

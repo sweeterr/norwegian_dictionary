@@ -6,11 +6,11 @@
 <orth type="lemma">bank</orth>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 стук
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 побои, порка
 <сit type="example"><text>gi bank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>колотить, избивать</text></cit></cit>
 <сit type="example"><text>få bank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть побитым, получить побои (порку)</text></cit></cit>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 банк, сберегательная касса
@@ -37,7 +37,7 @@
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>тех.</u> поперечная балка
 </sense>
 </entry>
@@ -45,7 +45,7 @@
 <index></index>
 <form>
 <orth type="lemma">bank</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 мель, отмель

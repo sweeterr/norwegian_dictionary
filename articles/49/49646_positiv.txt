@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">positiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>(-er)
+<inflection><orth extent="part">-en</orth></inflection>
+(-er)
 <u>фото</u> позитив
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">positiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>грам.</u> положительная степень
 </sense>
 </entry>
@@ -20,7 +21,9 @@
 <index></index>
 <form>
 <orth type="lemma">positiv</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 положительный, утвердительный
@@ -36,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">positiv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
 шарманка

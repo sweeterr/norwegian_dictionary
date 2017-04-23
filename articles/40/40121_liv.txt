@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">liv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 жизнь, существование
@@ -49,7 +49,7 @@
 <index></index>
 <form>
 <orth type="lemma">liv</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 талия

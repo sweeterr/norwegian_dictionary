@@ -4,14 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">blending</orth>
-<u>adj</u> ослепляющий, слепящий
+<gramGrp><pos>adj</pos></gramGrp>
+ ослепляющий, слепящий
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">blending</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em> затемнение
+<inflection><orth extent="part">-en</orth></inflection>
+ затемнение
 </sense>
 </entry>
 </superEntry>

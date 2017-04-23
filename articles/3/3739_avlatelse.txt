@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">avlatelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <сit type="example"><text><lbl>уст.</lbl> uten avlatelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не переставая, непрерывно</text></cit></cit>
 </sense>
 </entry>

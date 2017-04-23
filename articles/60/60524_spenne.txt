@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et, -a), -er</em>
+<inflection><orth extent="part">-en (-et, -a), -er</orth></inflection>
 пряжка, застёжка (на ремне)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 натягивать, протягивать, растягивать, <u>перен.</u> вызывать напряжённость (в отношениях)
@@ -52,7 +52,7 @@
 <index></index>
 <form>
 <orth type="lemma">spenne</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 ударять ногой, давать пинка

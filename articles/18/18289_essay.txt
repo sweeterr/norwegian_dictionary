@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">essay</orth>
 <phon>|'es:e|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em> (-s)
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
+ (-s)
 эссе, научный очерк, публицистическая статья
 </sense>
 </entry>

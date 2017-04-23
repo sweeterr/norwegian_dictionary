@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">te</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 чай
 <сit type="example"><text>sterk te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий чай</text></cit></cit>
 <сit type="example"><text>svak (tynn) te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий чай</text></cit></cit>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">te</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> показывать, предъявлять
 </form>
 <sense>
@@ -32,7 +32,8 @@
 <index></index>
 <form>
 <orth type="lemma">te</orth>
-<u>prep</u> <u>диал.</u> см. til I
+<gramGrp><pos>prep</pos></gramGrp>
+ <u>диал.</u> см. til I
 </sense>
 </entry>
 </superEntry>

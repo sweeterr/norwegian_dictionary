@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">unntagen</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 исключая, не считая, за исключением (чего-л.)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">unntagen</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 если только не, если бы не
 </sense>
 </entry>

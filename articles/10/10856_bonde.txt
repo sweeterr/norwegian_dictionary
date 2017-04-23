@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bonde</orth>
-<em><span class="dic_color"><span class="dic_comment">bonden, bønder</em>
+<inflection><orth>bonden, bønder</orth></inflection>
 </form>
 <sense>
 крестьянин, земледелец
@@ -18,7 +18,7 @@
 <u>уст.</u> бонд (свободный крестьянин в Скандинавии эпохи феодализма)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> пешка
+<u>шахм.</u> пешка
 </sense>
 </entry>
 </superEntry>

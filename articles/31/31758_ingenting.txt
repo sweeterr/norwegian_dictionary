@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ingenting</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 ничто, ничего
 <сit type="example"><text>det har ingenting å si, det gjør ingenting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не важно, это ничего не значит</text></cit></cit>
 <сit type="example"><text>det ligner ingenting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в этом нет никакого смысла (толку)</text></cit></cit>

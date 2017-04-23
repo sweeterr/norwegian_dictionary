@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kime</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 зародыш, эмбрион, личинка
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kime</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 звонить (в колокола)
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">kime</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 прорастать, давать росток <u>тж. перен.</u>
 </sense>
 </entry>

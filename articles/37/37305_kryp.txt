@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kryp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 бедняга, несчастный
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kryp</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 пресмыкающееся, гад

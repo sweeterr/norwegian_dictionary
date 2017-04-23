@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">teppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 ковёр, коврик
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">teppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-pet (-re), -pet (-t)</em>
+<inflection><orth extent="part">-pet (-re), -pet (-t)</orth></inflection>
 <u>диал.</u> закрывать, покрывать
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">måler</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 измерительный аппарат(прибор), счётчик (электрический, газовый)
 <сit type="example"><text>etter måler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по счётчику</text></cit></cit>
 </sense>

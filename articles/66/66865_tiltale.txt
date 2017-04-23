@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tiltale</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 обращение (речь, слово)
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">tiltale</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 обращаться к кому-л. (со словами, с речью)

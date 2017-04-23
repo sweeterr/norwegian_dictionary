@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pleie</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 уход (за больными, за детьми), забота, присмотр
 <сit type="example"><text>bli gitt (satt) i pleie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть отданным на воспитание</text></cit></cit>
 <сit type="example"><text>være i pleie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться на воспитании</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">pleie</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
 ухаживать, присматривать (за больным ребёнком)

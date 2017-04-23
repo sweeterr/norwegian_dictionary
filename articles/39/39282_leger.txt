@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">leger</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>уст.</u> 
 <ref>legervall 2)</ref>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">leger</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 домик в горах (где можно переночевать)
@@ -30,7 +30,9 @@
 <form>
 <orth type="lemma">leger</orth>
 <phon>|le'∫æ:r|</phon>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>разг.</u>
 </form>
 <sense>

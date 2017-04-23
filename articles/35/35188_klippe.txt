@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 скала, утёс
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">klippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-te(-pet), -t (-pet)</em>
+<inflection><orth extent="part">-te(-pet), -t (-pet)</orth></inflection>
 </form>
 <sense>
 стричь, подстригать (волосы, траву, ногти и т. п.)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innerst</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 рабочий, живущий у арендатора
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">innerst</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 глубокий
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">innerst</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в самой глубине, в самом центре (чего-л.)
 </sense>
 </entry>

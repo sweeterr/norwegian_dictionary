@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 зажим, скоба, тиски
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">klemme</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 сдавливать, сжимать

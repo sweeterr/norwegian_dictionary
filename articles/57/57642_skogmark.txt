@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skogmark</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 лесистая местность, местность, богатая лесом
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skogmark</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 гусеница соснового шелкопряда
 </sense>
 </entry>

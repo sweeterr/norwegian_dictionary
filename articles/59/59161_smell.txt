@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smell</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 треск, трескотня, резкий звук
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">smell</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 очень, весьма, крайне
 </sense>
 </entry>

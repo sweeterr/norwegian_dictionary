@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">følgje</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 см. følge I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">følgje</orth>
-<em><span class="dic_color"><span class="dic_comment">følgte, følgt</em>
+<inflection><orth>følgte, følgt</orth></inflection>
 см. følge III
 </sense>
 </entry>

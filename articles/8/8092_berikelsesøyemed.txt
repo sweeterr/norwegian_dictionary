@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">berikelsesøyemed</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <сit type="example"><text>i berikelsesøyemed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>юр.</lbl> с целью обогащения</text></cit></cit>
 </sense>
 </entry>

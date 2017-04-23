@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">herregud</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 господь, бог
 <сit type="example"><text>herregud!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>господи!</text></cit></cit>
 </sense>

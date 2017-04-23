@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bol</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 гнездо (мышей, змей, ос и т. д.)
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">bol</orth>
 <phon>|bo:l|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 голый (без веток) ствол (дерева)

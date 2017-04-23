@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sig</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 стекание, просачивание (воды)
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">sig</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <u>уст.</u> см. seg
 </sense>
 </entry>

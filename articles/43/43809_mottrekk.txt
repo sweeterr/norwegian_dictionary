@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">mottrekk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
 контрмера, ответная мера
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> ответный ход
+<u>шахм.</u> ответный ход
 </sense>
 </entry>
 </superEntry>

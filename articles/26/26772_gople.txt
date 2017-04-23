@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gople</orth>
 <phon>|'goplə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> колокольчик
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">gople</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <u>диал.</u> медуза
 </sense>
 </entry>

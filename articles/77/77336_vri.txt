@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vri</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), =</em>
+<inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
 вращение, вращательное движение
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">vri</orth>
-<em><span class="dic_color"><span class="dic_comment">vridde (vred), vridd (vredet)</em>
+<inflection><orth>vridde (vred), vridd (vredet)</orth></inflection>
 </form>
 <sense>
 крутить, вертеть, вращать
@@ -53,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">vri</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <ref>vrien</ref>
 </sense>
 </entry>

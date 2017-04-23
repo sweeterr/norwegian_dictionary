@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">øye</orth>
-<em><span class="dic_color"><span class="dic_comment">øyet, øyne (<u>диал.</u> øyer)</em>
+<inflection><orth>øyet, øyne (<u>диал.</u> øyer)</orth></inflection>
 </form>
 <sense>
 глаз
@@ -44,7 +44,7 @@
 <index></index>
 <form>
 <orth type="lemma">øye</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-de), -et (-d)</em>
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 <u>диал.</u> см. øde III
 </sense>
 </entry>

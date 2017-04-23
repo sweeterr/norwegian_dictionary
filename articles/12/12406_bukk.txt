@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bukk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 козёл
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">bukk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> ошибка, промах
 <сit type="example"><text>begå (gjøre) en bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать маху</text></cit></cit>
 </sense>
@@ -41,7 +41,7 @@
 <index></index>
 <form>
 <orth type="lemma">bukk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 поклон
 <сit type="example"><text>gjøre et dypt bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низко поклониться</text></cit></cit>
 </sense>

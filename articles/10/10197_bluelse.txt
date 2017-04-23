@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bluelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>уст.</u> стыдливость, застенчивость
 <сit type="example"><text>med bluelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со стыдом, застенчиво</text></cit></cit>
 </sense>

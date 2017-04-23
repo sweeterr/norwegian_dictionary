@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">myldre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 толпиться, кишеть
 <сit type="example"><text>det myldrer av mennesker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>люди кишмя кишат</text></cit></cit>
 </sense>

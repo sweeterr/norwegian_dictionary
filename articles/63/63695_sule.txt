@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sule</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">sule</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <u>диал.</u> см. såle I
 </sense>
 </entry>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">sule</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et, -a), -t (-et, -a)</em>
+<inflection><orth extent="part">-te (-et, -a), -t (-et, -a)</orth></inflection>
 <сit type="example"><text>sule opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сматывать удочки <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>

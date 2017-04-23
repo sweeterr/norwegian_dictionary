@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">synderegister</orth>
-<em><span class="dic_color"><span class="dic_comment">-eret (-ret), = (-re)</em>
+<inflection><orth extent="part">-eret (-ret), = (-re)</orth></inflection>
 <u>разг.</u> перечень грехов
 <сit type="example"><text>tvette seg re(i)n for synderegister</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очиститься от грехов, искупить свой грехи</text></cit></cit>
 </sense>

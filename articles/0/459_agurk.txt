@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">agurk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 огурец
 <сit type="example"><text>salte agurker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>солёные огурцы</text></cit></cit>
 <сit type="example"><text>sure agurker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>маринованные огурцы</text></cit></cit>

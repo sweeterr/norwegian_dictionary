@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spise</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>уст.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">spise</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 есть, кушать, столоваться
 <сit type="example"><text>spise aften(s)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ужинать</text></cit></cit>
 <сit type="example"><text>spise frokost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтракать</text></cit></cit>

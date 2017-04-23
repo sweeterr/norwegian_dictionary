@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lens</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мор.</u> плавание с попутным (полным) ветром
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lens</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 пустой, порожний
 <сit type="example"><text>gå lens for (på)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать недостаток в чём-л., не иметь чего-л.</text></cit></cit>
 <сit type="example"><text>pumpe (øse) lens</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откачивать (вычерпывать)</text></cit></cit>

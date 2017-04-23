@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">flø</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <u>диал.</u> поплавок на леске удочки
 </sense>
 </entry>
@@ -12,7 +12,9 @@
 <index></index>
 <form>
 <orth type="lemma">flø</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 <u>диал.</u> тепловатый
 </sense>
 </entry>
@@ -20,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">flø</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 выходить из берегов

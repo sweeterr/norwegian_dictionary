@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilhører</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 слушатель
 <сit type="example"><text>mine (ærede) tilhørere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уважаемые слушатели (обращение к аудитории)</text></cit></cit>
 <сit type="example"><text>være tilhører på (ved) en konsert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на концерте</text></cit></cit>

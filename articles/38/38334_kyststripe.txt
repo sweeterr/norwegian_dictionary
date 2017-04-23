@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kyststripe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 береговая полоса
 <сit type="example"><text>den bløte kyststripa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>район, где озвончают согласные (в Норвегии на территории между Эустагдером и Телемарком и Кармёй)</text></cit></cit>
 </sense>

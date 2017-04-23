@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 насмешка, издёвка
 <сit type="example"><text>spe og spott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насмешки и издевательства</text></cit></cit>
 <сit type="example"><text>gjøre én spe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать кого-л. посмешищем</text></cit></cit>
@@ -14,7 +14,9 @@
 <index></index>
 <form>
 <orth type="lemma">spe</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 слабый, хилый, тщедушный
@@ -33,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">spe</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 разбавлять, разжижать
 <сit type="example"><text>spe opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добавлять, доливать, разбавлять</text></cit></cit>
 <сit type = "example"><text>spe til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> добавлять</text></cit></cit>

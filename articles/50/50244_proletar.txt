@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">proletar</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 пролетарий
 <сit type="example"><text>proletarer i alle land, slutt dere sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пролетарии всех стран, соединяйтесь</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">moster</orth>
-<em><span class="dic_color"><span class="dic_comment">-eren (-ra), -re</em>
+<inflection><orth extent="part">-eren (-ra), -re</orth></inflection>
 <u>разг.</u> тётка (со стороны матери), сестра матери
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">moster</orth>
 <phon>|'mostər|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> горчица
 </sense>
 </entry>

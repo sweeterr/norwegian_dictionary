@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bitte</orth>
-<em><span class="dic_color"><span class="dic_comment">batt, bittet</em>
+<inflection><orth>batt, bittet</orth></inflection>
 <u>диал.</u> связывать
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bitte</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 употребляется как усилительное слово с прилагательными liten, små и др.:

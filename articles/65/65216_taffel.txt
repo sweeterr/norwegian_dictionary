@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">taffel</orth>
-<em><span class="dic_color"><span class="dic_comment">-felet (-let)</em>
+<inflection><orth extent="part">-felet (-let)</orth></inflection>
 <u>уст.</u> трапеза, пиршество
 <сit type="example"><text>stort taffel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>парадный обед</text></cit></cit>
 <сit type="example"><text>heve taffelet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заканчивать пиршество, встать из-за стола</text></cit></cit>

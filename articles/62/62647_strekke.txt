@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">strekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>горн.</u> штрек
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">strekke</orth>
-<em><span class="dic_color"><span class="dic_comment">strakk (strakte), strukket (strakt)</em>
+<inflection><orth>strakk (strakte), strukket (strakt)</orth></inflection>
 </form>
 <sense>
 простираться, распространяться (на что-л. - til)
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">strekke</orth>
-<em><span class="dic_color"><span class="dic_comment">strakte (strekte), strakt (strekt)</em>
+<inflection><orth>strakte (strekte), strakt (strekt)</orth></inflection>
 </form>
 <sense>
 натягивать (трос и т. п.), вытягивать, растягивать, тянуть

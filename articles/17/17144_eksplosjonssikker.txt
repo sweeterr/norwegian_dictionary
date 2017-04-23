@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">eksplosjonssikker</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 взрывобезопасный, гарантированный от взрыва, безопасный (в отношении взрыва), невзрываемый
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trapes</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en), -er</em>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 <u>мат.</u> трапеция
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trapes</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 трапеция (гимнастический снаряд)
 </sense>
 </entry>

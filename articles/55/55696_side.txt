@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">side</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-сторона <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+сторона <u>в разн. знач.</u>
 <сit type="example"><text>fra en annen side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с другой точки зрения</text></cit></cit>
 <сit type="example"><text>fra min side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с моей стороны</text></cit></cit>
 <сit type="example"><text>på den ene siden ... på den annen siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с одной стороны ... с другой стороны ...</text></cit></cit>

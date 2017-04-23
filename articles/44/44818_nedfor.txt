@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nedfor</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 вниз, под гору
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">nedfor</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 вниз от ..., снизу от ...
 </sense>
 </entry>

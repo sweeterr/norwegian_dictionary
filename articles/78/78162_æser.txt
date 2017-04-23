@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">æser</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em> <gramGrp><num>pl</num><note>от ås III</note></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+ <gramGrp><num>pl</num><note>от ås III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

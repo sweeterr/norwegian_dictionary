@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">skattefri</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 освобождённый от уплаты налогов (о человеке)

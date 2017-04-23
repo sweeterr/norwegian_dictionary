@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">apropos</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 что-л. сказанное кстати (впопад), удачное словцо
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">apropos</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 кстати, удачно

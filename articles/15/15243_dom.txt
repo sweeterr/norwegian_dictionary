@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dom</orth>
 <phon>|dom:|</phon>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
 приговор, решение суда
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">dom</orth>
 <phon>|dum|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 собор, соборная церковь
 </sense>
 </entry>

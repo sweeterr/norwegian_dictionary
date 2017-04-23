@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">ille</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp verre, superl verst)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp verre, superl verst)</orth></inflection>
 </form>
 <sense>
 плохо, дурно, скверно

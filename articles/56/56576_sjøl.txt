@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjøl</orth>
-<u>pron</u>
+<gramGrp><pos>pron</pos></gramGrp>
 <u>диал.</u> сам, сама, само, сами
 <сit type="example"><text>han sjøl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> «сам» (муж, хозяин)</text></cit></cit>
 <сit type="example"><text>hu(n) sjøl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> «сама» (жена, хозяйка)</text></cit></cit>

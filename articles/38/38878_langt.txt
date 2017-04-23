@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">langt</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp lenger, superl lengst)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp lenger, superl lengst)</orth></inflection>
 </form>
 <sense>
 далеко (о расстоянии)

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forslag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 предложение
 <сit type="example"><text>på ens forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по предложению (кого-л.)</text></cit></cit>
 <сit type="example"><text>forkaste et forslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонить предложение</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">forslag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>муз.</u> форшлаг
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">forslag</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <сit type="example"><text>det er ikke noe forslag i pengene nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никаких денег не хватает</text></cit></cit>
 </sense>
 </entry>

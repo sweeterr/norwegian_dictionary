@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tone</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 тон, тональность, интонация
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">tone</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 звучать, звенеть, издавать звук
@@ -45,7 +45,7 @@
 <index></index>
 <form>
 <orth type="lemma">tone</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 выступать, выделяться (на фоне - mot)

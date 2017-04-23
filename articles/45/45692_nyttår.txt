@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nyttår</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 новый год
 <сit type="example"><text>godt nyttår!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с Новым годом!</text></cit></cit>
 <сit type="example"><text>når nyttår er over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>когда кончится новогодний праздник</text></cit></cit>

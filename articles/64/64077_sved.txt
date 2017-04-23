@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sved</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>уст.</u> см. svette I
 <сit type="example"><text>i sitt ansikts sved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в поте лица своего</text></cit></cit>
 </sense>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sved</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> svi
+<gramGrp><tns>pret</tns><note>от svi</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nåde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 милость, расположение, благоволение, доверие
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">nåde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 пощадить, смилостивиться
 </sense>
 </entry>

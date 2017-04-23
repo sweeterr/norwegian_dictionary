@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pjusk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> миленький (ласковое обращение)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">pjusk</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>диал.</u> космы, растрёпанные волосы
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">pjusk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <ref>pjusken</ref>
 </sense>
 </entry>

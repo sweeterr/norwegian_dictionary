@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snake</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 рыскать, разыскивать пищу (о животных)
 <сit type="example"><text>snake etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рваться (тянуться) к чему-л. (за чем-л.)</text></cit></cit>
 <сit type="example"><text>snake til seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>урвать себе что-л.</text></cit></cit>

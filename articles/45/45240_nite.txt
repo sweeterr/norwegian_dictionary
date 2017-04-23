@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nite</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 пустой номер (в лотерее)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">nite</orth>
-<em><span class="dic_color"><span class="dic_comment">neit, nitet</em>
+<inflection><orth>neit, nitet</orth></inflection>
 болеть, колоть, ныть
 </sense>
 </entry>

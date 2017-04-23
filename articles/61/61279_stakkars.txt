@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stakkars</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 несчастный
 <сit type="example"><text>stakkars gamle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>несчастный старик</text></cit></cit>
 <сit type="example"><text>stakkars deg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах ты, бедняга!</text></cit></cit>

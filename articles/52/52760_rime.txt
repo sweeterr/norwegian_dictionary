@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rime</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> гребень горы (холма)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rime</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 покрываться инеем
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">rime</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
 слагать стихи, рифмовать слова, <u>презр.</u> заниматься стихоплётством

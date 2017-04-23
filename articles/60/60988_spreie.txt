@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spreie</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 <u>диал.</u> см. sprede I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spreie</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-dte), -dd (-dt)</em>
+<inflection><orth extent="part">-dde (-dte), -dd (-dt)</orth></inflection>
 <u>диал.</u> см. spre
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kull</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
 уголь
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">kull</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 выводок, птенцы одного выводка, детёныши (зверёныши) одного помёта, дети одних родителей

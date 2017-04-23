@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">innenriks</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 внутригосударственный, внутренний
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">innenriks</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>редко</u> в пределах данного государства
 </sense>
 </entry>

@@ -6,12 +6,12 @@
 <orth type="lemma">X</orth>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
+<inflection><orth extent="part">-'en, -'er</orth></inflection>
 двадцать четвёртая буква норвежского алфавита
 <сit type="example"><text>sette (skrive) x for u og seks for sju</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> водить за нос</text></cit></cit>
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>мат.</u> икс, неизвестная величина
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">landbruksinsekt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
 сельскохозяйственные вредители (только о насекомых)
 </sense>

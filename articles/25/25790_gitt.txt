@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gitt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> gi
+<gramGrp><tns>p.p.</tns><note>от gi</note></gramGrp>
 <сit type="example"><text>vi anså det for gitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы считали это неоспоримым фактом</text></cit></cit>
 </sense>
 </entry>

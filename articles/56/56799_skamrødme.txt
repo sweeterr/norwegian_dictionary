@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skamrødme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 краска стыда
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skamrødme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 покраснеть от стыда
 </sense>
 </entry>

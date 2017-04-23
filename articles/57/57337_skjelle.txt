@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> холодный восточный ветер
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skjelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 ругаться, браниться
 <сit type="example"><text>skjelle på noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ругать (бранить) кого-л.</text></cit></cit>
 <сit type="example"><text>skjelle (ut) for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обозвать как-л.</text></cit></cit>

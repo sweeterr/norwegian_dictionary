@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fire</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 четыре
 <сit type="example"><text>innenfor våre egne fire vegger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в четырёх стенах</text></cit></cit>
 <сit type="example"><text>krype på alle fire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пресмыкаться</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">fire</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 уступать кому-л.

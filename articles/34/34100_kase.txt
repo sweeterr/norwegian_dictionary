@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kase</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <ref>kas</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">kase</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-a), -t (-a)</em>
+<inflection><orth extent="part">-te (-a), -t (-a)</orth></inflection>
 </form>
 <sense>
 складывать в кучу (в груду)

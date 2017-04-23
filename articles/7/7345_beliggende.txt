@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">beliggende</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 находящийся, расположенный
 <сit type="example"><text>være sentralt beliggende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в центре (города)</text></cit></cit>
 <сit type="example"><text>beliggende ved havet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расположенный у моря, приморский</text></cit></cit>

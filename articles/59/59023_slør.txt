@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">slør</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>мор.</u> попутный ветер
 <сit type="example"><text>på en slør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>захмелевший, подвыпивший</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">slør</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 вуаль, чадра

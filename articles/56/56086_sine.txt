@@ -4,14 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">sine</orth>
-<u>pron</u> <gramGrp><num>pl</num><note>от sin</note></gramGrp>
+<gramGrp><pos>pron</pos></gramGrp>
+ <gramGrp><num>pl</num><note>от sin</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">sine</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u> перестать доиться
 </sense>
 </entry>

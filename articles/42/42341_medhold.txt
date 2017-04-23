@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">medhold</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 поддержка (обычно моральная), поощрение
 <сit type="example"><text>gi noen medhold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать кому-л. поддержку</text></cit></cit>
 <сit type="example"><text>i medhold av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в соответствии с (чем-л.)</text></cit></cit>

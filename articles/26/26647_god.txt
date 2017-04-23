@@ -5,7 +5,10 @@
 <form>
 <orth type="lemma">god</orth>
 <phon>|gu:|</phon>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em> <em><span class="dic_color"><span class="dic_comment">(komp bedre, superl best)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+ <inflection><orth>(komp bedre, superl best)</orth></inflection>
 </form>
 <sense>
 хороший

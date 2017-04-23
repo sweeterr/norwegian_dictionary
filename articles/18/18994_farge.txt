@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">farge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 цвет, краска
@@ -43,7 +43,7 @@
 <index></index>
 <form>
 <orth type="lemma">farge</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 красить, окрашивать

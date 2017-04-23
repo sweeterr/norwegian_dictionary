@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppmale</orth>
-<em><span class="dic_color"><span class="dic_comment">-malte (-mol), -malt</em>
+<inflection><orth extent="part">-malte (-mol), -malt</orth></inflection>
 смолоть, перемолоть
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppmale</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 перекрашивать, красить заново
 </sense>
 </entry>

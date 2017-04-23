@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">deg</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(объектн. п. от du I)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>объектн. п.</case><note>от du I</note></inflection>
 тебя, тебе
 </sense>
 </entry>

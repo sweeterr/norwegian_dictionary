@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spindel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elen, -ler</em>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
 вал, ось, шпиндель
@@ -13,7 +13,7 @@
 столб (винтовой лестницы)
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> веретено
+<u>текст.</u> веретено
 </sense>
 </entry>
 </superEntry>

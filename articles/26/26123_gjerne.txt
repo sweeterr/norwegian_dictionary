@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">gjerne</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">(komp heller, superl helst)</em>
+<gramGrp><pos>adv</pos></gramGrp>
+ <inflection><orth>(komp heller, superl helst)</orth></inflection>
 </form>
 <sense>
 охотно, с удовольствием

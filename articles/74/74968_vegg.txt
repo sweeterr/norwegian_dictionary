@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vegg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 стена, стенка
 <сit type="example"><text>veggen hang full av malerier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стена была увешана картинами</text></cit></cit>
 <сit type="example"><text>vegg i vegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стена к стене, по соседству</text></cit></cit>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">vegg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> клин
 </sense>
 </entry>

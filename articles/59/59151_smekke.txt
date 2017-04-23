@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 хлопушка, колотушка
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">smekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-ket), -t (-ket)</em>
+<inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 </form>
 <sense>
 хлопать, ударять, шлёпать

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vekker</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
 возбудитель, возбуждающее средство
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">vekker</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 человек, прорубающий прорубь во льду
 </sense>
 </entry>

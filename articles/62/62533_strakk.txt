@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">strakk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> см. strak
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">strakk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> strekke II
+<gramGrp><tns>pret</tns><note>от strekke II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forfølgning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>юр.</u> преследование
 <сit type="example"><text>være under rettslig forfølgning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>юр.</lbl> находиться под следствием</text></cit></cit>
 </sense>

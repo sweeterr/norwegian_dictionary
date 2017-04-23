@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utkomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, =</em>
+<inflection><orth extent="part">-t, =</orth></inflection>
 </form>
 <sense>
 доходы, материальная обеспеченность, средства к жизни
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">utkomme</orth>
-<em><span class="dic_color"><span class="dic_comment">utkom, utkommet</em>
+<inflection><orth>utkom, utkommet</orth></inflection>
 </form>
 <sense>
 выходить из печати (об издании)

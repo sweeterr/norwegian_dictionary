@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">festning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 крепость, укрепление
 <сit type="example"><text>en uangripelig festning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неприступная крепость</text></cit></cit>
 <сit type="example"><text>komme på festningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть осуждённым на принудительные работы, попасть в тюрьму</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">atomkraft</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 атомная (ядерная) энергия
 <сit type="example"><text>fredelig utnyttelse av atomkraften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мирное использование атомной энергии</text></cit></cit>
 </sense>

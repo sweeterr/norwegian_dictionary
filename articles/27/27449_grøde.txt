@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">grøde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 яровые злаки
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">grøde</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">grøde</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 <ref>grø</ref>
 </sense>
 </entry>

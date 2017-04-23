@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fylke</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 фюльке (одна из двадцати административных единиц, на которые делится Норвегия)
@@ -17,7 +17,10 @@
 <index></index>
 <form>
 <orth type="lemma">fylke</orth>
-te (<em><span class="dic_color"><span class="dic_comment">-et</em>), <em><span class="dic_color"><span class="dic_comment">-t (-et)</em>
+te (
+<inflection><orth extent="part">-et</orth></inflection>
+), 
+<inflection><orth extent="part">-t (-et)</orth></inflection>
 <u>ист.</u> расставлять в боевом порядке (дружины, полки)
 </sense>
 </entry>

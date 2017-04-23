@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">veiskill</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 перепутье, распутье, развилка дорог
 <сit type="example"><text>stå ved et veiskill</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на распутье <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>

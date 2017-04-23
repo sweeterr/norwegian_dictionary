@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">omtale</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
 упоминание, ссылка (на что-л.)
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">omtale</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 упоминать, ссылаться на что-л., отзываться
 </sense>
 </entry>

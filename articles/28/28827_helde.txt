@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">helde</orth>
-<em><span class="dic_color"><span class="dic_comment">-а (-en), -er</em>
+<inflection><orth extent="part">-а (-en), -er</orth></inflection>
 </form>
 <sense>
 путы (для лошадей)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">helde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 спутывать, стреноживать (лошадей)
 </sense>
 </entry>

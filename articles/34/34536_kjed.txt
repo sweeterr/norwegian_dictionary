@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">kjed</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
-<u>predic</u>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
+<gramGrp><pos>predic</pos></gramGrp>
 </form>
 <sense>
 недовольный, огорчённый

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oldnorsk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 древненорвежский язык
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">oldnorsk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 древненорвежский
 </sense>
 </entry>

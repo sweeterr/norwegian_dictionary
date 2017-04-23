@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">morfologi</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
-<u>биол.</u><span class="dic_color"><span class="dic_comment">, <u>мин.</u><span class="dic_color"><span class="dic_comment">, <u>лингв.</u> морфология
+<inflection><orth extent="part">-en</orth></inflection>
+<u>биол.</u>, <u>мин.</u>, <u>лингв.</u> морфология
 </sense>
 </entry>
 </superEntry>

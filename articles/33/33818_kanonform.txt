@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kanonform</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <сit type="example"><text><lbl>спорт.</lbl> <u>разг.</u> være i kanonform</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в наилучшей спортивной форме</text></cit></cit>
 </sense>
 </entry>

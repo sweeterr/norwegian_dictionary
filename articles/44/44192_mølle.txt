@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mølle</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 мельница
 <сit type="example"><text>det er vann på møllen hans</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это вода на его мельницу</text></cit></cit>
 <сit type="example"><text>den som først kommer til møllen får først malt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> кто первый пришёл, того первого и обслужили</text></cit></cit>

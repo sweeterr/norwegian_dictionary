@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">patience</orth>
 <phon>|pasi'aŋs|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>карт.</u> пасьянс
 <сit type="example"><text>legge patience</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскладывать пасьянс</text></cit></cit>
 </sense>

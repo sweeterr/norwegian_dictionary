@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lapp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 саам(и), лопарь
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lapp</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 лоскут, тряпка
@@ -38,7 +38,9 @@
 <index></index>
 <form>
 <orth type="lemma">lapp</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 пресный; безвкусный
 </sense>
 </entry>

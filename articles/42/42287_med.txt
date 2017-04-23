@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">med</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 визирная линия, линия цели, <u>мор.</u> створ, линия створа
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">med</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 вместе, указывает на соучастие в передвижении, в руководстве; нахождение где-л. вместе с кем-л.:
@@ -53,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">med</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 указывает на совместность, участие в одном и том же действии, а также сопровождение лица кем-л. с, со

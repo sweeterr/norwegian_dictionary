@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">konstant</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>мат.</u> постоянная величина, константа
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">konstant</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 постоянный, константный
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">konstant</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 постоянно
 </sense>
 </entry>

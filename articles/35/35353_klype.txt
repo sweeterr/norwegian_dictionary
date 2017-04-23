@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klype</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 щипцы
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">klype</orth>
-<em><span class="dic_color"><span class="dic_comment">klypte (kløp), klypt (kløpet)</em>
+<inflection><orth>klypte (kløp), klypt (kløpet)</orth></inflection>
 </form>
 <sense>
 щипать, ущипнуть

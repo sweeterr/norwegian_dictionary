@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fond</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 фон, задний план
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fond</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-s)</em>
+<inflection><orth extent="part">-et, = (-s)</orth></inflection>
 </form>
 <sense>
 фонд, капитал, капиталовложение

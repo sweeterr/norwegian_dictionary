@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">drage</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 дракон
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">drage</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 конопатить
 </sense>
 </entry>
@@ -33,7 +33,7 @@
 <index></index>
 <form>
 <orth type="lemma">drage</orth>
-<em><span class="dic_color"><span class="dic_comment">dro, dradd</em>
+<inflection><orth>dro, dradd</orth></inflection>
 <u>уст.</u> см. dra
 </sense>
 </entry>

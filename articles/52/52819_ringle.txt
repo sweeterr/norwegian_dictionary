@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -19,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">ringle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 дребезжать, звякать, позвякивать

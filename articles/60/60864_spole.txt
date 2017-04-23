@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">spole</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 шпулька, катушка
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">текст.</em> ткацкий челнок
+<u>текст.</u> ткацкий челнок
 </sense>
 <sense>
 <u>радио</u> катушка
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">spole</orth>
-<em><span class="dic_color"><span class="dic_comment">-te(-et), -t (-et)</em>
+<inflection><orth extent="part">-te(-et), -t (-et)</orth></inflection>
 наматывать на катушку или шпульку
 </sense>
 </entry>

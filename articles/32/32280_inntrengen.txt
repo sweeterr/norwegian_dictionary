@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">inntrengen</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 проникновение, вторжение
 <сit type="example"><text>rettsstridig inntrengen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>незаконное вмешательство</text></cit></cit>
 </sense>

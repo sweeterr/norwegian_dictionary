@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløymann</orth>
-<em><span class="dic_color"><span class="dic_comment">-mannen, -menn</em>
+<inflection><orth extent="part">-mannen, -menn</orth></inflection>
 фланговый (в строю)
 <сit type="example"><text>høyre fløymann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>правофланговый</text></cit></cit>
 </sense>

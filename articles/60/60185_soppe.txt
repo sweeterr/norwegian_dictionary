@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">soppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 сплавной плот (около 1200 брёвен)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">soppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 сплачивать лес в плоты, составлять плоты
 </sense>
 </entry>

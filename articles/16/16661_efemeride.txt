@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">efemeride</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>зоол.</u> подёнка (муха)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">efemeride</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
  <u>астр.</u> эфемериды
 </sense>

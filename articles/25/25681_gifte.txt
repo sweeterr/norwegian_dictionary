@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 брак, замужество, женитьба
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">gifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> супруга, жена
 </sense>
 </entry>
@@ -30,7 +30,7 @@
 <index></index>
 <form>
 <orth type="lemma">gifte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 выдавать замуж (за кого-л. - med), женить (на ком-л. - med)

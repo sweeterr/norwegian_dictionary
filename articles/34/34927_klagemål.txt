@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klagemål</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 жалоба, иск
 <сit type="example"><text>føre klagemål over én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подать жалобу на кого-л., предъявить иск кому-л.</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klede</orth>
-<em><span class="dic_color"><span class="dic_comment">kle(d)et, klær</em>
+<inflection><orth>kle(d)et, klær</orth></inflection>
 </form>
 <sense>
 сукно, драп
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">klede</orth>
-<em><span class="dic_color"><span class="dic_comment">-de, -d</em>
+<inflection><orth extent="part">-de, -d</orth></inflection>
 <ref>le</ref>
 </sense>
 </entry>

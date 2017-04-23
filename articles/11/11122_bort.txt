@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bort</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">(komp bortre, supert bortest)</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ <inflection><orth>(komp bortre, supert bortest)</orth></inflection>
 дальний, удалённый, крайний
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">bort</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 выражает удаление, движение от данного предмета прочь, в сторону, отсюда

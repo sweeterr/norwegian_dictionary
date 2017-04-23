@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">motstand</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 сопротивление, отпор, противодействие
 <сit type="example"><text>bevæpnet motstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вооружённое сопротивление</text></cit></cit>
 <сit type="example"><text>elektrisk motstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>эл.</lbl> электрическое сопротивление</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjord</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 кушак, пояс, ремень
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjord</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>диал.</u> спелый, зрелый
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">enn</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 <u>уст.</u> (как усиление при формах сравнительной степени прилагательных) ещё, ещё более
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">enn</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
 противительный союз а, но
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">enn</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 чем; нежели
 <сit type="example"><text>mere enn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>больше чем</text></cit></cit>
 <сit type="example"><text>enn videre ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и далее ...</text></cit></cit>

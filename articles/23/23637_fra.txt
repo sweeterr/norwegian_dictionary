@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fra</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 придаёт глаголам движения значение удаления, движения от исходной точки:
 <сit type="example"><text>falle fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвалиться</text></cit></cit>
 <сit type="example"><text>klippe fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать</text></cit></cit>
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">fra</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на удаление от исходного пункта движения, от, из, с:
@@ -57,7 +57,7 @@
 <index></index>
 <form>
 <orth type="lemma">fra</orth>
-<u>konj</u>
+<gramGrp><pos>konj</pos></gramGrp>
 с тех пор как, со времени
 </sense>
 </entry>

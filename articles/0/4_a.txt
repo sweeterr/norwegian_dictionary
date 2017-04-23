@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">a</orth>
-<em><span class="dic_color"><span class="dic_comment">-'en, -'er</em>
+<inflection><orth extent="part">-'en, -'er</orth></inflection>
 </form>
 <sense>
 первая буква норвежского алфавита
@@ -18,7 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">a</orth>
-<u>pron</u> <u>диал.</u>
+<gramGrp><pos>pron</pos></gramGrp>
+ <u>диал.</u>
 </form>
 <sense>
 она, её
@@ -31,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">a</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 указывает на предел, верхнюю границу в количестве, числе (от) до
 <сit type="example"><text>tre a fire år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от трёх до четырёх лет</text></cit></cit>
 <сit type="example"><text>fem a seks kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять-шесть крон</text></cit></cit>
@@ -41,7 +42,7 @@
 <index></index>
 <form>
 <orth type="lemma">a</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 выражает удивление, смятение, испуг
 а!, о!, ну!
 <сit type="example"><text>a ja da!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах, ну конечно!</text></cit></cit>
@@ -52,7 +53,8 @@
 <index></index>
 <form>
 <orth type="lemma">a</orth>
-<u>int</u> <u>разг.</u>
+<gramGrp><pos>int</pos></gramGrp>
+ <u>разг.</u>
 выражает раздражение, огорчение говорящего в отношении себя самого:
 <сit type="example"><text>isj a meg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтоб тебе пусто было! (про самого себя)</text></cit></cit>
 </sense>

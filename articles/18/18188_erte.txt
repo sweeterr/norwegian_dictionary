@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">erte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 дразнить, поддразнивать
 <сit type="example"><text>erte en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддразнивать кого-л. (чем-л. - med)</text></cit></cit>
 </sense>

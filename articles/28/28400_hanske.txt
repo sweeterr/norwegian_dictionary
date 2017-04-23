@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hanske</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 перчатка
 <сit type="example"><text>få hanskene på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натянуть перчатки</text></cit></cit>
 <сit type="example"><text>kaste hansken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросить кому-л. перчатку (вызвать на дуэль)</text></cit></cit>

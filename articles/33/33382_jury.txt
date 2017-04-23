@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">jury</orth>
 <phon>|ju'r:i|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 суд присяжных, присяжные

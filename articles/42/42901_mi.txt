@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mi</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>муз.</u> ми (нота)
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">mi</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(f om min, обычно стоит после сущ.)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<gramGrp><gender>f</gender><note>om min, обычно стоит после сущ.</note></gramGrp>
 моя
 </sense>
 </entry>

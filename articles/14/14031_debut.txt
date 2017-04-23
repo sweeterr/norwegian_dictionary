@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">debut</orth>
 <phon>|de'by:|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 дебют
 <сit type="example"><text>ha sin debut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дебютировать</text></cit></cit>
 <сit type="example"><text>en lovende debut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многообещающее начало</text></cit></cit>

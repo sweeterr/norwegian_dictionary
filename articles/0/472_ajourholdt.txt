@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ajourholdt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>бухг.</u> приведённый в ажур (в идеальный порядок).
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ajourholdt</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в ажуре, в идеальном порядке
 </sense>
 </entry>

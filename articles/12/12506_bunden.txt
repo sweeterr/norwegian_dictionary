@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bunden</orth>
-<сit type="example"><text>bundet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><em><span class="dic_color"><span class="dic_comment">p.p. от</em> binde</text></cit></cit>
+<inflection><orth>bundet</orth></inflection>
+<gramGrp><tns>p.p.</tns><note>от binde</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

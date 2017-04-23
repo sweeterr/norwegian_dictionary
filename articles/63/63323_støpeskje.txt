@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">støpeskje</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 литейный черпак
 <сit type="example"><text>komme (være) i støpeskje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться коренным изменениям</text></cit></cit>
 </sense>

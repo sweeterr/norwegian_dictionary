@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">struts</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>зоол.</u> страус
 <сit type="example"><text>den australske struts</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эму</text></cit></cit>
 </sense>

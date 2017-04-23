@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">geråde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>уст.</u> очутиться, попасть
 <сit type="example"><text>geråde i kollisjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в столкновение</text></cit></cit>
 <сit type="example"><text>geråde i raseri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в ярость</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">smelte</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 расплавленная масса
 <сit type="example"><text>hele smelta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё вместе</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">smelte</orth>
-<em><span class="dic_color"><span class="dic_comment">-a, -er</em>
+<inflection><orth extent="part">-a, -er</orth></inflection>
 <u>диал.</u> 
 <ref>sypike 2)</ref>
 </sense>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">smelte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 расплавлять, растапливать, плавить (руду), выплавлять (металл)

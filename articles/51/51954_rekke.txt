@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 ряд, вереница, серия, анфилада
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
 <u>мор.</u> перила
@@ -50,7 +50,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">rakk (rakte), rukket</em>
+<inflection><orth>rakk (rakte), rukket</orth></inflection>
 </form>
 <sense>
 доставать (до чего-л.), достигать, добираться, доходить, доезжать (тж. rekke fram)
@@ -74,7 +74,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">rakte, rakt</em>
+<inflection><orth>rakte, rakt</orth></inflection>
 </form>
 <sense>
 протягивать, вытягивать (руку)
@@ -90,7 +90,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-ket (-te), -t (rakt)</em>
+<inflection><orth extent="part">-ket (-te), -t (rakt)</orth></inflection>
 расплести, распустить, ослабить (верёвку), тж. rekke opp
 </sense>
 </entry>
@@ -98,7 +98,7 @@
 <index></index>
 <form>
 <orth type="lemma">rekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

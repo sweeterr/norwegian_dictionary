@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">huske</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 качели
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">huske</orth>
-<em><span class="dic_color"><span class="dic_comment">husket (husk), husket</em>
+<inflection><orth>husket (husk), husket</orth></inflection>
 </form>
 <sense>
 качать
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">huske</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 вспоминать, помнить
 <сit type="example"><text>huske på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспомнить о чём-л.</text></cit></cit>
 <сit type="example"><text>husk vel på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>помни хорошенько</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nasjonalfarge</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <сit type="example"><text>nasjonalfarger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>национальные цвета (флага)</text></cit></cit>
 </sense>
 </entry>

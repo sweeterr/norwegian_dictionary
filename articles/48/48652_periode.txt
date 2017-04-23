@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">periode</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-период <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+период <u>в разн. знач.</u>
 </sense>
 <sense>
 <u>разг.</u> менструация

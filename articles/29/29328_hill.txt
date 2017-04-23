@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">hill</orth>
-<u>int</u>
-<u>поэт.</u><span class="dic_color"><span class="dic_comment">, <u>уст.</u> hill (være) deg! привет тебе!, слава тебе!
+<gramGrp><pos>int</pos></gramGrp>
+<u>поэт.</u>, <u>уст.</u> hill (være) deg! привет тебе!, слава тебе!
 <сit type="example"><text>hill og sæl!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привет!, добро пожаловать!</text></cit></cit>
 </sense>
 </entry>

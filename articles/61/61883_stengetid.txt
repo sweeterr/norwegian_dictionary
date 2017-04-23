@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stengetid</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 время закрытия (магазина и т. п.)
 <сit type="example"><text>ved stengetid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перед закрытием (магазина)</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">selvkostende</orth>
-<em><span class="dic_color"><span class="dic_comment">-t</em>
+<inflection><orth extent="part">-t</orth></inflection>
 <u>эк.</u> себестоимость
 <сit type="example"><text>selge til selvkostende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продавать по себестоимости</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">yl</orth>
-<em><span class="dic_color"><span class="dic_comment">ylen (ylet)</em>
+<inflection><orth>ylen (ylet)</orth></inflection>
 <u>диал.</u> град
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">yl</orth>
-<em><span class="dic_color"><span class="dic_comment">ylet</em>
+<inflection><orth>ylet</orth></inflection>
 вой, плач, вопль, стенание
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">yl</orth>
-<em><span class="dic_color"><span class="dic_comment">ylen</em>
+<inflection><orth>ylen</orth></inflection>
 <u>диал.</u> марево
 </sense>
 </entry>

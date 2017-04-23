@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">frampå</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 вперёд, впереди
 <сit type="example"><text>holde seg frampå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на виду (в первых рядах)</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">frampå</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 в пространственном значении указывает на продвижение по какой-л. плоскости, на

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">nærmere</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">komp — от</em> nær 1)
+<gramGrp><pos>adj</pos></gramGrp>
+ <gramGrp><note>komp от nær 1)</note></gramGrp>
 </form>
 <sense>
 более близкий (из двух), расположенный ближе
@@ -17,7 +18,8 @@
 <index></index>
 <form>
 <orth type="lemma">nærmere</orth>
-<u>adv</u> <em><span class="dic_color"><span class="dic_comment">komp — от</em> nær II
+<gramGrp><pos>adv</pos></gramGrp>
+ <gramGrp><note>komp от nær II</note></gramGrp>
 </form>
 <sense>
 ближе, на более близком расстоянии

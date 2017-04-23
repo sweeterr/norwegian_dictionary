@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skje</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 ложка
 <сit type="example"><text>gi én noe inn med skjeer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сообщать что-л. через час по чайной ложке</text></cit></cit>
 <сit type="example"><text>ta skjeen i en annen hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> изменить тактику (поведение)</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">skje</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 происходить, иметь место, случаться

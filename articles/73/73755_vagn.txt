@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vagn</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>диал.</u> зубастый кит-касатка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vagn</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
+<inflection><orth extent="part">-en (-et), -er</orth></inflection>
 <u>диал.</u> см. vogn
 </sense>
 </entry>

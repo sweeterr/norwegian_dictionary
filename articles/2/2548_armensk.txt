@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">armensk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 армянский язык
 </sense>
 </entry>
@@ -12,7 +12,8 @@
 <index></index>
 <form>
 <orth type="lemma">armensk</orth>
-<u>adj</u> армянский
+<gramGrp><pos>adj</pos></gramGrp>
+ армянский
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nett</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 сеть, сети, невод
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">nett</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 красивый, хорошенький, хороший (о погоде)
@@ -47,7 +47,7 @@
 <index></index>
 <form>
 <orth type="lemma">nett</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 как раз
 </sense>
 </entry>

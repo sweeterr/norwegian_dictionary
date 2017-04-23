@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">søndre</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">komp</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><note>komp</note></gramGrp>
 более южный, расположенный южнее
 </sense>
 </entry>
@@ -12,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">søndre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 разрубать, расщеплять, разбивать, раскалывать, дробить

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spøk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et), -er</em>
+<inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
 шутка
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">spøk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <сit type="example"><text><lbl>диал.</lbl> han er ikke spøk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он парень не промах</text></cit></cit>
 </sense>
 </entry>

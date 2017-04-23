@@ -5,10 +5,12 @@
 <form>
 <orth type="lemma">dømmesyk</orth>
 1.
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 склонный осуждать, придирчивый
 2.
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 склонность осуждать, придирчивость
 </sense>
 </entry>

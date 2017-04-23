@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">råne</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 боров, хряк
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">råne</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 выздороветь, поправиться, посвежеть
 <сit type="example"><text>råne med seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очнуться, очухаться, прийти в сознание</text></cit></cit>
 </sense>

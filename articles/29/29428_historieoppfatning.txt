@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">historieoppfatning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 представление об историческом развитии, понимание истории
 <сit type="example"><text>materialistisk historieoppfatning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>материалистическое понимание истории</text></cit></cit>
 </sense>

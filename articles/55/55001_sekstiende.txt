@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">sekstiende</orth>
-<u>adj</u>
-<u>num</u> шестидесятый
+<gramGrp><pos>adj</pos></gramGrp>
+
+<gramGrp><pos>num</pos></gramGrp>
+ шестидесятый
 </sense>
 </entry>
 </superEntry>

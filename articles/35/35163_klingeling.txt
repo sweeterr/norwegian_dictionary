@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klingeling</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 звон (колокольчиков, бубенчиков)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">klingeling</orth>
-<u>int</u>
+<gramGrp><pos>int</pos></gramGrp>
 динь-динь-динь! (звук колокольчика, бубенчика)
 </sense>
 </entry>

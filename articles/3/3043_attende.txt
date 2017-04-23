@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">attende</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 восемнадцатый
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">attende</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 назад
 </sense>
 </entry>

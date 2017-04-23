@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kalkun</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 индюк, индейка, индюшка
 <сit type="example"><text>være rød i hode som en kalkun</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>побагроветь</text></cit></cit>
 </sense>

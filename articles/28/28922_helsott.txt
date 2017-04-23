@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">helsott</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>поэт.</u> смертельная болезнь
 <сit type="example"><text>ligge i helsott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать на смертном одре</text></cit></cit>
 </sense>

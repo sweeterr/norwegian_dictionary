@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">samforstand</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <сit type="example"><text>i samforstand med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в согласии с чем-л.</text></cit></cit>
 </sense>
 </entry>

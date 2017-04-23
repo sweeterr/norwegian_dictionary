@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hope</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 собираться в кучу
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">hope</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 пятиться (о лошади и т. д.)
 </sense>
 </entry>

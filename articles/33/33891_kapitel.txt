@@ -4,15 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">kapitel</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
-<u>архит.</u><span class="dic_color"><span class="dic_comment">, <u>полигр.</u> капитель
+<inflection><orth extent="part">-et, -er</orth></inflection>
+<u>архит.</u>, <u>полигр.</u> капитель
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">kapitel</orth>
-<em><span class="dic_color"><span class="dic_comment">-elet, -ler</em>
+<inflection><orth extent="part">-elet, -ler</orth></inflection>
 </form>
 <sense>
 глава (книги, рассказа)

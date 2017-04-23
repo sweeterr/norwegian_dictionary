@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 уложение, статут, устав
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <сit type="example"><text>(skrær)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> картечь</text></cit></cit>
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 жевательный табак
@@ -39,7 +39,8 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<u>adj</u> (-tt)
+<gramGrp><pos>adj</pos></gramGrp>
+ (-tt)
 </form>
 <sense>
 наклонный, косой, идущий наискосок
@@ -54,7 +55,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 жевать табак
 </sense>
 </entry>
@@ -62,7 +63,7 @@
 <index></index>
 <form>
 <orth type="lemma">skrå</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
 переходить (что-л.) наискось, скашивать

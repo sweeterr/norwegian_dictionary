@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">år</orth>
-<em><span class="dic_color"><span class="dic_comment">året, =</em>
+<inflection><orth>året, =</orth></inflection>
 год
 <сit type="example"><text>astronomisk år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>астрономический год</text></cit></cit>
 <сit type="example"><text>borgerlig år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гражданский год</text></cit></cit>

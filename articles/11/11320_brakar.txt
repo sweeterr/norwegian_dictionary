@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brakar</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 достойный уважения человек
 <сit type="example"><text>bamse brakar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> мишка косолапый</text></cit></cit>
 </sense>

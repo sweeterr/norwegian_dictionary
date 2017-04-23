@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">latter</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 смех
 <сit type="example"><text>anstrengt latter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неестественный смех</text></cit></cit>
 <сit type="example"><text>brakende latter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громовой хохот, оглушительный смех</text></cit></cit>

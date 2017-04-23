@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">patent</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 патент, диплом
 <сit type="example"><text>få (ta, utta) patent på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать (получать) патент на что-л.</text></cit></cit>
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">patent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>разг.</u>
 </form>
 <sense>

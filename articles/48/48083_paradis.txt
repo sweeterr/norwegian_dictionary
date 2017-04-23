@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">paradis</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-рай <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+рай <u>в разн. знач.</u>
 </sense>
 <sense>
 <u>театр.</u> раёк, галёрка

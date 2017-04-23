@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">cowboy</orth>
 <phon>|'kauboi|</phon>
-<em><span class="dic_color"><span class="dic_comment">-en, -er (-s)</em>
+<inflection><orth extent="part">-en, -er (-s)</orth></inflection>
 ковбой
 </sense>
 </entry>

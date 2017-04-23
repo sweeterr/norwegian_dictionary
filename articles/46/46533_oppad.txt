@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppad</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>уст.</u> вверх, наверх, кверху
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppad</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 на
 </sense>
 </entry>

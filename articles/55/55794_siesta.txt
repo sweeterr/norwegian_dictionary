@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">siesta</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 послеобеденный отдых (сон)
 <сit type="example"><text>holde siesta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спать после обеда</text></cit></cit>
 </sense>

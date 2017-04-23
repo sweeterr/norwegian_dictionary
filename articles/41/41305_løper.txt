@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">løper</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
 гонец
@@ -19,7 +19,7 @@
 <u>спорт.</u> бегун
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">шахм.</em> слон
+<u>шахм.</u> слон
 </sense>
 <sense>
 <u>мор.</u> лопарь

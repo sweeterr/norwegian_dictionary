@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">jaktklubb</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 охотничий клуб
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">jaktklubb</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>спорт.</u> яхт-клуб
 </sense>
 </entry>

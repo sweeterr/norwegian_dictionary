@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skye</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-et), -dd (-et)</em>
+<inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 заволакиваться тучами (о небе)
 <сit type="example"><text>det skyer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небо покрывается облаками(тучами)</text></cit></cit>
 <сit type="example"><text>skye på, skye til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>становиться пасмурным (о небе)</text></cit></cit>

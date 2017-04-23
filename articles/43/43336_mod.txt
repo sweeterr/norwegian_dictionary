@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mod</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 см. mo II
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">mod</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 см. mo V
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
  жабры
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjelle</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>диал.</u> кричать, орать, вопить
 </sense>
 </entry>

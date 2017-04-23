@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oventil</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 в верхней части, наверху
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">oventil</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 кверху
 </sense>
 </entry>

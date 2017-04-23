@@ -4,11 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">skir</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">см.</em> skjær IV
+<u>см.</u> skjær IV
 </sense>
 <sense>
 чистый, без примеси

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">klipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> см. klype I
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">klipe</orth>
-<em><span class="dic_color"><span class="dic_comment">kle(i)p, klipt (klepet)</em>
+<inflection><orth>kle(i)p, klipt (klepet)</orth></inflection>
 <u>диал.</u> см. klype II
 </sense>
 </entry>

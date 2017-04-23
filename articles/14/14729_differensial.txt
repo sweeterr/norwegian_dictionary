@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">differensial</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <u>мат.</u> дифференциал
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">differensial</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>мат.</u> дифференциальный
 </sense>
 </entry>

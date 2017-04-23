@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">krille</orth>
-<em><span class="dic_color"><span class="dic_comment">-a</em>
+<inflection><orth extent="part">-a</orth></inflection>
 <u>диал.</u> корь
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">krille</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 щекотать

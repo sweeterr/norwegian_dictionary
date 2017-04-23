@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">russisk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 русский язык
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">russisk</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 русский, российский
@@ -20,7 +20,8 @@
 <сit type="example"><text>snakker (kan) De russisk?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорите вы по-русски?</text></cit></cit>
 </sense>
 <sense>
-<u>adj</u> советский, из Советского Союза, сделанный в СССР (в языке норвежской прессы)
+<gramGrp><pos>adj</pos></gramGrp>
+ советский, из Советского Союза, сделанный в СССР (в языке норвежской прессы)
 </sense>
 </entry>
 </superEntry>

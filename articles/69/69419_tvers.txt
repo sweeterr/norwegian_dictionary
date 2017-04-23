@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tvers</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 поперёк, под прямым углом
 <сit type="example"><text>tvers av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> на траверзе</text></cit></cit>
 <сit type="example"><text>tvers igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насквозь</text></cit></cit>

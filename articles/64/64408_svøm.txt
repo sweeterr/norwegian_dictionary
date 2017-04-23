@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svøm</orth>
-<em><span class="dic_color"><span class="dic_comment">-men</em>
+<inflection><orth extent="part">-men</orth></inflection>
 <сit type="example"><text>til svøms</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вплавь</text></cit></cit>
 <сit type="example"><text>legge (seg) på svøm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поплыть, пуститься вплавь</text></cit></cit>
 </sense>

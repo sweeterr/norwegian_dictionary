@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">låg</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 отвар (из овощей, трав)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">låg</orth>
-<em><span class="dic_color"><span class="dic_comment">låga, læger</em>
+<inflection><orth>låga, læger</orth></inflection>
 <u>диал.</u> упавшее дерево, валежник
 </sense>
 </entry>
@@ -20,7 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">låg</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 см. lav II
 </sense>
 </entry>

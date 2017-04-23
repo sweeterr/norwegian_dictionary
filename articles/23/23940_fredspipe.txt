@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fredspipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 трубка мира
 <сit type="example"><text>røke fredspipa sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкурить трубку мира, помириться</text></cit></cit>
 </sense>

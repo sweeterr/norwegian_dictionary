@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløy</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 фланг, крыло
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløy</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 дверца (шкафа, тумбочки и т. п.)
@@ -31,14 +31,14 @@
 <index></index>
 <form>
 <orth type="lemma">fløy</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 флюгер
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">fløy</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> fly IV
+<gramGrp><tns>pret</tns><note>от fly IV</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

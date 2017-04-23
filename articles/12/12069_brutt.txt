@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">brutt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 надломленный, обессилевший, убитый (горем)
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">brutt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> bryte
+<gramGrp><tns>p.p.</tns><note>от bryte</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

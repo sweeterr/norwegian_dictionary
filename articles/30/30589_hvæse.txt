@@ -4,7 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">hvæse</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>(-te), <em><span class="dic_color"><span class="dic_comment">-et</em>(<em><span class="dic_color"><span class="dic_comment">-t</em>)
+<inflection><orth extent="part">-et</orth></inflection>
+(-te), 
+<inflection><orth extent="part">-et</orth></inflection>
+(
+<inflection><orth extent="part">-t</orth></inflection>
+)
 <ref>hvese</ref>
 </sense>
 </entry>

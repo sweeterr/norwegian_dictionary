@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 ветт (старинная мера веса = 6,62 кг в Норвегии, = 39,84 кг в Исландии)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vett</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 здравый смысл, смётка, разум
 <сit type="example"><text>gå (være) fra vettet (gå fra vett og sans)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сойти с ума, <lbl>разг.</lbl> рехнуться</text></cit></cit>
 <сit type="example"><text>ha vett på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь понятие, представление (о чём-л.)</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjort</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 подпруга
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">gjort</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> gjøre
+<gramGrp><tns>p.p.</tns><note>от gjøre</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

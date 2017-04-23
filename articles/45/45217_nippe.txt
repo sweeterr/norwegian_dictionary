@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 пить маленькими глоточками, смаковать, осторожно пробовать (пищу)
 <сit type="example"><text>nippe til et glass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пригубить бокал</text></cit></cit>
 <сit type="example"><text>nippe til vinen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смаковать вино, пить вино глоточками</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">nippe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a), -et (-a)</em>
+<inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <u>разг.</u> дремать, вздремнуть
 </sense>
 </entry>

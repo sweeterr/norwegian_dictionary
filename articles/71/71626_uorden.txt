@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">uorden</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 беспорядок, хаос, смятение, сумятица
 <сit type="example"><text>bringe (komme) i uorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить (приходить) в беспорядок</text></cit></cit>
 <сit type="example"><text>være i uorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в беспорядке</text></cit></cit>

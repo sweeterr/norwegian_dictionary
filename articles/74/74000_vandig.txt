@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">vandig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <ref>vand</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">vandig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 водянистый, мокрый, влажный

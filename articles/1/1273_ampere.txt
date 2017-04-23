@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">ampere</orth>
-<span class="dic_color"><span class="dic_comment">|am'pæ:r|
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<phon>|am'pæ:r|</phon>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>физ.</u> ампер
 </sense>
 </entry>

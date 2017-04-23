@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">anke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 жалоба
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">anke</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
 беспокоиться (о чём-л. — på), быть озабоченным (чём-л.—på)
@@ -39,7 +39,7 @@
 <index></index>
 <form>
 <orth type="lemma">anke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>диал.</u> 
 <ref>ank 1)</ref>
 </sense>
@@ -48,7 +48,7 @@
 <index></index>
 <form>
 <orth type="lemma">anke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>зоол.</u> морянка, или аулейка
 </sense>
 </entry>

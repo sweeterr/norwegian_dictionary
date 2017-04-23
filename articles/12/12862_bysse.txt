@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bysse</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en) -er</em>
+<inflection><orth extent="part">-a (-en) -er</orth></inflection>
 <u>мор.</u> <u>разг.</u> камбуз
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">bysse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 колыбель, кроватка
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">bysse</orth>
-<em><span class="dic_color"><span class="dic_comment">-ser (-te, -sa), -set (-t, -sa)</em>
+<inflection><orth extent="part">-ser (-te, -sa), -set (-t, -sa)</orth></inflection>
 укачивать, убаюкивать, баюкать (ребёнка)
 <сit type="example"><text>bysse, bysse, by!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баю-баюшки-баю!</text></cit></cit>
 </sense>

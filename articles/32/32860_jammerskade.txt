@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">jammerskade</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <сit type="example"><text>(det er) jammerskade at ... (om ...)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очень жаль, что ... (если ...); страшно жаль, что ... (если ...)</text></cit></cit>
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bemøye</orth>
-<em><span class="dic_color"><span class="dic_comment">-(d)de (-et), -(d)d (-et)</em>
+<inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 беспокоить, мучить
 <сit type="example"><text>bemøye seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прилагать старания (усилия), напрягаться, трудиться (над чем-л - med); хлопотать</text></cit></cit>
 </sense>

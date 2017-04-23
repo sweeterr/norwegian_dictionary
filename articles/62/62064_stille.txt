@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stille</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 тишина, безмолвие
@@ -23,10 +23,10 @@
 <index></index>
 <form>
 <orth type="lemma">stille</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-тихий <em><span class="dic_color"><span class="dic_comment">(в разн. знач.)</em>
+тихий <u>в разн. знач.</u>
 </sense>
 <sense>
 спокойный, безмятежный, безветренный
@@ -50,7 +50,7 @@
 <index></index>
 <form>
 <orth type="lemma">stille</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-let), -t (-let)</em>
+<inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
 успокаивать
@@ -75,7 +75,7 @@
 <index></index>
 <form>
 <orth type="lemma">stille</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 ставить, помещать, устанавливать

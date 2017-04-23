@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprekke</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 трещина, щель, щёлка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprekke</orth>
-<em><span class="dic_color"><span class="dic_comment">sprakk, sprukket</em>
+<inflection><orth>sprakk, sprukket</orth></inflection>
 </form>
 <sense>
 треснуть, растрескаться, лопнуть, расколоться <u>тж. перен.</u>

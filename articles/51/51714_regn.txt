@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">regn</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-en)</em>
+<inflection><orth extent="part">-et (-en)</orth></inflection>
 дождь
 <сit type="example"><text>det blir regn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сейчас пойдёт дождь</text></cit></cit>
 <сit type="example"><text>det ser ut til regn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>похоже, будет дождь</text></cit></cit>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">viltre seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 веселиться, резвиться
 <сit type="example"><text>viltre seg bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться, сбиться с дороги</text></cit></cit>
 </sense>

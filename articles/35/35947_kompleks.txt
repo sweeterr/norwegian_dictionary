@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">kompleks</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
 комплекс, совокупность
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">kompleks</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 комплексный; сложный, составной
 </sense>
 </entry>

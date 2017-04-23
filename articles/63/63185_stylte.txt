@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">stylte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 ходуля
 <сit type = "example"><text>gå på stylter :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> ходить на ходулях</text></cit></cit>
 <сit type = "example"><text>gå på stylter :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> неестественно вести себя</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">stylte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <сit type="example"><text>stylte seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рисоваться, корчить из себя</text></cit></cit>
 </sense>
 </entry>

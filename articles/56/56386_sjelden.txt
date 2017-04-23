@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">sjelden</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 редкий
@@ -18,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjelden</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 редко

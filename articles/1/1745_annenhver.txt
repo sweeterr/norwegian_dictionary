@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">annenhver</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>pron</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 каждый второй
 </sense>
 </entry>

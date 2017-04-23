@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">prompt(e)</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 готовый (о товаре)
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">prompt(e)</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 немедленно, незамедлительно, без задержки, в срок
 </sense>
 </entry>

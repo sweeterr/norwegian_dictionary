@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> подлиза, подхалим
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">snik</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), -er</em>
+<inflection><orth extent="part">-en (-a), -er</orth></inflection>
 леска, вертикально стоящая в воде
 <сit type="example"><text>ha én på snika</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> поймать кого-л. на удочку</text></cit></cit>
 </sense>

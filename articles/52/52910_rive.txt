@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rive</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 грабли
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">rive</orth>
-<em><span class="dic_color"><span class="dic_comment">re(i)v, revet</em>
+<inflection><orth>re(i)v, revet</orth></inflection>
 </form>
 <sense>
 рвать, разрывать

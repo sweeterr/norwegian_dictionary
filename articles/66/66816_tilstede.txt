@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilstede</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 позволять, разрешать
@@ -17,7 +17,8 @@
 <index></index>
 <form>
 <orth type="lemma">tilstede</orth>
-<em><span class="dic_color"><span class="dic_comment">(тж. раздельно)</em> <u>adv</u>
+<u>тж. раздельно</u> 
+<gramGrp><pos>adv</pos></gramGrp>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>

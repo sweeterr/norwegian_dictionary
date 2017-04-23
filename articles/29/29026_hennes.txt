@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">hennes</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(род. п. от hun II)</em>
+<gramGrp><pos>pron</pos></gramGrp>
+<inflection><case>род. п.</case><note>от hun II</note></inflection>
 её
 </sense>
 </entry>

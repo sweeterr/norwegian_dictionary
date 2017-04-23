@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">kvede</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>бот.</u> айва (обыкновенная)
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 песнь (старинная)
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">kvede</orth>
-<em><span class="dic_color"><span class="dic_comment">kvad, kvedet</em>
+<inflection><orth>kvad, kvedet</orth></inflection>
 </form>
 <sense>
 декламировать, исполнять речитативом

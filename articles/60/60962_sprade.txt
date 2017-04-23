@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprade</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 фат, хлыщ, щеголь
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">sprade</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 щеголять, фланировать, прогуливаться с важным (напыщенным) видом
 </sense>
 </entry>

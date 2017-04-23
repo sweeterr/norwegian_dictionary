@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">velte</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 куча, нагромождение, груда
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">velte</orth>
-<em><span class="dic_color"><span class="dic_comment">veltet (valt), veltet</em>
+<inflection><orth>veltet (valt), veltet</orth></inflection>
 </form>
 <sense>
 опрокидывать, перевёртывать; катить (бочку и т. п.)

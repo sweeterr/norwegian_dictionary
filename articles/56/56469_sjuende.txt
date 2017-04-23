@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sjuende</orth>
-<u>num</u>
+<gramGrp><pos>num</pos></gramGrp>
 седьмой
 <сit type="example"><text>til sjuende og sist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в конечном счёте, в конце концов</text></cit></cit>
 </sense>

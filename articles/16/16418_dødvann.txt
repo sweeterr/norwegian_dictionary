@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dødvann</orth>
-<em><span class="dic_color"><span class="dic_comment">-et</em>
+<inflection><orth extent="part">-et</orth></inflection>
 <u>мор.</u> мёртвая вода, стоячая вода
 <сit type="example"><text>ta dødvann(е)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в мёртвую воду</text></cit></cit>
 <сit type="example"><text>ligge i dødvannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в полосе мёртвой воды, <lbl>перен.</lbl> быть в бездействии</text></cit></cit>

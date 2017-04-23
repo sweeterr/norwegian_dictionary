@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">drive</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
 снежный сугроб
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">drive</orth>
-<em><span class="dic_color"><span class="dic_comment">drev (dreiv), drevet</em>
+<inflection><orth>drev (dreiv), drevet</orth></inflection>
 </form>
 <sense>
 гнать

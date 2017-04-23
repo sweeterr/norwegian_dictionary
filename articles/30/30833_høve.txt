@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">høve</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, =</em>
+<inflection><orth extent="part">-t, =</orth></inflection>
 </form>
 <sense>
 стечение обстоятельств
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">høve</orth>
-<em><span class="dic_color"><span class="dic_comment">-de (-et), -d (-et)</em>
+<inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
 подобать, приличествовать

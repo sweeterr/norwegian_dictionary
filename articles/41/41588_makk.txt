@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">makk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 червяк, личинка
 <сit type="example"><text>vri seg som en makk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться как змея ( <lbl>букв.</lbl> как червь)</text></cit></cit>
 </sense>

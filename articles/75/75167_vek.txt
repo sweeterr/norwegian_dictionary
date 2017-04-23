@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">vek</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 слабый, вялый
@@ -22,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">vek</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> vike I
+<gramGrp><tns>pret</tns><note>от vike I</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

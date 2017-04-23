@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekte</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 настоящий, истинный, подлинный
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 жениться, выходить замуж
 </sense>
 </entry>

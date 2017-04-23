@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svive</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-a)</em>
+<inflection><orth extent="part">-et (-a)</orth></inflection>
 <ref>sviv</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">svive</orth>
-<em><span class="dic_color"><span class="dic_comment">sve(i)v, svivd</em>
+<inflection><orth>sve(i)v, svivd</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>

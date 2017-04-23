@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rapil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>разг.</u> небольшая стрела
 <сit type="example"><text>sa fort som rapilen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(быстро) как стрела</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">akt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 поступок, действие, акт
@@ -23,7 +23,7 @@
 <index></index>
 <form>
 <orth type="lemma">akt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>юр.</u>
 </form>
 <sense>
@@ -38,7 +38,7 @@
 <index></index>
 <form>
 <orth type="lemma">akt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
 внимание
@@ -63,7 +63,7 @@
 <index></index>
 <form>
 <orth type="lemma">akt</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <u>ист.</u> опала
 <сit type="example"><text>erklære (sette) i rikets akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять вне закона</text></cit></cit>
 </sense>

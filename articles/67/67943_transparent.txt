@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">transparent</orth>
 <phon>|-'raŋ|</phon>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 транспарант
 <сit type="example"><text>sette i transparent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поместить под яркий свет (для тщательного рассмотрения)</text></cit></cit>
 </sense>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">transparent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 прозрачный, просвечивающий
 </sense>
 </entry>

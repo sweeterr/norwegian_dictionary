@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nitid</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <сit type="example"><text>ved (i) nitida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к девяти часам, около девяти часов</text></cit></cit>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">nitid</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 красивый, изящный (о вещи, предмете)
 </sense>
 </entry>

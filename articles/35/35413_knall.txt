@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">knall</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 коврига сухого хлеба
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">knall</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 звук взрыва (выстрела), треск, грохот
@@ -31,7 +31,7 @@
 <index></index>
 <form>
 <orth type="lemma">knall</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> knelle
+<gramGrp><tns>pret</tns><note>от knelle</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

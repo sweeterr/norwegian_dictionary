@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ru</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en)</em>
+<inflection><orth extent="part">-a (-en)</orth></inflection>
 <u>диал.</u> овечья шерсть (вычёсываемая в период линьки)
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ru</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> болячка (корочка) на заживающей ране
 </sense>
 </entry>
@@ -20,7 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">ru</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
 шершавый, шероховатый

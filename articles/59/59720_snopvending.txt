@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">snopvending</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 <сit type="example"><text>i en snopvending</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> вмиг, быстро, в один момент</text></cit></cit>
 </sense>
 </entry>

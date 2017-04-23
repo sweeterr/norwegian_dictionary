@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">dyr</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 животное, зверь
@@ -21,7 +21,7 @@
 <index></index>
 <form>
 <orth type="lemma">dyr</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 дорогой <u>тж. перен.</u>, дорогостоящий (о вещах)

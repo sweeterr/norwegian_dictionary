@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">panikk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 паника
 <сit type="example"><text>det oppsto panikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>началась паника</text></cit></cit>
 </sense>

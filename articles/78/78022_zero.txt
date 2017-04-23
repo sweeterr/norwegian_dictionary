@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">zero</orth>
 <phon>|'tse:ro|</phon>
-<u>inv</u> <u>мат.</u> нуль, нулевая точка
+<gramGrp><pos>inv</pos></gramGrp>
+ <u>мат.</u> нуль, нулевая точка
 </sense>
 </entry>
 </superEntry>

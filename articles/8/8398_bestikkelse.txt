@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bestikkelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 подкуп, взятка
 <сit type="example"><text>ta imot bestikkelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать взятки</text></cit></cit>
 </sense>

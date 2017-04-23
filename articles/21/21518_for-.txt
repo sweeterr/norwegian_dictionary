@@ -4,27 +4,43 @@
 <index></index>
 <form>
 <orth type="lemma">for-</orth>
-<u>pref</u>
+<gramGrp><pos>pref</pos></gramGrp>
 </form>
 <sense>
 (под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета или его части, находящейся впереди:
-<сit type="example"><text>forhall <em><span class="dic_color"><span class="dic_comment">-en</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вестибюль</text></cit></cit>
-<сit type="example"><text>fordekk <em><span class="dic_color"><span class="dic_comment">-et</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> бак</text></cit></cit>
-<сit type="example"><text>forhjul <em><span class="dic_color"><span class="dic_comment">-et</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переднее колесо</text></cit></cit>
+<сit type="example"><text>forhall 
+<inflection><orth extent="part">-en</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вестибюль</text></cit></cit>
+<сit type="example"><text>fordekk 
+<inflection><orth extent="part">-et</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> бак</text></cit></cit>
+<сit type="example"><text>forhjul 
+<inflection><orth extent="part">-et</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переднее колесо</text></cit></cit>
 </sense>
 <sense>
 (под ударением) присоединяется к основам существительных, образуя имена существительные со значением периода времени, предшествующего данному в основном слове:
-<сit type="example"><text>formiddag <em><span class="dic_color"><span class="dic_comment">-en</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время до полудня</text></cit></cit>
-<сit type="example"><text>fortid <em><span class="dic_color"><span class="dic_comment">-en</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошлое, прошедшее время</text></cit></cit>
+<сit type="example"><text>formiddag 
+<inflection><orth extent="part">-en</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время до полудня</text></cit></cit>
+<сit type="example"><text>fortid 
+<inflection><orth extent="part">-en</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошлое, прошедшее время</text></cit></cit>
 </sense>
 <sense>
 (под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета, служащего для отделения, прикрытия чего-л.:
-<сit type="example"><text>forteppe <em><span class="dic_color"><span class="dic_comment">-t</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес</text></cit></cit>
+<сit type="example"><text>forteppe 
+<inflection><orth extent="part">-t</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес</text></cit></cit>
 </sense>
 <sense>
 (под ударением) присоединяется к основам существительных, образуя имена существительные со значением более высокого чина, звания, степени, должности:
-<сit type="example"><text>formann <em><span class="dic_color"><span class="dic_comment">-en</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>председатель</text></cit></cit>
-<сit type="example"><text>forstander <em><span class="dic_color"><span class="dic_comment">-en</em></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заведующий, настоятель</text></cit></cit>
+<сit type="example"><text>formann 
+<inflection><orth extent="part">-en</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>председатель</text></cit></cit>
+<сit type="example"><text>forstander 
+<inflection><orth extent="part">-en</orth></inflection>
+</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заведующий, настоятель</text></cit></cit>
 </sense>
 <sense>
 (под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на предшествование периоду времени, обозначаемому основным прилагательным:

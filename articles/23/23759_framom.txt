@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">framom</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 вперёд
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">framom</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 мимо (вперёд)
 </sense>
 </entry>

@@ -4,14 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">sveipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em> <u>диал.</u> пеленать, закутывать, окутывать
+<inflection><orth extent="part">-te, -t</orth></inflection>
+ <u>диал.</u> пеленать, закутывать, окутывать
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">sveipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <u>диал.</u> хлестать, бить плетью
 </sense>
 </entry>
@@ -19,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">sveipe</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <u>мор.</u> тралить, вытраливать, протраливать
 </sense>
 </entry>

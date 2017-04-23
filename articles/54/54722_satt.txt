@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">satt</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 спокойный, степенный, невозмутимый
@@ -16,14 +16,14 @@
 <index></index>
 <form>
 <orth type="lemma">satt</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> sitte
+<gramGrp><tns>pret</tns><note>от sitte</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">satt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> sette
+<gramGrp><tns>p.p.</tns><note>от sette</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

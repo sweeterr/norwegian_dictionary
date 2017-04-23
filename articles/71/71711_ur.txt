@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 крутой склон, усыпанный камнями (галькой), каменная россыпь на склоне горы
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u> см. uer
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">ur</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>диал.</u>
 </form>
 <sense>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">ur</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 часы
 <сit type="example"><text>elektrisk ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрические часы</text></cit></cit>
 <сit type="example"><text>frøken Ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> «точное время» (автоматическая телефонная станция точного времени)</text></cit></cit>
@@ -47,7 +47,7 @@
 <index></index>
 <form>
 <orth type="lemma">ur</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 <u>диал.</u> очень, чрезвычайно
 <сit type="example"><text>ur liten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малюсенький</text></cit></cit>
 <сit type="example"><text>ur tynn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тонюсенький</text></cit></cit>

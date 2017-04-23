@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">midnattssol</orth>
-<em><span class="dic_color"><span class="dic_comment">-а</em>
+<inflection><orth extent="part">-а</orth></inflection>
 полуночное солнце
 <сit type="example"><text>midnattssolens land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страна полуночного солнца (о Норвегии)</text></cit></cit>
 </sense>

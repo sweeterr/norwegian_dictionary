@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">veldig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 могущественный, сильный, властный
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">veldig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 чрезвычайно, невероятно, в высшей степени
 </sense>
 </entry>

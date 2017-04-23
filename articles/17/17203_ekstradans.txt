@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ekstradans</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 танец сверх программы
 <сit type="example"><text>han har en ekstradans</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него любовное приключение на стороне</text></cit></cit>
 </sense>

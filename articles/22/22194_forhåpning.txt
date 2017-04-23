@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forhåpning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 надежда, чаяния
 <сit type="example"><text>nære forhåpning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питать надежду</text></cit></cit>
 <сit type="example"><text>vekke forhåpninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробудить надежду</text></cit></cit>

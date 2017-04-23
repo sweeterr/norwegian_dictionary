@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">framstille seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 являться (в суд)
 <сit type="example"><text>framstille seg til eksamen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>явиться на экзамен</text></cit></cit>
 </sense>

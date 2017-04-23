@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">små</orth>
-<u>adj</u>
-<em><span class="dic_color"><span class="dic_comment">-tt</em>
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><orth extent="part">-tt</orth></inflection>
 <gramGrp><num>pl</num><note>от liten, lille, vesle</note></gramGrp>
 </form>
 <sense>

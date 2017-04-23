@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bot</orth>
-<em><span class="dic_color"><span class="dic_comment">boten (bota), bøter</em>
+<inflection><orth>boten (bota), bøter</orth></inflection>
 </form>
 <sense>
 возмещение (убытков, ущерба), компенсация
@@ -15,7 +15,7 @@
 штраф
 </sense>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">тк. sg</em> <u>церк.</u> покаяние
+<u>тк. sg</u> <u>церк.</u> покаяние
 <сit type="example"><text>gjøre bot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каяться</text></cit></cit>
 <сit type="example"><text>love bot og bedring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обещать исправиться</text></cit></cit>
 </sense>
@@ -24,7 +24,7 @@
 <index></index>
 <form>
 <orth type="lemma">bot</orth>
-<em><span class="dic_color"><span class="dic_comment">bota (boten), bøter (boter)</em>
+<inflection><orth>bota (boten), bøter (boter)</orth></inflection>
 </form>
 <sense>
 заплата

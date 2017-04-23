@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">oppsettelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 отсрочка, отлагательство
 <сit type="example"><text>uten oppsettelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>безотлагательно</text></cit></cit>
 </sense>

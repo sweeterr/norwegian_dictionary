@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">likefram</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 прямой, откровенный, непосредственный
@@ -17,7 +19,7 @@
 <index></index>
 <form>
 <orth type="lemma">likefram</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 прямо, напрямик, без обиняков

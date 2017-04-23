@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ovenpå</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 наверху, над, там наверху
@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">ovenpå</orth>
-<u>prep</u>
+<gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
 на (поверхности чего-л.), поверх (чего-л.)

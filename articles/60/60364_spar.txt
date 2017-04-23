@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spar</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, = (-er)</em>
+<inflection><orth extent="part">-en, = (-er)</orth></inflection>
 <u>карт.</u> пики
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">spar</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>разг.</u> экономия, сбережения
 </sense>
 </entry>
@@ -20,7 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">spar</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 <u>диал.</u> экономный, бережливый
 </sense>
 </entry>

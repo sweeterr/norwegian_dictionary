@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">pussifisere</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 <u>шутл.</u> слегка опьянять, делать хмельным
 <сit type="example"><text>være pussifisert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> захмелеть</text></cit></cit>
 </sense>

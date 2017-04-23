@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">beskjeftigelse</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 занятие, работа
 <сit type="example"><text>uten beskjeftigelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без работы, без определённых занятий</text></cit></cit>
 </sense>

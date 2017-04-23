@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">blome</orth>
 <phon>|'blu:mə|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>диал.</u> цветок
 </sense>
 </entry>

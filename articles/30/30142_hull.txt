@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">hull</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
+<inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
 дыра, дырка, отверстие
@@ -37,7 +37,9 @@
 <index></index>
 <form>
 <orth type="lemma">hull</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
 <u>поэт.</u> прелестный, милый

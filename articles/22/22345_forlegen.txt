@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">forlegen</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 смущённый
 <сit type="example"><text>være forlegen med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в затруднении, не знать, как поступить, затрудняться</text></cit></cit>
 </sense>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">nummerorden</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 порядок номеров
 <сit type="example"><text>i nummerorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по порядку номеров</text></cit></cit>
 </sense>

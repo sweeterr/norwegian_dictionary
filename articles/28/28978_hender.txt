@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">hender</orth>
-<em><span class="dic_color"><span class="dic_comment">-ne</em> <gramGrp><num>pl</num><note>от hånd</note></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+ <gramGrp><num>pl</num><note>от hånd</note></gramGrp>
 <сit type="example"><text>falle (komme) i en hender, falle (komme) i hendene på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть кому-л в руки</text></cit></cit>
 <сit type="example"><text>få frie hender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить свободу действий</text></cit></cit>
 <сit type="example"><text>fa noe i hendene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заполучить что-л. в свой руки</text></cit></cit>

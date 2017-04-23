@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fro</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <ref>froe</ref>
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fro</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>уст.</u> весёлый, бодрый, радостный
 </sense>
 </entry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ynde</orth>
-<em><span class="dic_color"><span class="dic_comment">-n (-t)</em>
+<inflection><orth extent="part">-n (-t)</orth></inflection>
 привлекательность, очарование, прелесть, обворожительность
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">ynde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 любить, высоко ценить что-л.
 <сit type="example"><text>ynde noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восхищаться чем-л.</text></cit></cit>
 </sense>

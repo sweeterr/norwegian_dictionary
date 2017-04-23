@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">mil</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a), =</em>
+<inflection><orth extent="part">-en (-a), =</orth></inflection>
 миля
 <сit type="example"><text>en gammel norsk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая норвежская миля (11294,73 м)</text></cit></cit>
 <сit type="example"><text>en norsk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская миля (10 000 м)</text></cit></cit>

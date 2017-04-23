@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">skreppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-a (-en), -er</em>
+<inflection><orth extent="part">-a (-en), -er</orth></inflection>
 короб, сумка, котомка, заплечный мешок, ранец
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">skreppe</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-pet), -t (-pet)</em>
+<inflection><orth extent="part">-te (-pet), -t (-pet)</orth></inflection>
 </form>
 <sense>
 крякать, гоготать (о гусях, утках)

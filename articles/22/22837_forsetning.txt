@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">forsetning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 <u>грам.</u> придаточное предложение, предшествующее главному
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">forsetning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 головной осветительный заряд в ракете
 </sense>
 </entry>

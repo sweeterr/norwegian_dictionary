@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">svor</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 шкурка на ветчине (окороке и т. п.)
@@ -16,7 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">svor</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> sverge
+<gramGrp><tns>pret</tns><note>от sverge</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sno</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
 холодный (морозный) ветер с гор
@@ -17,7 +17,7 @@
 <index></index>
 <form>
 <orth type="lemma">sno</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <сit type="example"><text>det snor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дует холодный ветер</text></cit></cit>
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <index></index>
 <form>
 <orth type="lemma">sno</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde (-et), -dd (-et)</em>
+<inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 </form>
 <sense>
 плести (верёвку), заплетать (косу)
@@ -40,7 +40,7 @@
 <index></index>
 <form>
 <orth type="lemma">sno</orth>
-<em><span class="dic_color"><span class="dic_comment">-dde, -dd</em>
+<inflection><orth extent="part">-dde, -dd</orth></inflection>
 <u>диал.</u> стянуть, стащить, своровать
 </sense>
 </entry>

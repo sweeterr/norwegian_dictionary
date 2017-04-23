@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">benytte seg</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 пользоваться (чем-л - av)
 <сit type="example"><text>benytte seg seg av hans hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться его помощью</text></cit></cit>
 </sense>

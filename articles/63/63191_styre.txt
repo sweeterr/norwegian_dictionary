@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">styre</orth>
-<em><span class="dic_color"><span class="dic_comment">-t, -r</em>
+<inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
 власть, управление, руководство, органы управления
@@ -29,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">styre</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 управлять, править, руководить, стоять во главе (чего-л.)
@@ -56,7 +56,7 @@
 <index></index>
 <form>
 <orth type="lemma">styre</orth>
-<em><span class="dic_color"><span class="dic_comment">-et (-te), -et (-t)</em>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <сit type = "example"><text>styre ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> оснащать, снаряжать</text></cit></cit>
 <сit type = "example"><text>styre ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> готовить приданое (для невесты)</text></cit></cit>
 </sense>
@@ -65,7 +65,7 @@
 <index></index>
 <form>
 <orth type="lemma">styre</orth>
-<em><span class="dic_color"><span class="dic_comment">-te (-et), -t (-et)</em>
+<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <u>разг.</u> шуметь, возиться, хлопотать
 </sense>
 </entry>

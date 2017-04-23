@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bitt</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
 укус
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">bitt</orth>
-<em><span class="dic_color"><span class="dic_comment">p.p. от</em> bite III
+<gramGrp><tns>p.p.</tns><note>от bite III</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

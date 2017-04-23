@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">imperativ</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-et)</em>
+<inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
 <u>грам.</u> повелительное наклонение
@@ -17,7 +17,9 @@
 <index></index>
 <form>
 <orth type="lemma">imperativ</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em>
+<gramGrp><pos>adj</pos></gramGrp>
+ 
+<inflection><orth extent="part">-t</orth></inflection>
 императивный
 </sense>
 </entry>

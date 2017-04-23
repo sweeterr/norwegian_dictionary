@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">terning</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 игральная кость
 <сit type="example"><text>kaste terning (er) om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросать жребий (по какому-л. поводу)</text></cit></cit>
 <сit type="example"><text>terningene er kastet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жребий брошен, выбор сделан</text></cit></cit>

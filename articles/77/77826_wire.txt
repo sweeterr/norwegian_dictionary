@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">wire</orth>
 <phon>|vaiər|</phon>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 проволока, провод

@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bekjent</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -e</em>
+<inflection><orth extent="part">-en, -e</orth></inflection>
 знакомый (человек)
 <сit type="example"><text>en god bekjent av meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мой хороший знакомый</text></cit></cit>
 <сit type="example"><text>de er bekjente</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они знакомы (друг с другом)</text></cit></cit>
@@ -14,7 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">bekjent</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 знакомый (с кем, чем-л.)

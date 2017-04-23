@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">lovlig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 законный, основанный на законе, предписанный законом
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">lovlig</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 довольно, более или менее, сравнительно
 </sense>
 </entry>

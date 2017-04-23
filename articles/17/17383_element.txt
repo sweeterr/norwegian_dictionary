@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">element</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-элемент <em><span class="dic_color"><span class="dic_comment">(тж. <u>физ.</u>, <u>хим.</u>)</em>
+элемент <u>тж.</u> <u>физ.</u>, <u>хим.</u>
 </sense>
 <sense>
 стихия, естественная среда

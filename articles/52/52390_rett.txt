@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">rett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 <u>юр.</u> право, закон
@@ -65,7 +65,7 @@
 <index></index>
 <form>
 <orth type="lemma">rett</orth>
-<em><span class="dic_color"><span class="dic_comment">-en, -er</em>
+<inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
 кушанье, блюдо
@@ -80,7 +80,7 @@
 <index></index>
 <form>
 <orth type="lemma">rett</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
 прямой, выпрямленный
@@ -107,7 +107,7 @@
 <index></index>
 <form>
 <orth type="lemma">rett</orth>
-<u>adv</u>
+<gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
 прямо

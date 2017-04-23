@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trenge</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 напирать, нажимать, давить, теснить, стискивать
@@ -32,7 +32,7 @@
 <index></index>
 <form>
 <orth type="lemma">trenge</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 нуждаться, иметь нужду (в чём-л. - til)

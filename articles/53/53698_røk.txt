@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">røk</orth>
-<em><span class="dic_color"><span class="dic_comment">-en</em>
+<inflection><orth extent="part">-en</orth></inflection>
 <ref>røyk</ref>
 </sense>
 </entry>
@@ -12,14 +12,14 @@
 <index></index>
 <form>
 <orth type="lemma">røk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> ryke I
+<gramGrp><tns>pret</tns><note>от ryke I</note></gramGrp>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">røk</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> ryke II
+<gramGrp><tns>pret</tns><note>от ryke II</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

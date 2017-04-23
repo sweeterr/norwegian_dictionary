@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">ham</orth>
-<em><span class="dic_color"><span class="dic_comment">-men, -mer</em>
+<inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
 шкура, кожа (животных), оперение (птиц)
@@ -20,7 +20,8 @@
 <index></index>
 <form>
 <orth type="lemma">ham</orth>
-<u>pron</u> (объектн. п. от han I1) его, ему, им, (о) нём
+<gramGrp><pos>pron</pos></gramGrp>
+ (объектн. п. от han I1) его, ему, им, (о) нём
 </sense>
 </entry>
 </superEntry>

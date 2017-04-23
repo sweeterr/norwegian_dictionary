@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
 <u>муз.</u> флейта
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>диал.</u> снимать сливки с молока
 </sense>
 </entry>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 сплавлять лес
 </sense>
 </entry>
@@ -34,7 +34,7 @@
 <index></index>
 <form>
 <orth type="lemma">fløyte</orth>
-<em><span class="dic_color"><span class="dic_comment">-te, -t</em>
+<inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
 свистеть в свисток

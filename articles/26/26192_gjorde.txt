@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">gjorde</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 надевать кушак (пояс, ремень), подпоясываться
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">gjorde</orth>
-<em><span class="dic_color"><span class="dic_comment">pret — от</em> gjøre
+<gramGrp><tns>pret</tns><note>от gjøre</note></gramGrp>
 </sense>
 </entry>
 </superEntry>

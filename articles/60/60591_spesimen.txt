@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">spesimen</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><orth extent="part">-et, -er</orth></inflection>
 <inflection><num>pl</num><orth> тж. spesimina</orth></inflection>
 образец, образчик, экземпляр
 </sense>

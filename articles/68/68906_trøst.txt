@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøst</orth>
-<em><span class="dic_color"><span class="dic_comment">-en (-a)</em>
+<inflection><orth extent="part">-en (-a)</orth></inflection>
 утешение, поддержка, успокоение
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">trøst</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 <u>уст.</u>
 </form>
 <sense>

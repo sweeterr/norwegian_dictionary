@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">blomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>поэт.</u>
 </form>
 <sense>
@@ -18,7 +18,7 @@
 <index></index>
 <form>
 <orth type="lemma">blomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>уст.</u> см. plomme I
 <сit type="example"><text>ha det som blommen i et egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> кататься как сыр в масле</text></cit></cit>
 </sense>
@@ -27,7 +27,7 @@
 <index></index>
 <form>
 <orth type="lemma">blomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <u>уст.</u> см. plomme II
 </sense>
 </entry>
@@ -35,7 +35,7 @@
 <index></index>
 <form>
 <orth type="lemma">blomme</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>поэт.</u>
 </form>
 <sense>

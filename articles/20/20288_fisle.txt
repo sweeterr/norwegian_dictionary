@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fisle</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 <u>редко</u> см. firfisle
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">fisle</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -et</em>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 <u>разг.</u> вилять хвостом (обычно <u>перен.</u> , перед кем-л. - for)
 </sense>
 </entry>

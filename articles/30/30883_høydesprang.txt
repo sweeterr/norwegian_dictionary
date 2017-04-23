@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">høydesprang</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, =</em>
+<inflection><orth extent="part">-et, =</orth></inflection>
 <u>спорт.</u> прыжок в высоту
 <сit type="example"><text>høydesprang med tilløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прыжок в высоту с разбега</text></cit></cit>
 <сit type="example"><text>høydesprang uten tilløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прыжок в высоту с места</text></cit></cit>

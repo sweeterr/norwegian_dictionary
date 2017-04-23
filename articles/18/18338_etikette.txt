@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">etikette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n, -r</em>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 этикетка, ярлычок, наклейка
 </sense>
 </entry>
@@ -12,7 +12,7 @@
 <index></index>
 <form>
 <orth type="lemma">etikette</orth>
-<em><span class="dic_color"><span class="dic_comment">-n</em>
+<inflection><orth extent="part">-n</orth></inflection>
 этикет, правила этикета
 <сit type="example"><text>streng etikette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>строгий этикет</text></cit></cit>
 <сit type="example"><text>brudd på etiketten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушение этикета</text></cit></cit>

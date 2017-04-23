@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">delelig</orth>
-<u>adj</u>
+<gramGrp><pos>adj</pos></gramGrp>
 делящийся
 <сit type="example"><text>være delelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делиться (на какое-л. число)</text></cit></cit>
 </sense>
