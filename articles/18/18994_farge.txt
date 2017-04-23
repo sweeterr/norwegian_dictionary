@@ -16,7 +16,6 @@
 <сit type="example"><text>bryte fargen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушать гамму цветов</text></cit></cit>
 <сit type="example"><text>kaste fargen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терять краски</text></cit></cit>
 <сit type="example"><text>male med sterke farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>описывать в ярких красках</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">skifte farge :
 <сit type = "example"><text>skifte farge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> менять окраску</text></cit></cit>
 <сit type = "example"><text>skifte farge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> меняться в лице</text></cit></cit>
 </sense>
@@ -24,7 +23,8 @@
 окраска
 </sense>
 <sense>
-<u>pl</u> флаг, национальные цвета
+<gramGrp><num>pl</num></gramGrp>
+флаг, национальные цвета
 <сit type="example"><text>de norske farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский национальный флаг</text></cit></cit>
 </sense>
 <sense>

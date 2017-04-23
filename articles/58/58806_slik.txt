@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">slik</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(n slikt, <u>pl</u> slike)</em>
+<u>pron</u>
+<inflection><orth>n slikt, pl slike</orth></inflection>
 такой, такая (такое, такие), подобный, подобная (подобное, подобные)
 <сit type="example"><text>jeg tror du er slik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> я думаю, что у тебя не все дома</text></cit></cit>
 <сit type="example"><text>ha slikt å gjøre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> быть свободным (незанятым); располагать своим временем</text></cit></cit>

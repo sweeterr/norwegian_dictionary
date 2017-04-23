@@ -8,7 +8,8 @@
 </form>
 <sense>
 условие
-<u>pl</u> условия
+<gramGrp><num>pl</num></gramGrp>
+условия
 <сit type="example"><text>ikke på noen vilkår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни при каких условиях</text></cit></cit>
 <сit type="example"><text>under datidens vilkår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в условиях того времени</text></cit></cit>
 <сit type="example"><text>sette (stille) vilkår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить условия</text></cit></cit>

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">leksikon</orth>
-<em><span class="dic_color"><span class="dic_comment">-et, -er</em> <em><span class="dic_color"><span class="dic_comment">(<u>pl</u> тж. leksika)</em>
+<em><span class="dic_color"><span class="dic_comment">-et, -er</em>
+<inflection><num>pl</num><orth>тж. leksika</orth></inflection>
 словарь, лексикон
 <сit type="example"><text>et levende leksikon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> ходячая энциклопедия (о человеке)</text></cit></cit>
 </sense>

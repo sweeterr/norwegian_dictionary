@@ -7,11 +7,12 @@
 <u>pron</u>
 </form>
 <sense>
-<em><span class="dic_color"><span class="dic_comment">pers (род. п. dens, n det, род. п. dets)</em>
+<u>pers</u> 
+<inflection><orth>род. п. dens, n det, род. п. dets</orth></inflection>
 он, она (оно) (о существительных, не обозначающих лиц)
 </sense>
 <sense>
-dem <em><span class="dic_color"><span class="dic_comment">(n det, <u>pl</u> de)</em>
+<inflection><orth>n det, pl de</orth></inflection>
 этот, эта (это, эти), тот, та (то, те)
 <сit type="example"><text>den her</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> (вот) этот, эта</text></cit></cit>
 <сit type="example"><text>den der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> (вон) тот, та</text></cit></cit>
@@ -21,7 +22,7 @@ dem <em><span class="dic_color"><span class="dic_comment">(n det, <u>pl</u> de)<
 <index></index>
 <form>
 <orth type="lemma">den</orth>
-<em><span class="dic_color"><span class="dic_comment">(n det, <u>pl</u> de)</em>
+<inflection><orth>n det, pl de</orth></inflection>
 определённый препозитивный артикль общего рода
 употребляется перед прилагательным, определяющим существительное, обозначающее предмет или лицо, упоминавшееся ранее:
 <сit type="example"><text>den norske avisa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(данная) норвежская газета</text></cit></cit>

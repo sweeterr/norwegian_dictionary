@@ -11,7 +11,6 @@
 <сit type="example"><text>et hard slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый удар</text></cit></cit>
 <сit type="example"><text>et slag i ansiktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удар в лицо, пощёчина</text></cit></cit>
 <сit type="example"><text>slag i slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подряд, непрерывно</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">med ett slag :
 <сit type = "example"><text>med ett slag :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> одним ударом, сразу</text></cit></cit>
 <сit type = "example"><text>med ett slag :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> немедленно</text></cit></cit>
 <сit type="example"><text>ha fritt slag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь свободу действий</text></cit></cit>
@@ -47,7 +46,8 @@
 <сit type="example"><text>et slag kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>партия игры в карты</text></cit></cit>
 </sense>
 <sense>
-<u>pl</u> трель (соловья)
+<gramGrp><num>pl</num></gramGrp>
+трель (соловья)
 </sense>
 <sense>
 накидка, плащ-палатка

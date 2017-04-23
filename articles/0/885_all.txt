@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">all</orth>
-<u>pron</u> <em><span class="dic_color"><span class="dic_comment">(<u>n</u> alt; <u>pl</u> alle)</em>
+<u>pron</u>
+<inflection><orth>n alt; pl alle</orth></inflection>
 </form>
 <sense>
 весь, вся (всё, все), целый

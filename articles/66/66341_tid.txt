@@ -40,7 +40,6 @@
 <сit type="example"><text>hva tid går toget?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в котором часу отходит поезд?</text></cit></cit>
 <сit type="example"><text>til tider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>временами</text></cit></cit>
 <сit type="example"><text>i den siste tiden (på siste tiden)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в последнее время</text></cit></cit>
-<div style="margin-left:5px"><strong><p><span class="dic_example">på samme tid :
 <сit type = "example"><text>på samme tid :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в тот же момент, в то же время</text></cit></cit>
 <сit type = "example"><text>på samme tid :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сейчас же</text></cit></cit>
 <сit type="example"><text>fra tid til annen (fra tid til tid)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время от времени</text></cit></cit>
@@ -53,7 +52,8 @@
 <сit type="example"><text>den tilkommende tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грядущее</text></cit></cit>
 </sense>
 <sense>
-эпоха, период <em><span class="dic_color"><span class="dic_comment">(обычно <u>pl</u>)</em>
+<gramGrp><num>pl</num><note>обычно</note></gramGrp>
+эпоха, период
 <сit type="example"><text>fordums (eldre) tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>древнее время</text></cit></cit>
 <сit type="example"><text>harde tider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлые времена</text></cit></cit>
 <сit type="example"><text>en opplyst tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эпоха Просвещения</text></cit></cit>

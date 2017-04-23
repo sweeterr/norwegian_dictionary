@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">andre</orth>
 <u>pron</u>
-<u>pl</u> от annen <strong>II
+<gramGrp><num>pl</num><note>от annen II</note></gramGrp>
 <сit type="example"><text>de andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остальные</text></cit></cit>
 <сit type="example"><text>blant andre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и среди них</text></cit></cit>
 </sense>

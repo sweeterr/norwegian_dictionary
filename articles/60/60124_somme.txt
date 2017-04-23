@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">somme</orth>
-<u>pron</u> <u>pl</u>
+<u>pron</u>
+<gramGrp><num>pl</num></gramGrp>
 кое-какие, некоторые, отдельные
 <сit type="example"><text>somme tider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иногда, временами</text></cit></cit>
 </sense>

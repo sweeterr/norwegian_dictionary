@@ -4,7 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">tam</orth>
-<u>adj</u> <em><span class="dic_color"><span class="dic_comment">-t</em> <em><span class="dic_color"><span class="dic_comment">(<u>pl</u> tamme)</em>
+<u>adj</u>
+<em><span class="dic_color"><span class="dic_comment">-t</em> 
+<inflection><num>pl</num><orth>tamme</orth></inflection>
 </form>
 <sense>
 ручной, приручённый
