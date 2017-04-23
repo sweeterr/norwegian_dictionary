@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">seg</orth>
-<em><span class="dic_color"><span class="dic_comment">|sei|</em>
+<phon>|sei|</phon>
 <u>pron</u>
 </form>
 <sense>
@@ -26,7 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">seg</orth>
-<em><span class="dic_color"><span class="dic_comment">|seg|</em>
+<phon>|seg|</phon>
 <gramGrp><tns>pret</tns><note>от sige II</note></gramGrp></sense>
 </entry>
 </superEntry>

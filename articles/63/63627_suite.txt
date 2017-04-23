@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">suite</orth>
-<em><span class="dic_color"><span class="dic_comment">|'svit:ə|</em>
+<phon>|'svit:ə|</phon>
 <em><span class="dic_color"><span class="dic_comment">-n, -r</em>
 </form>
 <sense>
@@ -19,7 +19,7 @@
 <sense>
 <u>муз.</u> сюита
 <сit type="example"><text>à la suite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим</text></cit></cit>
-<сit type="example"><text>en suite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><em><span class="dic_color"><span class="dic_comment">|an 'svit:|</em> подряд</text></cit></cit>
+<сit type="example"><text>en suite</text><note>|an 'svit:|</note><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подряд</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

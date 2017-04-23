@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">gid</orth>
-<em><span class="dic_color"><span class="dic_comment">|gi:d|</em>
+<phon>|gi:d|</phon>
 <u>adv</u>
 хоть бы, если бы
 <сit type="example"><text>gid vi fikk godt vær da</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>была бы только хорошая погода</text></cit></cit>
@@ -14,9 +14,9 @@
 <index></index>
 <form>
 <orth type="lemma">gid</orth>
-gid! <u>int</u>
-<em><span class="dic_color"><span class="dic_comment">|gi:d|</em>
-боже мой, о боже (восклицание, выражающее страх, ужас)
+<u>int</u>
+<phon>|gi:d|</phon>
+боже мой, о боже! (восклицание, выражающее страх, ужас)
 </sense>
 </entry>
 </superEntry>

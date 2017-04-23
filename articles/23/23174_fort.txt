@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">fort</orth>
-<em><span class="dic_color"><span class="dic_comment">|fo:rt|</em>
+<phon>|fo:rt|</phon>
 <em><span class="dic_color"><span class="dic_comment">-et, = (-er)</em>
 <u>воен.</u> форт, укрепление, опорный пункт
 </sense>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">fort</orth>
-<em><span class="dic_color"><span class="dic_comment">|furt|</em>
+<phon>|furt|</phon>
 <u>adj</u>
 быстрый, скорый, проворный
 </sense>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">fort</orth>
-<em><span class="dic_color"><span class="dic_comment">|furt|</em>
+<phon>|furt|</phon>
 <u>adv</u>
 быстро, скоро
 <сit type="example"><text>så fort ... så ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как только ..., так ...</text></cit></cit>
