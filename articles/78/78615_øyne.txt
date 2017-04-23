@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">øyne</orth>
-<u>pl</u> <em><span class="dic_color"><span class="dic_comment">от</em> <a href="http://norwegian_russian.academic.ru/78554/%C3%B8ye">øye</a>
+<gramGrp><num>pl</num><note>от øye</note></gramGrp>
 <сit type="example"><text>for alles øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у всех на глазах</text></cit></cit>
 <сit type="example"><text>med øyne i nakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во все глаза</text></cit></cit>
 <сit type="example"><text>anstrenge sine øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрягать зрение</text></cit></cit>
