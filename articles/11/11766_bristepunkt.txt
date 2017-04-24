@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bristepunkt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предел (терпения, напряжения и т. д.)</text></cit>
 <сit type="example"><text>spenne noe til bristepunktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрячь что-л. до предела</text></cit></cit>
 </sense>

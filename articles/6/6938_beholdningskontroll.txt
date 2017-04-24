@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">beholdningskontroll</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отслеживание товарной наличности, управление запасами, управление материальными ресурсами</text></cit>
 </sense>
 </entry>

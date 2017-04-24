@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">hitre</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>komp от hit</note></gramGrp>
+<gramGrp><pos>adj</pos><note>komp от hit</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лежащий ближе, находящийся ближе сюда (к говорящему)</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">dumpe</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжело упасть; шлёпнуться</text></cit>
 <сit type="example"><text>dumpe igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провалиться (сквозь что-л.)</text></cit></cit>
 <сit type="example"><text>dumpe ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грохнуться</text></cit></cit>
@@ -21,6 +23,8 @@
 <orth type="lemma">dumpe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>ком.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продавать по бросовым ценам, совершать демпинг</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hor</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блуд, распутство, измена (одного из супругов)</text></cit>
 <сit type="example"><text>drive hor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распутничать, заниматься распутством</text></cit></cit>
 </sense>

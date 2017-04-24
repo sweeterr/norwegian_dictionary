@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kokebok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кулинарная (поваренная) книга</text></cit>
 <сit type="example"><text>etter ens kokebok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласно чьему-л. плану (желанию)</text></cit></cit>
 </sense>

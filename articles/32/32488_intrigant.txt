@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">intrigant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интриган</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">intrigant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интриганский</text></cit>
 </sense>
 </entry>

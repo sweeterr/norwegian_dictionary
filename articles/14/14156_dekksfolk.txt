@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">dekksfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>мор.</usg>
+<usg>собир., мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхняя команда</text></cit>
 </sense>
 </entry>

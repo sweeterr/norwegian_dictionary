@@ -20,6 +20,8 @@
 <orth type="lemma">like</orth>
 <inflection><orth extent="part">-n</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмещение, компенсация</text></cit>
 <сit type="example"><text>gjøre like for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возмещать что-л.</text></cit></cit>
 </sense>
@@ -51,6 +53,8 @@
 <form>
 <orth type="lemma">like</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любить</text></cit>
 <сit type="example"><text>jeg liker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне нравится</text></cit></cit>
 <сit type="example"><text>være godt likt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть популярным, пользоваться популярностью</text></cit></cit>

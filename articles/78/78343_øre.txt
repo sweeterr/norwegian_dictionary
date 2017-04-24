@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">øre</orth>
 <inflection><orth extent="part">-n (-t), = (-r)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эре (монета=1/100 кроны)</text></cit>
 <сit type="example"><text>han betalte ikke en rød øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не заплатил ни копейки</text></cit></cit>
 <сit type="example"><text>han eier ikke en rød øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него нет ни гроша</text></cit></cit>
@@ -52,6 +54,8 @@
 <orth type="lemma">øre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намывать отмель</text></cit>
 </sense>
 </entry>

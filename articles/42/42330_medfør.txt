@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">medfør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>i embeds (stillings) medfør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подолгу службы</text></cit></cit>
 <сit type="example"><text>i forholdenes medfør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в силу условий</text></cit></cit>
 <сit type="example"><text>i noe(n)s medfør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в силу, согласно</text></cit></cit>

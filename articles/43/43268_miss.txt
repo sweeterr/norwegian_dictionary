@@ -6,6 +6,8 @@
 <orth type="lemma">miss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>киска (о кошке)</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <index></index>
 <form>
 <orth type="lemma">miss</orth>
+</form>
+<sense>
 <сit type="example"><text> <lbl>диал.</lbl> kaste i miss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не попасть, промахнуться</text></cit></cit>
 <сit type="example"><text>skyte i miss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить мимо цели <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>

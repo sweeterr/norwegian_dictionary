@@ -10,8 +10,7 @@
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теряться, исчезать</text></cit>
 </sense>
 <sense>
-<usg>уст.</usg>
-<usg>поэт.</usg>
+<usg>уст., поэт.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неясно вырисовываться (виднеться)</text></cit>
 </sense>
 </entry>
@@ -20,6 +19,8 @@
 <form>
 <orth type="lemma">fortone</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекладывать на музыку</text></cit>
 </sense>
 </entry>

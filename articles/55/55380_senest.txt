@@ -4,8 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">senest</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl от sen</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl от sen</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый поздний, позднейший</text></cit>

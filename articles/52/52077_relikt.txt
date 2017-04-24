@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">relikt</orth>
-<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-et (-en), -er</orth></inflection>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реликты, остатки (растительных и животных организмов)</text></cit>
@@ -20,8 +20,9 @@
 <form>
 <orth type="lemma">relikt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<usg>зоол.</usg>
-<usg>бот.</usg>
+<usg>зоол., бот.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реликтовый</text></cit>
 </sense>
 </entry>

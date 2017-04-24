@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">parykk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парик</text></cit>
 <сit type="example"><text>anlegge parykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надевать парик</text></cit></cit>
 </sense>

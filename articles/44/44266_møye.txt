@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">møye</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжение, усилия, старания, труды</text></cit>
 <сit type="example"><text>med møye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с трудом</text></cit></cit>
 <сit type="example"><text>ha møye, ha sin fule møye med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>усиленно трудиться над чем-л.</text></cit></cit>

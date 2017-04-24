@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">barfrost</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мороз без снега</text></cit>
 <сit type="example"><text>på barfrosten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по промёрзшей земле</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">krise</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кризис</text></cit>
 <сit type="example"><text>under krisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в период кризиса, во время кризиса</text></cit></cit>
 </sense>

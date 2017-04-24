@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">snarest</orth>
 <gramGrp><note>superl от snar II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>
@@ -12,6 +14,8 @@
 <form>
 <orth type="lemma">snarest</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как можно скорее</text></cit>
 </sense>
 </entry>

@@ -18,6 +18,8 @@
 <form>
 <orth type="lemma">lytt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гулко, громко</text></cit>
 <сit type="example"><text>høyt og lytt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громко, во весь голос</text></cit></cit>
 </sense>

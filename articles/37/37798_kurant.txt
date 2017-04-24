@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kurant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прейскурант, ценник</text></cit>
 <сit type="example"><text>sette kuranten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>установить цены</text></cit></cit>
 </sense>

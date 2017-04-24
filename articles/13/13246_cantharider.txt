@@ -4,9 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">cantharider</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
 <usg>фарм.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпанские мушки</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kjøpefartøy</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно, скупающее улов рыбы на рыбных промыслах</text></cit>
 </sense>
 </entry>

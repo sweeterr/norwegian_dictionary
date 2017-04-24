@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">krefter</orth>
 <gramGrp><num>pl</num><note>от kraft</note></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>av alle livsens krefter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изо всех сил</text></cit></cit>
 <сit type="example"><text>kreftene svikter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>силы уходят</text></cit></cit>
 <сit type="example"><text>anspenne alle sine krefter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрячь все свой силы</text></cit></cit>

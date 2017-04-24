@@ -6,6 +6,8 @@
 <orth type="lemma">lang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галерея, балкон (вдоль стены дома)</text></cit>
 </sense>
 </entry>
@@ -14,8 +16,7 @@
 <form>
 <orth type="lemma">lang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<inflection><orth extent="part">-t</orth></inflection>
-<inflection><orth>(komp lengre, superl lengst)</orth></inflection>
+<inflection><orth extent="part">-t</orth><orth>(komp lengre, superl lengst)</orth></inflection>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинный</text></cit>

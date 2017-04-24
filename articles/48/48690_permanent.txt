@@ -6,6 +6,8 @@
 <orth type="lemma">permanent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перманент, шестимесячная завивка</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">permanent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянный, перманентный</text></cit>
 </sense>
 </entry>

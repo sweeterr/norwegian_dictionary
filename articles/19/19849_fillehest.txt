@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">fillehest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кляча</text></cit>
 <сit type="example"><text>en gammel fillehest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая кляча</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">skje</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложка</text></cit>
 <сit type="example"><text>gi én noe inn med skjeer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сообщать что-л. через час по чайной ложке</text></cit></cit>
 <сit type="example"><text>ta skjeen i en annen hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> изменить тактику (поведение)</text></cit></cit>

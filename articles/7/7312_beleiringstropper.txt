@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">beleiringstropper</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
-<usg>уст.</usg>
-<usg>воен.</usg>
+<inflection><orth extent="part">-ne</orth></inflection>
+<usg>уст., воен.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадные войска, осаждающие части</text></cit>
 </sense>
 </entry>

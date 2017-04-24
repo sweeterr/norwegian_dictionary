@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">gjenvei</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой путь</text></cit>
 <сit type="example"><text>ta en gjenvei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти напрямик</text></cit></cit>
 <сit type="example"><text>skyte gjenvei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти прямо (кратчайшим путём)</text></cit></cit>

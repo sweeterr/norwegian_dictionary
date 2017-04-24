@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nevnelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>ved navns nevnelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>называя (упоминая) имена</text></cit></cit>
 </sense>
 </entry>

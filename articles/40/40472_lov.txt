@@ -49,6 +49,8 @@
 <index></index>
 <form>
 <orth type="lemma">lov</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>få (gi) lov på получить (дать) обещание</text></cit>
 </sense>
 </entry>
@@ -57,6 +59,8 @@
 <form>
 <orth type="lemma">lov</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похвала</text></cit>
 <сit type="example"><text>gud skje lov!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слава богу!</text></cit></cit>
 <сit type="example"><text>lov og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честь и хвала</text></cit></cit>

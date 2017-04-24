@@ -28,6 +28,8 @@
 <form>
 <orth type="lemma">drage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конопатить</text></cit>
 </sense>
 </entry>
@@ -37,6 +39,8 @@
 <orth type="lemma">drage</orth>
 <inflection><orth>dro, dradd</orth></inflection>
 <usg>уст.</usg>
+</form>
+<sense>
 <ref>dra</ref>
 </sense>
 </entry>

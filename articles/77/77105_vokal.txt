@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гласный звук</text></cit>
 <сit type="example"><text>lukket (rundet, trang, urundet, vid, åpen) vokal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрытый (лабиализованный, узкий, нелабиализованный, широкий, открытый) гласный звук</text></cit></cit>
 <сit type="example"><text>høye (lave) vokaler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гласные верхнего (нижнего) подъёма</text></cit></cit>

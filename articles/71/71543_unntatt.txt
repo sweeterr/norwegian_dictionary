@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">unntatt</orth>
 <gramGrp><pos>prep</pos></gramGrp>
+</form>
+<sense>
 <ref>unntagen I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">unntatt</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <ref>unntagen II</ref>
 </sense>
 </entry>

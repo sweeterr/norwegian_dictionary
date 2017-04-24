@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">klutsj</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>авт.</usg>
-<usg>тех.</usg>
+<usg>авт., тех.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сцепление, педаль сцепления</text></cit>
 </sense>
 </entry>

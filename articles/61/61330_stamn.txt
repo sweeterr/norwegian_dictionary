@@ -6,6 +6,8 @@
 <orth type="lemma">stamn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>stevn</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <index></index>
 <form>
 <orth type="lemma">stamn</orth>
+</form>
+<sense>
 <сit type="example"><text> <lbl>диал.</lbl> stå i stamn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скопиться, собраться плотной массой</text></cit></cit>
 </sense>
 </entry>

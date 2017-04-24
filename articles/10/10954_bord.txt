@@ -54,6 +54,8 @@
 <phon>|bu:r|</phon>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борт (судна)</text></cit>
 <сit type="example"><text>om bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на борту <ref>ombord</ref></text></cit></cit>
 <сit type="example"><text>over bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за бортом, за борт <ref>overbord</ref></text></cit></cit>
@@ -70,6 +72,8 @@
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доска, тесина</text></cit>
 </sense>
 </entry>

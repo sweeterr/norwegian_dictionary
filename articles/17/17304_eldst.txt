@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">eldst</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl от gammel</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl от gammel</note></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>de eldste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старшие, старейшины</text></cit></cit>
 <сit type="example"><text>byens eldste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>городские старейшины</text></cit></cit>
 <сit type="example"><text>de gamle er eldst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> старики умудрены опытом</text></cit></cit>

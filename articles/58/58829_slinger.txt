@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">slinger</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>slinger i valsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>колебания, отклонение, беспорядок, неполадки</text></cit></cit>
 <сit type="example"><text>det var ingen slinger i valsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё шло как по маслу, дело шло на лад</text></cit></cit>
 </sense>

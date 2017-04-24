@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">galenitt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>хим.</usg>
-<usg>мин.</usg>
+<usg>хим., мин.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свинцовый блеск, галенит</text></cit>
 </sense>
 </entry>

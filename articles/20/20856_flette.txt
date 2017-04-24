@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">flette</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коса (женская причёска)</text></cit>
 <сit type="example"><text>i fletter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заплетённые в косы (о волосах)</text></cit></cit>
 </sense>

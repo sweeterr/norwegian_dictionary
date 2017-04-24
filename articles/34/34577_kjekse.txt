@@ -6,6 +6,8 @@
 <orth type="lemma">kjekse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробормотать (что-л.)</text></cit>
 <сit type="example"><text>kjekse i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вставить замечание (словечко)</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <form>
 <orth type="lemma">kjekse</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударить острогой (рыбу), вытащить рыбу с помощью остроги</text></cit>
 </sense>
 </entry>

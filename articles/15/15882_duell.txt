@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">duell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуэль</text></cit>
 <сit type="example"><text>utfordre til duell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызвать на дуэль</text></cit></cit>
 </sense>

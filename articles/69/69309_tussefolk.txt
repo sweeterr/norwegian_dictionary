@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">tussefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>фольк.</usg>
+<usg>собир., фольк.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горные духи, гномы</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">taug</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <ref>tau</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">taug</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлительный, неповоротливый</text></cit>
 </sense>
 </entry>
@@ -23,6 +27,8 @@
 <orth type="lemma">taug</orth>
 <usg>уст.</usg>
 <gramGrp><tns>pret</tns><note>от tie</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

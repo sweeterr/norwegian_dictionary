@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tørrdokk</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухой док</text></cit>
 <сit type="example"><text>gå (legge seg, ligge) i tørrdokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> воздерживаться от употребления спиртных напитков</text></cit></cit>
 </sense>

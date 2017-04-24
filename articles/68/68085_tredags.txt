@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">tredags</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><pos>inv</pos></gramGrp>
+<gramGrp><pos>adj, inv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трёхдневный</text></cit>
 </sense>
 </entry>

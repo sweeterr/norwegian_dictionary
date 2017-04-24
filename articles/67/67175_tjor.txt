@@ -6,6 +6,8 @@
 <orth type="lemma">tjor</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бык-производитель</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">tjor</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привязь</text></cit>
 <сit type="example"><text>i tjor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на привязь, на привязи</text></cit></cit>
 </sense>

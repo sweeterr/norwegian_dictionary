@@ -4,9 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">kranpenger</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плата за пользование береговым краном</text></cit>
 </sense>
 </entry>

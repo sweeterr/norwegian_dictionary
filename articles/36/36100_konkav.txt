@@ -6,8 +6,9 @@
 <orth type="lemma">konkav</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
-<usg>мат.</usg>
-<usg>физ.</usg>
+<usg>мат., физ.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вогнутый</text></cit>
 </sense>
 </entry>

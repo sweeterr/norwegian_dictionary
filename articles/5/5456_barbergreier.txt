@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">barbergreier</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+</form>
+<sense>
 <ref>barbersaker</ref>
 </sense>
 </entry>

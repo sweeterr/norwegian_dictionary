@@ -4,8 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">bedres</orth>
-<inflection><orth extent="part">-et, -et</orth></inflection>
-<inflection><orth extent="part">-des, -ts</orth></inflection>
+<inflection><orth extent="part">-et, -et, -des, -ts</orth></inflection>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>улучшаться</text></cit>

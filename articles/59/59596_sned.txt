@@ -6,6 +6,8 @@
 <orth type="lemma">sned</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрость</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <index></index>
 <form>
 <orth type="lemma">sned</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>i snedзигзагообразно, зигзагами</text></cit>
 <сit type = "example"><text>på sned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> уклончиво</text></cit></cit>
 <сit type = "example"><text>på sned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> наискось, косо</text></cit></cit>

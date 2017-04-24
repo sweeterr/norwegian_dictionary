@@ -6,6 +6,8 @@
 <orth type="lemma">tunn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круговорот, вращение, движение по кругу</text></cit>
 <сit type="example"><text>i tunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кругом, вокруг</text></cit></cit>
 <сit type = "example"><text>tunn i tunn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> кругом</text></cit></cit>
@@ -20,6 +22,8 @@
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>tynn</ref>
 </sense>
 </entry>

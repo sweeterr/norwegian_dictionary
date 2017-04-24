@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hit</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>близкий</text></cit>
 </sense>
 </entry>

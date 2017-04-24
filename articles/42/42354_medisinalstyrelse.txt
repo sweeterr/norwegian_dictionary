@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">medisinalstyrelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление здравоохранения (в составе Министерства социальных дел Норвегии)</text></cit>
 </sense>
 </entry>

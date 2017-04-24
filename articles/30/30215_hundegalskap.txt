@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">hundegalskap</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>мед.</usg>
-<usg>вет.</usg>
+<usg>мед., вет.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бешенство, водобоязнь</text></cit>
 </sense>
 </entry>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">galvanisasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>мед.</usg>
-<usg>тех.</usg>
+<usg>мед., тех.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гальванизация</text></cit>
 </sense>
 </entry>

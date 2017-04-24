@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">latterhjørne</orth>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>komme i latterhjørnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в смешливое настроение</text></cit></cit>
 <сit type="example"><text>være i latterhjørnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в смешливом настроении</text></cit></cit>
 </sense>

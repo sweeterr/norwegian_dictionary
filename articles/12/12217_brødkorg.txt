@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">brødkorg</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корзинка для хлеба</text></cit>
 </sense>
 </entry>

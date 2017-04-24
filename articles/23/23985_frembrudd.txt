@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">frembrudd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наступление, появление</text></cit>
 <сit type="example"><text>ved dagens frembrudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с наступлением дня, на рассвете</text></cit></cit>
 <сit type="example"><text>ved mørkets frembrudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с наступлением ночи</text></cit></cit>

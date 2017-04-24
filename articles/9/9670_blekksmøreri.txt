@@ -4,10 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">blekksmøreri</orth>
-<inflection><orth extent="part">-et, =</orth></inflection>
-<inflection><orth extent="part">-en</orth></inflection>
+<inflection><orth extent="part">-et, =, -en</orth></inflection>
 <ref>smøring</ref>
 <usg>презр.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумагомарательство, писанина</text></cit>
 </sense>
 </entry>

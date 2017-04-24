@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">forbudt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрещенный</text></cit>
 <сit type="example"><text>adgang forbudt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вход запрещён</text></cit></cit>
 <сit type="example"><text>gjennomgang forbudt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проход (проезд) запрещён</text></cit></cit>

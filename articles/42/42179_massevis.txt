@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">massevis</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>массами</text></cit>
 <сit type="example"><text>i massevis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в огромном количестве, во множестве</text></cit></cit>
 </sense>

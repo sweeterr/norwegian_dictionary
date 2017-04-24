@@ -4,9 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">bjørnekrefter</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медвежья сила</text></cit>
 </sense>
 </entry>

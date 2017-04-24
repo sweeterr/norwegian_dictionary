@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vanvare</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>av vanvare</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за халатности (небрежности, неосторожности, беспечности)</text></cit></cit>
 </sense>
 </entry>

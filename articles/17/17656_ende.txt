@@ -62,6 +62,8 @@
 <form>
 <orth type="lemma">ende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо</text></cit>
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо</text></cit></cit>
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> откровенно</text></cit></cit>

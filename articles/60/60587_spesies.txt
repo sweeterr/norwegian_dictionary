@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">spesies</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настой, вытяжка</text></cit>
 <сit type="example"><text>de fire spesies</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>четыре арифметических действия</text></cit></cit>
 </sense>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">kryssbåt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>мор.</usg>
-<usg>уст.</usg>
+<usg>мор., уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таможенный катер</text></cit>
 </sense>
 </entry>

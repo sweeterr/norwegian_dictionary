@@ -5,8 +5,7 @@
 <form>
 <orth type="lemma">doning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<usg>собир.</usg>
-<usg>разг.</usg>
+<usg>собир., разг.</usg>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструменты, орудия производства</text></cit>
@@ -20,6 +19,8 @@
 <form>
 <orth type="lemma">doning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <ref>dovning II</ref>
 </sense>
 </entry>

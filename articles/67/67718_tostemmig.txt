@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tostemmig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двухголосный</text></cit>
 <сit type="example"><text>synge tostemmig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь в два голоса</text></cit></cit>
 </sense>

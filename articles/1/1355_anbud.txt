@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">anbud</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предложение услуг</text></cit>
 <сit type="example"><text>skriftlig anbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменное предложение (услуг)</text></cit></cit>
 <сit type="example"><text>gi anbud på et arbeid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать предложение относительно работы</text></cit></cit>

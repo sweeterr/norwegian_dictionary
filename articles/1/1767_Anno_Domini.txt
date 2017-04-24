@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">Anno Domini</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>новой эры, нашей эры, христианской эры, от Рождества Христова (при обозначении дат)</text></cit>
 <сit type="example"><text>Anno 1814</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в 1814 году</text></cit></cit>
 </sense>

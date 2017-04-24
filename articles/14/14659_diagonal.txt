@@ -6,6 +6,8 @@
 <orth type="lemma">diagonal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>мат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диагональ</text></cit>
 </sense>
 </entry>
@@ -16,6 +18,8 @@
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
 <usg>мат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диагональный</text></cit>
 </sense>
 </entry>

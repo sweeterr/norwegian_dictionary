@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">luktende</orth>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душистая вода</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">luktende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пахучий, издающий запах</text></cit>
 <сit type="example"><text>ille luktende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо пахнущий</text></cit></cit>
 </sense>
@@ -22,6 +26,8 @@
 <form>
 <orth type="lemma">luktende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>man blir så luktende lei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>можно пресытиться, это может надоесть</text></cit></cit>
 </sense>
 </entry>

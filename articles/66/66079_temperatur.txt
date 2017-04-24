@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">temperatur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>температура</text></cit>
 <сit type="example"><text>absolutt temperatur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>абсолютная температура (по шкале Кельвина)</text></cit></cit>
 <сit type="example"><text>kritisk temperatur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>критическая температура</text></cit></cit>

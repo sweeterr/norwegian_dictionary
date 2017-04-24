@@ -19,6 +19,8 @@
 <form>
 <orth type="lemma">kåre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбирать, избирать (на должность)</text></cit>
 <сit type="example"><text>folkets kårne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>члены тинга (суда, парламента)</text></cit></cit>
 <сit type="example"><text>de kårne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избранные</text></cit></cit>
@@ -29,6 +31,8 @@
 <form>
 <orth type="lemma">kåre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабо дуть (о ветре)</text></cit>
 </sense>
 </entry>

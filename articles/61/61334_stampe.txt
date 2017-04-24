@@ -6,6 +6,8 @@
 <orth type="lemma">stampe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <usg>тех.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчея, толчейная мельница</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">stampe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>sette i stampe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить к застою</text></cit></cit>
 <сit type = "example"><text>stå i stampe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> находиться в застое</text></cit></cit>
 <сit type = "example"><text>stå i stampe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застыть в одном положении</text></cit></cit>
@@ -53,6 +57,8 @@
 <orth type="lemma">stampe</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закладывать, отдавать в залог под ссуду</text></cit>
 </sense>
 </entry>

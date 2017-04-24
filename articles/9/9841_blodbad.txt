@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">blodbad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резня, кровавая баня, кровопролитие</text></cit>
 <сit type="example"><text>anrette et stort blodbadbad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить резню</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">snøball</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежок, снежный ком</text></cit>
 <сit type="example"><text>kaste snøball</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в снежки</text></cit></cit>
 <сit type="example"><text>kaste snøball på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросаться снежками</text></cit></cit>

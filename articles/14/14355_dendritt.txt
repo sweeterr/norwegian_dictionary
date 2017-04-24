@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">dendritt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>мин.</usg>
-<usg>анат.</usg>
+<usg>мин., анат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дендрит</text></cit>
 </sense>
 </entry>

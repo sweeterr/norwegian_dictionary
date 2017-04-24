@@ -18,6 +18,8 @@
 <form>
 <orth type="lemma">kart</orth>
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карта (географическая)</text></cit>
 <сit type="example"><text>et kart over Norge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>карта Норвегии</text></cit></cit>
 <сit type="example"><text>gå på kartet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться по карте</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">koffardi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговое судоходство, плавание с торговыми целями</text></cit>
 <сit type="example"><text>til koffardis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с торговыми целями</text></cit></cit>
 </sense>

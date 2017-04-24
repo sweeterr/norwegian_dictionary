@@ -22,6 +22,8 @@
 <form>
 <orth type="lemma">skjær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шхеры; подводный камень <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>et blindt skjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подводный риф, подводная скала</text></cit></cit>
 </sense>
@@ -83,6 +85,8 @@
 <orth type="lemma">skjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрелый, созревший, поспевший</text></cit>
 </sense>
 </entry>
@@ -92,6 +96,8 @@
 <orth type="lemma">skjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пугливый, робкий</text></cit>
 </sense>
 </entry>

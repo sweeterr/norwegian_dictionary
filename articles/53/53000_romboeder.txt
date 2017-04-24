@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">romboeder</orth>
 <inflection><orth extent="part">-eret, -rer</orth></inflection>
-<usg>мат.</usg>
-<usg>мин.</usg>
+<usg>мат., мин.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ромбоэдр</text></cit>
 </sense>
 </entry>

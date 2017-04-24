@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">trettende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомительный, изнурительный</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">trettende</orth>
 <gramGrp><pos>num</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тринадцатый</text></cit>
 </sense>
 </entry>

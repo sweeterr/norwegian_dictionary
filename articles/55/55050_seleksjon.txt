@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">seleksjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбор, селекция</text></cit>
 <сit type="example"><text>den naturlige seleksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>биол.</lbl> естественный отбор</text></cit></cit>
 </sense>

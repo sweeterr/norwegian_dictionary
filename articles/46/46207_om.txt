@@ -80,6 +80,8 @@
 <form>
 <orth type="lemma">om</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>если, если бы, ли</text></cit>
 <сit type="example"><text>jeg vet ikke оm han er her</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не знаю, здесь ли он</text></cit></cit>
 <сit type="example"><text>om enn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если, хотя</text></cit></cit>

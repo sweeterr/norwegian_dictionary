@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">overalt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везде, повсюду</text></cit>
 <сit type="example"><text>overalt i verden (på jorden)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по всему свету, во всём мире</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цена (на что-л. - på)</text></cit>
 <сit type="example"><text>faste (stramme) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдые цены</text></cit></cit>
 <сit type="example"><text>høye (dyre) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокие цены</text></cit></cit>
@@ -44,6 +46,8 @@
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добыча, улов, удача</text></cit>
 <сit type="example"><text>gi til pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросить на произвол судьбы</text></cit></cit>
 </sense>
@@ -53,6 +57,8 @@
 <form>
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щепотка</text></cit>
 <сit type="example"><text>ta seg en pris (tobakk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять понюшку табаку</text></cit></cit>
 </sense>

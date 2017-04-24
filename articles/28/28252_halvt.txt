@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">halvt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вполовину, наполовину</text></cit>
 <сit type = "example"><text>halvt om halvt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> почти</text></cit></cit>
 <сit type = "example"><text>halvt om halvt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> так сказать,</text></cit></cit>

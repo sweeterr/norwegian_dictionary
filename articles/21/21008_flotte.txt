@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">flotte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>flotte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить на широкую ногу</text></cit></cit>
 <сit type = "example"><text>flotte seg med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> кичиться чем-либо, щеголять чем-либо</text></cit></cit>
 <сit type = "example"><text>flotte seg med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> купить себе, позволить себе, доставить себе удовольствие</text></cit></cit>

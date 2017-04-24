@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sjøside</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторона (острова, города и т. п.), обращенная к морю, приморский район</text></cit>
 <сit type="example"><text>fra sjøsida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с моря, со стороны моря</text></cit></cit>
 <сit type="example"><text>på sjøsida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у моря</text></cit></cit>

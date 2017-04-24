@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">gjort</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпруга</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">gjort</orth>
 <gramGrp><tns>p.p.</tns><note>от gjøre</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

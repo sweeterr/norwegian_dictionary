@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">sambandsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>воен.</usg>
+<usg>собир., воен.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связисты, личный состав войск связи</text></cit>
 </sense>
 </entry>

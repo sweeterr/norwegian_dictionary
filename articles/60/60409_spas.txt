@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">spas</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка; забава, развлечение, веселье</text></cit>
 <сit type="example"><text>for (i) spas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в шутку, ради забавы</text></cit></cit>
 <сit type = "example"><text>drive spas :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> шутить (с кем-л.)</text></cit></cit>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">led</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>мор.</usg>
-<usg>уст.</usg>
+<usg>мор., уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс корабля</text></cit>
 <сit type="example"><text>seile indre (ytre) led</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти во внутренних (внешних) шхерах</text></cit></cit>
 <сit type="example"><text>være godt kjent i leden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>известный в округе</text></cit></cit>
@@ -18,6 +19,8 @@
 <form>
 <orth type="lemma">led</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <ref>ledd I</ref>
 </sense>
 </entry>
@@ -26,6 +29,8 @@
 <form>
 <orth type="lemma">led</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <ref>lei II</ref>
 </sense>
 </entry><entry>
@@ -33,6 +38,8 @@
 <form>
 <orth type="lemma">led</orth>
 <gramGrp><tns>pret</tns><note>от li II, lide</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>

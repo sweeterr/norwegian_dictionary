@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">tapper</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<inflection><orth extent="part">-t</orth></inflection>
-<inflection><num>pl</num><orth>tapre</orth></inflection>
+<inflection><orth extent="part">-t</orth><num>pl</num><orth>tapre</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>храбрый, доблестный, смелый, мужественный</text></cit>
 <сit type="example"><text>holde seg tapper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не отступать, настоять на своем</text></cit></cit>
 <сit type="example"><text>være tapper ved bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>много и с аппетитом есть (пить) за столом</text></cit></cit>

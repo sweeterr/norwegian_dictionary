@@ -27,6 +27,8 @@
 <form>
 <orth type="lemma">riste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырезать (высекать) письмена (на коре, камне)</text></cit>
 <сit type="example"><text>riste inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>врезаться в память</text></cit></cit>
 </sense>

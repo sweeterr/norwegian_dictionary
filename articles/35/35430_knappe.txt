@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">knappe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застёгивать на пуговицы (на кнопки)</text></cit>
 <сit type="example"><text>knappe igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>застегнуть</text></cit></cit>
 <сit type="example"><text>knappe ned, knappe opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расстёгивать</text></cit></cit>
@@ -15,6 +17,8 @@
 <form>
 <orth type="lemma">knappe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>knappe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшать, укорачивать, сужать</text></cit></cit>
 <сit type="example"><text>knappe av på lønnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать заработную плату</text></cit></cit>
 </sense>

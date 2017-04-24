@@ -19,6 +19,8 @@
 <form>
 <orth type="lemma">presis</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точно, как раз, точка в точку</text></cit>
 <сit type="example"><text>ikke presis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не совсем</text></cit></cit>
 </sense>

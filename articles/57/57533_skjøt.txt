@@ -18,6 +18,8 @@
 <form>
 <orth type="lemma">skjøt</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоно</text></cit>
 <сit type="example"><text>jordens skjøt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недра земли</text></cit></cit>
 <сit type="example"><text>i familiens skjøt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в семейном кругу</text></cit></cit>
@@ -43,6 +45,8 @@
 <form>
 <orth type="lemma">skjøt</orth>
 <gramGrp><tns>pret</tns><note>от skyte</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

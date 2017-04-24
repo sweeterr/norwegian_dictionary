@@ -61,6 +61,8 @@
 <form>
 <orth type="lemma">rør</orth>
 <gramGrp><num>pl</num><note>от ro II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>
@@ -69,6 +71,8 @@
 <orth type="lemma">rør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чепуха, ерунда, болтовня</text></cit>
 </sense>
 </entry>

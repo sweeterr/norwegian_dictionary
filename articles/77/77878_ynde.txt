@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ynde</orth>
 <inflection><orth extent="part">-n (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привлекательность, очарование, прелесть, обворожительность</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">ynde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любить, высоко ценить что-л.</text></cit>
 <сit type="example"><text>ynde noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восхищаться чем-л.</text></cit></cit>
 </sense>

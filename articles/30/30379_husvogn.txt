@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">husvogn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фургон, вагон (для жилья)</text></cit>
 </sense>
 </entry>

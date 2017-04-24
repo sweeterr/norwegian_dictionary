@@ -6,6 +6,8 @@
 <orth type="lemma">fyk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конные грабли</text></cit>
 </sense>
 </entry>
@@ -15,6 +17,8 @@
 <orth type="lemma">fyk</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежная метель, вьюга, мелкий дождь с ветром</text></cit>
 <сit type="example"><text>i et fyk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в одно мгновение</text></cit></cit>
 <сit type="example"><text>få fyk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить нагоняй (взбучку)</text></cit></cit>

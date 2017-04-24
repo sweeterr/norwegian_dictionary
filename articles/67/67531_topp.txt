@@ -53,6 +53,8 @@
 <index></index>
 <form>
 <orth type="lemma">topp</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшего класса, высшего качества</text></cit>
 </sense>
 </entry>
@@ -62,6 +64,8 @@
 <orth type="lemma">topp</orth>
 <gramGrp><pos>int</pos></gramGrp>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо, ладно, есть</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">røk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <ref>røyk</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">røk</orth>
 <gramGrp><tns>pret</tns><note>от ryke I</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>
@@ -20,6 +24,8 @@
 <form>
 <orth type="lemma">røk</orth>
 <gramGrp><tns>pret</tns><note>от ryke II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

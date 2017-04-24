@@ -60,6 +60,8 @@
 <form>
 <orth type="lemma">styre</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+</form>
+<sense>
 <сit type = "example"><text>styre ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> оснащать, снаряжать</text></cit></cit>
 <сit type = "example"><text>styre ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> готовить приданое (для невесты)</text></cit></cit>
 </sense>
@@ -70,6 +72,8 @@
 <orth type="lemma">styre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, возиться, хлопотать</text></cit>
 </sense>
 </entry>

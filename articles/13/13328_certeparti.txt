@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">certeparti</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>мор.</usg>
-<usg>ком.</usg>
+<usg>мор., ком.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чартер, чартер-партия (договор о фрахтовании судна)</text></cit>
 <сit type="example"><text>slutte certeparti</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключить чартер</text></cit></cit>
 </sense>

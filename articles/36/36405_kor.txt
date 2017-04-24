@@ -25,8 +25,9 @@
 <form>
 <orth type="lemma">kor</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>уст.</usg>
-<usg>воен.</usg>
+<usg>уст., воен.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корпус</text></cit>
 </sense>
 </entry>
@@ -35,6 +36,8 @@
 <form>
 <orth type="lemma">kor</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text><lbl>диал.</lbl> kor som er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как бы то ни было, во всяком случае</text></cit></cit>
 <ref>тж. hvor, hvordan, hvorledes</ref>
 </sense>

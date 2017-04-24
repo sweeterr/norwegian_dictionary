@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nitid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>ved (i) nitida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к девяти часам, около девяти часов</text></cit></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">nitid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый, изящный (о вещи, предмете)</text></cit>
 </sense>
 </entry>

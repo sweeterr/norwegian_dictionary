@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">råne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боров, хряк</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">råne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выздороветь, поправиться, посвежеть</text></cit>
 <сit type="example"><text>råne med seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очнуться, очухаться, прийти в сознание</text></cit></cit>
 </sense>

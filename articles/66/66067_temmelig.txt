@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">temmelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сносный, порядочный, достаточный, относительный</text></cit>
 «temmelig godt» «вполне удовлетворительно» (школьная оценка)
 <сit type = "example"><text>så temmelig :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> настолько</text></cit></cit>

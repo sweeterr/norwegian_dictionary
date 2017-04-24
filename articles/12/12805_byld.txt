@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">byld</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарыв, нагноение</text></cit>
 <сit type="example"><text>røre ved bylden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затронуть больной вопрос</text></cit></cit>
 <сit type="example"><text>nå gikk det hull på bylden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>последовал взрыв негодования</text></cit></cit>

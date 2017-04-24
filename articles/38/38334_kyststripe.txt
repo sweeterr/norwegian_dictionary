@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kyststripe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>береговая полоса</text></cit>
 <сit type="example"><text>den bløte kyststripa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>район, где озвончают согласные (в Норвегии на территории между Эустагдером и Телемарком и Кармёй)</text></cit></cit>
 </sense>

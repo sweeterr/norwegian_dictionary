@@ -56,6 +56,8 @@
 <form>
 <orth type="lemma">tippe</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>tippe-tippe! цып-цып!</text></cit>
 </sense>
 </entry>

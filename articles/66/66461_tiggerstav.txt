@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tiggerstav</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нищенский посох</text></cit>
 <сit type="example"><text>bringe til tiggerstaven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разорить, пустить с сумой</text></cit></cit>
 <сit type="example"><text>gripe (ta) tiggerstaven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нищенствовать, ходить с сумой</text></cit></cit>

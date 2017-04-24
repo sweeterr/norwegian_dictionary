@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kloster</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>монастырь, обитель</text></cit>
 <сit type = "example"><text>gi seg i kloster :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> уйти в монастырь, стать монахом</text></cit></cit>
 <сit type = "example"><text>gi seg i kloster :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> отрешиться от всех мирских дел</text></cit></cit>

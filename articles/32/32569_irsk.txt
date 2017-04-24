@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">irsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ирландский</text></cit>
 <сit type="example"><text>snakke irsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-ирландски</text></cit></cit>
 </sense>

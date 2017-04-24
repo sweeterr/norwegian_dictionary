@@ -6,6 +6,8 @@
 <orth type="lemma">vred</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывих</text></cit>
 </sense>
 </entry>
@@ -30,6 +32,8 @@
 <form>
 <orth type="lemma">vred</orth>
 <gramGrp><tns>pret</tns><note>от vri II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

@@ -41,6 +41,8 @@
 <form>
 <orth type="lemma">sett</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способ, манера</text></cit>
 <сit type="example"><text>på sett og vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем или иным способом, так или иначе</text></cit></cit>
 <сit type="example"><text>på mange sett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многими способами</text></cit></cit>
@@ -65,6 +67,8 @@
 <form>
 <orth type="lemma">sett</orth>
 <gramGrp><tns>p.p.</tns><note>от se</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

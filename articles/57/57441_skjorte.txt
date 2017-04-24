@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">skjorte</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубаха, рубашка</text></cit>
 <сit type="example"><text>bytte skjorte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>менять рубашку</text></cit></cit>
 </sense>

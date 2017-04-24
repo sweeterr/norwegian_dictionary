@@ -6,6 +6,8 @@
 <orth type="lemma">barnekjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любящий детей</text></cit>
 <сit type="example"><text>han er svært barnekjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он очень любит детей</text></cit></cit>
 </sense>

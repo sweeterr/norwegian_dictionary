@@ -20,6 +20,8 @@
 <orth type="lemma">bakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бак</text></cit>
 </sense>
 </entry>
@@ -29,6 +31,8 @@
 <orth type="lemma">bakk</orth>
 <gramGrp><pos>adv</pos></gramGrp>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назад</text></cit>
 <сit type = "example"><text>slå bakk i maskinen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> давать задний ход</text></cit></cit>
 <сit type = "example"><text>slå bakk i maskinen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> задний ход! (команда по машинному телеграфу)</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">val</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелководная бухта (с берегами, заливаемыми во время прилива)</text></cit>
 </sense>
 </entry>
@@ -28,6 +30,8 @@
 <orth type="lemma">val</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>valg I</ref>
 </sense>
 </entry>

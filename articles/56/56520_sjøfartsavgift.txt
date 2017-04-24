@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sjøfartsavgift</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расходы по морским перевозкам</text></cit>
 </sense>
 </entry>

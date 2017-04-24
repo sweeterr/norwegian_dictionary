@@ -4,8 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">noe</orth>
-<gramGrp><pos>pron</pos></gramGrp>
-<gramGrp><gender>n</gender><note>от noen</note></gramGrp>
+<gramGrp><pos>pron</pos><gender>n</gender><note>от noen</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>что-то, кое-что, что-л.ибо, нечто</text></cit>

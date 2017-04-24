@@ -13,8 +13,7 @@
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степь, пустошь (поросшая вереском)</text></cit>
 </sense>
 <sense>
-<usg>воен.</usg>
-<usg>разг.</usg>
+<usg>воен., разг.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полигон, учебное поле</text></cit>
 <сit type="example"><text>reise på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>направляться на учение</text></cit></cit>
 <сit type="example"><text>være på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на учениях</text></cit></cit>
@@ -26,6 +25,8 @@
 <orth type="lemma">mo</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>собир.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводки</text></cit>
 <сit type="example"><text>innenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по стране</text></cit></cit>
 <сit type="example"><text>utenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по зарубежным странам</text></cit></cit>
@@ -36,6 +37,8 @@
 <form>
 <orth type="lemma">mo</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкие отбросы, мелкий мусор</text></cit>
 </sense>
 </entry>
@@ -45,6 +48,8 @@
 <orth type="lemma">mo</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепловатый, чуть тёпленький</text></cit>
 </sense>
 </entry>
@@ -60,8 +65,7 @@
 <сit type="example"><text>han er mo i knærne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него подгибаются коленки (от слабости)</text></cit></cit>
 </sense>
 <sense>
-<usg>поэт.</usg>
-<usg>уст.</usg>
+<usg>поэт., уст.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленный, угнетённый, грустный</text></cit>
 </sense>
 </entry>
@@ -70,6 +74,8 @@
 <form>
 <orth type="lemma">mo</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>mo alene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно один</text></cit></cit>
 </sense>
 </entry>

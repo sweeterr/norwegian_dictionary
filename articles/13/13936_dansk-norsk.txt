@@ -6,6 +6,8 @@
 <orth type="lemma">dansk-norsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>ист.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>датско-норвежский литературный язык, риксмол</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">dansk-norsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>датско-норвежский</text></cit>
 </sense>
 </entry>

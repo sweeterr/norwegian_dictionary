@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">landbruk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сельское хозяйство</text></cit>
 <сit type="example"><text>ekstensivt (intensivt) landbruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>экстенсивное (интенсивное) сельское хозяйство</text></cit></cit>
 <сit type="example"><text>drive (slå seg på) landbruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься (заняться) сельским хозяйством</text></cit></cit>

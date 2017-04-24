@@ -19,6 +19,8 @@
 <form>
 <orth type="lemma">svelte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морить голодом (кого-л.)</text></cit>
 </sense>
 </entry>
@@ -27,6 +29,8 @@
 <form>
 <orth type="lemma">svelte</orth>
 <inflection><orth>svalt, sveltet (svoltet)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голодать, испытывать чувство голода</text></cit>
 </sense>
 </entry>

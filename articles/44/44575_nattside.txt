@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nattside</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не освещенная солнцем сторона (чего-л.), теневая сторона</text></cit>
 <сit type="example"><text>livets nattside</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тёмная сторона жизни</text></cit></cit>
 </sense>

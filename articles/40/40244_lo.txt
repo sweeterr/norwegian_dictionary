@@ -6,6 +6,8 @@
 <orth type="lemma">lo</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наветренная сторона</text></cit>
 <сit type="example"><text>holde loen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть выше по ветру (о паруснике в гонке)</text></cit></cit>
 <сit type = "example"><text>ta loen fra Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> зайти (на судне) с наветренной стороны к другому судну</text></cit></cit>
@@ -31,6 +33,8 @@
 <form>
 <orth type="lemma">lo</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необмолоченный хлеб, хлеб в снопах, жнитво</text></cit>
 <сit type="example"><text>få inn loa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убрать хлеб(а)</text></cit></cit>
 <сit type="example"><text>tørke lo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сушить рожь (снопы)</text></cit></cit>
@@ -42,6 +46,8 @@
 <orth type="lemma">lo</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>луг(овина)</text></cit>
 </sense>
 </entry><entry>
@@ -49,6 +55,8 @@
 <form>
 <orth type="lemma">lo</orth>
 <gramGrp><tns>pret</tns><note>от le II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ha</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>га, гектар (мера земли)</text></cit>
 </sense>
 </entry>
@@ -70,6 +72,8 @@
 <orth type="lemma">ha</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ha!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ах!, а-а! (выражение досады, горечи, удивления, презрения)</text></cit>
 <сit type="example"><text>si (svare) ja og ha</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соглашаться на что-л., ответить согласием</text></cit></cit>
 </sense>

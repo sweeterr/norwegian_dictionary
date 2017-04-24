@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">ansiktslinje</orth>
-<inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>ansiktstrekk</ref>
 </sense>
 </entry>

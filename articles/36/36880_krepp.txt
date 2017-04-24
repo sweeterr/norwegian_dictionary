@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">krepp</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>креп, флёр</text></cit>
 </sense>
 </entry>
@@ -15,6 +17,8 @@
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гордый, заносчивый, высокомерный</text></cit>
 </sense>
 </entry>

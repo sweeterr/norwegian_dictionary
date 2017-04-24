@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">fyldest</orth>
+</form>
+<sense>
 <сit type="example"><text>gjøre fyldest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удовлетворять требованиям, соответствовать назначению</text></cit></cit>
 <сit type="example"><text>det skjer fyldest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это полностью учитывается</text></cit></cit>
 </sense>

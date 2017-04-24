@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vegg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стена, стенка</text></cit>
 <сit type="example"><text>veggen hang full av malerier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стена была увешана картинами</text></cit></cit>
 <сit type="example"><text>vegg i vegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стена к стене, по соседству</text></cit></cit>
@@ -24,6 +26,8 @@
 <orth type="lemma">vegg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клин</text></cit>
 </sense>
 </entry>

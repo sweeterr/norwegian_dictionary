@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vennskap</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дружба, дружеские отношения</text></cit>
 <сit type="example"><text>et varmt vennskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горячая дружба</text></cit></cit>
 <сit type="example"><text>for vennskaps skyld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ради дружбы</text></cit></cit>

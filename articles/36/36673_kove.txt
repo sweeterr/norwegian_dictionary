@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kove</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чулан, кладовая</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">kove</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хмуриться (о погоде), быть пасмурным (хмурым)</text></cit>
 </sense>
 </entry>

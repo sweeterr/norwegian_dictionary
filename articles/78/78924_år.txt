@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">år</orth>
 <inflection><orth>året, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>год</text></cit>
 <сit type="example"><text>astronomisk år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>астрономический год</text></cit></cit>
 <сit type="example"><text>borgerlig år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гражданский год</text></cit></cit>

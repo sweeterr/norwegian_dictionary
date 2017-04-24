@@ -38,6 +38,8 @@
 <form>
 <orth type="lemma">spiss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпиц (порода собак)</text></cit>
 </sense>
 </entry>
@@ -46,6 +48,8 @@
 <form>
 <orth type="lemma">spiss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приправа (к пище)</text></cit>
 <сit type="example"><text>sette spissen på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приправить пряностями</text></cit></cit>
 </sense>

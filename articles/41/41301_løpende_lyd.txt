@@ -6,6 +6,8 @@
 <orth type="lemma">løpende lyd</orth>
 <inflection><orth extent="part">-en, -er (=)</orth></inflection>
 <usg>комп.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потоковое аудио технология передачи звука, позволяющая прослушивать его по мере поступления данных непосредственно из Сети, без предварительной загрузки всего аудиофайла на локальный компьютер</text></cit>
 </sense>
 </entry>

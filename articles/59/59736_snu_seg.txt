@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">snu seg</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворачиваться, оборачиваться</text></cit>
 <сit type="example"><text>snu på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поворачиваться, перевёртываться</text></cit></cit>
 <сit type="example"><text>vite (forstå) å snu seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уметь перестраиваться, приспосабливаться (к обстоятельствам)</text></cit></cit>

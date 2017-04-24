@@ -6,6 +6,8 @@
 <orth type="lemma">dialekt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>лингв.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наречие, диалект</text></cit>
 <сit type="example"><text>vestlandske dialekter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>западно-норвежские диалекты</text></cit></cit>
 <сit type="example"><text>tale dialekt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить на диалекте</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">merker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маркёр, клеймовщик</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">merker</orth>
 <gramGrp><num>pl</num><note>от mark III</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

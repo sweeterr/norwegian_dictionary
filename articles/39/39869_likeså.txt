@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">likeså</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>также, равным образом, точно также, в такой же степени</text></cit>
 <сit type="example"><text>likeså meget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столько же</text></cit></cit>
 <сit type="example"><text>likeså ..., som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>также как и ...</text></cit></cit>

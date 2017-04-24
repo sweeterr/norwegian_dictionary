@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">sakefall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>ист.</usg>
-<usg>юр.</usg>
+<usg>ист., юр.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доход от полученных штрафных денег</text></cit>
 </sense>
 </entry>

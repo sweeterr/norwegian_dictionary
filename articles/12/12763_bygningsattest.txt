@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bygningsattest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паспорт сооружения (стройки), техническая документация на строительство</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перхоть (у животных)</text></cit>
 </sense>
 </entry>
@@ -28,6 +30,8 @@
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кататься на санях (с гор)</text></cit>
 <сit type="example"><text>åke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться очень медленно, тащиться</text></cit></cit>
 </sense>
@@ -38,6 +42,8 @@
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надевать хомут (ярме) на тягловое животное</text></cit>
 </sense>
 </entry>

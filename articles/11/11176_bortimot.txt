@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bortimot</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почти, приблизительно, примерно, около</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">bortimot</orth>
 <gramGrp><pos>prep</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в направлении к, прямо к</text></cit>
 </sense>
 </entry>

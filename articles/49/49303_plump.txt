@@ -34,6 +34,8 @@
 <form>
 <orth type="lemma">plump</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бултых, шлёп</text></cit>
 </sense>
 </entry>

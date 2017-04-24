@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">måtehold</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умеренность, чувство меры</text></cit>
 <сit type="example"><text>vise måtehold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявлять умеренность (в чём-л.)</text></cit></cit>
 <сit type="example"><text>være uten måtehold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть несдержанным (о человеке)</text></cit></cit>

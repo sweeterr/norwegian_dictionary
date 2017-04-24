@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">beaufortskala</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шкала Бофорта, бофортова шкала, шкала силы ветра</text></cit>
 </sense>
 </entry>

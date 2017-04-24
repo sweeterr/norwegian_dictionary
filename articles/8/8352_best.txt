@@ -22,8 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">best</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl. от god, bra I</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl. от god, bra I</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучший, самый лучший, наилучший, отменный</text></cit>
@@ -56,8 +55,7 @@
 <index></index>
 <form>
 <orth type="lemma">best</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>superl. от godt, bra II</note></gramGrp>
+<gramGrp><pos>adv</pos><note>superl. от godt, bra II</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучше всего, лучше всех</text></cit>
@@ -78,6 +76,8 @@
 <form>
 <orth type="lemma">best</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>best som, best så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как раз когда</text></cit></cit>
 </sense>
 </entry>

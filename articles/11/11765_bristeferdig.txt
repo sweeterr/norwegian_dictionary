@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bristeferdig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готовый лопнуть (сломаться, развалиться), готовый распуститься</text></cit>
 <сit type="example"><text>bristeferdig av gråt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готовый расплакаться (разрыдаться)</text></cit></cit>
 </sense>

@@ -40,6 +40,8 @@
 <form>
 <orth type="lemma">frase</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фразёрствовать</text></cit>
 </sense>
 </entry>
@@ -49,6 +51,8 @@
 <orth type="lemma">frase</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрескивать, шипеть (об огне)</text></cit>
 </sense>
 </entry>
@@ -57,6 +61,8 @@
 <form>
 <orth type="lemma">frase</orth>
 <inflection><orth extent="part">-så, -sett</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не принимать во внимание, не считаться</text></cit>
 </sense>
 </entry>

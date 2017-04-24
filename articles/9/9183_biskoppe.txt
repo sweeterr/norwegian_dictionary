@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">biskoppe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<usg>церк.</usg>
-<usg>уст.</usg>
+<usg>церк., уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конфирмировать</text></cit>
 </sense>
 </entry>

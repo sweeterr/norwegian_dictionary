@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">alen</orth>
 <inflection><orth extent="part">-enen, -ner</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локоть (старинная норвежская мера длины = 0,6275 м)</text></cit>
 <сit type="example"><text>de er to alen av samme stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> (они) одного поля ягода</text></cit></cit>
 <сit type="example"><text>måle med sin egen alen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> мерять других на свой аршин</text></cit></cit>

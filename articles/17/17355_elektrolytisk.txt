@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">elektrolytisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<usg>физ.</usg>
-<usg>хим.</usg>
+<usg>физ., хим.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электролитический</text></cit>
 </sense>
 </entry>

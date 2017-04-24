@@ -6,6 +6,8 @@
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 <usg>зоол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мойва (рыба)</text></cit>
 </sense>
 </entry>
@@ -15,6 +17,8 @@
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носок (надеваемый поверх чулка)</text></cit>
 </sense>
 </entry>
@@ -40,6 +44,8 @@
 <form>
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>lodde ut noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разыграть что-л. по жребию</text></cit></cit>
 </sense>
 </entry>
@@ -48,6 +54,8 @@
 <form>
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-te (-det), -t (-det)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паять, запаивать, припаивать</text></cit>
 <сit type="example"><text>lodde sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спаивать (два куска металла)</text></cit></cit>
 </sense>

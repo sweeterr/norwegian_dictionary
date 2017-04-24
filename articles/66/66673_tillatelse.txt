@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tillatelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрешение, позволение</text></cit>
 <сit type="example"><text>med Deres tillatelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с вашего разрешения</text></cit></cit>
 <сit type="example"><text>be (søke) om tillatelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просить разрешения</text></cit></cit>

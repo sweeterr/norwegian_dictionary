@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">bevegelsesorgan</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<usg>зоол.</usg>
-<usg>анат.</usg>
+<usg>зоол., анат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орган передвижения (ноги, плавники и т. п.)</text></cit>
 </sense>
 </entry>

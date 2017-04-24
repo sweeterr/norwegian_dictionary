@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nedstigende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опускающийся, спускающийся</text></cit>
 <сit type="example"><text>i nedstigende linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по нисходящей линии</text></cit></cit>
 </sense>

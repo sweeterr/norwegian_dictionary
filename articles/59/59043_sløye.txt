@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sløye</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрошить рыбу</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">sløye</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
+</form>
+<sense>
 <сit type = "example"><text>sløye av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> становиться вялым (менее интенсивным)</text></cit></cit>
 <сit type = "example"><text>sløye av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> снижать темпы (работы)</text></cit></cit>
 </sense>

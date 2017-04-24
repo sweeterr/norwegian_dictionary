@@ -4,9 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">glansbille</orth>
-<inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-n, -r</orth></inflection>
 <usg>зоол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестянка</text></cit>
 </sense>
 </entry>

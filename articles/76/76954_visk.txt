@@ -22,6 +22,8 @@
 <form>
 <orth type="lemma">visk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>i en visk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в одно мгновение, мгновенно</text></cit></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">halm</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солома</text></cit>
 <сit type="example"><text>komme fra dynen i halmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> попасть из хорошего положения в плохое ( <lbl>букв.</lbl> попасть с перины на солому)</text></cit></cit>
 </sense>

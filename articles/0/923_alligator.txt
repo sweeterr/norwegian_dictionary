@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">alligator</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аллигатор, кайман (американский крокодил)</text></cit>
 </sense>
 </entry>

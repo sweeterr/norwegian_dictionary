@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">greie</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядок</text></cit>
 <сit type="example"><text>hele greia</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё это дело, вся эта история, всё это вместе взятое</text></cit></cit>
 <сit type="example"><text>få greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
@@ -19,6 +21,8 @@
 <orth type="lemma">greie</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбруя, упряжь</text></cit>
 </sense>
 </entry>

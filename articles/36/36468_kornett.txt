@@ -6,6 +6,8 @@
 <orth type="lemma">kornett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>муз.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корнет</text></cit>
 </sense>
 </entry>
@@ -14,8 +16,9 @@
 <form>
 <orth type="lemma">kornett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>воен.</usg>
-<usg>уст.</usg>
+<usg>воен., уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корнет</text></cit>
 </sense>
 </entry>

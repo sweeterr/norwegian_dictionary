@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">handelsreisende</orth>
+</form>
+<sense>
 <сit type="example"><text>den handelsreisende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коммивояжёр</text></cit></cit>
 <сit type="example"><text>de handelsreisende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коммивояжёры</text></cit></cit>
 </sense>

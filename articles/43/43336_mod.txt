@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">mod</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <ref>mo II</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">mod</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <ref>mo V</ref>
 </sense>
 </entry>

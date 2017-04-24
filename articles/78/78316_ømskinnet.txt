@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ømskinnet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с нежной (легко уязвимой) кожей, чувствительный <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>være ømskinnet for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоиться (о чём-л.), бояться (за что-л.)</text></cit></cit>
 </sense>

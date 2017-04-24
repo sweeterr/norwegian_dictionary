@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">anliggende</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дело, обстоятельство</text></cit>
 <сit type="example"><text>små anliggender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>житейские мелочи</text></cit></cit>
 <сit type="example"><text>statens indre anliggender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внутренние дела страны (государства)</text></cit></cit>

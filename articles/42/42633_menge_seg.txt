@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">menge seg</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смешиваться</text></cit>
 <сit type="example"><text>menge seg med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>якшаться с кем-л.</text></cit></cit>
 <сit type="example"><text>menge seg i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вмешиваться во что-л.</text></cit></cit>

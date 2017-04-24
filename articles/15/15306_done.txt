@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">done</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>силки, навесная ловушка (для птиц)</text></cit>
 <сit type="example"><text>sette doner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить силки</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <orth type="lemma">done</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, гудеть, грохотать</text></cit>
 </sense>
 </entry>

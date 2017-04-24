@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">rorfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>мор.</usg>
-<usg>спорт.</usg>
+<usg>собир., мор., спорт.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребцы, команда гребцов</text></cit>
 </sense>
 </entry>

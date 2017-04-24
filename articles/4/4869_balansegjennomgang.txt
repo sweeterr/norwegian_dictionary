@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">balansegjennomgang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>бизн.</usg>
-<usg>бухг.</usg>
+<usg>бизн., бухг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анализ балансового отчёта</text></cit>
 </sense>
 </entry>

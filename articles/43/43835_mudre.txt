@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">mudre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производить землечерпательные работы</text></cit>
 <сit type = "example"><text>mudre opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> углублять дно землечерпалкой (земснарядом)</text></cit></cit>
 <сit type = "example"><text>mudre opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вычерпывать землечерпалкой</text></cit></cit>

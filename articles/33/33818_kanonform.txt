@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kanonform</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text><lbl>спорт.</lbl> <lbl>разг.</lbl> være i kanonform</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в наилучшей спортивной форме</text></cit></cit>
 </sense>
 </entry>

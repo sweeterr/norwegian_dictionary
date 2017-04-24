@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">trikinsykdom</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<usg>вет.</usg>
-<usg>мед.</usg>
+<usg>вет., мед.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трихинеллёз</text></cit>
 </sense>
 </entry>

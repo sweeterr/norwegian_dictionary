@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">forsett</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цель, намерение, план действия, замысел</text></cit>
 <сit type="example"><text>med forsett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с намерением, преднамеренно</text></cit></cit>
 <сit type="example"><text>fatte et forsett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вознамериться</text></cit></cit>

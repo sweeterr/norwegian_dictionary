@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ein</orth>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопределённый артикль м. р. ед. ч.</text></cit>
 <ref>en III</ref>
 </sense>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">ein</orth>
 <gramGrp><pos>num</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>один</text></cit>
 </sense>
 </entry>

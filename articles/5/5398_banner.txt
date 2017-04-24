@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">banner</orth>
 <inflection><orth extent="part">-et, -e</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знамя, флаг, стяг</text></cit>
 <сit type="example"><text>tjene under ens banner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить под чьим-л. знаменем</text></cit></cit>
 </sense>

@@ -6,6 +6,8 @@
 <orth type="lemma">seks</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>биол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пол</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">seks</orth>
 <gramGrp><pos>num</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шесть</text></cit>
 <сit type="example"><text>si seks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> поразить, вызвать удивление</text></cit></cit>
 </sense>

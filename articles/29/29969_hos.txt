@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hos</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>около, поблизости, рядом</text></cit>
 <сit type="example"><text>være hos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>присутствовать</text></cit></cit>
 </sense>

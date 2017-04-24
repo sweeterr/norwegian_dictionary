@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">dakapo</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бис! (возглас)</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">dakapo</orth>
 <gramGrp><pos>adv</pos></gramGrp>
 <usg>муз.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повторно, на бис</text></cit>
 <сit type="example"><text>spille dakapo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на бис</text></cit></cit>
 </sense>

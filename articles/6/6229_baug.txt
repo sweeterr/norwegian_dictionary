@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">baug</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нос корабля, носовая часть</text></cit>
 <сit type="example"><text>legge over på den annen baug</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> ложиться на другой галс</text></cit></cit>
 <сit type="example"><text>møtes baug i baug</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встретиться носом к носу, прямо друг против друга</text></cit></cit>
@@ -19,6 +21,8 @@
 <orth type="lemma">baug</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо, круг</text></cit>
 </sense>
 </entry>

@@ -6,6 +6,8 @@
 <orth type="lemma">velkommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желанный</text></cit>
 <сit type="example"><text>(vær) velkommen!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добро пожаловать!</text></cit></cit>
 <сit type="example"><text>by (hilse, ønske) velkommen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приветствовать (гостей) словами «добро пожаловать!»</text></cit></cit>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">kapitel</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<usg>архит.</usg>
-<usg>полигр.</usg>
+<usg>архит., полигр.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитель</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">gjennomblåse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продуть</text></cit>
 <сit type="example"><text>vi ble gjennomblåst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нас продуло насквозь</text></cit></cit>
 </sense>

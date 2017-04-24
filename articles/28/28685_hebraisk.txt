@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hebraisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древнееврейский</text></cit>
 <сit type="example"><text>dette er hebraisk for meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это для меня китайская грамота</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">beite</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насадка, наживка (на крючок удочки)</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">beite</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастбище, выгон (для скота)</text></cit>
 <сit type="example"><text>gå på beite, ta beite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пастись</text></cit></cit>
 <сit type="example"><text>slippe kreaturene inn på beite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выгонять скот на пастбище</text></cit></cit>
@@ -24,6 +28,8 @@
 <orth type="lemma">beite</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упряжка парой лошадей</text></cit>
 <сit type="example"><text>kjøre et beite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать в экипаже, запряжённом парой</text></cit></cit>
 <сit type="example"><text>gå i beite med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти в паре</text></cit></cit>
@@ -50,6 +56,8 @@
 <form>
 <orth type="lemma">beite</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрягать лошадей (в - for), выпрягать лошадей (из - fra)</text></cit>
 </sense>
 </entry>

@@ -21,6 +21,8 @@
 <form>
 <orth type="lemma">omvendt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наоборот</text></cit>
 </sense>
 </entry>

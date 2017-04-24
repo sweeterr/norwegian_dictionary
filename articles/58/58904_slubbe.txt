@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">slubbe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>slubb</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">slubbe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>текст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тростить</text></cit>
 </sense>
 </entry>

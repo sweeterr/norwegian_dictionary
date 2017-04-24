@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bore seg</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробиваться, пробивать себе дорогу</text></cit>
 <сit type="example"><text>bore seg fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробиться, протиснуться вперёд</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kapsun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узда, уздечка с удилами</text></cit>
 <сit type="example"><text>legge kapsun på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> надеть узду на кого-л.; держать кого-л. в своих руках</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lik</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покойник, мертвец, труп</text></cit>
 <сit type="example"><text>et levende lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живой труп</text></cit></cit>
 <сit type="example"><text>ble(i)k som et lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бледный как мертвец</text></cit></cit>
@@ -18,6 +20,8 @@
 <orth type="lemma">lik</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ликтрос, шкаторина</text></cit>
 <сit type="example"><text>stående lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передняя (стоячая) шкаторина</text></cit></cit>
 </sense>

@@ -20,6 +20,8 @@
 <form>
 <orth type="lemma">lenge</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удлинять</text></cit>
 <сit type="example"><text>lenges</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удлиняться, становиться длинней</text></cit></cit>
 </sense>
@@ -29,6 +31,8 @@
 <form>
 <orth type="lemma">lenge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text><lbl>мор.</lbl> lenge an</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зачалить канатом, тросом (груз)</text></cit></cit>
 </sense>
 </entry>

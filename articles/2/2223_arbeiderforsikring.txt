@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">arbeiderforsikring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страхование рабочих (на случай болезни, увечья, старости, безработицы)</text></cit>
 </sense>
 </entry>

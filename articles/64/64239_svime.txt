@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">svime</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головокружение, обморок</text></cit>
 <сit type="example"><text>falle i svime</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть в обморок</text></cit></cit>
 <сit type="example"><text>slå i svime</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довести до обморока</text></cit></cit>

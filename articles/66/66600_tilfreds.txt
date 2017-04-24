@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tilfreds</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>довольный, удовлетворённый</text></cit>
 <сit type="example"><text>jeg var tilfreds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я был бы доволен, если бы ...; хотелось бы ...</text></cit></cit>
 <сit type="example"><text>stille én tilfreds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удовлетворить кого-л.; ублажить кого-л.</text></cit></cit>

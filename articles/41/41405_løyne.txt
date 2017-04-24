@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">løyne</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрывать, (с)прятать</text></cit>
 <сit type="example"><text>fare løynt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уехать тайком, скрыться</text></cit></cit>
 </sense>

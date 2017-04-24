@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">oven</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверху, вверху</text></cit>
 <сit type="example"><text>fra oven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сверху вниз</text></cit></cit>
 <сit type="example"><text>oven i kjøpet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в придачу, сверх того, к тому же</text></cit></cit>

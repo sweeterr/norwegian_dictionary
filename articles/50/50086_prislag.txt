@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">prislag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>i alle prislag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на любые цены, в любую цену</text></cit></cit>
 </sense>
 </entry>

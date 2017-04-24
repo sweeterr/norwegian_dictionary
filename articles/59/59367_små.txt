@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">små</orth>
-<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><pos>adj</pos><num>pl</num><note>от liten, lille, vesle</note></gramGrp>
 <inflection><orth extent="part">-tt</orth></inflection>
-<gramGrp><num>pl</num><note>от liten, lille, vesle</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленькие:</text></cit>

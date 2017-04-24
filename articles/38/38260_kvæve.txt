@@ -6,6 +6,8 @@
 <orth type="lemma">kvæve</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-a (</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 )
 <ref>kvev II</ref>
 </sense>
@@ -15,6 +17,8 @@
 <form>
 <orth type="lemma">kvæve</orth>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <ref>kveve II</ref>
 </sense>
 </entry>
@@ -23,6 +27,8 @@
 <form>
 <orth type="lemma">kvæve</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
+</form>
+<sense>
 <ref>kveve III</ref>
 </sense>
 </entry>

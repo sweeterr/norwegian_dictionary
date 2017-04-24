@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">knakfryse</orth>
+</form>
+<sense>
 <сit type = "example"><text>det knakfryser :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> мороз трещит</text></cit></cit>
 <сit type = "example"><text>det knakfryser :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> снег хрустит под ногами</text></cit></cit>
 </sense>

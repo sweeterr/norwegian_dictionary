@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">derav</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отсюда, из (всего) этого</text></cit>
 <сit type="example"><text>derav følger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из этого следует</text></cit></cit>
 <сit type="example"><text>det kommer derav</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из этого вытекает</text></cit></cit>

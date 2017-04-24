@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vannogbrød</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>sitte på vannogbrød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> сидеть на воде и хлебе</text></cit></cit>
 </sense>
 </entry>

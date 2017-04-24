@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">oho!</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ого!, ara!</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ester</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
+</form>
+<sense>
 <ref>estlender</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">ester</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
 <usg>хим.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сложный эфир</text></cit>
 </sense>
 </entry>

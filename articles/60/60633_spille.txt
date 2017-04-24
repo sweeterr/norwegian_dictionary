@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">spille</orth>
 <inflection><orth extent="part">-t (-n)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трата, потеря (сил, энергии), непроизводительный расход</text></cit>
 <сit type="example"><text>gå til spille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тратиться (расходоваться) попусту, пойти прахом</text></cit></cit>
 </sense>

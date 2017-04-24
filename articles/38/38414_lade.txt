@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lade</orth>
 <inflection><orth extent="part">-n (-t), -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амбар, рига, сарай</text></cit>
 <сit type="example"><text>samle i lader</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>копить добро (имущество)</text></cit></cit>
 </sense>
@@ -28,6 +30,8 @@
 <form>
 <orth type="lemma">lade</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
+</form>
+<sense>
 <ref>la II</ref>
 </sense>
 </entry>

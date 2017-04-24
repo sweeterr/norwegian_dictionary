@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">elte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>месить, замесить</text></cit>
 <сit type="example"><text>elte en i snøen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вывалять в снегу (кого-л.)</text></cit></cit>
 </sense>

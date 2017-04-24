@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ile</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>источник, ключ</text></cit>
 </sense>
 </entry>
@@ -27,6 +29,8 @@
 <orth type="lemma">ile</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завалинка, стена из дёрна (вокруг землянки или погреба)</text></cit>
 </sense>
 </entry>
@@ -35,6 +39,8 @@
 <form>
 <orth type="lemma">ile</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мчаться, нестись, спешить, торопиться</text></cit>
 <сit type="example"><text>ile til hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спешить на помощь</text></cit></cit>
 <сit type="example"><text>tiden iler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время летит</text></cit></cit>

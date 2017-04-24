@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">brusk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрящ</text></cit>
 </sense>
 </entry>
@@ -12,6 +14,8 @@
 <index></index>
 <form>
 <orth type="lemma">brusk</orth>
+</form>
+<sense>
 <ref>brysk</ref>
 </sense>
 </entry>

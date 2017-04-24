@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kikk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
+</form>
+<sense>
 <ref>kik</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">kikk</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывих</text></cit>
 </sense>
 </entry>

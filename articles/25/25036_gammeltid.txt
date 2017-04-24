@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">gammeltid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стародавние времена</text></cit>
 <сit type="example"><text>fra gammeltide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>поэт.</lbl> с древнейших времён</text></cit></cit>
 </sense>

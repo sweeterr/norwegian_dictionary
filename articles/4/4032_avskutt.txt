@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">avskutt</orth>
 <gramGrp><tns>p.p.</tns><note>от avskyte</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простреленный, отстреленный</text></cit>
 <сit type="example"><text>han fikk armen avskutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него прострелена рука</text></cit></cit>
 </sense>

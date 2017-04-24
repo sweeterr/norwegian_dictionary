@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">neste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближний</text></cit>
 <сit type="example"><text>elsk din neste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возлюби ближнего своего</text></cit></cit>
 </sense>
@@ -13,8 +15,7 @@
 <index></index>
 <form>
 <orth type="lemma">neste</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl от nær I)</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl от nær I)</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближайший, соседний</text></cit>
@@ -29,6 +30,8 @@
 <form>
 <orth type="lemma">neste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать стежки, смётывать (о ткани)</text></cit>
 </sense>
 </entry>

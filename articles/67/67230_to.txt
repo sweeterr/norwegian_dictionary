@@ -6,6 +6,8 @@
 <orth type="lemma">to</orth>
 <inflection><orth>toa, tær</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палец на ноге</text></cit>
 <сit type="example"><text>på to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на задних лапах</text></cit></cit>
 </sense>
@@ -30,6 +32,8 @@
 <form>
 <orth type="lemma">to</orth>
 <inflection><orth>toa, tør</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уступ горы (поросший травой)</text></cit>
 </sense>
 </entry>
@@ -38,6 +42,8 @@
 <form>
 <orth type="lemma">to</orth>
 <gramGrp><pos>num</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>два</text></cit>
 <сit type="example"><text>begge to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оба</text></cit></cit>
 <сit type="example"><text>to og to</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дважды два</text></cit></cit>

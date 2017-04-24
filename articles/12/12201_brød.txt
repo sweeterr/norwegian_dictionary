@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">brød</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлеб</text></cit>
 <сit type="example"><text>ferskt brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (мягкий) хлеб</text></cit></cit>
 <сit type="example"><text>hjemmebakt brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хлеб домашнего печения</text></cit></cit>
@@ -31,6 +33,8 @@
 <orth type="lemma">brød</orth>
 <usg>диал.</usg>
 <gramGrp><tns>pret</tns><note>от bry II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

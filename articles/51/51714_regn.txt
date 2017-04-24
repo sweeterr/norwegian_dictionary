@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">regn</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дождь</text></cit>
 <сit type="example"><text>det blir regn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сейчас пойдёт дождь</text></cit></cit>
 <сit type="example"><text>det ser ut til regn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>похоже, будет дождь</text></cit></cit>

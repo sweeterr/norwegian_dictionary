@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">føye</orth>
+</form>
+<sense>
 <сit type="example"><text> med føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с полным правом, на полном основании</text></cit></cit>
 <сit type="example"><text>uten føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>необоснованно</text></cit></cit>
 <сit type="example"><text>alle til føye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покоряться, подчиняться</text></cit></cit>
@@ -16,6 +18,8 @@
 <orth type="lemma">føye</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малюсенький, крошечный, незначительный</text></cit>
 <сit type="example"><text>om føye tid (stund)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через мгновение, скоро</text></cit></cit>
 </sense>

@@ -38,6 +38,8 @@
 <form>
 <orth type="lemma">stikk</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, как раз</text></cit>
 <сit type="example"><text>stikk mot oss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо на нас</text></cit></cit>
 <сit type="example"><text>i stikk motsatt retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в (прямо) противоположном направлении</text></cit></cit>

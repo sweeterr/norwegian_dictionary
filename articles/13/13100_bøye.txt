@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bøye</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <ref>bøy II</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">bøye</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буй, веха, маяк</text></cit>
 </sense>
 </entry>

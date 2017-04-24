@@ -6,6 +6,8 @@
 <orth type="lemma">få</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth>(komp færre, superl færrest)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немногие, небольшое количество, несколько</text></cit>
 <сit type="example"><text>ikke få</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не малое число, не малое количество</text></cit></cit>
 <сit type="example"><text>i få ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в нескольких словах</text></cit></cit>
@@ -17,6 +19,8 @@
 <form>
 <orth type="lemma">få</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немногие, мало</text></cit>
 </sense>
 </entry>
@@ -102,6 +106,8 @@
 <orth type="lemma">få</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размачивать, мочить (лен, коноплю)</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sykehus</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больница, лечебница, госпиталь</text></cit>
 <сit type="example"><text>kjøre noen på sykehuset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправить (отвезти) кого-л. в больницу</text></cit></cit>
 </sense>

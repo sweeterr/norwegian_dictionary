@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">følgje</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
+</form>
+<sense>
 <ref>følge I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">følgje</orth>
 <inflection><orth>følgte, følgt</orth></inflection>
+</form>
+<sense>
 <ref>følge III</ref>
 </sense>
 </entry>

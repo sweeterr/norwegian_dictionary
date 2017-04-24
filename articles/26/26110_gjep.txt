@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">gjep</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухмылка, гримаса</text></cit>
 <сit type="example"><text>dra på gjepen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скривить губы (перед плачем, в знак презрения)</text></cit></cit>
 </sense>

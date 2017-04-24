@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">bysse</orth>
 <inflection><orth extent="part">-a (-en) -er</orth></inflection>
-<usg>мор.</usg>
-<usg>разг.</usg>
+<usg>мор., разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камбуз</text></cit>
 </sense>
 </entry>
@@ -15,6 +16,8 @@
 <form>
 <orth type="lemma">bysse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыбель, кроватка</text></cit>
 </sense>
 </entry>
@@ -23,6 +26,8 @@
 <form>
 <orth type="lemma">bysse</orth>
 <inflection><orth extent="part">-ser (-te, -sa), -set (-t, -sa)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укачивать, убаюкивать, баюкать (ребёнка)</text></cit>
 <сit type="example"><text>bysse, bysse, by!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баю-баюшки-баю!</text></cit></cit>
 </sense>

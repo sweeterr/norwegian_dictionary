@@ -33,6 +33,8 @@
 <form>
 <orth type="lemma">stein</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, абсолютно</text></cit>
 <сit type="example"><text>stein død</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всяких признаков жизни</text></cit></cit>
 </sense>

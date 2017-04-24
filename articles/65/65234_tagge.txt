@@ -6,6 +6,8 @@
 <orth type="lemma">tagge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>комп.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расставлять теги, помечать раздел документа командами форматирования</text></cit>
 </sense>
 </entry>

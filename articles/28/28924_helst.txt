@@ -4,8 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">helst</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>superl от gjerne</note></gramGrp>
+<gramGrp><pos>adv</pos><note>superl от gjerne</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преимущественно, по преимуществу, лучше (охотнее) всего</text></cit>

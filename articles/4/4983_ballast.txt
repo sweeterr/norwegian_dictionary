@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">ballast</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>ав.</usg>
-<usg>ж.-д.</usg>
-<usg>мор.</usg>
+<usg>ав., ж.-д., мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балласт</text></cit>
 <сit type="example"><text>skyte ballast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> <lbl>уст.</lbl> сбрасывать балласт</text></cit></cit>
 <сit type="example"><text>han mangler åndelig ballast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он бессодержательный человек</text></cit></cit>

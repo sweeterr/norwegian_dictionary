@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sørge</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горевать, скорбеть</text></cit>
 <сit type = "example"><text>sørge for :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заботиться о чём-л.</text></cit></cit>
 <сit type = "example"><text>sørge for :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> смотреть за чем-л.</text></cit></cit>

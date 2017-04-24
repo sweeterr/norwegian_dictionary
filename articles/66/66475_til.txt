@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">til</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ещё</text></cit>
 <сit type="example"><text>av og til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время от времени; иногда</text></cit></cit>
 <сit type="example"><text>fra og til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>туда и сюда, взад и вперёд</text></cit></cit>
@@ -101,6 +103,8 @@
 <form>
 <orth type="lemma">til</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пока (не), до тех пор пока (не)</text></cit>
 </sense>
 </entry>

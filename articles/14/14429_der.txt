@@ -57,6 +57,8 @@
 <form>
 <orth type="lemma">der</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>там где</text></cit>
 </sense>
 </entry>

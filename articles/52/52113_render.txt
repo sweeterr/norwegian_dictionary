@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">render</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num><note>от rand</note></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

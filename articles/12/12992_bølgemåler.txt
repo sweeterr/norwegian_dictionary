@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bølgemåler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волномер, частотомер</text></cit>
 </sense>
 </entry>

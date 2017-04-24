@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">trappe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <ref>trapp I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">trappe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>trapp III</ref>
 </sense>
 </entry>

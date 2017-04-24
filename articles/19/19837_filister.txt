@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">filister</orth>
 <inflection><orth extent="part">-eren, -ere(r) (-rer)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мещанин, обыватель, человек с узким кругозором, филистер</text></cit>
 <сit type="example"><text>en politisk filister</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>политический филистер, обыватель в политических вопросах</text></cit></cit>
 </sense>

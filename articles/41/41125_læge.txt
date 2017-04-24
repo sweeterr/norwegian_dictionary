@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">læge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>lege I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">læge</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
+</form>
+<sense>
 <ref>leie II</ref>
 </sense>
 </entry>
@@ -21,6 +25,8 @@
 <form>
 <orth type="lemma">læge</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <ref>lege II</ref>
 </sense>
 </entry>

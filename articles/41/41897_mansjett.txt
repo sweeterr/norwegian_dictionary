@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">mansjett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манжета <lbl>тж.</lbl> <lbl>тех.</lbl></text></cit>
 <сit type="example"><text>faste (bløte, løse, stive(de)) mansjetter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пришитые (мягкие, пристёгивающиеся, накрахмаленные) манжеты</text></cit></cit>
 <сit type="example"><text>støte én på mansjett (e)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оскорбить, обидеть кого-л.</text></cit></cit>

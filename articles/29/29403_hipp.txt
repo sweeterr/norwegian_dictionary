@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hipp</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колкий (ядовитый) намёк</text></cit>
 </sense>
 </entry>
@@ -12,6 +14,8 @@
 <index></index>
 <form>
 <orth type="lemma">hipp</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>hipp som happ <lbl>разг.</lbl> что в лоб, что по лбу; всё едино; то же на то же</text></cit>
 </sense>
 </entry>

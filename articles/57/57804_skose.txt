@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">skose</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язвительность, колкость, шпилька</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">skose</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-er (-te),</text></cit>
 <inflection><orth extent="part">-et (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить колкости, язвить</text></cit>
 </sense>
 </entry>

@@ -20,6 +20,8 @@
 <orth type="lemma">sule</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>såle I</ref>
 </sense>
 </entry>
@@ -28,6 +30,8 @@
 <form>
 <orth type="lemma">sule</orth>
 <inflection><orth extent="part">-te (-et, -a), -t (-et, -a)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>sule opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сматывать удочки <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>

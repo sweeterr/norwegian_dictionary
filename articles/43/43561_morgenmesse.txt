@@ -6,6 +6,8 @@
 <orth type="lemma">morgenmesse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <usg>церк.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заутреня</text></cit>
 <сit type="example"><text>synge morgenmesse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь заутреню</text></cit></cit>
 </sense>

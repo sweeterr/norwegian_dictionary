@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tie</orth>
 <inflection><orth>tidde (tiet, taug), tidd (tiet)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молчать, замолчать, замолкнуть, промолчать</text></cit>
 <сit type="example"><text>få til å tie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить замолчать</text></cit></cit>
 <сit type="example"><text>tie stille med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать что-л. в секрете</text></cit></cit>

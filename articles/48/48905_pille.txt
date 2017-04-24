@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">pille</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пилюля</text></cit>
 <сit type="example"><text>få ned (svelge) en pille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проглотить пилюлю</text></cit></cit>
 <сit type="example"><text>sukre pillen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> позолотить (подсластить) пилюлю</text></cit></cit>
@@ -65,6 +67,8 @@
 <form>
 <orth type="lemma">pille</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
+</form>
+<sense>
 <сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> скрыться, смыться (тж. pille bort, pille vekk)</text></cit></cit>
 <сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> умереть</text></cit></cit>
 </sense>

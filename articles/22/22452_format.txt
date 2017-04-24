@@ -6,6 +6,8 @@
 <orth type="lemma">format</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>fórmat</text></cit>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закуска, первое блюдо (в обеде)</text></cit>
 </sense>
 </entry>
@@ -15,6 +17,8 @@
 <orth type="lemma">format</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>formát</text></cit>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формат, размер</text></cit>
 <сit type="example"><text>i lite(stort) format</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небольшого (большого) формата</text></cit></cit>
 </sense>

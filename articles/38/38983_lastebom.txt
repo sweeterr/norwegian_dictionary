@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">lastebom</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<usg>мор.</usg>
-<usg>редко</usg>
+<usg>мор., редко</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузовая стрела</text></cit>
 </sense>
 </entry>

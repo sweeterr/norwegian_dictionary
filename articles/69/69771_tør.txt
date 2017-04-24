@@ -4,14 +4,18 @@
 <index></index>
 <form>
 <orth type="lemma">tør</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num><note>от to III</note></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+</form>
+<sense>
 </sense>
 </entry><entry>
 <index></index>
 <form>
 <orth type="lemma">tør</orth>
 <gramGrp><tns>pres</tns><note>от tore II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

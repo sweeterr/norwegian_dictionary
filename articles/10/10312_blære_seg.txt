@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">blære seg</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>blære seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вздуваться, появляться (о волдырях)</text></cit></cit>
 <сit type="example"><text>blære seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надуваться (о парусах)</text></cit></cit>
 </sense>

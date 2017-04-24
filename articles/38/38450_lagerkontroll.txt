@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lagerkontroll</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контроль отпуска товаров со склада, учёт товаров на складе</text></cit>
 </sense>
 </entry>

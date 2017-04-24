@@ -57,6 +57,8 @@
 <orth type="lemma">spill</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брашпиль, лебёдка, ворот, шпиль</text></cit>
 </sense>
 </entry>
@@ -65,6 +67,8 @@
 <form>
 <orth type="lemma">spill</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>spill levende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем как живой</text></cit></cit>
 <сit type="example"><text>spill naken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно голый</text></cit></cit>
 <сit type="example"><text>spill våken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем проснувшийся</text></cit></cit>

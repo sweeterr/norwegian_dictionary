@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lerke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>lerk</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">lerke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <usg>зоол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(полевой) жаворонок</text></cit>
 <сit type="example"><text>blid som en lerke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жизнерадостный (весёлый) как жаворонок</text></cit></cit>
 </sense>
@@ -23,6 +27,8 @@
 <form>
 <orth type="lemma">lerke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоская карманная бутылка, фляга</text></cit>
 </sense>
 </entry>

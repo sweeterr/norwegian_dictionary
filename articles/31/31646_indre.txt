@@ -23,6 +23,8 @@
 <orth type="lemma">indre</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth>(komp innerst)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутренний</text></cit>
 </sense>
 </entry>
@@ -31,6 +33,8 @@
 <form>
 <orth type="lemma">indre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сшивать двойным скрытым швом</text></cit>
 </sense>
 </entry>

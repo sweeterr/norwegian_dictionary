@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sagnsamling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание преданий (сказаний, легенд)</text></cit>
 </sense>
 </entry>

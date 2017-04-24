@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">medvirkning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>содействие</text></cit>
 <сit type="example"><text>yte sin medvirkning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать содействие (в чём-л. - til)</text></cit></cit>
 </sense>

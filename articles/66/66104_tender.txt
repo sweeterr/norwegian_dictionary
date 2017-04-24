@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">tender</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<usg>мор.</usg>
-<usg>ж.-д.</usg>
+<usg>мор., ж.-д.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тендер</text></cit>
 </sense>
 </entry>
@@ -15,6 +16,8 @@
 <form>
 <orth type="lemma">tender</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
+</form>
+<sense>
 <ref>fenner I</ref>
 </sense>
 </entry>

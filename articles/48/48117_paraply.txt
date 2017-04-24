@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">paraply</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дождевой зонтик</text></cit>
 <сit type="example"><text>med nedslått paraply</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с закрытым зонтиком</text></cit></cit>
 <сit type="example"><text>slå opp en paraply</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскрывать зонтик</text></cit></cit>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">jordforbindelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<usg>эл.</usg>
-<usg>радио</usg>
+<usg>эл., радио</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заземление</text></cit>
 </sense>
 </entry>

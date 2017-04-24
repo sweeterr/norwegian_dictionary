@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">la</orth>
 <usg>муз.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ля (нота)</text></cit>
 </sense>
 </entry>
@@ -46,6 +48,8 @@
 <form>
 <orth type="lemma">la</orth>
 <inflection><orth>lot, latt</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в повелительном наклонении с последующим инфинитивом смыслового глагола выражает приказание, предложение, побуждение:</text></cit>
 <сit type="example"><text>la det være</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пусть будет так</text></cit></cit>
 <сit type="example"><text>la ham komme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пусть он придёт</text></cit></cit>
@@ -63,6 +67,8 @@
 <form>
 <orth type="lemma">la</orth>
 <gramGrp><tns>pret</tns><note>от legge</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

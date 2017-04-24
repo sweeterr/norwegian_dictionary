@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">selvsamme</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тот же самый</text></cit>
 </sense>
 </entry>

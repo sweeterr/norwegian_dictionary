@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">jafs</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>i en jafs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одним глотком</text></cit></cit>
 </sense>
 </entry>

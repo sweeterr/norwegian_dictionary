@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">høylass</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воз сена</text></cit>
 <сit type="example"><text>en nål i et høylass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иголка в стоге сена</text></cit></cit>
 </sense>

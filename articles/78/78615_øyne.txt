@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">øyne</orth>
 <gramGrp><num>pl</num><note>от øye</note></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>for alles øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у всех на глазах</text></cit></cit>
 <сit type="example"><text>med øyne i nakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во все глаза</text></cit></cit>
 <сit type="example"><text>anstrenge sine øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрягать зрение</text></cit></cit>

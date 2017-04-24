@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">morfologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>биол.</usg>
-<usg>мин.</usg>
-<usg>лингв.</usg>
+<usg>биол., мин., лингв.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морфология</text></cit>
 </sense>
 </entry>

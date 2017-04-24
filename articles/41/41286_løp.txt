@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">løp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянный ящичек с ручкой</text></cit>
 </sense>
 </entry>
@@ -50,8 +52,7 @@
 <сit type="example"><text>tilføre løpet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закончить бег</text></cit></cit>
 </sense>
 <sense>
-<usg>спорт.</usg>
-<usg>мор.</usg>
+<usg>спорт., мор.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проплыв, заплыв, парусные соревнования</text></cit>
 </sense>
 <sense>
@@ -75,6 +76,8 @@
 <form>
 <orth type="lemma">løp</orth>
 <gramGrp><tns>pret</tns><note>от løpe II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

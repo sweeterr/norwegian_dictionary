@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">sundpenger</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
+</form>
+<sense>
 <ref>sundtoll</ref>
 </sense>
 </entry>

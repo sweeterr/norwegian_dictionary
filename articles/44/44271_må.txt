@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">må</orth>
 <gramGrp><tns>pres</tns><note>от måtte</note></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>må hende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>должно быть (вероятно)</text></cit></cit>
 <сit type="example"><text>må tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотел бы я знать, интересно</text></cit></cit>
 <сit type="example"><text>må tro om det er sant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотел бы я знать, правда ли это</text></cit></cit>

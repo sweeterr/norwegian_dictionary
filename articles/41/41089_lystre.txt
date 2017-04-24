@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lystre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить рыбу острогой (ручным гарпуном)</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">lystre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слушаться, повиноваться, подчиняться</text></cit>
 <сit type="example"><text>lystre ror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> слушаться руля</text></cit></cit>
 </sense>

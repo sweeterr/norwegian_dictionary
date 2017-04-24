@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bløte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <ref>bløyte I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">bløte</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <ref>bløyte II</ref>
 </sense>
 </entry>

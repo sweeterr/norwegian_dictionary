@@ -54,8 +54,7 @@
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>область (знаний деятельности)</text></cit>
 </sense>
 <sense>
-<usg>перен.</usg>
-<usg>поэт.</usg>
+<usg>перен., поэт.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царство</text></cit>
 <сit type="example"><text>mørkets land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>царство тьмы</text></cit></cit>
 <сit type="example"><text>i drømmenes land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в царстве грёз</text></cit></cit>
@@ -71,6 +70,8 @@
 <orth type="lemma">land</orth>
 <inflection><orth extent="part">-et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навозная жижа</text></cit>
 </sense>
 </entry>

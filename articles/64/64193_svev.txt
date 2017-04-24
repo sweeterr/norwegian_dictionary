@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">svev</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <ref>sveiv I</ref>
 </sense>
 </entry>
@@ -27,6 +29,8 @@
 <form>
 <orth type="lemma">svev</orth>
 <gramGrp><tns>pret</tns><note>от svive</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hvermann</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каждый, любой, кто угодно</text></cit>
 </sense>
 </entry>

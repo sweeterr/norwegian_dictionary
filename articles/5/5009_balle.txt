@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">balle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кипа, тюк (хлопка, бумаги и т. п.)</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">balle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упаковывать, запаковывать, связывать в свёрток</text></cit>
 <сit type="example"><text>balle noe i hop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>связывать что-л. в узел, упаковывать что-л.</text></cit></cit>
 <сit type="example"><text>balle på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кутаться</text></cit></cit>

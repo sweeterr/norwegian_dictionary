@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">li</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поросший лесом (травой) горный склон</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">li</orth>
 <inflection><orth>lidde (le(i)d), lidd</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходить, течь, идти (о времени)</text></cit>
 <сit type="example"><text>dagen le(i)d og skre(i)d</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>день клонился к вечеру</text></cit></cit>
 <сit type="example"><text>det le(i)d langt på høsten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было поздней осенью</text></cit></cit>

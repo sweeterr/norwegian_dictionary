@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">flaske</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутылка</text></cit>
 <сit type="example"><text>fylle en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наполнить бутылку</text></cit></cit>
 <сit type="example"><text>sette kork i en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закупорить бутылку</text></cit></cit>
@@ -19,6 +21,8 @@
 <form>
 <orth type="lemma">flaske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>flaske opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкормить, вырастить (ребёнка), взрастить, воспитать</text></cit></cit>
 </sense>
 </entry>

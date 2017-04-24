@@ -21,6 +21,8 @@
 <form>
 <orth type="lemma">prompt(e)</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немедленно, незамедлительно, без задержки, в срок</text></cit>
 </sense>
 </entry>

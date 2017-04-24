@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bør</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попутный ветер</text></cit>
 <сit type="example"><text>få (ha) bør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти (плыть) с попутным ветром</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <orth type="lemma">bør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>анат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>матка (млекопитающих)</text></cit>
 </sense>
 </entry>
@@ -49,6 +53,8 @@
 <form>
 <orth type="lemma">bør</orth>
 <gramGrp><tns>pres</tns><note>от burde</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

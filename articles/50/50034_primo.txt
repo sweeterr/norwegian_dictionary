@@ -6,6 +6,8 @@
 <orth type="lemma">primo</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>муз.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дискант</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <index></index>
 <form>
 <orth type="lemma">primo</orth>
+</form>
+<sense>
 <сit type="example"><text> primo september (oktober и т. д.)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с первого по десятое сентября (октября и т. д.)</text></cit></cit>
 </sense>
 </entry>

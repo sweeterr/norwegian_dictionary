@@ -6,6 +6,8 @@
 <orth type="lemma">differensial</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
 <usg>мат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дифференциал</text></cit>
 </sense>
 </entry>
@@ -15,6 +17,8 @@
 <orth type="lemma">differensial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <usg>мат.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дифференциальный</text></cit>
 </sense>
 </entry>

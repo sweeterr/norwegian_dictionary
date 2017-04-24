@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">granulasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>мед.</usg>
-<usg>тех.</usg>
-<usg>хим.</usg>
+<usg>мед., тех., хим.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грануляция, гранулирование</text></cit>
 </sense>
 </entry>

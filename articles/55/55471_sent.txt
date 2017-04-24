@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sent</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поздно</text></cit>
 <сit type="example"><text>sent eller tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рано или поздно, в конце концов</text></cit></cit>
 <сit type="example"><text>sent og tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в любое время, постоянно</text></cit></cit>

@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">barfot</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><pos>predic</pos><note>тк.</note></gramGrp>
+<gramGrp><pos>adj, predic</pos><note>тк.</note></gramGrp>
+</form>
+<sense>
 <ref>barfotet</ref>
 </sense>
 </entry>

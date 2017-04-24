@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ne</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ущерб (луны)</text></cit>
 <сit type="example"><text>være i ne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ущербе (о луне)</text></cit></cit>
 <сit type="example"><text>i ny og ne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изредка, время от времени; иногда</text></cit></cit>

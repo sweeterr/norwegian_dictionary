@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hurra</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик «ура»</text></cit>
 <сit type="example"><text>et rungende hurra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громовое ура</text></cit></cit>
 <сit type="example"><text>utbringe et tre ganger tre hurra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провозгласить троекратное ура</text></cit></cit>
@@ -16,6 +18,8 @@
 <orth type="lemma">hurra</orth>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>hurra!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ура!</text></cit>
 <сit type="example"><text>hurra for én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать ура кому-л. (чему-л.)</text></cit></cit>
 <сit type="example"><text>rope hurra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать ура</text></cit></cit>

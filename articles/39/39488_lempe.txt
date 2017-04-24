@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lempe</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожность, мягкость, такт</text></cit>
 <сit type="example"><text>med lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осторожно, мягко</text></cit></cit>
 <сit type="example"><text>med (ved) list og lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитро и осторожно</text></cit></cit>
@@ -24,8 +26,7 @@
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передвигать, сдвигать (что-л. тяжёлое), <lbl>разг.</lbl> подталкивать, толкать (кого-л.)</text></cit>
 </sense>
 <sense>
-<usg>мор.</usg>
-<usg>разг.</usg>
+<usg>мор., разг.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырять, бросать</text></cit>
 <сit type="example"><text>lempe dekkslast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбросить палубный груз за борт</text></cit></cit>
 <сit type="example"><text>lempe på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смягчать, облегчать, ослаблять</text></cit></cit>

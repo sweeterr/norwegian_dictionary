@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">spillopp</orth>
-<inflection><orth extent="part">-en, -er</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутки, проделки, проказы, выходки</text></cit>
 <сit type="example"><text>gjøre spillopper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подшутить над кем-л.</text></cit></cit>
 </sense>

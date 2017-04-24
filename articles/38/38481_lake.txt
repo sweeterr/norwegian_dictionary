@@ -19,6 +19,8 @@
 <orth type="lemma">lake</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
 <usg>зоол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>налим</text></cit>
 </sense>
 </entry>
@@ -46,6 +48,8 @@
 <form>
 <orth type="lemma">lake</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>класть в рассол, засаживать</text></cit>
 </sense>
 </entry>

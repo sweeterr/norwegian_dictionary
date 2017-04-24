@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">skolegang</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обучение в школе</text></cit>
 <сit type="example"><text>obligatorisk skolegang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обязательное обучение</text></cit></cit>
 </sense>

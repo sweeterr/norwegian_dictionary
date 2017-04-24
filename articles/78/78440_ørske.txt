@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ørske</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бред</text></cit>
 <сit type="example"><text>i ørske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в бреду, бессознательно</text></cit></cit>
 </sense>

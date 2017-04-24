@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">meslinger</orth>
 <gramGrp><num>pl</num></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корь</text></cit>
 <сit type="example"><text>ha meslinger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>болеть корью</text></cit></cit>
 </sense>

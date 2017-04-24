@@ -16,8 +16,7 @@
 <сit type="example"><text>når man spør i øst svarer han i vest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> его спрашивают про одно, а он отвечает про другое (ср. русск. ему про Фому, а он про Ерёму)</text></cit></cit>
 </sense>
 <sense>
-<usg>мор.</usg>
-<usg>разг.</usg>
+<usg>мор., разг.</usg>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ост, восточный ветер</text></cit>
 </sense>
 <sense>
@@ -32,6 +31,8 @@
 <form>
 <orth type="lemma">øst</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на восток, к востоку</text></cit>
 <сit type="example"><text>øst for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восточнее, к востоку от</text></cit></cit>
 </sense>

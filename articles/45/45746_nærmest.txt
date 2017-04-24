@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nærmest</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <ref>nærmeste</ref>
 </sense>
 </entry>
@@ -12,8 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">nærmest</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>superl от nær II</note></gramGrp>
+<gramGrp><pos>adv</pos><note>superl от nær II</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближе всего</text></cit>

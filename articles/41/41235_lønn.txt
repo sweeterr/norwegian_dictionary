@@ -23,6 +23,8 @@
 <orth type="lemma">lønn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <usg>бот.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клён остролистный</text></cit>
 </sense>
 </entry>
@@ -30,6 +32,8 @@
 <index></index>
 <form>
 <orth type="lemma">lønn</orth>
+</form>
+<sense>
 <сit type="example"><text> i lønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тайком, втайне; скрытно</text></cit></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">favør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благосклонность, милость</text></cit>
 <сit type="example"><text>i noens favør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в чью-л. пользу</text></cit></cit>
 <сit type="example"><text>i vårt lags favør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> в пользу нашей команды</text></cit></cit>

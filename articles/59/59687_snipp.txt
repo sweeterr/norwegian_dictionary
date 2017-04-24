@@ -23,6 +23,8 @@
 <form>
 <orth type="lemma">snipp</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>snipp, snapp, snute, så er eventyret ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот и сказке конец</text></cit></cit>
 </sense>
 </entry>

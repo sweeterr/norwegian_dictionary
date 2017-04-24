@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">fro</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <ref>froe</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">fro</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый, бодрый, радостный</text></cit>
 </sense>
 </entry>

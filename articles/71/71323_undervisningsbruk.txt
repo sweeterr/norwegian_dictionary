@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">undervisningsbruk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>til undervisningsbruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для учебных целей</text></cit></cit>
 </sense>
 </entry>

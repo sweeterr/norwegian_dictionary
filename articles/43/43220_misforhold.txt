@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">misforhold</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несоответствие, несоразмерность</text></cit>
 <сit type="example"><text>stå i misforhold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в несоответствии, не соответствовать</text></cit></cit>
 </sense>

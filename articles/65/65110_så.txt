@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная бадья, деревянный ушат (чан)</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отруби</text></cit>
 </sense>
 </entry>
@@ -21,6 +25,8 @@
 <form>
 <orth type="lemma">så</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>такой, такая, такое, такие</text></cit>
 <сit type="example"><text>i så fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в таком случае</text></cit></cit>
 <сit type="example"><text>i så måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в такой мере (степени)</text></cit></cit>
@@ -32,6 +38,8 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеять <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>så seg (selv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассеиваться</text></cit></cit>
 <сit type="example"><text>så til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засевать</text></cit></cit>
@@ -41,6 +49,8 @@
 <form>
 <orth type="lemma">så</orth>
 <gramGrp><tns>pret</tns><note>от se</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>

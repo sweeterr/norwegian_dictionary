@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">badevann</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вода для купания</text></cit>
 <сit type="example"><text>kaste barnet ut med badevannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> выплеснуть ребёнка вместе с водой</text></cit></cit>
 </sense>

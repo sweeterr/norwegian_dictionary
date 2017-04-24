@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">telepati</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телепатия, передача мыслей на расстояние</text></cit>
 </sense>
 </entry>

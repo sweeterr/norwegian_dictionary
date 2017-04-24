@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tretid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>ved (i) tretid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а около трёх часов</text></cit></cit>
 </sense>
 </entry>

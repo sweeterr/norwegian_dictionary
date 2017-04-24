@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">latter</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смех</text></cit>
 <сit type="example"><text>anstrengt latter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неестественный смех</text></cit></cit>
 <сit type="example"><text>brakende latter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громовой хохот, оглушительный смех</text></cit></cit>

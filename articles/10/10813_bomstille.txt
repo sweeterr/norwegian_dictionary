@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bomstille</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень тихий, неподвижный, как столб</text></cit>
 <сit type="example"><text>tie bomstille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не проронить ни звука</text></cit></cit>
 <сit type="example"><text>ti bomstille!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тишина!</text></cit></cit>

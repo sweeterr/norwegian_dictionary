@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">isse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>макушка (головы), темя</text></cit>
 <сit type="example"><text>fra isse til fot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с головы до пят</text></cit></cit>
 <сit type="example"><text>fra fot til isse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с ног до головы</text></cit></cit>

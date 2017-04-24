@@ -6,6 +6,8 @@
 <orth type="lemma">dess</orth>
 <gramGrp><pos>inv</pos></gramGrp>
 <usg>муз.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ре бемоль</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">dess</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тем</text></cit>
 <сit type="example"><text>dess bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем лучше</text></cit></cit>
 <сit type="example"><text>dess mer(e) (mindre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем больше менее</text></cit></cit>

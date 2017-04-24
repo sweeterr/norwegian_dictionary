@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">si</orth>
-<gramGrp><pos>pron</pos></gramGrp>
-<gramGrp><gender>f</gender><note>от sin, обычно стоит после сущ.</note></gramGrp>
+<gramGrp><pos>pron</pos><gender>f</gender><note>от sin, обычно стоит после сущ.</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своя</text></cit>
 </sense>
 </entry>

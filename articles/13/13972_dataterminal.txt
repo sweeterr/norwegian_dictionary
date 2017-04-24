@@ -6,6 +6,8 @@
 <orth type="lemma">dataterminal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>комп.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оконечное устройство (для) сбора данных, терминал (для) ввода данных</text></cit>
 </sense>
 </entry>

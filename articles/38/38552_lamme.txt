@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lamme</orth>
 <inflection><orth extent="part">-met (-te), -met (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парализовать <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">lamme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ягниться</text></cit>
 </sense>
 </entry>

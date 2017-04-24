@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">spyd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копьё</text></cit>
 <сit type="example"><text>kaste spyd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метать копьё</text></cit></cit>
 </sense>

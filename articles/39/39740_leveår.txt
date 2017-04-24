@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">leveår</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>год жизни</text></cit>
 <сit type="example"><text>i sitt siste leveår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в последний год жизни</text></cit></cit>
 </sense>

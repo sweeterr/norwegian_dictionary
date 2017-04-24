@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">fra</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придаёт глаголам движения значение удаления, движения от исходной точки:</text></cit>
 <сit type="example"><text>falle fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвалиться</text></cit></cit>
 <сit type="example"><text>klippe fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать</text></cit></cit>
@@ -58,6 +60,8 @@
 <form>
 <orth type="lemma">fra</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с тех пор как, со времени</text></cit>
 </sense>
 </entry>

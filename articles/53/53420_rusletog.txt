@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">rusletog</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<usg>ж.-д.</usg>
-<usg>разг.</usg>
+<usg>ж.-д., разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поезд местного сообщения (останавливающийся на всех остановках)</text></cit>
 </sense>
 </entry>

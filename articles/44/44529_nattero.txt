@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nattero</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночной покой</text></cit>
 <сit type="example"><text>få (ha) nattero</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдыхать ночью</text></cit></cit>
 </sense>

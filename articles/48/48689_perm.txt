@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">perm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переплёт (книги)</text></cit>
 <сit type="example"><text>fra perm til perm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от корки до корки</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <orth type="lemma">perm</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>геол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пермский период, пермская формация</text></cit>
 </sense>
 </entry>
@@ -22,9 +26,9 @@
 <index></index>
 <form>
 <orth type="lemma">perm</orth>
-<usg>воен.</usg>
-<usg>разг.</usg>
-<usg>сокр.</usg>
+<usg>воен., разг., сокр.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>от permisjon</text></cit>
 </sense>
 </entry>

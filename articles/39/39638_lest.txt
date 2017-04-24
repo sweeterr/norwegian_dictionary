@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колодка (для обуви)</text></cit>
 <сit type="example"><text>skjære (slå) alle over en lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> стричь всех под одну гребёнку</text></cit></cit>
 <сit type="example"><text>skomaker, bli ved din lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> знай, чеботарь, своё кривое голенище (а в закройщики не суйся)!</text></cit></cit>
@@ -30,6 +32,8 @@
 <orth type="lemma">lest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густая трава, густые хлеба</text></cit>
 </sense>
 </entry><entry>
@@ -37,6 +41,8 @@
 <form>
 <orth type="lemma">lest</orth>
 <gramGrp><tns>pret</tns><note>от less II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

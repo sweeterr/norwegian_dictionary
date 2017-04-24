@@ -36,6 +36,8 @@
 <form>
 <orth type="lemma">for</orth>
 <gramGrp><tns>pret</tns><note>от fare II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 <entry>
@@ -139,6 +141,8 @@
 <form>
 <orth type="lemma">for</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вводит придаточные предложения причины, так как, потому что, ибо:</text></cit>
 <сit type="example"><text>for om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если</text></cit></cit>
 </sense>

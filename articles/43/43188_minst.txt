@@ -4,8 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">minst</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl от liten</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl от liten</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наименьший, самый маленький, минимальный</text></cit>
@@ -25,8 +24,9 @@
 <index></index>
 <form>
 <orth type="lemma">minst</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>superl от lite III, litt</note></gramGrp>
+<gramGrp><pos>adv</pos><note>superl от lite III, litt</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>по меньшей мере, меньше всего, в наименьшей степени</text></cit>
 <сit type="example"><text>ikke minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в неменьшей степени</text></cit></cit>
 </sense>

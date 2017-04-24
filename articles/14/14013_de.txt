@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">de</orth>
 <phon>|di|</phon>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определённый препозитивный артикль множественного числа:</text></cit>
 <сit type="example"><text>de høye fjell (ene)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокие горы (известные, данные)</text></cit></cit>
 <сit type="example"><text>de fattige (rike, vise)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бедняки (богачи, мудрецы) (при субстантивации прилагательных во мн. ч.), <ref>den II</ref></text></cit></cit>

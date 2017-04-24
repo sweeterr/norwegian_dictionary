@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">meddele</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообщать, ставить в известность, уведомлять (кого-л.), информировать</text></cit>
 <сit type="example"><text>bli meddelt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить сообщение (уведомление)</text></cit></cit>
 </sense>

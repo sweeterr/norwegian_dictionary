@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">steile</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>legge én på steile og hjul</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ист.</lbl> подвергать кого-л. колесованию</text></cit></cit>
 </sense>
 </entry>
@@ -30,6 +32,8 @@
 <orth type="lemma">steile</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 <usg>ист.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подвергать колесованию</text></cit>
 </sense>
 </entry>

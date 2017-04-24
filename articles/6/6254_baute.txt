@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">baute</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<usg>уст.</usg>
-<usg>сокр.</usg>
+<usg>уст., сокр.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>от bautasten</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">enhver</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каждый, всякий</text></cit>
 <сit type="example"><text>alle og enhver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каждый и всякий</text></cit></cit>
 <сit type="example"><text>enhver annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каждый другой, любой другой</text></cit></cit>

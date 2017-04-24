@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">databehandling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обработка данных</text></cit>
 </sense>
 </entry>

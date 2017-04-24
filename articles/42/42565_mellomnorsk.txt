@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">mellomnorsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средне-норвежский (о норвежском языке периода около 1350 - 1525 гг.)</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">oppseiling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <сit type = "example"><text>være under oppseiling :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приближаться, подходить (о судне)</text></cit></cit>
 <сit type = "example"><text>være under oppseiling :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> надвигаться, быть в перспективе</text></cit></cit>
 </sense>

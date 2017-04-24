@@ -30,6 +30,8 @@
 </sense>
 <sense>
 <usg>бухг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга, мемориал</text></cit>
 <сit type="example"><text>føre (holde) bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести книгу, заносить в книгу</text></cit></cit>
 <сit type="example"><text>føre bok over utgifter og inntekter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести книгу расхода и прихода</text></cit></cit>
@@ -47,6 +49,8 @@
 <orth type="lemma">bok</orth>
 <inflection><orth extent="part">-а, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>bøk I</ref>
 </sense>
 </entry>

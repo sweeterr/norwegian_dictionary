@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">naturfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>этн.</usg>
+<usg>собир., этн.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первобытный народ</text></cit>
 </sense>
 </entry>

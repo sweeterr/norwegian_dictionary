@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">nesten</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почти</text></cit>
 <сit type="example"><text>det skulle jeg nesten tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожалуй, что так, возможно, это и так</text></cit></cit>
 <сit type="example"><text>nesten hjelper ingen mann på hesten, nesten slår ingen mann av hesten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> «почти» не считается</text></cit></cit>

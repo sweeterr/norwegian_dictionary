@@ -23,6 +23,8 @@
 <index></index>
 <form>
 <orth type="lemma">ekte</orth>
+</form>
+<sense>
 <сit type="example"><text> få (ta) til ekte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить (взять) в жёны, мужья</text></cit></cit>
 <сit type="example"><text>gi til ekte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать замуж</text></cit></cit>
 </sense>
@@ -32,6 +34,8 @@
 <form>
 <orth type="lemma">ekte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жениться, выходить замуж</text></cit>
 </sense>
 </entry>

@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">kjed</orth>
-<gramGrp><pos>adj</pos></gramGrp>
+<gramGrp><pos>adj, predic</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
-<gramGrp><pos>predic</pos></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недовольный, огорчённый</text></cit>

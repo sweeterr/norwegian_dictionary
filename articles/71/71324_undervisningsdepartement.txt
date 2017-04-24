@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">undervisningsdepartement</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>министерство просвещения</text></cit>
 <сit type="example"><text>Kirke og undervisningsdepartement</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Министерство по делам церкви и просвещения (в Норвегии)</text></cit></cit>
 </sense>

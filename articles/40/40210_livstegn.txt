@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">livstegn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>признак жизни</text></cit>
 <сit type="example"><text>gi livstegn fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать о себе знать</text></cit></cit>
 <сit type="example"><text>vise livstegn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подавать признаки жизни</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kinn</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щека</text></cit>
 <сit type="example"><text>bollete kinner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пухлые щёки</text></cit></cit>
 <сit type="example"><text>sitte med hånd under kinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть, подперев щёку</text></cit></cit>

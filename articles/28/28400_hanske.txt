@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hanske</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перчатка</text></cit>
 <сit type="example"><text>få hanskene på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натянуть перчатки</text></cit></cit>
 <сit type="example"><text>kaste hansken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросить кому-л. перчатку (вызвать на дуэль)</text></cit></cit>

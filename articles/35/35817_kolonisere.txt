@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kolonisere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колонизировать, заселять колонию</text></cit>
 </sense>
 </entry>

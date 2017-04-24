@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">trane</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журавль</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">trane</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропитывать рыбьим жиром (об обуви)</text></cit>
 </sense>
 </entry>

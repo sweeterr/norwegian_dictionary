@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">dugurd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завтрак (в сельских районах Норвегии)</text></cit>
 <сit type="example"><text>en dag til dugurds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недолго, непродолжительный срок</text></cit></cit>
 </sense>

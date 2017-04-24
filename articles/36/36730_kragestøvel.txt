@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">kragestøvel</orth>
-<inflection><orth extent="part">-elen, -ler</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-elen, -ler</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сапоги с отворотами</text></cit>
 </sense>
 </entry>

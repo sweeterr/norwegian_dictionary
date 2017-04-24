@@ -20,6 +20,8 @@
 <index></index>
 <form>
 <orth type="lemma">ranke</orth>
+</form>
+<sense>
 <сit type="example"><text> <lbl>inv</lbl> ride ranke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>качаться на коленях (о ребёнке)</text></cit></cit>
 <сit type="example"><text>ride ranke med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>качать ребёнка на коленях</text></cit></cit>
 </sense>
@@ -29,6 +31,8 @@
 <form>
 <orth type="lemma">ranke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямлять</text></cit>
 <сit type="example"><text>ranke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямляться, расправлять спину (плечи)</text></cit></cit>
 </sense>

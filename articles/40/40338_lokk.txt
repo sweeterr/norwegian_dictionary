@@ -32,6 +32,8 @@
 <form>
 <orth type="lemma">lokk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крышка</text></cit>
 <сit type="example"><text>få lokket igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрыть крышку (чемодана и т. п.)</text></cit></cit>
 <сit type="example"><text>lette på lokket lokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приподнять завесу</text></cit></cit>

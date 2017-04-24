@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">balanseidentitet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>бизн.</usg>
-<usg>бухг.</usg>
+<usg>бизн., бухг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрерывность балансового отчёта</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">forkalke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превращать в известь</text></cit>
 <сit type="example"><text>forkalkes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обызвествляться</text></cit></cit>
 </sense>

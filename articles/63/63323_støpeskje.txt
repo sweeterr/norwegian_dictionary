@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">støpeskje</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>литейный черпак</text></cit>
 <сit type="example"><text>komme (være) i støpeskje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться коренным изменениям</text></cit></cit>
 </sense>

@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">elverfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<usg>собир.</usg>
-<usg>миф.</usg>
+<usg>собир., миф.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эльфы</text></cit>
 </sense>
 </entry>

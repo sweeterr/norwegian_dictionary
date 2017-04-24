@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">meis</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плетёная корзинка (приспособленная для ношения на спине или для вьючных животных)</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">meis</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <ref>meise</ref>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">krøkelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>kors i krøkelsec</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нами крестная сила (восклицание, выражающее удивление, испуг)</text></cit></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lysing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассвет</text></cit>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">lysing</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>зоол.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хек обыкновенный или чёрный (рыба)</text></cit>
 </sense>
 </entry>
@@ -23,6 +27,8 @@
 <orth type="lemma">lysing</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>церк.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оглашение (брака)</text></cit>
 </sense>
 </entry>

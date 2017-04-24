@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">blindpassasjer</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безбилетный (незаконный) пассажир (на пароходе, самолёте)</text></cit>
 </sense>
 </entry>

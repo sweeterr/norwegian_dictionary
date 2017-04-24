@@ -19,8 +19,9 @@
 <form>
 <orth type="lemma">fal</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<usg>карт.</usg>
-<usg>разг.</usg>
+<usg>карт., разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козырная масть</text></cit>
 </sense>
 </entry>
@@ -29,8 +30,9 @@
 <form>
 <orth type="lemma">fal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<usg>диал.</usg>
-<usg>уст.</usg>
+<usg>диал., уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продажный <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>være til fals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продаваться</text></cit></cit>
 </sense>

@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">medio</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется перед названием месяца и обозначает период с 11 по 2 число данного месяца:</text></cit>
 <сit type="example"><text>medio mai</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в середине мая, между одиннадцатым и двадцатым мая</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kny</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оханье, аханье</text></cit>
 <сit type="example"><text>han ga ikke et kny</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он и охнуть (пикнуть) не успел</text></cit></cit>
 </sense>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">kny</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охнуть, ахнуть, хмыкнуть</text></cit>
 </sense>
 </entry>

@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">mest</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>superl от megen</note></gramGrp>
+<gramGrp><pos>adj</pos><note>superl от megen</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больший, наибольший</text></cit>
 <сit type = "example"><text>for det meste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в основном</text></cit></cit>
 <сit type = "example"><text>for det meste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> большей частью</text></cit></cit>
@@ -15,8 +16,7 @@
 <index></index>
 <form>
 <orth type="lemma">mest</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>superl от meget II</note></gramGrp>
+<gramGrp><pos>adv</pos><note>superl от meget II</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большей частью, по большей части</text></cit>

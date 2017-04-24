@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bosted</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жилище, квартира, местожительство</text></cit>
 <сit type="example"><text>uten fast bosted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не имея постоянного местожительства</text></cit></cit>
 </sense>

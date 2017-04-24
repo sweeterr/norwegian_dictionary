@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">dorisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<usg>ист.</usg>
-<usg>иск.</usg>
+<usg>ист., иск.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорический</text></cit>
 </sense>
 </entry>

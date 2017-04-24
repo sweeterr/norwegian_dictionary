@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bunke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча, груда, ворох, связка, кипа</text></cit>
 <сit type="example"><text>hele bunken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё целиком, всё полностью</text></cit></cit>
 </sense>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">bunke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянный жбан, плошка (для молока)</text></cit>
 </sense>
 </entry>
@@ -22,6 +26,8 @@
 <form>
 <orth type="lemma">bunke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складывать, собирать в кучу (в кипу)</text></cit>
 <сit type="example"><text>bunke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгущаться (об облаках)</text></cit></cit>
 </sense>

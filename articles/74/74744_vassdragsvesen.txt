@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vassdragsvesen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водное хозяйство</text></cit>
 <сit type="example"><text>vassdrags- og elektrisitetsvesenet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>управление гидро- и электроэнергетическими сооружениями</text></cit></cit>
 </sense>

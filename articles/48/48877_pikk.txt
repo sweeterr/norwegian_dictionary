@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">pikk</orth>
+</form>
+<sense>
 <сit type = "example"><text>pikk og pakk:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожитки, барахло</text></cit></cit>
 <сit type = "example"><text>pikk og pakk:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мелкие (дорожные) вещи</text></cit></cit>
 </sense>
@@ -26,6 +28,8 @@
 <form>
 <orth type="lemma">pikk</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тук-тук</text></cit>
 </sense>
 </entry>

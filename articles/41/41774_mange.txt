@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">mange</orth>
-<gramGrp><pos>pron</pos></gramGrp>
-<gramGrp><num>pl</num><note>от mangen</note></gramGrp>
+<gramGrp><pos>pron</pos><num>pl</num><note>от mangen</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многие, много (каких-л. исчисляемых предметов, явлений и т. п.)</text></cit>
 <сit type="example"><text>hvor mange?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сколько?, как много? (исчисляемых предметов)</text></cit></cit>
 <сit type="example"><text>nokså mange</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>достаточно много</text></cit></cit>

@@ -6,6 +6,8 @@
 <orth type="lemma">beit</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежие ветви, листва деревьев (в качестве корма для домашних животных)</text></cit>
 </sense>
 </entry>
@@ -29,6 +31,8 @@
 <orth type="lemma">beit</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительное положение</text></cit>
 <сit type="example"><text>komme i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в затруднительное положение</text></cit></cit>
 <сit type="example"><text>sette i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить в затруднительное положение</text></cit></cit>
@@ -39,6 +43,8 @@
 <form>
 <orth type="lemma">beit</orth>
 <gramGrp><tns>pret</tns><note>от bite III</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

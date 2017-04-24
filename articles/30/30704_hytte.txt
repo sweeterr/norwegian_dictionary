@@ -29,6 +29,8 @@
 <form>
 <orth type="lemma">hytte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охранять, ограждать</text></cit>
 <сit type="example"><text>hytte sitt skinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> беречь свою шкуру</text></cit></cit>
 <сit type="example"><text>hytte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ограждать себя, беречь себя</text></cit></cit>
@@ -39,6 +41,8 @@
 <form>
 <orth type="lemma">hytte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грозить (кулаком)</text></cit>
 </sense>
 </entry>

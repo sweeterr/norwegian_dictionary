@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">man</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грива</text></cit>
 <сit type="example"><text>sette man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ерошить шерсть (о собаке)</text></cit></cit>
 </sense>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">man</orth>
 <gramGrp><pos>pron</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>является подлежащим неопределённо-личного предложения; отдельным словом не переводится:</text></cit>
 <сit type="example"><text>man lot meg forstå at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне дали понять, что ...</text></cit></cit>
 <сit type="example"><text>man sier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорят</text></cit></cit>

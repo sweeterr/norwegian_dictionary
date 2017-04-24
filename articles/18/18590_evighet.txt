@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">evighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечность</text></cit>
 <сit type="example"><text>aldri i evighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никогда в жизни</text></cit></cit>
 <сit type="example"><text>for tid og evighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навеки</text></cit></cit>

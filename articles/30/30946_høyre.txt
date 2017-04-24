@@ -17,6 +17,8 @@
 <form>
 <orth type="lemma">høyre</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правый</text></cit>
 <сit type="example"><text>høyre om!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на пра-во! (команда)</text></cit></cit>
 <сit type="example"><text>til høyre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вправо, направо</text></cit></cit>

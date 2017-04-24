@@ -22,8 +22,9 @@
 <form>
 <orth type="lemma">rang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<usg>разг.</usg>
-<usg>мор.</usg>
+<usg>разг., мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпангоут</text></cit>
 </sense>
 </entry>

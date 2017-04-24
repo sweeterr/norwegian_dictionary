@@ -36,6 +36,8 @@
 <form>
 <orth type="lemma">før</orth>
 <gramGrp><pos>prep</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на совершение одного действия до другого до, перед</text></cit>
 <сit type="example"><text>før tiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раньше своего (положенного) времени</text></cit></cit>
 </sense>

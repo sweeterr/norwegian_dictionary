@@ -6,6 +6,8 @@
 <orth type="lemma">fore</orth>
 <inflection><orth extent="part">-n</orth></inflection>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поведение, поступок</text></cit>
 </sense>
 </entry>
@@ -13,8 +15,9 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<inflection><orth>fôre</orth></inflection>
-<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+<inflection><orth>fôre</orth><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормить, давать корм (животным)</text></cit>
 <сit type="example"><text>fore opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закладывать корм (животным)</text></cit></cit>
 </sense>
@@ -23,8 +26,7 @@
 <index></index>
 <form>
 <orth type="lemma">fore</orth>
-<inflection><orth>fôre</orth></inflection>
-<inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
+<inflection><orth>fôre</orth><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подшивать подкладку, ставить подкладку</text></cit>

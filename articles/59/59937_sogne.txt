@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">sogne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>sogne til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежать к какой-л. волости (какому-л. приходу), быть связанным с какой-л. волостью</text></cit></cit>
 <сit type="example"><text>sogne under</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться под чьим-л. руководством, подчиняться кому-л.</text></cit></cit>
 </sense>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">løpe</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <ref>løype I</ref>
 </sense>
 </entry>
@@ -97,6 +99,8 @@
 <form>
 <orth type="lemma">løpe</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <ref>løype V</ref>
 </sense>
 </entry>

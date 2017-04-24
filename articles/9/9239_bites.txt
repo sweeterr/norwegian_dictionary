@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bites</orth>
 <inflection><orth>bites, bites</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грызться, кусаться</text></cit>
 <сit type="example"><text>når krybben er tom bites hestene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> когда кормушка пуста, грызутся лошади</text></cit></cit>
 </sense>

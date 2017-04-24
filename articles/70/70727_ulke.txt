@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ulke</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
+</form>
+<sense>
 <ref>ulk 1)</ref>
 </sense>
 </entry>
@@ -14,6 +16,8 @@
 <orth type="lemma">ulke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрыгивать</text></cit>
 </sense>
 </entry>

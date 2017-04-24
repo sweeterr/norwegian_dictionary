@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">føre</orth>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состояние дороги, проходимость пути</text></cit>
 <сit type="example"><text>lett (tungt) føre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (тяжёлый) путь (о состоянии дороги)</text></cit></cit>
 </sense>
@@ -62,6 +64,8 @@
 <orth type="lemma">føre</orth>
 <gramGrp><pos>adv</pos></gramGrp>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прежде, раньше</text></cit>
 </sense>
 </entry>
@@ -71,6 +75,8 @@
 <orth type="lemma">føre</orth>
 <gramGrp><pos>prep</pos></gramGrp>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>до, прежде (чего-л.)</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kastanje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каштан (плод)</text></cit>
 <сit type="example"><text>rake kastanjene av ilden for Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таскать для кого-л. каштаны из огня</text></cit></cit>
 </sense>

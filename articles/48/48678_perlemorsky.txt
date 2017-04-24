@@ -4,8 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">perlemorsky</orth>
-<inflection><orth extent="part">-en, -er</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жемчужные облака</text></cit>
 </sense>
 </entry>

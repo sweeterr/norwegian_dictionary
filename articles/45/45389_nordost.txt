@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">nordost</orth>
+</form>
+<sense>
 <ref>nordøst I</ref>
 </sense>
 </entry>
@@ -11,6 +13,8 @@
 <index></index>
 <form>
 <orth type="lemma">nordost</orth>
+</form>
+<sense>
 <ref>nordøst II</ref>
 </sense>
 </entry>
@@ -20,6 +24,8 @@
 <orth type="lemma">nordost</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>мор.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норд-ост, северо-восточный ветер</text></cit>
 </sense>
 </entry>

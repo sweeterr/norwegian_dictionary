@@ -6,6 +6,8 @@
 <orth type="lemma">samfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с числительными:</text></cit>
 <сit type="example"><text>i fem samfulle år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в течение полных пяти лет</text></cit></cit>
 <сit type="example"><text>i seks samfulle dager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целых шесть дней</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">leire</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глина, слой глины</text></cit>
 <сit type="example"><text>kline med leire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обмазывать глиной</text></cit></cit>
 <сit type="example"><text>tette med leire</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замазывать щели глиной</text></cit></cit>
@@ -15,6 +17,8 @@
 <form>
 <orth type="lemma">leire</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать слоем глины, обмазывать глиной</text></cit>
 </sense>
 </entry>

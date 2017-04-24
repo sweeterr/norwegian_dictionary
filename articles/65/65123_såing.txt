@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">såing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сев, посев</text></cit>
 <сit type="example"><text>tettradet såing</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>с.-х.</lbl> узкорядный сев</text></cit></cit>
 </sense>

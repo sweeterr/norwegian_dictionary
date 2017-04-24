@@ -37,6 +37,8 @@
 <form>
 <orth type="lemma">sprøyte</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text><lbl>разг.</lbl> sprøyte full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>битком набитый</text></cit></cit>
 <сit type="example"><text>sprøyte gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший</text></cit></cit>
 </sense>

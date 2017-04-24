@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">age</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уважение, почитание, почтительность, боязнь</text></cit>
 <сit type="example"><text>holde i age</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать в узде (в страхе и в повиновении)</text></cit></cit>
 <сit type="example"><text>ha age for noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почитать кого-л., бояться кого-л.</text></cit></cit>
@@ -16,6 +18,8 @@
 <orth type="lemma">age</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принуждать к послушанию (почитанию), подчинять себе, справляться (с детьми), держать в повиновении</text></cit>
 <сit type="example"><text>age seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдерживаться, владеть собой, брать себя в руки</text></cit></cit>
 </sense>

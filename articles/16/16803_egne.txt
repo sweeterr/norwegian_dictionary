@@ -6,6 +6,8 @@
 <orth type="lemma">egne</orth>
 <phon>|einə|</phon>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подобать, приличествовать</text></cit>
 <сit type = "example"><text>være lite egnet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть плохо приспособленным (к чему-л. - til)</text></cit></cit>
 <сit type = "example"><text>være lite egnet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть неподходящим, непригодным (для чего-л.- til)</text></cit></cit>
@@ -17,6 +19,8 @@
 <orth type="lemma">egne</orth>
 <phon>|еŋnə|</phon>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насаживать приманку</text></cit>
 </sense>
 </entry>
@@ -25,6 +29,8 @@
 <form>
 <orth type="lemma">egne</orth>
 <gramGrp><num>pl</num><note>от egen</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

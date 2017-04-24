@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">vad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брод</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">vad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невод, трал</text></cit>
 <сit type="example"><text>trekke vad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть невод</text></cit></cit>
 </sense>
@@ -23,6 +27,8 @@
 <orth type="lemma">vad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бечёвка с наживкой, толстая леса</text></cit>
 </sense>
 </entry>

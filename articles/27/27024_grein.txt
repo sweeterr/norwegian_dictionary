@@ -35,6 +35,8 @@
 <index></index>
 <form>
 <orth type="lemma">grein</orth>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ha grein på <lbl>диал.</lbl> знать, иметь представление (о чём-л.)</text></cit>
 </sense>
 </entry>
@@ -43,6 +45,8 @@
 <form>
 <orth type="lemma">grein</orth>
 <gramGrp><tns>pret</tns><note>от grine</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

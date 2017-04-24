@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">visum</orth>
 <inflection><orth extent="part">-umet, -а</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виза</text></cit>
 <сit type="example"><text>visum for innreise (utreise)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>въездная (выездная) виза</text></cit></cit>
 </sense>

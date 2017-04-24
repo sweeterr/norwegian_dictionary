@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">toppende</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхний конец, верхушка</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">toppende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>toppende full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полный до краёв, переполненный</text></cit></cit>
 <сit type="example"><text>toppende gal (rasende)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно взбешённый</text></cit></cit>
 </sense>

@@ -18,6 +18,8 @@
 <form>
 <orth type="lemma">kramme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>kramme ut med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкладывать (новости, известия)</text></cit></cit>
 </sense>
 </entry>

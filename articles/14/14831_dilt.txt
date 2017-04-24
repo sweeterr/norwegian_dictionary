@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">dilt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рысца</text></cit>
 <сit type="example"><text>kjøre dilt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать мелкой рысью</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <orth type="lemma">dilt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, рабски подражающий чему-л., низкопоклонник</text></cit>
 </sense>
 </entry>

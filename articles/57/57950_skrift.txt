@@ -32,6 +32,8 @@
 <form>
 <orth type="lemma">skrift</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочинение, литературное произведение</text></cit>
 <сit type="example"><text>etterlatte skrifter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посмертные (оставшиеся после смерти) сочинения</text></cit></cit>
 <сit type="example"><text>samlede skrifter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собрание сочинений</text></cit></cit>

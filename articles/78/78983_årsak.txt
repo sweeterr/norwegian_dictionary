@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">årsak</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причина, повод</text></cit>
 <сit type="example"><text>bevegende årsak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мотив, побудительная причина</text></cit></cit>
 <сit type="example"><text>av hva årsak?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по какой причине?</text></cit></cit>

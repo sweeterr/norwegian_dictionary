@@ -19,6 +19,8 @@
 <orth type="lemma">ram</orth>
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лапа (медведя)</text></cit>
 </sense>
 </entry>
@@ -28,6 +30,8 @@
 <orth type="lemma">ram</orth>
 <inflection><orth extent="part">-met, =</orth></inflection>
 <usg>уст.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар, толчок</text></cit>
 <сit type="example"><text>få ram på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>справиться с кем, чем-л., разделаться с кем, чем-л.</text></cit></cit>
 <сit type="example"><text>gå ram forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избежать удара</text></cit></cit>

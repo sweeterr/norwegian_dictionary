@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">duke</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накрывать на стол</text></cit>
 <сit type="example"><text>duke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирать со стола</text></cit></cit>
 <сit type="example"><text>duke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> убирать (о парусах)</text></cit></cit>

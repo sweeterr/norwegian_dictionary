@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tutle seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направляться (куда-л.)</text></cit>
 <сit type="example"><text>tutle seg bort (opp)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задирать нос, важничать, задаваться</text></cit></cit>
 </sense>

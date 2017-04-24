@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">smile</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>улыбаться, усмехаться</text></cit>
 <сit type="example"><text>lykken smilte til ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему улыбнулось счастье</text></cit></cit>
 <сit type="example"><text>smile av, smile over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>улыбаться кому-л.</text></cit></cit>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">koke</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>en koke fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порция рыбы (которую можно сварить в один приём)</text></cit></cit>
 </sense>
 </entry>

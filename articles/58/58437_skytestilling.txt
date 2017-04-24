@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">skytestilling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>положение стрелка во время стрельбы</text></cit>
 <сit type="example"><text>knestående skytestilling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положение для стрельбы с колена</text></cit></cit>
 </sense>

@@ -35,6 +35,8 @@
 <form>
 <orth type="lemma">inntil</orth>
 <gramGrp><pos>konj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>до тех пор пока</text></cit>
 </sense>
 </entry>

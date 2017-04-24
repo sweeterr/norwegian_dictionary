@@ -4,6 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">tane</orth>
+</form>
+<sense>
 <ref>tande</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <orth type="lemma">tane</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
 <usg>разг.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бежать, скакать</text></cit>
 </sense>
 </entry>

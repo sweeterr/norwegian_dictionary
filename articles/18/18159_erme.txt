@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">erme</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукав</text></cit>
 <сit type="example"><text>oppbrettede ermer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засученные (закатанные) рукава</text></cit></cit>
 <сit type="example"><text>binde en noe på ermet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> навязывать, внушать (что-л. кому-л.)</text></cit></cit>

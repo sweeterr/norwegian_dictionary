@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">arbeidsvillig</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
@@ -18,6 +20,8 @@
 <form>
 <orth type="lemma">arbeidsvillig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудолюбивый</text></cit>
 </sense>
 </entry>

@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">midnatt</orth>
 <inflection><orth extent="part">-natten (-natta), -netter</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полночь</text></cit>
 <сit type="example"><text>til langt over midnatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко за полночь</text></cit></cit>
 <сit type="example"><text>ved midnatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около полуночи</text></cit></cit>

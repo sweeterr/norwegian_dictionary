@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">bevare</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беречь, хранить, сохранять, охранять, оберегать</text></cit>
 <сit type="example"><text>Gud bevare ham!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да хранит его бог!</text></cit></cit>
 <сit type="example"><text>Gud bevare!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упаси бог!, не дай бог!</text></cit></cit>

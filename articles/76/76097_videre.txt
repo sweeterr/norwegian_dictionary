@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">videre</orth>
-<gramGrp><pos>adj</pos></gramGrp>
-<gramGrp><note>komp от vid</note></gramGrp>
+<gramGrp><pos>adj</pos><note>komp от vid</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальнейший, последующий</text></cit>
 </sense>
 </entry>
@@ -13,8 +14,7 @@
 <index></index>
 <form>
 <orth type="lemma">videre</orth>
-<gramGrp><pos>adv</pos></gramGrp>
-<gramGrp><note>komp от vidt</note></gramGrp>
+<gramGrp><pos>adv</pos><note>komp от vidt</note></gramGrp>
 </form>
 <sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальше, далее</text></cit>

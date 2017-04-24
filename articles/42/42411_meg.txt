@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">meg</orth>
 <phon>|mei|</phon>
-<gramGrp><pos>pron</pos></gramGrp>
-<gramGrp><note>объектн. п. от jeg</note></gramGrp>
+<gramGrp><pos>pron</pos><note>объектн. п. от jeg</note></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мне, меня</text></cit>
 <сit type="example"><text>av meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от меня</text></cit></cit>
 <сit type="example"><text>med meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со мной</text></cit></cit>

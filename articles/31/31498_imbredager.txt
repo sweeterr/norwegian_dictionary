@@ -4,9 +4,11 @@
 <index></index>
 <form>
 <orth type="lemma">imbredager</orth>
-<inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
+<inflection><orth extent="part">-ne</orth></inflection>
 <usg>этн.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>три постных дня (среда, четверг, пятница перед Пасхой, Ивановым днём и Рождеством)</text></cit>
 </sense>
 </entry>

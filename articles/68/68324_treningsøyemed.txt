@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">treningsøyemed</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>i treningsøyemed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в целях тренировки</text></cit></cit>
 </sense>
 </entry>

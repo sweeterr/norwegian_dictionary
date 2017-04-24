@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">prosse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text><lbl>воен.</lbl> prosse av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отцеплять орудие от передка</text></cit></cit>
 <сit type="example"><text>prosse på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прицеплять орудие к передку</text></cit></cit>
 </sense>

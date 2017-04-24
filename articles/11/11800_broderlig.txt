@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">broderlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>братский</text></cit>
 <сit type="example"><text>bring dem så min broderlige hilsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передайте им мой братский привет</text></cit></cit>
 <сit type="example"><text>dele broderlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делить по-братски</text></cit></cit>

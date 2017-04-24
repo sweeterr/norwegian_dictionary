@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">smelte</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расплавленная масса</text></cit>
 <сit type="example"><text>hele smelta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё вместе</text></cit></cit>
 </sense>
@@ -15,6 +17,8 @@
 <orth type="lemma">smelte</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>sypike 2)</ref>
 </sense>
 </entry>

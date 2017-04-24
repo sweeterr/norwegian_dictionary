@@ -55,6 +55,8 @@
 <index></index>
 <form>
 <orth type="lemma">brann</orth>
+</form>
+<sense>
 <ref>brand I</ref>
 </sense>
 </entry>
@@ -63,6 +65,8 @@
 <form>
 <orth type="lemma">brann</orth>
 <gramGrp><tns>pret</tns><note>от brenne II</note></gramGrp>
+</form>
+<sense>
 </sense>
 </entry>
 </superEntry>

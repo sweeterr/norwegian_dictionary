@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">tja</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>tja!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эх!, да!, ну что же! (выражение раздумья, сожаления)</text></cit></cit>
 </sense>
 </entry>

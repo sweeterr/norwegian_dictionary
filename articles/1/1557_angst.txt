@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">angst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страх, боязнь, опасения, тревожное состояние</text></cit>
 <сit type="example"><text>dødelig (dødsens) angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смертельный страх</text></cit></cit>
 <сit type="example"><text>ha angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бояться (чего-л. — for)</text></cit></cit>
@@ -16,6 +18,8 @@
 <form>
 <orth type="lemma">angst</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боязливый, робкий, пугливый</text></cit>
 <сit type="example"><text>gjøre en angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пугать кого-л.</text></cit></cit>
 <сit type="example"><text>bli angst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испугаться</text></cit></cit>

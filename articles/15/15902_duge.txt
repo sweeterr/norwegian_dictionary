@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">duge</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годиться (на что-л. - til noe), подходить (к чему-л. - til noe)</text></cit>
 <сit type="example"><text>det duger ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не годится, так дело не пойдёт</text></cit></cit>
 </sense>

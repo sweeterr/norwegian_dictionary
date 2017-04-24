@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">puke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <сit type="example"><text>puken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чертёнок, бесёнок</text></cit></cit>
 </sense>
 </entry>

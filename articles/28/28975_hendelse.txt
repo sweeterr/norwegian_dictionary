@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hendelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случай, происшествие, событие, инцидент, приключение</text></cit>
 <сit type="example"><text>ulykkelig hendelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>несчастный случай</text></cit></cit>
 <сit type="example"><text>ved en (re(i)n) hendelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случайно, по чистой случайности</text></cit></cit>

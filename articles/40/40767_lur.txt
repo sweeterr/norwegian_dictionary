@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">lur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рожок</text></cit>
 <сit type="example"><text>blåse på (i) lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трубить в рожок</text></cit></cit>
 </sense>
@@ -14,6 +16,8 @@
 <form>
 <orth type="lemma">lur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий сон</text></cit>
 <сit type="example"><text>ta seg (sove) en lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вздремнуть, чуть-чуть соснуть</text></cit></cit>
 </sense>
@@ -22,6 +26,8 @@
 <index></index>
 <form>
 <orth type="lemma">lur</orth>
+</form>
+<sense>
 <сit type="example"><text> ligge (stå) på lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть, быть в засаде; поджидать, подстерегать кого-л</text></cit></cit>
 <сit type="example"><text>stille seg på lur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засесть в засаду</text></cit></cit>
 </sense>

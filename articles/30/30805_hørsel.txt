@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">hørsel</orth>
 <inflection><orth extent="part">-elen (-la)</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слух</text></cit>
 <сit type="example"><text>være svekket på hørselen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть тугоухим; недослышать, плохо слышать</text></cit></cit>
 </sense>

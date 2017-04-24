@@ -19,6 +19,8 @@
 <form>
 <orth type="lemma">puss</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гной</text></cit>
 </sense>
 </entry>
@@ -27,6 +29,8 @@
 <form>
 <orth type="lemma">puss</orth>
 <inflection><orth extent="part">-et</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, проделка, трюк</text></cit>
 <сit type="example"><text>gjøre (spille) én et puss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть шутку с кем-л.</text></cit></cit>
 </sense>
@@ -36,6 +40,8 @@
 <form>
 <orth type="lemma">puss</orth>
 <gramGrp><pos>int</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>puss, ta 'n!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять его! (приказание собаке)</text></cit></cit>
 </sense>
 </entry>

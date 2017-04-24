@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">te</orth>
 <inflection><orth extent="part">-en</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чай</text></cit>
 <сit type="example"><text>sterk te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий чай</text></cit></cit>
 <сit type="example"><text>svak (tynn) te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий чай</text></cit></cit>
@@ -35,6 +37,8 @@
 <orth type="lemma">te</orth>
 <gramGrp><pos>prep</pos></gramGrp>
 <usg>диал.</usg>
+</form>
+<sense>
 <ref>til I</ref>
 </sense>
 </entry>

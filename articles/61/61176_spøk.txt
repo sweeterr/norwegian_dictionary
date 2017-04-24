@@ -28,6 +28,8 @@
 <form>
 <orth type="lemma">spøk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text><lbl>диал.</lbl> han er ikke spøk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он парень не промах</text></cit></cit>
 </sense>
 </entry>

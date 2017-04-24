@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">klæde</orth>
 <inflection><orth>kledet, klær</orth></inflection>
+</form>
+<sense>
 <ref>klede I</ref>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">klæde</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
+</form>
+<sense>
 <ref>kle</ref>
 </sense>
 </entry>

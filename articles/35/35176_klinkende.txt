@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">klinkende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
+</form>
+<sense>
 <сit type="example"><text>klinkende hård</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый как камень</text></cit></cit>
 <сit type = "example"><text>klinkende klar :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> совершенно ясный</text></cit></cit>
 <сit type = "example"><text>klinkende klar :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> чистый как слеза</text></cit></cit>

@@ -23,6 +23,8 @@
 <form>
 <orth type="lemma">lekse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
 <сit type = "example"><text>lekse opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отчитывать (кого-л.)</text></cit></cit>
 <сit type = "example"><text>lekse opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> говорить быстро (наизусть), выпаливать</text></cit></cit>
 </sense>

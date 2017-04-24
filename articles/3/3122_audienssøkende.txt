@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">audienssøkende</orth>
 <inflection><orth extent="part">-n</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, записавшийся (пришедший) на приём</text></cit>
 </sense>
 </entry>
@@ -13,6 +15,8 @@
 <form>
 <orth type="lemma">audienssøkende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добивающийся аудиенции</text></cit>
 </sense>
 </entry>

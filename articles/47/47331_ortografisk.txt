@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">ortografisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орфографический</text></cit>
 <сit type="example"><text>skrive ortografisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать без ошибок</text></cit></cit>
 </sense>

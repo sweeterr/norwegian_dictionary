@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">deprimere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удручать, угнетать</text></cit>
 <сit type="example"><text>deprimert puls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слабый пульс</text></cit></cit>
 <сit type="example"><text>være deprimert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в удручённом (угнетённом состоянии)</text></cit></cit>

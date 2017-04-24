@@ -5,6 +5,8 @@
 <form>
 <orth type="lemma">kodifisere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кодифицировать, сводить в кодекс законов</text></cit>
 </sense>
 </entry>

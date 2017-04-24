@@ -6,6 +6,8 @@
 <orth type="lemma">lekk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
 <usg>диал.</usg>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звено (в цепи)</text></cit>
 </sense>
 </entry>
@@ -31,6 +33,8 @@
 <orth type="lemma">lekk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><orth extent="part">-t</orth></inflection>
+</form>
+<sense>
 <cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий течь, давший течь, дырявый, худой</text></cit>
 <сit type="example"><text>springe lekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать течь</text></cit></cit>
 <сit type="example"><text>være lekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>течь, иметь пробоину</text></cit></cit>
