@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vokster</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-рост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рост</text></cit>
 </sense>
 <sense>
-растительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растительность</text></cit>
 </sense>
 <sense>
-годичное кольцо (на деревьях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годичное кольцо (на деревьях)</text></cit>
 </sense>
 </entry>
 </superEntry>

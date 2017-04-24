@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lene</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-спинка (стула, скамейки), подлокотник (кресла)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спинка (стула, скамейки), подлокотник (кресла)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">lene</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-опереть (руку), прислонить (спину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опереть (руку), прислонить (спину)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +23,12 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> смягчить, расслабить
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смягчить, расслабить</text></cit>
 </sense>
 <sense>
-<u>тех.</u> отпустить (закалённую сталь)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпустить (закалённую сталь)</text></cit>
 </sense>
 </entry>
 </superEntry>

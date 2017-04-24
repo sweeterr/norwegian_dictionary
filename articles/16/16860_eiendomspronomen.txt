@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eiendomspronomen</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> притяжательное местоимение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>притяжательное местоимение</text></cit>
 </sense>
 </entry>
 </superEntry>

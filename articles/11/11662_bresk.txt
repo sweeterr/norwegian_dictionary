@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bresk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> можжевельник
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>можжевельник</text></cit>
 </sense>
 </entry>
 </superEntry>

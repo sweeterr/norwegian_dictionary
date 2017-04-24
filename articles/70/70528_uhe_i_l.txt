@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">uhe(i)l</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неполный, дефектный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неполный, дефектный</text></cit>
 </sense>
 <sense>
-полностью не сохранившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полностью не сохранившийся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">treffpunkt</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> точка попадания, точка встречи
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка попадания, точка встречи</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-марш, поход, переход, походное движение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>марш, поход, переход, походное движение</text></cit>
 <сit type="example"><text>marsj på stedet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шаг на месте</text></cit></cit>
 <сit type="example"><text>fremad marsj!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шагом марш!</text></cit></cit>
 <сit type="example"><text>på stedet marsj!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на месте шагом марш!</text></cit></cit>
@@ -15,7 +15,8 @@
 <сit type="example"><text>være på marsj</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться на марше (в походе)</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> марш
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>марш</text></cit>
 <сit type="example"><text>blåse en marsj</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть марш на духовых инструментах</text></cit></cit>
 <сit type="example"><text>blåse én en lang marsj</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плевать на кого-л., не обращать внимания на кого-л.</text></cit></cit>
 <сit type="example"><text>marsj ut med deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирайся вон</text></cit></cit>

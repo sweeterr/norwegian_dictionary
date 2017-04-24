@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-газета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газета</text></cit>
 <сit type="example"><text>i avisene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в газетах</text></cit></cit>
 <сit type="example"><text>det står i avisene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это напечатано в газетах</text></cit></cit>
 <сit type="example"><text>komme i avisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в газету</text></cit></cit>
 <сit type="example"><text>skrive i avisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сотрудничать в газете</text></cit></cit>
 </sense>
 <sense>
-редакция газеты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редакция газеты</text></cit>
 <сit type="example"><text>stikke ned i avis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проникнуть в редакцию газеты</text></cit></cit>
 </sense>
 </entry>

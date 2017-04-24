@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">maktlysten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-властный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>властный</text></cit>
 </sense>
 <sense>
-стремящийся к власти, властолюбивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стремящийся к власти, властолюбивый</text></cit>
 </sense>
 </entry>
 </superEntry>

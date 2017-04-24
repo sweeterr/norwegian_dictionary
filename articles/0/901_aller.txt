@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">aller</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-ставится перед формой превосходной степени прилагательных для усиления степени качества, выраженного этой формой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ставится перед формой превосходной степени прилагательных для усиления степени качества, выраженного этой формой</text></cit>
 самый
 <сit type="example"><text>aller best</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наилучший, лучший из всех, самый лучший</text></cit></cit>
 <сit type="example"><text>aller helvetes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> чудовищный, жуткий, страшный</text></cit></cit>

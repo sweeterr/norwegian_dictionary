@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-современность, настоящее время
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>современность, настоящее время</text></cit>
 <сit type="example"><text>til nåtid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до наших дней</text></cit></cit>
 </sense>
 <sense>
-<u>грам.</u> настоящее время
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящее время</text></cit>
 <сit type="example"><text>ferdig nåtid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перфект</text></cit></cit>
 <сit type="example"><text>fortellende nåtid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>грам.</lbl> настоящее историческое время</text></cit></cit>
 </sense>

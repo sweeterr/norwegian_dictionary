@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вокруг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг</text></cit>
 </sense>
 <sense>
-снаружи, на улице
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаружи, на улице</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-вдоль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль</text></cit>
 </sense>
 <sense>
-снаружи, за, вне
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаружи, за, вне</text></cit>
 </sense>
 </entry>
 </superEntry>

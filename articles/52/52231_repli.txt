@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">repli</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> <u>уст.</u> отступление, отвод войск (на подготовленные позиции)
+<usg>воен.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отступление, отвод войск (на подготовленные позиции)</text></cit>
 </sense>
 </entry>
 </superEntry>

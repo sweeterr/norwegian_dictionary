@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-очерёдность, очередь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очерёдность, очередь</text></cit>
 <сit type="example"><text>det er hans (hennes, Deres) tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его (её, ваша) очередь</text></cit></cit>
 <сit type="example"><text>etter tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по очереди</text></cit></cit>
 <сit type="example"><text>etter tur og orden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в порядке очереди</text></cit></cit>
@@ -15,27 +15,30 @@
 <сit type="example"><text>stå for tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на очереди</text></cit></cit>
 </sense>
 <sense>
-прогулка, поездка, экскурсия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прогулка, поездка, экскурсия</text></cit>
 <сit type="example"><text>tur og retur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(билет) туда и обратно</text></cit></cit>
 <сit type="example"><text>gå (kjøre, ri) en tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройтись (проехаться, совершить прогулку верхом)</text></cit></cit>
 <сit type="example"><text>stå på tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> быть готовым к отъезду (отлёту, отплытию)</text></cit></cit>
 </sense>
 <sense>
-рейс (парохода, самолёта)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рейс (парохода, самолёта)</text></cit>
 </sense>
 <sense>
-тур (в танцах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тур (в танцах)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> удача
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удача</text></cit>
 <сit type="example"><text>De har tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вам везёт (повезло)</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> промежуток (период) времени
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промежуток (период) времени</text></cit>
 <сit type="example"><text>en liten tur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного времени</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> периодический приступ (болезни), запой
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>периодический приступ (болезни), запой</text></cit>
 <сit type="example"><text>komme i tur med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть к чему-л.</text></cit></cit>
 </sense>
 </entry>
@@ -44,13 +47,13 @@
 <form>
 <orth type="lemma">tur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шум, гром, грохот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, гром, грохот</text></cit>
 </sense>
 <sense>
-веселье, игра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веселье, игра</text></cit>
 </sense>
 </entry>
 <entry>
@@ -58,7 +61,8 @@
 <form>
 <orth type="lemma">tur</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> наружу, за борт
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наружу, за борт</text></cit>
 </sense>
 </entry>
 </superEntry>

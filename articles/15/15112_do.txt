@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">do</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>разг.</u> примитивная уборная, отхожее место
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивная уборная, отхожее место</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">do</orth>
-см. ditto
+<ref>ditto</ref>
 </sense>
 </entry>
 </superEntry>

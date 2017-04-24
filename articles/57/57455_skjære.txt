@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjære</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> ножницы
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ножницы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> сорока
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорока</text></cit>
 </sense>
 <sense>
-<u>разг.</u> болтушка, говорунья
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтушка, говорунья</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,35 +31,35 @@
 <inflection><orth>skar, skåret</orth></inflection>
 </form>
 <sense>
-резать <u>в разн. знач.</u>, пилить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резать <lbl>в разн. знач.</lbl>, пилить</text></cit>
 </sense>
 <sense>
-кроить, вырезать (тж. skjære til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кроить, вырезать (тж. skjære til)</text></cit>
 </sense>
 <sense>
-жать (хлеба), косить (траву)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жать (хлеба), косить (траву)</text></cit>
 </sense>
 <sense>
-стричь (ногти, волосы, шерсть)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стричь (ногти, волосы, шерсть)</text></cit>
 </sense>
 <sense>
-прокладывать себе путь (русло)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать себе путь (русло)</text></cit>
 <сit type="example"><text>skjære etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>броситься (за кем-л.)</text></cit></cit>
 </sense>
 <sense>
-тянуться, проходить (о реке, фиорде, тж. skjære seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тянуться, проходить (о реке, фиорде, тж. skjære seg)</text></cit>
 </sense>
 <sense>
-больно задеть, уколоть (словами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больно задеть, уколоть (словами)</text></cit>
 </sense>
 <sense>
-щипать (о морозе), обжигать (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щипать (о морозе), обжигать (о ветре)</text></cit>
 </sense>
 <sense>
-раздаться, прорезать воздух (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздаться, прорезать воздух (о звуке)</text></cit>
 </sense>
 <sense>
-кастрировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кастрировать</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> skjære i gult (grønt и т. д.)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приобрести оттенок жёлтого (зелёного и т. д.) цвета</text></cit></cit>
@@ -65,23 +68,25 @@
 <сit type="example"><text>skjære i øynene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слепить глаза</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> плыть, взять курс
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, взять курс</text></cit>
 </sense>
 <sense>
-<u>мат.</u> пересекать
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пересекать</text></cit>
 <сit type = "example"><text>skjære av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отрезать, отпилить</text></cit></cit>
 <сit type = "example"><text>skjære av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> оборвать (речь)</text></cit></cit>
 <сit type="example"><text>skjære inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просовывать, продевать, продёргивать</text></cit></cit>
 <сit type = "example"><text>skjære ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> срезать, спилить</text></cit></cit>
 <сit type = "example"><text>skjære ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сокращать, снижать (расходы)</text></cit></cit>
 <сit type = "example"><text>skjære ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> упасть камнем (о птице)</text></cit></cit>
-<сit type = "example"><text>skjære ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> разрезать (волну)</text></cit></cit>
+<сit type = "example"><text>skjære ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> разрезать (волну)</text></cit></cit>
 <сit type = "example"><text>skjære opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> разрезать страницы книги (тж. skjære opp en bok)</text></cit></cit>
 <сit type = "example"><text>skjære opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> раздаться (о звуке)</text></cit></cit>
 <сit type="example"><text>skjære opp for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отчитать кого-л., прочесть нотацию</text></cit></cit>
 <сit type = "example"><text>skjære over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> перерезать, перепилить</text></cit></cit>
 <сit type = "example"><text>skjære over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взрезать, вспороть</text></cit></cit>
-<сit type = "example"><text>skjære ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> отклониться от курса</text></cit></cit>
+<сit type = "example"><text>skjære ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> отклониться от курса</text></cit></cit>
 <сit type = "example"><text>skjære ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выдёргивать (трос, канат)</text></cit></cit>
 </sense>
 </entry>

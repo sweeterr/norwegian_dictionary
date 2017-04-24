@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пакля, очёсы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пакля, очёсы</text></cit>
 </sense>
 <sense>
-космы (волос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>космы (волос)</text></cit>
 <сit type="example"><text>være (komme) i tottene på hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вцепиться друг другу в волосы</text></cit></cit>
 </sense>
 </entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">tott</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> большой палец руки
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой палец руки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,11 +30,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-<u>мор.</u> туго выбранный, натянутый (о тросе)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туго выбранный, натянутый (о тросе)</text></cit>
 <сit type="example"><text>hale tott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натягивать (трос)</text></cit></cit>
 </sense>
 <sense>
-плотный, сплошной (о льдах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плотный, сплошной (о льдах)</text></cit>
 </sense>
 </entry>
 </superEntry>

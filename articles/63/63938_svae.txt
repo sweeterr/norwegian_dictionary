@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">svae</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-накапливать сок (о деревьях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накапливать сок (о деревьях)</text></cit>
 </sense>
 <sense>
-легко сходить, сниматься трубочкой (о коре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легко сходить, сниматься трубочкой (о коре)</text></cit>
 </sense>
 </entry>
 </superEntry>

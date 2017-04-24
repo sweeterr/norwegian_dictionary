@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">nær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t (komp nærmere, superl nærmeste)</orth></inflection>
 </form>
 <sense>
-ближний, близлежащий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближний, близлежащий</text></cit>
 </sense>
 <sense>
-предстоящий, грядущий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предстоящий, грядущий</text></cit>
 </sense>
 <sense>
-только что прошедший, недавний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>только что прошедший, недавний</text></cit>
 </sense>
 <sense>
-близкий (о друге, знакомом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>близкий (о друге, знакомом)</text></cit>
 </sense>
 <sense>
-основательный, глубокий (о знаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основательный, глубокий (о знаниях)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,16 +28,16 @@
 <form>
 <orth type="lemma">nær</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp nærmere, superl nærmest)</orth></inflection>
+<inflection><orth>(komp nærmere, superl nærmest)</orth></inflection>
 </form>
 <sense>
-близко, поблизости, вблизи, неподалёку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>близко, поблизости, вблизи, неподалёку</text></cit>
 <сit type="example"><text>stå én nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть близким кому-л.</text></cit></cit>
 <сit type="example"><text>være like nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на одной ступени развития</text></cit></cit>
 <сit type="example"><text>være nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приближаться, наступать, быть не за горами (о сроке, дате, событии)</text></cit></cit>
 </sense>
 <sense>
-почти, примерно, приблизительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почти, примерно, приблизительно</text></cit>
 <сit type="example"><text>nær på (<lbl>уст.</lbl> nær ved)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почти, приблизительно</text></cit></cit>
 <сit type="example"><text>ikke på langt nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко (вовсе) не</text></cit></cit>
 <сit type="example"><text>ikke nær så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совсем (далеко) не так</text></cit></cit>
@@ -46,11 +45,11 @@
 <сit type="example"><text>så nær som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почти, приблизительно</text></cit></cit>
 </sense>
 <sense>
-чуть(-чуть) не
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуть(-чуть) не</text></cit>
 <сit type="example"><text>vi var nær på (+ infinitiv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы чуть было не ...</text></cit></cit>
 </sense>
 <sense>
-(после чисел, обозначающих меры длины) на расстоянии от
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(после чисел, обозначающих меры длины) на расстоянии от</text></cit>
 <сit type="example"><text>komme noen for nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соблазнить кого-л.</text></cit></cit>
 <сit type="example"><text>tre ens rettigheter for nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оскорбить кого-л.</text></cit></cit>
 </sense>

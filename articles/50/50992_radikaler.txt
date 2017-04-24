@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">radikaler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>полит.</u> радикал
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радикал</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-деятельность, работа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деятельность, работа</text></cit>
 </sense>
 <sense>
-профессия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>профессия</text></cit>
 </sense>
 <sense>
-задание, поручение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задание, поручение</text></cit>
 </sense>
 <sense>
-<u>разг.</u> лесоматериалы
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесоматериалы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,20 +27,21 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-делать, совершать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать, совершать</text></cit>
 </sense>
 <sense>
-вызывать, оказывать воздействие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать, оказывать воздействие</text></cit>
 </sense>
 <sense>
-работать, действовать, функционировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работать, действовать, функционировать</text></cit>
 </sense>
 <sense>
-влиять, воздействовать (на кого-л. - på), производить впечатление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>влиять, воздействовать (на кого-л. - på), производить впечатление</text></cit>
 <сit type="example"><text>virke sympatisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>производить приятное впечатление (о человеке)</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> чистить (потрошить) рыбу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистить (потрошить) рыбу</text></cit>
 <сit type="example"><text>virke for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бороться за что-л.</text></cit></cit>
 </sense>
 </entry>

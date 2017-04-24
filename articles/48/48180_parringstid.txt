@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">parringstid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>зоол.</u> время, период спаривания
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время, период спаривания</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skåre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-см. skår I
+<ref>skår I</ref>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-надрез, порез, зарубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надрез, порез, зарубка</text></cit>
 </sense>
 <sense>
-трещина, разрыв (в чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина, разрыв (в чём-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">skåre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> молодая чайка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодая чайка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +35,7 @@
 <form>
 <orth type="lemma">skåre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-делать надрезы, зарубки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать надрезы, зарубки</text></cit>
 <сit type="example"><text>skåre ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>срубить топором</text></cit></cit>
 <сit type="example"><text>skåre på hornene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> стареть</text></cit></cit>
 </sense>

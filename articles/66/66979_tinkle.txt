@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tinkle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> звенеть
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звенеть</text></cit>
 </sense>
 </entry>
 </superEntry>

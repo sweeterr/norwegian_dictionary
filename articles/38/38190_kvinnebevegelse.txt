@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvinnebevegelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>полит.</u> движение за эмансипацию женщин
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение за эмансипацию женщин</text></cit>
 </sense>
 </entry>
 </superEntry>

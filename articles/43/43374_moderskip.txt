@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">moderskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> плавучая база, матка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавучая база, матка</text></cit>
 </sense>
 </entry>
 </superEntry>

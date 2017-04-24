@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stenderprivilegium</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ист.</u> сословная привилегия
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сословная привилегия</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gamleår</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-старый год
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старый год</text></cit>
 <сit type="example"><text>drikke gamleåret ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провожать старый год</text></cit></cit>
 </sense>
 </entry>

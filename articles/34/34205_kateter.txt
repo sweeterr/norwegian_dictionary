@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kateter</orth>
 <inflection><orth extent="part">-(e)ret, -re (=)</orth></inflection>
-кафедра (для лектора, преподавателя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кафедра (для лектора, преподавателя)</text></cit>
 <сit type="example"><text>kalle fram til kateteret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>школ.</lbl> вызвать к доске</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">kateter</orth>
 <inflection><orth extent="part">-(e)ret, = (-re)</orth></inflection>
-<u>мед.</u> катетер
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катетер</text></cit>
 </sense>
 </entry>
 </superEntry>

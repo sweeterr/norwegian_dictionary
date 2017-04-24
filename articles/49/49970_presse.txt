@@ -7,19 +7,22 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-пресса, печать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресса, печать</text></cit>
 <сit type="example"><text>gul presse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтая пресса</text></cit></cit>
 <сit type="example"><text>få en god (dårlig) presse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить хороший (плохой) отзыв в печати</text></cit></cit>
 <сit type="example"><text>legge i pressen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдать в печать</text></cit></cit>
 </sense>
 <sense>
-<u>собир.</u> журналисты
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журналисты</text></cit>
 </sense>
 <sense>
-<u>тех.</u> пресс, тиски
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресс, тиски</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> печатный станок
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печатный станок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,25 +32,26 @@
 <inflection><orth extent="part">-te (-set), -t (-set)</orth></inflection>
 </form>
 <sense>
-давить, жать, сжимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давить, жать, сжимать</text></cit>
 </sense>
 <sense>
-прессовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прессовать</text></cit>
 </sense>
 <sense>
-выдавливать, выжимать (сок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдавливать, выжимать (сок)</text></cit>
 </sense>
 <sense>
-напирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напирать</text></cit>
 </sense>
 <sense>
-оказывать давление, нажимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать давление, нажимать</text></cit>
 </sense>
 <sense>
-утюжить, гладить (одежду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утюжить, гладить (одежду)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> форсировать работу двигателя
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форсировать работу двигателя</text></cit>
 <сit type = "example"><text>presse på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поразить (о болезни)</text></cit></cit>
 <сit type = "example"><text>presse på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> теснить, нажимать (во время работы, спортивных соревнований)</text></cit></cit>
 <сit type="example"><text>presse ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выжимать (сок и т. п.)</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">salgskurs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ком.</u> продажный курс (ценных бумаг)
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продажный курс (ценных бумаг)</text></cit>
 </sense>
 </entry>
 </superEntry>

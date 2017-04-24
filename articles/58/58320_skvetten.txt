@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skvetten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пугливый, боязливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пугливый, боязливый</text></cit>
 </sense>
 <sense>
-впечатлительный, чувствительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впечатлительный, чувствительный</text></cit>
 </sense>
 </entry>
 </superEntry>

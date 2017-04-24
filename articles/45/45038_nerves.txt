@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">nerves</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слабонервный, нервный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабонервный, нервный</text></cit>
 </sense>
 <sense>
-нервозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нервозный</text></cit>
 </sense>
 </entry>
 </superEntry>

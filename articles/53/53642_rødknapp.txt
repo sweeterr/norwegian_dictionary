@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødknapp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> короставник полевой
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короставник полевой</text></cit>
 </sense>
 </entry>
 </superEntry>

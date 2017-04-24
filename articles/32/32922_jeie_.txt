@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jeie!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-<u>диал.</u> ой!, ах!, увы!
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ой!, ах!, увы!</text></cit>
 </sense>
 </entry>
 </superEntry>

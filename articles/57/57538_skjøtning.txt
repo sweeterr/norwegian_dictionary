@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skjøtning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-стык, место соединения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стык, место соединения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">skjøtning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> передача имущества
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передача имущества</text></cit>
 </sense>
 </entry>
 </superEntry>

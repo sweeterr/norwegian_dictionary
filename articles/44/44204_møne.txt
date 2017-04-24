@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">møne</orth>
 <inflection><orth extent="part">-t (-n), -r</orth></inflection>
-конёк (крыши)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конёк (крыши)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-подводить под конёк (о постройке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводить под конёк (о постройке)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> завершать дело
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завершать дело</text></cit>
 </sense>
 </entry>
 </superEntry>

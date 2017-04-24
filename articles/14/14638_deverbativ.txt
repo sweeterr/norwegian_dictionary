@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">deverbativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-отглагольное существительное (или какая-л. другая часть речи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отглагольное существительное (или какая-л. другая часть речи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">deverbativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-отглагольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отглагольный</text></cit>
 </sense>
 </entry>
 </superEntry>

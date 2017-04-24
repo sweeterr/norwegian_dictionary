@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">kapitel</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>архит.</u>, <u>полигр.</u> капитель
+<usg>архит.</usg>
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,14 +17,15 @@
 <inflection><orth extent="part">-elet, -ler</orth></inflection>
 </form>
 <sense>
-глава (книги, рассказа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глава (книги, рассказа)</text></cit>
 </sense>
 <sense>
-тема, вопрос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тема, вопрос</text></cit>
 <сit type="example"><text>i det kapitel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в этом отношении</text></cit></cit>
 </sense>
 <sense>
-<u>церк.</u> капитул
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитул</text></cit>
 </sense>
 </entry>
 </superEntry>

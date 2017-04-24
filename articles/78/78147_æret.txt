@@ -6,7 +6,7 @@
 <orth type="lemma">æret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <inflection><num>pl</num><orth>ærede</orth></inflection>
-уважаемый (тж. в обращении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уважаемый (тж. в обращении)</text></cit>
 <сit type="example"><text>som svar på Deres ærede (brev)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в ответ на Ваше письмо</text></cit></cit>
 <сit type="example"><text>den ærede foregående taler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уважаемый предыдущий оратор</text></cit></cit>
 </sense>

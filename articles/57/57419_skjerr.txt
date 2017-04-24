@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skjerr</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-застенчивый, боязливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застенчивый, боязливый</text></cit>
 </sense>
 <sense>
-одичалый, дикий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одичалый, дикий</text></cit>
 </sense>
 </entry>
 </superEntry>

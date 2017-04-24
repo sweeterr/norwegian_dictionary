@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">velstandsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> зажиточные слой населения
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажиточные слой населения</text></cit>
 </sense>
 </entry>
 </superEntry>

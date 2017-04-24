@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mile</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-углевыжигательная печь, яма для выжигания угля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>углевыжигательная печь, яма для выжигания угля</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">mile</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-удила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удила</text></cit>
 </sense>
 </entry>
 </superEntry>

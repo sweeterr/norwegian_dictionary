@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">greker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-грек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грек</text></cit>
 </sense>
 </entry>
 </superEntry>

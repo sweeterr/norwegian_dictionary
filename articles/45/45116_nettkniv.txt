@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nettkniv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> сетепрорезатель
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сетепрорезатель</text></cit>
 </sense>
 </entry>
 </superEntry>

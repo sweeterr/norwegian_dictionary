@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-монета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>монета</text></cit>
 </sense>
 <sense>
-сумма денег
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумма денег</text></cit>
 <сit type="example"><text>en billig penge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая сумма денег</text></cit></cit>
 <сit type="example"><text>det er ikke noen stor penge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это совсем не большие деньги</text></cit></cit>
 </sense>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sminke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-румяна, краска для лица, грим
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румяна, краска для лица, грим</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-пользоваться косметикой, красить (губы, ресницы), румянить (щёки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться косметикой, красить (губы, ресницы), румянить (щёки)</text></cit>
 </sense>
 <sense>
-гримировать(ся)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гримировать(ся)</text></cit>
 <сit type="example"><text>sminke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать (стирать) грим (краску, помаду)</text></cit></cit>
 </sense>
 </entry>

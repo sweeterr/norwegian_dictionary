@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uskjønn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> непонимание
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непонимание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">uskjønn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-некрасивый, неэстетичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некрасивый, неэстетичный</text></cit>
 </sense>
 </entry>
 </superEntry>

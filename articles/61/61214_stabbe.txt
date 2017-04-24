@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-обрубок дерева, колода, чурбан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрубок дерева, колода, чурбан</text></cit>
 </sense>
 <sense>
-шхера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шхера</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-идти неуверенно (с трудом), тащиться, тяжело ступать, ковылять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти неуверенно (с трудом), тащиться, тяжело ступать, ковылять</text></cit>
 </sense>
 <sense>
-<u>диал.</u> идти (без лыж) по глубокому снегу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти (без лыж) по глубокому снегу</text></cit>
 </sense>
 </entry>
 </superEntry>

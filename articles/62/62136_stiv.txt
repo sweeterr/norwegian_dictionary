@@ -5,47 +5,47 @@
 <form>
 <orth type="lemma">stiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-твёрдый, жёсткий, тугой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый, жёсткий, тугой</text></cit>
 </sense>
 <sense>
-негибкий, негнущийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негибкий, негнущийся</text></cit>
 </sense>
 <sense>
-оцепеневший, онемевший, окостеневший, окоченевший, сведённый (судорогой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оцепеневший, онемевший, окостеневший, окоченевший, сведённый (судорогой)</text></cit>
 </sense>
 <sense>
-крахмальный, накрахмаленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крахмальный, накрахмаленный</text></cit>
 </sense>
 <sense>
-связанный (о движениях), натянутый, сдержанный, официальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связанный (о движениях), натянутый, сдержанный, официальный</text></cit>
 </sense>
 <sense>
-упрямый, своенравный, непреклонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямый, своенравный, непреклонный</text></cit>
 </sense>
 <sense>
-неподвижный (о взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподвижный (о взгляде)</text></cit>
 </sense>
 <sense>
-жёсткий, торчащий (о волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёсткий, торчащий (о волосах)</text></cit>
 </sense>
 <sense>
-установленный, строгий (о стиле, обычаях, этикете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>установленный, строгий (о стиле, обычаях, этикете)</text></cit>
 </sense>
 <sense>
-крепкий, сильный (о ветре, морозе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий, сильный (о ветре, морозе)</text></cit>
 </sense>
 <sense>
-высокий (о ценах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий (о ценах)</text></cit>
 </sense>
 <sense>
-густой, загустевший (о жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густой, загустевший (о жидкости)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> остойчивый
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остойчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

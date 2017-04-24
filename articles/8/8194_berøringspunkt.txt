@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-точка соприкосновения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка соприкосновения</text></cit>
 </sense>
 <sense>
-<u>мат.</u> точка касания
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка касания</text></cit>
 </sense>
 <sense>
-<u>перен.</u> общие интересы
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общие интересы</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">øvelseslokale</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>спорт.</u> зал для тренировки
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зал для тренировки</text></cit>
 </sense>
 </entry>
 </superEntry>

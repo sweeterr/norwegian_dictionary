@@ -5,11 +5,10 @@
 <form>
 <orth type="lemma">sann</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-верный, правильный, справедливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верный, правильный, справедливый</text></cit>
 <сit type="example"><text>sant å si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по правде говоря</text></cit></cit>
 <сit type="example"><text>det er ikke sant!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неправда!, неверно!</text></cit></cit>
 <сit type="example"><text>det er sant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кстати, между прочим</text></cit></cit>
@@ -20,10 +19,10 @@
 <сit type="example"><text>så sant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лишь бы (в условных придаточных предложениях)</text></cit></cit>
 </sense>
 <sense>
-действительный, истинный (тж. <u>астр.</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действительный, истинный (тж. <lbl>астр.</lbl> )</text></cit>
 </sense>
 <sense>
-искренний, откровенный; правдивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искренний, откровенный; правдивый</text></cit>
 </sense>
 </entry>
 </superEntry>

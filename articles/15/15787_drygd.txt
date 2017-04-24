@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">drygd</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дородство, грузность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дородство, грузность</text></cit>
 </sense>
 <sense>
-толщина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толщина</text></cit>
 </sense>
 </entry>
 </superEntry>

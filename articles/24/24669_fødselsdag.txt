@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fødselsdag</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-день рождения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>день рождения</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tresyre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>хим.</u> подсмольная вода
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подсмольная вода</text></cit>
 </sense>
 </entry>
 </superEntry>

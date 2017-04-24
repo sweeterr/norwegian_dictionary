@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">tvilsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сомнительный, ненадёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сомнительный, ненадёжный</text></cit>
 </sense>
 <sense>
-сомневающийся, колеблющийся, неуверенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сомневающийся, колеблющийся, неуверенный</text></cit>
 </sense>
 </entry>
 </superEntry>

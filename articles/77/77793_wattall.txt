@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">wattall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>эл.</u> мощность в ваттах, числе ватт
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощность в ваттах, числе ватт</text></cit>
 </sense>
 </entry>
 </superEntry>

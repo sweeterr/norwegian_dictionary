@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">melkevei</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>астр.</u> Млечный Путь
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Млечный Путь</text></cit>
 </sense>
 </entry>
 </superEntry>

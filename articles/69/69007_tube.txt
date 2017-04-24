@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-тюбик (с мазью, пастой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тюбик (с мазью, пастой)</text></cit>
 </sense>
 <sense>
-<u>анат.</u> яйцевод
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яйцевод</text></cit>
 </sense>
 <sense>
-<u>анат.</u> евстахиева труба
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>евстахиева труба</text></cit>
 </sense>
 </entry>
 </superEntry>

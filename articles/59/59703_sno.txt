@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-холодный (морозный) ветер с гор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный (морозный) ветер с гор</text></cit>
 </sense>
 <sense>
-<u>разг.</u> чутьё, нюх (на что-л. - av)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чутьё, нюх (на что-л. - av)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,10 +29,11 @@
 <inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 </form>
 <sense>
-плести (верёвку), заплетать (косу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плести (верёвку), заплетать (косу)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> вертеть, вить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертеть, вить</text></cit>
 <сit type="example"><text>sno seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>виться, извиваться</text></cit></cit>
 <сit type="example"><text>sno seg som en ål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться ужом</text></cit></cit>
 </sense>
@@ -41,7 +43,8 @@
 <form>
 <orth type="lemma">sno</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> стянуть, стащить, своровать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стянуть, стащить, своровать</text></cit>
 </sense>
 </entry>
 </superEntry>

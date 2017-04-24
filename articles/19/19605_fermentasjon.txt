@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-брожение, бродильный процесс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брожение, бродильный процесс</text></cit>
 </sense>
 <sense>
-<u>хим.</u> ферментация
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ферментация</text></cit>
 </sense>
 </entry>
 </superEntry>

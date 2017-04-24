@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gull</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-золото
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>золото</text></cit>
 <сit type="example"><text>av gull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотой</text></cit></cit>
 <сit type="example"><text>ekte (uekte) gull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настоящее (поддельное) золото</text></cit></cit>
 <сit type="example"><text>det er ikke gull alt som glimrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> не всё то золото, что блестит</text></cit></cit>

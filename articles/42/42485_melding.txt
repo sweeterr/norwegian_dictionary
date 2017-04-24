@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-сообщение, извещение, уведомление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообщение, извещение, уведомление</text></cit>
 </sense>
 <sense>
-<u>воен.</u> донесение, доклад
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>донесение, доклад</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svire</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-кутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутить</text></cit>
 <сit type="example"><text>svire i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предаваться чему-л.</text></cit></cit>
 <сit type="example"><text>svire bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пропить, прокутить</text></cit></cit>
 </sense>

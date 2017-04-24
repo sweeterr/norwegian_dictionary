@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">konvoiskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> конвойное судно
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конвойное судно</text></cit>
 </sense>
 </entry>
 </superEntry>

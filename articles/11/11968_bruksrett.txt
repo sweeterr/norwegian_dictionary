@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bruksrett</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> право пользования (чужой собственностью)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право пользования (чужой собственностью)</text></cit>
 <сit type="example"><text>vederlagsfri bruksrett til jorda</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесплатное (безвозмездное) пользование землёй</text></cit></cit>
 </sense>
 </entry>

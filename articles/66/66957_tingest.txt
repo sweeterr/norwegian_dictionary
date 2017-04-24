@@ -8,13 +8,14 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-всякая мелочь, безделушки, побрякушки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всякая мелочь, безделушки, побрякушки</text></cit>
 </sense>
 <sense>
-<u>разг.</u> вещица
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещица</text></cit>
 </sense>
 <sense>
-малыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малыш</text></cit>
 </sense>
 </entry>
 </superEntry>

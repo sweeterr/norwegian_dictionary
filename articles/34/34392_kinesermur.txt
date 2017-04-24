@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kinesermur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>перен.</u> китайская стена
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>китайская стена</text></cit>
 </sense>
 </entry>
 </superEntry>

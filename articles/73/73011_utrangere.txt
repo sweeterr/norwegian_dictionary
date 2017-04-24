@@ -8,13 +8,15 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-выбраковывать (товар)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбраковывать (товар)</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> переводить на запасные пути
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переводить на запасные пути</text></cit>
 </sense>
 <sense>
-<u>воен.</u> списывать (старую технику)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>списывать (старую технику)</text></cit>
 </sense>
 </entry>
 </superEntry>

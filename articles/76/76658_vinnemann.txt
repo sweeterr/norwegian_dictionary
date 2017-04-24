@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vinnemann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>диал.</u> подёнщик, батрак
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подёнщик, батрак</text></cit>
 </sense>
 </entry>
 </superEntry>

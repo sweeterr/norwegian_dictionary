@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">van</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>миф.</u> Ван (божество плодородия в скандинавской мифологии)
+<usg>миф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Ван (божество плодородия в скандинавской мифологии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">van</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> см. vant II
+<usg>диал.</usg>
+<ref>vant II</ref>
 </sense>
 </entry>
 </superEntry>

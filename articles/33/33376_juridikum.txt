@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">juridikum</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> экзамен по юридическим наукам
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзамен по юридическим наукам</text></cit>
 </sense>
 </entry>
 </superEntry>

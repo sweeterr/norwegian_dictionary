@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">leger</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> 
+<usg>уст.</usg>
 <ref>legervall 2)</ref>
 </sense>
 </entry>
@@ -16,13 +16,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-домик в горах (где можно переночевать)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домик в горах (где можно переночевать)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> лёжка (зверя)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёжка (зверя)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> койка, постель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>койка, постель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,15 +33,14 @@
 <orth type="lemma">leger</orth>
 <phon>|le'∫æ:r|</phon>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-поверхностный, неглубокий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поверхностный, неглубокий</text></cit>
 </sense>
 <sense>
-легкомысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kambrisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>геол.</u> кембрийский
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кембрийский</text></cit>
 </sense>
 </entry>
 </superEntry>

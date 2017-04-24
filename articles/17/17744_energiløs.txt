@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">energiløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неэнергичный, лишённый энергии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неэнергичный, лишённый энергии</text></cit>
 </sense>
 </entry>
 </superEntry>

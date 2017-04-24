@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">eggplante</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-баклажан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баклажан</text></cit>
 </sense>
 </entry>
 </superEntry>

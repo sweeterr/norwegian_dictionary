@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bruse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> низкорослый можжевельник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкорослый можжевельник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,22 +16,22 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-бушевать, шуметь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бушевать, шуметь</text></cit>
 </sense>
 <sense>
-рокотать (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рокотать (о море)</text></cit>
 </sense>
 <sense>
-шипеть, клокотать, бурлить (о жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шипеть, клокотать, бурлить (о жидкости)</text></cit>
 </sense>
 <sense>
-кипеть (о жизни, крови)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кипеть (о жизни, крови)</text></cit>
 </sense>
 <sense>
-развеваться (о волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развеваться (о волосах)</text></cit>
 </sense>
 <sense>
-распушить (перья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распушить (перья)</text></cit>
 <сit type="example"><text>bruse opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> вскипеть</text></cit></cit>
 <сit type = "example"><text>bruse over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поливать из шланга (цветы, траву)</text></cit></cit>
 <сit type = "example"><text>bruse over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> переливаться через край (о пене)</text></cit></cit>

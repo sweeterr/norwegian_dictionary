@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-привкус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привкус</text></cit>
 </sense>
 <sense>
-<u>перен.</u> осадок
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадок</text></cit>
 <сit type="example"><text>en bitter ettersmak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неприятный осадок</text></cit></cit>
 </sense>
 </entry>

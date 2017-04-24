@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kardangkryss</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> крестовина карданного вала
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестовина карданного вала</text></cit>
 </sense>
 </entry>
 </superEntry>

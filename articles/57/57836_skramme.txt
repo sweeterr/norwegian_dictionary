@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skramme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-царапина, ссадина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царапина, ссадина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skramme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-скрести, царапать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрести, царапать</text></cit>
 </sense>
 </entry>
 </superEntry>

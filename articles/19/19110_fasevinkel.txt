@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fasevinkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>физ.</u> фазный (фазо вый) угол
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фазный (фазо вый) угол</text></cit>
 </sense>
 </entry>
 </superEntry>

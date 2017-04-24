@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">gangbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-проходимый (о дороге, тропинке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходимый (о дороге, тропинке)</text></cit>
 </sense>
 <sense>
-ходовой, общеупотребительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходовой, общеупотребительный</text></cit>
 </sense>
 <sense>
-находящийся в обращении (о монетах, бумажных деньгах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находящийся в обращении (о монетах, бумажных деньгах)</text></cit>
 </sense>
 </entry>
 </superEntry>

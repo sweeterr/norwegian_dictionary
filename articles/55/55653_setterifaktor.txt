@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">setterifaktor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>полигр.</u> заведующий наборным цехом
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заведующий наборным цехом</text></cit>
 </sense>
 </entry>
 </superEntry>

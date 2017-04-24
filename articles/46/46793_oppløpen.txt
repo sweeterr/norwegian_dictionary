@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">oppløpen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-долговязый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долговязый</text></cit>
 </sense>
 </entry>
 </superEntry>

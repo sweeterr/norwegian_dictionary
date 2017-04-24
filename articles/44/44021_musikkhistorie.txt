@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">musikkhistorie</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-история музыки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история музыки</text></cit>
 </sense>
 </entry>
 </superEntry>

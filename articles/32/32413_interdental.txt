@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">interdental</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> межзубный, интердентальный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>межзубный, интердентальный</text></cit>
 </sense>
 </entry>
 </superEntry>

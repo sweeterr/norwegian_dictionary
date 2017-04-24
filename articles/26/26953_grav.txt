@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-могила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>могила</text></cit>
 <сit type="example"><text>navnløse graver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забытые (безымянные) могилы</text></cit></cit>
 <сit type="example"><text>fra vuggen til graven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с рождения до гробовой доски</text></cit></cit>
 <сit type="example"><text>finne sin grav</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти свою смерть, погибнуть</text></cit></cit>
@@ -24,14 +24,15 @@
 <сit type="example"><text>være taus som graven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть молчаливым как могила</text></cit></cit>
 </sense>
 <sense>
-яма, ров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яма, ров</text></cit>
 <сit type="example"><text>den som graver en grav for andre, faller selv i den</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> не рой другому ямы, сам в неё попадёшь</text></cit></cit>
 </sense>
 <sense>
-ловчая яма, западня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловчая яма, западня</text></cit>
 </sense>
 <sense>
-<u>воен.</u> окоп, траншея
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окоп, траншея</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,10 +42,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> маленькое овощное поле
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленькое овощное поле</text></cit>
 </sense>
 <sense>
-придирки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придирки</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,11 +8,11 @@
 <gramGrp><num>pl</num></gramGrp>
 </form>
 <sense>
-летопись событий, анналы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>летопись событий, анналы</text></cit>
 <сit type="example"><text>skrive sitt navn i landets annaler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увековечить своё имя</text></cit></cit>
 </sense>
 <sense>
-ежегодники
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ежегодники</text></cit>
 </sense>
 </entry>
 </superEntry>

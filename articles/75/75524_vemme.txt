@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vemme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> см. lagesild
+<usg>диал.</usg>
+<ref>lagesild</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">vemme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вызывать отвращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать отвращение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svensketiden</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>ист.</u> период шведско-норвежской унии (1814 - 1905 гг.)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>период шведско-норвежской унии (1814 - 1905 гг.)</text></cit>
 </sense>
 </entry>
 </superEntry>

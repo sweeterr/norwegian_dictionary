@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vannstender</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ж.-д.</u> водонаборная колонка, гидроколонка
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водонаборная колонка, гидроколонка</text></cit>
 </sense>
 </entry>
 </superEntry>

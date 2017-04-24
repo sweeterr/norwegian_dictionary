@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">fornem</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-важный, предпочтительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>важный, предпочтительный</text></cit>
 </sense>
 <sense>
-знатный (о человеке), высокопоставленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный (о человеке), высокопоставленный</text></cit>
 </sense>
 <sense>
-высокомерный, надменный, изысканный, аристократичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокомерный, надменный, изысканный, аристократичный</text></cit>
 </sense>
 </entry>
 </superEntry>

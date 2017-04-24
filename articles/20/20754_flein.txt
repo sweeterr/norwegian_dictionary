@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">flein</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> голый (о земле), обнажённый (о деревьях)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голый (о земле), обнажённый (о деревьях)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">patologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-патология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патология</text></cit>
 </sense>
 </entry>
 </superEntry>

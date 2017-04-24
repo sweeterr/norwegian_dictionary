@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-порт, гавань, пристань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порт, гавань, пристань</text></cit>
 <сit type="example"><text>kunstig (naturlig) havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искусственная (естественная) гавань</text></cit></cit>
 <сit type="example"><text>anløpe en havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заходить в порт</text></cit></cit>
 <сit type="example"><text>komme (seile) i havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>входить в гавань (порт)</text></cit></cit>
 <сit type="example"><text>ligge i havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять в порту (гавани)</text></cit></cit>
 </sense>
 <sense>
-тихая пристань, тихая заводь, прибежище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихая пристань, тихая заводь, прибежище</text></cit>
 <сit type="example"><text>bringe (vel) i havn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> доводить до победного конца</text></cit></cit>
 </sense>
 </entry>
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">havn</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-пастбище, выгон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастбище, выгон</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">indoeuropeisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>лингв.</u> индоевропейский
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индоевропейский</text></cit>
 </sense>
 </entry>
 </superEntry>

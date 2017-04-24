@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">klusil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> смычной, взрывной звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смычной, взрывной звук</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">klusil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> смычной, взрывной
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смычной, взрывной</text></cit>
 </sense>
 </entry>
 </superEntry>

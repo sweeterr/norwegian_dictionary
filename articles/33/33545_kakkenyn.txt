@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kakkenyn</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> брюзга, брюзгливая женщина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брюзга, брюзгливая женщина</text></cit>
 </sense>
 </entry>
 </superEntry>

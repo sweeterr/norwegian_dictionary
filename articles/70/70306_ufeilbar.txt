@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">ufeilbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безошибочный, непогрешимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безошибочный, непогрешимый</text></cit>
 </sense>
 </entry>
 </superEntry>

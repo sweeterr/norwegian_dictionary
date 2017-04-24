@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flatskyts</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> орудие с настильной траекторией
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орудие с настильной траекторией</text></cit>
 </sense>
 </entry>
 </superEntry>

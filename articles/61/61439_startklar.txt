@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">startklar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-готовый к старту (к отходу, отъезду, отплытию)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готовый к старту (к отходу, отъезду, отплытию)</text></cit>
 </sense>
 </entry>
 </superEntry>

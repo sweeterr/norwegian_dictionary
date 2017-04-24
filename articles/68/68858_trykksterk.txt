@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">trykksterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>лингв.</u> ударный, ударяемый (о слоге)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударный, ударяемый (о слоге)</text></cit>
 </sense>
 </entry>
 </superEntry>

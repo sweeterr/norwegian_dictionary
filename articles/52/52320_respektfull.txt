@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">respektfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-почтительный, уважительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтительный, уважительный</text></cit>
 </sense>
 </entry>
 </superEntry>

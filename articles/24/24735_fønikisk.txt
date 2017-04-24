@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fønikisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>ист.</u> финикийский, финикийский язык
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>финикийский, финикийский язык</text></cit>
 </sense>
 </entry>
 </superEntry>

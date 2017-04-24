@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kamille</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бот.</u> ромашка аптечная
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ромашка аптечная</text></cit>
 </sense>
 </entry>
 </superEntry>

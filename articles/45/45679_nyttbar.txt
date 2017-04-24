@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">nyttbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-полезный, пригодный, применимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полезный, пригодный, применимый</text></cit>
 </sense>
 </entry>
 </superEntry>

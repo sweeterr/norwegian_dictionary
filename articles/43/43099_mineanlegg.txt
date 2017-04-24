@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mineanlegg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> мина, <u>уст.</u> минные галереи
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мина, <lbl>уст.</lbl> минные галереи</text></cit>
 </sense>
 </entry>
 </superEntry>

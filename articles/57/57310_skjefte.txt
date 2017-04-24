@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-рукоятка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукоятка</text></cit>
 </sense>
 <sense>
-<u>воен.</u> ложа (винтовки)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложа (винтовки)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">skjefte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-насаживать ручку, рукоятку (топора, молотка, косы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насаживать ручку, рукоятку (топора, молотка, косы)</text></cit>
 </sense>
 </entry>
 </superEntry>

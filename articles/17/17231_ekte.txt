@@ -7,16 +7,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-настоящий, истинный, подлинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий, истинный, подлинный</text></cit>
 </sense>
 <sense>
-чистый, неподдельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, неподдельный</text></cit>
 </sense>
 <sense>
-натуральный (о драгоценных камнях, вине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натуральный (о драгоценных камнях, вине)</text></cit>
 </sense>
 <sense>
-законнорождённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законнорождённый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +32,7 @@
 <form>
 <orth type="lemma">ekte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-жениться, выходить замуж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жениться, выходить замуж</text></cit>
 </sense>
 </entry>
 </superEntry>

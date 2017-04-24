@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trådtrekkerbenk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> волочильный стан
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волочильный стан</text></cit>
 </sense>
 </entry>
 </superEntry>

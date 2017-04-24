@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barnesykehus</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-детская больница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детская больница</text></cit>
 </sense>
 </entry>
 </superEntry>

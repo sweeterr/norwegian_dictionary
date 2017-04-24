@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">etterbrenner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ав.</u> камера дожигания топлива, форсажная камера
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камера дожигания топлива, форсажная камера</text></cit>
 </sense>
 </entry>
 </superEntry>

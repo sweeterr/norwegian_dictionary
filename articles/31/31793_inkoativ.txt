@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">inkoativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> начинательный глагол
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начинательный глагол</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">inkoativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-начинательный (о глаголе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начинательный (о глаголе)</text></cit>
 </sense>
 </entry>
 </superEntry>

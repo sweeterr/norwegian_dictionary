@@ -7,14 +7,14 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-указывает на движение из, за пределы чего-л., вон, наружу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на движение из, за пределы чего-л., вон, наружу</text></cit>
 <сit type="example"><text>ut av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из (чего-л.)</text></cit></cit>
 <сit type="example"><text>ut til gata</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходящий на улицу (о двери, окне)</text></cit></cit>
 <сit type="example"><text>komme ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить</text></cit></cit>
 <сit type="example"><text>ut med deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирайся прочь (вон)</text></cit></cit>
 </sense>
 <sense>
-придаёт глаголам значение завершённости, однократности действия, обычно соответствует глаголам совершенного вида в русском языке:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придаёт глаголам значение завершённости, однократности действия, обычно соответствует глаголам совершенного вида в русском языке:</text></cit>
 <сit type="example"><text>drikke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпить</text></cit></cit>
 <сit type="example"><text>tale ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высказать своё мнение</text></cit></cit>
 </sense>
@@ -29,8 +29,8 @@
 <сit type="example"><text>jeg må ut med ham på et gilde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я должен ехать с ним на вечеринку</text></cit></cit>
 </sense>
 <sense>
-сочетания ut с глаголами см. под соответствующими простыми глаголами, напр.:
-<сit type="example"><text>utsette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. под sette</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочетания ut с глаголами см. под соответствующими простыми глаголами, напр.:</text></cit>
+<сit type="example"><text>utsette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>под sette</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

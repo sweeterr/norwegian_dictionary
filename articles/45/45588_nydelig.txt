@@ -7,20 +7,22 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-красивый, изящный (о человеке, одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый, изящный (о человеке, одежде)</text></cit>
 </sense>
 <sense>
-прекрасный, замечательный (о виде, пейзаже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасный, замечательный (о виде, пейзаже)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> вкусный, аппетитный, лакомый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкусный, аппетитный, лакомый</text></cit>
 </sense>
 <sense>
-отличный, превосходный (о выполнении, работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отличный, превосходный (о выполнении, работе)</text></cit>
 <сit type="example"><text>det var jo nydelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замечательно</text></cit></cit>
 </sense>
 <sense>
-<u>ирон.</u> уж и хороший, уж и замечательный
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уж и хороший, уж и замечательный</text></cit>
 </sense>
 </entry>
 </superEntry>

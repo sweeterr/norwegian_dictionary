@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-укорачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укорачивать</text></cit>
 <сit type="example"><text>forkorte sitt liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить самоубийство</text></cit></cit>
 </sense>
 <sense>
-сокращать, уменьшать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать, уменьшать</text></cit>
 </sense>
 <sense>
-<u>мат.</u> сокращать (дробь)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать (дробь)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">blomsterrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-изобилующий цветами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобилующий цветами</text></cit>
 </sense>
 </entry>
 </superEntry>

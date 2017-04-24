@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-посещаемость (курсов, школы, лекций)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посещаемость (курсов, школы, лекций)</text></cit>
 </sense>
 <sense>
-множество, (из)обилие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>множество, (из)обилие</text></cit>
 </sense>
 <sense>
-<u>физ.</u> частота колебаний
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частота колебаний</text></cit>
 </sense>
 </entry>
 </superEntry>

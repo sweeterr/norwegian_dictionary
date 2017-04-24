@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">observatør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> , <u>дип.</u>
-наблюдатель
+<usg>воен.</usg>
+<usg>дип.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наблюдатель</text></cit>
 </sense>
 </entry>
 </superEntry>

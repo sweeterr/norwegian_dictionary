@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-муха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муха</text></cit>
 <сit type="example"><text>dø (falle) som fluer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>умирать как мухи</text></cit></cit>
 <сit type="example"><text>ha fluer i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть с причудами (капризами)</text></cit></cit>
 <сit type="example"><text>se fluer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мерещиться</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>slå to fluer i en (ett) smekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убить двух зайцев (одним ударом)</text></cit></cit>
 </sense>
 <sense>
-мормышка (в виде мухи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мормышка (в виде мухи)</text></cit>
 </sense>
 </entry>
 </superEntry>

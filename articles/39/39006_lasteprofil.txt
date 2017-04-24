@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lasteprofil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> габарит нагрузки
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>габарит нагрузки</text></cit>
 </sense>
 </entry>
 </superEntry>

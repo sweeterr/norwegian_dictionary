@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">middagslinje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>астр.</u> полуденная линия
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полуденная линия</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-отдых
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдых</text></cit>
 <сit type="example"><text>uten rast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без отдыха, без перерыва, без передышки</text></cit></cit>
 <сit type="example"><text>ikke ha (ikke unne en) rast eller rorast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь ни отдыха, ни срока</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> привал
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привал</text></cit>
 <сit type="example"><text>holde rast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать привал</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> норвежская миля (10 км), переход длиной в одну норвежскую милю
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская миля (10 км), переход длиной в одну норвежскую милю</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +26,8 @@
 <form>
 <orth type="lemma">rast</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> ряд, штабель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряд, штабель</text></cit>
 </sense>
 </entry>
 </superEntry>

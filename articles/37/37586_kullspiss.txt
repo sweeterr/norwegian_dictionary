@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kullspiss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эл.</u> угольный электрод, уголь (в дуговой лампе)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угольный электрод, уголь (в дуговой лампе)</text></cit>
 </sense>
 </entry>
 </superEntry>

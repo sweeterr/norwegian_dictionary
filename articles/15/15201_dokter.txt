@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">dokter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-доктор, врач
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доктор, врач</text></cit>
 </sense>
 <sense>
-кофе с водкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кофе с водкой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">midtskips</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>мор.</u> в средней части судна, по миделю
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в средней части судна, по миделю</text></cit>
 <сit type="example"><text>midtskips!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо руля! (команда)</text></cit></cit>
 </sense>
 </entry>

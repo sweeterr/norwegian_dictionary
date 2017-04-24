@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">ukommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> ещё не пришедший, ещё не прибывший
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ещё не пришедший, ещё не прибывший</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">beskjerme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-защищать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защищать</text></cit>
 </sense>
 <sense>
-прикрывать, закрывать (от солнца, дождя и т. д. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикрывать, закрывать (от солнца, дождя и т. д. - mot)</text></cit>
 </sense>
 </entry>
 </superEntry>

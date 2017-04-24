@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utstrømningsventil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> выпускной клапан
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпускной клапан</text></cit>
 </sense>
 </entry>
 </superEntry>

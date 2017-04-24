@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">bekymringsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полный забот, озабоченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный забот, озабоченный</text></cit>
 </sense>
 <sense>
-вызывающий беспокойство, беспокоящий, беспокойный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывающий беспокойство, беспокоящий, беспокойный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">spesifikk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-особый, специфический, своеобразный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>особый, специфический, своеобразный</text></cit>
 </sense>
 <sense>
-<u>физ.</u> удельный (о весе, сопротивлении и т. п.)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удельный (о весе, сопротивлении и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

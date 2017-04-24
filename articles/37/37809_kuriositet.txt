@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-редкость, редкостное явление, редкостный предмет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкость, редкостное явление, редкостный предмет</text></cit>
 </sense>
 <sense>
-<u>уст.</u> любопытство
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любопытство</text></cit>
 <сit type="example"><text>for kuriositetens skyld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ради интереса (любопытства)</text></cit></cit>
 </sense>
 </entry>

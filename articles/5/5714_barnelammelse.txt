@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barnelammelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> полиомиелит, детский паралич
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полиомиелит, детский паралич</text></cit>
 </sense>
 </entry>
 </superEntry>

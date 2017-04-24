@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">transformatorkjøler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>эл.</u> охлаждающая установка (охладитель) трансформатора
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охлаждающая установка (охладитель) трансформатора</text></cit>
 </sense>
 </entry>
 </superEntry>

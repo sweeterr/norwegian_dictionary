@@ -5,16 +5,17 @@
 <form>
 <orth type="lemma">veng</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-крыло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крыло</text></cit>
 </sense>
 <sense>
-крылышко (для подметания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крылышко (для подметания)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> каюта в кормовой части (небольших судов)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каюта в кормовой части (небольших судов)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">selvegen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-своеобразный, оригинальный, самобытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своеобразный, оригинальный, самобытный</text></cit>
 </sense>
 </entry>
 </superEntry>

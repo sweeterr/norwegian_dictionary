@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vake</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бодрствовать, не спать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрствовать, не спать</text></cit>
 </sense>
 <sense>
-быть бдительным, следить (за чем-либо - over)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть бдительным, следить (за чем-либо - over)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,13 +21,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> держаться (плавать) на поверхности воды
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держаться (плавать) на поверхности воды</text></cit>
 </sense>
 <sense>
-играть (о рыбе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (о рыбе)</text></cit>
 </sense>
 <sense>
-покачиваться на волнах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покачиваться на волнах</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +36,7 @@
 <form>
 <orth type="lemma">vake</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-прорубать прорубь, пропиливать прорубь специальной пилой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорубать прорубь, пропиливать прорубь специальной пилой</text></cit>
 </sense>
 </entry>
 </superEntry>

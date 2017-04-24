@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vannkjøler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>тех.</u> водяной охладитель
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водяной охладитель</text></cit>
 </sense>
 </entry>
 </superEntry>

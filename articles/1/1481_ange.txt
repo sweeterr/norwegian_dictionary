@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ange</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-приятный запах, аромат, благоухание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приятный запах, аромат, благоухание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-благоухать, испускать аромат, издавать приятный запах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благоухать, испускать аромат, издавать приятный запах</text></cit>
 </sense>
 <sense>
-распространяться (о благоухании, аромате)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распространяться (о благоухании, аромате)</text></cit>
 </sense>
 </entry>
 </superEntry>

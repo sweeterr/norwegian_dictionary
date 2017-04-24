@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sjelden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-редкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий</text></cit>
 </sense>
 <sense>
-редкостный, необычный, изысканный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкостный, необычный, изысканный</text></cit>
 <сit type="example"><text>i sjelden grad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в необычайно высокой степени</text></cit></cit>
 </sense>
 </entry>
@@ -23,11 +22,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-редко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редко</text></cit>
 <сit type="example"><text>sjelden eller aldri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почти никогда</text></cit></cit>
 </sense>
 <sense>
-необычно, исключительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необычно, исключительно</text></cit>
 <сit type="example"><text>sjelden vakker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>необычайно красивый</text></cit></cit>
 </sense>
 </entry>

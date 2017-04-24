@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">venusbelte</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>зоол.</u> венерин пояс
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>венерин пояс</text></cit>
 </sense>
 </entry>
 </superEntry>

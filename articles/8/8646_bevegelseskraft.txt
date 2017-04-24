@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bevegelseskraft</orth>
 <inflection><orth extent="part">-kraften (-krafta), -krefter</orth></inflection>
-<u>тех.</u> сила, вызывающая движение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила, вызывающая движение</text></cit>
 </sense>
 </entry>
 </superEntry>

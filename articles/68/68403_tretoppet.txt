@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">tretoppet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>муз.</u>, <u>фон.</u> трёхвершинный
+<usg>муз.</usg>
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трёхвершинный</text></cit>
 </sense>
 </entry>
 </superEntry>

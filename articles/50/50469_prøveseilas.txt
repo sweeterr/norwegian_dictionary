@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">prøveseilas</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> пробный рейс судна
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробный рейс судна</text></cit>
 </sense>
 </entry>
 </superEntry>

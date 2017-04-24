@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">domherreverdighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>церк.</u> сан каноника
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сан каноника</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mugge</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-кувшин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кувшин</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">mugge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 <сit type="example"><text>mugge i hop, mugge sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>копить, собирать</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">mugge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-корпеть, сидеть (над чем-л. - over)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корпеть, сидеть (над чем-л. - over)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,7 +30,8 @@
 <form>
 <orth type="lemma">mugge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> плесневеть, покрываться плесенью
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плесневеть, покрываться плесенью</text></cit>
 </sense>
 </entry>
 <entry>

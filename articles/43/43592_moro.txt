@@ -7,18 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-забава, удовольствие, развлечение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забава, удовольствие, развлечение</text></cit>
 <сit type="example"><text>det er moro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>интересно, забавно</text></cit></cit>
 <сit type="example"><text>for moro skyld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ради потехи, ради шутки, забавы ради</text></cit></cit>
 <сit type = "example"><text>ha moro av noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> получить удовольствие от чего-л.</text></cit></cit>
-<сit type = "example"><text>ha moro av noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>диал.</u> интересоваться чем-л., хотеть, иметь желание</text></cit></cit>
+<сit type = "example"><text>ha moro av noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>диал.</lbl> интересоваться чем-л., хотеть, иметь желание</text></cit></cit>
 <сit type="example"><text>være til moro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить развлечением</text></cit></cit>
 </sense>
 <sense>
-вечеринка, празднество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечеринка, празднество</text></cit>
 </sense>
 <sense>
-веселье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веселье</text></cit>
 </sense>
 </entry>
 </superEntry>

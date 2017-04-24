@@ -5,26 +5,25 @@
 <form>
 <orth type="lemma">valen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-оцепенелый, онемелый, закоченевший (от холода)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оцепенелый, онемелый, закоченевший (от холода)</text></cit>
 </sense>
 <sense>
-слабый, не сильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, не сильный</text></cit>
 </sense>
 <sense>
-вялый, безразличный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый, безразличный</text></cit>
 </sense>
 <sense>
-чуть слышный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуть слышный</text></cit>
 </sense>
 <sense>
-тусклый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тусклый</text></cit>
 </sense>
 <sense>
-нерешительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерешительный</text></cit>
 </sense>
 </entry>
 </superEntry>

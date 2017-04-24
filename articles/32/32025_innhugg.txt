@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">innhugg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-врубка, врезка, высекание, высечение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врубка, врезка, высекание, высечение</text></cit>
 <сit type = "example"><text>gjøre innhugg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> врубаться, врезаться</text></cit></cit>
 <сit type = "example"><text>gjøre innhugg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вступать в спор (беседу)</text></cit></cit>
 </sense>

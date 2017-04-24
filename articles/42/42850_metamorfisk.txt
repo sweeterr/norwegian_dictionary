@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">metamorfisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>геол.</u> метаморфический (о горной породе)
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метаморфический (о горной породе)</text></cit>
 </sense>
 </entry>
 </superEntry>

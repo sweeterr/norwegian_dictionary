@@ -5,11 +5,10 @@
 <form>
 <orth type="lemma">fjern</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-далёкий, отдалённый, дальний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкий, отдалённый, дальний</text></cit>
 <сit type="example"><text>fra det fjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>издалека</text></cit></cit>
 <сit type="example"><text>fra nær og fjern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отовсюду</text></cit></cit>
 <сit type="example"><text>i det fjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдали, вдалеке</text></cit></cit>
@@ -17,7 +16,7 @@
 <сit type="example"><text>ha ikke den fjerneste ide om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не иметь ни малейшего представления о чём л.</text></cit></cit>
 </sense>
 <sense>
-рассеянный, отсутствующий (взгляд, вид)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассеянный, отсутствующий (взгляд, вид)</text></cit>
 </sense>
 </entry>
 </superEntry>

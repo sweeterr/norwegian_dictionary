@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hjortetakksalt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> углекислый аммоний, сода
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>углекислый аммоний, сода</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-куртка, тужурка, жакетка, свитер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куртка, тужурка, жакетка, свитер</text></cit>
 </sense>
 <sense>
-<u>уст.</u> дамская сорочка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дамская сорочка</text></cit>
 <сit type = "example"><text>få seg en banket (børstet) trøye :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть избитым</text></cit></cit>
-<сit type = "example"><text>få seg en banket (børstet) trøye :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>уст.</u> заработать себе порку</text></cit></cit>
+<сit type = "example"><text>få seg en banket (børstet) trøye :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>уст.</lbl> заработать себе порку</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -22,10 +23,10 @@
 <inflection><orth extent="part">-de, -d</orth></inflection>
 </form>
 <sense>
-проводить время, канителиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить время, канителиться</text></cit>
 </sense>
 <sense>
-отнестись спокойно (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отнестись спокойно (к чему-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

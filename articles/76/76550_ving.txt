@@ -7,27 +7,30 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-крыло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крыло</text></cit>
 <сit type="example"><text>ligge lavt på vingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низко лететь</text></cit></cit>
 <сit type="example"><text>ta til vinger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взлететь, вспорхнуть</text></cit></cit>
 </sense>
 <sense>
-откидная доска (у стола)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откидная доска (у стола)</text></cit>
 </sense>
 <sense>
-лопасть (винта, турбины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лопасть (винта, турбины)</text></cit>
 </sense>
 <sense>
-<u>ав.</u> плоскость, крыло
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоскость, крыло</text></cit>
 <сit type="example"><text>gå (komme) på vingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подняться в воздух</text></cit></cit>
 <сit type="example"><text>ligge på vingene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кружить над местом посадки</text></cit></cit>
 <сit type="example"><text>være på vingene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лететь, быть в полёте</text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> звено, «крыло»
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звено, «крыло»</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> крайний нападающий, фланговый
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайний нападающий, фланговый</text></cit>
 <сit type="example"><text>tre (i) vingen for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приседать перед кем-л.</text></cit></cit>
 </sense>
 </entry>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-магнит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магнит</text></cit>
 </sense>
 <sense>
-<u>перен.</u> привлекательный человек
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привлекательный человек</text></cit>
 </sense>
 <sense>
-<u>тех.</u> магнето
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магнето</text></cit>
 </sense>
 </entry>
 </superEntry>

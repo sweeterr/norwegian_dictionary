@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sitar</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> лира
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лира</text></cit>
 </sense>
 </entry>
 </superEntry>

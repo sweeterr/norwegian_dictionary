@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kurteisi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> учтивость, вежливость, благовоспитанность
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учтивость, вежливость, благовоспитанность</text></cit>
 </sense>
 </entry>
 </superEntry>

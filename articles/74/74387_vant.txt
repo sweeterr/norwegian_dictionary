@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vant</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>мор.</u> ванты, снасти
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ванты, снасти</text></cit>
 <сit type="example"><text>stramme vantene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть ванты</text></cit></cit>
 <сit type="example"><text>svikte vantene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослабить ванты</text></cit></cit>
 </sense>
@@ -17,16 +18,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-приученный, привыкший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приученный, привыкший</text></cit>
 <сit type="example"><text>være vant til (med, ved)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть к чему-л., свыкнуться с чем-л.</text></cit></cit>
 <сit type="example"><text>være godt (dårlig) vant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть жить в хороших (плохих) условиях</text></cit></cit>
 </sense>
 <sense>
-опытный, испытанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опытный, испытанный</text></cit>
 <сit type="example"><text>med vant hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опытной рукой</text></cit></cit>
 </sense>
 <sense>
-привычный, обычный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привычный, обычный</text></cit>
 </sense>
 </entry>
 <entry>

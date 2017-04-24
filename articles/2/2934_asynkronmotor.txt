@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">asynkronmotor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>эл.</u> асинхронный двигатель
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>асинхронный двигатель</text></cit>
 </sense>
 </entry>
 </superEntry>

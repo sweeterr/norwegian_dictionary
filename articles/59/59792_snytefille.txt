@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snytefille</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> носовой платок
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носовой платок</text></cit>
 </sense>
 </entry>
 </superEntry>

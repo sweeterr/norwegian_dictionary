@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-лейтмотив, основной тон (настроения, жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лейтмотив, основной тон (настроения, жизни)</text></cit>
 </sense>
 <sense>
-основной цвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основной цвет</text></cit>
 </sense>
 <sense>
-<u>муз.</u> основной тон аккорда
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основной тон аккорда</text></cit>
 </sense>
 <sense>
-<u>физ.</u> самый низкий звук (тон)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый низкий звук (тон)</text></cit>
 </sense>
 </entry>
 </superEntry>

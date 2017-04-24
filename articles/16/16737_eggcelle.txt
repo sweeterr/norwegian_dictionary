@@ -7,10 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u>, <u>анат.</u> яйцеклетка
+<usg>зоол.</usg>
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яйцеклетка</text></cit>
 </sense>
 <sense>
-<u>бот.</u> семенная клетка
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>семенная клетка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mamma</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> мама
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мама</text></cit>
 </sense>
 </entry>
 </superEntry>

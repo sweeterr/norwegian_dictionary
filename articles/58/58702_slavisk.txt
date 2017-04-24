@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slavisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-славянский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>славянский</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">slavisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-рабский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабский</text></cit>
 <сit type="example"><text>en slavisk etterligning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рабское подражание</text></cit></cit>
 </sense>
 </entry>

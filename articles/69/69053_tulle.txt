@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">tulle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сумасбродка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасбродка</text></cit>
 </sense>
 <sense>
-<u>ласк.</u> глупышка, малютка, малышка
+<usg>ласк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупышка, малютка, малышка</text></cit>
 <сit type="example"><text>ei lite tulle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> моя малютка</text></cit></cit>
 </sense>
 </entry>
@@ -20,26 +21,26 @@
 <form>
 <orth type="lemma">tulle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-крутить, вертеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутить, вертеть</text></cit>
 <сit type="example"><text>tulle bort (rundt)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обманывать, водить за нос</text></cit></cit>
 </sense>
 <sense>
-обёртывать, завёртывать, закутывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обёртывать, завёртывать, закутывать</text></cit>
 </sense>
 <sense>
-связывать в узел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывать в узел</text></cit>
 </sense>
 <sense>
-носиться (бегать) кругом (кого, чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носиться (бегать) кругом (кого, чего-л.)</text></cit>
 </sense>
 <sense>
-заниматься чем-л. впустую
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься чем-л. впустую</text></cit>
 </sense>
 <sense>
-болтать глупости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать глупости</text></cit>
 <сit type="example"><text>tulle inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>связывать вместе (в узел)</text></cit></cit>
 <сit type="example"><text>tulle rundt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>носиться (бегать) кругом</text></cit></cit>
 <сit type="example"><text>tulle seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крутиться, закручиваться</text></cit></cit>
@@ -51,7 +52,8 @@
 <form>
 <orth type="lemma">tulle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> напевать, мурлыкать (песню)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напевать, мурлыкать (песню)</text></cit>
 </sense>
 </entry>
 </superEntry>

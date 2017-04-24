@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">museumsgjenstand</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-музейный экспонат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музейный экспонат</text></cit>
 </sense>
 </entry>
 </superEntry>

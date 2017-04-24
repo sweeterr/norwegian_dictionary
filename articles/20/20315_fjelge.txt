@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fjelge</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-чистота, опрятность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистота, опрятность</text></cit>
 </sense>
 <sense>
-уют
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уют</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,16 +19,16 @@
 <form>
 <orth type="lemma">fjelge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-убирать, чистить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убирать, чистить</text></cit>
 </sense>
 <sense>
-украшать, наряжать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украшать, наряжать</text></cit>
 </sense>
 <sense>
-создавать уют
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>создавать уют</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">glante</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-скользить в сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользить в сторону</text></cit>
 </sense>
 <sense>
-шутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутить</text></cit>
 </sense>
 </entry>
 </superEntry>

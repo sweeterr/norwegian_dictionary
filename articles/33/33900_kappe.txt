@@ -7,23 +7,23 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-пальто, плащ с капюшоном
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пальто, плащ с капюшоном</text></cit>
 </sense>
 <sense>
-мантия (судьи, духовного лица), ряса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мантия (судьи, духовного лица), ряса</text></cit>
 <сit type="example"><text>bli dømt fra kappe og krage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть лишённым сана</text></cit></cit>
 </sense>
 <sense>
-шинель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шинель</text></cit>
 </sense>
 <sense>
-портьера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портьера</text></cit>
 </sense>
 <sense>
-чехол, кожух, оболочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чехол, кожух, оболочка</text></cit>
 </sense>
 <sense>
-чепец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чепец</text></cit>
 <сit type="example"><text>gå (komme) på ens kappe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нести ответственность за что-л.</text></cit></cit>
 <сit type="example"><text>ta noe på sin kappe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать ответственность на себя</text></cit></cit>
 <сit type="example"><text>vende (snu) kappen etter vinden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать нос по ветру</text></cit></cit>
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">kappe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-соревноваться, состязаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соревноваться, состязаться</text></cit>
 <сit type="example"><text>kappe(s) med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>состязаться (соревноваться) с кем-л., соперничать с кем-л.</text></cit></cit>
 </sense>
 </entry>
@@ -43,13 +43,13 @@
 <form>
 <orth type="lemma">kappe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-рубить, обрубать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубить, обрубать</text></cit>
 </sense>
 <sense>
-отрубать, отпиливать, отрезать (тж. kappe av)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрубать, отпиливать, отрезать (тж. kappe av)</text></cit>
 <сit type="example"><text>kappe ankeret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обрубить якорный (швартовый) канат</text></cit></cit>
 </sense>
 </entry>

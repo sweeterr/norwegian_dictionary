@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">motstandsbremsing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ж.-д.</u> рекуперативное торможение
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рекуперативное торможение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">akesport</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> катание на спортивных салазках
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катание на спортивных салазках</text></cit>
 </sense>
 </entry>
 </superEntry>

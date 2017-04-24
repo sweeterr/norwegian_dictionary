@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sovjetland</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ист.</u> советское государство, советская страна
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>советское государство, советская страна</text></cit>
 </sense>
 </entry>
 </superEntry>

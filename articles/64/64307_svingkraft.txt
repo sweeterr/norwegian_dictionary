@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">svingkraft</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-инерция вращения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инерция вращения</text></cit>
 </sense>
 <sense>
-сила вращения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила вращения</text></cit>
 </sense>
 </entry>
 </superEntry>

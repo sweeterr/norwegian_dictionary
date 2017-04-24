@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">prekelysten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-болтливый, говорливый, разговорчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтливый, говорливый, разговорчивый</text></cit>
 </sense>
 <sense>
-поучающий, морализующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поучающий, морализующий</text></cit>
 </sense>
 </entry>
 </superEntry>

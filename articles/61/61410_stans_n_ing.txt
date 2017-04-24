@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-прекращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекращение</text></cit>
 </sense>
 <sense>
-задержка, препятствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержка, препятствие</text></cit>
 </sense>
 <sense>
-перерыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перерыв</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">stans(n)ing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-штамповка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штамповка</text></cit>
 </sense>
 </entry>
 </superEntry>

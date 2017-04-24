@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">steineik</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> каменный дуб
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменный дуб</text></cit>
 </sense>
 </entry>
 </superEntry>

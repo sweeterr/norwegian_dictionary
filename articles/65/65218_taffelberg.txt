@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">taffelberg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>геогр.</u> столовая гора
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столовая гора</text></cit>
 </sense>
 </entry>
 </superEntry>

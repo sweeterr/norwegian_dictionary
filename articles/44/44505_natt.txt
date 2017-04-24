@@ -7,7 +7,7 @@
 <inflection><orth>natta (natten), netter</orth></inflection>
 </form>
 <sense>
-ночь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночь</text></cit>
 <сit type="example"><text>en belgmørk natt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тёмная-претёмная ночь</text></cit></cit>
 <сit type="example"><text>ble(i)ke (daglyse, lyse) netter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белые ночи</text></cit></cit>
 <сit type="example"><text>netter fattige på søvn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бессонные ночи</text></cit></cit>
@@ -30,11 +30,12 @@
 <сit type="example"><text>være så forskjellig som natt og dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отличаться друг от друга как день и ночь</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> мрак, тьма, темнота
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрак, тьма, темнота</text></cit>
 <сit type="example"><text>gravens vælvede natt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мрак сводов могилы (склепа)</text></cit></cit>
 </sense>
 <sense>
-застой (в развитии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застой (в развитии)</text></cit>
 <сit type="example"><text>bort i natten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> ошибочно, необоснованно, бессмысленно</text></cit></cit>
 </sense>
 </entry>

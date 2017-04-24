@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">repatriering</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-репатриация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репатриация</text></cit>
 <сit type="example"><text>repatriering av krigsfanger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>репатриация военнопленных</text></cit></cit>
 </sense>
 </entry>

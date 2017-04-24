@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-беспорядок, путаница, неразбериха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, путаница, неразбериха</text></cit>
 <сit type="example"><text>komme i ugreien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запутаться, оказаться в беспорядке</text></cit></cit>
 </sense>
 <sense>
-порча; неисправность (работающего механизма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порча; неисправность (работающего механизма)</text></cit>
 <сit type="example"><text>være i ugreie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испортиться</text></cit></cit>
 <сit type="example"><text>det ble noe ugreie med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что-то случилось с (кем, чем-л.)</text></cit></cit>
 </sense>
 <sense>
-неприятность, недоразумение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятность, недоразумение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,10 +26,10 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-спутывать, перепутывать, запутывать, приводить в беспорядок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутывать, перепутывать, запутывать, приводить в беспорядок</text></cit>
 </sense>
 <sense>
-усложнять, создавать неудобства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усложнять, создавать неудобства</text></cit>
 <сit type="example"><text>ugreie seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спутаться, перепутаться, прийти в беспорядок</text></cit></cit>
 </sense>
 </entry>

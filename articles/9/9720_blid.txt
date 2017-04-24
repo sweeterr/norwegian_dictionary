@@ -5,27 +5,26 @@
 <form>
 <orth type="lemma">blid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий, добродушный, нежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий, добродушный, нежный</text></cit>
 </sense>
 <sense>
-светлый, приятный (о воспоминаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светлый, приятный (о воспоминаниях)</text></cit>
 </sense>
 <sense>
-ровный (о местности), восхитительный (о ландшафте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровный (о местности), восхитительный (о ландшафте)</text></cit>
 </sense>
 <sense>
-тёплый, мягкий (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёплый, мягкий (о погоде)</text></cit>
 </sense>
 <sense>
-благоприятный, спокойный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благоприятный, спокойный</text></cit>
 </sense>
 <sense>
 <note>|bli:|</note>
-весёлый, радостный, в хорошем расположении духа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый, радостный, в хорошем расположении духа</text></cit>
 <сit type="example"><text>han ble blid som smør over hele ansiktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он расплылся как масленичный блин</text></cit></cit>
 <сit type="example"><text>være blid på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть расположенным к кому-л.</text></cit></cit>
 <сit type="example"><text>være blid mot en, være en blid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть неравнодушным к кому-л.</text></cit></cit>

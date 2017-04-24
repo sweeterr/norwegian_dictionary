@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bengalerinne</orth>
-<u>-n, -r</u>
-бенгалка
+<inflection><orth extent="part”>-n, -r</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бенгалка</text></cit>
 </sense>
 </entry>
 </superEntry>

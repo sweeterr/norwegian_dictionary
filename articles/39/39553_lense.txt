@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lense</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-острога, ручной гарпун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острога, ручной гарпун</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">lense</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-загарпунить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загарпунить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">lense</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>лес.</u> запань, боны
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запань, боны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,7 @@
 <form>
 <orth type="lemma">lense</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-опорожнять (путём откачки), откачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опорожнять (путём откачки), откачивать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +38,8 @@
 <form>
 <orth type="lemma">lense</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>мор.</u> идти полным ветром
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти полным ветром</text></cit>
 </sense>
 </entry>
 </superEntry>

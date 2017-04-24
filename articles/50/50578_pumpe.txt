@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-насос, помпа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насос, помпа</text></cit>
 <сit type="example"><text>pumpa lenser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насос не качает</text></cit></cit>
 </sense>
 <sense>
-водоразборная колонка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водоразборная колонка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,18 +21,19 @@
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 </form>
 <sense>
-качать (воду, воздух)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качать (воду, воздух)</text></cit>
 <сit type="example"><text>pumpe én for nyheter (penger)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выуживать новости (деньги) у кого-л.</text></cit></cit>
 <сit type="example"><text>pumpe noe ut av én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выудить что-л. у кого-л., узнать что-л. у кого-л.</text></cit></cit>
 </sense>
 <sense>
-накачивать воздух (в баллон)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накачивать воздух (в баллон)</text></cit>
 </sense>
 <sense>
-вытекать (толчками)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытекать (толчками)</text></cit>
 </sense>
 <sense>
-<u>мед.</u> промывать желудок
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промывать желудок</text></cit>
 </sense>
 </entry>
 </superEntry>

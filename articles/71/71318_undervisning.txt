@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">undervisning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-обучение, преподавание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обучение, преподавание</text></cit>
 <сit type="example"><text>privat undervisning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>частное обучение</text></cit></cit>
 <сit type="example"><text>gi undervisning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обучать</text></cit></cit>
 </sense>

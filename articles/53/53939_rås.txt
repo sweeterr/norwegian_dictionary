@@ -5,19 +5,20 @@
 <form>
 <orth type="lemma">rås</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тропинка, дорожка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропинка, дорожка</text></cit>
 </sense>
 <sense>
-<u>мор.</u> фарватер в шхерах
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фарватер в шхерах</text></cit>
 </sense>
 <sense>
-бег, беготня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бег, беготня</text></cit>
 </sense>
 <sense>
-обвал, оползень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвал, оползень</text></cit>
 </sense>
 </entry>
 </superEntry>

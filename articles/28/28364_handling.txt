@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-действие, поступок, акт, деятельность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действие, поступок, акт, деятельность</text></cit>
 <сit type="example"><text>en handlingens mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>человек действия, энергичный человек</text></cit></cit>
 <сit type="example"><text>begå en kriminal handling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить уголовное преступление</text></cit></cit>
 </sense>
 <sense>
-сюжет, действие (пьесы, книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сюжет, действие (пьесы, книги)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> акт
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>акт</text></cit>
 </sense>
 </entry>
 </superEntry>

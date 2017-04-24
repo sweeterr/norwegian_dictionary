@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sigarett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-сигарета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигарета</text></cit>
 </sense>
 </entry>
 </superEntry>

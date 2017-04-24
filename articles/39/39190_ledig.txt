@@ -7,37 +7,38 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-свободный <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-незанятый, пустой (о помещении, вместилище, сиденье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незанятый, пустой (о помещении, вместилище, сиденье)</text></cit>
 <сit type="example"><text>rommet står ledig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>комната не занята (не сдана)</text></cit></cit>
 </sense>
 <sense>
-праздный, незанятой (ничем), не работающий, не имеющий дел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>праздный, незанятой (ничем), не работающий, не имеющий дел</text></cit>
 </sense>
 <sense>
-безработный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безработный</text></cit>
 </sense>
 <sense>
-вакантный (о должности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вакантный (о должности)</text></cit>
 </sense>
 <sense>
-свободный от занятий (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный от занятий (о времени)</text></cit>
 </sense>
 <sense>
-просторный, свободный (об одежде, обуви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просторный, свободный (об одежде, обуви)</text></cit>
 </sense>
 <sense>
-гибкий, сгибающийся, гнущийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибкий, сгибающийся, гнущийся</text></cit>
 </sense>
 <sense>
-холостой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холостой</text></cit>
 <сit type = "example"><text>løs og ledig :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> холостой</text></cit></cit>
 <сit type = "example"><text>løs og ledig :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не имеющий постоянного местожительства, свободный как ветер</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> незафрахтованный
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незафрахтованный</text></cit>
 </sense>
 </entry>
 </superEntry>

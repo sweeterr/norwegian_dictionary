@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fly</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-нагорье (покрытое оленьим мхом, мелким кустарником и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагорье (покрытое оленьим мхом, мелким кустарником и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-муха; комар, гнус, мошка и т. п.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муха; комар, гнус, мошка и т. п.</text></cit>
 </sense>
 <sense>
-<u>диал.</u> приманка (при ловле рыбы)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приманка (при ловле рыбы)</text></cit>
 </sense>
 <sense>
 <ref>flue 2)</ref>
@@ -29,7 +30,7 @@
 <form>
 <orth type="lemma">fly</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-самолёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самолёт</text></cit>
 <сit type="example"><text>rette et fly</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ав.</lbl> выравнивать самолёт</text></cit></cit>
 </sense>
 </entry>
@@ -40,29 +41,29 @@
 <inflection><orth>fløy (flaug), fløyet</orth></inflection>
 </form>
 <sense>
-лететь, летать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лететь, летать</text></cit>
 <сit type="example"><text>komme flyende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прилететь</text></cit></cit>
 <сit type="example"><text>fly på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наскочить, наброситься на кого-л.</text></cit></cit>
 <сit type="example"><text>fly om halsen på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>броситься кому-л. на шею</text></cit></cit>
 <сit type="example"><text>fly i luften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взлететь на воздух, взорваться</text></cit></cit>
 </sense>
 <sense>
-вести самолёт, перевозить по воздуху (пассажиров, грузы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести самолёт, перевозить по воздуху (пассажиров, грузы)</text></cit>
 </sense>
 <sense>
-нестись, мчаться, бежать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нестись, мчаться, бежать</text></cit>
 </sense>
 <sense>
-проноситься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проноситься</text></cit>
 </sense>
 <sense>
-проходить, пролетать (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходить, пролетать (о времени)</text></cit>
 </sense>
 <sense>
-греметь (о славе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>греметь (о славе)</text></cit>
 </sense>
 <sense>
-быстро подниматься, подскакивать (о ценах, ценных бумагах и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстро подниматься, подскакивать (о ценах, ценных бумагах и т. д.)</text></cit>
 <сit type = "example"><text>fly avsted :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> улететь</text></cit></cit>
 <сit type = "example"><text>fly avsted :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сорваться с места (о человеке)</text></cit></cit>
 <сit type="example"><text>fly bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>улететь (совсем)</text></cit></cit>
@@ -82,13 +83,13 @@
 <form>
 <orth type="lemma">fly</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-убежать, удрать, исчезнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убежать, удрать, исчезнуть</text></cit>
 </sense>
 <sense>
-избегать, держаться в стороне от, сторониться чего-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избегать, держаться в стороне от, сторониться чего-л.</text></cit>
 </sense>
 </entry>
 <entry>
@@ -96,7 +97,8 @@
 <form>
 <orth type="lemma">fly</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> разбрасывать приманку для рыбы, собирать рыбу с помощью приманки
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбрасывать приманку для рыбы, собирать рыбу с помощью приманки</text></cit>
 </sense>
 </entry>
 </superEntry>

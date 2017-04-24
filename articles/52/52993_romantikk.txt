@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-романтика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>романтика</text></cit>
 </sense>
 <sense>
-романтизм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>романтизм</text></cit>
 </sense>
 <sense>
-<u>презр.</u> сентиментальность
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сентиментальность</text></cit>
 </sense>
 </entry>
 </superEntry>

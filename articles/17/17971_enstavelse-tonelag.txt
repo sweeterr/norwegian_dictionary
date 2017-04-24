@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enstavelse-tonelag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>фон.</u> простое музыкальное ударение (интонация слов, односложных по происхождению, в норвежском языке)
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простое музыкальное ударение (интонация слов, односложных по происхождению, в норвежском языке)</text></cit>
 </sense>
 </entry>
 </superEntry>

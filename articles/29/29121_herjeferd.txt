@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">herjeferd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ист.</u> поход с целью грабежа, грабительский поход
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поход с целью грабежа, грабительский поход</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjesse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> лакомый кусочек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лакомый кусочек</text></cit>
 </sense>
 </entry>
 </superEntry>

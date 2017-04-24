@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-задний конец, задняя часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задний конец, задняя часть</text></cit>
 </sense>
 <sense>
-см. bak I 1)
+<ref>bak I 1)</ref>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">bakende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>тех.</u> спекающийся
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спекающийся</text></cit>
 <сit type="example"><text>bakende kull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спекающийся уголь</text></cit></cit>
 </sense>
 </entry>

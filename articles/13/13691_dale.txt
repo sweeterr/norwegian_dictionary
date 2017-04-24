@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-опускаться, спускаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опускаться, спускаться</text></cit>
 </sense>
 <sense>
-заходить (о солнце)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заходить (о солнце)</text></cit>
 </sense>
 <sense>
-слабеть, стихать (о ветре, дожде и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабеть, стихать (о ветре, дожде и т. п.)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> деградировать, опускаться (о людях)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деградировать, опускаться (о людях)</text></cit>
 <сit type="example"><text>dale ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться (о птицах)</text></cit></cit>
 </sense>
 </entry>

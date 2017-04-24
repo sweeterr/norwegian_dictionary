@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bok</orth>
 <inflection><orth>boka (boken), bøker</orth></inflection>
-книга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга</text></cit>
 <сit type = "example"><text>en brukt bok :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> подержанная книга</text></cit></cit>
 <сit type = "example"><text>en brukt bok :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> букинистическая книга</text></cit></cit>
 <сit type="example"><text>en heftet bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сброшюрованная книга</text></cit></cit>
@@ -18,18 +18,19 @@
 <сit type="example"><text>tale som en bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-книжному</text></cit></cit>
 </sense>
 <sense>
-рукописный свиток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукописный свиток</text></cit>
 </sense>
 <sense>
-произведение (литературное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произведение (литературное)</text></cit>
 <сit type="example"><text>lese i naturens bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать книгу жизни</text></cit></cit>
 <сit type="example"><text>livets (skjebnens) bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>книга жизни (судеб)</text></cit></cit>
 </sense>
 <sense>
-книга (как часть крупного литературного произведения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга (как часть крупного литературного произведения)</text></cit>
 </sense>
 <sense>
-<u>бухг.</u> книга, мемориал
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга, мемориал</text></cit>
 <сit type="example"><text>føre (holde) bok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести книгу, заносить в книгу</text></cit></cit>
 <сit type="example"><text>føre bok over utgifter og inntekter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести книгу расхода и прихода</text></cit></cit>
 <сit type="example"><text>ta på bok(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покупать в кредит</text></cit></cit>
@@ -37,7 +38,7 @@
 <сit type="example"><text>skrive til bok(s)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заносить в книгу, заносить на чей-л. дебет</text></cit></cit>
 </sense>
 <sense>
-десть бумаги (равна 24 листам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>десть бумаги (равна 24 листам)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +46,8 @@
 <form>
 <orth type="lemma">bok</orth>
 <inflection><orth extent="part">-а, -er</orth></inflection>
- <u>диал.</u> см. bøk I
+<usg>диал.</usg>
+<ref>bøk I</ref>
 </sense>
 </entry>
 </superEntry>

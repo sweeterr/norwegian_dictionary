@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sjukling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-больной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больной</text></cit>
 </sense>
 <sense>
-болезненный (хилый) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болезненный (хилый) человек</text></cit>
 </sense>
 </entry>
 </superEntry>

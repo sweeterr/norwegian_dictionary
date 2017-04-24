@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">superior</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> начальник, старший (по чину)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальник, старший (по чину)</text></cit>
 </sense>
 </entry>
 </superEntry>

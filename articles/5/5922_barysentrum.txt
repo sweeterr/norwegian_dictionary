@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barysentrum</orth>
 <inflection><orth extent="part">-umet (-et), -rer (-a)</orth></inflection>
-<u>физ.</u> барицентр
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барицентр</text></cit>
 </sense>
 </entry>
 </superEntry>

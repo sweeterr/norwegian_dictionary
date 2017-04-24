@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gjestebud</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-званый обед, ужин, пир, банкет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>званый обед, ужин, пир, банкет</text></cit>
 <сit type="example"><text>gjøre et gjestebud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить банкет</text></cit></cit>
 </sense>
 </entry>

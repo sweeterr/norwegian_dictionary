@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">badekammer</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> ванная комната
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ванная комната</text></cit>
 </sense>
 </entry>
 </superEntry>

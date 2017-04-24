@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forskaffe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-добиться (чего-либо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добиться (чего-либо)</text></cit>
 </sense>
 <sense>
-раздобыть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздобыть</text></cit>
 </sense>
 </entry>
 </superEntry>

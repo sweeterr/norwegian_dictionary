@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">foroven</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u> наверху, сверху
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наверху, сверху</text></cit>
 </sense>
 </entry>
 </superEntry>

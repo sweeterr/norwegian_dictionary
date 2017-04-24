@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">snål</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-быстрый, проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, проворный</text></cit>
 </sense>
 <sense>
-симпатичный, красивый, хороший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>симпатичный, красивый, хороший</text></cit>
 </sense>
 <sense>
-смешной, потешный, забавный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смешной, потешный, забавный</text></cit>
 </sense>
 </entry>
 </superEntry>

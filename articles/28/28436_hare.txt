@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hare</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-заяц
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заяц</text></cit>
 </sense>
 </entry>
 </superEntry>

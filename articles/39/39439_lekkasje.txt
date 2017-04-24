@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-утечка (газа, жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утечка (газа, жидкости)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> просачивание секретных данных (сведений)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просачивание секретных данных (сведений)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> течь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь</text></cit>
 </sense>
 </entry>
 </superEntry>

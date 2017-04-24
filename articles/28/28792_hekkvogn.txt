@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hekkvogn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ж.-д.</u> вагон-платформа с высокими бортами
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вагон-платформа с высокими бортами</text></cit>
 </sense>
 </entry>
 </superEntry>

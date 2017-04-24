@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">barnegod</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-невинный как ребёнок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невинный как ребёнок</text></cit>
 </sense>
 <sense>
-добрый к детям
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добрый к детям</text></cit>
 </sense>
 </entry>
 </superEntry>

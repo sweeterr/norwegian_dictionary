@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bisol</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>астр.</u> ложное солнце
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложное солнце</text></cit>
 </sense>
 </entry>
 </superEntry>

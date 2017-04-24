@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-выписка (из документа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выписка (из документа)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> вывод на печать, распечатывание
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывод на печать, распечатывание</text></cit>
 </sense>
 <sense>
-<u>уст.</u> надпись (на конверте)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надпись (на конверте)</text></cit>
 </sense>
 </entry>
 </superEntry>

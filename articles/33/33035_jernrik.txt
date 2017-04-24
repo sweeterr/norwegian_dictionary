@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">jernrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-богатый железом (о руде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый железом (о руде)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">knege</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-много работать (трудиться)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>много работать (трудиться)</text></cit>
 </sense>
 <sense>
-скупиться, жадничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скупиться, жадничать</text></cit>
 </sense>
 <sense>
-тереть, потирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тереть, потирать</text></cit>
 </sense>
 </entry>
 </superEntry>

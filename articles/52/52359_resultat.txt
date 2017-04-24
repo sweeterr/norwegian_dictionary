@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-результат, следствие, исход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>результат, следствие, исход</text></cit>
 <сit type="example"><text>framlegge (framvise) store resultater</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>показать высокие результаты</text></cit></cit>
 <сit type="example"><text>resultatet var gitt på forhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>об этом можно было догадываться заранее</text></cit></cit>
 </sense>
 <sense>
-успех, успешный исход (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>успех, успешный исход (чего-л.)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> достижение
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достижение</text></cit>
 <сit type="example"><text>forankre resultat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> закрепить результат</text></cit></cit>
 <сit type="example"><text>overskride resultat til sin rival</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>превзойти результат своего соперника</text></cit></cit>
 </sense>

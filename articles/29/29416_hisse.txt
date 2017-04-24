@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-разгорячить, возбуждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разгорячить, возбуждать</text></cit>
 </sense>
 <sense>
-натравливать, науськивать (собаку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натравливать, науськивать (собаку)</text></cit>
 </sense>
 <sense>
-подзуживать, подстрекать (человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подзуживать, подстрекать (человека)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">hisse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. heise
+<usg>диал.</usg>
+<ref>heise</ref>
 </sense>
 </entry>
 </superEntry>

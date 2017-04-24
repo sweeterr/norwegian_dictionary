@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sleid</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> салазки, суппорт, золотник
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>салазки, суппорт, золотник</text></cit>
 </sense>
 </entry>
 </superEntry>

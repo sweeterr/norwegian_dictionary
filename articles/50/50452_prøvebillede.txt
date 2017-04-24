@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">prøvebillede</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>фото</u> пробный снимок
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробный снимок</text></cit>
 </sense>
 </entry>
 </superEntry>

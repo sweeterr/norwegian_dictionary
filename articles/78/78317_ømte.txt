@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ømte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> жевать жвачку
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жевать жвачку</text></cit>
 </sense>
 </entry>
 </superEntry>

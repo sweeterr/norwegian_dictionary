@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">amme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-кормилица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормилица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-кормить грудью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормить грудью</text></cit>
 </sense>
 <sense>
-растить, выкармливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растить, выкармливать</text></cit>
 </sense>
 <sense>
-поощрять, содействовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поощрять, содействовать</text></cit>
 </sense>
 </entry>
 </superEntry>

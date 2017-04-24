@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ytterst</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-самый крайний, самый последний, самый внешний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый крайний, самый последний, самый внешний</text></cit>
 <сit type = "example"><text>den ytterste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> самый крайний, дальний</text></cit></cit>
 <сit type = "example"><text>den ytterste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внешний, поверхностный</text></cit></cit>
 <сit type="example"><text>fjøre sitt ytterste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать всё возможное</text></cit></cit>
@@ -19,13 +19,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-крайне, в высшей степени, чрезвычайно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайне, в высшей степени, чрезвычайно</text></cit>
 </sense>
 <sense>
-с самого края, на самом краю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с самого края, на самом краю</text></cit>
 </sense>
 <sense>
-в самый последний момент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в самый последний момент</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oljebrensel</orth>
 <inflection><orth extent="part">-elet (-let)</orth></inflection>
-<u>тех.</u> жидкое моторное топливо
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкое моторное топливо</text></cit>
 </sense>
 </entry>
 </superEntry>

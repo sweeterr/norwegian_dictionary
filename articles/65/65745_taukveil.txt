@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">taukveil</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> бухта троса
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухта троса</text></cit>
 </sense>
 </entry>
 </superEntry>

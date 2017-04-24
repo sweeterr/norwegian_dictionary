@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skyldskap</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-родство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родство</text></cit>
 </sense>
 <sense>
-родственники, родня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родственники, родня</text></cit>
 </sense>
 </entry>
 </superEntry>

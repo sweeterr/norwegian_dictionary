@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">høyaktelsesfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-почтительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтительный</text></cit>
 </sense>
 <sense>
-уважающий
-<u>уст.</u> уважающий Вас (заключительная фраза в письме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уважающий</text></cit>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уважающий Вас (заключительная фраза в письме)</text></cit>
 </sense>
 </entry>
 </superEntry>

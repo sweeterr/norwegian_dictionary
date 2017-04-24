@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">jevnsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-равной силы, равносильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равной силы, равносильный</text></cit>
 </sense>
 </entry>
 </superEntry>

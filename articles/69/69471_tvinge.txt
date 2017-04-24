@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tvinge</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> струбцина (слесарная, столярная и т. д.)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струбцина (слесарная, столярная и т. д.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,11 @@
 <inflection><orth>tvang, tvunget</orth></inflection>
 </form>
 <sense>
-заставлять, вынуждать, принуждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять, вынуждать, принуждать</text></cit>
 <сit type="example"><text>tvinge seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять себя</text></cit></cit>
 </sense>
 <sense>
-обуздывать (чувства, страсти)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обуздывать (чувства, страсти)</text></cit>
 <сit type="example"><text>tvinge fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проталкивать, продвигать (дело)</text></cit></cit>
 <сit type = "example"><text>tvinge inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> принуждать (к чему-л. - til)</text></cit></cit>
 <сit type = "example"><text>tvinge inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> забивать, вбивать, вгонять (клин, гвоздь)</text></cit></cit>

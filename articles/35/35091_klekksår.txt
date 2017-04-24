@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">klekksår</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> чувствительный, принимающий всё близко к сердцу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительный, принимающий всё близко к сердцу</text></cit>
 </sense>
 </entry>
 </superEntry>

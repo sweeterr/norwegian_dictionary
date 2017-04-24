@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rulleharv</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>с.-х.</u> рандальная борона
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рандальная борона</text></cit>
 </sense>
 </entry>
 </superEntry>

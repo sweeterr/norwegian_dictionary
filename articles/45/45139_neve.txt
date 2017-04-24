@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-кулак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кулак</text></cit>
 <сit type = "example"><text>med bare (tørre) never :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> голыми руками</text></cit></cit>
 <сit type = "example"><text>med bare (tørre) never :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> одними кулаками</text></cit></cit>
 <сit type="example"><text>en pansret neve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бронированный кулак</text></cit></cit>
@@ -16,11 +16,13 @@
 <сit type="example"><text>knytte neven i bukselommen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>показывать шиш в кармане, возмущаться про себя</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> <u>перен.</u> крепкая рука, крепкое руководство
+<usg>разг.</usg>
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепкая рука, крепкое руководство</text></cit>
 <сit type="example"><text>være hard i neven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь крепкие кулаки</text></cit></cit>
 </sense>
 <sense>
-горсть (как мера)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горсть (как мера)</text></cit>
 <сit type="example"><text>en neve salt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пригоршня соли</text></cit></cit>
 </sense>
 </entry>

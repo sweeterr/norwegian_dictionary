@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jobber</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>презр.</u> спекулянт, маклер, комиссионер
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спекулянт, маклер, комиссионер</text></cit>
 </sense>
 </entry>
 </superEntry>

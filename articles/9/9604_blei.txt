@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">blei</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. bleig
+<usg>диал.</usg>
+<ref>bleig</ref>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">blei</orth>
-<u>диал.</u> 
+<usg>диал.</usg>
 <gramGrp><tns>pret</tns><note>от bli</note></gramGrp>
 </sense>
 </entry>

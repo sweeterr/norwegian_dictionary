@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-салон, гостиная
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>салон, гостиная</text></cit>
 <сit type="example"><text>holde salong</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>постоянно принимать гостей</text></cit></cit>
 </sense>
 <sense>
-художественный салон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>художественный салон</text></cit>
 </sense>
 <sense>
-<u>театр.</u> зрительный зал
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрительный зал</text></cit>
 </sense>
 <sense>
-<u>мор.</u> кают-компания, салон для пассажиров
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кают-компания, салон для пассажиров</text></cit>
 </sense>
 </entry>
 </superEntry>

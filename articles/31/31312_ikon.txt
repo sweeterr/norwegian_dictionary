@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ikon</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-икона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>икона</text></cit>
 </sense>
 </entry>
 </superEntry>

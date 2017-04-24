@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">finne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-финн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>финн</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-плавник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавник</text></cit>
 </sense>
 <sense>
-<u>тех.</u> стабилизатор
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стабилизатор</text></cit>
 </sense>
 <sense>
-<u>ав.</u> элерон
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элерон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +31,7 @@
 <form>
 <orth type="lemma">finne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-угорь, прыщ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угорь, прыщ</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,20 +41,20 @@
 <inflection><orth>fant (fann), funnet (funnen)</orth></inflection>
 </form>
 <sense>
-находить, найти, обнаружить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находить, найти, обнаружить</text></cit>
 <сit type="example"><text>det fin(ne)s</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>есть, имеется</text></cit></cit>
 <сit type="example"><text>det fin(ne)s ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нет, не имеется, отсутствует</text></cit></cit>
 <сit type="example"><text>finne hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обнаружить взаимный интерес, общность интересов, мыслей</text></cit></cit>
 <сit type="example"><text>la seg finne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>показываться, обнаруживаться (где-л.)</text></cit></cit>
 </sense>
 <sense>
-ощущать, испытывать (удовольствие, радость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощущать, испытывать (удовольствие, радость)</text></cit>
 </sense>
 <sense>
-встретить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встретить</text></cit>
 </sense>
 <sense>
-признавать, считать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>признавать, считать</text></cit>
 <сit type="example"><text>finne for godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>считать правильным (подходящим)</text></cit></cit>
 <сit type="example"><text>finne skyldig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>признать виновным</text></cit></cit>
 <сit type="example"><text>finne igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти (что-л. потерянное), вновь обрести</text></cit></cit>

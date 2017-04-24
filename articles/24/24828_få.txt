@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">få</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <inflection><orth>(komp færre, superl færrest)</orth></inflection>
-немногие, небольшое количество, несколько
+<inflection><orth>(komp færre, superl færrest)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немногие, небольшое количество, несколько</text></cit>
 <сit type="example"><text>ikke få</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не малое число, не малое количество</text></cit></cit>
 <сit type="example"><text>i få ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в нескольких словах</text></cit></cit>
 <сit type="example"><text>om få dager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через несколько дней</text></cit></cit>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">få</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-немногие, мало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немногие, мало</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <inflection><orth>fikk, fått</orth></inflection>
 </form>
 <sense>
-получать <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получать <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>få noe til odel og eie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить что-л. в наследство</text></cit></cit>
 <сit type="example"><text>få en til ekte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять в мужья, жёны</text></cit></cit>
 <сit type="example"><text>få hinannen (hverandre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожениться</text></cit></cit>
@@ -42,31 +42,31 @@
 <сit type="example"><text>være å få</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в продаже</text></cit></cit>
 </sense>
 <sense>
-найти (время, применение и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>найти (время, применение и т. д.)</text></cit>
 <сit type="example"><text>få noe igjen (tilbake)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вновь найти (утраченное), обрести</text></cit></cit>
 </sense>
 <sense>
-в сочетании с отвлечёнными существительными в функции прямого дополнения является связочным глаголом, на русский язык не переводится:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с отвлечёнными существительными в функции прямого дополнения является связочным глаголом, на русский язык не переводится:</text></cit>
 <сit type="example"><text>få prygel (bank)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть высеченным</text></cit></cit>
 <сit type="example"><text>få straff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть наказанным</text></cit></cit>
 <сit type="example"><text>han skal få</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему достанется, ему попадёт</text></cit></cit>
 </sense>
 <sense>
-в сочетании с инфинитивом глагола без инфинитивной частицы выражает однократный характер действия или результат:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с инфинитивом глагола без инфинитивной частицы выражает однократный характер действия или результат:</text></cit>
 <сit type="example"><text>få høre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>услышать</text></cit></cit>
 <сit type="example"><text>få se</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увидеть</text></cit></cit>
 <сit type="example"><text>få vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
 </sense>
 <sense>
-в сочетании с инфинитивом глагола без инфинитивной частицы выражает будущее время:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с инфинитивом глагола без инфинитивной частицы выражает будущее время:</text></cit>
 <сit type="example"><text>han får reise bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он уедет</text></cit></cit>
 </sense>
 <sense>
-в сочетании с инфинитивом глагола без инфинитивной частицы выражает долженствование:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с инфинитивом глагола без инфинитивной частицы выражает долженствование:</text></cit>
 <сit type="example"><text>han får bli hjemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он должен сидеть дома</text></cit></cit>
 </sense>
 <sense>
-в сочетании с инфинитивом глагола без инфинитивной частицы выражает разрешение:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с инфинитивом глагола без инфинитивной частицы выражает разрешение:</text></cit>
 <сit type="example"><text>han får gå ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он может выйти</text></cit></cit>
 <сit type="example"><text>får jeg lov</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разрешите</text></cit></cit>
 </sense>
@@ -76,10 +76,10 @@
 <сit type="example"><text>få en til å tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить кого-л поверить</text></cit></cit>
 </sense>
 <sense>
-в сочетании с прилагательным или причастием II смыслового глагола означает завершённость действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с прилагательным или причастием II смыслового глагола означает завершённость действия:</text></cit>
 <сit type="example"><text>når jeg får skrevet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>когда я напишу</text></cit></cit>
-сочетания глагола få см. тж под соответствующим значимым словом:
-<сit type="example"><text>få takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. takk</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочетания глагола få см. тж под соответствующим значимым словом:</text></cit>
+<сit type="example"><text>få takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>takk</ref></text></cit></cit>
 <сit type="example"><text>få fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>производить, создавать</text></cit></cit>
 <сit type = "example"><text>få igjen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> получить обратно, вернуть</text></cit></cit>
 <сit type = "example"><text>få igjen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> получить сдачу</text></cit></cit>
@@ -101,7 +101,8 @@
 <form>
 <orth type="lemma">få</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> размачивать, мочить (лен, коноплю)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размачивать, мочить (лен, коноплю)</text></cit>
 </sense>
 </entry>
 </superEntry>

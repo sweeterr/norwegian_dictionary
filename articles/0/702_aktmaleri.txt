@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aktmaleri</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>жив.</u> изображение нагого тела
+<usg>жив.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изображение нагого тела</text></cit>
 </sense>
 </entry>
 </superEntry>

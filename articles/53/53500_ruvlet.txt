@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ruvlet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-морщинистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морщинистый</text></cit>
 </sense>
 <sense>
-в бороздах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в бороздах</text></cit>
 </sense>
 </entry>
 </superEntry>

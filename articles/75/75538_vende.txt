@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vende</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прогулка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прогулка</text></cit>
 </sense>
 <sense>
-поднятая целина, свежевспаханное поле, свежая борозда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднятая целина, свежевспаханное поле, свежая борозда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,25 +21,25 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-повёртывать, перевёртывать, переворачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повёртывать, перевёртывать, переворачивать</text></cit>
 <сit type="example"><text>vend!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотри на обороте!</text></cit></cit>
 <сit type="example"><text>vende i (til) noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>превращать во что-л.</text></cit></cit>
 <сit type="example"><text>vende i penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>реализовать, превратить в деньги</text></cit></cit>
 </sense>
 <sense>
-выворачивать наизнанку, перелицовывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выворачивать наизнанку, перелицовывать</text></cit>
 </sense>
 <sense>
-менять направление (о ветре, течении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менять направление (о ветре, течении)</text></cit>
 </sense>
 <sense>
-развёртывать, поворачивать назад (автомашину и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развёртывать, поворачивать назад (автомашину и т. п.)</text></cit>
 <сit type="example"><text>vende hjem (hjemover)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться домой</text></cit></cit>
 <сit type="example"><text>vende tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть обратно</text></cit></cit>
 <сit type="example"><text>vende tilbake til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться ещё раз (к чему-л.)</text></cit></cit>
 </sense>
 <sense>
-обращать (взор, внимание на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обращать (взор, внимание на что-л.)</text></cit>
 <сit type="example"><text>vende om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть обратно</text></cit></cit>
 <сit type="example"><text>vende opp og ned på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перевернуть всё вверх дном</text></cit></cit>
 <сit type="example"><text>vende seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуться, перевернуться</text></cit></cit>

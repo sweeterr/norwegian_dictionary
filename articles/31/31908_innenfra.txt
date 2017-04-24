@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">innenfra</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-изнутри
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изнутри</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">innenfra</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-из
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>из</text></cit>
 </sense>
 </entry>
 </superEntry>

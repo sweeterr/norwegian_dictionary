@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">øyepunkt</orth>
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
-<u>разг.</u> точка зрения
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка зрения</text></cit>
 </sense>
 </entry>
 </superEntry>

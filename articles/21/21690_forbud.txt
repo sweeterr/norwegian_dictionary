@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-предвестник, признак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвестник, признак</text></cit>
 </sense>
 <sense>
-предзнаменование, предупреждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предзнаменование, предупреждение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,14 +20,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-запрет, запрещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрет, запрещение</text></cit>
 <сit type="example"><text>forbud mot atomvåpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запрещение атомного оружия</text></cit></cit>
 <сit type="example"><text>forbud mot prøvene med atomvåpnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запрещение испытаний атомного оружия</text></cit></cit>
 <сit type="example"><text>nedlegge forbud mot noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налагать запрет на что-л.</text></cit></cit>
 <сit type="example"><text>oppheve et forbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать запрет</text></cit></cit>
 </sense>
 <sense>
-сухой закон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухой закон</text></cit>
 <сit type="example"><text>kjempe for forbudet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добиваться введения сухого закона</text></cit></cit>
 <сit type="example"><text>oppheve forbudet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отменить сухой закон</text></cit></cit>
 </sense>

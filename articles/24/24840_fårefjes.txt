@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fårefjes</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> глупое выражение лица
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупое выражение лица</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">iterativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> итеративный
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>итеративный</text></cit>
 </sense>
 </entry>
 </superEntry>

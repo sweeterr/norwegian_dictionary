@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-решение, разрешение, улаживание (спора, сомнений и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решение, разрешение, улаживание (спора, сомнений и т. п.)</text></cit>
 <сit type="example"><text>komme til en avgjørelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти к соглашению, уладить (конфликт), договориться</text></cit></cit>
 <сit type="example"><text>treffe en avgjørelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сговориться, договориться</text></cit></cit>
 </sense>
 <sense>
-покрытие (долгов), уплата, погашение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрытие (долгов), уплата, погашение</text></cit>
 </sense>
 </entry>
 </superEntry>

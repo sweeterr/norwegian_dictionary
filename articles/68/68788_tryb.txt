@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tryb</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>горн.</u> флотационная пульпа
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флотационная пульпа</text></cit>
 </sense>
 </entry>
 </superEntry>

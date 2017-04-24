@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">platinametall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> платиновый металл
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платиновый металл</text></cit>
 </sense>
 </entry>
 </superEntry>

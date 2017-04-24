@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lid</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> свита, дружина (вождя племени)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свита, дружина (вождя племени)</text></cit>
 </sense>
 </entry>
 </superEntry>

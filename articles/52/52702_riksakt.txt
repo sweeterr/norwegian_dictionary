@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">riksakt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> закон о шведско-норвежской унии (от 6 августа 1815 г.)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закон о шведско-норвежской унии (от 6 августа 1815 г.)</text></cit>
 </sense>
 </entry>
 </superEntry>

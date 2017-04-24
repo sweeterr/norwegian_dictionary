@@ -7,13 +7,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-любезный, милый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любезный, милый</text></cit>
 </sense>
 <sense>
-сердечный, тёплый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердечный, тёплый</text></cit>
 </sense>
 <sense>
-искренний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искренний</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">hjertelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> очень, весьма
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень, весьма</text></cit>
 </sense>
 </entry>
 </superEntry>

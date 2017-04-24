@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">overdekke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-верхний слой, покрытие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхний слой, покрытие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 </form>
 <sense>
-покрывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать</text></cit>
 </sense>
 <sense>
-крыть крышей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крыть крышей</text></cit>
 </sense>
 <sense>
-скрывать, прятать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрывать, прятать</text></cit>
 </sense>
 </entry>
 </superEntry>

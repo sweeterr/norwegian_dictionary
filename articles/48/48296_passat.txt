@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">passat</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геогр.</u>
+<usg>геогр.</usg>
 </form>
 <sense>
-пассат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пассат</text></cit>
 </sense>
 <sense>
-район пассатов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район пассатов</text></cit>
 </sense>
 </entry>
 </superEntry>

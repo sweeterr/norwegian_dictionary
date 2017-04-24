@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">fren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-терпкий, острый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терпкий, острый</text></cit>
 </sense>
 </entry>
 </superEntry>

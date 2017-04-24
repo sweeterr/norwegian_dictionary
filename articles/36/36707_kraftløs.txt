@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">kraftløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слабый, бессильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, бессильный</text></cit>
 </sense>
 <sense>
-обессилевший, измождённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обессилевший, измождённый</text></cit>
 </sense>
 <sense>
-недейственный, безрезультатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недейственный, безрезультатный</text></cit>
 </sense>
 <sense>
-<u>эл.</u> неэлектрифицированый (о районе)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неэлектрифицированый (о районе)</text></cit>
 </sense>
 </entry>
 </superEntry>

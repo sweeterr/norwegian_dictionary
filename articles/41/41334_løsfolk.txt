@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">løsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> люди без определённых занятий (без постоянного местожительства)
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>люди без определённых занятий (без постоянного местожительства)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-крайность, чрезмерность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайность, чрезмерность</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-диаметральные противоположности, несовместимые противоречия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диаметральные противоположности, несовместимые противоречия</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,9 +19,8 @@
 <form>
 <orth type="lemma">ekstrem</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-крайний, чрезмерный, экстремистский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайний, чрезмерный, экстремистский</text></cit>
 </sense>
 </entry>
 </superEntry>

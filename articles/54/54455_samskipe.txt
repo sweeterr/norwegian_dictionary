@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">samskipe</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-организовывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>организовывать</text></cit>
 </sense>
 <sense>
-объединять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объединять</text></cit>
 </sense>
 </entry>
 </superEntry>

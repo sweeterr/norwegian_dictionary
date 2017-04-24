@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">deklinasjonsrom</orth>
 <inflection><orth extent="part">-met, =</orth></inflection>
-<u>воен.</u> убежище
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убежище</text></cit>
 </sense>
 </entry>
 </superEntry>

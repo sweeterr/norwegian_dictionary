@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-песчаная равнина, пустырь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песчаная равнина, пустырь</text></cit>
 </sense>
 <sense>
-степь, пустошь (поросшая вереском)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степь, пустошь (поросшая вереском)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> <u>разг.</u> полигон, учебное поле
+<usg>воен.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полигон, учебное поле</text></cit>
 <сit type="example"><text>reise på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>направляться на учение</text></cit></cit>
 <сit type="example"><text>være på moen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на учениях</text></cit></cit>
 </sense>
@@ -23,7 +25,8 @@
 <form>
 <orth type="lemma">mo</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>собир.</u> метеосводки
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводки</text></cit>
 <сit type="example"><text>innenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по стране</text></cit></cit>
 <сit type="example"><text>utenlandsk mo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метеосводка по зарубежным странам</text></cit></cit>
 </sense>
@@ -33,7 +36,7 @@
 <form>
 <orth type="lemma">mo</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-мелкие отбросы, мелкий мусор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкие отбросы, мелкий мусор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,7 +44,8 @@
 <form>
 <orth type="lemma">mo</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> тепловатый, чуть тёпленький
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепловатый, чуть тёпленький</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,11 +55,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-<u>диал.</u> слабый, обессилевший
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, обессилевший</text></cit>
 <сit type="example"><text>han er mo i knærne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него подгибаются коленки (от слабости)</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> <u>уст.</u> подавленный, угнетённый, грустный
+<usg>поэт.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленный, угнетённый, грустный</text></cit>
 </sense>
 </entry>
 <entry>

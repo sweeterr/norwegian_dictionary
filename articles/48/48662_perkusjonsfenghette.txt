@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">perkusjonsfenghette</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> капсюль-воспламенитель ударного действия
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капсюль-воспламенитель ударного действия</text></cit>
 </sense>
 </entry>
 </superEntry>

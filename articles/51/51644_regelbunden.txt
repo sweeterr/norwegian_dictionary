@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">regelbunden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-регулярный, равномерный, подчинённый определённым правилам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регулярный, равномерный, подчинённый определённым правилам</text></cit>
 </sense>
 </entry>
 </superEntry>

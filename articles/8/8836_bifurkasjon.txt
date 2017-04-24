@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bifurkasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геогр.</u> бифуркация (рек)
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бифуркация (рек)</text></cit>
 </sense>
 </entry>
 </superEntry>

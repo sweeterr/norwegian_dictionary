@@ -4,24 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">klem</orth>
-<inflection><orth extent="part">-men</orth></inflection>
- (
-<inflection><orth extent="part">-met</orth></inflection>
- )
+<inflection><orth extent="part">-men (-met)</orth></inflection>
 </form>
 <sense>
-напор, давление, нажим
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напор, давление, нажим</text></cit>
 </sense>
 <sense>
-<u>разг.</u> крепкие объятия
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепкие объятия</text></cit>
 <сit type="example"><text>få en klem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказаться в объятиях</text></cit></cit>
 </sense>
 <sense>
-энергия, энергичность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергия, энергичность</text></cit>
 <сit type="example"><text>tale med klem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить убедительно</text></cit></cit>
 </sense>
 <sense>
-щель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щель</text></cit>
 <сit type="example"><text>være på klem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть приоткрытым (о двери и т. п.)</text></cit></cit>
 <сit type="example"><text>åpne et vindu (en dør) på klem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приоткрыть окно (дверь)</text></cit></cit>
 </sense>

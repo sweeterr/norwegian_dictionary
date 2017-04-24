@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvarterhest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> лошадь, поставленная на постой
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лошадь, поставленная на постой</text></cit>
 </sense>
 </entry>
 </superEntry>

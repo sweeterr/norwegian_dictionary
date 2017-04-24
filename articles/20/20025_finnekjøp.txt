@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">finnekjøp</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ист.</u> торговля с саами
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговля с саами</text></cit>
 </sense>
 </entry>
 </superEntry>

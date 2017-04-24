@@ -7,31 +7,32 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-крутить, вращать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутить, вращать</text></cit>
 <сit type="example"><text>vende og dreie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вертеть, крутить</text></cit></cit>
 <сit type="example"><text>dreie like opp i vinden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> стать против ветра</text></cit></cit>
 </sense>
 <sense>
-поворачивать (стул, голову)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворачивать (стул, голову)</text></cit>
 </sense>
 <sense>
-достигать приблизительной цифры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достигать приблизительной цифры</text></cit>
 </sense>
 <sense>
-повернуть, свернуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть, свернуть</text></cit>
 <сit type="example"><text>dreie inn i en sidegate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свернуть в переулок</text></cit></cit>
 <сit type="example"><text>dreie om et hjørne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть за угол</text></cit></cit>
 <сit type="example"><text>dreie til høyre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть направо</text></cit></cit>
 </sense>
 <sense>
-тянуться (об аллее, линии деревьев и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тянуться (об аллее, линии деревьев и т. п.)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> разворачиваться (о кораблях)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разворачиваться (о кораблях)</text></cit>
 </sense>
 <sense>
-вытачивать на токарном станке, токарничать
-<сit type = "example"><text>dreie av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> отклоняться (от курса)</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытачивать на токарном станке, токарничать</text></cit>
+<сit type = "example"><text>dreie av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> отклоняться (от курса)</text></cit></cit>
 <сit type = "example"><text>dreie av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отклоняться (от темы разговора)</text></cit></cit>
 <сit type="example"><text>dreie bi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> идти под парусами навстречу ветру</text></cit></cit>
 <сit type="example"><text>dreie om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поворачивать</text></cit></cit>

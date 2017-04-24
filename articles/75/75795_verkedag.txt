@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">verkedag</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> рабочий день
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий день</text></cit>
 </sense>
 </entry>
 </superEntry>

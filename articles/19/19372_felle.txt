@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">felle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-товарищ, сослуживец, спутник, коллега
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>товарищ, сослуживец, спутник, коллега</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,12 +15,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-ловушка, западня <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловушка, западня <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>lokke én i felle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поймать кого-л. в ловушку</text></cit></cit>
 <сit type="example"><text>stille felle for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расставлять сети кому-л.</text></cit></cit>
 </sense>
 <sense>
-засада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>засада</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +28,8 @@
 <form>
 <orth type="lemma">felle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> упавшее (поваленное) дерево, валежник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упавшее (поваленное) дерево, валежник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -38,28 +39,28 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-ронять, уронить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ронять, уронить</text></cit>
 </sense>
 <sense>
-рубить (лес), валить (деревья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубить (лес), валить (деревья)</text></cit>
 </sense>
 <sense>
-убить, сразить, подстрелить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убить, сразить, подстрелить</text></cit>
 </sense>
 <sense>
-свергнуть (правительство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свергнуть (правительство)</text></cit>
 </sense>
 <sense>
-линять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линять</text></cit>
 </sense>
 <sense>
-терять (волосы, перья, шерсть, зубы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терять (волосы, перья, шерсть, зубы)</text></cit>
 </sense>
 <sense>
-выносить (приговор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносить (приговор)</text></cit>
 </sense>
 <sense>
-лить, проливать (слёзы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лить, проливать (слёзы)</text></cit>
 </sense>
 </entry>
 </superEntry>

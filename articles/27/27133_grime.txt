@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-недоуздок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недоуздок</text></cit>
 </sense>
 <sense>
-намордник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намордник</text></cit>
 </sense>
 <sense>
-полоска грязи на лице (от слёз)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоска грязи на лице (от слёз)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> заплата (на обуви)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплата (на обуви)</text></cit>
 <сit type="example"><text>sette en grime</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить заплату</text></cit></cit>
 </sense>
 </entry>
@@ -27,13 +28,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-надевать недоуздок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надевать недоуздок</text></cit>
 </sense>
 <sense>
-покрывать грязными полосами (лицо) (при плаче)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать грязными полосами (лицо) (при плаче)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> ставить заплаты (на обувь)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ставить заплаты (на обувь)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">racerbil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> гоночный автомобиль
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гоночный автомобиль</text></cit>
 </sense>
 </entry>
 </superEntry>

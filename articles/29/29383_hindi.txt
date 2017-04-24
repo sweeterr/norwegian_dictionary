@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hindi</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-язык хинди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык хинди</text></cit>
 </sense>
 </entry>
 </superEntry>

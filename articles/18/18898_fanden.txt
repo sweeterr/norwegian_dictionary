@@ -6,7 +6,7 @@
 <orth type="lemma">fanden</orth>
 </form>
 <sense>
-чёрт, бес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт, бес</text></cit>
 <сit type="example"><text>for fanden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт возьми</text></cit></cit>
 <сit type="example"><text>fanden er løs!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну, и пошла потеха, ну, и будет дело</text></cit></cit>
 <сit type="example"><text>fanden ta ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт его возьми</text></cit></cit>
@@ -19,7 +19,7 @@
 <сit type="example"><text>løpe som om fanden var i hælene på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бежать без оглядки</text></cit></cit>
 </sense>
 <sense>
-бедняга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бедняга</text></cit>
 <сit type="example"><text>en fattig (stakkars) fan!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бедняга!</text></cit></cit>
 </sense>
 </entry>

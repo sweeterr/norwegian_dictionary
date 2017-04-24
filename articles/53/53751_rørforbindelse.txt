@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rørforbindelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-патрубок, соединительная муфта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патрубок, соединительная муфта</text></cit>
 </sense>
 <sense>
-соединение (связь) с помощью трубопровода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединение (связь) с помощью трубопровода</text></cit>
 </sense>
 </entry>
 </superEntry>

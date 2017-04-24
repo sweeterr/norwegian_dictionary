@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bestråling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> облучение
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облучение</text></cit>
 </sense>
 </entry>
 </superEntry>

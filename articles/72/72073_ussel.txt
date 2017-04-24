@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">ussel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-жалкий, убогий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалкий, убогий</text></cit>
 </sense>
 <sense>
-скверный, плохой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скверный, плохой</text></cit>
 </sense>
 <sense>
-несчастный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несчастный</text></cit>
 </sense>
 <sense>
-ничтожный, незначительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ничтожный, незначительный</text></cit>
 </sense>
 <sense>
-слабый, болезненный, хилый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, болезненный, хилый</text></cit>
 </sense>
 </entry>
 </superEntry>

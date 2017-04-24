@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-дорогой, милый, любимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорогой, милый, любимый</text></cit>
 <сit type="example"><text>mine (dine, sine, våre, deres) kjære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мой (твой, свой, наши, ваши, их) близкие, родственники</text></cit></cit>
 <сit type="example"><text>bli (være) én kjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть любимым кем-л.</text></cit></cit>
 <сit type="example"><text>ha (få) én kjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>любить (полюбить) кого-л.</text></cit></cit>

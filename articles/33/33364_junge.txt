@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">junge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> юноша
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юноша</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">junge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> столовый нож
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столовый нож</text></cit>
 </sense>
 </entry>
 </superEntry>

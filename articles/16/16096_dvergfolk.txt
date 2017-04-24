@@ -5,13 +5,15 @@
 <form>
 <orth type="lemma">dvergfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-<u>фольк.</u> гномы, карлы
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гномы, карлы</text></cit>
 </sense>
 <sense>
-<u>этн.</u> карликовые народы, пигмеи
+<usg>этн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карликовые народы, пигмеи</text></cit>
 </sense>
 </entry>
 </superEntry>

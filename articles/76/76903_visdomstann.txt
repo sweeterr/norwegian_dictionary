@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">visdomstann</orth>
 <inflection><orth extent="part">-tanna (-tannen), -tenner</orth></inflection>
-<u>анат.</u> зуб мудрости
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зуб мудрости</text></cit>
 </sense>
 </entry>
 </superEntry>

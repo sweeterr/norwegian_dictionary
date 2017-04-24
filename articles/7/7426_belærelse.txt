@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belærelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u> поучение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поучение</text></cit>
 <сit type="example"><text>være noen en stor belærelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послужить кого-л. хорошим уроком</text></cit></cit>
 </sense>
 </entry>

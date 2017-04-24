@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">barsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-суровый (о зиме, стране)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый (о зиме, стране)</text></cit>
 </sense>
 <sense>
-резкий, холодный (о климате)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, холодный (о климате)</text></cit>
 </sense>
 <sense>
-негостеприимный (о местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негостеприимный (о местности)</text></cit>
 </sense>
 <sense>
-грубый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый</text></cit>
 </sense>
 <sense>
-тяжёлый (о жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о жизни)</text></cit>
 </sense>
 </entry>
 </superEntry>

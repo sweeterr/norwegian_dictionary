@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vater</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>сокр.</u> от vaterpass I
+<usg>сокр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>от vaterpass I</text></cit>
 ватерпас
 <сit type="example"><text>i vater</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горизонтально</text></cit></cit>
 </sense>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-обещание, заверение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обещание, заверение</text></cit>
 <сit type="example"><text>edelig løfte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>клятвенное обещание</text></cit></cit>
 <сit type="example"><text>avlegge (gi, gjøre) et løfte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать обещание, обещать</text></cit></cit>
 <сit type="example"><text>bryte et løfte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушить обещание</text></cit></cit>
@@ -16,7 +16,7 @@
 <сit type="example"><text>ta et løfte av noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять обещание с кого-л.</text></cit></cit>
 </sense>
 <sense>
-предпосылка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предпосылка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,16 +26,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-поднимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать</text></cit>
 <сit type="example"><text>med løftet hode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гордо, с поднятой головой</text></cit></cit>
 <сit type="example"><text>løfte på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приподнять что-л. (напр. шляпу, вуаль)</text></cit></cit>
 <сit type="example"><text>løfte seg i armene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подтянуться на руках</text></cit></cit>
 </sense>
 <sense>
-взмыть (о птице), взлететь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взмыть (о птице), взлететь</text></cit>
 </sense>
 <sense>
-<u>перен.</u> возвышать (голос, тон)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвышать (голос, тон)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">passivform</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> форма страдательного залога (пассива)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форма страдательного залога (пассива)</text></cit>
 </sense>
 </entry>
 </superEntry>

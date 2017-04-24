@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baryontall</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>физ.</u> барионное число
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барионное число</text></cit>
 </sense>
 </entry>
 </superEntry>

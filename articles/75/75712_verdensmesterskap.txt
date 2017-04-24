@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">verdensmesterskap</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> первенство мира
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первенство мира</text></cit>
 </sense>
 </entry>
 </superEntry>

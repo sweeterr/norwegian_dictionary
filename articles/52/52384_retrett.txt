@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">retrett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> отступление, отход
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отступление, отход</text></cit>
 <сit type="example"><text>avskjære retretten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать пути отступления</text></cit></cit>
 <сit type="example"><text>blåse til retrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трубить (играть) отступление</text></cit></cit>
 <сit type="example"><text>dekke retretten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прикрывать отступление</text></cit></cit>

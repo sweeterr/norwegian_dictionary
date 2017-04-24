@@ -8,13 +8,13 @@
 <gramGrp><note>komp от liten</note></gramGrp>
 </form>
 <sense>
-меньший (о размере); более короткий (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меньший (о размере); более короткий (о времени)</text></cit>
 </sense>
 <sense>
-младший, меньшой (о детях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>младший, меньшой (о детях)</text></cit>
 </sense>
 <sense>
-маленький, небольшой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленький, небольшой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,18 +22,18 @@
 <form>
 <orth type="lemma">mindre</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <gramGrp><note>komp от lite III, litt</note></gramGrp>
+<gramGrp><note>komp от lite III, litt</note></gramGrp>
 </form>
 <sense>
-менее, меньше, в меньшем количестве, в меньшей степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менее, меньше, в меньшем количестве, в меньшей степени</text></cit>
 <сit type="example"><text>ikke desto mindre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем не менее</text></cit></cit>
 <сit type="example"><text>stadig mindre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё меньше и меньше</text></cit></cit>
 </sense>
 <sense>
-короче (по времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короче (по времени)</text></cit>
 </sense>
 <sense>
-перед прилагательными для выражения иронического отрицания не очень-то
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перед прилагательными для выражения иронического отрицания не очень-то</text></cit>
 <сit type="example"><text>mindre heldig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не очень-то успешный, не очень-то удачный</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fraseologisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>лингв.</u> фразеологический
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фразеологический</text></cit>
 </sense>
 </entry>
 </superEntry>

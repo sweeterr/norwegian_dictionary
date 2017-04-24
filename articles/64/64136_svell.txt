@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svell</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> гололедица
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гололедица</text></cit>
 </sense>
 </entry>
 </superEntry>

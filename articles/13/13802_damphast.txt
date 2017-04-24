@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">damphast</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>шутл.</u> страшная спешка
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшная спешка</text></cit>
 </sense>
 </entry>
 </superEntry>

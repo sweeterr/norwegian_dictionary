@@ -7,26 +7,28 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-перемена (места, условий жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перемена (места, условий жизни)</text></cit>
 </sense>
 <sense>
-смена рабочих
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смена рабочих</text></cit>
 </sense>
 <sense>
-смена (белья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смена (белья)</text></cit>
 </sense>
 <sense>
-раздел наследства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздел наследства</text></cit>
 <сit type="example"><text>holde skifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>юр.</lbl> производить раздел имущества</text></cit></cit>
 </sense>
 <sense>
-перегон (между двумя станциями)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перегон (между двумя станциями)</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> севооборот
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>севооборот</text></cit>
 </sense>
 <sense>
-<u>уст.</u> почтовая станция
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтовая станция</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,31 +38,33 @@
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 </form>
 <sense>
-поменять, сменить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поменять, сменить</text></cit>
 </sense>
 <sense>
-переодеваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переодеваться</text></cit>
 </sense>
 <sense>
-переходить (на другую работу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переходить (на другую работу)</text></cit>
 </sense>
 <sense>
-пересаживаться (на другой поезд, трамвай)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживаться (на другой поезд, трамвай)</text></cit>
 </sense>
 <sense>
-обмениваться (взглядом, рукопожатием)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмениваться (взглядом, рукопожатием)</text></cit>
 </sense>
 <sense>
-распределять, делить на доли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распределять, делить на доли</text></cit>
 </sense>
 <sense>
-видоизменяться, переходить из одного состояния в другое
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>видоизменяться, переходить из одного состояния в другое</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> переводить (на другой путь)
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переводить (на другой путь)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> производить раздел (имущества, наследства)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производить раздел (имущества, наследства)</text></cit>
 <сit type="example"><text>skifte inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заменять, возмещать (что-л.)</text></cit></cit>
 <сit type="example"><text>skifte over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>превращаться во что-л., переходить во что-л.</text></cit></cit>
 <сit type="example"><text>skifte på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переливаться (о тонах, красках), изменяться</text></cit></cit>

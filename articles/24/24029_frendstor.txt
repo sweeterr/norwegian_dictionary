@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">frendstor</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>ист.</u> имеющий знатных (влиятельных) родственников
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий знатных (влиятельных) родственников</text></cit>
 </sense>
 </entry>
 </superEntry>

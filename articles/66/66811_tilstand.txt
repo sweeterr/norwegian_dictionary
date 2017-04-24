@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-состояние, положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состояние, положение</text></cit>
 <сit type="example"><text>tilstand av ro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>физ.</lbl> состояние покоя</text></cit></cit>
 <сit type="example"><text>i beruset (beskjenket)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в состоянии опьянения</text></cit></cit>
 <сit type="example"><text>i havarert tilstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в разбитом виде (о потерпевшей аварию автомашине)</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>i vill tilstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в диком состоянии</text></cit></cit>
 </sense>
 <sense>
-этап, ступень развития, стадия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>этап, ступень развития, стадия</text></cit>
 </sense>
 <sense>
-ситуация, обстановка, положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ситуация, обстановка, положение</text></cit>
 <сit type="example"><text>militær tilstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>военное положение</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sporet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-разбитая, изрытая колеями (о дороге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбитая, изрытая колеями (о дороге)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">sporet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-со шпорами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>со шпорами</text></cit>
 </sense>
 </entry>
 </superEntry>

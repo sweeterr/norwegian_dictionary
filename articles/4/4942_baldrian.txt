@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baldrian</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> валерьяна лоснящаяся
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валерьяна лоснящаяся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">veifarende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-странствующий, путешествующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странствующий, путешествующий</text></cit>
 <сit type="example"><text>den veifarende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>путешественник, путник</text></cit></cit>
 </sense>
 </entry>

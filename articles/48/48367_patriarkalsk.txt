@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-патриархальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патриархальный</text></cit>
 </sense>
 <sense>
-<u>церк.</u> патриарший
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патриарший</text></cit>
 </sense>
 </entry>
 </superEntry>

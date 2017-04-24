@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">bergsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прыткий, быстрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыткий, быстрый</text></cit>
 </sense>
 <sense>
-предприимчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предприимчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

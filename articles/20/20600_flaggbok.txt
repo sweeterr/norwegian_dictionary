@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flaggbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-<u>мор.</u> сигнальная книга, сигнальный код
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальная книга, сигнальный код</text></cit>
 </sense>
 </entry>
 </superEntry>

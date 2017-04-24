@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vintervinter</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> длинная, суровая зима
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинная, суровая зима</text></cit>
 </sense>
 </entry>
 </superEntry>

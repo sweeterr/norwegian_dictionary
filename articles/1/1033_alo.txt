@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">alo</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> шум, гомон, гвалт
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, гомон, гвалт</text></cit>
 </sense>
 </entry>
 </superEntry>

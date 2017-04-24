@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">akseptgjeld</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фин.</u>
+<usg>фин.</usg>
 </form>
 <sense>
-бухгалтерские счета к оплате, векселя и акцепты к оплате
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухгалтерские счета к оплате, векселя и акцепты к оплате</text></cit>
 </sense>
 <sense>
-кредиторская задолженность (представленная векселями и акцептами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кредиторская задолженность (представленная векселями и акцептами)</text></cit>
 </sense>
 </entry>
 </superEntry>

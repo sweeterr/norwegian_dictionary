@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">detaljhandel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-розничная торговля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>розничная торговля</text></cit>
 </sense>
 </entry>
 </superEntry>

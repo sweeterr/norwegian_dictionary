@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-воюющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воюющий</text></cit>
 </sense>
 <sense>
-противоречащий (чему-л.), несовместимый (с чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противоречащий (чему-л.), несовместимый (с чем-л.)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> строевой, боевой
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строевой, боевой</text></cit>
 </sense>
 </entry>
 </superEntry>

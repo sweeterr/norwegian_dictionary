@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hire</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-слабеть, хиреть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабеть, хиреть</text></cit>
 </sense>
 <sense>
-быть слабым (безвольным)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть слабым (безвольным)</text></cit>
 </sense>
 </entry>
 </superEntry>

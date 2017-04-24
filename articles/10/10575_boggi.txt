@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">boggi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> поворотная колёсная тележка (вагона, паровоза)
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворотная колёсная тележка (вагона, паровоза)</text></cit>
 </sense>
 </entry>
 </superEntry>

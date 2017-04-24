@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">enslengt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-простой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой</text></cit>
 </sense>
 <sense>
-уединённый, отдельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уединённый, отдельный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-валить на землю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валить на землю</text></cit>
 </sense>
 <sense>
-<u>мат.</u> опускать (перпендикуляр)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опускать (перпендикуляр)</text></cit>
 </sense>
 <sense>
-<u>хим.</u> осаждать, заставить отстояться
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осаждать, заставить отстояться</text></cit>
 </sense>
 </entry>
 </superEntry>

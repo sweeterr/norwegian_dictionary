@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">demon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-демон, злой дух, дьявол, сатана
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>демон, злой дух, дьявол, сатана</text></cit>
 <сit type="example"><text>gjerrighetens demon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>демон жадности</text></cit></cit>
 </sense>
 </entry>

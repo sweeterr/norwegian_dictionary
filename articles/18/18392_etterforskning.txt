@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">etterforskning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-расследование, следствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расследование, следствие</text></cit>
 <сit type="example"><text>sette i gang rettslig etterforskning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начать судебное следствие</text></cit></cit>
 </sense>
 </entry>

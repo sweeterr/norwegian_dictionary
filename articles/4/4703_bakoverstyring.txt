@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakoverstyring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>комп.</u> обратное управление
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратное управление</text></cit>
 </sense>
 </entry>
 </superEntry>

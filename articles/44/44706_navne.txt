@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">navne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-тёзка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёзка</text></cit>
 <сit type="example"><text>gå etter navne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>фольк.</lbl> являться во сне</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">navne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-метить, вышивать метки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метить, вышивать метки</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fortidssang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-старинная песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старинная песня</text></cit>
 </sense>
 </entry>
 </superEntry>

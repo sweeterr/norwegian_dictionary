@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">verdensfred</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-мир во всём мире
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мир во всём мире</text></cit>
 </sense>
 </entry>
 </superEntry>

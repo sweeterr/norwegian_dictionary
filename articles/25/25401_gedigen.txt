@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">gedigen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-самородный, чистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самородный, чистый</text></cit>
 </sense>
 <sense>
-настоящий, подлинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий, подлинный</text></cit>
 </sense>
 </entry>
 </superEntry>

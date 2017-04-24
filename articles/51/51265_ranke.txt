@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-вьющийся стебель, лоза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вьющийся стебель, лоза</text></cit>
 </sense>
 <sense>
-завивающийся усик (вьющегося растения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завивающийся усик (вьющегося растения)</text></cit>
 </sense>
 <sense>
-растительный орнамент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растительный орнамент</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +29,7 @@
 <form>
 <orth type="lemma">ranke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-выпрямлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямлять</text></cit>
 <сit type="example"><text>ranke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямляться, расправлять спину (плечи)</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basissignal</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>телеком.</u> базовый сигнал
+<usg>телеком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базовый сигнал</text></cit>
 </sense>
 </entry>
 </superEntry>

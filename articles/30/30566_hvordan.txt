@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hvordan</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-какой?, каков(ой)?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>какой?, каков(ой)?</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">hvordan</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-как?, каким образом?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как?, каким образом?</text></cit>
 <сit type="example"><text>hvordan har De det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ваше здоровье?, как вы поживаете?</text></cit></cit>
 <сit type="example"><text>hvordan står det til?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как у вас дела?</text></cit></cit>
 </sense>

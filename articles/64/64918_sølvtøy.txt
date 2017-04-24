@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sølvtøy</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> серебро, вещи из серебра
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серебро, вещи из серебра</text></cit>
 </sense>
 </entry>
 </superEntry>

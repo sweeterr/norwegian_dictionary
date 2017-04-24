@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-хижина, избушка, землянка, хата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хижина, избушка, землянка, хата</text></cit>
 </sense>
 <sense>
-лесной домик, туристский домик в горах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесной домик, туристский домик в горах</text></cit>
 </sense>
 <sense>
-лёгкий дачный домик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий дачный домик</text></cit>
 </sense>
 <sense>
-<u>тех.</u> металлургический (стекольный) завод
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлургический (стекольный) завод</text></cit>
 </sense>
 <sense>
-<u>мор.</u> полуют
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полуют</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +29,7 @@
 <form>
 <orth type="lemma">hytte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-охранять, ограждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охранять, ограждать</text></cit>
 <сit type="example"><text>hytte sitt skinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> беречь свою шкуру</text></cit></cit>
 <сit type="example"><text>hytte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ограждать себя, беречь себя</text></cit></cit>
 </sense>
@@ -37,7 +39,7 @@
 <form>
 <orth type="lemma">hytte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-грозить (кулаком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грозить (кулаком)</text></cit>
 </sense>
 </entry>
 </superEntry>

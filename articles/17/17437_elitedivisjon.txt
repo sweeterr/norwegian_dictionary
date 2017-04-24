@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elitedivisjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> отборная дивизия
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отборная дивизия</text></cit>
 </sense>
 </entry>
 </superEntry>

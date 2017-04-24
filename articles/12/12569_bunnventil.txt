@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bunnventil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> донный вентиль, кингстон
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>донный вентиль, кингстон</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">koppermotstand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эл.</u> сопротивление медного проводника
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопротивление медного проводника</text></cit>
 </sense>
 </entry>
 </superEntry>

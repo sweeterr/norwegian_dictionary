@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">monumental</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-монументальный, величественный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>монументальный, величественный</text></cit>
 </sense>
 </entry>
 </superEntry>

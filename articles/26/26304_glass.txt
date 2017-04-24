@@ -7,25 +7,26 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-стекло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стекло</text></cit>
 <сit type="example"><text>av glass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стеклянный</text></cit></cit>
 <сit type="example"><text>slepet glass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шлифованное, гранёное стекло</text></cit></cit>
 <сit type="example"><text>blåse glass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдувать стекло</text></cit></cit>
 </sense>
 <sense>
-оконное стекло, стекло в раме, <u>диал.</u> окно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оконное стекло, стекло в раме, <lbl>диал.</lbl> окно</text></cit>
 <сit type="example"><text>sette i glass og ramme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обрамлять, вставлять в раму (картину, портрет и т. п.)</text></cit></cit>
 </sense>
 <sense>
-стакан, рюмка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стакан, рюмка</text></cit>
 <сit type="example"><text>drikke et glass ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпить стакан (рюмку)</text></cit></cit>
 <сit type="example"><text>proponere et glass for noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> предлагать тост за кого-л.</text></cit></cit>
 </sense>
 <sense>
-ламповое стекло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ламповое стекло</text></cit>
 </sense>
 <sense>
-<u>мор.</u> склянка (получасовой промежуток времени)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склянка (получасовой промежуток времени)</text></cit>
 <сit type="example"><text>slå glass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отбивать склянки</text></cit></cit>
 </sense>
 </entry>

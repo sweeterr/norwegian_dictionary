@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-военная форма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>военная форма</text></cit>
 </sense>
 <sense>
-гражданская форменная одежда, мундир
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гражданская форменная одежда, мундир</text></cit>
 <сit type="example"><text>i full uniform</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полной парадной форме</text></cit></cit>
 </sense>
 </entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">uniform</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-однообразный, единообразный, однородный, однотипный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однообразный, единообразный, однородный, однотипный</text></cit>
 </sense>
 </entry>
 </superEntry>

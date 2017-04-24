@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">aksjebeholdning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фин.</u>
+<usg>фин.</usg>
 </form>
 <sense>
-владение акциями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владение акциями</text></cit>
 </sense>
 <sense>
-участие в акционерном капитале
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участие в акционерном капитале</text></cit>
 </sense>
 </entry>
 </superEntry>

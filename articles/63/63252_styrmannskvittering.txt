@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">styrmannskvittering</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> штурманская расписка, расписка помощника капитана в получении груза
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штурманская расписка, расписка помощника капитана в получении груза</text></cit>
 </sense>
 </entry>
 </superEntry>

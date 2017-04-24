@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisk stål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>метал.</u> основная сталь, томассовская сталь
+<usg>метал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основная сталь, томассовская сталь</text></cit>
 </sense>
 </entry>
 </superEntry>

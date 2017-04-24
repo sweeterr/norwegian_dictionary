@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">remonte</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> ремонт, пополнение войск конским составом
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ремонт, пополнение войск конским составом</text></cit>
 </sense>
 </entry>
 </superEntry>

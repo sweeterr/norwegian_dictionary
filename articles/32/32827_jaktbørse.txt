@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jaktbørse</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u> охотничье ружьё
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охотничье ружьё</text></cit>
 </sense>
 </entry>
 </superEntry>

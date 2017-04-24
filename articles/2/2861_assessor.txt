@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-судья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судья</text></cit>
 </sense>
 <sense>
-<u>уст.</u> заседатель
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заседатель</text></cit>
 </sense>
 </entry>
 </superEntry>

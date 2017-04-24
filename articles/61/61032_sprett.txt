@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
-гибкость, эластичность, пружинистость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибкость, эластичность, пружинистость</text></cit>
 </sense>
 <sense>
-<u>диал.</u> плектр (для игры на лангелейке)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плектр (для игры на лангелейке)</text></cit>
 </sense>
 <sense>
-щеголь, франт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щеголь, франт</text></cit>
 <сit type="example"><text>sprett i vassfat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фат, хлыщ</text></cit></cit>
 </sense>
 </entry>
@@ -24,13 +25,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-резкое движение, рывок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкое движение, рывок</text></cit>
 </sense>
 <sense>
-прорастание, росток, побег
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорастание, росток, побег</text></cit>
 </sense>
 <sense>
-<u>диал.</u> веселье
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веселье</text></cit>
 <сit type="example"><text>holde sprett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>веселиться</text></cit></cit>
 </sense>
 </entry>

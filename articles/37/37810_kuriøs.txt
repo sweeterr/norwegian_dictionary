@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">kuriøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-редкостный, странный, курьёзный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкостный, странный, курьёзный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> любопытный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любопытный</text></cit>
 </sense>
 </entry>
 </superEntry>

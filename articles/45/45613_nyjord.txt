@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nyjord</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>редко</u> целинная земля, целина
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целинная земля, целина</text></cit>
 </sense>
 </entry>
 </superEntry>

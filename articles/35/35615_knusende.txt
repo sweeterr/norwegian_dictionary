@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knusende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-исключительный, ошеломляющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исключительный, ошеломляющий</text></cit>
 <сit type="example"><text>det er knusende!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> вот это здорово!, потрясающе!</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">denominasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-название, наименование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>название, наименование</text></cit>
 </sense>
 </entry>
 </superEntry>

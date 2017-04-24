@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">søvne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-заснуть (тж. søvne inn)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заснуть (тж. søvne inn)</text></cit>
 </sense>
 <sense>
-замереть, затихать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замереть, затихать</text></cit>
 </sense>
 </entry>
 </superEntry>

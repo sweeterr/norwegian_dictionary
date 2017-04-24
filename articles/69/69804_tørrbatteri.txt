@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tørrbatteri</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>эл.</u> сухая батарея
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухая батарея</text></cit>
 </sense>
 </entry>
 </superEntry>

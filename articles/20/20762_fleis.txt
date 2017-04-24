@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fleis</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>вульг.</u> рожа, морда (о лице человека)
+<usg>вульг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рожа, морда (о лице человека)</text></cit>
 </sense>
 </entry>
 </superEntry>

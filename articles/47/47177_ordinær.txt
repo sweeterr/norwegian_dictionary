@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">ordinær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-обычный, обыкновенный, заурядный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычный, обыкновенный, заурядный</text></cit>
 </sense>
 </entry>
 </superEntry>

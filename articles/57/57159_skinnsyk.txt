@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skinnsyk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-завистливый, болезненно подозрительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завистливый, болезненно подозрительный</text></cit>
 </sense>
 <sense>
-ревнивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ревнивый</text></cit>
 </sense>
 </entry>
 </superEntry>

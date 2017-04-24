@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">æresoppreisning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-реабилитация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реабилитация</text></cit>
 <сit type="example"><text>gi æresoppreisning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>реабилитировать</text></cit></cit>
 </sense>
 </entry>

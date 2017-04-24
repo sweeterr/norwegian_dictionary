@@ -7,20 +7,20 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-дамская сумка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дамская сумка</text></cit>
 </sense>
 <sense>
-саквояж, небольшой чемодан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>саквояж, небольшой чемодан</text></cit>
 </sense>
 <sense>
-портфель, папка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портфель, папка</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">veske</orth>
-см. væske I, II
+<ref>væske I, II</ref>
 </sense>
 </entry>
 </superEntry>

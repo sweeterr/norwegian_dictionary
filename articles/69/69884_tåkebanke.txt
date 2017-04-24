@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tåkebanke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> полоса тумана, фогбанка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоса тумана, фогбанка</text></cit>
 </sense>
 </entry>
 </superEntry>

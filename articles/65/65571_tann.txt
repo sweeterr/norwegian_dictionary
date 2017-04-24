@@ -7,7 +7,7 @@
 <inflection><orth>tannen (tanna), tenner</orth></inflection>
 </form>
 <sense>
-зуб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зуб</text></cit>
 <сit type="example"><text>en hul tann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зуб с дуплом</text></cit></cit>
 <сit type="example"><text>en råtten tann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гнилой зуб</text></cit></cit>
 <сit type="example"><text>innsatte tenner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вставные зубы</text></cit></cit>
@@ -21,13 +21,14 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>часто</note></gramGrp>
-шпилька, едкое замечание (высказывание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпилька, едкое замечание (высказывание)</text></cit>
 </sense>
 <sense>
-угрызения (совести)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угрызения (совести)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> зубец (зубчатого колеса), зубчик (пилы и т. п.)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубец (зубчатого колеса), зубчик (пилы и т. п.)</text></cit>
 <сit type="example"><text>tidens tann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воздействие времени</text></cit></cit>
 </sense>
 </entry>

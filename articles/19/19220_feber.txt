@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-жар, высокая температура, лихорадочное состояние, лихорадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жар, высокая температура, лихорадочное состояние, лихорадка</text></cit>
 <сit type="example"><text>gastrisk feber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брюшной тиф, паратиф</text></cit></cit>
 <сit type="example"><text>gul feber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтая лихорадка</text></cit></cit>
 <сit type="example"><text>har du feber?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у тебя жар?</text></cit></cit>
 <сit type="example"><text>ligge i feber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать с высокой температурой (в жару)</text></cit></cit>
 </sense>
 <sense>
-нервное возбуждение, лихорадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нервное возбуждение, лихорадка</text></cit>
 </sense>
 </entry>
 </superEntry>

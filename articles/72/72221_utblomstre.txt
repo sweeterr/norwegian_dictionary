@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utblomstre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> расцветать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расцветать</text></cit>
 </sense>
 </entry>
 </superEntry>

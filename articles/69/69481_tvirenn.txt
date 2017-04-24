@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tvirenn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> галоп (бег)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галоп (бег)</text></cit>
 </sense>
 </entry>
 </superEntry>

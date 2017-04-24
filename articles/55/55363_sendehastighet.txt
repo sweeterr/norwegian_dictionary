@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sendehastighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>радио</u> скорость передачи
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скорость передачи</text></cit>
 </sense>
 </entry>
 </superEntry>

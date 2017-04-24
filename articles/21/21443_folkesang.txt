@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkesang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-национальная народная песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>национальная народная песня</text></cit>
 </sense>
 </entry>
 </superEntry>

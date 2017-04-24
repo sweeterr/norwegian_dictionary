@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-глоток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток</text></cit>
 </sense>
 <sense>
-брызги (воды, грязи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брызги (воды, грязи)</text></cit>
 </sense>
 <sense>
-передок (экипажа, саней)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передок (экипажа, саней)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">skvett</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-чириканье, щебетанье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чириканье, щебетанье</text></cit>
 </sense>
 </entry>
 </superEntry>

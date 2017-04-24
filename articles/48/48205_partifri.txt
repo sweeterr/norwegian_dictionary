@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">partifri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-не имеющий партий (о государстве, союзе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий партий (о государстве, союзе)</text></cit>
 </sense>
 </entry>
 </superEntry>

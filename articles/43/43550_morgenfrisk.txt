@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">morgenfrisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-свежий (об утреннем воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (об утреннем воздухе)</text></cit>
 </sense>
 <sense>
-отдохнувший, отоспавшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдохнувший, отоспавшийся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-ярмарка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ярмарка</text></cit>
 </sense>
 <sense>
-торгово-промышленная выставка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торгово-промышленная выставка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>воен.</u> офицерское собрание
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>офицерское собрание</text></cit>
 </sense>
 <sense>
-<u>мор.</u> кают-компания
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кают-компания</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +33,8 @@
 <form>
 <orth type="lemma">messe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>церк.</u> месса, обедня
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>месса, обедня</text></cit>
 <сit type="example"><text>holde messe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить мессу (обедню)</text></cit></cit>
 <сit type="example"><text>høre messe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять мессу (обедню)</text></cit></cit>
 <сit type="example"><text>lese messe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить мессу обедню)</text></cit></cit>
@@ -45,10 +48,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-служить мессу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служить мессу</text></cit>
 </sense>
 <sense>
-читать (говорить) нараспев
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читать (говорить) нараспев</text></cit>
 </sense>
 </entry>
 </superEntry>

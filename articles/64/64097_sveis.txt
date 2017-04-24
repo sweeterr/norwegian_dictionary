@@ -7,14 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> стиль, манера, хватка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стиль, манера, хватка</text></cit>
 <сit type="example"><text>få sveis på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наводить порядок(в чём-л.)</text></cit></cit>
 </sense>
 <sense>
-навык, умение, сноровка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навык, умение, сноровка</text></cit>
 </sense>
 <sense>
-<u>разг.</u> зачёс (волос)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зачёс (волос)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +24,7 @@
 <form>
 <orth type="lemma">sveis</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-швиц (карточная игра на деньги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швиц (карточная игра на деньги)</text></cit>
 </sense>
 </entry>
 </superEntry>

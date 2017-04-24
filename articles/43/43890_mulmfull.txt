@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">mulmfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>поэт.</u> тёмный, мрачный
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный, мрачный</text></cit>
 </sense>
 </entry>
 </superEntry>

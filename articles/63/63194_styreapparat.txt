@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">styreapparat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-рулевое устройство, рулевые приводы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рулевое устройство, рулевые приводы</text></cit>
 </sense>
 <sense>
-рулевая машинка (торпеды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рулевая машинка (торпеды)</text></cit>
 </sense>
 </entry>
 </superEntry>

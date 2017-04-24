@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fortne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-поторапливать кого-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поторапливать кого-л.</text></cit>
 </sense>
 <sense>
-идти вперёд (о часах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти вперёд (о часах)</text></cit>
 </sense>
 </entry>
 </superEntry>

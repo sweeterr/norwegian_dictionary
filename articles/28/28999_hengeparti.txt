@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hengeparti</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>спорт.</u> партия, сыгранная вничью (в теннисе)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партия, сыгранная вничью (в теннисе)</text></cit>
 </sense>
 </entry>
 </superEntry>

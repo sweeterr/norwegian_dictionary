@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-расстояние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстояние</text></cit>
 <сit type="example"><text>på (i) en avstand av flere kilometer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на расстоянии нескольких километров</text></cit></cit>
 <сit type="example"><text>på lang avstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>издали, издалека; на большом расстоянии</text></cit></cit>
 <сit type="example"><text>i avstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на некотором расстоянии, вдали, вдалеке</text></cit></cit>
@@ -16,15 +16,15 @@
 <сit type="example"><text>få en (noe) på avstand, komme på avstand fra en (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отойти, отдалиться от кого-л. (чего-л.)</text></cit></cit>
 </sense>
 <sense>
-дистанция, дальность, удаление, отдалённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дистанция, дальность, удаление, отдалённость</text></cit>
 <сit type="example"><text>virksom avstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> дистанция действительного огня</text></cit></cit>
 <сit type="example"><text>ta avstand fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказаться, отстраниться от (чего-л.), отречься, отмежеваться от (чего-л.), не поддержать (предложения)</text></cit></cit>
 </sense>
 <sense>
-интервал, промежуток времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интервал, промежуток времени</text></cit>
 </sense>
 <sense>
-несоответствие, несходство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несоответствие, несходство</text></cit>
 </sense>
 </entry>
 </superEntry>

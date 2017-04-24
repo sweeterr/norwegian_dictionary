@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ideassosiasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>психол.</u> ассоциация идей
+<usg>психол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ассоциация идей</text></cit>
 </sense>
 </entry>
 </superEntry>

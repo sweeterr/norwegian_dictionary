@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">aftentur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-вечерняя прогулка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечерняя прогулка</text></cit>
 <сit type="example"><text>gå aftentur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершать вечернюю прогулку</text></cit></cit>
 </sense>
 </entry>

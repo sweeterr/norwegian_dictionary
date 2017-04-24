@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spolegarn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>текст.</u> уток
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уток</text></cit>
 </sense>
 </entry>
 </superEntry>

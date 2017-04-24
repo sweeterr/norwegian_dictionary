@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kare</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-кочерга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кочерга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,14 +15,14 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-ковырять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковырять</text></cit>
 </sense>
 <sense>
-разгребать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разгребать</text></cit>
 <сit type="example"><text>kare til seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тащить к себе, загребать</text></cit></cit>
 </sense>
 <sense>
-неумело плавать (грести)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неумело плавать (грести)</text></cit>
 <сit type="example"><text>kare sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгребать</text></cit></cit>
 <сit type="example"><text>kare sammen penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скапливать деньги</text></cit></cit>
 <сit type="example"><text>det karer etter med ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его силы иссякают</text></cit></cit>

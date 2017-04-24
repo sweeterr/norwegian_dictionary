@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hybøle</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>уст.</u> жилище, дом
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жилище, дом</text></cit>
 </sense>
 </entry>
 </superEntry>

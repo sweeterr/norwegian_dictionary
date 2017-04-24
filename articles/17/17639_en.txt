@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">en</orth>
 <gramGrp><pos>num</pos></gramGrp>
- (всегда под ударением, часто пишется én)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(всегда под ударением, часто пишется én)</text></cit>
 один, одна, одно
 <сit type="example"><text>i en, to, tre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в один миг, в мгновение ока</text></cit></cit>
 <сit type="example"><text>en etter en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один за другим, по очереди</text></cit></cit>
@@ -20,7 +20,7 @@
 <gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
-кто-то, некто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кто-то, некто</text></cit>
 <сit type="example"><text>en eller annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто-нибудь; кто-то</text></cit></cit>
 <сit type="example"><text>en og hver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и тот и другой</text></cit></cit>
 <сit type="example"><text>hver og en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все без исключения</text></cit></cit>
@@ -32,7 +32,7 @@
 <form>
 <orth type="lemma">en</orth>
 <gramGrp><gender>n</gender><note>от et</note></gramGrp>
-неопределённый артикль м. и ж. р.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопределённый артикль м. и ж. р.</text></cit>
 <сit type="example"><text>en gutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мальчик</text></cit></cit>
 <сit type="example"><text>en by</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>город</text></cit></cit>
 <сit type="example"><text>for en ti dager siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около десяти дней тому назад</text></cit></cit>

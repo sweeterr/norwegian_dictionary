@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sukkersyk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страдающий сахарной болезнью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страдающий сахарной болезнью</text></cit>
 </sense>
 </entry>
 </superEntry>

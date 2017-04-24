@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">hvorhen</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-куда?, в каком направлении?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куда?, в каком направлении?</text></cit>
 </sense>
 <sense>
-туда, куда …
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туда, куда …</text></cit>
 </sense>
 </entry>
 </superEntry>

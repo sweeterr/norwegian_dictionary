@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nip</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> острая горная вершина, пик
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острая горная вершина, пик</text></cit>
 </sense>
 </entry>
 </superEntry>

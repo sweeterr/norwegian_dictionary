@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sut</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-беспокойство, волнение, тревога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойство, волнение, тревога</text></cit>
 </sense>
 <sense>
-огорчение, горе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огорчение, горе</text></cit>
 </sense>
 <sense>
-нытьё, жалобы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нытьё, жалобы</text></cit>
 </sense>
 </entry>
 </superEntry>

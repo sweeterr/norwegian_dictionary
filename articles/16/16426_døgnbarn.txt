@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">døgnbarn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>поэт.</u> человек, живущий сегодняшним днём
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, живущий сегодняшним днём</text></cit>
 </sense>
 </entry>
 </superEntry>

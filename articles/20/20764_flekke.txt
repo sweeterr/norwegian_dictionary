@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-местечко, селение, небольшой городок, приморский посёлок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местечко, селение, небольшой городок, приморский посёлок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">flekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-кусок, ломоть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусок, ломоть</text></cit>
 </sense>
 <sense>
-кремень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кремень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,10 +29,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-пачкать, сажать пятна, пятнать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пачкать, сажать пятна, пятнать</text></cit>
 </sense>
 <sense>
-запятнать (чьё-л. имя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запятнать (чьё-л. имя)</text></cit>
 <сit type="example"><text>flekke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>краситься (о вновь покрашенной поверхности)</text></cit></cit>
 </sense>
 </entry>
@@ -41,13 +41,14 @@
 <form>
 <orth type="lemma">flekke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-латать, ставить заплатки (см. flikke)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латать, ставить заплатки</text></cit>
+<ref>flikke</ref>
 </sense>
 <sense>
-затирать неровности (цементным раствором), шпаклевать, грунтовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затирать неровности (цементным раствором), шпаклевать, грунтовать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -57,13 +58,13 @@
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 </form>
 <sense>
-обдирать, сдирать (кожу, кору, верхний слой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обдирать, сдирать (кожу, кору, верхний слой)</text></cit>
 </sense>
 <sense>
-оскаливаться, показывать зубы, огрызаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оскаливаться, показывать зубы, огрызаться</text></cit>
 </sense>
 <sense>
-соскребать (краску, покраску)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соскребать (краску, покраску)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svingteknikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> техника бега на коньках (лыжах) на поворотах
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>техника бега на коньках (лыжах) на поворотах</text></cit>
 </sense>
 </entry>
 </superEntry>

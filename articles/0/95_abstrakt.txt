@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">abstrakt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> рычаг мехов органа
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рычаг мехов органа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">abstrakt</orth>
 <inflection><orth extent="part">-et, –er</orth></inflection>
-<u>лингв.</u> отвлечённое (абстрактное) имя существительное
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвлечённое (абстрактное) имя существительное</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +25,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-абстрактный, отвлечённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абстрактный, отвлечённый</text></cit>
 </sense>
 <sense>
-умозрительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умозрительный</text></cit>
 </sense>
 <sense>
-чистый (о науках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый (о науках)</text></cit>
 </sense>
 </entry>
 </superEntry>

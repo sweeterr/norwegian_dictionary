@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innleiring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геол.</u> отложение
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отложение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-met, =</orth></inflection>
 </form>
 <sense>
-помещение, комната
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение, комната</text></cit>
 <сit type="example"><text>et avdelt rom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдельная комната</text></cit></cit>
 </sense>
 <sense>
-с определенным артиклем номер в гостинице
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с определенным артиклем номер в гостинице</text></cit>
 </sense>
 <sense>
-место, пространство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место, пространство</text></cit>
 <сit type="example"><text>gi rom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уступать (давать) место</text></cit></cit>
 <сit type="example"><text>gjøre rom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освободить (очистить) место</text></cit></cit>
 <сit type = "example"><text>vinne rom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> расширяться</text></cit></cit>
@@ -22,19 +22,20 @@
 <сit type = "example"><text>vinne rom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> делать успехи</text></cit></cit>
 </sense>
 <sense>
-отделение (в портфеле, чемодане)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отделение (в портфеле, чемодане)</text></cit>
 </sense>
 <sense>
-расстояние, протяжение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстояние, протяжение</text></cit>
 </sense>
 <sense>
-воздушное пространство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздушное пространство</text></cit>
 </sense>
 <sense>
-космическое пространство, космос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>космическое пространство, космос</text></cit>
 </sense>
 <sense>
-<u>мор.</u> трюм
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трюм</text></cit>
 </sense>
 </entry>
 <entry>
@@ -42,20 +43,20 @@
 <form>
 <orth type="lemma">rom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-просторный, вместительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просторный, вместительный</text></cit>
 </sense>
 <sense>
-продолжительный (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продолжительный (о времени)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> попутный (о ветре)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попутный (о ветре)</text></cit>
 </sense>
 <sense>
-открытый, широкий (о море, фарватере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытый, широкий (о море, фарватере)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -65,10 +66,10 @@
 <inflection><orth extent="part">-men</orth></inflection>
 </form>
 <sense>
-ром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ром</text></cit>
 </sense>
 <sense>
-стаканчик рому
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стаканчик рому</text></cit>
 </sense>
 </entry>
 </superEntry>

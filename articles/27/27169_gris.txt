@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-поросёнок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поросёнок</text></cit>
 <сit type="example"><text>kaste gris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опороситься</text></cit></cit>
 <сit type="example"><text>gi grisen flesk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в лес дров не возят, в колодец воды не льют</text></cit></cit>
 <сit type="example"><text>få (ta) hele grisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять всё себе</text></cit></cit>
@@ -16,10 +16,11 @@
 <сit type="example"><text>det er bare til å gi grisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ломаного гроша не стоит</text></cit></cit>
 </sense>
 <sense>
-свинина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свинина</text></cit>
 </sense>
 <sense>
-<u>презр.</u> свинья (о человеке)
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свинья (о человеке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,7 @@
 <form>
 <orth type="lemma">gris</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-колёсная мазь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колёсная мазь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +36,7 @@
 <form>
 <orth type="lemma">gris</orth>
 <inflection><orth extent="part">-en</orth></inflection>
- отруби
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отруби</text></cit>
 </sense>
 </entry>
 </superEntry>

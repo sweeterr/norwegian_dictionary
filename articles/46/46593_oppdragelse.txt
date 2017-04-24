@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-воспитание, развитие (ребёнка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспитание, развитие (ребёнка)</text></cit>
 </sense>
 <sense>
-воспитанность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспитанность</text></cit>
 </sense>
 <sense>
-<u>разг.</u> <u>шутл.</u> штопор
+<usg>разг.</usg>
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штопор</text></cit>
 </sense>
 </entry>
 </superEntry>

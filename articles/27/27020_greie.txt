@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">greie</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-порядок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядок</text></cit>
 <сit type="example"><text>hele greia</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё это дело, вся эта история, всё это вместе взятое</text></cit></cit>
 <сit type="example"><text>få greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
 <сit type="example"><text>ha greie på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать (о чём-л.)</text></cit></cit>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">greie</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u> сбруя, упряжь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбруя, упряжь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,13 +29,14 @@
 <inflection><orth extent="part">-d(d)e, -d(d)</orth></inflection>
 </form>
 <sense>
-причесывать, расчёсывать (волосы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причесывать, расчёсывать (волосы)</text></cit>
 </sense>
 <sense>
-приводить в порядок, распутывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в порядок, распутывать</text></cit>
 </sense>
 <sense>
-<u>разг.</u> смочь, суметь
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смочь, суметь</text></cit>
 <сit type="example"><text>han greier det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этим он справится</text></cit></cit>
 <сit type="example"><text>greie å gjøre noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суметь (сделать что-л.)</text></cit></cit>
 <сit type="example"><text>greie ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объяснить (что-л.)</text></cit></cit>

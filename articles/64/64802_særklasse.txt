@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">særklasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>школ.</u>
+<usg>школ.</usg>
 </form>
 <sense>
-класс слаборазвитых детей, отстающий класс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>класс слаборазвитых детей, отстающий класс</text></cit>
 </sense>
 <sense>
-класс особо одарённых детей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>класс особо одарённых детей</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fagnaferd</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> весёлая поездка, весёлое путешествие
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлая поездка, весёлое путешествие</text></cit>
 </sense>
 </entry>
 </superEntry>

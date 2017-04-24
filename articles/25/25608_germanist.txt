@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">germanist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-германист, филолог-специалист по германским языкам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>германист, филолог-специалист по германским языкам</text></cit>
 </sense>
 </entry>
 </superEntry>

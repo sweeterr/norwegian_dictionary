@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">mest</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <gramGrp><note>superl от megen</note></gramGrp>
-больший, наибольший
+<gramGrp><note>superl от megen</note></gramGrp>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больший, наибольший</text></cit>
 <сit type = "example"><text>for det meste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в основном</text></cit></cit>
 <сit type = "example"><text>for det meste :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> большей частью</text></cit></cit>
 </sense>
@@ -16,16 +16,16 @@
 <form>
 <orth type="lemma">mest</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <gramGrp><note>superl от meget II</note></gramGrp>
+<gramGrp><note>superl от meget II</note></gramGrp>
 </form>
 <sense>
-большей частью, по большей части
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большей частью, по большей части</text></cit>
 </sense>
 <sense>
-в высшей степени, наиболее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в высшей степени, наиболее</text></cit>
 </sense>
 <sense>
-служит для образования превосходной степени некоторых прилагательных самый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служит для образования превосходной степени некоторых прилагательных самый</text></cit>
 <сit type="example"><text>den mest ulykkelige mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самый несчастный (наинесчастнейший) человек</text></cit></cit>
 <сit type="example"><text>aller mest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прежде всего</text></cit></cit>
 <сit type="example"><text>mest mulig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по возможности</text></cit></cit>

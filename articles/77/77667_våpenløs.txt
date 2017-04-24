@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">våpenløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безоружный, невооружённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безоружный, невооружённый</text></cit>
 </sense>
 </entry>
 </superEntry>

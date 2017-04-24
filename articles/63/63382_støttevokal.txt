@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støttevokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лингв.</u> вставочный (эпентетический) гласный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вставочный (эпентетический) гласный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,21 +7,21 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-обсуждение, прения, дебаты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обсуждение, прения, дебаты</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-переговоры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переговоры</text></cit>
 <сit type="example"><text>forhandlinger om våpenhvile</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переговоры о перемирии</text></cit></cit>
 <сit type="example"><text>avbryte forhandlinger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прервать переговоры</text></cit></cit>
 <сit type="example"><text>trekke forhandlinger i langdrag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затягивать переговоры</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-протоколы (о переговорах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протоколы (о переговорах)</text></cit>
 </sense>
 <sense>
-продажа (товаров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продажа (товаров)</text></cit>
 </sense>
 </entry>
 </superEntry>

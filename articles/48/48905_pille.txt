@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pille</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-пилюля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пилюля</text></cit>
 <сit type="example"><text>få ned (svelge) en pille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проглотить пилюлю</text></cit></cit>
 <сit type="example"><text>sukre pillen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> позолотить (подсластить) пилюлю</text></cit></cit>
 <сit type="example"><text>svelge en bitter pille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> <lbl>перен.</lbl> проглотить горькую пилюлю</text></cit></cit>
@@ -18,13 +18,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-каменный столб, опора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменный столб, опора</text></cit>
 </sense>
 <sense>
-простенок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простенок</text></cit>
 </sense>
 <sense>
-<u>перен.</u> опора, основа, краеугольный камень
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опора, основа, краеугольный камень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,19 +35,19 @@
 <inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
-собирать, рвать (цветы, ягоды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать, рвать (цветы, ягоды)</text></cit>
 </sense>
 <sense>
-ковырять (палкой, пальцем)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковырять (палкой, пальцем)</text></cit>
 </sense>
 <sense>
-ощипывать (птицу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощипывать (птицу)</text></cit>
 </sense>
 <sense>
-лущить (горох), чистить (ягоды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лущить (горох), чистить (ягоды)</text></cit>
 </sense>
 <sense>
-трогать, касаться, ощупывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трогать, касаться, ощупывать</text></cit>
 <сit type="example"><text>pille én av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отучить кого-л. (от привычки, склонности)</text></cit></cit>
 <сit type="example"><text>pille ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбить (выстрелом, камнем)</text></cit></cit>
 <сit type="example"><text>pille opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собирать, поднимать</text></cit></cit>
@@ -64,7 +65,7 @@
 <form>
 <orth type="lemma">pille</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> скрыться, смыться (тж. pille bort, pille vekk)</text></cit></cit>
+<сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> скрыться, смыться (тж. pille bort, pille vekk)</text></cit></cit>
 <сit type = "example"><text>pille av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> умереть</text></cit></cit>
 </sense>
 </entry>

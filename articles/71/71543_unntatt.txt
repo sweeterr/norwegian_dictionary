@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">unntatt</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-см. unntagen I
+<ref>unntagen I</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">unntatt</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-см. unntagen II
+<ref>unntagen II</ref>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-качаться из стороны в сторону, раскачиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться из стороны в сторону, раскачиваться</text></cit>
 </sense>
 <sense>
-балансировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балансировать</text></cit>
 </sense>
 <sense>
-<u>диал.</u> опрокидываться (о повозке)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опрокидываться (о повозке)</text></cit>
 <сit type="example"><text>bikke ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перетягивать, тянуть вниз</text></cit></cit>
 <сit type="example"><text>bikke over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перевернуться</text></cit></cit>
 </sense>

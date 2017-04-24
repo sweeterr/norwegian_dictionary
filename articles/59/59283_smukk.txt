@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">smukk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-красивый, изящный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый, изящный</text></cit>
 </sense>
 <sense>
-хороший, прекрасный (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хороший, прекрасный (о погоде)</text></cit>
 </sense>
 <sense>
-благодарный (о задаче, задании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благодарный (о задаче, задании)</text></cit>
 </sense>
 <sense>
-похвальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похвальный</text></cit>
 </sense>
 </entry>
 </superEntry>

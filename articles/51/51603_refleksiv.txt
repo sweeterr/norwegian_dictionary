@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">refleksiv</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-возвратный глагол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвратный глагол</text></cit>
 </sense>
 <sense>
-возвратное местоимение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвратное местоимение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,9 +19,9 @@
 <form>
 <orth type="lemma">refleksiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> возвратный (о глаголе, местоимении)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвратный (о глаголе, местоимении)</text></cit>
 </sense>
 </entry>
 </superEntry>

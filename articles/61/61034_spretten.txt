@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">spretten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-буйный, неугомонный, шальной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буйный, неугомонный, шальной</text></cit>
 </sense>
 <sense>
-резвый, игривый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резвый, игривый</text></cit>
 </sense>
 <sense>
-юркий, проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юркий, проворный</text></cit>
 </sense>
 <sense>
-шикарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шикарный</text></cit>
 </sense>
 </entry>
 </superEntry>

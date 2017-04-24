@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trevle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-растеребить, размочалить на волоконца, растрепать на нитки (верёвку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растеребить, размочалить на волоконца, растрепать на нитки (верёвку)</text></cit>
 <сit type="example"><text>trevle seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размочалиться, растрепаться (о конце верёвки)</text></cit></cit>
 </sense>
 </entry>
@@ -14,13 +14,13 @@
 <form>
 <orth type="lemma">trevle</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-идти (двигаться) ощупью (тж, trevle seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти (двигаться) ощупью (тж, trevle seg)</text></cit>
 </sense>
 <sense>
-искать, шарить, нащупывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искать, шарить, нащупывать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bevegelsesenergi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> энергия движения
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергия движения</text></cit>
 </sense>
 </entry>
 </superEntry>

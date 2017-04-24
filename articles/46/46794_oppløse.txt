@@ -7,26 +7,30 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-распускать (организацию, парламент), закрывать (собрание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распускать (организацию, парламент), закрывать (собрание)</text></cit>
 </sense>
 <sense>
-расторгать (союз, унию, брак, договор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расторгать (союз, унию, брак, договор)</text></cit>
 </sense>
 <sense>
-развязывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развязывать</text></cit>
 </sense>
 <sense>
-<u>хим.</u> растворять, разлагать
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растворять, разлагать</text></cit>
 <сit type="example"><text>være oppløst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разложиться</text></cit></cit>
 </sense>
 <sense>
-<u>мат.</u> раскрыть (скобки)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскрыть (скобки)</text></cit>
 </sense>
 <sense>
-<u>мат.</u> разложить на множители (число)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разложить на множители (число)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> распускать (строй)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распускать (строй)</text></cit>
 </sense>
 </entry>
 </superEntry>

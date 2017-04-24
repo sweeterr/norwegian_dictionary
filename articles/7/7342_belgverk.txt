@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belgverk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>муз.</u> система мехов (в органе)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>система мехов (в органе)</text></cit>
 </sense>
 </entry>
 </superEntry>

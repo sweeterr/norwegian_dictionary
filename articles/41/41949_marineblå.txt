@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">marineblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-аквамариновый, тёмно-голубой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аквамариновый, тёмно-голубой</text></cit>
 </sense>
 </entry>
 </superEntry>

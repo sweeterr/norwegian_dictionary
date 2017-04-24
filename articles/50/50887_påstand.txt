@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-утверждение, заявление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утверждение, заявление</text></cit>
 </sense>
 <sense>
-<u>юр.</u> иск, претензия
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иск, претензия</text></cit>
 <сit type="example"><text>gjøre (nedlegge) påstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять иск (претензию)</text></cit></cit>
 </sense>
 </entry>

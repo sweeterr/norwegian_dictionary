@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">blomsterløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-не имеющий цветов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий цветов</text></cit>
 </sense>
 <sense>
-<u>бот.</u> бесцветковый, споровый
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцветковый, споровый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-трудность, сложность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудность, сложность</text></cit>
 <сit type="example"><text>gjøre vansker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создавать трудности</text></cit></cit>
 </sense>
 <sense>
-неприятность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятность</text></cit>
 <сit type="example"><text>komme i vansker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь неприятности</text></cit></cit>
 </sense>
 </entry>
@@ -20,7 +20,8 @@
 <form>
 <orth type="lemma">vanske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> пренебрегать чем-л.
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пренебрегать чем-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

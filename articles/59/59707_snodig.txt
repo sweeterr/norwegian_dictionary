@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">snodig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-забавный, смешной, чудной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забавный, смешной, чудной</text></cit>
 </sense>
 <sense>
-странный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странный</text></cit>
 </sense>
 </entry>
 </superEntry>

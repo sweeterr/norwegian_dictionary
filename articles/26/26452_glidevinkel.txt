@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glidevinkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>ав.</u> угол планирования
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол планирования</text></cit>
 </sense>
 </entry>
 </superEntry>

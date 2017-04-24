@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">deskripsjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-описание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>описание</text></cit>
 </sense>
 </entry>
 </superEntry>

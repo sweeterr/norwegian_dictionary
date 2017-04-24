@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fonologi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-фонология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонология</text></cit>
 </sense>
 </entry>
 </superEntry>

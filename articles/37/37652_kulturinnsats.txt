@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kulturinnsats</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-вклад в дело культуры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вклад в дело культуры</text></cit>
 </sense>
 </entry>
 </superEntry>

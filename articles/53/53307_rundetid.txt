@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rundetid</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>спорт.</u> время, за которое пройден круг
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время, за которое пройден круг</text></cit>
 </sense>
 </entry>
 </superEntry>

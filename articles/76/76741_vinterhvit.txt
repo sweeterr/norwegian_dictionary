@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vinterhvit</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-белоснежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белоснежный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flu</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-подводный камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводный камень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">flu</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> см. fly IV
+<usg>диал.</usg>
+<ref>fly IV</ref>
 </sense>
 </entry>
 </superEntry>

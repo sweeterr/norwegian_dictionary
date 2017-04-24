@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hjulgang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> колёсная пара
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колёсная пара</text></cit>
 </sense>
 </entry>
 </superEntry>

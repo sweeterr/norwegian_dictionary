@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trute</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-надувать губы, дуться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надувать губы, дуться</text></cit>
 </sense>
 <sense>
-вытягивать губы трубочкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытягивать губы трубочкой</text></cit>
 </sense>
 </entry>
 </superEntry>

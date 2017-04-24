@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lav</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-мох, лишайник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мох, лишайник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,38 +13,40 @@
 <form>
 <orth type="lemma">lav</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-низкий <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкий <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-небольшого роста, невысокий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшого роста, невысокий</text></cit>
 </sense>
 <sense>
-тихий (о звуке, голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихий (о звуке, голосе)</text></cit>
 </sense>
 <sense>
-мелкий, мелководный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий, мелководный</text></cit>
 </sense>
 <sense>
-низменный, подлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низменный, подлый</text></cit>
 </sense>
 <sense>
-незначительный (о числе, количестве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незначительный (о числе, количестве)</text></cit>
 </sense>
 <sense>
-примитивный; слаборазвитый (о стране)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивный; слаборазвитый (о стране)</text></cit>
 </sense>
 <sense>
-<u>фон.</u> нижнего подъёма
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нижнего подъёма</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> низший
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низший</text></cit>
 </sense>
 <sense>
-<u>мор.</u> глубоко сидящий (о судне)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубоко сидящий (о судне)</text></cit>
 <сit type="example"><text>det er lavt under taket i værelset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в комнате низкие потолки</text></cit></cit>
 </sense>
 </entry>

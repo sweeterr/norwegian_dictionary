@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-dro(g), -dradd (-dratt)</orth></inflection>
 </form>
 <sense>
-вытаскивать, вытягивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытаскивать, вытягивать</text></cit>
 </sense>
 <sense>
-воспитывать, обучать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспитывать, обучать</text></cit>
 <сit type="example"><text>oppdra på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> школить, муштровать кого-л.</text></cit></cit>
 </sense>
 <sense>
-дрессировать (животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрессировать (животных)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> передавать (власть, полномочия)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать (власть, полномочия)</text></cit>
 </sense>
 </entry>
 </superEntry>

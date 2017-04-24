@@ -5,24 +5,23 @@
 <form>
 <orth type="lemma">røre</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-тестообразная смесь, кашица, жидкая масса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тестообразная смесь, кашица, жидкая масса</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">røre</orth>
-<inflection><orth extent="part">-t</orth></inflection>
- (-n)
+<inflection><orth extent="part">-t (-n)</orth></inflection>
 </form>
 <sense>
-беспорядок, сумятица, суматоха, неразбериха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, сумятица, суматоха, неразбериха</text></cit>
 </sense>
 <sense>
-бурная деятельность, активность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурная деятельность, активность</text></cit>
 </sense>
 <sense>
-волнение, смятение, брожение, восстание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнение, смятение, брожение, восстание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,31 +31,31 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-двигать, шевелить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигать, шевелить</text></cit>
 <сit type = "example"><text>røre på seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> двигаться, шевелиться</text></cit></cit>
 <сit type = "example"><text>røre på seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приходить в движение</text></cit></cit>
 <сit type = "example"><text>røre på seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> начать действовать (о вулкане)</text></cit></cit>
 </sense>
 <sense>
-двигаться, шевелиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться, шевелиться</text></cit>
 </sense>
 <sense>
-играть (на музыкальном инструменте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (на музыкальном инструменте)</text></cit>
 </sense>
 <sense>
-взбалтывать, взбаламучивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взбалтывать, взбаламучивать</text></cit>
 </sense>
 <sense>
-мешать, размешивать (тж. røre rundt om, i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешать, размешивать (тж. røre rundt om, i)</text></cit>
 </sense>
 <sense>
-сбивать (сливки, масло)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбивать (сливки, масло)</text></cit>
 </sense>
 <sense>
-трогать, затрагивать <u>тж. перен.</u>, касаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трогать, затрагивать <lbl>тж. перен.</lbl>, касаться</text></cit>
 </sense>
 <sense>
-вызывать сочувствие (сострадание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать сочувствие (сострадание)</text></cit>
 <сit type="example"><text>røre om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упоминать, затрагивать, говорить (о чём-л.)</text></cit></cit>
 <сit type="example"><text>røre opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взбаламучивать, взбалтывать</text></cit></cit>
 <сit type="example"><text>røre sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смешивать</text></cit></cit>

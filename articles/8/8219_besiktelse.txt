@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-инспектирование, осмотр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инспектирование, осмотр</text></cit>
 </sense>
 <sense>
-ревизия, инспекция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ревизия, инспекция</text></cit>
 </sense>
 <sense>
-<u>мед.</u> освидетельствование
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освидетельствование</text></cit>
 </sense>
 </entry>
 </superEntry>

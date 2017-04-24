@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">tredimensjonal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-трёхмерный, данный в трёх измерениях
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трёхмерный, данный в трёх измерениях</text></cit>
 </sense>
 <sense>
-кино стереоскопический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кино стереоскопический</text></cit>
 </sense>
 </entry>
 </superEntry>

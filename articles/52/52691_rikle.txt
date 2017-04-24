@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">rikle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-повернуть, покрутить (ручку двери и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть, покрутить (ручку двери и т. п.)</text></cit>
 </sense>
 <sense>
-дёргать, подёргивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дёргать, подёргивать</text></cit>
 </sense>
 <sense>
-шататься (о старом стуле, столе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шататься (о старом стуле, столе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

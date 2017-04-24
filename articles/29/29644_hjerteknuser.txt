@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hjerteknuser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-сердцеед
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердцеед</text></cit>
 </sense>
 <sense>
-очаровательный ребёнок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очаровательный ребёнок</text></cit>
 </sense>
 </entry>
 </superEntry>

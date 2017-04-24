@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-дубить, выделывать кожу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дубить, выделывать кожу</text></cit>
 <сit type="example"><text>garve ens skinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> отколотить кого-л.</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> обрабатывать (сталь) давлением
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрабатывать (сталь) давлением</text></cit>
 </sense>
 </entry>
 </superEntry>

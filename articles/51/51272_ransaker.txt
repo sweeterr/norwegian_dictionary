@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ransaker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-следователь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следователь</text></cit>
 </sense>
 <sense>
-человек, производящий обыск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, производящий обыск</text></cit>
 </sense>
 </entry>
 </superEntry>

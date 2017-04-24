@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">produktiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-производительный, продуктивный (о труде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производительный, продуктивный (о труде)</text></cit>
 </sense>
 <sense>
-творческий, созидательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>творческий, созидательный</text></cit>
 </sense>
 <sense>
-плодовитый (о писателе, учёном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плодовитый (о писателе, учёном)</text></cit>
 </sense>
 <sense>
-<u>грам.</u> продуктивный (о суффиксах)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продуктивный (о суффиксах)</text></cit>
 </sense>
 </entry>
 </superEntry>

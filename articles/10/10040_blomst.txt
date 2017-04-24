@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-цветок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цветок</text></cit>
 <сit type="example"><text>broderte blomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вышитые цветы</text></cit></cit>
 <сit type="example"><text>blomster på ruten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снежные узоры (на окнах)</text></cit></cit>
 <сit type="example"><text>lage blomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать цветы</text></cit></cit>
@@ -16,14 +16,17 @@
 <сit type="example"><text>vanne blomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поливать цветы</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> цвет; краса; лучшая часть чего-л.
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет; краса; лучшая часть чего-л.</text></cit>
 <сit type="example"><text>blomsten av landets ungdom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цвет молодёжи страны</text></cit></cit>
 <сit type = "example"><text>i blomst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в цвету</text></cit></cit>
-<сit type = "example"><text>i blomst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> в расцвете сил</text></cit></cit>
+<сit type = "example"><text>i blomst :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> в расцвете сил</text></cit></cit>
 <сit type="example"><text>stå i blomst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цвести</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u>, <u>ирон.</u> вычурный, витиеватый оборот речи
+<usg>поэт.</usg>
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вычурный, витиеватый оборот речи</text></cit>
 <сit type="example"><text>veltalenhetens blomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цветы красноречия</text></cit></cit>
 </sense>
 </entry>

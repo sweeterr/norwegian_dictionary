@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">adhesjonsvogn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>редко</u> прицеп
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прицеп</text></cit>
 </sense>
 </entry>
 </superEntry>

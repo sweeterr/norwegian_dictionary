@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomvekt</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>спорт.</u> средний вес (в боксе)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний вес (в боксе)</text></cit>
 </sense>
 </entry>
 </superEntry>

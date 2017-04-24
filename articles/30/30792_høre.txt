@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-слышать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слышать</text></cit>
 <сit type="example"><text>det høres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слышно</text></cit></cit>
 <сit type="example"><text>jeg har hørt si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я слышал, что …</text></cit></cit>
 <сit type="example"><text>jeg har hørt fortelle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассказывают …; говорят ...</text></cit></cit>
 <сit type = "example"><text>høre etter noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> справиться, узнать, спросить о чём-л.</text></cit></cit>
-<сit type = "example"><text>høre etter noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прислушиваться к чему-л. <u>тж. перен.</u></text></cit></cit>
+<сit type = "example"><text>høre etter noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прислушиваться к чему-л. <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>høre fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить письмо, весточку от кого-л.</text></cit></cit>
 <сit type="example"><text>la høre fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать о себе знать</text></cit></cit>
 </sense>
 <sense>
-узнать, услышать о чём-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узнать, услышать о чём-л.</text></cit>
 </sense>
 <sense>
-экзаменовать (по предмету - i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзаменовать (по предмету - i)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> выслушивать (на суде)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выслушивать (на суде)</text></cit>
 <сit type="example"><text>høre innom én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забежать к кому-л.</text></cit></cit>
 <сit type = "example"><text>høre inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> входить в состав (чего-л. - under noe)</text></cit></cit>
 <сit type = "example"><text>høre inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> входить в компетенцию (кого-либо - under én)</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trekkbasun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> цугтромбон
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цугтромбон</text></cit>
 </sense>
 </entry>
 </superEntry>

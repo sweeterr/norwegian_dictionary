@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gjødselspreder</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>с.-х.</u> разбрасыватель навоза
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбрасыватель навоза</text></cit>
 </sense>
 </entry>
 </superEntry>

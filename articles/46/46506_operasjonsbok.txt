@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">operasjonsbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-<u>воен.</u> журнал боевых действий
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журнал боевых действий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kulten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-жирный, откормленный, упитанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жирный, откормленный, упитанный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,14 +14,13 @@
 <form>
 <orth type="lemma">kulten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-скверный,отвратительный, паршивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скверный,отвратительный, паршивый</text></cit>
 </sense>
 <sense>
-непривлекательный, не располагающий к себе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непривлекательный, не располагающий к себе</text></cit>
 </sense>
 </entry>
 </superEntry>

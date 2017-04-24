@@ -7,10 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> <u>уст.</u> шквал
+<usg>мор.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шквал</text></cit>
 </sense>
 <sense>
-<u>разг.</u> хороший глоток водки
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хороший глоток водки</text></cit>
 <сit type="example"><text>ha en hivert (være på hiverten)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в подвыпившем состоянии</text></cit></cit>
 </sense>
 </entry>

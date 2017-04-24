@@ -7,22 +7,24 @@
 <inflection><orth extent="part">-n (-a), -r</orth></inflection>
 </form>
 <sense>
-длина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длина</text></cit>
 <сit type="example"><text>i lengden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по длине, в длину</text></cit></cit>
 <сit type="example"><text>strekke seg i lengden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растягиваться, тянуться в длину</text></cit></cit>
 </sense>
 <sense>
-<u>геогр.</u> долгота
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долгота</text></cit>
 <сit type="example"><text>avfarende (påværende) lengde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> долгота отшествия (пришествия)</text></cit></cit>
 <сit type="example"><text>bestikkets lengde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> исчислимая долгота</text></cit></cit>
 <сit type="example"><text>observert lengde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> обсервованная долгота</text></cit></cit>
 </sense>
 <sense>
-продолжительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продолжительность</text></cit>
 <сit type="example"><text>i lengdeen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>долго, на долгое время</text></cit></cit>
 </sense>
 <sense>
-<u>фон.</u> долгота, длительность
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долгота, длительность</text></cit>
 </sense>
 </entry>
 </superEntry>

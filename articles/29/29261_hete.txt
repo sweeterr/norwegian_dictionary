@@ -7,17 +7,17 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-зной, жара
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зной, жара</text></cit>
 <сit type="example"><text>under brennende hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в сильную жару</text></cit></cit>
 </sense>
 <sense>
-горячка (на работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горячка (на работе)</text></cit>
 </sense>
 <sense>
-жар, лихорадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жар, лихорадка</text></cit>
 </sense>
 <sense>
-страстность, пыл
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страстность, пыл</text></cit>
 <сit type="example"><text>i kampens hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пылу сражения</text></cit></cit>
 <сit type="example"><text>i stridens hete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в разгаре спора</text></cit></cit>
 </sense>
@@ -29,10 +29,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-нагревать, раскалять (обычно hete opp)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагревать, раскалять (обычно hete opp)</text></cit>
 </sense>
 <sense>
-гореть (о больном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гореть (о больном)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,7 +40,7 @@
 <form>
 <orth type="lemma">hete</orth>
 <inflection><orth>het (hette), hett</orth></inflection>
-называться, именоваться, иметь имя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>называться, именоваться, иметь имя</text></cit>
 … heter det i avisa … говорится в газете
 <сit type="example"><text>hva heter De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вас зовут?, как ваше имя?</text></cit></cit>
 <сit type="example"><text>hun heter etter (noen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её назвали в честь (кого-л.)</text></cit></cit>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">ubeinsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> упрямый, строптивый, своенравный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямый, строптивый, своенравный</text></cit>
 </sense>
 </entry>
 </superEntry>

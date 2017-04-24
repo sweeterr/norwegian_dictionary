@@ -8,7 +8,7 @@
 <gramGrp><gender>n</gender><note>от noen</note></gramGrp>
 </form>
 <sense>
-что-то, кое-что, что-л.ибо, нечто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>что-то, кое-что, что-л.ибо, нечто</text></cit>
 <сit type="example"><text>noe bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного лучше</text></cit></cit>
 <сit type="example"><text>ikke noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничто, ничего</text></cit></cit>
 <сit type="example"><text>noe som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что угодно, что бы то ни было</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>noe er bedre enn intet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> лучше уж что-то, чем ничего</text></cit></cit>
 </sense>
 <sense>
-указывает на часть от целого:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на часть от целого:</text></cit>
 <сit type="example"><text>spise noe erter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поесть гороху</text></cit></cit>
 <сit type = "example"><text>bli til noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стать кем-л., дослужиться до какой-либо должности</text></cit></cit>
 <сit type = "example"><text>bli til noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> привести к чему-л.</text></cit></cit>
@@ -28,7 +28,7 @@
 <сit type="example"><text>hva for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что за</text></cit></cit>
 </sense>
 <sense>
-до некоторой степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>до некоторой степени</text></cit>
 <сit type="example"><text>noe så nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приблизительно, примерно</text></cit></cit>
 </sense>
 </entry>

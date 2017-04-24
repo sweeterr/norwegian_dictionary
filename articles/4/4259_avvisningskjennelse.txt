@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">avvisningskjennelse</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-отклонение апелляции
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отклонение апелляции</text></cit>
 </sense>
 <sense>
-отказ в иске
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отказ в иске</text></cit>
 </sense>
 </entry>
 </superEntry>

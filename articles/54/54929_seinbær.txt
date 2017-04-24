@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">seinbær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> отелившаяся поздно в году (о корове)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отелившаяся поздно в году (о корове)</text></cit>
 </sense>
 </entry>
 </superEntry>

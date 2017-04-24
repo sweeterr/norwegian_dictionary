@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hyrdinne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> пастушка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастушка</text></cit>
 </sense>
 </entry>
 </superEntry>

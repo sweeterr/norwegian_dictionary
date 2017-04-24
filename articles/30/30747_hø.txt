@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">hø</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-круглая горная вершина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглая горная вершина</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">hø</orth>
-hø!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>hø!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-употребляется для выражения презрения фи!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется для выражения презрения фи!</text></cit>
 </sense>
 </entry>
 </superEntry>

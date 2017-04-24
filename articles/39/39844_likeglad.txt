@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">likeglad</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-беспечный, беззаботный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспечный, беззаботный</text></cit>
 </sense>
 <sense>
-равнодушный, незаинтересованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнодушный, незаинтересованный</text></cit>
 <сit type="example"><text>være likeglad med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>относиться безразлично (равнодушно) к чему-л.</text></cit></cit>
 </sense>
 </entry>

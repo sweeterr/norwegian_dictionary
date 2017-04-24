@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">øyensvak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-со слабым зрением
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>со слабым зрением</text></cit>
 </sense>
 </entry>
 </superEntry>

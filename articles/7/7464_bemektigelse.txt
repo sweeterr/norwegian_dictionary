@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">bemektigelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-овладение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овладение</text></cit>
 </sense>
 <sense>
-захват, оккупация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захват, оккупация</text></cit>
 </sense>
 <sense>
-покорение, подчинение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покорение, подчинение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">auksjonsbridge</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>карт.</u> разновидность бриджа
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разновидность бриджа</text></cit>
 </sense>
 </entry>
 </superEntry>

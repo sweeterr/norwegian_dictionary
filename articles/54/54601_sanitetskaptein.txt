@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sanitetskaptein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> полковой врач
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полковой врач</text></cit>
 </sense>
 </entry>
 </superEntry>

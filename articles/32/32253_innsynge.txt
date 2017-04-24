@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">innsynge</orth>
 <inflection><orth extent="part">-sang, -sunget</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-записывать песни на пластинку (на ленту магнитофона)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записывать песни на пластинку (на ленту магнитофона)</text></cit>
 </sense>
 <sense>
-разучивать песню
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разучивать песню</text></cit>
 </sense>
 </entry>
 </superEntry>

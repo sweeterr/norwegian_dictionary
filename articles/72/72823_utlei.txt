@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utlei</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u> пресыщенный (чем-л. - av)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресыщенный (чем-л. - av)</text></cit>
 <сit type="example"><text>han var utlei av kino</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему опротивело кино</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kahytt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> каюта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каюта</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aortastenose</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> сужение (стеноз) аорты
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сужение (стеноз) аорты</text></cit>
 </sense>
 </entry>
 </superEntry>

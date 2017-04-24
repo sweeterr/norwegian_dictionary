@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">immobil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неподвижный, недвижимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподвижный, недвижимый</text></cit>
 </sense>
 </entry>
 </superEntry>

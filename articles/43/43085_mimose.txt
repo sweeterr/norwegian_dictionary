@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">mimose</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u>
+<usg>бот.</usg>
 </form>
 <sense>
-мимоза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мимоза</text></cit>
 </sense>
 <sense>
-срезанные ветки белой акации
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срезанные ветки белой акации</text></cit>
 </sense>
 </entry>
 </superEntry>

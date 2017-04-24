@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место</text></cit>
 <сit type="example"><text>nummererte plasser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нумерованные места</text></cit></cit>
 <сit type="example"><text>av mangel på plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за недостатка места</text></cit></cit>
 <сit type="example"><text>bytte plass med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обменяться местами</text></cit></cit>
@@ -18,38 +18,42 @@
 <сit type="example"><text>ta plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться, занимать место</text></cit></cit>
 </sense>
 <sense>
-должность, служба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность, служба</text></cit>
 <сit type="example"><text>fylle sin plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать своей должности</text></cit></cit>
 <сit type="example"><text>sette én på plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> поставить кого-л. на своё место, осадить (кого-л.)</text></cit></cit>
 <сit type="example"><text>være på sin rette plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на своём месте, соответствовать своему назначению</text></cit></cit>
 </sense>
 <sense>
-городская площадь, сквер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городская площадь, сквер</text></cit>
 </sense>
 <sense>
-площадка перед зданием
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>площадка перед зданием</text></cit>
 </sense>
 <sense>
-спортивная (лётная) площадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спортивная (лётная) площадка</text></cit>
 </sense>
 <sense>
-небольшой участок земли, пустырь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшой участок земли, пустырь</text></cit>
 </sense>
 <sense>
-хутор, усадьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хутор, усадьба</text></cit>
 </sense>
 <sense>
-посёлок, местечко, городок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посёлок, местечко, городок</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u>, <u>мор.</u> класс
+<usg>ж.-д.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>класс</text></cit>
 <сit type="example"><text>reise på første (annen, tredje) plass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать в первом (втором, третьем) классе</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> местонахождение, координаты (судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местонахождение, координаты (судна)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> призовое место
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призовое место</text></cit>
 </sense>
 </entry>
 </superEntry>

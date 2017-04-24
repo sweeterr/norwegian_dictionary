@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-размышление, рассуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размышление, рассуждение</text></cit>
 </sense>
 <sense>
-<u>филос.</u> рефлексия
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рефлексия</text></cit>
 </sense>
 <sense>
-<u>физ.</u> отражение (звука)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отражение (звука)</text></cit>
 </sense>
 </entry>
 </superEntry>

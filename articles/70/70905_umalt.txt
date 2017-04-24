@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">umalt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-несмолотый, неразмолотый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несмолотый, неразмолотый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">umalt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-непокрашенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непокрашенный</text></cit>
 </sense>
 </entry>
 </superEntry>

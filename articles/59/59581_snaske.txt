@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snaske</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u> жрать, лопать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жрать, лопать</text></cit>
 </sense>
 </entry>
 </superEntry>

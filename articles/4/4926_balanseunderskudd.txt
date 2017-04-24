@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balanseunderskudd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>экон.</u> дефицит баланса, чистый убыток за год
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дефицит баланса, чистый убыток за год</text></cit>
 </sense>
 </entry>
 </superEntry>

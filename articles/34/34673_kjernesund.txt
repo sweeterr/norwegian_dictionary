@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kjernesund</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-совершенно здоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно здоровый</text></cit>
 </sense>
 </entry>
 </superEntry>

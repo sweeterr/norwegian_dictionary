@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svensk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-швед
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швед</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">svensk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-шведский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шведский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">svensk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-шведский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шведский</text></cit>
 </sense>
 </entry>
 </superEntry>

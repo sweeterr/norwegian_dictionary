@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">demokrati</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-демократия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>демократия</text></cit>
 </sense>
 </entry>
 </superEntry>

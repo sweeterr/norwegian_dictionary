@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">borstang</orth>
 <inflection><orth extent="part">-stanga (-stangen), -stenger</orth></inflection>
-<u>тех.</u> ударная штанга
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударная штанга</text></cit>
 </sense>
 </entry>
 </superEntry>

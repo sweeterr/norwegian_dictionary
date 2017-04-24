@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsnormal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> шаблон, стандарт
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаблон, стандарт</text></cit>
 </sense>
 </entry>
 </superEntry>

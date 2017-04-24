@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cupfinale</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> финал кубка
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>финал кубка</text></cit>
 </sense>
 </entry>
 </superEntry>

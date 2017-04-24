@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vand</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-трудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный</text></cit>
 </sense>
 <sense>
-несговорчивый, разборчивый, привередливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несговорчивый, разборчивый, привередливый</text></cit>
 </sense>
 </entry>
 </superEntry>

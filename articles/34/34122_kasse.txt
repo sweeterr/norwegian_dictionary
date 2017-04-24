@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-ящик, ларь, сундук, сейф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ящик, ларь, сундук, сейф</text></cit>
 </sense>
 <sense>
-кожух, футляр, корпус (часов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кожух, футляр, корпус (часов)</text></cit>
 </sense>
 <sense>
-касса, помещение кассы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касса, помещение кассы</text></cit>
 </sense>
 <sense>
-денежная наличность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>денежная наличность</text></cit>
 <сit type="example"><text>betale per (<lbl>сокр.</lbl> pr.) kasse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>платить наличными деньгами</text></cit></cit>
 <сit type="example"><text>være ved (<lbl>сокр.</lbl> <lbl>тж.</lbl> pr.) kasse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь наличные деньги</text></cit></cit>
 </sense>
 <sense>
-<u>полигр.</u> наборная касса
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наборная касса</text></cit>
 </sense>
 </entry>
 </superEntry>

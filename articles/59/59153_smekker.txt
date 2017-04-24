@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">smekker</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тонкий, стройный, гибкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, стройный, гибкий</text></cit>
 </sense>
 <sense>
-хилый, тщедушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, тщедушный</text></cit>
 </sense>
 </entry>
 </superEntry>

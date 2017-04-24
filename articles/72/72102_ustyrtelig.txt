@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ustyrtelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-огромный, колоссальный, невероятно большой (богатый)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огромный, колоссальный, невероятно большой (богатый)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ustyrtelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-невероятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невероятно</text></cit>
 </sense>
 </entry>
 </superEntry>

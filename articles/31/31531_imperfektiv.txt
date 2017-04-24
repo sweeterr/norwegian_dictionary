@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">imperfektiv</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>грам.</u> несовершенный вид
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несовершенный вид</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">imperfektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-несовершенный (о виде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несовершенный (о виде)</text></cit>
 </sense>
 </entry>
 </superEntry>

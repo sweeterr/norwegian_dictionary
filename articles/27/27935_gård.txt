@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-усадьба, ферма, хутор, участок земли, хозяйство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усадьба, ферма, хутор, участок земли, хозяйство</text></cit>
 <сit type="example"><text>gård og grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>усадьба с принадлежащими ей землями, усадьба и земельные угодья</text></cit></cit>
 <сit type="example"><text>bruke gård</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обрабатывать землю, заниматься сельским хозяйством</text></cit></cit>
 <сit type="example"><text>drive en gård</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь своё хозяйство, хутор</text></cit></cit>
@@ -15,19 +15,20 @@
 <сit type="example"><text>ingen servering her i gården</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> здесь никого не обслуживают</text></cit></cit>
 </sense>
 <sense>
-дом, надворные постройки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дом, надворные постройки</text></cit>
 <сit type="example"><text>gård og grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дом и земельные угодья</text></cit></cit>
 <сit type="example"><text>her i gården</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у нас дома</text></cit></cit>
 </sense>
 <sense>
-двор (тж. в замке, монастыре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двор (тж. в замке, монастыре)</text></cit>
 <сit type="example"><text>inne i gården</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во дворе</text></cit></cit>
 </sense>
 <sense>
-большой жилой дом в городе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой жилой дом в городе</text></cit>
 </sense>
 <sense>
-<u>уст.</u> замок, цитадель
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замок, цитадель</text></cit>
 </sense>
 </entry>
 </superEntry>

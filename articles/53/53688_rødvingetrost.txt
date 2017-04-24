@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødvingetrost</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>зоол.</u> дрозд белобровый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрозд белобровый</text></cit>
 </sense>
 </entry>
 </superEntry>

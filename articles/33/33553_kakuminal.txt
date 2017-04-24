@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kakuminal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> какуминальный согласный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>какуминальный согласный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">kakuminal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> какуминальный (о согласных)
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>какуминальный (о согласных)</text></cit>
 </sense>
 </entry>
 </superEntry>

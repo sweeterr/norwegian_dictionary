@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lok</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> мелкий непроточный пруд
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий непроточный пруд</text></cit>
 </sense>
 </entry>
 </superEntry>

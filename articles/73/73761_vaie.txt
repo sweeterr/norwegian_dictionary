@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 </form>
 <sense>
-развеваться, реять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развеваться, реять</text></cit>
 </sense>
 <sense>
-колыхаться на ветру, раскачиваться (на ходу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыхаться на ветру, раскачиваться (на ходу)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> плавать с поднятым флагом (под флагом)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавать с поднятым флагом (под флагом)</text></cit>
 <сit type="example"><text>vaie vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уносить ветром</text></cit></cit>
 </sense>
 </entry>

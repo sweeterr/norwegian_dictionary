@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">litteranmelder</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-литературный критик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>литературный критик</text></cit>
 </sense>
 </entry>
 </superEntry>

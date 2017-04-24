@@ -8,23 +8,27 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-путевой дневник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путевой дневник</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-анналы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анналы</text></cit>
 </sense>
 <sense>
-<u>бухг.</u> журнал
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журнал</text></cit>
 </sense>
 <sense>
-<u>мор.</u> вахтенный журнал, судовой журнал
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вахтенный журнал, судовой журнал</text></cit>
 </sense>
 <sense>
-<u>мед.</u> история болезни (документ)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история болезни (документ)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> газета, журнал
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газета, журнал</text></cit>
 </sense>
 </entry>
 </superEntry>

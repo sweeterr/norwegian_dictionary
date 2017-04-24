@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">postavdeling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ж.-д.</u> почтовое отделение (в вагоне)
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтовое отделение (в вагоне)</text></cit>
 </sense>
 </entry>
 </superEntry>

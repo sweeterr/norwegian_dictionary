@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">navigator</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-штурман-навигатор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штурман-навигатор</text></cit>
 </sense>
 <sense>
-мореплаватель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мореплаватель</text></cit>
 </sense>
 </entry>
 </superEntry>

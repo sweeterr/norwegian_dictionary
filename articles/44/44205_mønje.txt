@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mønje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-свинцовый сурик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свинцовый сурик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">mønje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-покрывать (красить) красным суриком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать (красить) красным суриком</text></cit>
 </sense>
 </entry>
 </superEntry>

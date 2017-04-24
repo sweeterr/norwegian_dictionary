@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">birk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> см. bjørk
+<usg>уст.</usg>
+<ref>bjørk</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">birk</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ист.</u> судебный округ (в Дании и Норвегии, где судья назначался помещиком), бирк
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судебный округ (в Дании и Норвегии, где судья назначался помещиком), бирк</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">anslagsenergi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> сила удара (снаряди)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила удара (снаряди)</text></cit>
 </sense>
 </entry>
 </superEntry>

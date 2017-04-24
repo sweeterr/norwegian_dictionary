@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">nøktern</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-трезвый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трезвый</text></cit>
 </sense>
 <sense>
-здравый, рассудительный, трезвый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здравый, рассудительный, трезвый</text></cit>
 </sense>
 <sense>
-сухой, фактический (о сообщении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухой, фактический (о сообщении)</text></cit>
 </sense>
 <sense>
-реалистический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реалистический</text></cit>
 </sense>
 <sense>
-простой, строгий (о мебели, обстановке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, строгий (о мебели, обстановке)</text></cit>
 </sense>
 </entry>
 </superEntry>

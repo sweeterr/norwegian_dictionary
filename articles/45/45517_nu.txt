@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">nu</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-деревянное корыто (из которого поят скот)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянное корыто (из которого поят скот)</text></cit>
 </sense>
 <sense>
-жёлоб для воды (из выдолбленного дерева)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёлоб для воды (из выдолбленного дерева)</text></cit>
 </sense>
 <sense>
-примитивный плот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивный плот</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,11 +24,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-текущий (настоящий) момент, сегодняшний день
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>текущий (настоящий) момент, сегодняшний день</text></cit>
 <сit type="example"><text>leve i nuet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить сегодняшним днём</text></cit></cit>
 </sense>
 <sense>
-мгновение, миг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мгновение, миг</text></cit>
 <сit type="example"><text>i ett nu</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в одно мгновение, вмиг</text></cit></cit>
 </sense>
 </entry>
@@ -36,7 +36,7 @@
 <index></index>
 <form>
 <orth type="lemma">nu</orth>
-см. nå II
+<ref>nå II</ref>
 </sense>
 </entry>
 </superEntry>

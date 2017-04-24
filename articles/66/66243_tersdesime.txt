@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tersdesime</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>муз.</u> терцдецима
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терцдецима</text></cit>
 </sense>
 </entry>
 </superEntry>

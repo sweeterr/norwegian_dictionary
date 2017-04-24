@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-двухсветный зал, палатка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двухсветный зал, палатка</text></cit>
 </sense>
 <sense>
-вестибюль, холл
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вестибюль, холл</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">hall</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-жёрнов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёрнов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">hall</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> склон, откос
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склон, откос</text></cit>
 </sense>
 </entry>
 </superEntry>

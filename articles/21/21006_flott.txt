@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-плавание на поверхности воды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавание на поверхности воды</text></cit>
 <сit type="example"><text>holde på flott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать на воде</text></cit></cit>
 </sense>
 <sense>
-поплавок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">flott</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-плавающий, плавучий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавающий, плавучий</text></cit>
 <сit type="example"><text>bringe (få) flott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить на воду</text></cit></cit>
 <сit type="example"><text>gjøre flott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить на воду, снять с мели</text></cit></cit>
 <сit type="example"><text>komme flott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всплыть, сойти с мели <lbl>тж. перен.</lbl></text></cit></cit>
@@ -33,22 +33,23 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-расточительный, живущий на широкую ногу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расточительный, живущий на широкую ногу</text></cit>
 </sense>
 <sense>
-роскошный, шикарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роскошный, шикарный</text></cit>
 </sense>
 <sense>
-представительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>представительный</text></cit>
 </sense>
 <sense>
-импонирующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>импонирующий</text></cit>
 </sense>
 <sense>
-элегантный, стильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элегантный, стильный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> скоропалительный, необдуманный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скоропалительный, необдуманный</text></cit>
 </sense>
 </entry>
 </superEntry>

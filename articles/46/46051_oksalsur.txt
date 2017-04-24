@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">oksalsur</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>хим.</u> щавелевокислый
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щавелевокислый</text></cit>
 </sense>
 </entry>
 </superEntry>

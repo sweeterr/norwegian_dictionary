@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-мечтательность, фантазирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мечтательность, фантазирование</text></cit>
 </sense>
 <sense>
-<u>мед.</u> бредить, галлюцинировать
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бредить, галлюцинировать</text></cit>
 </sense>
 <sense>
-<u>муз.</u> импровизация
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>импровизация</text></cit>
 </sense>
 </entry>
 </superEntry>

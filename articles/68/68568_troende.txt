@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">troende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-верующий, религиозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верующий, религиозный</text></cit>
 <сit type = "example"><text>stå til troende :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть достоверным</text></cit></cit>
 <сit type = "example"><text>stå til troende :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внушать доверие</text></cit></cit>
 </sense>

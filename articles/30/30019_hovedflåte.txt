@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hovedflåte</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> главные силы (военного) флота
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главные силы (военного) флота</text></cit>
 </sense>
 </entry>
 </superEntry>

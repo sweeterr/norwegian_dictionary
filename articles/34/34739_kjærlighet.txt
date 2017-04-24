@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-любовь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любовь</text></cit>
 <сit type="example"><text>fri (sanselig, ulykkelig) kjærlighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободная (чувственная, несчастная) любовь</text></cit></cit>
 <сit type="example"><text>erklære én sin kjærlighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объясниться в любви кому-л.</text></cit></cit>
 <сit type="example"><text>skjenke én sin kjærlighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полюбить кого-л.</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>gammel kjærlighet ruster ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая любовь не ржавеет</text></cit></cit>
 </sense>
 <sense>
-предмет любви, любимая вещь, любимое дело
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предмет любви, любимая вещь, любимое дело</text></cit>
 </sense>
 <sense>
-kjærlighet (på pinne) <u>разг.</u> леденец на палочке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>kjærlighet (på pinne) <lbl>разг.</lbl> леденец на палочке</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">stemningsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">- t</orth></inflection>
 </form>
 <sense>
-создающий настроение, настраивающий (определённым образом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>создающий настроение, настраивающий (определённым образом)</text></cit>
 </sense>
 <sense>
-бодрый, (находящийся) в хорошем настроении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрый, (находящийся) в хорошем настроении</text></cit>
 </sense>
 </entry>
 </superEntry>

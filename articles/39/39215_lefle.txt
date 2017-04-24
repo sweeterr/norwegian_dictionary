@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lefle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-кокетничать, любезничать (с кем-л. - med)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кокетничать, любезничать (с кем-л. - med)</text></cit>
 </sense>
 <sense>
-вести себя легкомысленно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести себя легкомысленно</text></cit>
 </sense>
 </entry>
 </superEntry>

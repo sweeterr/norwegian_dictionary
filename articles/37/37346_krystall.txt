@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
 </form>
 <sense>
-хрусталь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрусталь</text></cit>
 </sense>
 <sense>
-хрустальная ваза, хрустальная рюмка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрустальная ваза, хрустальная рюмка</text></cit>
 </sense>
 <sense>
-<u>хим.</u> кристалл
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кристалл</text></cit>
 </sense>
 <sense>
-<u>радио</u> детекторный кристалл
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детекторный кристалл</text></cit>
 </sense>
 </entry>
 </superEntry>

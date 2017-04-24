@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">duett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> дуэт
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуэт</text></cit>
 </sense>
 </entry>
 </superEntry>

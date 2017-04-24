@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">avleiring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>геол.</u>
+<usg>геол.</usg>
 </form>
 <sense>
-отложения, наслоения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отложения, наслоения</text></cit>
 </sense>
 <sense>
-образование отложений (наслоений)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образование отложений (наслоений)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flysse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> тряпка, лоскут
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тряпка, лоскут</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">flysse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> чистить шелуху (чешую), обдирать кору
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистить шелуху (чешую), обдирать кору</text></cit>
 </sense>
 </entry>
 </superEntry>

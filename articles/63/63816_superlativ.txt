@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">superlativ</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-превосходная степень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходная степень</text></cit>
 </sense>
 <sense>
-прилагательное (наречие) в превосходной степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилагательное (наречие) в превосходной степени</text></cit>
 </sense>
 </entry>
 </superEntry>

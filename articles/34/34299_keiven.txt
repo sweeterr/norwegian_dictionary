@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">keiven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неуклюжий, неловкий (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуклюжий, неловкий (о человеке)</text></cit>
 </sense>
 <sense>
-неверный, ошибочный, неудачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неверный, ошибочный, неудачный</text></cit>
 </sense>
 </entry>
 </superEntry>

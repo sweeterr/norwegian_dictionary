@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">probermester</orth>
 <inflection><orth extent="part">-eren, -ere (-rer)</orth></inflection>
-<u>горн.</u> пробирный мастер
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробирный мастер</text></cit>
 </sense>
 </entry>
 </superEntry>

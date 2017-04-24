@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">deform</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-уродливый, изуродованный, деформированный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уродливый, изуродованный, деформированный</text></cit>
 </sense>
 </entry>
 </superEntry>

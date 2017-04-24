@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-et, -s</orth></inflection>
 </form>
 <sense>
-зев, пасть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зев, пасть</text></cit>
 </sense>
 <sense>
-широкое отверстие, зияние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широкое отверстие, зияние</text></cit>
 <сit type="example"><text>på gap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настежь</text></cit></cit>
 <сit type="example"><text>åpne døren på vidt gap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открыть дверь настежь</text></cit></cit>
 <сit type="example"><text>stå åpen på vidt gap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть открытым настежь</text></cit></cit>
 </sense>
 <sense>
-пропасть, бездна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропасть, бездна</text></cit>
 </sense>
 <sense>
-<u>мор.</u> пролив, проход
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пролив, проход</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,7 @@
 <form>
 <orth type="lemma">gap</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-зевок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зевок</text></cit>
 <сit type="example"><text>i en gap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не переводя дыхания</text></cit></cit>
 </sense>
 </entry>
@@ -36,13 +37,13 @@
 <form>
 <orth type="lemma">gap</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-любопытный человек, ротозей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любопытный человек, ротозей</text></cit>
 </sense>
 <sense>
-глупец, дуралей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупец, дуралей</text></cit>
 </sense>
 </entry>
 </superEntry>

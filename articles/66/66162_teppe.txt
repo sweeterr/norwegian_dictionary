@@ -7,22 +7,22 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-ковёр, коврик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковёр, коврик</text></cit>
 <сit type="example"><text>banke tepper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбивать ковры</text></cit></cit>
 </sense>
 <sense>
-тяжёлая скатерть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлая скатерть</text></cit>
 </sense>
 <sense>
-покрывало, одеяло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывало, одеяло</text></cit>
 </sense>
 <sense>
-театральный занавес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральный занавес</text></cit>
 <сit type="example"><text>teppet går opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес поднимается</text></cit></cit>
 <сit type="example"><text>teppet går ned (faller)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес опускается</text></cit></cit>
 </sense>
 <sense>
-покров (снежный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покров (снежный)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,7 +30,8 @@
 <form>
 <orth type="lemma">teppe</orth>
 <inflection><orth extent="part">-pet (-re), -pet (-t)</orth></inflection>
-<u>диал.</u> закрывать, покрывать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрывать, покрывать</text></cit>
 </sense>
 </entry>
 </superEntry>

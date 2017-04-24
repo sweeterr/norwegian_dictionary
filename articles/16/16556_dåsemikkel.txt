@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dåsemikkel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> дуралей
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуралей</text></cit>
 </sense>
 </entry>
 </superEntry>

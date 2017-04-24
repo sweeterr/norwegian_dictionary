@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stekke</orth>
 <inflection><orth extent="part">-n (-r)</orth></inflection>
-<u>диал.</u> стойло
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стойло</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,13 @@
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 </form>
 <sense>
-подрезать (крылья и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подрезать (крылья и т. п.)</text></cit>
 </sense>
 <sense>
-подавлять, угнетать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавлять, угнетать</text></cit>
 </sense>
 <sense>
-сокращать, ослаблять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать, ослаблять</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-язык, имеющий тоническое (музыкальное) ударение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык, имеющий тоническое (музыкальное) ударение</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> язык музыки
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык музыки</text></cit>
 </sense>
 </entry>
 </superEntry>

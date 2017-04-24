@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">evigung</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вечно молодой, вечно юный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечно молодой, вечно юный</text></cit>
 </sense>
 </entry>
 </superEntry>

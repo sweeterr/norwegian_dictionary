@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakvei</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-чёрный ход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный ход</text></cit>
 <сit type="example"><text>gå bakveien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти с чёрного хода</text></cit></cit>
 <сit type="example"><text>gå bakveier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>действовать тайком, использовать нечестные пути (для достижения своей цели)</text></cit></cit>
 </sense>

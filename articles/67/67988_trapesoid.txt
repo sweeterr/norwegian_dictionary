@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trapesoid</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>геом.</u> трапецоид
+<usg>геом.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трапецоид</text></cit>
 </sense>
 </entry>
 </superEntry>

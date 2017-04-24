@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-судьба, участь, доля, рок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судьба, участь, доля, рок</text></cit>
 <сit type="example"><text>hard lodd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлая доля (судьба)</text></cit></cit>
 <сit type="example"><text>sørgelig lodd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>печальная участь</text></cit></cit>
 </sense>
 <sense>
-жребий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жребий</text></cit>
 <сit type="example"><text>kaste (trekke) lodd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросать (тянуть) жребий (по поводу чего-л. - от)</text></cit></cit>
 </sense>
 <sense>
-лотерейный билет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лотерейный билет</text></cit>
 </sense>
 <sense>
-выигрыш (в лотерее)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выигрыш (в лотерее)</text></cit>
 <сit type="example"><text>vinne det store loddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выиграть (вытянуть) главный выигрыш</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> доля, часть (в наследстве)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доля, часть (в наследстве)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,17 +34,17 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-гиря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гиря</text></cit>
 </sense>
 <sense>
-лот (мера веса = 12,8 г)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лот (мера веса = 12,8 г)</text></cit>
 </sense>
 <sense>
-лот (для измерения глубины моря)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лот (для измерения глубины моря)</text></cit>
 <сit type="example"><text>hive loddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>измерять глубину</text></cit></cit>
 </sense>
 <sense>
-отвес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвес</text></cit>
 <сit type="example"><text>stå i lodd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять вертикально</text></cit></cit>
 </sense>
 </entry>
@@ -52,7 +53,8 @@
 <form>
 <orth type="lemma">lodd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>тех.</u> припой, сплав для паяния
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>припой, сплав для паяния</text></cit>
 </sense>
 </entry>
 </superEntry>

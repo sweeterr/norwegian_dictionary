@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-манёвр, приём (способ)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манёвр, приём (способ)</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-<u>воен.</u> манёвры; <u>мор.</u> эволюции
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манёвры; <lbl>мор.</lbl> эволюции</text></cit>
 </sense>
 <sense>
-уловка, хитрость, (хитроумный) манёвр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уловка, хитрость, (хитроумный) манёвр</text></cit>
 </sense>
 </entry>
 </superEntry>

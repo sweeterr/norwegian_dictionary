@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пульсация, биение, ритм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульсация, биение, ритм</text></cit>
 </sense>
 <sense>
-<u>эл.</u> пульсация, частота
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульсация, частота</text></cit>
 </sense>
 </entry>
 </superEntry>

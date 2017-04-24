@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">nårisle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поясничная рожа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поясничная рожа</text></cit>
 </sense>
 <sense>
-сыпь при скарлатине
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыпь при скарлатине</text></cit>
 </sense>
 </entry>
 </superEntry>

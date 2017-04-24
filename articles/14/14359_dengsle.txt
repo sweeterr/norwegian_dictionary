@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">dengsle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-отбивание косы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбивание косы</text></cit>
 </sense>
 <sense>
-<u>тех.</u> замес
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замес</text></cit>
 </sense>
 </entry>
 </superEntry>

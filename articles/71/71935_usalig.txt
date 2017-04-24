@@ -7,16 +7,18 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-злосчастный, несчастливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злосчастный, несчастливый</text></cit>
 </sense>
 <sense>
-гибельный, пагубный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибельный, пагубный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> гнетущий, невесёлый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнетущий, невесёлый</text></cit>
 </sense>
 <sense>
-<u>рел.</u> непосвящённый, необращённый
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непосвящённый, необращённый</text></cit>
 </sense>
 </entry>
 </superEntry>

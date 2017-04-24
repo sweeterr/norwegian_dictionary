@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">detonator</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>воен.</u> детонатор, взрыватель, запал
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детонатор, взрыватель, запал</text></cit>
 </sense>
 </entry>
 </superEntry>

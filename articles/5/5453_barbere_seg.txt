@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barbere seg</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-бриться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бриться</text></cit>
 </sense>
 </entry>
 </superEntry>

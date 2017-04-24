@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dosere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-обучать, читать лекции
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обучать, читать лекции</text></cit>
 <сit type="example"><text>dosere kjemi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>преподавать химию, читать лекции по химии</text></cit></cit>
 <сit type="example"><text>tale i en doserende tone</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить менторским тоном</text></cit></cit>
 </sense>

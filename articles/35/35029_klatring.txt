@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-лазание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лазание</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> восхождение на гору
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восхождение на гору</text></cit>
 <сit type="example"><text>klatring over hinder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> перелезание через препятствия</text></cit></cit>
 </sense>
 </entry>

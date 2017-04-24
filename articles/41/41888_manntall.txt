@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-перепись населения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перепись населения</text></cit>
 <сit type="example"><text>holde manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>производить перепись населения</text></cit></cit>
 </sense>
 <sense>
-список (избирателей, налогоплательщиков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>список (избирателей, налогоплательщиков)</text></cit>
 <сit type="example"><text>føre manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>составлять списки</text></cit></cit>
 <сit type="example"><text>oppta manntall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вносить (включать) в списки, зарегистрировать (кого-л.)</text></cit></cit>
 </sense>

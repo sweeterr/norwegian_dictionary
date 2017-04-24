@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">Gorkij</orth>
-<u>ист.</u> г. Горький
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>г. Горький</text></cit>
 </sense>
 </entry>
 </superEntry>

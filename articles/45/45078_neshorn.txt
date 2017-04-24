@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">neshorn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-носорог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носорог</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">neshorn</orth>
 <gramGrp><num>pl</num></gramGrp>
-<u>разг.</u> роговые очки
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роговые очки</text></cit>
 </sense>
 </entry>
 </superEntry>

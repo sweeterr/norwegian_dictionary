@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">abstraksjonsevne</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>филос.</u> способность к отвлечённому мышлению
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способность к отвлечённому мышлению</text></cit>
 </sense>
 </entry>
 </superEntry>

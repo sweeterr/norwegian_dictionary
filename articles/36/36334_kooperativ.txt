@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kooperativ</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кооператив кооперативный магазин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кооператив кооперативный магазин</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">kooperativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-кооперативный, кооператорский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кооперативный, кооператорский</text></cit>
 </sense>
 </entry>
 </superEntry>

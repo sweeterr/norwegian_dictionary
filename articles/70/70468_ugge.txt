@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ugge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плавник (у рыб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавник (у рыб)</text></cit>
 </sense>
 <sense>
-жабра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жабра</text></cit>
 </sense>
 </entry>
 </superEntry>

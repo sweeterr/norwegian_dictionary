@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">lavfrekvens</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>радио</u>, <u>физ.</u> низкая частота
+<usg>радио</usg>
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкая частота</text></cit>
 </sense>
 </entry>
 </superEntry>

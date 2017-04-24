@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-перевязка, перевязывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевязка, перевязывание</text></cit>
 </sense>
 <sense>
-повязка, бинт, бандаж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повязка, бинт, бандаж</text></cit>
 <сit type="example"><text>en foreløpig forbinding</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>временная повязка</text></cit></cit>
 <сit type="example"><text>legge forbinding om et sår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накладывать повязку на рану</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> связка, место соединения двух деталей
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связка, место соединения двух деталей</text></cit>
 </sense>
 </entry>
 </superEntry>

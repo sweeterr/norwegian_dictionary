@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vime</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> бред
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бред</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,16 +14,16 @@
 <form>
 <orth type="lemma">vime</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-нервничать, суетиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нервничать, суетиться</text></cit>
 </sense>
 <sense>
-болтать чепуху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать чепуху</text></cit>
 </sense>
 <sense>
-бесцельно бродить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцельно бродить</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">godvillig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-добровольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добровольный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">godvillig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-добровольно, охотно, с охотой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добровольно, охотно, с охотой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,19 +7,23 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-<u>анат.</u> ребро
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ребро</text></cit>
 </sense>
 <sense>
-грудинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грудинка</text></cit>
 </sense>
 <sense>
-<u>бот.</u> жилка листа
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жилка листа</text></cit>
 </sense>
 <sense>
-<u>тех.</u> острый край, выступ, ребро (чего-л.)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый край, выступ, ребро (чего-л.)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> шпангоут
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпангоут</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,13 +33,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-обирать, отнимать (чьё-л. имущество, деньги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обирать, отнимать (чьё-л. имущество, деньги)</text></cit>
 </sense>
 <sense>
-собирать, рвать (ягоды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать, рвать (ягоды)</text></cit>
 </sense>
 <sense>
-ощипывать (перья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощипывать (перья)</text></cit>
 </sense>
 </entry>
 </superEntry>

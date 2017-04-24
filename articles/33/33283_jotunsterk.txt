@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">jotunsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-сильный как великан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный как великан</text></cit>
 </sense>
 </entry>
 </superEntry>

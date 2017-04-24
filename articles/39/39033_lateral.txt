@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">lateral</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-боковой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковой</text></cit>
 </sense>
 <sense>
-<u>фон.</u> латеральный (о звуке)
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латеральный (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

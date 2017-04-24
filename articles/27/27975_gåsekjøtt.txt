@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gåsekjøtt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-гусиное мясо, гусятина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гусиное мясо, гусятина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skuddlinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> линия выстрела, линия цели
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия выстрела, линия цели</text></cit>
 <сit type="example"><text>være i skuddlinjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попадать под огонь <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>

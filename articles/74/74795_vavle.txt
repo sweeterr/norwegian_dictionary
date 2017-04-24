@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vavle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бормотать, говорить невнятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бормотать, говорить невнятно</text></cit>
 </sense>
 <sense>
-болтать чепуху (вздор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать чепуху (вздор)</text></cit>
 </sense>
 </entry>
 </superEntry>

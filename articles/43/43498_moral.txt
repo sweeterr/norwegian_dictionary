@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-нравственность, высокая мораль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нравственность, высокая мораль</text></cit>
 <сit type="example"><text>være løs i moralen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть безнравственным</text></cit></cit>
 </sense>
 <sense>
-этика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>этика</text></cit>
 </sense>
 <sense>
-мораль, нравоучительный вывод (из чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мораль, нравоучительный вывод (из чего-л.)</text></cit>
 <сit type="example"><text>preke moral</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать нотацию (кому-л.)</text></cit></cit>
 </sense>
 <sense>
-моральный дух, моральное состояние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моральный дух, моральное состояние</text></cit>
 </sense>
 <sense>
-<u>воен.</u> боевой дух
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боевой дух</text></cit>
 </sense>
 </entry>
 </superEntry>

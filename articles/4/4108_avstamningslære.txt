@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avstamningslære</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>биол.</u> учение о происхождении видов
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учение о происхождении видов</text></cit>
 </sense>
 </entry>
 </superEntry>

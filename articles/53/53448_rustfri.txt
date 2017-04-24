@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">rustfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-нержавеющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нержавеющий</text></cit>
 <сit type="example"><text>rustfritt stål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нержавеющая сталь</text></cit></cit>
 </sense>
 <sense>
-без ржавчины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без ржавчины</text></cit>
 </sense>
 </entry>
 </superEntry>

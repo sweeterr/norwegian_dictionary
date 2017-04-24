@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">distrikt</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-округ, район, область
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>округ, район, область</text></cit>
 <сit type="example"><text>ut i distriktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в район, в область</text></cit></cit>
 <сit type="example"><text>ute i distriktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в районе, в области</text></cit></cit>
 <сit type="example"><text>bli forflyttet til distriktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть переведённым в район (из центра)</text></cit></cit>

@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">asyndetisk</orth>
-<u>аdj</u>
-<u>грам.</u> асиндетический
+<gramGrp><pos>аdj</pos></gramGrp>
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>асиндетический</text></cit>
 </sense>
 </entry>
 </superEntry>

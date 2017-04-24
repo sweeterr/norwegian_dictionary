@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">spøkefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-шутливый, шуточный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутливый, шуточный</text></cit>
 </sense>
 <sense>
-любящий шутку, обладающий чувством юмора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любящий шутку, обладающий чувством юмора</text></cit>
 </sense>
 </entry>
 </superEntry>

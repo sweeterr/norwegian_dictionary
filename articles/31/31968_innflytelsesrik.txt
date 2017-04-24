@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">innflytelsesrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-влиятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>влиятельный</text></cit>
 </sense>
 </entry>
 </superEntry>

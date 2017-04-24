@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">henfaren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-умерший, покойный, усопший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умерший, покойный, усопший</text></cit>
 </sense>
 <sense>
-минувший, прошедший (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>минувший, прошедший (о времени)</text></cit>
 </sense>
 </entry>
 </superEntry>

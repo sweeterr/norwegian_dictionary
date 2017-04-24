@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ture</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-затычка (бочки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затычка (бочки)</text></cit>
 </sense>
 <sense>
-носик (чайника)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носик (чайника)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">ture</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ходить в туристские походы; совершать пешие прогулки, бродить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходить в туристские походы; совершать пешие прогулки, бродить</text></cit>
 </sense>
 <sense>
-справлять (праздник, свадьбу), веселиться, гулять (на свадьбе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>справлять (праздник, свадьбу), веселиться, гулять (на свадьбе)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,13 +33,13 @@
 <form>
 <orth type="lemma">ture</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шуметь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь</text></cit>
 </sense>
 <sense>
-бурлить, клокотать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурлить, клокотать</text></cit>
 </sense>
 </entry>
 </superEntry>

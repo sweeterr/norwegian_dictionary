@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vanvett</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-безумие, безумство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безумие, безумство</text></cit>
 </sense>
 <sense>
-буян
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буян</text></cit>
 </sense>
 </entry>
 </superEntry>

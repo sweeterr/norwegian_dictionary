@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tibetansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-тибетский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тибетский</text></cit>
 </sense>
 </entry>
 </superEntry>

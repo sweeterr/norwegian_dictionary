@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">blåtrøye</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-матрос (военно-морского флота)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>матрос (военно-морского флота)</text></cit>
 </sense>
 <sense>
-полицейский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полицейский</text></cit>
 </sense>
 </entry>
 </superEntry>

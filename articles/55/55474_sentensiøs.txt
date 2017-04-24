@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sentensiøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-нравоучительный, сентенциозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нравоучительный, сентенциозный</text></cit>
 </sense>
 </entry>
 </superEntry>

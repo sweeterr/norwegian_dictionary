@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">karderi</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>редко</u> чесальный цех
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чесальный цех</text></cit>
 </sense>
 </entry>
 </superEntry>

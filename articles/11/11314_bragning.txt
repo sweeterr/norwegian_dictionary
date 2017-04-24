@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">bragning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>, <u>поэт.</u> король, князь (в древней Скандинавии)
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>король, князь (в древней Скандинавии)</text></cit>
 </sense>
 </entry>
 </superEntry>

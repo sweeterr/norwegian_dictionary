@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> круг
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг</text></cit>
 <сit type="example"><text>i kring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг, кругом</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +17,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-удобный, легко управляемый, послушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удобный, легко управляемый, послушный</text></cit>
 </sense>
 <sense>
-быстрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый</text></cit>
 <сit type="example"><text>kring i mælet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>острый на язык</text></cit></cit>
 </sense>
 </entry>
@@ -28,7 +29,8 @@
 <form>
 <orth type="lemma">kring</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> кругом, вокруг
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кругом, вокруг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,7 +38,7 @@
 <form>
 <orth type="lemma">kring</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-вокруг, кругом (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг, кругом (чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tidsskriftssal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-журнальный читальный зал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журнальный читальный зал</text></cit>
 </sense>
 </entry>
 </superEntry>

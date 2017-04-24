@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forberedelser</orth>
 <gramGrp><num>pl</num></gramGrp>
-приготовления (к - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приготовления (к - til)</text></cit>
 <сit type="example"><text>gjøre forberedelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать приготовления, готовиться</text></cit></cit>
 <сit type="example"><text>tale uten forberedelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить без подготовки (экспромтом)</text></cit></cit>
 </sense>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smalspor</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ж.-д.</u> узкая колея
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкая колея</text></cit>
 </sense>
 </entry>
 </superEntry>

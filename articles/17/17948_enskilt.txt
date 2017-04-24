@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">enskilt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-частный, отдельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частный, отдельный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">enskilt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-частным образом, приватно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частным образом, приватно</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">urådighetserklæring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> ограничение права пользования (каким-л.) имуществом
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограничение права пользования (каким-л.) имуществом</text></cit>
 </sense>
 </entry>
 </superEntry>

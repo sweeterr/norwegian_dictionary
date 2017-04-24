@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">temagruppe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>комп.</u> (сетевая теле)конференция (сетевая служба, рассылающая информацию по определенной теме)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(сетевая теле)конференция (сетевая служба, рассылающая информацию по определенной теме)</text></cit>
 </sense>
 </entry>
 </superEntry>

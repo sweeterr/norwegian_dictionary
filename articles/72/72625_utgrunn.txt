@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utgrunn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отлогий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отлогий</text></cit>
 </sense>
 <sense>
-изобилующий банками (мелями), мелкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобилующий банками (мелями), мелкий</text></cit>
 </sense>
 </entry>
 </superEntry>

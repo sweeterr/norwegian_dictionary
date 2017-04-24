@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakteriolog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-бактериолог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бактериолог</text></cit>
 </sense>
 </entry>
 </superEntry>

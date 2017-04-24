@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utsendingsstasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>радио</u> передающая радиостанция, передающий радиоцентр
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передающая радиостанция, передающий радиоцентр</text></cit>
 </sense>
 </entry>
 </superEntry>

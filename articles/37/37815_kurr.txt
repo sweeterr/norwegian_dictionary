@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kurr</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-воркование (голубей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воркование (голубей)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,9 @@
 <form>
 <orth type="lemma">kurr</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> тихий, спокойный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихий, спокойный</text></cit>
 </sense>
 </entry>
 </superEntry>

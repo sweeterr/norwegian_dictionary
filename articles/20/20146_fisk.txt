@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-рыба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыба</text></cit>
 <сit type="example"><text>fersk fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежая рыба</text></cit></cit>
 <сit type="example"><text>ferskvannet fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пресноводная рыба</text></cit></cit>
 <сit type="example"><text>frisk som en fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свеж как огурчик</text></cit></cit>
@@ -19,11 +19,12 @@
 <сit type="example"><text>gjøre til fisken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистить (обрабатывать) рыбу</text></cit></cit>
 </sense>
 <sense>
-тип, субъект
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тип, субъект</text></cit>
 <сit type="example"><text>en vemmelig fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвратительный тип</text></cit></cit>
 </sense>
 <sense>
-<u>полигр.</u> буква чужого шрифта
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буква чужого шрифта</text></cit>
 <сit type="example"><text>falle i fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассыпаться, <lbl>перен.</lbl> не удаться, провалиться</text></cit></cit>
 </sense>
 <sense>
@@ -38,7 +39,7 @@
 <form>
 <orth type="lemma">fisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-жетон, фишка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жетон, фишка</text></cit>
 </sense>
 </entry>
 </superEntry>

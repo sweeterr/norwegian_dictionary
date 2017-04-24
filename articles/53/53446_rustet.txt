@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rustet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-ржавый, заржавевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржавый, заржавевший</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">rustet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-снаряжённый (снабжённый) всем необходимым (для чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаряжённый (снабжённый) всем необходимым (для чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

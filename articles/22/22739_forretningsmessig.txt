@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forretningsmessig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-торговый, деловой (об отношениях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговый, деловой (об отношениях)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">forretningsmessig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- с деловой точки зрения, по-деловому
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с деловой точки зрения, по-деловому</text></cit>
 </sense>
 </entry>
 </superEntry>

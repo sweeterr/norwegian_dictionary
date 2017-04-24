@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vange</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-щека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щека</text></cit>
 </sense>
 <sense>
-сторона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторона</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-боковая стенка (планка, стойка), «щека»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковая стенка (планка, стойка), «щека»</text></cit>
 </sense>
 <sense>
-продольная стальная балка (конструкции)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продольная стальная балка (конструкции)</text></cit>
 </sense>
 </entry>
 </superEntry>

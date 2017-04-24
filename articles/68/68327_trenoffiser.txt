@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trenoffiser</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> офицер службы тылового транспорта
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>офицер службы тылового транспорта</text></cit>
 </sense>
 </entry>
 </superEntry>

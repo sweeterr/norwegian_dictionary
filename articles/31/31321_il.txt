@@ -5,16 +5,18 @@
 <form>
 <orth type="lemma">il</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-<u>разг.</u> срочный разговор (по телефону)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срочный разговор (по телефону)</text></cit>
 </sense>
 <sense>
-спешка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спешка</text></cit>
 </sense>
 <sense>
-<u>уст.</u> поспешность
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поспешность</text></cit>
 </sense>
 </entry>
 </superEntry>

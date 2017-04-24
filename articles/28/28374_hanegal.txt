@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hanegal</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-пение петуха (на рассвете), первый крик петуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пение петуха (на рассвете), первый крик петуха</text></cit>
 <сit type="example"><text>til hanegal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до зари, до рассвета</text></cit></cit>
 <сit type="example"><text>ved hanegal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на заре, на рассвете</text></cit></cit>
 </sense>

@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-сточная канава
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сточная канава</text></cit>
 </sense>
 <sense>
-яма, ров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яма, ров</text></cit>
 </sense>
 <sense>
-дамба, насыпь (от наводнения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дамба, насыпь (от наводнения)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">dike</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-копать (рыть) канавы, дренировать (почву)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копать (рыть) канавы, дренировать (почву)</text></cit>
 тж. dike opp
 </sense>
 </entry>

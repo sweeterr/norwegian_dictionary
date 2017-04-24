@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veslejul</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-канун сочельника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>канун сочельника</text></cit>
 </sense>
 <sense>
-первые дни февраля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первые дни февраля</text></cit>
 </sense>
 </entry>
 </superEntry>

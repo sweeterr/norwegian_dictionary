@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forstue</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-передняя, прихожая, вестибюль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передняя, прихожая, вестибюль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">forstue</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вывихнуть (сустав), растянуть (связки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывихнуть (сустав), растянуть (связки)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">banemekanikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>астр.</u> орбитальная механика, механика орбитальных полётов
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орбитальная механика, механика орбитальных полётов</text></cit>
 </sense>
 </entry>
 </superEntry>

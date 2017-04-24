@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">briljant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-брильянт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брильянт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-блестящий, сверкающий, горящий (всеми цветами радуги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестящий, сверкающий, горящий (всеми цветами радуги)</text></cit>
 </sense>
 <sense>
-великолепный, превосходный, отличный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>великолепный, превосходный, отличный</text></cit>
 </sense>
 </entry>
 </superEntry>

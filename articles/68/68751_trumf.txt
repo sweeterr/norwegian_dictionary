@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trumf</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>карт.</u> козырь <u>тж. перен.</u>
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козырь <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>spille trumf</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить козырем</text></cit></cit>
 <сit type="example"><text>stikke med trumf</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать козырем</text></cit></cit>
 <сit type = "example"><text>ta én med trumf :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>припереть кого-л. к стенке</text></cit></cit>
@@ -17,7 +18,7 @@
 <form>
 <orth type="lemma">trumf</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> 
+<usg>диал.</usg>
 <ref>trump 1)</ref>
 </sense>
 </entry>

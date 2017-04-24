@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sennepsgass</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> иприт, горчичный газ
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иприт, горчичный газ</text></cit>
 </sense>
 </entry>
 </superEntry>

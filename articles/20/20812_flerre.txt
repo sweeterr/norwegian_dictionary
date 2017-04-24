@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flerre</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> дыра (на платье)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыра (на платье)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">flerre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> рвать, драть, разрывать, раздирать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рвать, драть, разрывать, раздирать</text></cit>
 </sense>
 </entry>
 </superEntry>

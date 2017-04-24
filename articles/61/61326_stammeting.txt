@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stammeting</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ист.</u> вече
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вече</text></cit>
 </sense>
 </entry>
 </superEntry>

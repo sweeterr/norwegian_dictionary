@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">sjofel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-оборванный, истёртый, истрёпанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборванный, истёртый, истрёпанный</text></cit>
 </sense>
 <sense>
-неряшливый, неаккуратно одетый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряшливый, неаккуратно одетый</text></cit>
 </sense>
 <sense>
-низкий, низменный, подлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкий, низменный, подлый</text></cit>
 </sense>
 </entry>
 </superEntry>

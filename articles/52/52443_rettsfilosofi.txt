@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rettsfilosofi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-философия права
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>философия права</text></cit>
 </sense>
 </entry>
 </superEntry>

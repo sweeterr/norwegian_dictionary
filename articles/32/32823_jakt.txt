@@ -7,15 +7,15 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-охота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охота</text></cit>
 <сit type="example"><text>drive jakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься охотой</text></cit></cit>
 <сit type="example"><text>gå på jakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить на охоту</text></cit></cit>
 </sense>
 <sense>
-см. jakttid
+<ref>jakttid</ref>
 </sense>
 <sense>
-погоня, поиски
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погоня, поиски</text></cit>
 <сit type="example"><text>på jakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в поисках (чего-л. - etter noe)</text></cit></cit>
 <сit type="example"><text>gjøre jakt på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разыскивать (кого-л.)</text></cit></cit>
 </sense>
@@ -25,7 +25,8 @@
 <form>
 <orth type="lemma">jakt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> яхта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яхта</text></cit>
 </sense>
 </entry>
 </superEntry>

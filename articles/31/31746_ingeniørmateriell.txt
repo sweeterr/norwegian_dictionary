@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ingeniørmateriell</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> материальная часть инженерных войск; инженерное имущество
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материальная часть инженерных войск; инженерное имущество</text></cit>
 </sense>
 </entry>
 </superEntry>

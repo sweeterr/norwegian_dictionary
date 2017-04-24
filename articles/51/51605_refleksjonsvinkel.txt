@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">refleksjonsvinkel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> угол отражения
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол отражения</text></cit>
 </sense>
 </entry>
 </superEntry>

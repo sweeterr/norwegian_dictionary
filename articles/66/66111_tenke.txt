@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-думать, мыслить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>думать, мыслить</text></cit>
 <сit type="example"><text>det tenker jeg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я думаю, что так</text></cit></cit>
 <сit type="example"><text>hva tenker du på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>о чём ты думаешь</text></cit></cit>
 <сit type="example"><text>som tenkt, så gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сказано - сделано</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>tenke med seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>думать про себя</text></cit></cit>
 </sense>
 <sense>
-размышлять (о чём-л. - om), раздумывать, обдумывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размышлять (о чём-л. - om), раздумывать, обдумывать</text></cit>
 </sense>
 <sense>
-предполагать, намереваться, строить планы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предполагать, намереваться, строить планы</text></cit>
 <сit type="example"><text>tenk at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>представь себе, что ...</text></cit></cit>
 <сit type="example"><text>det kan ikke tenkes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этого нельзя себе никак представить, этого нельзя предположить</text></cit></cit>
 </sense>

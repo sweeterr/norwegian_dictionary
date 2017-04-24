@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dommedag</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>рел.</u> день страшного суда, судный день
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>день страшного суда, судный день</text></cit>
 <сit type="example"><text>til dommedag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до второго пришествия, до бесконечности</text></cit></cit>
 <сit type="example"><text>en dommedags larm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий бедлам, ужасный шум и гам</text></cit></cit>
 <сit type="example"><text>med dommedag i ansiktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с лицом человека, идущего на страшный суд</text></cit></cit>

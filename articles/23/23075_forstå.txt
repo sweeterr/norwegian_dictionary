@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-sto, -stått</orth></inflection>
 </form>
 <sense>
-понимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понимать</text></cit>
 <сit type="example"><text>jeg forstår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимаю</text></cit></cit>
 <сit type="example"><text>det forstår seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ясно само по себе</text></cit></cit>
 <сit type="example"><text>det forstår seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>само собой разумеется</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>forstå seg på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбираться в чём-л., понимать в чём-л.</text></cit></cit>
 </sense>
 <sense>
-уметь делать что-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уметь делать что-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

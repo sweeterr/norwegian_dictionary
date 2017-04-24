@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">almanakk</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-календарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>календарь</text></cit>
 </sense>
 </entry>
 </superEntry>

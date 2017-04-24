@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">knipen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-узкий, тесный (об обуви, одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, тесный (об обуви, одежде)</text></cit>
 </sense>
 <sense>
-стеснённый (об обстоятельствах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стеснённый (об обстоятельствах)</text></cit>
 </sense>
 <sense>
-скупой, скаредный, прижимистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скупой, скаредный, прижимистый</text></cit>
 </sense>
 </entry>
 </superEntry>

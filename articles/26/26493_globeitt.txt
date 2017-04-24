@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">globeitt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-понятливый, смышлёный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понятливый, смышлёный</text></cit>
 </sense>
 <sense>
-хватающий, клюющий (о рыбе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватающий, клюющий (о рыбе)</text></cit>
 </sense>
 </entry>
 </superEntry>

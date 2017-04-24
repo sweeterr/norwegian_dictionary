@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ettertale</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> клевета, наговор
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клевета, наговор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">yttermere</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-дальнейший, последующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальнейший, последующий</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">yttermere</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-дополнительно, к тому же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительно, к тому же</text></cit>
 </sense>
 </entry>
 </superEntry>

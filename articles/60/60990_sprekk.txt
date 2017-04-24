@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-трещина, щель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина, щель</text></cit>
 <сit type="example"><text>slå sprekker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать трещины, треснуть</text></cit></cit>
 </sense>
 <sense>
-расщелина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расщелина</text></cit>
 </sense>
 <sense>
-просвет (в облаках), разводье (во льдах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просвет (в облаках), разводье (во льдах)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> раскол, разногласие
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскол, разногласие</text></cit>
 </sense>
 </entry>
 </superEntry>

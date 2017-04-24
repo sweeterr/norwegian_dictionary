@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-овощи, зелень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овощи, зелень</text></cit>
 </sense>
 <sense>
-зелёная плесень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зелёная плесень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">grønske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-зеленеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зеленеть</text></cit>
 </sense>
 </entry>
 </superEntry>

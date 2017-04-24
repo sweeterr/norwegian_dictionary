@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hvitting</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-покраска, побелка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покраска, побелка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">hvitting</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> мерлан (рыба)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерлан (рыба)</text></cit>
 </sense>
 </entry>
 </superEntry>

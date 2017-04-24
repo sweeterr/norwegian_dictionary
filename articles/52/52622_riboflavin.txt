@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">riboflavin</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u> рибофлавин (витамин В2)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рибофлавин (витамин В2)</text></cit>
 </sense>
 </entry>
 </superEntry>

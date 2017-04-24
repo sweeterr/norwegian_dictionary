@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">råle</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> кричать, реветь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, реветь</text></cit>
 </sense>
 </entry>
 </superEntry>

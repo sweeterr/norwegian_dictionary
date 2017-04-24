@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sudje-mudje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-мешанина, беспорядочная смесь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешанина, беспорядочная смесь</text></cit>
 </sense>
 <sense>
-раствор для мытья палуб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раствор для мытья палуб</text></cit>
 </sense>
 </entry>
 </superEntry>

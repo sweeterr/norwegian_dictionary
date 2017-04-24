@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rortalje</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> руль-тали
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руль-тали</text></cit>
 </sense>
 </entry>
 </superEntry>

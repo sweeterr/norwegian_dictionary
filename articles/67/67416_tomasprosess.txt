@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tomasprosess</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> томасовский процесс, томасирование чугуна
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>томасовский процесс, томасирование чугуна</text></cit>
 </sense>
 </entry>
 </superEntry>

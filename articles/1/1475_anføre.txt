@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-возглавлять, руководить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возглавлять, руководить</text></cit>
 </sense>
 <sense>
-предводительствовать, командовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предводительствовать, командовать</text></cit>
 </sense>
 <sense>
-приводить, цитировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить, цитировать</text></cit>
 <сit type="example"><text>anføre til sitt forsvar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить (какие-л. факты) в своё оправдание</text></cit></cit>
 <сit type="example"><text>anføre til sin unnskyldning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в качестве своего извинения</text></cit></cit>
 </sense>
 <sense>
-<u>бухг.</u> записывать (в чей-л. дебет, кредит — til), заносить в книги, регистрировать
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записывать (в чей-л. дебет, кредит — til), заносить в книги, регистрировать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-размещать (хранить) на складе, складировать (товары)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размещать (хранить) на складе, складировать (товары)</text></cit>
 </sense>
 <sense>
-иметься (размещаться) на складе (о товарах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметься (размещаться) на складе (о товарах)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> сохранить (файл, данные)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сохранить (файл, данные)</text></cit>
 </sense>
 </entry>
 </superEntry>

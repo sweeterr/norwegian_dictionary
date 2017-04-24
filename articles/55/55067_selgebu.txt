@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">selgebu</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> ларек, торговая палатка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ларек, торговая палатка</text></cit>
 </sense>
 </entry>
 </superEntry>

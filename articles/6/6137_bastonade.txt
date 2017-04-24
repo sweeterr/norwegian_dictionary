@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bastonade</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-палочные удары
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палочные удары</text></cit>
 </sense>
 <sense>
-битьё по пяткам (вид наказания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>битьё по пяткам (вид наказания)</text></cit>
 </sense>
 </entry>
 </superEntry>

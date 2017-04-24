@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rhodium</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> родий
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родий</text></cit>
 </sense>
 </entry>
 </superEntry>

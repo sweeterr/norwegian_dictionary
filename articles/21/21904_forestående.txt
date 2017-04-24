@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forestående</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-предстоящий, грядущий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предстоящий, грядущий</text></cit>
 <сit type="example"><text>med vintertiden forestående</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с приближением зимы, в ожидании зимы</text></cit></cit>
 </sense>
 </entry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-кровоостанавливающее средство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровоостанавливающее средство</text></cit>
 </sense>
 <sense>
-остановка кровотечения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остановка кровотечения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">blodstemme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-останавливать кровотечение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>останавливать кровотечение</text></cit>
 </sense>
 </entry>
 </superEntry>

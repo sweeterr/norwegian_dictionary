@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">smellkald</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-очень холодный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень холодный</text></cit>
 </sense>
 </entry>
 </superEntry>

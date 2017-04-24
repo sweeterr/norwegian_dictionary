@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">læte</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-крик, вой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, вой</text></cit>
 </sense>
 <sense>
-манеры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манеры</text></cit>
 </sense>
 <sense>
-житьё-бытьё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>житьё-бытьё</text></cit>
 </sense>
 </entry>
 </superEntry>

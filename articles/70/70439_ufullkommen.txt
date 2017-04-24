@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ufullkommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-несовершенный, неполноценный, неполный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несовершенный, неполноценный, неполный</text></cit>
 </sense>
 <sense>
-небезупречный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небезупречный</text></cit>
 </sense>
 </entry>
 </superEntry>

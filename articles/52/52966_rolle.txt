@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">rolle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>театр.</u> роль <u>тж. перен.</u>
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роль <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>falle ut av rollen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти из роли, сбиться с тона</text></cit></cit>
 <сit type="example"><text>gi roller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распределять роли</text></cit></cit>
 <сit type="example"><text>ha utspilt sin rolle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть свою роль, утратить своё значение</text></cit></cit>
 <сit type="example"><text>kreere en rolle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создать образ</text></cit></cit>
 <сit type="example"><text>opptre i en rolle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать в роли, исполнять роль</text></cit></cit>
 <сit type = "example"><text>spille en rolle :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> играть (исполнять) роль</text></cit></cit>
-<сit type = "example"><text>spille en rolle :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> играть роль (в каком-л. вопросе, деле, мероприятии)</text></cit></cit>
+<сit type = "example"><text>spille en rolle :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> играть роль (в каком-л. вопросе, деле, мероприятии)</text></cit></cit>
 <сit type="example"><text>det spiller ingen rolle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не имеет никакого значения, это не играет никакой роли</text></cit></cit>
 </sense>
 </entry>

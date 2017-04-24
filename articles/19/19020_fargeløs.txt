@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">fargeløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бесцветный, серый, обычный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцветный, серый, обычный</text></cit>
 </sense>
 </entry>
 </superEntry>

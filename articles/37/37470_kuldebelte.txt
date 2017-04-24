@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kuldebelte</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>метеор.</u> холодный пояс, зона холода
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный пояс, зона холода</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">passord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-пароль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пароль</text></cit>
 </sense>
 </entry>
 </superEntry>

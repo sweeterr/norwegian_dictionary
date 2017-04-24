@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-нечестность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечестность</text></cit>
 </sense>
 <sense>
-<u>уст.</u> бесчестие
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесчестие</text></cit>
 </sense>
 </entry>
 </superEntry>

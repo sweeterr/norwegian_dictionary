@@ -5,18 +5,18 @@
 <form>
 <orth type="lemma">bram</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-хвастовство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвастовство</text></cit>
 </sense>
 <sense>
-блеск, показная пышность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блеск, показная пышность</text></cit>
 <сit type="example"><text>med stort bram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с помпой</text></cit></cit>
 <сit type="example"><text>uten bram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без блеска, без помпы</text></cit></cit>
 </sense>
 <sense>
-великолепие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>великолепие</text></cit>
 </sense>
 </entry>
 </superEntry>

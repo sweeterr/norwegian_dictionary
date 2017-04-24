@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">naiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-наивный, доверчивый, простодушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наивный, доверчивый, простодушный</text></cit>
 </sense>
 <sense>
-непосредственный, безыскусный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непосредственный, безыскусный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tabbe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>разг.</u> промах, оплошность, грубая ошибка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промах, оплошность, грубая ошибка</text></cit>
 <сit type="example"><text>få tabbe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить промах (оплошность)</text></cit></cit>
 <сit type="example"><text>gjøre tabben god igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправить промах (оплошность)</text></cit></cit>
 </sense>
@@ -15,7 +16,8 @@
 <form>
 <orth type="lemma">tabbe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> совершить промах (оплошность)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершить промах (оплошность)</text></cit>
 <сit type="example"><text>tabbe seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить крупный промах, совершить грубую ошибку</text></cit></cit>
 </sense>
 </entry>

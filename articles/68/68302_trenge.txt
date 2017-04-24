@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-напирать, нажимать, давить, теснить, стискивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напирать, нажимать, давить, теснить, стискивать</text></cit>
 <сit type="example"><text>være trengt for (<lbl>диал.</lbl> om)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться, испытывать нужду в чём-л.</text></cit></cit>
 <сit type="example"><text>være hardt trengt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бедствовать, испытывать невзгоды; страдать</text></cit></cit>
 </sense>
 <sense>
-врываться, проникать (о звуке, свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врываться, проникать (о звуке, свете)</text></cit>
 <сit type="example"><text>trenge fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продвигаться</text></cit></cit>
 <сit type="example"><text>trenge igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проникать; просачиваться</text></cit></cit>
 <сit type = "example"><text>trenge inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вникать, углубляться (во что-л.)</text></cit></cit>
@@ -35,11 +35,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-нуждаться, иметь нужду (в чём-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться, иметь нужду (в чём-л. - til)</text></cit>
 <сit type="example"><text>jeg trenger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне нужно</text></cit></cit>
 </sense>
 <sense>
-требоваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>требоваться</text></cit>
 </sense>
 </entry>
 </superEntry>

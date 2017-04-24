@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">krigskirurgi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-военная хирургия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>военная хирургия</text></cit>
 </sense>
 </entry>
 </superEntry>

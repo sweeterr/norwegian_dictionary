@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sukkersøt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сладкий как сахар, приторный <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сладкий как сахар, приторный <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-слащавый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слащавый</text></cit>
 </sense>
 </entry>
 </superEntry>

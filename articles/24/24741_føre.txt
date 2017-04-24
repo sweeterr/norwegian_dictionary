@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">føre</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-состояние дороги, проходимость пути
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состояние дороги, проходимость пути</text></cit>
 <сit type="example"><text>lett (tungt) føre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (тяжёлый) путь (о состоянии дороги)</text></cit></cit>
 </sense>
 </entry>
@@ -16,33 +16,34 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-вести (в разн.знач.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести (в разн.знач.)</text></cit>
 <сit type="example"><text>føre noe tilbake til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сводить что-л. к чему-л.</text></cit></cit>
 </sense>
 <sense>
-везти, перевозить, транспортировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везти, перевозить, транспортировать</text></cit>
 </sense>
 <sense>
-командовать, руководить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командовать, руководить</text></cit>
 <сit type="example"><text>føres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться под командованием (под руководством)</text></cit></cit>
 </sense>
 <sense>
-вести (корабль, машину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести (корабль, машину)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> иметь (оснащение), нести (паруса)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметь (оснащение), нести (паруса)</text></cit>
 </sense>
 <sense>
-приводить (к чему-л.), повлечь, навлекать (несчастье, гибель)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить (к чему-л.), повлечь, навлекать (несчастье, гибель)</text></cit>
 <сit type="example"><text>det vil føre for langt (vidt)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это заведёт слишком далеко</text></cit></cit>
 <сit type="example"><text>føre med seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повлечь за собой</text></cit></cit>
 <сit type="example"><text>føre til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести к чему-л.</text></cit></cit>
 </sense>
 <sense>
-держать, продавать (товар в магазине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держать, продавать (товар в магазине)</text></cit>
 </sense>
 <sense>
-вести (дневник, журнал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести (дневник, журнал)</text></cit>
 <сit type = "example"><text>føre fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> проводить, прокладывать (дорогу)</text></cit></cit>
 <сit type = "example"><text>føre fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вести к цели</text></cit></cit>
 <сit type="example"><text>føre igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доводить до конца, проводить (мероприятие)</text></cit></cit>
@@ -60,7 +61,8 @@
 <form>
 <orth type="lemma">føre</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> прежде, раньше
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прежде, раньше</text></cit>
 </sense>
 </entry>
 <entry>
@@ -68,7 +70,8 @@
 <form>
 <orth type="lemma">føre</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-<u>диал.</u> до, прежде (чего-л.)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>до, прежде (чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

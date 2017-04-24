@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">presens</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>грам.</u> настоящее время
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящее время</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">delj</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-сильный удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный удар</text></cit>
 </sense>
 <sense>
-ражий (дюжий) детина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ражий (дюжий) детина</text></cit>
 </sense>
 </entry>
 </superEntry>

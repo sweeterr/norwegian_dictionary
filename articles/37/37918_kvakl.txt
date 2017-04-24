@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kvakl</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-беспорядок, замешательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, замешательство</text></cit>
 </sense>
 <sense>
-возня, канитель, хлопоты, старания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возня, канитель, хлопоты, старания</text></cit>
 </sense>
 </entry>
 </superEntry>

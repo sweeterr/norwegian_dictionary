@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-речь, выступление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>речь, выступление</text></cit>
 <сit type="example"><text>en beåndet (fengende) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдохновенная (зажигательная) речь</text></cit></cit>
 <сit type="example"><text>direkte (indirekte) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>грам.</lbl> прямая (косвенная) речь</text></cit></cit>
 <сit type="example"><text>i skrift og (i) tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменно и устно</text></cit></cit>
@@ -16,7 +16,7 @@
 <сit type="example"><text>tale er sølv, men taushet er gull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> слово - серебро, молчание - золото</text></cit></cit>
 </sense>
 <sense>
-разговор, беседа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разговор, беседа</text></cit>
 <сit type="example"><text>bringe på tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затронуть в разговоре</text></cit></cit>
 <сit type = "example"><text>få én i tale:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь возможность поговорить с кем-л.</text></cit></cit>
 <сit type = "example"><text>få én i tale:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить заговорить</text></cit></cit>
@@ -27,7 +27,7 @@
 <сit type="example"><text>det er tale om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>речь идёт о (ком, чём-л.)</text></cit></cit>
 </sense>
 <sense>
-язык, диалект
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык, диалект</text></cit>
 <сit type="example"><text>norsk tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский язык, норвежская речь</text></cit></cit>
 </sense>
 </entry>
@@ -38,7 +38,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-говорить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить</text></cit>
 <сit type="example"><text>alvorlig (oppriktig, ærlig) talt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>серьёзно (откровенно, честно) говоря</text></cit></cit>
 <сit type="example"><text>tale flytende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить бегло (гладко)</text></cit></cit>
 <сit type="example"><text>tale fritt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить свободно, без запинки</text></cit></cit>
@@ -50,13 +50,13 @@
 <сit type="example"><text>tale for én (for ens sak)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить в пользу кого-л., замолвить словечко за кого-л.</text></cit></cit>
 </sense>
 <sense>
-разговаривать, беседовать (с кем-л. - med)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разговаривать, беседовать (с кем-л. - med)</text></cit>
 <сit type="example"><text>De taler med N.</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с вами говорит Н. (по телефону)</text></cit></cit>
 <сit type="example"><text>jeg må tale noen ord med deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне нужно с тобой поговорить</text></cit></cit>
 <сit type="example"><text>tale med seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговаривать с самим собой</text></cit></cit>
 </sense>
 <sense>
-выступать с речью, произносить речь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступать с речью, произносить речь</text></cit>
 <сit type = "example"><text>tale godt for seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть хорошим оратором, обладать красноречием</text></cit></cit>
 <сit type = "example"><text>tale godt for seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> говорить само за себя (о чём-л.)</text></cit></cit>
 <сit type="example"><text>tale mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать против кого-л.</text></cit></cit>
@@ -64,7 +64,8 @@
 <сit type="example"><text>tale ved graven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>произносить надгробную речь</text></cit></cit>
 </sense>
 <sense>
-<u>церк.</u> проповедовать, говорить проповедь
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проповедовать, говорить проповедь</text></cit>
 <сit type="example"><text>tale bort i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить впустую (на ветер)</text></cit></cit>
 <сit type="example"><text>tale fram og tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тщательно обсуждать</text></cit></cit>
 <сit type="example"><text>tale noe over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обсуждать что-л.</text></cit></cit>

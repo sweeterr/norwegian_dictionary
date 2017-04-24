@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">ørk</orth>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-см. ørken
+<ref>ørken</ref>
 </sense>
 <sense>
-тишина, пустота, безжизненность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тишина, пустота, безжизненность</text></cit>
 </sense>
 </entry>
 </superEntry>

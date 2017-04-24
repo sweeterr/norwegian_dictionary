@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hoppbakke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> лыжный трамплин
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжный трамплин</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">ville</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-замешательство, смущение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замешательство, смущение</text></cit>
 </sense>
 <sense>
-заблуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заблуждение</text></cit>
 </sense>
 <sense>
-дикость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дикость</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,14 +24,14 @@
 <inflection><orth>pres vil, pret ville, p.p. villet</orth></inflection>
 </form>
 <sense>
-хотеть, желать, собираться, намереваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хотеть, желать, собираться, намереваться</text></cit>
 <сit type="example"><text>hva vil du med det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для чего тебе это?</text></cit></cit>
 <сit type="example"><text>hvor vil han hen?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куда он собирается идти (ехать, направиться)?</text></cit></cit>
 <сit type="example"><text>som du vil!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как хочешь!</text></cit></cit>
 <сit type="example"><text>ville én vel (ille)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>желать добра (зла) кому-л.</text></cit></cit>
 </sense>
 <sense>
-в качестве вспомогательного глагола используется для образования будущего времени:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве вспомогательного глагола используется для образования будущего времени:</text></cit>
 <сit type="example"><text>vil du være med?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты поедешь (пойдёшь) с нами?</text></cit></cit>
 <сit type="example"><text>vil De ikke komme?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разве вы не придёте (не приедете)?</text></cit></cit>
 </sense>
@@ -50,10 +50,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сбить с пути, завести куда-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбить с пути, завести куда-л.</text></cit>
 </sense>
 <sense>
-скитаться, бродить, не иметь пристанища
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скитаться, бродить, не иметь пристанища</text></cit>
 <сit type="example"><text>ville seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться, сбиться с пути</text></cit></cit>
 </sense>
 </entry><entry>

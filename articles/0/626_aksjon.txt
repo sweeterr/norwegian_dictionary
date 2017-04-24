@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-акция, действие, выступление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>акция, действие, выступление</text></cit>
 <сit type="example"><text>gå til aksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступить, перейти к действию</text></cit></cit>
 <сit type="example"><text>reise en aksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начать кампанию за что-л.</text></cit></cit>
 </sense>
 <sense>
-кампания, военные действия, столкновение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кампания, военные действия, столкновение</text></cit>
 </sense>
 <sense>
-<u>юр.</u> судебный процесс, иск
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судебный процесс, иск</text></cit>
 </sense>
 </entry>
 </superEntry>

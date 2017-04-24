@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-причал для лодок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причал для лодок</text></cit>
 </sense>
 <sense>
-опора <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опора <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-<u>диал.</u> низкий берег реки
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкий берег реки</text></cit>
 </sense>
 <sense>
-<u>диал.</u> загон для доения коров
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загон для доения коров</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +26,8 @@
 <form>
 <orth type="lemma">stø</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> место, пригодное для рыбной ловли; мелкое место
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место, пригодное для рыбной ловли; мелкое место</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,21 +43,21 @@
 <form>
 <orth type="lemma">stø</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-постоянный, устойчивый, стабильный, непоколебимый, неизменный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянный, устойчивый, стабильный, непоколебимый, неизменный</text></cit>
 <сit type="example"><text>være stø på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть уверенным в чём-л.</text></cit></cit>
 </sense>
 <sense>
-твёрдый, непреклонный, надёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый, непреклонный, надёжный</text></cit>
 </sense>
 <sense>
-равномерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равномерный</text></cit>
 </sense>
 <sense>
-<u>мор.</u> остойчивый
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остойчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

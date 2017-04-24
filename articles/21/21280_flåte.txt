@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-флот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флот</text></cit>
 <сit type="example"><text>en flåte på 40 skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>флот, состоящий из 40 кораблей</text></cit></cit>
 </sense>
 <sense>
-плот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плот</text></cit>
 </sense>
 <sense>
-косяк (перелётных птиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косяк (перелётных птиц)</text></cit>
 <сit type="example"><text>i flåte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>косяком</text></cit></cit>
 </sense>
 </entry>
@@ -25,13 +25,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-связывать в плот(ы) (о древесине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывать в плот(ы) (о древесине)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> сплавлять плотами
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплавлять плотами</text></cit>
 </sense>
 <sense>
-плыть на плоту
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть на плоту</text></cit>
 </sense>
 </entry>
 </superEntry>

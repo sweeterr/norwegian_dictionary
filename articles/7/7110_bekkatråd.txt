@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bekkatråd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> дратва
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дратва</text></cit>
 </sense>
 </entry>
 </superEntry>

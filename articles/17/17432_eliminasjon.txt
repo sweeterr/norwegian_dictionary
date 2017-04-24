@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-устранение, удаление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устранение, удаление</text></cit>
 </sense>
 <sense>
-<u>мат.</u> исключение величины из системы уравнений
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исключение величины из системы уравнений</text></cit>
 </sense>
 </entry>
 </superEntry>

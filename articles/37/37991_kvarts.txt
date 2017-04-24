@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvarts</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> кварц
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кварц</text></cit>
 </sense>
 </entry>
 </superEntry>

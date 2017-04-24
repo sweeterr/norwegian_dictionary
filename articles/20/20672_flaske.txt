@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flaske</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-бутылка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутылка</text></cit>
 <сit type="example"><text>fylle en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наполнить бутылку</text></cit></cit>
 <сit type="example"><text>sette kork i en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закупорить бутылку</text></cit></cit>
 <сit type="example"><text>trekke opp en flaske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откупорить бутылку</text></cit></cit>

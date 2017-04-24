@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksotermisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>хим.</u> экзотермический, протекающий с выделением тепла
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзотермический, протекающий с выделением тепла</text></cit>
 </sense>
 </entry>
 </superEntry>

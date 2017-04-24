@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bergensisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> бергенский, из Бергена
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бергенский, из Бергена</text></cit>
 </sense>
 </entry>
 </superEntry>

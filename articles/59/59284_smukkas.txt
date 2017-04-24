@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smukkas</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> красивый парень, красавец, <u>ирон.</u> красавчик
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый парень, красавец, <lbl>ирон.</lbl> красавчик</text></cit>
 </sense>
 </entry>
 </superEntry>

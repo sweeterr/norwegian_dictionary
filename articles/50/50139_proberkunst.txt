@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">proberkunst</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> пробирный анализ
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробирный анализ</text></cit>
 </sense>
 </entry>
 </superEntry>

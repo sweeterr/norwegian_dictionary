@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skogmaur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>зоол.</u> красный лесной муравей
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красный лесной муравей</text></cit>
 </sense>
 </entry>
 </superEntry>

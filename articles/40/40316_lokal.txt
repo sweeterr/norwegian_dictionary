@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> судно (катер) местного сообщения
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно (катер) местного сообщения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">lokal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-местный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местный</text></cit>
 </sense>
 <sense>
-<u>мед.</u> локальный
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локальный</text></cit>
 </sense>
 </entry>
 </superEntry>

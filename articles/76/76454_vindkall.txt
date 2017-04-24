@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vindkall</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-огородное пугало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огородное пугало</text></cit>
 </sense>
 <sense>
-флюгер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флюгер</text></cit>
 </sense>
 </entry>
 </superEntry>

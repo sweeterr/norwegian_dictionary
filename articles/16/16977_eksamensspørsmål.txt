@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">eksamensspørsmål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-экзаменационный вопрос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзаменационный вопрос</text></cit>
 </sense>
 </entry>
 </superEntry>

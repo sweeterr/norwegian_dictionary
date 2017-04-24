@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lapp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-саам(и), лопарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>саам(и), лопарь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,23 +15,24 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-лоскут, тряпка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоскут, тряпка</text></cit>
 <сit type="example"><text>lapper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лохмотья</text></cit></cit>
 </sense>
 <sense>
-кусок (клочок, листок) бумаги; клочок земли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусок (клочок, листок) бумаги; клочок земли</text></cit>
 </sense>
 <sense>
-<u>разг.</u> бумажка (о бумажных деньгах)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумажка (о бумажных деньгах)</text></cit>
 </sense>
 <sense>
-заплатка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплатка</text></cit>
 <сit type="example"><text>sette lapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить заплаты (на что-л. - på)</text></cit></cit>
 <сit type="example"><text>lapp i lapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заплата на заплате</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-оладьи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оладьи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,9 +40,8 @@
 <form>
 <orth type="lemma">lapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-пресный; безвкусный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресный; безвкусный</text></cit>
 </sense>
 </entry>
 </superEntry>

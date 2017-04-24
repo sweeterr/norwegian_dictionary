@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">allklok</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-очень умный, премудрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень умный, премудрый</text></cit>
 </sense>
 </entry>
 </superEntry>

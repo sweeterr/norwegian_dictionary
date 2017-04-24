@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fotballspiller</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-футболист, игрок футбольной команды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>футболист, игрок футбольной команды</text></cit>
 </sense>
 </entry>
 </superEntry>

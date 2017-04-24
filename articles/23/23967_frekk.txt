@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">frekk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бессовестный, бесстыдный, наглый, нахальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессовестный, бесстыдный, наглый, нахальный</text></cit>
 </sense>
 </entry>
 </superEntry>

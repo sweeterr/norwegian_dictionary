@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-ткач
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ткач</text></cit>
 </sense>
 <sense>
-ткач (птица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ткач (птица)</text></cit>
 </sense>
 <sense>
-секоносец (насекомое)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секоносец (насекомое)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">vever</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-живой, юркий, подвижный, быстрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой, юркий, подвижный, быстрый</text></cit>
 </sense>
 </entry>
 </superEntry>

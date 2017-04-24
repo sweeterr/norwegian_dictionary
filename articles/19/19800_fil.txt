@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fil</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-напильник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напильник</text></cit>
 <сit type="example"><text>bruke filen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отшлифовывать <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">fil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> валет (в картах)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валет (в картах)</text></cit>
 </sense>
 </entry>
 </superEntry>

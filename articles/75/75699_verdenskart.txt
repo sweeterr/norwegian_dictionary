@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">verdenskart</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-карта мира
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карта мира</text></cit>
 </sense>
 </entry>
 </superEntry>

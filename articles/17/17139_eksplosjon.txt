@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-взрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв</text></cit>
 <сit type="example"><text>eksplosjon på bakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наземный взрыв</text></cit></cit>
 <сit type="example"><text>eksplosjon under jorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подземный взрыв</text></cit></cit>
 <сit type="example"><text>eksplosjon under vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подводный взрыв</text></cit></cit>
 </sense>
 <sense>
-вспышка (гнева, злобы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспышка (гнева, злобы)</text></cit>
 </sense>
 </entry>
 </superEntry>

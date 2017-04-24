@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vinnelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-преодолимый, доступный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преодолимый, доступный</text></cit>
 </sense>
 <sense>
-удобный (в обращении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удобный (в обращении)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begynnessesspenning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эл.</u> начальное напряжение
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальное напряжение</text></cit>
 </sense>
 </entry>
 </superEntry>

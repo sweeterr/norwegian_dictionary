@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">reflektor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>физ.</u>
+<usg>физ.</usg>
 </form>
 <sense>
-рефлектор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рефлектор</text></cit>
 </sense>
 <sense>
-зеркальный отражательный телескоп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зеркальный отражательный телескоп</text></cit>
 </sense>
 </entry>
 </superEntry>

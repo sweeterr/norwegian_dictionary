@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tinnaske</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>хим.</u> окись олова
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окись олова</text></cit>
 </sense>
 </entry>
 </superEntry>

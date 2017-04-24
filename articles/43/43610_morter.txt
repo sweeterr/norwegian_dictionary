@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">morter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-ступ(к)а
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ступ(к)а</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">morter</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> мортира
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мортира</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">astragel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> астрагал
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>астрагал</text></cit>
 </sense>
 </entry>
 </superEntry>

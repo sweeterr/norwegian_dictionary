@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-хлопок, вата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопок, вата</text></cit>
 </sense>
 <sense>
-хлопчатая бумага, хлопчатобумажная ткань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопчатая бумага, хлопчатобумажная ткань</text></cit>
 <сit type="example"><text>av bomull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из хлопчатобумажной ткани</text></cit></cit>
 <сit type="example"><text>være kledd i bomull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть просто (бедно) одетым</text></cit></cit>
 </sense>

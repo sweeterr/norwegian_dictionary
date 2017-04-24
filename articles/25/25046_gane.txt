@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gane</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-нёбо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нёбо</text></cit>
 <сit type="example"><text>den bløte (hårde) gane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкое (твёрдое) нёбо</text></cit></cit>
 <сit type="example"><text>åpen gane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> волчья пасть</text></cit></cit>
 <сit type="example"><text>fukte sin gane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> промочить горло, выпить</text></cit></cit>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">gane</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-потрошить сельдь, чистить селёдку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрошить сельдь, чистить селёдку</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,8 @@
 <form>
 <orth type="lemma">gane</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> подстригать (деревья), спиливать верхушку дерева
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подстригать (деревья), спиливать верхушку дерева</text></cit>
 </sense>
 </entry>
 </superEntry>

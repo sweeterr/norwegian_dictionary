@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-версия, вариант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>версия, вариант</text></cit>
 </sense>
 <sense>
-<u>уст.</u> перевод
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевод</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-оппозиция, сопротивление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оппозиция, сопротивление</text></cit>
 <сit type="example"><text>drive opposisjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в оппозиции</text></cit></cit>
 </sense>
 <sense>
-оппозиционная партия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оппозиционная партия</text></cit>
 </sense>
 <sense>
-выступление оппонента, оппонирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступление оппонента, оппонирование</text></cit>
 </sense>
 <sense>
-<u>астр.</u> противостояние
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противостояние</text></cit>
 </sense>
 </entry>
 </superEntry>

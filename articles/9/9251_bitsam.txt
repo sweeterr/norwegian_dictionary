@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">bitsam</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-колкий, язвительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колкий, язвительный</text></cit>
 </sense>
 <sense>
-пронизывающий (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пронизывающий (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

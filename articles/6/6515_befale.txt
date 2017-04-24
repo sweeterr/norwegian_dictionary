@@ -4,19 +4,20 @@
 <index></index>
 <form>
 <orth type="lemma">befale</orth>
-<inflection><orth>befalte ( <u>уст.</u> befol), befalt</orth></inflection>
+<inflection><orth>befalte ( <lbl>уст.</lbl> befol), befalt</orth></inflection>
 </form>
 <sense>
-распоряжаться, приказывать, велеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распоряжаться, приказывать, велеть</text></cit>
 <сit type="example"><text>som De befaler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вам будет угодно, как прикажете</text></cit></cit>
 <сit type="example"><text>De kan befale over meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вы можете мной располагать, я нахожусь в вашем распоряжении</text></cit></cit>
 <сit type="example"><text>hva befaler De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что вам угодно?, что вы желаете?</text></cit></cit>
 </sense>
 <sense>
-поручать (кому-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поручать (кому-л. - til)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> приказывать, командовать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приказывать, командовать</text></cit>
 </sense>
 </entry>
 </superEntry>

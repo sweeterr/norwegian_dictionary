@@ -4,10 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">lysbille</orth>
-<inflection><orth extent="part">-n</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
-светляк
+<inflection><orth extent="part">-n, -t</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светляк</text></cit>
 </sense>
 </entry>
 </superEntry>

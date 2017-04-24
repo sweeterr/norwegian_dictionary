@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksplosiv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лингв.</u> взрывной, смычный звук
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрывной, смычный звук</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,13 @@
 <form>
 <orth type="lemma">eksplosiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-взрывчатый, легко воспламеняющийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрывчатый, легко воспламеняющийся</text></cit>
 </sense>
 <sense>
-вспыльчивый, раздражительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспыльчивый, раздражительный</text></cit>
 </sense>
 </entry>
 </superEntry>

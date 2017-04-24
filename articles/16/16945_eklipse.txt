@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>астр.</u> затмение (солнца, луны); <u>перен.</u> потускнение
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затмение (солнца, луны); <lbl>перен.</lbl> потускнение</text></cit>
 </sense>
 <sense>
-<u>мед.</u> обморок, дурнота
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обморок, дурнота</text></cit>
 </sense>
 </entry>
 </superEntry>

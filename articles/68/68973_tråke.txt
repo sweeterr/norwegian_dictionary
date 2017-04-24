@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">tråke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-проявлять недовольство, противиться чему-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проявлять недовольство, противиться чему-л.</text></cit>
 </sense>
 <sense>
-надрываться, делать непосильную работу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надрываться, делать непосильную работу</text></cit>
 </sense>
 <sense>
-не спориться (о работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не спориться (о работе)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-колодка (для обуви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колодка (для обуви)</text></cit>
 <сit type="example"><text>skjære (slå) alle over en lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> стричь всех под одну гребёнку</text></cit></cit>
 <сit type="example"><text>skomaker, bli ved din lest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> знай, чеботарь, своё кривое голенище (а в закройщики не суйся)!</text></cit></cit>
 </sense>
@@ -15,13 +15,13 @@
 <form>
 <orth type="lemma">lest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-старинная мера водоизмещения (= 4000 фунтов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старинная мера водоизмещения (= 4000 фунтов)</text></cit>
 </sense>
 <sense>
-мера сыпучих тел (= 12 бочкам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мера сыпучих тел (= 12 бочкам)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +29,8 @@
 <form>
 <orth type="lemma">lest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> густая трава, густые хлеба
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густая трава, густые хлеба</text></cit>
 </sense>
 </entry><entry>
 <index></index>

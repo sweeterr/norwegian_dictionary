@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">himmelsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> небесный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небесный</text></cit>
 </sense>
 </entry>
 </superEntry>

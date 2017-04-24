@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sulfur</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> сера
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сера</text></cit>
 </sense>
 </entry>
 </superEntry>

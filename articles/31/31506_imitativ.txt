@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">imitativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-подражательный, имитативный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подражательный, имитативный</text></cit>
 </sense>
 </entry>
 </superEntry>

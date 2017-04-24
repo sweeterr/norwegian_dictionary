@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spytt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> презренная личность
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>презренная личность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-слюна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слюна</text></cit>
 </sense>
 <sense>
-мокрота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мокрота</text></cit>
 </sense>
 <sense>
-густая вязкая жидкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густая вязкая жидкость</text></cit>
 </sense>
 </entry>
 </superEntry>

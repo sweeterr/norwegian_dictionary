@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">myk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий, гибкий, эластичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий, гибкий, эластичный</text></cit>
 </sense>
 <sense>
-ковкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковкий</text></cit>
 </sense>
 <sense>
-нежный, мягкий (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный, мягкий (о голосе)</text></cit>
 </sense>
 <sense>
-податливый, сговорчивый, покорный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>податливый, сговорчивый, покорный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

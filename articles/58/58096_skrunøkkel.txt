@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skrunøkkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-<u>тех.</u> гаечный ключ
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гаечный ключ</text></cit>
 </sense>
 </entry>
 </superEntry>

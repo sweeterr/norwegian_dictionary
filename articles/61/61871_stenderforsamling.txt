@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stenderforsamling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> палата сословных представителей
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палата сословных представителей</text></cit>
 </sense>
 </entry>
 </superEntry>

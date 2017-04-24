@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">capo</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>муз.</u> начало
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начало</text></cit>
 <сit type="example"><text>da capo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сначала</text></cit></cit>
 </sense>
 </entry>

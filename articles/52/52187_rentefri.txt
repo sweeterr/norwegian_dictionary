@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">rentefri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-беспроцентный (о займе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспроцентный (о займе)</text></cit>
 </sense>
 </entry>
 </superEntry>

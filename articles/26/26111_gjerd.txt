@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">gjerd</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поступок, дело
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поступок, дело</text></cit>
 </sense>
 <sense>
-развитие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развитие</text></cit>
 </sense>
 <sense>
-способ, образ действия, манера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способ, образ действия, манера</text></cit>
 </sense>
 </entry>
 </superEntry>

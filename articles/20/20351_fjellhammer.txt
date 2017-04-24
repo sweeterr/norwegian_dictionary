@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-обрыв в горах, отвесный горный склон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрыв в горах, отвесный горный склон</text></cit>
 </sense>
 <sense>
-скала, нависшая над обрывом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скала, нависшая над обрывом</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">fjellhammer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-пневматический отбойный молоток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пневматический отбойный молоток</text></cit>
 </sense>
 </entry>
 </superEntry>

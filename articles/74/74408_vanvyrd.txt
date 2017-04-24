@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vanvyrd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-презрение, издевательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>презрение, издевательство</text></cit>
 </sense>
 <sense>
-запущенность, запустение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запущенность, запустение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">vanvyrd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-запущенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запущенный</text></cit>
 </sense>
 <sense>
-неухоженный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неухоженный</text></cit>
 </sense>
 </entry>
 </superEntry>

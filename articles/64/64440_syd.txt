@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-юг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юг</text></cit>
 <сit type="example"><text>syd for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к югу от</text></cit></cit>
 <сit type="example"><text>fra syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с юга</text></cit></cit>
 <сit type="example"><text>i syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на юге</text></cit></cit>
 <сit type="example"><text>mot syd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к югу</text></cit></cit>
 </sense>
 <sense>
-<u>собир.</u> Средиземноморские страны
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Средиземноморские страны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,10 +25,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-на юге
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на юге</text></cit>
 </sense>
 <sense>
-к югу, южнее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>к югу, южнее</text></cit>
 <сit type="example"><text>syd for Oslo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>южнее Осло</text></cit></cit>
 <сit type="example"><text>bo syd i byen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить в южной части города</text></cit></cit>
 </sense>

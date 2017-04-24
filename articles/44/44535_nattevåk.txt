@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nattevåk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-бодрствование, ночное бдение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрствование, ночное бдение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">nattevåk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-невыспавшийся, не спавший всю ночь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыспавшийся, не спавший всю ночь</text></cit>
 </sense>
 </entry>
 </superEntry>

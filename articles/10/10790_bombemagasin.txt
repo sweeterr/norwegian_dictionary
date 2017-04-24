@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bombemagasin</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ав.</u> бомбовый отсек
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бомбовый отсек</text></cit>
 </sense>
 </entry>
 </superEntry>

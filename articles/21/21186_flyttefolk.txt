@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flyttefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> рабочие, помогающие при переезде
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочие, помогающие при переезде</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">universell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-всеобщий, универсальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всеобщий, универсальный</text></cit>
 </sense>
 <sense>
-глобальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глобальный</text></cit>
 </sense>
 <sense>
-космический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>космический</text></cit>
 </sense>
 </entry>
 </superEntry>

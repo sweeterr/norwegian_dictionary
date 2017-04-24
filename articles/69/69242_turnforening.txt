@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">turnforening</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> спортивный клуб гимнастов, гимнастическое общество
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спортивный клуб гимнастов, гимнастическое общество</text></cit>
 </sense>
 </entry>
 </superEntry>

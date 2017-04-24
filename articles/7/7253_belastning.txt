@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-нагрузка, груз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузка, груз</text></cit>
 <сit type="example"><text>tillatelig belastning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>допустимая нагрузка</text></cit></cit>
 </sense>
 <sense>
-обременение, отягощение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обременение, отягощение</text></cit>
 <сit type="example"><text>arvelig belastning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дурная наследственность</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> нагрузка (электромотора, генератора, конструкции)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузка (электромотора, генератора, конструкции)</text></cit>
 </sense>
 </entry>
 </superEntry>

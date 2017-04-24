@@ -14,7 +14,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-конечно, определённо, безусловно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конечно, определённо, безусловно</text></cit>
 <сit type="example"><text>for visst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точно, безусловно</text></cit></cit>
 <сit type="example"><text>ganske visst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно определённо</text></cit></cit>
 <сit type="example"><text>ja, visst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну, конечно</text></cit></cit>
@@ -25,7 +25,7 @@
 <сit type="example"><text>visst og sant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно определённо</text></cit></cit>
 </sense>
 <sense>
-пожалуй, видимо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожалуй, видимо</text></cit>
 </sense>
 </entry>
 </superEntry>

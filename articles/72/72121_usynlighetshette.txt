@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">usynlighetshette</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>фольк.</u> шапка-невидимка
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шапка-невидимка</text></cit>
 </sense>
 </entry>
 </superEntry>

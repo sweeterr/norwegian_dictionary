@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">allting</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-альтинг (исландский парламент)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>альтинг (исландский парламент)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,8 +13,8 @@
 <form>
 <orth type="lemma">allting</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-всё
-см. тж. ting I
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всё</text></cit>
+<ref>тж. ting I</ref>
 </sense>
 </entry>
 </superEntry>

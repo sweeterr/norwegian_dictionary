@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">blomme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>поэт.</u>
+<usg>поэт.</usg>
 </form>
 <sense>
-цветок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цветок</text></cit>
 </sense>
 <sense>
-<u>перен.</u> цвет (жизни, молодости и т. д.)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет (жизни, молодости и т. д.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,8 @@
 <form>
 <orth type="lemma">blomme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> см. plomme I
+<usg>уст.</usg>
+<ref>plomme I</ref>
 <сit type="example"><text>ha det som blommen i et egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> кататься как сыр в масле</text></cit></cit>
 </sense>
 </entry>
@@ -28,7 +30,8 @@
 <form>
 <orth type="lemma">blomme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> см. plomme II
+<usg>уст.</usg>
+<ref>plomme II</ref>
 </sense>
 </entry>
 <entry>
@@ -36,13 +39,13 @@
 <form>
 <orth type="lemma">blomme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>поэт.</u>
+<usg>поэт.</usg>
 </form>
 <sense>
-цвести
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвести</text></cit>
 </sense>
 <sense>
-окрашивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окрашивать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> сойка, или ронжа
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сойка, или ронжа</text></cit>
 </sense>
 <sense>
-<u>разг.</u> сирена (действующая сжатым воздухом)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сирена (действующая сжатым воздухом)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,27 +22,27 @@
 <inflection><orth>skre(i)k, skreket</orth></inflection>
 </form>
 <sense>
-кричать, вопить, орать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, вопить, орать</text></cit>
 <сit type="example"><text>skrike over seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать не своим голосом (от страха)</text></cit></cit>
 <сit type="example"><text>skrike til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взывать к кому-л., кричать кому-л.</text></cit></cit>
 </sense>
 <sense>
-петь (о птицах), раздаваться (о звуках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь (о птицах), раздаваться (о звуках)</text></cit>
 </sense>
 <sense>
-громко плакать, рыдать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>громко плакать, рыдать</text></cit>
 </sense>
 <sense>
-звать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звать</text></cit>
 <сit type="example"><text>skrike etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звать кого-л., кричать кому-л.</text></cit></cit>
 <сit type="example"><text>skrike på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звать, призывать</text></cit></cit>
 <сit type="example"><text>skrike om hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звать на помощь</text></cit></cit>
 </sense>
 <sense>
-скрипеть, выть, завывать (о буре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрипеть, выть, завывать (о буре)</text></cit>
 </sense>
 <sense>
-бросаться в глаза, быть кричащим (о красках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросаться в глаза, быть кричащим (о красках)</text></cit>
 <сit type="example"><text>skrike i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закричать</text></cit></cit>
 <сit type="example"><text>skrike opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскрикнуть</text></cit></cit>
 <сit type="example"><text>skrike ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкрикнуть</text></cit></cit>

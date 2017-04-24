@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">verd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> см. verden
+<usg>диал.</usg>
+<ref>verden</ref>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-ценность, стоимость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ценность, стоимость</text></cit>
 <сit type="example"><text>tillegge stort verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высоко оценивать</text></cit></cit>
 </sense>
 <sense>
-достоинство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достоинство</text></cit>
 <сit type="example"><text>det får stå ved sitt verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следует оценить по достоинству</text></cit></cit>
 </sense>
 </entry>
@@ -28,16 +29,15 @@
 <form>
 <orth type="lemma">verd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-стоящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоящий</text></cit>
 <сit type="example"><text>det er verdt 60 kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это стоит 60 крон</text></cit></cit>
 <сit type="example"><text>det er ikke verdt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не стоит, нет смысла (делать что-л.)</text></cit></cit>
 </sense>
 <sense>
-достойный, заслуживающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достойный, заслуживающий</text></cit>
 <сit type="example"><text>være all ære verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть достойным всяческих почестей</text></cit></cit>
 <сit type="example"><text>være en bedre skjebne verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть достойным лучшей участи</text></cit></cit>
 </sense>

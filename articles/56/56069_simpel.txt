@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">simpel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-простой, обыкновенный, естественный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, обыкновенный, естественный</text></cit>
 </sense>
 <sense>
-грубый, вульгарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, вульгарный</text></cit>
 </sense>
 <sense>
-наивный, простодушный, доверчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наивный, простодушный, доверчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

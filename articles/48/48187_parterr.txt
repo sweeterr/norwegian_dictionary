@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-нижний этаж (дома)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нижний этаж (дома)</text></cit>
 </sense>
 <sense>
-партер (парка, сада), цветник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партер (парка, сада), цветник</text></cit>
 </sense>
 <sense>
-<u>театр.</u> партер (задние ряды), <u>собир.</u> зрители задних рядов партера
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партер (задние ряды), <lbl>собир.</lbl> зрители задних рядов партера</text></cit>
 </sense>
 </entry>
 </superEntry>

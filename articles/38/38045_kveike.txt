@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kveike</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> растопка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растопка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">kveike</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u> зажигать, разводить (огонь)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажигать, разводить (огонь)</text></cit>
 </sense>
 </entry>
 </superEntry>

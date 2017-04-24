@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tidsprosjektil</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> снаряд с дистанционным взрывателем
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаряд с дистанционным взрывателем</text></cit>
 </sense>
 </entry>
 </superEntry>

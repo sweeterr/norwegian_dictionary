@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fleksjonsendelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>грам.</u> падежное окончание, падежная флексия
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падежное окончание, падежная флексия</text></cit>
 </sense>
 </entry>
 </superEntry>

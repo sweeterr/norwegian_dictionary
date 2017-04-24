@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sprengkald</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-морозный, леденящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морозный, леденящий</text></cit>
 </sense>
 </entry>
 </superEntry>

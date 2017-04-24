@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сражаться, бороться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сражаться, бороться</text></cit>
 <сit type="example"><text>fekte seg igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробивать себе дорогу (с оружием в руках)</text></cit></cit>
 </sense>
 <sense>
-фехтовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фехтовать</text></cit>
 </sense>
 <sense>
-махать, размахивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>махать, размахивать</text></cit>
 <сit type="example"><text>fekte med armene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размахивать руками</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> попрошайничать, нищенствовать, собирать подаяние
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попрошайничать, нищенствовать, собирать подаяние</text></cit>
 </sense>
 </entry>
 </superEntry>

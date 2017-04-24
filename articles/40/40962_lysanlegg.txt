@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-электропроводка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электропроводка</text></cit>
 </sense>
 <sense>
-электростанция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электростанция</text></cit>
 </sense>
 <sense>
-<u>театр.</u> электроосветительная аппаратура
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электроосветительная аппаратура</text></cit>
 </sense>
 </entry>
 </superEntry>

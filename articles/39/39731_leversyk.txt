@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">leversyk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-с больной печенью, имеющий больную печень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с больной печенью, имеющий больную печень</text></cit>
 </sense>
 </entry>
 </superEntry>

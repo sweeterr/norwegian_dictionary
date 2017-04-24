@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-клиент (заказчик, пользователь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент (заказчик, пользователь)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> клиент - приложение, использующее объекты другого приложения
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - приложение, использующее объекты другого приложения</text></cit>
 </sense>
 <sense>
-<u>комп.</u> клиент - в OLE - приложение, которое может отображать и хранить связанные или внедренные объекты
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - в OLE - приложение, которое может отображать и хранить связанные или внедренные объекты</text></cit>
 </sense>
 <sense>
-<u>комп.</u> клиент - (приложение или машина в сети, использующая ресурсы (сервисы) другой машины или инициирующая запрос к приложению-серверу)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - (приложение или машина в сети, использующая ресурсы (сервисы) другой машины или инициирующая запрос к приложению-серверу)</text></cit>
 </sense>
 </entry>
 </superEntry>

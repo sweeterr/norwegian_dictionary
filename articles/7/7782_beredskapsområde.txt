@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beredskapsområde</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>воен.</u> район сбора, район формирования (части)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район сбора, район формирования (части)</text></cit>
 </sense>
 </entry>
 </superEntry>

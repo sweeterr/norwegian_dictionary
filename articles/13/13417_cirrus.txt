@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cirrus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>метеор.</u> перистые облака
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перистые облака</text></cit>
 </sense>
 </entry>
 </superEntry>

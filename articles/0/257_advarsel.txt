@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">advarsel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-предупреждение, предостережение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предупреждение, предостережение</text></cit>
 <сit type="example"><text>han fikk en advarsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему сделали предупреждение</text></cit></cit>
 <сit type="example"><text>gi en advarsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предостерегать, предупреждать</text></cit></cit>
 <сit type="example"><text>tjene til skrekk og advarsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить предостережением</text></cit></cit>

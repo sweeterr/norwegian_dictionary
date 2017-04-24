@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">klapphatt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> шапокляк
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шапокляк</text></cit>
 </sense>
 </entry>
 </superEntry>

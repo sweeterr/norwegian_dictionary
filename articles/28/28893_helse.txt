@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">helse</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-здоровье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровье</text></cit>
 <сit type="example"><text>god (dårlig) helse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошее (плохое) здоровье</text></cit></cit>
 <сit type="example"><text>miste helsa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерять здоровье</text></cit></cit>
 <сit type="example"><text>slit den (det) med helsa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>носи(те) на здоровье, пользуйся (пользуйтесь) на здоровье</text></cit></cit>
@@ -16,7 +16,8 @@
 <form>
 <orth type="lemma">helse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> см. hilse
+<usg>диал.</usg>
+<ref>hilse</ref>
 </sense>
 </entry>
 </superEntry>

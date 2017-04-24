@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> оснащать, такелажить
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оснащать, такелажить</text></cit>
 </sense>
 <sense>
-<u>разг.</u> снаряжать, обеспечивать одеждой
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаряжать, обеспечивать одеждой</text></cit>
 <сit type="example"><text>rigge seg ut (til)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разодеться</text></cit></cit>
 <сit type="example"><text>rigge ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> выбирать (убирать) такелаж</text></cit></cit>
 <сit type="example"><text>rigge opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> ставить такелаж</text></cit></cit>

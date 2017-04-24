@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kuv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-округлая горная вершина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>округлая горная вершина</text></cit>
 </sense>
 <sense>
-стог, копна (сена)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стог, копна (сена)</text></cit>
 </sense>
 </entry>
 </superEntry>

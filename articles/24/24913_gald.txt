@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gald</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-утоптанная площадка, протоптанная дорожка (в снегу, в траве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утоптанная площадка, протоптанная дорожка (в снегу, в траве)</text></cit>
 </sense>
 <sense>
-крутая горная дорога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутая горная дорога</text></cit>
 </sense>
 </entry>
 </superEntry>

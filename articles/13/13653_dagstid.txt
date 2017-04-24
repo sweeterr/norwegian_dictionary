@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dagstid</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-день, дневное время
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>день, дневное время</text></cit>
 <сit type="example"><text>ved dagstiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>днём</text></cit></cit>
 </sense>
 </entry>

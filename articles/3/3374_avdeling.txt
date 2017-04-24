@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-тк. sg — отделение, отграничение (действие)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тк. sg — отделение, отграничение (действие)</text></cit>
 </sense>
 <sense>
-раздел, часть (книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздел, часть (книги)</text></cit>
 </sense>
 <sense>
-отделение (концерта)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отделение (концерта)</text></cit>
 </sense>
 <sense>
-отдел (на предприятии), секция, цех (на заводе), отделение (в больнице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдел (на предприятии), секция, цех (на заводе), отделение (в больнице)</text></cit>
 <сit type="example"><text>urolig avdeling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отделение для буйных (в психиатрической лечебнице)</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> подразделение, часть, отряд, дивизион
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подразделение, часть, отряд, дивизион</text></cit>
 <сit type="example"><text>avdeling framad marsj!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подразделение, шагом марш!</text></cit></cit>
 <сit type="example"><text>avdeling holdt!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подразделение, стой!</text></cit></cit>
 <сit type="example"><text>avdeling oppstilling!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подразделение, становись!</text></cit></cit>

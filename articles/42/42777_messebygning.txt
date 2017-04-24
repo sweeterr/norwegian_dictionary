@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">messebygning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-выставочный павильон на ярмарке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выставочный павильон на ярмарке</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">messebygning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-офицерское собрание, офицерский клуб (о здании, помещении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>офицерское собрание, офицерский клуб (о здании, помещении)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beredskapsgenerator</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>тех.</u> запасной генератор, резервный генератор
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запасной генератор, резервный генератор</text></cit>
 </sense>
 </entry>
 </superEntry>

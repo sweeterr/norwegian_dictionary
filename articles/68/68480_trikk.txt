@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trikk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-трамвай, трамвайный поезд, трамвайный вагон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамвай, трамвайный поезд, трамвайный вагон</text></cit>
 <сit type="example"><text>miste trikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не попасть (не успеть) на трамвай</text></cit></cit>
 <сit type="example"><text>ta trikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сесть на трамвай</text></cit></cit>
 </sense>
@@ -17,10 +17,11 @@
 <inflection><orth extent="part">-et, = (-s)</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> трюк, фокус
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трюк, фокус</text></cit>
 </sense>
 <sense>
-ловкая проделка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловкая проделка</text></cit>
 <сit type="example"><text>spille én trikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть шутку с кем-л.</text></cit></cit>
 </sense>
 </entry>

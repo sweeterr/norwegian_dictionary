@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">sjølhjulpen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> самостоятельный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самостоятельный</text></cit>
 <ref>selvhjulpen</ref>
 </sense>
 </entry>

@@ -7,23 +7,27 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-замёт кошелькового невода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замёт кошелькового невода</text></cit>
 </sense>
 <sense>
-место кошелькового лова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место кошелькового лова</text></cit>
 </sense>
 <sense>
-<u>разг.</u> усилие, напряжение
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усилие, напряжение</text></cit>
 <сit type="example"><text>varp om varp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попеременно</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> обильный улов рыбы
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обильный улов рыбы</text></cit>
 </sense>
 <sense>
-<u>текст.</u> основа
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основа</text></cit>
 </sense>
 <sense>
-<u>мор.</u> перлинь для верпования
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перлинь для верпования</text></cit>
 </sense>
 </entry>
 </superEntry>

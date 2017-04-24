@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">gevaltig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-сильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный</text></cit>
 </sense>
 <sense>
-огромный, громадный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огромный, громадный</text></cit>
 </sense>
 <sense>
-чрезвычайный, необыкновенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайный, необыкновенный</text></cit>
 </sense>
 </entry>
 </superEntry>

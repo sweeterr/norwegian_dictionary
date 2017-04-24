@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">toneskrift</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> нотное письмо
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нотное письмо</text></cit>
 </sense>
 </entry>
 </superEntry>

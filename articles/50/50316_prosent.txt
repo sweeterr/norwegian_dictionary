@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prosent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-процент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>процент</text></cit>
 <сit type="example"><text>hundre prosent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полностью, целиком</text></cit></cit>
 <сit type="example"><text>mange prosent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в большой степени</text></cit></cit>
 <сit type="example"><text>til fem prosent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из расчёта 5%</text></cit></cit>

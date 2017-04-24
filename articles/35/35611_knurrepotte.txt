@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">knurrepotte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ворчун, брюзга, скандалист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворчун, брюзга, скандалист</text></cit>
 </sense>
 <sense>
-храпун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>храпун</text></cit>
 </sense>
 </entry>
 </superEntry>

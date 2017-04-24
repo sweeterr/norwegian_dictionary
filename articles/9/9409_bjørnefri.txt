@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bjørnefri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-защищенный от медведя, недосягаемый для медведей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защищенный от медведя, недосягаемый для медведей</text></cit>
 </sense>
 </entry>
 </superEntry>

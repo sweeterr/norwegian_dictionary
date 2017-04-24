@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tokt</orth>
 <inflection><orth extent="part">-a (-en, -et), -er</orth></inflection>
-<u>диал.</u> приступ, припадок
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приступ, припадок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,12 +16,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-рейс, плавание (судна)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рейс, плавание (судна)</text></cit>
 <сit type = "example"><text>være på tokt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> находиться в плавании</text></cit></cit>
 <сit type = "example"><text>være på tokt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> служить во флоте</text></cit></cit>
 </sense>
 <sense>
-морской поход, морская экспедиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морской поход, морская экспедиция</text></cit>
 </sense>
 </entry>
 </superEntry>

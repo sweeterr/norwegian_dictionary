@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-принцип
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принцип</text></cit>
 <сit type="example"><text>et ledende prinsipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ведущий принцип, руководящее начало</text></cit></cit>
 <сit type="example"><text>av prinsipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из принципа</text></cit></cit>
 <сit type="example"><text>i prinsippet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в принципе</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-основы (наук)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основы (наук)</text></cit>
 </sense>
 </entry>
 </superEntry>

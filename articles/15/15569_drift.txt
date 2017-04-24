@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-побуждение, склонность, желание, инициатива
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побуждение, склонность, желание, инициатива</text></cit>
 <сit type="example"><text>av egen drift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по собственной инициативе</text></cit></cit>
 </sense>
 <sense>
-задаток, инстинкт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задаток, инстинкт</text></cit>
 </sense>
 <sense>
-движение, течение, ход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение, течение, ход</text></cit>
 </sense>
 <sense>
-<u>тех.</u> эксплуатация (предприятия, горных разработок), ведение хозяйства, процесс производства
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эксплуатация (предприятия, горных разработок), ведение хозяйства, процесс производства</text></cit>
 <сit type = "example"><text>gå i drift :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> начать движение</text></cit></cit>
 <сit type = "example"><text>gå i drift :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пойти на производство</text></cit></cit>
 <сit type="example"><text>sette i drift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пустить в ход, ввести в эксплуатацию</text></cit></cit>
@@ -26,19 +27,22 @@
 <сit type = "example"><text>være i drift :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать (о предприятии)</text></cit></cit>
 </sense>
 <sense>
-стадо, гурт (скота), табун (лошадей), отара (овец)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стадо, гурт (скота), табун (лошадей), отара (овец)</text></cit>
 </sense>
 <sense>
-сплав, гонка (леса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплав, гонка (леса)</text></cit>
 </sense>
 <sense>
-<u>горн.</u> штрек
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штрек</text></cit>
 </sense>
 <sense>
-<u>мор.</u> дрейф, <u>ав.</u> снос
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрейф, <lbl>ав.</lbl> снос</text></cit>
 </sense>
 <sense>
-<u>мор.</u> угол дрейфа
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол дрейфа</text></cit>
 </sense>
 </entry>
 </superEntry>

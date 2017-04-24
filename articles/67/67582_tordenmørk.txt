@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">tordenmørk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тёмный (потемневший) как перед грозой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный (потемневший) как перед грозой</text></cit>
 </sense>
 <sense>
-мрачный (о лице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачный (о лице)</text></cit>
 </sense>
 </entry>
 </superEntry>

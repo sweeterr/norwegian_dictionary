@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skismatiker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>церк.</u> раскольник
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскольник</text></cit>
 </sense>
 </entry>
 </superEntry>

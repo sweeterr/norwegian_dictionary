@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lekkmatte</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> мат (для заделки течи, пробоины)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мат (для заделки течи, пробоины)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kurre seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-завязываться узлом, запутываться (о нитке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завязываться узлом, запутываться (о нитке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-идти на покой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти на покой</text></cit>
 </sense>
 <sense>
-успокаиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>успокаиваться</text></cit>
 </sense>
 </entry>
 </superEntry>

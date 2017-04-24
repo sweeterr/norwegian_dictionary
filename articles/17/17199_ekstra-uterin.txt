@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">ekstra-uterin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мед.</u> внематочный
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внематочный</text></cit>
 </sense>
 </entry>
 </superEntry>

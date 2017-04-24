@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">forvoven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-смелый, отважный, дерзкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смелый, отважный, дерзкий</text></cit>
 </sense>
 <sense>
-рискованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рискованный</text></cit>
 </sense>
 </entry>
 </superEntry>

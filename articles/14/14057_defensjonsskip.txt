@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">defensjonsskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> <u>мор.</u> вооружённое торговое судно
+<usg>ист.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вооружённое торговое судно</text></cit>
 </sense>
 </entry>
 </superEntry>

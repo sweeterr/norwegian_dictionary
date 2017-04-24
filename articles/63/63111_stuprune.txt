@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stuprune</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>лингв.</u> перевёрнутая руна
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевёрнутая руна</text></cit>
 </sense>
 </entry>
 </superEntry>

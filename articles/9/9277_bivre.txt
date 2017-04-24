@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bivre</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> дрожать, трястись
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожать, трястись</text></cit>
 </sense>
 </entry>
 </superEntry>

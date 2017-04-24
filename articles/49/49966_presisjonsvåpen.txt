@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">presisjonsvåpen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> снайперское оружие, оружие точного боя
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снайперское оружие, оружие точного боя</text></cit>
 </sense>
 </entry>
 </superEntry>

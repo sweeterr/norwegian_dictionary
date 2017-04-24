@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kortesje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-кортеж, торжественная процессия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кортеж, торжественная процессия</text></cit>
 <сit type="example"><text>i kortesje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вереницей</text></cit></cit>
 </sense>
 </entry>

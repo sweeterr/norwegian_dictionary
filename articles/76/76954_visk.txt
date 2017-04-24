@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">visk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пучок, жгут
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пучок, жгут</text></cit>
 </sense>
 <sense>
-клочок, обрывок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клочок, обрывок</text></cit>
 </sense>
 <sense>
-метёлка, веник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метёлка, веник</text></cit>
 </sense>
 </entry>
 <entry>

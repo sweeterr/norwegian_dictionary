@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sveve</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бот.</u> ястребинка
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ястребинка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,18 +16,18 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-парить, плыть, скользить в воздухе, планировать (о самолёте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парить, плыть, скользить в воздухе, планировать (о самолёте)</text></cit>
 </sense>
 <sense>
-проплывать (о картинах, представлениях, мыслях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проплывать (о картинах, представлениях, мыслях)</text></cit>
 </sense>
 <sense>
-витать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>витать</text></cit>
 <сit type="example"><text>sveve i uvisshet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пребывать в неведении</text></cit></cit>
 <сit type="example"><text>sveve mellom liv og død</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться между жизнью и смертью</text></cit></cit>
 </sense>
 <sense>
-проходить, бесшумно скользить мимо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходить, бесшумно скользить мимо</text></cit>
 <сit type="example"><text>sveve forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проплыть мимо (о человеке с плавной походкой)</text></cit></cit>
 <сit type="example"><text>sveve over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>носиться над чем-л.</text></cit></cit>
 </sense>
@@ -36,7 +37,7 @@
 <form>
 <orth type="lemma">sveve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-усыплять, убаюкивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усыплять, убаюкивать</text></cit>
 </sense>
 </entry>
 </superEntry>

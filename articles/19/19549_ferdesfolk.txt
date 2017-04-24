@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ferdesfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-путешественники, экскурсанты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путешественники, экскурсанты</text></cit>
 </sense>
 <sense>
-возчики, перевозчики
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возчики, перевозчики</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slalåmrenn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> соревнования по слалому
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соревнования по слалому</text></cit>
 </sense>
 </entry>
 </superEntry>

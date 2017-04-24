@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skrupuløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-щепетильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щепетильный</text></cit>
 </sense>
 <sense>
-скрупулёзный, добросовестный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрупулёзный, добросовестный</text></cit>
 </sense>
 </entry>
 </superEntry>

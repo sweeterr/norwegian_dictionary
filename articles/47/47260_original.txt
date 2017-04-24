@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-подлинник, оригинал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлинник, оригинал</text></cit>
 </sense>
 <sense>
-чудак, оригинал, странный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чудак, оригинал, странный человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,17 +18,16 @@
 <form>
 <orth type="lemma">original</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-подлинный, оригинальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлинный, оригинальный</text></cit>
 </sense>
 <sense>
-своеобразный, самобытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своеобразный, самобытный</text></cit>
 </sense>
 <sense>
-необычный, странный, чудной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необычный, странный, чудной</text></cit>
 </sense>
 </entry>
 </superEntry>

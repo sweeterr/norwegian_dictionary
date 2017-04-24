@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">objektiv</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>физ.</u> объектив
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объектив</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,13 @@
 <form>
 <orth type="lemma">objektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-объективный, беспристрастный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объективный, беспристрастный</text></cit>
 </sense>
 <sense>
-объективно существующий, реальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объективно существующий, реальный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-веер, опахало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веер, опахало</text></cit>
 </sense>
 <sense>
-вентилятор, воздушный насос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вентилятор, воздушный насос</text></cit>
 <сit type="example"><text>vifte med re(i)m trekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>тех.</lbl> насос (вентилятор) с ремённым приводом</text></cit></cit>
 </sense>
 </entry>
@@ -21,20 +21,21 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-веять (о ветре), обвевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веять (о ветре), обвевать</text></cit>
 </sense>
 <sense>
-качаться, колебаться, колыхаться (от ветра), развеваться (о флагах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, колебаться, колыхаться (от ветра), развеваться (о флагах)</text></cit>
 </sense>
 <sense>
-махать, размахивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>махать, размахивать</text></cit>
 <сit type="example"><text>vifte seg med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обмахиваться чем-л.</text></cit></cit>
 </sense>
 <sense>
-прясть (прядать) ушами (о лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прясть (прядать) ушами (о лошади)</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> провеивать (зерно)
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провеивать (зерно)</text></cit>
 <сit type="example"><text>vifte av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказывать, отвергать</text></cit></cit>
 <сit type="example"><text>vifte bort (vekk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стирать, сметать</text></cit></cit>
 </sense>

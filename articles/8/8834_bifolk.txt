@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bifolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> пчёлы в улье, рой пчёл
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пчёлы в улье, рой пчёл</text></cit>
 </sense>
 </entry>
 </superEntry>

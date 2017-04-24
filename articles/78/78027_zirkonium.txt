@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">zirkonium</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> цирконий
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цирконий</text></cit>
 </sense>
 </entry>
 </superEntry>

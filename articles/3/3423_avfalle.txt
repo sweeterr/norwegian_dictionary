@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">avfalle</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-выпадать (о волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпадать (о волосах)</text></cit>
 </sense>
 <sense>
-быть покатым, круто падать (о рельефе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть покатым, круто падать (о рельефе)</text></cit>
 </sense>
 </entry>
 </superEntry>

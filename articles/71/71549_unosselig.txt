@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">unosselig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-крошечный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крошечный</text></cit>
 </sense>
 <sense>
-жалкий, убогий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалкий, убогий</text></cit>
 </sense>
 </entry>
 </superEntry>

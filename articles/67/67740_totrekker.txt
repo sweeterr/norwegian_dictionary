@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">totrekker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>шахм.</u> задача на мат в два хода
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задача на мат в два хода</text></cit>
 </sense>
 </entry>
 </superEntry>

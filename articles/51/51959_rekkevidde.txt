@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-досягаемость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>досягаемость</text></cit>
 <сit type="example"><text>innen(for) rekkevidde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пределах досягаемости</text></cit></cit>
 </sense>
 <sense>
-<u>радио</u> дальность действия (станции)
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальность действия (станции)</text></cit>
 </sense>
 <sense>
-охват, значение, распространение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охват, значение, распространение</text></cit>
 </sense>
 </entry>
 </superEntry>

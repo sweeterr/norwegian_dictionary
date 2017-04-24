@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mure</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> лапчатка
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лапчатка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">mure</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-строить из камня (кирпича), вести каменную (кирпичную) кладку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строить из камня (кирпича), вести каменную (кирпичную) кладку</text></cit>
 <сit type="example"><text>mure igjen, mure til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замуровывать</text></cit></cit>
 <сit type = "example"><text>mure seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> затвориться</text></cit></cit>
 <сit type = "example"><text>mure seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> уединиться</text></cit></cit>

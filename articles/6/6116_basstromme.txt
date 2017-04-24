@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basstromme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>муз.</u> большой барабан, бас-бочка
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой барабан, бас-бочка</text></cit>
 </sense>
 </entry>
 </superEntry>

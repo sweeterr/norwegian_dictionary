@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tren</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> обоз (транспорт) служб тыла
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обоз (транспорт) служб тыла</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">tren</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-поезд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поезд</text></cit>
 </sense>
 <sense>
-чугунка (о железной дороге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чугунка (о железной дороге)</text></cit>
 </sense>
 </entry>
 </superEntry>

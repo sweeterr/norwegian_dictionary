@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">maktfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мощный, сильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощный, сильный</text></cit>
 </sense>
 <sense>
-захватывающий; впечатляющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захватывающий; впечатляющий</text></cit>
 </sense>
 </entry>
 </superEntry>

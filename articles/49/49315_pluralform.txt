@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pluralform</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>грам.</u> форма множественного числа
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форма множественного числа</text></cit>
 </sense>
 </entry>
 </superEntry>

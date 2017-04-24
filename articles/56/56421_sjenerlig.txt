@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sjenerlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-стеснительный, смущающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стеснительный, смущающийся</text></cit>
 </sense>
 <sense>
-стесняющий, беспокоящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стесняющий, беспокоящий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utkiker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-наблюдатель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наблюдатель</text></cit>
 </sense>
 <sense>
-вахтенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вахтенный</text></cit>
 </sense>
 </entry>
 </superEntry>

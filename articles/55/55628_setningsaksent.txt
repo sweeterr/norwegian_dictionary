@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">setningsaksent</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>грам.</u> интонация предложения
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интонация предложения</text></cit>
 </sense>
 </entry>
 </superEntry>

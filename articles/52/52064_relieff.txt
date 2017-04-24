@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-барельеф (тж. lavt relieff)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барельеф (тж. lavt relieff)</text></cit>
 </sense>
 <sense>
-рельефность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рельефность</text></cit>
 <сit type = "example"><text>gi relieff :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> делать рельефным</text></cit></cit>
 <сit type = "example"><text>gi relieff :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> делать чётким (наглядным)</text></cit></cit>
 <сit type="example"><text>stille (sette) i relieff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать чётким (по рисунку)</text></cit></cit>
 </sense>
 <sense>
-<u>полигр.</u> высокая печать
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокая печать</text></cit>
 </sense>
 </entry>
 </superEntry>

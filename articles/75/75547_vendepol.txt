@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vendepol</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эл.</u> магнит якоря генератора постоянного тока
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магнит якоря генератора постоянного тока</text></cit>
 </sense>
 </entry>
 </superEntry>

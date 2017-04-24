@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">filologisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-филологический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>филологический</text></cit>
 </sense>
 </entry>
 </superEntry>

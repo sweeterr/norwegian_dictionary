@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">øyesyn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-зрение, способность видеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрение, способность видеть</text></cit>
 <сit type="example"><text>få i øyesyn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заметить, увидеть</text></cit></cit>
 <сit type="example"><text>ta i øyesyn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внимательно осмотреть</text></cit></cit>
 </sense>

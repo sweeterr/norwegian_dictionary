@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fisjon</orth>
 <inflection><orth extent="part">-en, =</orth></inflection>
-<u>физ.</u> расщепление атомного ядра, распад атомного ядра
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расщепление атомного ядра, распад атомного ядра</text></cit>
 </sense>
 </entry>
 </superEntry>

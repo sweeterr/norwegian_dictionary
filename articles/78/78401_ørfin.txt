@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ørfin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-крошечный, малюсенький
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крошечный, малюсенький</text></cit>
 </sense>
 <sense>
-еле слышный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>еле слышный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balansebudsjett</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>бухг.</u> плановый баланс, сметный баланс
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плановый баланс, сметный баланс</text></cit>
 </sense>
 </entry>
 </superEntry>

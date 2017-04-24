@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">værelsestemperatur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-комнатная температура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комнатная температура</text></cit>
 </sense>
 </entry>
 </superEntry>

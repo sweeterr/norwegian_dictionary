@@ -7,7 +7,7 @@
 <inflection><orth>pres syns, pret syntes, p.p. syn(e)s</orth></inflection>
 </form>
 <sense>
-казаться (кому-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>казаться (кому-л.)</text></cit>
 <сit type="example"><text>jeg synes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне кажется, я думаю</text></cit></cit>
 <сit type="example"><text>det synes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кажется, представляется, что ...</text></cit></cit>
 <сit type="example"><text>som det synes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>очевидно, по-видимому</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>jeg synes godt om ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне он нравится</text></cit></cit>
 </sense>
 <sense>
-показываться, появляться, проступать, виднеться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показываться, появляться, проступать, виднеться</text></cit>
 <сit type="example"><text>synes ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выглядеть, производить впечатление, иметь вид (чего-л.)</text></cit></cit>
 </sense>
 </entry>

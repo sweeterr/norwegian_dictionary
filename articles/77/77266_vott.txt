@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-рукавица, варежка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукавица, варежка</text></cit>
 </sense>
 <sense>
-<u>разг.</u> тряпка, безвольный (слабохарактерный) человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тряпка, безвольный (слабохарактерный) человек</text></cit>
 <сit type="example"><text>slå vottene i bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обанкротиться</text></cit></cit>
 </sense>
 </entry>

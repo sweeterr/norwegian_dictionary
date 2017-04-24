@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-мнение, суждение, представление (о чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мнение, суждение, представление (о чём-л.)</text></cit>
 <сit type="example"><text>etter beste skjønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как можно лучше</text></cit></cit>
 <сit type="example"><text>etter mitt skjønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по моему мнению</text></cit></cit>
 </sense>
 <sense>
-оценка, экспертиза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оценка, экспертиза</text></cit>
 <сit type="example"><text>etter et løst skjønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по грубой оценке</text></cit></cit>
 <сit type="example"><text>avgi skjønn om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать оценку чего-л.</text></cit></cit>
 <сit type="example"><text>ha skjønn på forretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбираться в делах</text></cit></cit>
@@ -24,23 +24,23 @@
 <form>
 <orth type="lemma">skjønn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-красивый, прекрасный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый, прекрасный</text></cit>
 <сit type="example"><text>de skjønne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасный пол</text></cit></cit>
 <сit type="example"><text>den skjønne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красавица</text></cit></cit>
 <сit type="example"><text>det skjønne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасное</text></cit></cit>
 </sense>
 <sense>
-благородный (о характере, поступке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благородный (о характере, поступке)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> приятный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приятный</text></cit>
 </sense>
 <sense>
-заманчивый, привлекательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заманчивый, привлекательный</text></cit>
 </sense>
 </entry>
 </superEntry>

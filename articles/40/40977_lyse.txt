@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lyse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-свечение, отблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свечение, отблеск</text></cit>
 </sense>
 <sense>
-небольшой факел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшой факел</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,16 +19,16 @@
 <form>
 <orth type="lemma">lyse</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-свечение неба (в полярных районах вследствие отражения света от снежного покрова)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свечение неба (в полярных районах вследствие отражения света от снежного покрова)</text></cit>
 </sense>
 <sense>
-прояснение (погоды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прояснение (погоды)</text></cit>
 </sense>
 <sense>
-дневной свет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дневной свет</text></cit>
 <сit type="example"><text>før lyse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до рассвета</text></cit></cit>
 <сit type="example"><text>i lyse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до наступления темноты</text></cit></cit>
 </sense>
@@ -38,7 +38,8 @@
 <form>
 <orth type="lemma">lyse</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> ворвань (как горючее для светильников)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворвань (как горючее для светильников)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -48,19 +49,19 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-светить, освещать, сиять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светить, освещать, сиять</text></cit>
 <сit type="example"><text>lyse for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светить кому-л.</text></cit></cit>
 </sense>
 <sense>
-сверкать, блестеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверкать, блестеть</text></cit>
 <сit type="example"><text>lyse blå (gul, hvit, rød)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>синеть (желтеть, белеть, краснеть)</text></cit></cit>
 <сit type="example"><text>lyse med alle ruter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сверкать, гореть (об оконных стёклах на солнце)</text></cit></cit>
 </sense>
 <sense>
-светиться, сиять (о глазах), гореть (воодушевлением, энтузиазмом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светиться, сиять (о глазах), гореть (воодушевлением, энтузиазмом)</text></cit>
 </sense>
 <sense>
-рассветать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассветать</text></cit>
 <сit type = "example"><text>lyse av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> светиться чем-л.</text></cit></cit>
 <сit type = "example"><text>lyse av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> свидетельствовать о чём-л., нести печать чего-л.</text></cit></cit>
 <сit type="example"><text>lyse etter noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искать что-л. со светом</text></cit></cit>
@@ -77,12 +78,12 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-объявлять, возвещать, доводить до всеобщего сведения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять, возвещать, доводить до всеобщего сведения</text></cit>
 <сit type="example"><text>lyse til ekteskap (<lbl>уст.</lbl> lyse til bryllups)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>церк.</lbl> оглашать брак</text></cit></cit>
 <сit type="example"><text>lyse i kull og kjønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять об усыновлении (удочерении)</text></cit></cit>
 </sense>
 <sense>
-призывать (мир, благословение на кого-л. - over én)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призывать (мир, благословение на кого-л. - over én)</text></cit>
 <сit type="example"><text>lyse opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>диал.</lbl> оглашать</text></cit></cit>
 <сit type="example"><text>lyse i bann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>церк.</lbl> предать анафеме</text></cit></cit>
 </sense>

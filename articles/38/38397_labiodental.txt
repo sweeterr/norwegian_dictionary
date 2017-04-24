@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">labiodental</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> лабиодентальный (губно-зубной) согласный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лабиодентальный (губно-зубной) согласный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">labiodental</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> лабиодентальный, губно-зубной
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лабиодентальный, губно-зубной</text></cit>
 </sense>
 </entry>
 </superEntry>

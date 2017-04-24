@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">låg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-отвар (из овощей, трав)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвар (из овощей, трав)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">låg</orth>
 <inflection><orth>låga, læger</orth></inflection>
-<u>диал.</u> упавшее дерево, валежник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упавшее дерево, валежник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,9 +22,8 @@
 <form>
 <orth type="lemma">låg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-см. lav II
+<ref>lav II</ref>
 </sense>
 </entry>
 </superEntry>

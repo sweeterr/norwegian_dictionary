@@ -7,23 +7,26 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-зубец, шип, колючка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубец, шип, колючка</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> пик (горы)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пик (горы)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> тег, признак, управляющий код - в языке HTML - специальный символ, определяющий раздел документа, способ форматирования текста или другие действия
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тег, признак, управляющий код - в языке HTML - специальный символ, определяющий раздел документа, способ форматирования текста или другие действия</text></cit>
 </sense>
 <sense>
-<u>комп.</u> тег, признак, управляющий код - часть элемента данных (обычно несколько разрядов), определяющая его тип
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тег, признак, управляющий код - часть элемента данных (обычно несколько разрядов), определяющая его тип</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">tagg</orth>
-<u>уст.</u> 
+<usg>уст.</usg>
 <gramGrp><tns>pret</tns><note>от tigge</note></gramGrp>
 </sense>
 </entry>

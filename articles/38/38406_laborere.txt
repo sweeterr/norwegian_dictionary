@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-трудиться (над чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудиться (над чем-л.)</text></cit>
 </sense>
 <sense>
-проводить эксперимент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить эксперимент</text></cit>
 </sense>
 <sense>
-приготавливать лекарство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приготавливать лекарство</text></cit>
 </sense>
 <sense>
-<u>воен.</u> наполнять взрывчатым веществом (снаряд)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наполнять взрывчатым веществом (снаряд)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> страдать (от болезни, слабости)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страдать (от болезни, слабости)</text></cit>
 <сit type="example"><text>laborere på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить диагноз</text></cit></cit>
 </sense>
 </entry>

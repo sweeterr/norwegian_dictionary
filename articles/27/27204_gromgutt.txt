@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gromgutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> любимчик (у родителей)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любимчик (у родителей)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">akselre(i)m</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-перевязь (через плечо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевязь (через плечо)</text></cit>
 </sense>
 <sense>
-плечевой ремень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плечевой ремень</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-сычужина (вещество, употребляющееся при изготовлении сыра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сычужина (вещество, употребляющееся при изготовлении сыра)</text></cit>
 </sense>
 <sense>
-сычуг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сычуг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">løype</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-рыбные отходы (для кормления скота)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбные отходы (для кормления скота)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,15 +28,15 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-лыжня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжня</text></cit>
 <сit type="example"><text>legge (gå opp) løype</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать лыжню</text></cit></cit>
 <сit type="example"><text>følge løype</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти по лыжне</text></cit></cit>
 </sense>
 <sense>
-трасса лыжного кросса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трасса лыжного кросса</text></cit>
 </sense>
 <sense>
-ледяная дорожка, жёлоб (для спуска брёвен с гор к рекам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ледяная дорожка, жёлоб (для спуска брёвен с гор к рекам)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -46,22 +46,22 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-скользить по льду (снегу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользить по льду (снегу)</text></cit>
 </sense>
 <sense>
-спускать брёвна (по ледяной дорожке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спускать брёвна (по ледяной дорожке)</text></cit>
 </sense>
 <sense>
-обдирать кору (дерева)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обдирать кору (дерева)</text></cit>
 </sense>
 <sense>
-легко сниматься, легко слезать (о коре деревьев)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легко сниматься, легко слезать (о коре деревьев)</text></cit>
 </sense>
 <sense>
-слегка поджаривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка поджаривать</text></cit>
 </sense>
 <sense>
-отваривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отваривать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -71,10 +71,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-створаживать при помощи сычужины (молоко)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>створаживать при помощи сычужины (молоко)</text></cit>
 </sense>
 <sense>
-свёртываться, створаживаться (о молоке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свёртываться, створаживаться (о молоке)</text></cit>
 </sense>
 </entry>
 </superEntry>

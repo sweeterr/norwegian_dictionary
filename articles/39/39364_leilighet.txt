@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-случай, повод, возможность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случай, повод, возможность</text></cit>
 <сit type="example"><text>etter fattig (ringe) leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласно скромным возможностям</text></cit></cit>
 <сit type="example"><text>ved en festlig (høytidelig) leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по случаю праздника</text></cit></cit>
 <сit type="example"><text>ved første leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при первой возможности</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>gripe leiligheten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться случаем</text></cit></cit>
 </sense>
 <sense>
-квартира
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квартира</text></cit>
 <сit type="example"><text>en møblert leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меблированные комнаты</text></cit></cit>
 <сit type="example"><text>en treværelses leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трёхкомнатная квартира с кухней</text></cit></cit>
 <сit type="example"><text>avertere etter leilighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать объявление о найме квартиры</text></cit></cit>

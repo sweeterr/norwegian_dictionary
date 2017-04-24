@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prinsipal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-начальник, руководитель, патрон, глава, хозяин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальник, руководитель, патрон, глава, хозяин</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">prinsipal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-главный, основной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главный, основной</text></cit>
 </sense>
 </entry>
 </superEntry>

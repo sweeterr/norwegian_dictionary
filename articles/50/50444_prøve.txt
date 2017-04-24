@@ -7,32 +7,33 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-испытание, проверка, тест
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытание, проверка, тест</text></cit>
 <сit type="example"><text>en hard (hard) prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлое испытание</text></cit></cit>
 <сit type="example"><text>holde prøve (klare prøven, stå sin prøve)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдержать испытание, пройти испытание</text></cit></cit>
 <сit type="example"><text>sette på prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергать испытанию</text></cit></cit>
 </sense>
 <sense>
-примерка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примерка</text></cit>
 <сit type="example"><text>ferdig til prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готовый к примерке</text></cit></cit>
 </sense>
 <sense>
-экзамен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзамен</text></cit>
 <сit type="example"><text>skriftlig prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменный экзамен</text></cit></cit>
 <сit type="example"><text>avlegge en prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдать (выдержать) экзамен</text></cit></cit>
 <сit type = "example"><text>bestå en prøve :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выдержать экзамен</text></cit></cit>
 <сit type = "example"><text>bestå en prøve :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> успешно пройти испытание</text></cit></cit>
 </sense>
 <sense>
-репетиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репетиция</text></cit>
 <сit type="example"><text>holde prøver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проводить репетиции</text></cit></cit>
 </sense>
 <sense>
-образец, образчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образец, образчик</text></cit>
 <сit type="example"><text>svare ti prøven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать образцу</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> проба, анализ
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проба, анализ</text></cit>
 <сit type="example"><text>på prøve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на испытательный срок</text></cit></cit>
 </sense>
 </entry>
@@ -43,28 +44,29 @@
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
-испытывать, проверять (кого, что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать, проверять (кого, что-л.)</text></cit>
 </sense>
 <sense>
-испробовать, испытать (на себе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испробовать, испытать (на себе)</text></cit>
 </sense>
 <sense>
-пробовать (сделать что-л.), стараться, пытаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробовать (сделать что-л.), стараться, пытаться</text></cit>
 </sense>
 <sense>
-пробовать (на вкус)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробовать (на вкус)</text></cit>
 </sense>
 <sense>
-экзаменовать, проверять знания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзаменовать, проверять знания</text></cit>
 </sense>
 <sense>
-примерять (одежду, обувь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примерять (одежду, обувь)</text></cit>
 </sense>
 <sense>
-репетировать (роль, пьесу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репетировать (роль, пьесу)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> брать пробу (анализ), пробировать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брать пробу (анализ), пробировать</text></cit>
 </sense>
 </entry>
 </superEntry>

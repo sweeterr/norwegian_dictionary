@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">grønnskur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> <u>зоол.</u> овсянка обыкновенная
+<usg>диал.</usg>
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овсянка обыкновенная</text></cit>
 </sense>
 </entry>
 </superEntry>

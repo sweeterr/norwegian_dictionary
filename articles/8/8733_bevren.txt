@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bevren</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> трепет, трепетание, дрожь
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трепет, трепетание, дрожь</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>мин.</u> цинковая обманка
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цинковая обманка</text></cit>
 </sense>
 <sense>
-<u>архит.</u> глухое (замурованное) окно, глухая (замурованная) дверь
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухое (замурованное) окно, глухая (замурованная) дверь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,16 +22,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-ослеплять, слепить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослеплять, слепить</text></cit>
 </sense>
 <sense>
-заслонять, глушить (свет)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заслонять, глушить (свет)</text></cit>
 </sense>
 <sense>
-<u>авт.</u> переключать свет (на более слабый)
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переключать свет (на более слабый)</text></cit>
 </sense>
 <sense>
-затемнять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затемнять</text></cit>
 </sense>
 </entry>
 </superEntry>

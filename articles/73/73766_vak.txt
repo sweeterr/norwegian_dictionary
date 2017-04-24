@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">vak</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>церк.</u>
+<usg>церк.</usg>
 </form>
 <sense>
-канун праздника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>канун праздника</text></cit>
 </sense>
 <sense>
-вечерня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечерня</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vak</orth>
-ligge på vak <u>диал.</u> не спать, бодрствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ligge på vak <lbl>диал.</lbl> не спать, бодрствовать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,20 +26,20 @@ ligge på vak <u>диал.</u> не спать, бодрствовать
 <form>
 <orth type="lemma">vak</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-всплеск (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всплеск (воды)</text></cit>
 <сit type="example"><text>fisken går på vak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рыба играет</text></cit></cit>
 </sense>
 <sense>
-косяк рыбы (держащийся на поверхности воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косяк рыбы (держащийся на поверхности воды)</text></cit>
 </sense>
 <sense>
-круги на воде (от всплеска)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круги на воде (от всплеска)</text></cit>
 </sense>
 <sense>
-поплавок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -47,17 +47,16 @@ ligge på vak <u>диал.</u> не спать, бодрствовать
 <form>
 <orth type="lemma">vak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бодрствующий, не спящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрствующий, не спящий</text></cit>
 </sense>
 <sense>
-бдительный, насторожённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бдительный, насторожённый</text></cit>
 </sense>
 <sense>
-острый (о слухе, обонянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый (о слухе, обонянии)</text></cit>
 </sense>
 </entry>
 </superEntry>

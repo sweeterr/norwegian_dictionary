@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dubbe</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>диал.</u> дремать, клевать носом
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дремать, клевать носом</text></cit>
 </sense>
 </entry>
 </superEntry>

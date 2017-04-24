@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">paling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> беготня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беготня</text></cit>
 <сit type="example"><text>ta til paling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> удирать</text></cit></cit>
 </sense>
 </entry>

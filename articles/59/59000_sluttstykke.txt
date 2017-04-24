@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sluttstykke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>воен.</u> затвор (автомата)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затвор (автомата)</text></cit>
 </sense>
 </entry>
 </superEntry>

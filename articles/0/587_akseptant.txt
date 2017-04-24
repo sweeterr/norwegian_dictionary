@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">akseptant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ком.</u>
+<usg>ком.</usg>
 </form>
 <sense>
-акцептант, лицо, акцептирующее вексель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>акцептант, лицо, акцептирующее вексель</text></cit>
 </sense>
 <sense>
-получатель(ница), приёмщик, приёмщица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получатель(ница), приёмщик, приёмщица</text></cit>
 </sense>
 </entry>
 </superEntry>

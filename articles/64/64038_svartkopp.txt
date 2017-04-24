@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svartkopp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> чашка чёрного кофе с водкой
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чашка чёрного кофе с водкой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">nautgard</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-открытая площадка перед хлевом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытая площадка перед хлевом</text></cit>
 </sense>
 <sense>
-огороженный участок (загон) для скота (летом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огороженный участок (загон) для скота (летом)</text></cit>
 </sense>
 </entry>
 </superEntry>

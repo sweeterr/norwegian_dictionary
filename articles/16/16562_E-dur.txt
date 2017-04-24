@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">E-dur</orth>
-<u>муз.</u> ми мажор
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ми мажор</text></cit>
 </sense>
 </entry>
 </superEntry>

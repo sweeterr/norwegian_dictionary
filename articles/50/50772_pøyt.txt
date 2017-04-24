@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">pøyt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-бурда (о напитке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурда (о напитке)</text></cit>
 </sense>
 <sense>
-барахло, хлам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барахло, хлам</text></cit>
 </sense>
 </entry>
 </superEntry>

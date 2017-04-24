@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gange</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>школ.</u> множить, умножать
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>множить, умножать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> <u>диал.</u> см. gå I
+<usg>мор.</usg>
+<usg>диал.</usg>
+<ref>gå I</ref>
 </sense>
 <sense>
-ход, рабочий ход (машины, мотора и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ход, рабочий ход (машины, мотора и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

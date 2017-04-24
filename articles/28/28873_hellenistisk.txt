@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hellenistisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>ист.</u> эллинистический
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эллинистический</text></cit>
 </sense>
 </entry>
 </superEntry>

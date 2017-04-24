@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">bunad</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-национальная одежда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>национальная одежда</text></cit>
 </sense>
 <sense>
-бельё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бельё</text></cit>
 </sense>
 <sense>
-домашняя утварь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домашняя утварь</text></cit>
 </sense>
 <sense>
-рыболовные снасти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовные снасти</text></cit>
 </sense>
 </entry>
 </superEntry>

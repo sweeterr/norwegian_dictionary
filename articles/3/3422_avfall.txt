@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-отбросы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбросы</text></cit>
 </sense>
 <sense>
-отходы, остатки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отходы, остатки</text></cit>
 </sense>
 <sense>
-<u>тех.</u> шлак
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлак</text></cit>
 </sense>
 <sense>
-откос, склон (горы), <u>геол.</u> сброс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откос, склон (горы), <lbl>геол.</lbl> сброс</text></cit>
 </sense>
 <sense>
-отклонение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отклонение</text></cit>
 <сit type="example"><text>et avfall fra sannheten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонение от истины</text></cit></cit>
 </sense>
 </entry>

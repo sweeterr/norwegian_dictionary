@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-застой, остановка в развитии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застой, остановка в развитии</text></cit>
 </sense>
 <sense>
-временное прекращение военных действий, перемирие, затишье на фронте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>временное прекращение военных действий, перемирие, затишье на фронте</text></cit>
 </sense>
 <sense>
-<u>астр.</u> стояние планеты
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стояние планеты</text></cit>
 </sense>
 </entry>
 </superEntry>

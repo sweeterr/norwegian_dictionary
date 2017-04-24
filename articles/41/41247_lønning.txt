@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-вознаграждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вознаграждение</text></cit>
 </sense>
 <sense>
-жалованье, зарплата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалованье, зарплата</text></cit>
 <сit type="example"><text>lave lønninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низкая зарплата, низкие оклады</text></cit></cit>
 <сit type="example"><text>nedsette lønningene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снижать зарплату</text></cit></cit>
 </sense>
@@ -20,7 +20,8 @@
 <form>
 <orth type="lemma">lønning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> поручни (на палубе, трапах, мостиках), релинги
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поручни (на палубе, трапах, мостиках), релинги</text></cit>
 </sense>
 </entry>
 </superEntry>

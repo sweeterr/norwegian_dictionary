@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">sparsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бережливый, экономный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бережливый, экономный</text></cit>
 </sense>
 <sense>
-редкий, редко встречающийся, не частый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий, редко встречающийся, не частый</text></cit>
 </sense>
 <sense>
-скудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный</text></cit>
 </sense>
 </entry>
 </superEntry>

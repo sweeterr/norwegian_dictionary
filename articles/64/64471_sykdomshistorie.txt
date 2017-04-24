@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sykdomshistorie</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-история болезни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история болезни</text></cit>
 </sense>
 </entry>
 </superEntry>

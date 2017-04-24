@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">leprøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мед.</u> прокажённый
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокажённый</text></cit>
 </sense>
 </entry>
 </superEntry>

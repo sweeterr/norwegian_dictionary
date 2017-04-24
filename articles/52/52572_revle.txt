@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">revle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-полоска (ленточка) ткани, длинный лоскут материи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоска (ленточка) ткани, длинный лоскут материи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">revle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> песчаная отмель (параллельная берегу)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песчаная отмель (параллельная берегу)</text></cit>
 </sense>
 </entry>
 </superEntry>

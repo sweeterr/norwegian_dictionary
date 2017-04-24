@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-кровь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровь</text></cit>
 <сit type="example"><text>blodet steg ham til hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кровь бросилась ему в лицо</text></cit></cit>
 <сit type="example"><text>hans blod kom i kok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него закипела кровь, он пришёл в ярость</text></cit></cit>
 <сit type="example"><text>blande blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать неразлучными друзьями</text></cit></cit>
@@ -31,7 +31,8 @@
 <сit type="example"><text>ved kaldt blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хладнокровно</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> происхождение, порода, род
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>происхождение, порода, род</text></cit>
 <сit type="example"><text>blodets bånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кровное родство, кровная связь</text></cit></cit>
 <сit type="example"><text>blått blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>благородная, «голубая» кровь, аристократ</text></cit></cit>
 <сit type="example"><text>han er mitt (eget) blod, han er mitt (eget) kjøtt og blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он моя плоть и кровь</text></cit></cit>

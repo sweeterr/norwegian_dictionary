@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">usneidd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> беспрепятственный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспрепятственный</text></cit>
 </sense>
 </entry>
 </superEntry>

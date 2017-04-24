@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">affilisjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> усыновление, удочерение
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усыновление, удочерение</text></cit>
 </sense>
 </entry>
 </superEntry>

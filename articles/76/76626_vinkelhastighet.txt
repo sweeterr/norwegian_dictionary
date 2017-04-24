@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vinkelhastighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> угловая скорость
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угловая скорость</text></cit>
 </sense>
 </entry>
 </superEntry>

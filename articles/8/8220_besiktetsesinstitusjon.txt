@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">besiktetsesinstitusjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-морская инспекция, судовой досмотр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская инспекция, судовой досмотр</text></cit>
 </sense>
 <sense>
-комиссия для классификации кораблей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комиссия для классификации кораблей</text></cit>
 </sense>
 </entry>
 </superEntry>

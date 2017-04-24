@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">magnetfelt</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>физ.</u> магнитное поле
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магнитное поле</text></cit>
 </sense>
 </entry>
 </superEntry>

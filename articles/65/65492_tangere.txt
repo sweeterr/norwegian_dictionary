@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-касаться, затрагивать (в разговоре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться, затрагивать (в разговоре)</text></cit>
 </sense>
 <sense>
-приближаться (к истине, цели и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приближаться (к истине, цели и т. п.)</text></cit>
 </sense>
 <sense>
-<u>мат.</u> касаться
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> подойти к рекордному показателю
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подойти к рекордному показателю</text></cit>
 </sense>
 </entry>
 </superEntry>

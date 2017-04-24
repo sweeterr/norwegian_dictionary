@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dypgående</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>мор.</u> осадка (судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадка (судна)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">dypgående</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-глубоко сидящий, с большой осадкой (о корабле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубоко сидящий, с большой осадкой (о корабле)</text></cit>
 </sense>
 </entry>
 </superEntry>

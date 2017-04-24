@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-древесина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древесина</text></cit>
 </sense>
 <sense>
-колода, чурбан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колода, чурбан</text></cit>
 </sense>
 <sense>
-<u>лес.</u> баланс
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баланс</text></cit>
 </sense>
 </entry>
 </superEntry>

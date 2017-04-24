@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">dratte</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
- <u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-свалиться, загреметь, плюхнуться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свалиться, загреметь, плюхнуться</text></cit>
 <сit type="example"><text>komme drattende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>падать (лететь) на землю с грохотом</text></cit></cit>
 </sense>
 <sense>
-обанкротиться, потерпеть банкротство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обанкротиться, потерпеть банкротство</text></cit>
 <сit type="example"><text>dratte ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть, лететь кувырком</text></cit></cit>
 </sense>
 </entry>

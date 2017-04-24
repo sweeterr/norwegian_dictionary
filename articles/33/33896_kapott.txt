@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kapott</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-плащ с капюшоном
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плащ с капюшоном</text></cit>
 </sense>
 <sense>
-солдатская шинель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солдатская шинель</text></cit>
 </sense>
 </entry>
 </superEntry>

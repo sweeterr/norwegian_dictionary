@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rotvelsk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>лингв.</u> воровской жаргон
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воровской жаргон</text></cit>
 </sense>
 </entry>
 </superEntry>

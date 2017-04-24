@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ilferdig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-торопливый, спешащий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торопливый, спешащий</text></cit>
 </sense>
 <sense>
-быстрый (о движении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый (о движении)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">markedsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-рыночные торговцы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыночные торговцы</text></cit>
 </sense>
 <sense>
-рыночная толпа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыночная толпа</text></cit>
 </sense>
 </entry>
 </superEntry>

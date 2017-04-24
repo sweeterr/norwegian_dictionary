@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hattemaker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-шляпный мастер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шляпный мастер</text></cit>
 <сit type="example"><text>Jørgen hattemaker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> бедняк</text></cit></cit>
 </sense>
 </entry>

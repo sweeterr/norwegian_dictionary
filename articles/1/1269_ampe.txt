@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ampe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-огорчаться, расстраиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огорчаться, расстраиваться</text></cit>
 </sense>
 <sense>
-беспокоить, надоедать, приставать, докучать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоить, надоедать, приставать, докучать</text></cit>
 </sense>
 </entry>
 </superEntry>

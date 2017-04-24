@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avstemningsspole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>радио</u> катушка настройки
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катушка настройки</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">suser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> сильный удар(мячом)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный удар(мячом)</text></cit>
 </sense>
 </entry>
 </superEntry>

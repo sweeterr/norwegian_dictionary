@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">snøblind</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-ослеплённый сверкающим (искрящимся) снегом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослеплённый сверкающим (искрящимся) снегом</text></cit>
 </sense>
 </entry>
 </superEntry>

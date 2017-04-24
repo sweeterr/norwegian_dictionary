@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sinuskurve</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мат.</u> синусоида
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синусоида</text></cit>
 </sense>
 </entry>
 </superEntry>

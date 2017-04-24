@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mellommåltid</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-лёгкий завтрак, лёгкая закуска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий завтрак, лёгкая закуска</text></cit>
 <сit type="example"><text>jeg skal ha mellommåltid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я должен слегка перекусить</text></cit></cit>
 </sense>
 </entry>

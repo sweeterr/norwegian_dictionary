@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">duraluminium</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>тех.</u> дюралюминий, дюраль
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дюралюминий, дюраль</text></cit>
 </sense>
 </entry>
 </superEntry>

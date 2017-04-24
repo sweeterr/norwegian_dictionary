@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">irrasjonell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неразумный, нерациональный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразумный, нерациональный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-помощь, выручка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помощь, выручка</text></cit>
 <сit type="example"><text>komme én til unnsetning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти (приходить) на помощь (на выручку) кому-л.</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> подкрепление
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкрепление</text></cit>
 </sense>
 </entry>
 </superEntry>

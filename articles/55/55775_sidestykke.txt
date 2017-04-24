@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-боковая часть (деталь, сторона) чего-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковая часть (деталь, сторона) чего-л.</text></cit>
 </sense>
 <sense>
-аналогия, аналогичная вещь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аналогия, аналогичная вещь</text></cit>
 <сit type="example"><text>sidestykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подобие чего-л.</text></cit></cit>
 <сit type="example"><text>være uten sidestykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне сравнения</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> станина лафета, стойка рамы
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>станина лафета, стойка рамы</text></cit>
 </sense>
 </entry>
 </superEntry>

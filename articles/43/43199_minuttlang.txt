@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">minuttlang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-минутный, длящийся одну минуту (несколько минут)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>минутный, длящийся одну минуту (несколько минут)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,57 +5,57 @@
 <form>
 <orth type="lemma">fin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прекрасный, превосходный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасный, превосходный</text></cit>
 <сit type="example"><text>det tar seg fint ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это имеет чудесный вид</text></cit></cit>
 </sense>
 <sense>
-изящный (о платье, человеке), нарядный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изящный (о платье, человеке), нарядный</text></cit>
 </sense>
 <sense>
-тонкий, изысканный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, изысканный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> красивый, хорошенький
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый, хорошенький</text></cit>
 </sense>
 <sense>
-вкусный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкусный</text></cit>
 </sense>
 <sense>
-чистый (о металле), беспримесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый (о металле), беспримесный</text></cit>
 </sense>
 <sense>
-знатный, благородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный, благородный</text></cit>
 <сit type="example"><text>de fine</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать, высшие слой общества</text></cit></cit>
 </sense>
 <sense>
-учтивый, внимательный, любезный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учтивый, внимательный, любезный</text></cit>
 <сit type="example"><text>fare fint med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обходиться вежливо (учтиво)</text></cit></cit>
 </sense>
 <sense>
-осторожный, осмотрительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожный, осмотрительный</text></cit>
 <сit type="example"><text>på en fin måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осмотрительно, осторожно</text></cit></cit>
 </sense>
 <sense>
-мелкий (о песке, снеге, дожде, тж. о почерке, печати), частый (о гребне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий (о песке, снеге, дожде, тж. о почерке, печати), частый (о гребне)</text></cit>
 </sense>
 <sense>
-нежный, хрупкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный, хрупкий</text></cit>
 </sense>
 <sense>
-стройный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стройный</text></cit>
 </sense>
 <sense>
-лёгкий (о тумане, дымке), чуть заметный (о различии, нюансе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (о тумане, дымке), чуть заметный (о различии, нюансе)</text></cit>
 </sense>
 <sense>
-острый, тонкий (о слухе, обонянии, зрении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый, тонкий (о слухе, обонянии, зрении)</text></cit>
 </sense>
 <sense>
-точный (об инструменте, измерении, определении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точный (об инструменте, измерении, определении)</text></cit>
 </sense>
 </entry>
 </superEntry>

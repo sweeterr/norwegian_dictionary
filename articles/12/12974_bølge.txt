@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-волна (морская, воздушная, звуковая, радио, <u>тж. перен.</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волна (морская, воздушная, звуковая, радио, <lbl>тж. перен.</lbl> )</text></cit>
 <сit type="example"><text>bølgene gikk høye som hus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>волны вздымались высотой с дом</text></cit></cit>
 <сit type="example"><text>på bølgen (den) blå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>поэт.</lbl> на синем море</text></cit></cit>
 <сit type="example"><text>en bølge av begeistring gikk over landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>волна энтузиазма прокатилась по всей стране</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-<u>разг.</u> взаимная симпатия, склонность друг к другу
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимная симпатия, склонность друг к другу</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-резкие колебания (о настроении); <u>разг.</u> сильное возмущение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкие колебания (о настроении); <lbl>разг.</lbl> сильное возмущение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,16 +29,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-волноваться (о море, ниве), покрываться волнами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волноваться (о море, ниве), покрываться волнами</text></cit>
 </sense>
 <sense>
-вздыматься (о груди)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздыматься (о груди)</text></cit>
 </sense>
 <sense>
-колебаться, дрожать (о свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колебаться, дрожать (о свете)</text></cit>
 </sense>
 <sense>
-колыхаться, развеваться, реять (о знамёнах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыхаться, развеваться, реять (о знамёнах)</text></cit>
 </sense>
 </entry>
 </superEntry>

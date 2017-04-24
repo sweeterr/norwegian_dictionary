@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">grø</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-растить, выращивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растить, выращивать</text></cit>
 </sense>
 <sense>
-<u>уст.</u> залечивать рану
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>залечивать рану</text></cit>
 </sense>
 </entry>
 </superEntry>

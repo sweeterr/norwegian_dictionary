@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-обременение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обременение</text></cit>
 </sense>
 <sense>
-<u>юр.</u> письменная жалоба
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>письменная жалоба</text></cit>
 <сit type="example"><text>komme med besværingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подавать жалобу (на кого, что-л. - over)</text></cit></cit>
 </sense>
 </entry>

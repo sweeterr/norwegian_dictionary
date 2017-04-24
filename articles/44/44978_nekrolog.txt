@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nekrolog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-некролог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некролог</text></cit>
 </sense>
 </entry>
 </superEntry>

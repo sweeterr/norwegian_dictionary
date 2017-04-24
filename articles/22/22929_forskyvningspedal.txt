@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forskyvningspedal</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> левая педаль (рояля)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>левая педаль (рояля)</text></cit>
 </sense>
 </entry>
 </superEntry>

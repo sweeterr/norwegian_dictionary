@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">legering</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-сплав, лигатура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплав, лигатура</text></cit>
 </sense>
 <sense>
-легирование (металла)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легирование (металла)</text></cit>
 </sense>
 <sense>
-легирующая присадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легирующая присадка</text></cit>
 </sense>
 </entry>
 </superEntry>

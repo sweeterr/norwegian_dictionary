@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mønstringsvesen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> управление по вербовке матросов
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление по вербовке матросов</text></cit>
 </sense>
 </entry>
 </superEntry>

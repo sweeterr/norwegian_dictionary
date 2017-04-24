@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">åvokster</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-посевы, хлеба на корню
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посевы, хлеба на корню</text></cit>
 </sense>
 <sense>
-сливки (на молоке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сливки (на молоке)</text></cit>
 </sense>
 </entry>
 </superEntry>

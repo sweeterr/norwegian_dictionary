@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">premiebeger</orth>
 <inflection><orth extent="part">-eret, -ere (-re)</orth></inflection>
-<u>спорт.</u> призовой кубок
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призовой кубок</text></cit>
 </sense>
 </entry>
 </superEntry>

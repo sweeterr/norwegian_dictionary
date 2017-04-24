@@ -7,24 +7,25 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-способность, талант, одарённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способность, талант, одарённость</text></cit>
 <сit type="example"><text>små evner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченные способности</text></cit></cit>
 </sense>
 <sense>
-возможность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возможность</text></cit>
 <сit type="example"><text>gjøre noe etter evne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать что-л. в меру своих возможностей</text></cit></cit>
 <сit type="example"><text>etter beste evne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по возможности</text></cit></cit>
 <сit type="example"><text>over evne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свыше чьих-л. возможностей</text></cit></cit>
 </sense>
 <sense>
-средства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средства</text></cit>
 <сit type="example"><text>leve over evne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить не по средствам</text></cit></cit>
 </sense>
 <sense>
-материал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материал</text></cit>
 </sense>
 <sense>
-<u>уст.</u> тема
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тема</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +33,7 @@
 <form>
 <orth type="lemma">evne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-мочь, быть в состоянии (сделать что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мочь, быть в состоянии (сделать что-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

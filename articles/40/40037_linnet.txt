@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-полотняная (нижняя мужская) рубашка, женская сорочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полотняная (нижняя мужская) рубашка, женская сорочка</text></cit>
 <сit type="example"><text>vaske sitt skitne linnet for alles øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> из своей избы сор выносить</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> полотно, холст
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полотно, холст</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,8 @@
 <form>
 <orth type="lemma">linnet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> полотняный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полотняный</text></cit>
 </sense>
 </entry>
 </superEntry>

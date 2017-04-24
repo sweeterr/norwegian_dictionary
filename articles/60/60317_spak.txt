@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-багор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багор</text></cit>
 </sense>
 <sense>
-рычаг, вага
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рычаг, вага</text></cit>
 </sense>
 <sense>
-<u>мор.</u> гандшпуг, вымбовка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гандшпуг, вымбовка</text></cit>
 </sense>
 <sense>
-<u>ав.</u> ручка (рычаг) управления
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручка (рычаг) управления</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,20 +26,20 @@
 <form>
 <orth type="lemma">spak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-смирный, сговорчивый, послушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смирный, сговорчивый, послушный</text></cit>
 </sense>
 <sense>
-приручённый, ручной (о животном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приручённый, ручной (о животном)</text></cit>
 </sense>
 <sense>
-лёгкий, слабый (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий, слабый (о ветре)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> мудрый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мудрый</text></cit>
 </sense>
 </entry>
 </superEntry>

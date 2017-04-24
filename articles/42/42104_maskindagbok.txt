@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">maskindagbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-<u>мор.</u> машинный журнал
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>машинный журнал</text></cit>
 </sense>
 </entry>
 </superEntry>

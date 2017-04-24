@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvalifiseringsrunde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> квалификационные соревнования
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квалификационные соревнования</text></cit>
 </sense>
 </entry>
 </superEntry>

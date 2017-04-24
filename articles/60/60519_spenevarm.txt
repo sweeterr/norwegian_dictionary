@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">spenevarm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-парное (о молоке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парное (о молоке)</text></cit>
 </sense>
 </entry>
 </superEntry>

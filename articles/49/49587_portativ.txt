@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">portativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-портативный, переносный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портативный, переносный</text></cit>
 </sense>
 </entry>
 </superEntry>

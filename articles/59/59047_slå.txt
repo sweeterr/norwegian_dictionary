@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slå</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-задвижка, засов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задвижка, засов</text></cit>
 <сit type="example"><text>skyte (skyve) slåen for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запирать дверь на засов (задвижку)</text></cit></cit>
 <сit type="example"><text>skyte (skyve) slåen fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отпирать дверь, отодвинув засов (задвижку)</text></cit></cit>
 </sense>
@@ -17,7 +17,7 @@
 <inflection><orth>slo(g), slått</orth></inflection>
 </form>
 <sense>
-бить, колотить, ударять, стучать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить, колотить, ударять, стучать</text></cit>
 <сit type="example"><text>slå i bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стукнуть по столу</text></cit></cit>
 <сit type="example"><text>slå én på skulderen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хлопать по плечу</text></cit></cit>
 <сit type="example"><text>slå til jorda</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбить с ног, свалить на землю</text></cit></cit>
@@ -26,89 +26,90 @@
 <сit type="example"><text>slå til hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить в голову (о вине)</text></cit></cit>
 </sense>
 <sense>
-сражаться, биться, <u>уст.</u> убивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сражаться, биться, <lbl>уст.</lbl> убивать</text></cit>
 <сit type="example"><text>slå fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отбиваться, обороняться</text></cit></cit>
 <сit type="example"><text>slå tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отбивать (атаку)</text></cit></cit>
 </sense>
 <sense>
-победить, побить, одолеть (противника)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>победить, побить, одолеть (противника)</text></cit>
 </sense>
 <sense>
-брыкаться, лягаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брыкаться, лягаться</text></cit>
 </sense>
 <sense>
-побить (поставить) рекорд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побить (поставить) рекорд</text></cit>
 </sense>
 <sense>
-разбить, разломать, сломать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбить, разломать, сломать</text></cit>
 <сit type="example"><text>slå i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбить вдребезги, разломать на части</text></cit></cit>
 </sense>
 <sense>
-поразить (что-л.), попасть (во что-л. )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поразить (что-л.), попасть (во что-л. )</text></cit>
 <сit type="example"><text>det slo ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его поразило, ему бросилось в глаза</text></cit></cit>
 <сit type="example"><text>slå av tankene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкидывать из головы</text></cit></cit>
 </sense>
 <sense>
-играть (в мяч, крокет)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (в мяч, крокет)</text></cit>
 </sense>
 <sense>
-высекать (огонь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высекать (огонь)</text></cit>
 </sense>
 <sense>
-чеканить (монету, медали)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чеканить (монету, медали)</text></cit>
 <сit type="example"><text>slå én for penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занимать деньги у кого-л.</text></cit></cit>
 </sense>
 <sense>
-сочинять (сказки, небылицы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочинять (сказки, небылицы)</text></cit>
 </sense>
 <sense>
-разбивать (палатку, лагерь), перекидывать (мост),
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбивать (палатку, лагерь), перекидывать (мост),</text></cit>
 </sense>
 <sense>
-ударять (по струнам), бить (в барабан), барабанить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударять (по струнам), бить (в барабан), барабанить</text></cit>
 </sense>
 <sense>
-выбивать (чек), выстукивать (на пишущей машинке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбивать (чек), выстукивать (на пишущей машинке)</text></cit>
 </sense>
 <sense>
-косить (траву)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косить (траву)</text></cit>
 </sense>
 <sense>
-петь, заливаться трелью (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь, заливаться трелью (о птицах)</text></cit>
 </sense>
 <sense>
-(про)бить (о часах), наступить (о моменте, времени)
-<u>мор.</u> бить склянки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(про)бить (о часах), наступить (о моменте, времени)</text></cit>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить склянки</text></cit>
 </sense>
 <sense>
-отбивать (такт), подавать (сигналы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбивать (такт), подавать (сигналы)</text></cit>
 </sense>
 <sense>
-хлопать (крыльями)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопать (крыльями)</text></cit>
 </sense>
 <sense>
-плескать (водой на что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плескать (водой на что-л. - på)</text></cit>
 </sense>
 <sense>
-полоскаться (о флаге, парусах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоскаться (о флаге, парусах)</text></cit>
 </sense>
 <sense>
-вбивать, забивать (гвозди)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вбивать, забивать (гвозди)</text></cit>
 </sense>
 <sense>
-сплавлять (лес)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплавлять (лес)</text></cit>
 </sense>
 <sense>
-давать трещины, морщиться, делать складки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать трещины, морщиться, делать складки</text></cit>
 </sense>
 <sense>
-вить, сучить, сплетать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вить, сучить, сплетать</text></cit>
 </sense>
 <sense>
-проводить (линию), описывать (окружность)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить (линию), описывать (окружность)</text></cit>
 </sense>
 <sense>
-отбрасывать (тени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбрасывать (тени)</text></cit>
 <сit type = "example"><text>slå til side :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отводить что-л. в сторону</text></cit></cit>
 <сit type = "example"><text>slå til side :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отдёргивать (занавеску)</text></cit></cit>
 <сit type = "example"><text>slå an :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> получить отклик, иметь успех</text></cit></cit>
@@ -142,7 +143,7 @@
 <сit type = "example"><text>slå ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> подавлять (восстание)</text></cit></cit>
 <сit type = "example"><text>slå ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> ударять (о молнии)</text></cit></cit>
 <сit type = "example"><text>slå ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обрушиваться (на кого-л. - på)</text></cit></cit>
-<сit type = "example"><text>slå ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>тех.</u> оседать, конденсироваться</text></cit></cit>
+<сit type = "example"><text>slå ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>тех.</lbl> оседать, конденсироваться</text></cit></cit>
 <сit type="example"><text>slå om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меняться (о погоде)</text></cit></cit>
 <сit type = "example"><text>slå opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взламывать</text></cit></cit>
 <сit type = "example"><text>slå opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> раскрывать (книгу, глаза)</text></cit></cit>
@@ -170,7 +171,7 @@
 <сit type = "example"><text>slå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выключать (ток)</text></cit></cit>
 <сit type = "example"><text>slå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> высыпать (о сыпи)</text></cit></cit>
 <сit type = "example"><text>slå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> резко отклоняться (о стрелке аппарата)</text></cit></cit>
-<сit type = "example"><text>slå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>спорт.</u> выводить из игры</text></cit></cit>
+<сit type = "example"><text>slå ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>спорт.</lbl> выводить из игры</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

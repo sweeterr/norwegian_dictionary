@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">relativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> относительное местоимение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относительное местоимение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">relativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-относительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относительный</text></cit>
 </sense>
 </entry>
 </superEntry>

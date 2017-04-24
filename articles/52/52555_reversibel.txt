@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">reversibel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>тех.</u> реверсивный, имеющий передний и задний ход
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реверсивный, имеющий передний и задний ход</text></cit>
 </sense>
 </entry>
 </superEntry>

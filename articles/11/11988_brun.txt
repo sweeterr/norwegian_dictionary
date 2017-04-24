@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> гребень (горы)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребень (горы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,29 +14,28 @@
 <form>
 <orth type="lemma">brun</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-коричневый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коричневый</text></cit>
 </sense>
 <sense>
-смуглый, загорелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смуглый, загорелый</text></cit>
 </sense>
 <sense>
-карий (о глазах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карий (о глазах)</text></cit>
 </sense>
 <sense>
-тёмно-русый, каштановый (о волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмно-русый, каштановый (о волосах)</text></cit>
 </sense>
 <sense>
-бурый (о медведе, об угле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурый (о медведе, об угле)</text></cit>
 </sense>
 <sense>
-жжёный (о сахаре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жжёный (о сахаре)</text></cit>
 </sense>
 <sense>
-гнедой (о масти лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнедой (о масти лошади)</text></cit>
 <сit type="example"><text>slå én brun og blå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исколотить (избить) кого-л. до синяков</text></cit></cit>
 </sense>
 </entry>

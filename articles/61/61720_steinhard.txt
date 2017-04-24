@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">steinhard</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-твёрдый как камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый как камень</text></cit>
 </sense>
 <sense>
-<u>перен.</u> закалённый
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закалённый</text></cit>
 </sense>
 </entry>
 </superEntry>

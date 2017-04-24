@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сотрудничество, совместные действия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сотрудничество, совместные действия</text></cit>
 </sense>
 <sense>
-кооперация, кооперирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кооперация, кооперирование</text></cit>
 </sense>
 <sense>
-<u>воен.</u> взаимодействие (войск)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимодействие (войск)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сотрудничать, действовать заодно (совместно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сотрудничать, действовать заодно (совместно)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> взаимодействовать (о войсках)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимодействовать (о войсках)</text></cit>
 </sense>
 </entry>
 </superEntry>

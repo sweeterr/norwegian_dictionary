@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sirkulasjonspumpe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> циркуляционный насос, <u>мор.</u> циркуляционная помпа
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>циркуляционный насос, <lbl>мор.</lbl> циркуляционная помпа</text></cit>
 </sense>
 </entry>
 </superEntry>

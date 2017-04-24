@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-куча, нагромождение, груда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча, нагромождение, груда</text></cit>
 </sense>
 <sense>
-верхний лесной склад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхний лесной склад</text></cit>
 </sense>
 <sense>
-лесоспуск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесоспуск</text></cit>
 </sense>
 <sense>
-отвал (при пахоте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвал (при пахоте)</text></cit>
 </sense>
 <sense>
-катящийся вал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катящийся вал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,25 +29,25 @@
 <inflection><orth>veltet (valt), veltet</orth></inflection>
 </form>
 <sense>
-опрокидывать, перевёртывать; катить (бочку и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опрокидывать, перевёртывать; катить (бочку и т. п.)</text></cit>
 </sense>
 <sense>
-срывать (планы, намерения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срывать (планы, намерения)</text></cit>
 <сit type="example"><text>velte et håp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лишить надежды</text></cit></cit>
 </sense>
 <sense>
-перевёртываться, опрокидываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевёртываться, опрокидываться</text></cit>
 <сit type = "example"><text>velte over ende :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> падать вперевёртку, перевернуться</text></cit></cit>
-<сit type = "example"><text>velte over ende :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> обанкротиться, разориться</text></cit></cit>
+<сit type = "example"><text>velte over ende :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> обанкротиться, разориться</text></cit></cit>
 </sense>
 <sense>
-клубиться (о тумане и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клубиться (о тумане и т. п.)</text></cit>
 </sense>
 <sense>
-перекатываться, набегать, катиться (о волнах и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекатываться, набегать, катиться (о волнах и т. п.)</text></cit>
 </sense>
 <sense>
-свергать (правительство, строй)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свергать (правительство, строй)</text></cit>
 <сit type="example"><text>velte inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нахлынуть (на кого-л. - over, på, о мыслях, воспоминаниях)</text></cit></cit>
 <сit type="example"><text>velte ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низвергаться, устремляться вниз</text></cit></cit>
 </sense>

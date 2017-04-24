@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kurvemåler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>тех.</u> курвиметр
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курвиметр</text></cit>
 </sense>
 </entry>
 </superEntry>

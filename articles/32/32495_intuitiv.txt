@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">intuitiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-интуитивный, происходящий по интуиции
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интуитивный, происходящий по интуиции</text></cit>
 </sense>
 </entry>
 </superEntry>

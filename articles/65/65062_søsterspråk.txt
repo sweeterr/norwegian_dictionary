@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">søsterspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>лингв.</u> родственный язык
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родственный язык</text></cit>
 </sense>
 </entry>
 </superEntry>

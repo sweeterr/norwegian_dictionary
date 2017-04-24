@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">effektivstyrke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-боеспособная часть, боеспособное подразделение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боеспособная часть, боеспособное подразделение</text></cit>
 </sense>
 <sense>
-боеспособная часть войск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боеспособная часть войск</text></cit>
 </sense>
 </entry>
 </superEntry>

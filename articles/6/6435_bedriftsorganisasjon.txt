@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bedriftsorganisasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>экон.</u> предпринимательская структура, организационная структура
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предпринимательская структура, организационная структура</text></cit>
 </sense>
 </entry>
 </superEntry>

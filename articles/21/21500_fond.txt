@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fond</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-фон, задний план
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фон, задний план</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,14 @@
 <inflection><orth extent="part">-et, = (-s)</orth></inflection>
 </form>
 <sense>
-фонд, капитал, капиталовложение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонд, капитал, капиталовложение</text></cit>
 </sense>
 <sense>
-фонды, процентные ценные бумаги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонды, процентные ценные бумаги</text></cit>
 </sense>
 <sense>
-<u>перен.</u> кладезь (знаний)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кладезь (знаний)</text></cit>
 </sense>
 </entry>
 </superEntry>

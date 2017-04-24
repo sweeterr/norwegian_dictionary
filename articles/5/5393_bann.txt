@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-изгнание (из общества), высылка (из страны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгнание (из общества), высылка (из страны)</text></cit>
 <сit type="example"><text>legge i bann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергать запрещению, налагать запрещение</text></cit></cit>
 </sense>
 <sense>
-отлучение (от церкви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отлучение (от церкви)</text></cit>
 <сit type="example"><text>lyse i bann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отлучать от церкви</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> гнёт
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнёт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jernurt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> вербена аптечная
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вербена аптечная</text></cit>
 </sense>
 </entry>
 </superEntry>

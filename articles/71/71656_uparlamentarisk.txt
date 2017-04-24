@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">uparlamentarisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>полит.</u>
+<usg>полит.</usg>
 </form>
 <sense>
-непарламентарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непарламентарный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> неподобающий (о поведении, высказывании)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподобающий (о поведении, высказывании)</text></cit>
 </sense>
 </entry>
 </superEntry>

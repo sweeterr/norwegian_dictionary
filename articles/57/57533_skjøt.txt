@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-шов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шов</text></cit>
 </sense>
 <sense>
-стык, место соединения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стык, место соединения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">skjøt</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-лоно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоно</text></cit>
 <сit type="example"><text>jordens skjøt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недра земли</text></cit></cit>
 <сit type="example"><text>i familiens skjøt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в семейном кругу</text></cit></cit>
 <сit type="example"><text>sitte med hendene i skjøtet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть сложа руки</text></cit></cit>
@@ -32,10 +32,11 @@
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
 </form>
 <sense>
-фалда (на мужской одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фалда (на мужской одежде)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> шкот
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шкот</text></cit>
 </sense>
 </entry><entry>
 <index></index>

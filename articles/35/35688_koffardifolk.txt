@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">koffardifolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> <u>уст.</u> моряки (матросы) торгового флота
+<usg>собир.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моряки (матросы) торгового флота</text></cit>
 </sense>
 </entry>
 </superEntry>

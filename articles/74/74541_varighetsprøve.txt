@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">varighetsprøve</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>тех.</u> испытание на прочность
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытание на прочность</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kveldsverd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> ужин, вечерняя еда
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужин, вечерняя еда</text></cit>
 </sense>
 </entry>
 </superEntry>

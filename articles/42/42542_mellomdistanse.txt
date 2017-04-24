@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomdistanse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> средняя дистанция (в беге)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средняя дистанция (в беге)</text></cit>
 </sense>
 </entry>
 </superEntry>

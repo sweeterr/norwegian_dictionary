@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brok</orth>
 <inflection><orth>broka, brøker</orth></inflection>
-<u>диал.</u> штаны
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штаны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">brok</orth>
 <inflection><orth>broken, brøker</orth></inflection>
-<u>мор.</u> строп, буксирный канат
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строп, буксирный канат</text></cit>
 </sense>
 </entry>
 </superEntry>

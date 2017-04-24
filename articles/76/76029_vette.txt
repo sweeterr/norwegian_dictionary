@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vette</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> см. vete
+<usg>диал.</usg>
+<ref>vete</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">vette</orth>
 <inflection><orth extent="part">-n (-t), -r</orth></inflection>
-<u>фольк.</u> домовой, водяной, ведьма
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домовой, водяной, ведьма</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,14 +23,15 @@
 <form>
 <orth type="lemma">vette</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> см. lunne I
+<usg>диал.</usg>
+<ref>lunne I</ref>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vette</orth>
-lite vette <u>диал.</u> немножко, чуточку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>lite vette <lbl>диал.</lbl> немножко, чуточку</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,7 +39,8 @@ lite vette <u>диал.</u> немножко, чуточку
 <form>
 <orth type="lemma">vette</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> поднять паруса
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднять паруса</text></cit>
 </sense>
 </entry>
 </superEntry>

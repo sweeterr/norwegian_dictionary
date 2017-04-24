@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">humle</orth>
--n
-<u>бот.</u> хмель вьющийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-n</text></cit>
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хмель вьющийся</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> шмель
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шмель</text></cit>
 <сit type="example"><text>la humla suse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить ни о чём не заботясь, жить как птица небесная</text></cit></cit>
 </sense>
 <sense>
-<u>радио</u> зуммер
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зуммер</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +30,7 @@
 <form>
 <orth type="lemma">humle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-добавлять хмель в сусло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добавлять хмель в сусло</text></cit>
 </sense>
 </entry>
 </superEntry>

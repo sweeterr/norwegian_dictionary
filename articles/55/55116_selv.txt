@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">selv</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-собственное «я», сам «я»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собственное «я», сам «я»</text></cit>
 <сit type="example"><text>mitt eget selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мое «я»</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">selv</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-сам, сама, само
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сам, сама, само</text></cit>
 <сit type = "example"><text>seg selv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сам себя</text></cit></cit>
 <сit type = "example"><text>seg selv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> само по себе</text></cit></cit>
 <сit type="example"><text>med seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сам с собой</text></cit></cit>
@@ -37,7 +37,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(в начале предложения) даже</quote>
+<text>(в начале предложения) даже</text>
 </cit>
 <сit type="example"><text>selv den lille gutt ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже маленький мальчик ...</text></cit></cit>
 <сit type="example"><text>selv om ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже если ...</text></cit></cit>

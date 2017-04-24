@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">appellrett</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-право апелляции (обжалования)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право апелляции (обжалования)</text></cit>
 </sense>
 <sense>
-апелляционный суд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>апелляционный суд</text></cit>
 </sense>
 </entry>
 </superEntry>

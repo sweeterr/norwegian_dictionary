@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">Albania</orth>
-Албания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Албания</text></cit>
 <сit type="example"><text>Den albanske folkerepublikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Народная Республика Албания</text></cit></cit>
 </sense>
 </entry>

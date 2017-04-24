@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-бачок (для раздачи пищи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бачок (для раздачи пищи)</text></cit>
 </sense>
 <sense>
-бачковая группа (по расписанию по бачкам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бачковая группа (по расписанию по бачкам)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">bakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> бак
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">bakk</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>мор.</u> назад
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назад</text></cit>
 <сit type = "example"><text>slå bakk i maskinen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> давать задний ход</text></cit></cit>
 <сit type = "example"><text>slå bakk i maskinen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> задний ход! (команда по машинному телеграфу)</text></cit></cit>
 </sense>

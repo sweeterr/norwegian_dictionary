@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ris</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-рис
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рис</text></cit>
 <сit type="example"><text>dyrke ris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выращивать рис</text></cit></cit>
 </sense>
 </entry>
@@ -16,22 +16,22 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-ветки, молодая поросль, побег, веточка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветки, молодая поросль, побег, веточка</text></cit>
 </sense>
 <sense>
-хворост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хворост</text></cit>
 </sense>
 <sense>
-розга, розги (порка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>розга, розги (порка)</text></cit>
 <сit type="example"><text>få (ha) ris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить наказание розгами, быть высеченным розгой</text></cit></cit>
 <сit type="example"><text>gi ris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпороть (высечь) розгами</text></cit></cit>
 <сit type="example"><text>binde (lage) ris til egen bak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навлекать на себя беду</text></cit></cit>
 </sense>
 <sense>
-хвост кометы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвост кометы</text></cit>
 </sense>
 <sense>
-ботва картофеля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ботва картофеля</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,7 +39,7 @@
 <form>
 <orth type="lemma">ris</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-стопа (бумаги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стопа (бумаги)</text></cit>
 </sense>
 </entry>
 </superEntry>

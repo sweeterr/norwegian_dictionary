@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">moderspråk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-родной язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родной язык</text></cit>
 </sense>
 </entry>
 </superEntry>

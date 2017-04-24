@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-собирать (ягоды, фрукты, грибы), рвать (цветы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать (ягоды, фрукты, грибы), рвать (цветы)</text></cit>
 </sense>
 <sense>
-очищать (от кожуры, шелухи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очищать (от кожуры, шелухи)</text></cit>
 </sense>
 <sense>
-ощипывать (птицу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощипывать (птицу)</text></cit>
 <сit type="example"><text>plukke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>охорашиваться (о птице)</text></cit></cit>
 </sense>
 <sense>
-ощупывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощупывать</text></cit>
 </sense>
 <sense>
-выманивать (что-л. у кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выманивать (что-л. у кого-л.)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> обкрадывать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обкрадывать</text></cit>
 <сit type="example"><text>plukke itu (i stykker)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рвать на части, раздирать</text></cit></cit>
 <сit type="example"><text>plukke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собирать (в одно место)</text></cit></cit>
 <сit type="example"><text>plukke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбирать, отбирать</text></cit></cit>

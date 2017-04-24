@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">akkomodere seg</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-приспосабливаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приспосабливаться</text></cit>
 <сit type="example"><text>akkomodere seg etter forholdene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приспосабливаться к обстоятельствам</text></cit></cit>
 </sense>
 </entry>

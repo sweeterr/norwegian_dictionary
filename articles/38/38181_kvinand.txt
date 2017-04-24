@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvinand</orth>
 <inflection><orth extent="part">-anda (-anden), -ender</orth></inflection>
-<u>зоол.</u> гоголь
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гоголь</text></cit>
 </sense>
 </entry>
 </superEntry>

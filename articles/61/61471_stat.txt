@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-государство, держава
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>государство, держава</text></cit>
 <сit type="example"><text>på statens bekostning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на казённый счёт</text></cit></cit>
 <сit type="example"><text>fødererte stater</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>союзные (федеративные) государства</text></cit></cit>
 </sense>
 <sense>
-штат (административно-территориальная единица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штат (административно-территориальная единица)</text></cit>
 <сit type="example"><text>De forente stater</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Соединённые Штаты Америки</text></cit></cit>
 </sense>
 </entry>

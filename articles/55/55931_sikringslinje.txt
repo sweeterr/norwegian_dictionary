@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sikringslinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> линия боевого охранения
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия боевого охранения</text></cit>
 </sense>
 </entry>
 </superEntry>

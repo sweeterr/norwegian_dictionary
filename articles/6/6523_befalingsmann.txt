@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
 </form>
 <sense>
-должностное лицо, чиновник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должностное лицо, чиновник</text></cit>
 </sense>
 <sense>
-<u>воен.</u> командир, начальник
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командир, начальник</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-командный состав
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командный состав</text></cit>
 </sense>
 </entry>
 </superEntry>

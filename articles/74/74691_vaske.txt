@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-мыть, стирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мыть, стирать</text></cit>
 </sense>
 <sense>
-омывать (берег)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омывать (берег)</text></cit>
 </sense>
 <sense>
-смывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смывать</text></cit>
 <сit type="example"><text>vaske en mann over bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смыть человека за борт</text></cit></cit>
 </sense>
 <sense>
-<u>горн.</u> промывать руду
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промывать руду</text></cit>
 </sense>
 <sense>
-покачиваться на волнах, плыть качаясь на волнах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покачиваться на волнах, плыть качаясь на волнах</text></cit>
 <сit type="example"><text>vaske av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смывать (грязь, краску)</text></cit></cit>
 <сit type="example"><text>vaske ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> вымыть судно</text></cit></cit>
 <сit type="example"><text>vaske opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вымыть посуду</text></cit></cit>

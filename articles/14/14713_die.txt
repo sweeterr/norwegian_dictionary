@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">die</orth>
-молоко матери
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молоко матери</text></cit>
 <сit type="example"><text>få die</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получать молоко матери</text></cit></cit>
 <сit type="example"><text>gi die</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кормить (ребёнка) грудью</text></cit></cit>
 </sense>
@@ -16,10 +16,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сосать грудь (матери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сосать грудь (матери)</text></cit>
 </sense>
 <sense>
-кормить (ребёнка) грудью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормить (ребёнка) грудью</text></cit>
 </sense>
 </entry>
 </superEntry>

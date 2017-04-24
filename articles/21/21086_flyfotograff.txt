@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flyfotograff</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-фотографирование с воздуха, аэрофотосъёмка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фотографирование с воздуха, аэрофотосъёмка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">flyfotograff</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-аэрофотоснимок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аэрофотоснимок</text></cit>
 </sense>
 </entry>
 </superEntry>

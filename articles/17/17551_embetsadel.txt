@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">embetsadel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> служилое дворянство
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служилое дворянство</text></cit>
 </sense>
 </entry>
 </superEntry>

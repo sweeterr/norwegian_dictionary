@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">værballong</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>метеор.</u> шар-пилот, шар-зонд
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шар-пилот, шар-зонд</text></cit>
 </sense>
 </entry>
 </superEntry>

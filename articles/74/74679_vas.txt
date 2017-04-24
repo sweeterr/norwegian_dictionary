@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-болтовня, вздор, чепуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтовня, вздор, чепуха</text></cit>
 </sense>
 <sense>
-глупая выходка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупая выходка</text></cit>
 </sense>
 <sense>
-путаница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путаница</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">vas</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> болтун, пустомеля
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтун, пустомеля</text></cit>
 </sense>
 </entry>
 </superEntry>

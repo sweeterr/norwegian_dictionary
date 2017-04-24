@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-развитие, развёртывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развитие, развёртывание</text></cit>
 <сit type="example"><text>en sterk utvikling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бурное развитие</text></cit></cit>
 </sense>
 <sense>
-проявление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проявление</text></cit>
 </sense>
 <sense>
-<u>тех.</u> образование, генерация (пара), производство (тока)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образование, генерация (пара), производство (тока)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> рассредоточение, развёртывание
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассредоточение, развёртывание</text></cit>
 </sense>
 </entry>
 </superEntry>

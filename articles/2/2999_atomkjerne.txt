@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">atomkjerne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>физ.</u> атомное ядро
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атомное ядро</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-схема
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>схема</text></cit>
 <сit type="example"><text>gjøre noe etter et skjema</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать что-л. схематически (механически, бездушно)</text></cit></cit>
 </sense>
 <sense>
-анкета, бланк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анкета, бланк</text></cit>
 </sense>
 <sense>
-<u>эл.</u> монтажная схема
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>монтажная схема</text></cit>
 </sense>
 </entry>
 </superEntry>

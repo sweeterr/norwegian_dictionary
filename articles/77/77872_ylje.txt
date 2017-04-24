@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">ylje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подогревать, слегка разогревать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подогревать, слегка разогревать</text></cit>
 </sense>
 <sense>
-излучать тепло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>излучать тепло</text></cit>
 </sense>
 <sense>
-куриться (дымком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куриться (дымком)</text></cit>
 </sense>
 </entry>
 </superEntry>

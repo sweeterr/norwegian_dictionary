@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-бокал, кубок, <u>перен.</u> чаша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бокал, кубок, <lbl>перен.</lbl> чаша</text></cit>
 <сit type="example"><text>tømme et beger sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпивать в компании</text></cit></cit>
 <сit type="example"><text>svinge begrene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кутить, сильно пить</text></cit></cit>
 <сit type="example"><text>tømme lidelsens beger til bunns</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испить чашу страданий до дна</text></cit></cit>
@@ -15,7 +15,8 @@
 <сit type="example"><text>dette var den dråpe som fikk begeret til å flyte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это была та капля, которая переполнила чашу (терпения)</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> чашечка (цветка)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чашечка (цветка)</text></cit>
 </sense>
 </entry>
 </superEntry>

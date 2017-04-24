@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tidevann</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-прилив и отлив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилив и отлив</text></cit>
 </sense>
 <sense>
-приливо-отливное течение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приливо-отливное течение</text></cit>
 </sense>
 </entry>
 </superEntry>

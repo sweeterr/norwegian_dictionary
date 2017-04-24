@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-вручать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вручать</text></cit>
 <сit type="example"><text>levere tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возвращать (взятую вещь, книгу)</text></cit></cit>
 </sense>
 <sense>
-доставлять, поставлять (товар)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доставлять, поставлять (товар)</text></cit>
 </sense>
 <sense>
-приводить (доказательства), давать (пример), сдавать (статью в газету, журнал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить (доказательства), давать (пример), сдавать (статью в газету, журнал)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> сдавать (обмундирование, снаряжение)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать (обмундирование, снаряжение)</text></cit>
 </sense>
 </entry>
 </superEntry>

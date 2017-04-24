@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">akterrom</orth>
 <inflection><orth extent="part">-met, =</orth></inflection>
-<u>мор.</u> кормовой трюм
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормовой трюм</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">kjøttrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мясной (о скоте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мясной (о скоте)</text></cit>
 </sense>
 <sense>
-откормленный, упитанный (о скоте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откормленный, упитанный (о скоте)</text></cit>
 </sense>
 </entry>
 </superEntry>

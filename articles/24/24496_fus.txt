@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fus</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-начинающий игру, делающий первый ход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начинающий игру, делающий первый ход</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">fus</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страстно желающий, рьяный, проявляющий интерес (к чему-л. - etter)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страстно желающий, рьяный, проявляющий интерес (к чему-л. - etter)</text></cit>
 </sense>
 </entry>
 </superEntry>

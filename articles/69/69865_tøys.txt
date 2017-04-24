@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tøys</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-вздор, чепуха, чушь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздор, чепуха, чушь</text></cit>
 </sense>
 <sense>
-шалость, выходка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шалость, выходка</text></cit>
 </sense>
 </entry>
 </superEntry>

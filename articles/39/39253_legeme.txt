@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-тело, плоть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тело, плоть</text></cit>
 <сit type="example"><text>fremmede legemer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> инородные тела</text></cit></cit>
 <сit type="example"><text>gult legeme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> жёлтое тело</text></cit></cit>
 <сit type="example"><text>en sunn sjel i et sunt legeme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в здоровом теле - здоровый дух</text></cit></cit>
 </sense>
 <sense>
-фигура, человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фигура, человек</text></cit>
 </sense>
 <sense>
-<u>физ.</u> тело
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тело</text></cit>
 <сit type="example"><text>faste (flytende, gassformige) legemer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдые (жидкие, газообразные) тела</text></cit></cit>
 </sense>
 </entry>

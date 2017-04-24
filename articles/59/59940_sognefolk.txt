@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sognefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-жители одной волости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жители одной волости</text></cit>
 </sense>
 <sense>
-прихожане одного прихода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прихожане одного прихода</text></cit>
 </sense>
 </entry>
 </superEntry>

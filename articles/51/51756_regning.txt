@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-арифметика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арифметика</text></cit>
 <сit type="example"><text>undervise i regning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учить арифметике</text></cit></cit>
 </sense>
 <sense>
-расчёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расчёт</text></cit>
 <сit type="example"><text>etter min regning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по моим расчётам</text></cit></cit>
 <сit type="example"><text>gjøre én en strek i regningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опрокинуть все расчёты, нарушить чьи-л. планы</text></cit></cit>
 <сit type="example"><text>gjøre regning på noen (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассчитывать на кого-л. (что-л.)</text></cit></cit>
 <сit type="example"><text>gjøre regning med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>считаться с чем-л., учитывать что-л.</text></cit></cit>
 </sense>
 <sense>
-<u>бухг.</u> счёт
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счёт</text></cit>
 <сit type="example"><text>løpende regning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>текущий счёт</text></cit></cit>
 <сit type = "example"><text>for regning av (noen) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> за счёт (кого-л.)</text></cit></cit>
 <сit type = "example"><text>for regning av (noen) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> на текущий счёт (такого-то)</text></cit></cit>
@@ -28,7 +29,7 @@
 <сit type="example"><text>ta på regning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать в кредит</text></cit></cit>
 </sense>
 <sense>
-счёт (в ресторане, гостинице, за услуги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счёт (в ресторане, гостинице, за услуги)</text></cit>
 <сit type="example"><text>betale regninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оплачивать счета</text></cit></cit>
 <сit type="example"><text>skrive ut en regning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выписать счёт</text></cit></cit>
 </sense>

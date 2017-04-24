@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">osmundjern</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> болотный железняк
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болотный железняк</text></cit>
 </sense>
 </entry>
 </superEntry>

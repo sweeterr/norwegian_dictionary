@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frank</orth>
 <inflection><orth extent="part">-en, = (-s)</orth></inflection>
-франк (денежная единица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>франк (денежная единица)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,6 @@
 <form>
 <orth type="lemma">frank</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 <сit type="example"><text>fri og frank, frank og fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободный (вольный) как ветер</text></cit></cit>
 </sense>

@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-молоточек председателя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молоточек председателя</text></cit>
 </sense>
 <sense>
-деревянный молоток, колотушка, киянка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянный молоток, колотушка, киянка</text></cit>
 </sense>
 <sense>
-трамбовка, баба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамбовка, баба</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> клюшка (молоток) для игры в гольф
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клюшка (молоток) для игры в гольф</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,10 +27,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-стучать деревянным молотком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стучать деревянным молотком</text></cit>
 </sense>
 <sense>
-постучать председательским молоточком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постучать председательским молоточком</text></cit>
 <сit type="example"><text>klubbe ned en taler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лишать слова оратора</text></cit></cit>
 </sense>
 </entry>

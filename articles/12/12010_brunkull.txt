@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brunkull</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>геол.</u> бурый уголь, лигнит
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурый уголь, лигнит</text></cit>
 </sense>
 </entry>
 </superEntry>

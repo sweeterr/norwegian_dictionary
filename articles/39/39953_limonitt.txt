@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">limonitt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> бурый железняк, болотная руда
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурый железняк, болотная руда</text></cit>
 </sense>
 </entry>
 </superEntry>

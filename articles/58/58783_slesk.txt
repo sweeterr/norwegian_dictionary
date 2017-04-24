@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slesk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-подлиза, льстец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлиза, льстец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">slesk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-фальшивый, неискренний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальшивый, неискренний</text></cit>
 </sense>
 <sense>
-вкрадчивый, льстивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкрадчивый, льстивый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">yndlingsdikter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-любимый поэт, популярный поэт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любимый поэт, популярный поэт</text></cit>
 </sense>
 </entry>
 </superEntry>

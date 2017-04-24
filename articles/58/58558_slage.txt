@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slage</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прогуливаться, гулять, фланировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прогуливаться, гулять, фланировать</text></cit>
 </sense>
 <sense>
-идти зигзагами, шататься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти зигзагами, шататься</text></cit>
 </sense>
 </entry>
 </superEntry>

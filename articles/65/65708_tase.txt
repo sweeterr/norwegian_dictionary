@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tase</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тряпка, ветошь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тряпка, ветошь</text></cit>
 </sense>
 <sense>
-свёрнутый в бухту канат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свёрнутый в бухту канат</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">tase</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> бедняга
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бедняга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,13 +28,13 @@
 <form>
 <orth type="lemma">tase</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-слабеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабеть</text></cit>
 </sense>
 <sense>
-прихварывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прихварывать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fysak</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>презр.</u> тип, детина, верзила
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тип, детина, верзила</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">eruptiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-геол вулканический, изверженный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>геол вулканический, изверженный</text></cit>
 </sense>
 <sense>
-<u>мед.</u> сопровождаемый высыпанием сыпи
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопровождаемый высыпанием сыпи</text></cit>
 </sense>
 </entry>
 </superEntry>

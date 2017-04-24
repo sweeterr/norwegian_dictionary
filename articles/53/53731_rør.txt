@@ -7,49 +7,53 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-труба, трубка, трубочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труба, трубка, трубочка</text></cit>
 <сit type="example"><text>sveisede rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сварные трубы</text></cit></cit>
 <сit type="example"><text>valsede rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>катаные трубы</text></cit></cit>
 </sense>
 <sense>
-дымовая труба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымовая труба</text></cit>
 </sense>
 <sense>
-трубопровод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трубопровод</text></cit>
 </sense>
 <sense>
-телефонная трубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телефонная трубка</text></cit>
 <сit type="example"><text>henge røret på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повесить трубку</text></cit></cit>
 <сit type="example"><text>legge røret på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положить трубку</text></cit></cit>
 <сit type="example"><text>ta røret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снять трубку</text></cit></cit>
 </sense>
 <sense>
-тростник, камыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тростник, камыш</text></cit>
 </sense>
 <sense>
-соломинка (для питья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соломинка (для питья)</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> стройная девушка, «тростинка»
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стройная девушка, «тростинка»</text></cit>
 </sense>
 <sense>
-трость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трость</text></cit>
 </sense>
 <sense>
-<u>муз.</u> мундштук
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мундштук</text></cit>
 </sense>
 <sense>
-<u>анат.</u> тракт, канал (дыхательный, пищеварительный)
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тракт, канал (дыхательный, пищеварительный)</text></cit>
 <сit type="example"><text>det evstakiske rør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>евстахиева труба</text></cit></cit>
 </sense>
 <sense>
-радиолампа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радиолампа</text></cit>
 </sense>
 <sense>
-ствол (винтовки, орудия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ствол (винтовки, орудия)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> взрыватель, капсюль-детонатор
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыватель, капсюль-детонатор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -64,7 +68,8 @@
 <form>
 <orth type="lemma">rør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> чепуха, ерунда, болтовня
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чепуха, ерунда, болтовня</text></cit>
 </sense>
 </entry>
 </superEntry>

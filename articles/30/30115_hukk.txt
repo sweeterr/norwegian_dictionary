@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hukk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-крутой поворот, изгиб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой поворот, изгиб</text></cit>
 </sense>
 <sense>
-мыс (высоко поднимающийся над морем)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мыс (высоко поднимающийся над морем)</text></cit>
 </sense>
 </entry>
 </superEntry>

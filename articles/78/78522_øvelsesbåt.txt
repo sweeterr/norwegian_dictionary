@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">øvelsesbåt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> учебное судно
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебное судно</text></cit>
 </sense>
 </entry>
 </superEntry>

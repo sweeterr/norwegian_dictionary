@@ -4,22 +4,20 @@
 <index></index>
 <form>
 <orth type="lemma">drønne</orth>
-<inflection><orth extent="part">-net (-te), -net</orth></inflection>
- (
-<inflection><orth extent="part">-t</orth></inflection>
-)
+<inflection><orth extent="part">-net (-te), -net (-t)</orth></inflection>
 </form>
 <sense>
-грохотать (о пушках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грохотать (о пушках)</text></cit>
 </sense>
 <sense>
-гудеть (о медных трубах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гудеть (о медных трубах)</text></cit>
 </sense>
 <sense>
-резонировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резонировать</text></cit>
 </sense>
 <sense>
-<u>разг.</u> мычать (о коровах)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мычать (о коровах)</text></cit>
 </sense>
 </entry>
 </superEntry>

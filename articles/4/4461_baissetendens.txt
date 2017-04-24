@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">baissetendens</orth>
--en, -er
-<u>бирж.</u> тенденция к понижению
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-en, -er</text></cit>
+<usg>бирж.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тенденция к понижению</text></cit>
 </sense>
 </entry>
 </superEntry>

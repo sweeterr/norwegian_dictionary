@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">superfin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-высшего качества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшего качества</text></cit>
 </sense>
 <sense>
-сверхтонкий, тончайший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверхтонкий, тончайший</text></cit>
 </sense>
 </entry>
 </superEntry>

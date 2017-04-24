@@ -4,15 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">parre</orth>
--ret (-te), -ret (
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-ret (-te), -ret (</text></cit>
 <inflection><orth extent="part">-t</orth></inflection>
 )
 </form>
 <sense>
-ставить в пары, подбирать (размещать) попарно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ставить в пары, подбирать (размещать) попарно</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> спаривать
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спаривать</text></cit>
 </sense>
 </entry>
 </superEntry>

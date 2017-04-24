@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">kopiertelegraf</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-фототелеграф
-<u>уст.</u> бильдаппарат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фототелеграф</text></cit>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бильдаппарат</text></cit>
 </sense>
 </entry>
 </superEntry>

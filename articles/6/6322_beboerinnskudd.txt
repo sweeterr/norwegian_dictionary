@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beboerinnskudd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>экон.</u> депозит арендатора
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>депозит арендатора</text></cit>
 </sense>
 </entry>
 </superEntry>

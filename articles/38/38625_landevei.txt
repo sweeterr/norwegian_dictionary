@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">landevei</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-шоссе, большак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шоссе, большак</text></cit>
 <сit type="example"><text>følge den slagne landevei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти проторённой дорожкой</text></cit></cit>
 <сit type="example"><text>være like hen ad landeveien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть стандартным, неоригинальным, скучным (о выступлении, речи, докладе)</text></cit></cit>
 </sense>

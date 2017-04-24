@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-возбуждённость, взбудораженность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждённость, взбудораженность</text></cit>
 </sense>
 <sense>
-бред, бессвязный лепет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бред, бессвязный лепет</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +20,13 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-моросить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моросить</text></cit>
 </sense>
 <sense>
-брызгать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брызгать</text></cit>
 </sense>
 <sense>
-идти, падать (только о мелком сухом снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти, падать (только о мелком сухом снеге)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">yre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-кишеть, изобиловать (чем-л. - av, med)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кишеть, изобиловать (чем-л. - av, med)</text></cit>
 <сit type="example"><text>yre omkring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бродить (шататься) бесцельно</text></cit></cit>
 </sense>
 </entry>
@@ -43,7 +43,7 @@
 <form>
 <orth type="lemma">yre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-бредить, фантазировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бредить, фантазировать</text></cit>
 </sense>
 </entry>
 </superEntry>

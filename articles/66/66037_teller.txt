@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-счётчик (о человеке, приборе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счётчик (о человеке, приборе)</text></cit>
 </sense>
 <sense>
-<u>мат.</u> числитель
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>числитель</text></cit>
 </sense>
 </entry>
 </superEntry>

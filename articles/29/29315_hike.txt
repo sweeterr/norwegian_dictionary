@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hike</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-колебаться, мешкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колебаться, мешкать</text></cit>
 </sense>
 <sense>
-подыскивать слова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подыскивать слова</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">hike</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-стремиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стремиться</text></cit>
 <сit type="example"><text>hike etter (mot)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стремиться к чему-л.</text></cit></cit>
 </sense>
 </entry>

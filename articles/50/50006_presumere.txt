@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">presumere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>уст.</u> предполагать, допускать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предполагать, допускать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-оборот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборот</text></cit>
 </sense>
 <sense>
-поворот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворот</text></cit>
 <сit type = "example"><text>være seig (sen) i snuen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть неповоротливым</text></cit></cit>
 <сit type = "example"><text>være seig (sen) i snuen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть несообразительным</text></cit></cit>
 </sense>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">snu</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-хитрый, лукавый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый, лукавый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,16 +30,17 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-поворачивать, переворачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворачивать, переворачивать</text></cit>
 </sense>
 <sense>
-пересматривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пересматривать</text></cit>
 </sense>
 <sense>
-менять направление (о ветре), меняться (о погоде, метелях и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менять направление (о ветре), меняться (о погоде, метелях и т. п.)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> выходить (куда-л. - om, об окне)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выходить (куда-л. - om, об окне)</text></cit>
 <сit type="example"><text>snu innom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заходить, заглядывать</text></cit></cit>
 <сit type="example"><text>snu innpå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затрагивать, касаться (чего-л.)</text></cit></cit>
 <сit type="example"><text>snu om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>менять, изменять, переворачивать</text></cit></cit>

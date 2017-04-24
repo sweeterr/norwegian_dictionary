@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjernedeling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>биол.</u> деление клеточного ядра
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деление клеточного ядра</text></cit>
 </sense>
 </entry>
 </superEntry>

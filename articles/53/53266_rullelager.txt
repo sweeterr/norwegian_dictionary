@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rullelager</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>тех.</u> роликовый подшипник
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роликовый подшипник</text></cit>
 </sense>
 </entry>
 </superEntry>

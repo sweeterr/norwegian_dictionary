@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kladask</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> хлопок, шлепок (рукой, чем-л. плоским)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопок, шлепок (рукой, чем-л. плоским)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">kladask</orth>
 <gramGrp><pos>int</pos></gramGrp>
-шлёп, хлоп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёп, хлоп</text></cit>
 </sense>
 </entry>
 </superEntry>

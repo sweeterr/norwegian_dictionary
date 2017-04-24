@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">svip</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-внешнее (поверхностное) сходство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешнее (поверхностное) сходство</text></cit>
 </sense>
 <sense>
-характерная черта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>характерная черта</text></cit>
 </sense>
 </entry>
 </superEntry>

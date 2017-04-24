@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-край, кромка, ребро, грань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край, кромка, ребро, грань</text></cit>
 <сit type="example"><text>på kanten av bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на край стола</text></cit></cit>
 <сit type="example"><text>sette (stille) på kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить на ребро (на узкую сторону)</text></cit></cit>
 <сit type="example"><text>sitte på kanten av stolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на краешке стула</text></cit></cit>
 </sense>
 <sense>
-кайма, кант, бордюр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кайма, кант, бордюр</text></cit>
 </sense>
 <sense>
-сторона, местность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторона, местность</text></cit>
 <сit type="example"><text>fra disse kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из этих мест</text></cit></cit>
 <сit type="example"><text>på alle kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повсюду, везде</text></cit></cit>
 <сit type="example"><text>på disse kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в эти(х) места(х)</text></cit></cit>
@@ -28,7 +28,7 @@
 <index></index>
 <form>
 <orth type="lemma">kant</orth>
-<u>диал.</u>
+<usg>диал.</usg>
 <сit type="example"><text>kant i (om) kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кувырком, кубарем</text></cit></cit>
 <сit type="example"><text>komme på kant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)катиться</text></cit></cit>
 </sense>
@@ -38,7 +38,9 @@
 <form>
 <orth type="lemma">kant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мор.</u> <u>уст.</u> готов
+<usg>мор.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готов</text></cit>
 <сit type="example"><text>kant og klar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готов (о), в порядке</text></cit></cit>
 </sense>
 </entry>

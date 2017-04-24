@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">subb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> неряха (о мужчине)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряха (о мужчине)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,16 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-тяжёлая (медлительная) походка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлая (медлительная) походка</text></cit>
 </sense>
 <sense>
-грязная работа, нудная работа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязная работа, нудная работа</text></cit>
 </sense>
 <sense>
-щебёнка, мелкий щебень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щебёнка, мелкий щебень</text></cit>
 </sense>
 <sense>
-угольная мелочь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угольная мелочь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +33,7 @@
 <form>
 <orth type="lemma">subb</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-дефицит, недочёт, недостача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дефицит, недочёт, недостача</text></cit>
 </sense>
 </entry>
 </superEntry>

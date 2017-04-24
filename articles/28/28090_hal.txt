@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-волочение, тяга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волочение, тяга</text></cit>
 </sense>
 <sense>
-вытягивание, вытаскивание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытягивание, вытаскивание</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">hal</orth>
-<u>мор.</u> stop en hal - стой, стоп; <u>разг.</u> подожди минутку
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>stop en hal - стой, стоп; <lbl>разг.</lbl> подожди минутку</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">transpirasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>биол.</u>
+<usg>биол.</usg>
 </form>
 <sense>
-транспирация, испарение воды растением
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспирация, испарение воды растением</text></cit>
 </sense>
 <sense>
-потение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потение</text></cit>
 </sense>
 </entry>
 </superEntry>

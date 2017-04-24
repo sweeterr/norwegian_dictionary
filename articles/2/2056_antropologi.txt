@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">antropologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-антропология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антропология</text></cit>
 </sense>
 </entry>
 </superEntry>

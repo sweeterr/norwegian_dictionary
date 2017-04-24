@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
-взмах, размах, взлёт, <u>перен.</u> движение, ход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взмах, размах, взлёт, <lbl>перен.</lbl> движение, ход</text></cit>
 <сit type="example"><text>bringe (sette) i sving</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в движение (действие), налаживать</text></cit></cit>
 <сit type="example"><text>være i full sving</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти полным ходом, кипеть (о работе)</text></cit></cit>
 </sense>
 <sense>
-поворот (дороги), отклонение, изгиб, извилина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворот (дороги), отклонение, изгиб, извилина</text></cit>
 <сit type="example"><text>gjøre en sving</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать поворот</text></cit></cit>
 </sense>
 <sense>
-объезд, окольный путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объезд, окольный путь</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> поворот (на беговой дорожке, катке)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворот (на беговой дорожке, катке)</text></cit>
 <сit type="example"><text>indre (ytre) sving</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внутренняя (внешняя) дорожка на повороте</text></cit></cit>
 </sense>
 <sense>
-виньетка, завитушка, росчерк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виньетка, завитушка, росчерк</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,13 +34,13 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-взмах (рукой, палкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взмах (рукой, палкой)</text></cit>
 </sense>
 <sense>
-оборот, поворот (тела)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборот, поворот (тела)</text></cit>
 </sense>
 <sense>
-росчерк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>росчерк</text></cit>
 </sense>
 </entry>
 </superEntry>

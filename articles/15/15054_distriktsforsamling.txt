@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">distriktsforsamling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ист.</u> собрание выборщиков района
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание выборщиков района</text></cit>
 </sense>
 </entry>
 </superEntry>

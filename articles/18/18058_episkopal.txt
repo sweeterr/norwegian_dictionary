@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">episkopal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-епископский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>епископский</text></cit>
 </sense>
 </entry>
 </superEntry>

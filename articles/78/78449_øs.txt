@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">øs</orth>
 <inflection><orth>øsen</orth></inflection>
-ливень, сильный (кратковременный) дождь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ливень, сильный (кратковременный) дождь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,9 @@
 <form>
 <orth type="lemma">øs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> возбуждённый, взволнованный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждённый, взволнованный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hoppe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-кобыла
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кобыла</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-прыгать; скакать на месте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыгать; скакать на месте</text></cit>
 <сit type = "example"><text>hoppe over noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> перепрыгнуть через что-л.</text></cit></cit>
 <сit type = "example"><text>hoppe over noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пропустить что-л. (в рассказе и т л )</text></cit></cit>
 <сit type="example"><text>hoppe på ski</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать прыжки на лыжах</text></cit></cit>
 </sense>
 <sense>
-перескакивать с темы на тему
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перескакивать с темы на тему</text></cit>
 <сit type="example"><text>hoppe ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрыгивать</text></cit></cit>
 <сit type="example"><text>hoppe opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в(с)прыгивать</text></cit></cit>
 </sense>

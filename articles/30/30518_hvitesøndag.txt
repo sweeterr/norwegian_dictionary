@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hvitesøndag</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>церк.</u> «красная горка» (первое воскресенье после пасхи)
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«красная горка» (первое воскресенье после пасхи)</text></cit>
 </sense>
 </entry>
 </superEntry>

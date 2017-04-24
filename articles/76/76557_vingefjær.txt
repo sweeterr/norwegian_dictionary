@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vingefjær</orth>
 <inflection><orth extent="part">-en, =</orth></inflection>
-маховое перо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маховое перо</text></cit>
 <сit type="example"><text>klippe vingefjærene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подрезать крылья <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>

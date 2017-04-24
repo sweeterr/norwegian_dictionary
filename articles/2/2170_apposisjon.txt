@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">apposisjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> приложение, аппозиция
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приложение, аппозиция</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">talle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-утаптывать (землю), протаптывать (дорожку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утаптывать (землю), протаптывать (дорожку)</text></cit>
 </sense>
 <sense>
-топать, стучать (ногами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топать, стучать (ногами)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skaret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-покрытый настом (о снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрытый настом (о снеге)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skaret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-зазубренный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зазубренный</text></cit>
 </sense>
 </entry>
 </superEntry>

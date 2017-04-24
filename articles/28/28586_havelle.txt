@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">havelle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> морянка, или аулейка (см. isand)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морянка, или аулейка</text></cit>
+<ref>isand</ref>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-изгиб, выгиб, кривизна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб, выгиб, кривизна</text></cit>
 <сit type="example"><text>gjøre, (slå) bøy på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гнуться, изгибаться</text></cit></cit>
 </sense>
 <sense>
-загнутый конец (носок) лыжи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загнутый конец (носок) лыжи</text></cit>
 </sense>
 <sense>
-<u>тех.</u> колено трубы
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено трубы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,7 @@
 <form>
 <orth type="lemma">bøy</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-шквал, шквальный дождь (град)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шквал, шквальный дождь (град)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">landsnavn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-название государства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>название государства</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aksjemegler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>бирж.</u> биржевой маклер, фондовый маклер
+<usg>бирж.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>биржевой маклер, фондовый маклер</text></cit>
 </sense>
 </entry>
 </superEntry>

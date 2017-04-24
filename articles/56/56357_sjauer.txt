@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-грузчик, портовый рабочий, чернорабочий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузчик, портовый рабочий, чернорабочий</text></cit>
 </sense>
 <sense>
-<u>мор.</u> кноп (на конце троса)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кноп (на конце троса)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> верзила
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верзила</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagside</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>астр.</u> сторона планеты, обращенная к солнцу (освещенная солнцем)
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторона планеты, обращенная к солнцу (освещенная солнцем)</text></cit>
 </sense>
 </entry>
 </superEntry>

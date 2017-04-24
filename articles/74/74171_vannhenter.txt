@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-водонос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водонос</text></cit>
 </sense>
 <sense>
-<u>тех.</u> водозаборник, прибор для забора проб воды (на различных глубинах)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водозаборник, прибор для забора проб воды (на различных глубинах)</text></cit>
 </sense>
 </entry>
 </superEntry>

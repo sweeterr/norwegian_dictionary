@@ -4,17 +4,15 @@
 <index></index>
 <form>
 <orth type="lemma">ætte</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u>
+<inflection><orth extent="part">-t, -t</orth></inflection>
+<usg>уст.</usg>
 </form>
 <sense>
-происходить, вести свой род
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>происходить, вести свой род</text></cit>
 <сit type="example"><text>være ættet fra ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>происходить от ...</text></cit></cit>
 </sense>
 <sense>
-относиться к какому-л. периоду времени (о событии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относиться к какому-л. периоду времени (о событии)</text></cit>
 </sense>
 </entry>
 </superEntry>

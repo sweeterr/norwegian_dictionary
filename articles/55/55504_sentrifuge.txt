@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sentrifuge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> центрифуга, сепаратор центробежного действия
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>центрифуга, сепаратор центробежного действия</text></cit>
 </sense>
 </entry>
 </superEntry>

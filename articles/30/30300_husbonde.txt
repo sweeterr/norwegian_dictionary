@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-bonden, -bønder</orth></inflection>
 </form>
 <sense>
-хозяин дома, глава семьи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хозяин дома, глава семьи</text></cit>
 </sense>
 <sense>
-<u>ист.</u> землевладелец (обычно крестьянин)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>землевладелец (обычно крестьянин)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> муж
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муж</text></cit>
 </sense>
 </entry>
 </superEntry>

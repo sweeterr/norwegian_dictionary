@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-усталость, утомлённость, изморённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усталость, утомлённость, изморённость</text></cit>
 </sense>
 <sense>
-скука
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скука</text></cit>
 </sense>
 <sense>
-<u>тех.</u> усталость (материалов)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усталость (материалов)</text></cit>
 </sense>
 </entry>
 </superEntry>

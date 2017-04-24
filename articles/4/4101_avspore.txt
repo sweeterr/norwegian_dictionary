@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">avspore</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>ж.-д.</u>
+<usg>ж.-д.</usg>
 </form>
 <sense>
-сходить (сойти) с рельсов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сходить (сойти) с рельсов</text></cit>
 </sense>
 <sense>
-заставить сойти с рельсов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заставить сойти с рельсов</text></cit>
 </sense>
 </entry>
 </superEntry>

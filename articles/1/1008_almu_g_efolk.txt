@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">almu(g)efolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> сельские жители, сельское население
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сельские жители, сельское население</text></cit>
 </sense>
 </entry>
 </superEntry>

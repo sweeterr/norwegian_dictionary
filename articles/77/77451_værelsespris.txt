@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">værelsespris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-стоимость номера (в гостинице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоимость номера (в гостинице)</text></cit>
 </sense>
 </entry>
 </superEntry>

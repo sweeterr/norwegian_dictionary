@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">logge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-определять скорость судна (при помощи лага), проходить по лагу (о расстоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определять скорость судна (при помощи лага), проходить по лагу (о расстоянии)</text></cit>
 </sense>
 <sense>
-записывать в вахтенный журнал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записывать в вахтенный журнал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">logge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-наклоняться, крениться, гнуться назад (о мачте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наклоняться, крениться, гнуться назад (о мачте)</text></cit>
 </sense>
 </entry>
 </superEntry>

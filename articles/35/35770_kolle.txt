@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kolle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-круглая вершина (горы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглая вершина (горы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kolle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-бадья, бадейка, лохань, чан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бадья, бадейка, лохань, чан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">kolle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-комолая корова, лосиха, самка оленя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комолая корова, лосиха, самка оленя</text></cit>
 </sense>
 </entry>
 </superEntry>

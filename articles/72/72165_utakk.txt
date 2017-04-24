@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-неблагодарность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неблагодарность</text></cit>
 <сit type="example"><text>utakk er verdens lønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> мир платит чёрной неблагодарностью</text></cit></cit>
 </sense>
 </entry>

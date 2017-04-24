@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">berghall</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>поэт.</u> пещера
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пещера</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">berghall</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> склон горы, откос
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склон горы, откос</text></cit>
 </sense>
 </entry>
 </superEntry>

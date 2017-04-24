@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">are</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> орлан-белохвост
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орлан-белохвост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">are</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-см. åre III
+<ref>åre III</ref>
 </sense>
 </entry>
 </superEntry>

@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-лапа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лапа</text></cit>
 <сit type="example"><text>gi labb</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дай лапу (приказание собаке)</text></cit></cit>
 <сit type = "example"><text>suge på labben :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сосать лапу (о медведе)</text></cit></cit>
-<сit type = "example"><text>suge på labben :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> жить впроголодь, голодать</text></cit></cit>
+<сit type = "example"><text>suge på labben :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> жить впроголодь, голодать</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> рука, лапка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рука, лапка</text></cit>
 <сit type="example"><text>betale kontant på labben</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>платить наличными</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> теплый носок (надеваемый поверх чулок)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплый носок (надеваемый поверх чулок)</text></cit>
 </sense>
 </entry>
 </superEntry>

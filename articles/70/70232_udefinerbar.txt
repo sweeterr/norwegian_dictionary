@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">udefinerbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неопределимый, не поддающийся определению
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопределимый, не поддающийся определению</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">uskapelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бесформенный, несподручный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесформенный, несподручный</text></cit>
 </sense>
 <sense>
-неотёсанный, нескладный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неотёсанный, нескладный</text></cit>
 </sense>
 <sense>
-неподобающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподобающий</text></cit>
 </sense>
 <sense>
-несуразный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несуразный</text></cit>
 </sense>
 <sense>
-строптивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строптивый</text></cit>
 </sense>
 </entry>
 </superEntry>

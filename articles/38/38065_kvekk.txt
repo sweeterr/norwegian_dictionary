@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kvekk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-потрясение, испуг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрясение, испуг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,12 +15,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-писк, крик, выкрик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писк, крик, выкрик</text></cit>
 <сit type="example"><text>ikke gi et kvekk fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>даже не пискнуть</text></cit></cit>
 <сit type="example"><text>ikke si et kvekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не проронить ни слова</text></cit></cit>
 </sense>
 <sense>
-кваканье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кваканье</text></cit>
 </sense>
 </entry>
 <entry>

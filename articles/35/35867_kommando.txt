@@ -7,35 +7,37 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-командование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командование</text></cit>
 <сit type="example"><text>føre kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>командовать</text></cit></cit>
 <сit type="example"><text>overta (fratre, nedlegge) kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять на себя (сложить с себя) командование</text></cit></cit>
 </sense>
 <sense>
-командная инстанция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командная инстанция</text></cit>
 </sense>
 <sense>
-команда (солдат)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>команда (солдат)</text></cit>
 </sense>
 <sense>
-команда (устная), приказание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>команда (устная), приказание</text></cit>
 <сit type="example"><text>lystre kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выполнить приказание</text></cit></cit>
 </sense>
 <sense>
-контроль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контроль</text></cit>
 <сit type="example"><text>ha noe under sin kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>контролировать</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> управление
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление</text></cit>
 <сit type="example"><text>svikte kommando</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не слушаться управления</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> адмиральский флаг, флаг адмирала
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>адмиральский флаг, флаг адмирала</text></cit>
 <сit type="example"><text>heise kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять флаг (командующего эскадрой, соединением, кораблём)</text></cit></cit>
 <сit type="example"><text>stryke kommandoen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спустить флаг</text></cit></cit>
 </sense>
 <sense>
-военный округ (военная территориально-административная единица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>военный округ (военная территориально-административная единица)</text></cit>
 </sense>
 </entry>
 </superEntry>

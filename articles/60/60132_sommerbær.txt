@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sommerbær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-стельная летом (о корове)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стельная летом (о корове)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">aserbajdsjansk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-азербайджанский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>азербайджанский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">aserbajdsjansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-азербайджанский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>азербайджанский</text></cit>
 </sense>
 </entry>
 </superEntry>

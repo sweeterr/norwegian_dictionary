@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стоимость, ценность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоимость, ценность</text></cit>
 <сit type="example"><text>av stor (liten) verdi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий большую (малую) ценность</text></cit></cit>
 </sense>
 <sense>
-достоинство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достоинство</text></cit>
 </sense>
 <sense>
-<u>мат.</u> величина
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>величина</text></cit>
 <сit type="example"><text>midlere verdier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>средние величины</text></cit></cit>
 <сit type="example"><text>positive (negative) verdier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положительные (отрицательные) величины</text></cit></cit>
 </sense>

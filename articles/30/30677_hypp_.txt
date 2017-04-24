@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hypp!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-гоп!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гоп!</text></cit>
 </sense>
 </entry>
 </superEntry>

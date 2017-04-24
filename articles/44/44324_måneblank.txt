@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">måneblank</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-освещенный бледным светом луны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освещенный бледным светом луны</text></cit>
 </sense>
 </entry>
 </superEntry>

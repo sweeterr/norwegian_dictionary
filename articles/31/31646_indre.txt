@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-внутренняя часть, внутренность (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутренняя часть, внутренность (чего-л.)</text></cit>
 <сit type="example"><text>menneskets indre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> нутро</text></cit></cit>
 </sense>
 <sense>
-внутренний район (страны и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутренний район (страны и т. п.)</text></cit>
 </sense>
 <sense>
-недра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недра</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,8 +22,8 @@
 <form>
 <orth type="lemma">indre</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <inflection><orth>(komp innerst)</orth></inflection>
-внутренний
+<inflection><orth>(komp innerst)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутренний</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +31,7 @@
 <form>
 <orth type="lemma">indre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сшивать двойным скрытым швом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сшивать двойным скрытым швом</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bukspytt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>физиол.</u> панкреатин, сок поджелудочной железы
+<usg>физиол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панкреатин, сок поджелудочной железы</text></cit>
 </sense>
 </entry>
 </superEntry>

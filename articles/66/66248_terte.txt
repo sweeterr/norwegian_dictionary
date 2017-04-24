@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">terte</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-торт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">terte</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u> жеманница, ломака
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жеманница, ломака</text></cit>
 </sense>
 </entry>
 </superEntry>

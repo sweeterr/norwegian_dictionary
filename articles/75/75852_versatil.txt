@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">versatil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-многосторонний, гибкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многосторонний, гибкий</text></cit>
 </sense>
 </entry>
 </superEntry>

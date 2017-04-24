@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-волос, волосы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волос, волосы</text></cit>
 <сit type="example"><text>bløtt (forlorent)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шелковистые (накладные) волосы</text></cit></cit>
 <сit type="example"><text>brunt (hvitt, rødt) hår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каштановые (седые , рыжие) волосы</text></cit></cit>
 <сit type="example"><text>anlegge langt hår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отпускать длинные волосы</text></cit></cit>
@@ -20,7 +20,8 @@
 <сit type="example"><text>trekke noe etter hårene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>притягивать что-л. за волосы</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> волосок
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волосок</text></cit>
 <сit type="example"><text>henge i et hår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>висеть на волоске</text></cit></cit>
 <сit type="example"><text>hårene reiser seg på hans hode, hårene sto rett opp (rett til værs)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>волосы встали дыбом</text></cit></cit>
 <сit type="example"><text>ikke et hår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни капли, ни крошки</text></cit></cit>

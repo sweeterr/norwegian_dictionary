@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">ofse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-избыток, изобилие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избыток, изобилие</text></cit>
 </sense>
 <sense>
-преувеличение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преувеличение</text></cit>
 </sense>
 <sense>
-ненастье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненастье</text></cit>
 </sense>
 <sense>
-сильное наводнение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильное наводнение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,7 +25,8 @@
 <form>
 <orth type="lemma">ofse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> преувеличивать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преувеличивать</text></cit>
 </sense>
 </entry>
 </superEntry>

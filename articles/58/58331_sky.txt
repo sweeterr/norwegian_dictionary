@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-боязнь, страх (перед чем-л. - for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боязнь, страх (перед чем-л. - for)</text></cit>
 </sense>
 <sense>
-робость, застенчивость, смущение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>робость, застенчивость, смущение</text></cit>
 <сit type="example"><text>lyve uten sky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>врать без всякого смущения</text></cit></cit>
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-облако, туча
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облако, туча</text></cit>
 <сit type="example"><text>lette skyer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкие облака</text></cit></cit>
 <сit type="example"><text>tunge skyer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлые тучи</text></cit></cit>
 <сit type="example"><text>de magellanske skyer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>астр.</lbl> Магеллановы облака</text></cit></cit>
@@ -32,13 +32,13 @@
 <сit type="example"><text>være som fallen ned fra skyene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> как с неба свалиться</text></cit></cit>
 </sense>
 <sense>
-клуб, облако (дыма, пара, пыли и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клуб, облако (дыма, пара, пыли и т. п.)</text></cit>
 </sense>
 <sense>
-рой, туча (комаров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рой, туча (комаров)</text></cit>
 </sense>
 <sense>
-угроза, грозящая опасность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угроза, грозящая опасность</text></cit>
 <сit type="example"><text>rope (skrike, skråle) i villen sky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать (орать) во всё горло</text></cit></cit>
 <сit type="example"><text>sette (stikke) nesen høyt i sky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>важничать, задирать нос, заноситься</text></cit></cit>
 </sense>
@@ -50,11 +50,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-пугливый, боязливый (обычно о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пугливый, боязливый (обычно о животных)</text></cit>
 <сit type="example"><text>han var sky mennesker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он избегал людей</text></cit></cit>
 </sense>
 <sense>
-робкий, застенчивый, стеснительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>робкий, застенчивый, стеснительный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -64,11 +64,11 @@
 <inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 </form>
 <sense>
-бояться, опасаться, остерегаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бояться, опасаться, остерегаться</text></cit>
 <сit type="example"><text>ikke sky verken ild eller vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничего не бояться</text></cit></cit>
 </sense>
 <sense>
-избегать, сторониться, обходить стороной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избегать, сторониться, обходить стороной</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fortfare</orth>
 <inflection><orth extent="part">-for, -far(e)t</orth></inflection>
-<u>уст.</u> продолжать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продолжать</text></cit>
 </sense>
 </entry>
 </superEntry>

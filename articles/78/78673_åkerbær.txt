@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">åkerbær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>бот.</u> костяника арктическая, поленика, мамура, княженика
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костяника арктическая, поленика, мамура, княженика</text></cit>
 </sense>
 </entry>
 </superEntry>

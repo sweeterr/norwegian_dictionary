@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-глотка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глотка</text></cit>
 <сit type="example"><text>komme i den vrange strupe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в дыхательное горло (о пище)</text></cit></cit>
 <сit type="example"><text>en propp i strupen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>комок в горле</text></cit></cit>
 <сit type="example"><text>fukte strupen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> промочить горло, выпить вина</text></cit></cit>
 <сit type="example"><text>skjære strupen over på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перерезать кому-л. горло, зарезать кого-л.</text></cit></cit>
 </sense>
 <sense>
-узкое устье (фиорда), узкий вход в долину
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкое устье (фиорда), узкий вход в долину</text></cit>
 </sense>
 <sense>
-<u>воен.</u> узкий проход
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий проход</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,13 +28,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-хватать за горло, душить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватать за горло, душить</text></cit>
 </sense>
 <sense>
-создать затор, пробку (в уличном движении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>создать затор, пробку (в уличном движении)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> закрывать доступ (пару, газу и т. п.); перекрывать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрывать доступ (пару, газу и т. п.); перекрывать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begynnelseshastighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> начальная скорость
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальная скорость</text></cit>
 </sense>
 </entry>
 </superEntry>

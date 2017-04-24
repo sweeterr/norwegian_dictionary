@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-яма, выбоина, рытвина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яма, выбоина, рытвина</text></cit>
 </sense>
 <sense>
-облучок (в санях, повозке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облучок (в санях, повозке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-глухой звук (удара, падения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой звук (удара, падения)</text></cit>
 </sense>
 <sense>
-падение с глухим звуком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падение с глухим звуком</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,23 +31,22 @@
 <form>
 <orth type="lemma">dump</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глухой, приглушённый (о звуке, голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой, приглушённый (о звуке, голосе)</text></cit>
 </sense>
 <sense>
-тусклый (о свете, отблеске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тусклый (о свете, отблеске)</text></cit>
 </sense>
 <sense>
-тупой (о боли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупой (о боли)</text></cit>
 </sense>
 <sense>
-безжизненный, мёртвый (о тишине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безжизненный, мёртвый (о тишине)</text></cit>
 </sense>
 <sense>
-тяжёлый, давящий (о воздухе, атмосфере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый, давящий (о воздухе, атмосфере)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -55,7 +54,7 @@
 <form>
 <orth type="lemma">dump</orth>
 <gramGrp><pos>int</pos></gramGrp>
-шлёп, плюх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёп, плюх</text></cit>
 </sense>
 </entry>
 </superEntry>

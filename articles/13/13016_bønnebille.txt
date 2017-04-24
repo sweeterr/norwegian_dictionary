@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bønnebille</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> зерновка бобовая
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зерновка бобовая</text></cit>
 </sense>
 </entry>
 </superEntry>

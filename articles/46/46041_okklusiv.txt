@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">okklusiv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> смычный (взрывной) согласный звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смычный (взрывной) согласный звук</text></cit>
 </sense>
 </entry>
 </superEntry>

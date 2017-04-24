@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fallviser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ж.-д.</u> указатель уклона на дистанции
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указатель уклона на дистанции</text></cit>
 </sense>
 </entry>
 </superEntry>

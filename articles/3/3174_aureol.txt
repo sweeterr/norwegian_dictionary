@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aureol</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>метеор.</u> ореол (вокруг солнца, луны)
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ореол (вокруг солнца, луны)</text></cit>
 </sense>
 </entry>
 </superEntry>

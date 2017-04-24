@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">domsavsigelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-объявление решения (в гражданском процессе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объявление решения (в гражданском процессе)</text></cit>
 </sense>
 <sense>
-провозглашение приговора (в уголовном процессе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провозглашение приговора (в уголовном процессе)</text></cit>
 </sense>
 </entry>
 </superEntry>

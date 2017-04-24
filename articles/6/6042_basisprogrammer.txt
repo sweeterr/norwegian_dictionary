@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisprogrammer</orth>
 <gramGrp><num>pl</num></gramGrp>
-<u>комп.</u> базовое программное обеспечение
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базовое программное обеспечение</text></cit>
 </sense>
 </entry>
 </superEntry>

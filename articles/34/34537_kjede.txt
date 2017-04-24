@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-n (-t), -r</orth></inflection>
 </form>
 <sense>
-цепочка, цепь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепочка, цепь</text></cit>
 <сit type="example"><text>galvanisk kjede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гальваническая цепь</text></cit></cit>
 </sense>
 <sense>
-серия, ряд (событий)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серия, ряд (событий)</text></cit>
 </sense>
 <sense>
-гирлянда (цветов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гирлянда (цветов)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> цепочка (боевой порядок)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепочка (боевой порядок)</text></cit>
 </sense>
 <sense>
-цепь, гряда (гор, островов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепь, гряда (гор, островов)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,10 +31,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-скука
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скука</text></cit>
 </sense>
 <sense>
-<u>уст.</u> нежелание, неохота
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежелание, неохота</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,7 +43,7 @@
 <form>
 <orth type="lemma">kjede</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сцеплять, соединять в одну цепь (события)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сцеплять, соединять в одну цепь (события)</text></cit>
 <сit type="example"><text>kjede seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сцепляться, соединяться в одну цепь (в один ряд)</text></cit></cit>
 </sense>
 </entry>
@@ -50,7 +52,7 @@
 <form>
 <orth type="lemma">kjede</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вызывать скуку (у кого-л.), навевать тоску (на кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать скуку (у кого-л.), навевать тоску (на кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

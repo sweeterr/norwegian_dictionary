@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">basjkir</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-башкир, башкирка, башкирский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>башкир, башкирка, башкирский язык</text></cit>
 </sense>
 </entry>
 </superEntry>

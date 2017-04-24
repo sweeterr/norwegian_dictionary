@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ruelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u> раскаяние, покаяние
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскаяние, покаяние</text></cit>
 </sense>
 </entry>
 </superEntry>

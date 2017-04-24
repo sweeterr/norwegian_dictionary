@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">balstyring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-баловень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баловень</text></cit>
 </sense>
 <sense>
-необузданный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необузданный человек</text></cit>
 </sense>
 </entry>
 </superEntry>

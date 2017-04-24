@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">låme</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-тащить, волочить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тащить, волочить</text></cit>
 <сit type="example"><text>låme opp vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проложить путь по целине</text></cit></cit>
 </sense>
 </entry>

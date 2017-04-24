@@ -7,29 +7,33 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-удар (обо что-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар (обо что-л. - mot)</text></cit>
 <сit type="example"><text>ved anslaget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при ударе, в момент удара</text></cit></cit>
 </sense>
 <sense>
-козни, злой умысел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козни, злой умысел</text></cit>
 </sense>
 <sense>
-приблизительный расчёт, приблизительная оценка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приблизительный расчёт, приблизительная оценка</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> gi anslag på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намекнуть на что-л., указать что-л.</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> тише, удар
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тише, удар</text></cit>
 </sense>
 <sense>
-<u>мед.</u> положительная реакция (на прививку)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>положительная реакция (на прививку)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> удар, столкновение, падение (пули, снаряда)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар, столкновение, падение (пули, снаряда)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> укосина, упор, подкосина, распорная балка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укосина, упор, подкосина, распорная балка</text></cit>
 </sense>
 </entry>
 </superEntry>

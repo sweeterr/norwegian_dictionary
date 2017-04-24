@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">anemogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>метеор.</u> кривая изменения скорости ветра (на таблице)
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кривая изменения скорости ветра (на таблице)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningsrom</orth>
 <inflection><orth extent="part">-met, =</orth></inflection>
-<u>тех.</u> междусеточное пространство выходного резонатора (клистрона)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>междусеточное пространство выходного резонатора (клистрона)</text></cit>
 </sense>
 </entry>
 </superEntry>

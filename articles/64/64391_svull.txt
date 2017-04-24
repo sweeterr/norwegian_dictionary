@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svull</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-обледенение, гололедица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обледенение, гололедица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-опухоль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опухоль</text></cit>
 </sense>
 <sense>
-нарыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарыв</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">Blokksberg</orth>
-<u>геогр.</u> гора в центральной Германии - самая высокая вершина гор Гарц
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гора в центральной Германии - самая высокая вершина гор Гарц</text></cit>
 <сit type="example"><text>reis (dra) til Blokksberg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирайся ко всем чертям! пошёл к чёрту!, убирайся к чёрту!</text></cit></cit>
 </sense>
 </entry>

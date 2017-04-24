@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-математика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>математика</text></cit>
 <сit type="example"><text>anvendt matematikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прикладная математика</text></cit></cit>
 <сit type="example"><text>elementær (lavere) matematikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>элементарная математика</text></cit></cit>
 <сit type="example"><text>høyere matematikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высшая математика</text></cit></cit>
 </sense>
 <sense>
-учебник математики
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебник математики</text></cit>
 </sense>
 </entry>
 </superEntry>

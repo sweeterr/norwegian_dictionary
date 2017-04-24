@@ -5,31 +5,30 @@
 <form>
 <orth type="lemma">søt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сладкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сладкий</text></cit>
 </sense>
 <sense>
-сладостный, приятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сладостный, приятный</text></cit>
 </sense>
 <sense>
-милый, привлекательный, прелестный, очаровательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>милый, привлекательный, прелестный, очаровательный</text></cit>
 <сit type="example"><text>søte far</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>милый папа</text></cit></cit>
 <сit type="example"><text>søte deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>милый мой, милочка</text></cit></cit>
 </sense>
 <sense>
-нежный (о запахе, аромате), мягкий, ласкающий (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный (о запахе, аромате), мягкий, ласкающий (о звуке)</text></cit>
 </sense>
 <sense>
-свежий (о молоке), <u>уст.</u> пресный (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (о молоке), <lbl>уст.</lbl> пресный (о воде)</text></cit>
 </sense>
 <sense>
-тихий, чарующий (о вечере, ночи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихий, чарующий (о вечере, ночи)</text></cit>
 </sense>
 <sense>
-слащавый, манерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слащавый, манерный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balatarem</orth>
 <inflection><orth extent="part">-ma (-men), -mer</orth></inflection>
-<u>тех.</u> приводной ремень из балаты
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводной ремень из балаты</text></cit>
 </sense>
 </entry>
 </superEntry>

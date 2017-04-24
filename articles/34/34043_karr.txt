@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">karr</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-высокая спинка (стула)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокая спинка (стула)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">karr</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-лёгкий ветер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий ветер</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,17 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-<u>полигр.</u> высокая печать
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокая печать</text></cit>
 </sense>
 <sense>
-<u>тех.</u> высокое давление (пара)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокое давление (пара)</text></cit>
 <сit type="example"><text>arbeide under høytrykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напряжённо работать</text></cit></cit>
 </sense>
 <sense>
-<u>метеор.</u> высокое атмосферное давление, высокое гидростатическое давление
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокое атмосферное давление, высокое гидростатическое давление</text></cit>
 </sense>
 </entry>
 </superEntry>

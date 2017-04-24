@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ideal</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-идеал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идеал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">ideal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-идеальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идеальный</text></cit>
 </sense>
 </entry>
 </superEntry>

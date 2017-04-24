@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-предложение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предложение</text></cit>
 <сit type="example"><text>avslå (avvise, forkaste) et tilbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонить предложение</text></cit></cit>
 <сit type="example"><text>framkomme med et tilbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступить с предложением</text></cit></cit>
 <сit type="example"><text>gjøre et tilbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать предложение</text></cit></cit>
@@ -15,7 +15,8 @@
 <сit type="example"><text>vrake et tilbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провалить предложение</text></cit></cit>
 </sense>
 <sense>
-<u>эк.</u> предложение
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предложение</text></cit>
 <сit type="example"><text>tilbud og etterspørsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрос и предложение</text></cit></cit>
 </sense>
 </entry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">blåfrossen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-посиневший от холода, промёрзший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посиневший от холода, промёрзший</text></cit>
 </sense>
 </entry>
 </superEntry>

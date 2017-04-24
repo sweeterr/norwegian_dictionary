@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">varslingsord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> предварительная команда
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предварительная команда</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-выставка, экспозиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выставка, экспозиция</text></cit>
 <сit type="example"><text>på en utstilling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на выставке, на выставку</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> выставление охраны, назначение в наряд (в караул)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выставление охраны, назначение в наряд (в караул)</text></cit>
 <сit type="example"><text>sitte på utstilling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть у всех на виду</text></cit></cit>
 </sense>
 </entry>

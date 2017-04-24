@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vaps</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> наглец
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наглец</text></cit>
 </sense>
 </entry>
 </superEntry>

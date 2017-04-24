@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-база
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>база</text></cit>
 </sense>
 <sense>
-<u>хим.</u> основание
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,14 +21,14 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-возиться (с чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возиться (с чем-л.)</text></cit>
 </sense>
 <sense>
-кувыркаться, барахтаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кувыркаться, барахтаться</text></cit>
 <сit type="example"><text>base i sneen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>барахтаться в снегу</text></cit></cit>
 </sense>
 <sense>
-свалить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свалить</text></cit>
 </sense>
 </entry>
 </superEntry>

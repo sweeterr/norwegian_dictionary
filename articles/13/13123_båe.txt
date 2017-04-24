@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">båe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-подводные скалы, камни (над которыми пенится прибой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводные скалы, камни (над которыми пенится прибой)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">båe</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>диал.</u> оба, обе
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оба, обе</text></cit>
 </sense>
 </entry>
 </superEntry>

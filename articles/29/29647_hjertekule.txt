@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hjertekule</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u>
+<usg>мед.</usg>
 </form>
 <sense>
-солнечное сплетение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солнечное сплетение</text></cit>
 </sense>
 <sense>
-околосердечная полость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>околосердечная полость</text></cit>
 </sense>
 </entry>
 </superEntry>

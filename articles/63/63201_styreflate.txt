@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">styreflate</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ав.</u> элерон, руль высоты
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элерон, руль высоты</text></cit>
 </sense>
 </entry>
 </superEntry>

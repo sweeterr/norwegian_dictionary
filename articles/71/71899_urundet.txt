@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-не круглый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не круглый</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> нелабиализованный (о гласных)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нелабиализованный (о гласных)</text></cit>
 </sense>
 </entry>
 </superEntry>

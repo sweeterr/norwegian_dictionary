@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">bork</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-буланая лошадь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буланая лошадь</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bork</orth>
-<u>диал.</u> см. bark II
+<usg>диал.</usg>
+<ref>bark II</ref>
 </sense>
 </entry>
 </superEntry>

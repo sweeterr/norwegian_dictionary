@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-эталон, образец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эталон, образец</text></cit>
 </sense>
 <sense>
-нормальная температура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нормальная температура</text></cit>
 </sense>
 <sense>
-<u>мат.</u> перпендикуляр, нормаль
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перпендикуляр, нормаль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,17 +22,17 @@
 <form>
 <orth type="lemma">normal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-нормальный, обычный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нормальный, обычный</text></cit>
 </sense>
 <sense>
-средний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний</text></cit>
 </sense>
 <sense>
-<u>мат.</u> перпендикулярный
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перпендикулярный</text></cit>
 </sense>
 </entry>
 </superEntry>

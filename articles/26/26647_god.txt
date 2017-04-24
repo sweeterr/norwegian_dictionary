@@ -6,12 +6,11 @@
 <orth type="lemma">god</orth>
 <phon>|gu:|</phon>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
- <inflection><orth>(komp bedre, superl best)</orth></inflection>
+<inflection><orth>(komp bedre, superl best)</orth></inflection>
 </form>
 <sense>
-хороший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хороший</text></cit>
 <сit type="example"><text>bli god</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зажи(ва)ть (о ране)</text></cit></cit>
 <сit type="example"><text>holde seg for god til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>считать что-л. ниже своего достоинства</text></cit></cit>
 <сit type="example"><text>være god for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в состоянии, мочь</text></cit></cit>
@@ -20,38 +19,38 @@
 <сit type="example"><text>være godt om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изобиловать, быть достаточным</text></cit></cit>
 </sense>
 <sense>
-добрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добрый</text></cit>
 <сit type="example"><text>vær så god</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будьте так добры</text></cit></cit>
 </sense>
 <sense>
-вкусный, питательный (о пище, питье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкусный, питательный (о пище, питье)</text></cit>
 </sense>
 <sense>
-действенный (о лекарстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действенный (о лекарстве)</text></cit>
 </sense>
 <sense>
-приятный (о запахе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приятный (о запахе)</text></cit>
 </sense>
 <sense>
-художественный (о манере писать, о манере исполнения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>художественный (о манере писать, о манере исполнения)</text></cit>
 </sense>
 <sense>
-благоприятный (о ветре, перспективах), хороший (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благоприятный (о ветре, перспективах), хороший (о погоде)</text></cit>
 </sense>
 <sense>
-доходный (о месте), хорошо оплачиваемый (о должности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходный (о месте), хорошо оплачиваемый (о должности)</text></cit>
 </sense>
 <sense>
-значительный, порядочный (о количестве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значительный, порядочный (о количестве)</text></cit>
 </sense>
 <sense>
-почтенный (о людях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтенный (о людях)</text></cit>
 </sense>
 <sense>
-дельный, способный, ловкий, талантливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дельный, способный, ловкий, талантливый</text></cit>
 </sense>
 <sense>
-полноценный (о монете, векселе), настоящий, неподдельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полноценный (о монете, векселе), настоящий, неподдельный</text></cit>
 </sense>
 </entry>
 </superEntry>

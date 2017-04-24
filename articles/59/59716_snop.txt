@@ -13,7 +13,9 @@
 <form>
 <orth type="lemma">snop</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>собир.</u> <u>разг.</u> лакомства, сласти
+<usg>собир.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лакомства, сласти</text></cit>
 </sense>
 </entry>
 </superEntry>

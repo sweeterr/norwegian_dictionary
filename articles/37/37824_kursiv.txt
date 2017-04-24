@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kursiv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-курсив, курсивный шрифт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курсив, курсивный шрифт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">kursiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-курсивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курсивный</text></cit>
 </sense>
 </entry>
 </superEntry>

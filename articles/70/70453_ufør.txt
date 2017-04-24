@@ -5,21 +5,20 @@
 <form>
 <orth type="lemma">ufør</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-непроходимый, непроезжий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непроходимый, непроезжий</text></cit>
 </sense>
 <sense>
-неисправный (о средствах передвижения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неисправный (о средствах передвижения)</text></cit>
 </sense>
 <sense>
-недвижимый, неподвижный, немощный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недвижимый, неподвижный, немощный</text></cit>
 </sense>
 <sense>
-нетрудоспособный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нетрудоспособный</text></cit>
 </sense>
 </entry>
 </superEntry>

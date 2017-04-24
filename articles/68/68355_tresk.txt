@@ -7,13 +7,15 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-хитрый, коварный, лживый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый, коварный, лживый</text></cit>
 </sense>
 <sense>
-<u>диал.</u> своенравный, строптивый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своенравный, строптивый</text></cit>
 </sense>
 <sense>
-<u>диал.</u> затруднительный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительный</text></cit>
 </sense>
 </entry>
 </superEntry>

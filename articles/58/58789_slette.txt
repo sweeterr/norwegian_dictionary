@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slette</orth>
 <inflection><orth extent="part">-а (-en), -er</orth></inflection>
-равнина, ровная местность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнина, ровная местность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">slette</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>диал.</u> см. sludd
+<usg>диал.</usg>
+<ref>sludd</ref>
 </sense>
 </entry>
 <entry>
@@ -23,17 +24,18 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-выравнивать, сравнивать, сглаживать, разгладить (складки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать, сравнивать, сглаживать, разгладить (складки)</text></cit>
 </sense>
 <sense>
-обрабатывать, отшлифовывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрабатывать, отшлифовывать</text></cit>
 </sense>
 <sense>
-вычёркивать, аннулировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вычёркивать, аннулировать</text></cit>
 <сit type="example"><text>slette ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожать полностью, искоренять</text></cit></cit>
 </sense>
 <sense>
-<u>комп.</u> удалять (файл, данные)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удалять (файл, данные)</text></cit>
 </sense>
 </entry>
 </superEntry>

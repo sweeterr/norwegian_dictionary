@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">semantikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лингв.</u> семантика, семасиология
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>семантика, семасиология</text></cit>
 </sense>
 </entry>
 </superEntry>

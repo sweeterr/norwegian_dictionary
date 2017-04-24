@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
-пустое пространство, пустота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустое пространство, пустота</text></cit>
 </sense>
 <sense>
-<u>физ.</u> вакуум
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вакуум</text></cit>
 </sense>
 <sense>
-<u>анат.</u> полость
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полость</text></cit>
 </sense>
 </entry>
 </superEntry>

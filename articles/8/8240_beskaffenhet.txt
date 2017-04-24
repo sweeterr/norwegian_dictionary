@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">beskaffenhet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-свойство, качество, природа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свойство, качество, природа</text></cit>
 <сit type="example"><text>etter sakens beskaffenhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по природе вещей, по существу, смотря по обстоятельствам</text></cit></cit>
 </sense>
 </entry>

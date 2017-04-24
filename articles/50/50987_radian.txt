@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">radian</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> радиан
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радиан</text></cit>
 </sense>
 </entry>
 </superEntry>

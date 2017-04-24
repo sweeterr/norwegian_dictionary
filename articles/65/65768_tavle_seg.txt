@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tavle seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> разорваться в клочья, истрепаться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разорваться в клочья, истрепаться</text></cit>
 </sense>
 </entry>
 </superEntry>

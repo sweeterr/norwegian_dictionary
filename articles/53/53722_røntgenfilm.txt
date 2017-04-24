@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">røntgenfilm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-рентгеновская плёнка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рентгеновская плёнка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-изменение, перемена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изменение, перемена</text></cit>
 </sense>
 <sense>
-смена (белья и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смена (белья и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">omskifte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-менять, изменять, обменять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менять, изменять, обменять</text></cit>
 </sense>
 </entry>
 </superEntry>

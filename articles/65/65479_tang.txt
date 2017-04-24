@@ -7,10 +7,10 @@
 <inflection><orth>tanga (tangen), tenger</orth></inflection>
 </form>
 <sense>
-щипцы, клещи, кусачки, плоскогубцы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щипцы, клещи, кусачки, плоскогубцы</text></cit>
 </sense>
 <sense>
-ригель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ригель</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> <lbl>воен.</lbl> ta i en tang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зажимать в клещи (о войсках)</text></cit></cit>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">tang</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>бот.</u> взморник, или застера, или морская трава
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взморник, или застера, или морская трава</text></cit>
 </sense>
 </entry>
 </superEntry>

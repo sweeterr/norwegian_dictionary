@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ryddemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> корчевальная машина
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корчевальная машина</text></cit>
 </sense>
 </entry>
 </superEntry>

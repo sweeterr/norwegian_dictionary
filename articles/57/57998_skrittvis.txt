@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">skrittvis</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-постепенный, равномерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постепенный, равномерный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +14,7 @@
 <form>
 <orth type="lemma">skrittvis</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-шаг за шагом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаг за шагом</text></cit>
 </sense>
 </entry>
 </superEntry>

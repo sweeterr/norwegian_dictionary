@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">yndlingsbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-любимая книга, популярная книга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любимая книга, популярная книга</text></cit>
 </sense>
 </entry>
 </superEntry>

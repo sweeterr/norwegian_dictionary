@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">synkronkompensator</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>тех.</u> синхронный компенсатор
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синхронный компенсатор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-дракон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дракон</text></cit>
 <сit type="example"><text>gloende drage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> комета</text></cit></cit>
 </sense>
 <sense>
-(воздушный) змей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(воздушный) змей</text></cit>
 <сit type="example"><text>sette opp drage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запускать змея</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> злая сварливая женщина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злая сварливая женщина</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> яхта класса «дракон»
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яхта класса «дракон»</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +28,7 @@
 <form>
 <orth type="lemma">drage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-конопатить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конопатить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +36,8 @@
 <form>
 <orth type="lemma">drage</orth>
 <inflection><orth>dro, dradd</orth></inflection>
-<u>уст.</u> см. dra
+<usg>уст.</usg>
+<ref>dra</ref>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">debetside</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ком.</u> левая страница счёта в бухгалтерской книге, дебет
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>левая страница счёта в бухгалтерской книге, дебет</text></cit>
 <сit type="example"><text>anføre noe på ens debetside</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассматривать что-л. как чей-л. недостаток</text></cit></cit>
 </sense>
 </entry>

@@ -7,22 +7,22 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-пластинка, плитка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пластинка, плитка</text></cit>
 </sense>
 <sense>
-плита (каменная), доска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плита (каменная), доска</text></cit>
 </sense>
 <sense>
-электроплитка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электроплитка</text></cit>
 </sense>
 <sense>
-фотографическая пластинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фотографическая пластинка</text></cit>
 </sense>
 <sense>
-грампластинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грампластинка</text></cit>
 </sense>
 <sense>
-крышка (клапан) раздвижного стола
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крышка (клапан) раздвижного стола</text></cit>
 <сit type="example"><text>slå en plate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> рассказывать сказки, небылицы, морочить голову</text></cit></cit>
 </sense>
 </entry>
@@ -33,10 +33,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-обшивать листовым металлом (бронёй)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обшивать листовым металлом (бронёй)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> обманывать, одурачивать, водить за нос
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обманывать, одурачивать, водить за нос</text></cit>
 </sense>
 </entry>
 </superEntry>

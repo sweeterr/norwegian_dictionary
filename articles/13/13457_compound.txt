@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">compound</orth>
 <phon>|'kompaund|</phon>
-<u>тех.</u> компаунд
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компаунд</text></cit>
 </sense>
 </entry>
 </superEntry>

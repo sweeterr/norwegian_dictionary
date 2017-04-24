@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-характеристика, обрисовка, характерные черты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>характеристика, обрисовка, характерные черты</text></cit>
 </sense>
 <sense>
-<u>мат.</u> характеристика (логарифма)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>характеристика (логарифма)</text></cit>
 </sense>
 </entry>
 </superEntry>

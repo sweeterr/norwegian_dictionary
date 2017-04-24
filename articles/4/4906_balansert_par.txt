@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balansert par</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эл.тех.</u> симметричная двухпроводная линия
+<usg>эл.тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>симметричная двухпроводная линия</text></cit>
 </sense>
 </entry>
 </superEntry>

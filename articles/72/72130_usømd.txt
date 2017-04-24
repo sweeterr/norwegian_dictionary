@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">usømd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> неприличие, непристойность
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприличие, непристойность</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sjask</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-густая (липкая) грязь, слякоть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густая (липкая) грязь, слякоть</text></cit>
 </sense>
 <sense>
-нерадивость, небрежность, халатность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерадивость, небрежность, халатность</text></cit>
 </sense>
 <sense>
-небрежная работа, халтура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небрежная работа, халтура</text></cit>
 </sense>
 </entry>
 </superEntry>

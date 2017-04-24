@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-вступление, присоединение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вступление, присоединение</text></cit>
 </sense>
 <sense>
-одобрение, поддержка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одобрение, поддержка</text></cit>
 <сit type="example"><text>finne tilslutning hos noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находить поддержку у кого-л.</text></cit></cit>
 </sense>
 <sense>
-приток, наплыв (людей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приток, наплыв (людей)</text></cit>
 </sense>
 <sense>
-связь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связь</text></cit>
 <сit type="example"><text>i tilslutning til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в связи с ..., в дополнение к ...</text></cit></cit>
 </sense>
 <sense>
-<u>фон.</u> примыкание, присоединение
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примыкание, присоединение</text></cit>
 </sense>
 </entry>
 </superEntry>

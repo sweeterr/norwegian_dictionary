@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">useende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>перен.</u> невидящий
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невидящий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-взгляд, взор, выражение глаз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взгляд, взор, выражение глаз</text></cit>
 <сit type="example"><text>ha et fast blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь твёрдый взгляд</text></cit></cit>
 <сit type="example"><text>et bebreidende blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>укоризненный взгляд</text></cit></cit>
 <сit type="example"><text>et flyktig blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый (беглый) взгляд</text></cit></cit>
@@ -19,7 +19,7 @@
 <сit type="example"><text>slå blikket ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опустить глаза</text></cit></cit>
 </sense>
 <sense>
-смётка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смётка</text></cit>
 <сit type="example"><text>ha et skarpt blikk for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь смётку (хватку) на что-л.</text></cit></cit>
 <сit type="example"><text>ha et blikk på livets gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбираться в житейских делах</text></cit></cit>
 </sense>
@@ -31,10 +31,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-блик, отблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блик, отблеск</text></cit>
 </sense>
 <sense>
-белое пятно (на чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белое пятно (на чём-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -44,11 +44,12 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-жесть, листовое железо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жесть, листовое железо</text></cit>
 <сit type="example"><text>av blikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жестяной</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> духовой инструмент
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>духовой инструмент</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stanse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> штамп, пресс
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штамп, пресс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,14 +16,14 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-останавливаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>останавливаться</text></cit>
 <сit type="example"><text>stans!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стой!</text></cit></cit>
 </sense>
 <sense>
-останавливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>останавливать</text></cit>
 </sense>
 <sense>
-прекращать свою деятельность, закрываться (о предприятии, банке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекращать свою деятельность, закрываться (о предприятии, банке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,13 +31,13 @@
 <form>
 <orth type="lemma">stanse</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-штамповать (тж. stanse ut), чеканить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штамповать (тж. stanse ut), чеканить</text></cit>
 </sense>
 <sense>
-вырезать (вырубать) из листа штамповкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырезать (вырубать) из листа штамповкой</text></cit>
 </sense>
 </entry>
 </superEntry>

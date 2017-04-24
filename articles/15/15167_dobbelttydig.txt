@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-двусмысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двусмысленный</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> двузначный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двузначный</text></cit>
 </sense>
 </entry>
 </superEntry>

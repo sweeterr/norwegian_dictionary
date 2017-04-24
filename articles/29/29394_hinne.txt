@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-плёнка, оболочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плёнка, оболочка</text></cit>
 </sense>
 <sense>
-плева, перепонка, <u>мед.</u> мембрана
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плева, перепонка, <lbl>мед.</lbl> мембрана</text></cit>
 </sense>
 <sense>
-<u>бот.</u> надкожица
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надкожица</text></cit>
 </sense>
 <sense>
-<u>диал.</u> пенка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пенка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knert</orth>
 <inflection><orth extent="part">-en (-et), =</orth></inflection>
-толчок, пинок, удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчок, пинок, удар</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">knert</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> стопка водки (коньяку)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стопка водки (коньяку)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +22,10 @@
 <form>
 <orth type="lemma">knert</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-мальчуган, коротыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мальчуган, коротыш</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> en liten knert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто маленькое</text></cit></cit>

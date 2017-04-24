@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">knåse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шелестеть, шуршать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелестеть, шуршать</text></cit>
 </sense>
 <sense>
-шептаться, перешёптываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шептаться, перешёптываться</text></cit>
 </sense>
 </entry>
 </superEntry>

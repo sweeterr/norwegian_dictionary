@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kursnotering</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-котировка ценностей (на бирже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>котировка ценностей (на бирже)</text></cit>
 </sense>
 </entry>
 </superEntry>

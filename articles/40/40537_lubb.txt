@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> толстяк
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстяк</text></cit>
 </sense>
 </entry>
 </superEntry>

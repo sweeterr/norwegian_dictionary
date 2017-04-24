@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-рассвет, заря <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассвет, заря <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-бледный свет восходящей луны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледный свет восходящей луны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">gry</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>поэт.</u> рассветать
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассветать</text></cit>
 <сit type="example"><text>dagen gryr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светает</text></cit></cit>
 <сit type = "example"><text>det gryr :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> светает</text></cit></cit>
 <сit type = "example"><text>det gryr :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> дело идёт к (лету, осени - mot)</text></cit></cit>

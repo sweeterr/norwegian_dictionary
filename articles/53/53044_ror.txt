@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ror</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-гребля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребля</text></cit>
 </sense>
 <sense>
-выход (в лодке) на рыбную ловлю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выход (в лодке) на рыбную ловлю</text></cit>
 <сit type="example"><text>ligge til rors</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить на рыбную ловлю</text></cit></cit>
 <сit type="example"><text>være i ror med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить вместе с кем-л. на рыбную ловлю</text></cit></cit>
 </sense>
@@ -23,7 +23,8 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> руль, штурвал
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руль, штурвал</text></cit>
 <сit type="example"><text>babord med ror!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лево руля! (команда)</text></cit></cit>
 <сit type="example"><text>styrbord med ror!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право руля! (команда)</text></cit></cit>
 <сit type="example"><text>gi ror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положить руля</text></cit></cit>
@@ -36,12 +37,14 @@
 <сit type="example"><text>ta første ror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на передних вёслах</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> кормило правления
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормило правления</text></cit>
 <сit type="example"><text>gripe (ta) roret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать у кормила правления, оказаться у власти</text></cit></cit>
 <сit type="example"><text>komme til roret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти к власти</text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> руль поворота, руль направления
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руль поворота, руль направления</text></cit>
 </sense>
 </entry>
 </superEntry>

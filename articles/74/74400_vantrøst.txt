@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vantrøst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> подавленность, уныние, упадок духа
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленность, уныние, упадок духа</text></cit>
 </sense>
 </entry>
 </superEntry>

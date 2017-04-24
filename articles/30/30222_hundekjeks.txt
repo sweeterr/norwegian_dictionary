@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hundekjeks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-галеты для собак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галеты для собак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">hundekjeks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> купырь лесной
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купырь лесной</text></cit>
 </sense>
 </entry>
 </superEntry>

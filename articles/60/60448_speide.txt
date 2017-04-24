@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-внимательно разглядывать, наблюдать (тж. speide på) (за кем, чем-л. - etter)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внимательно разглядывать, наблюдать (тж. speide på) (за кем, чем-л. - etter)</text></cit>
 </sense>
 <sense>
-искать глазами, высматривать, выслеживать, шпионить (за кем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искать глазами, высматривать, выслеживать, шпионить (за кем-л.)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> разведывать, проводить рекогносцировку
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывать, проводить рекогносцировку</text></cit>
 <сit type="example"><text>speide ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочёсывать, разведывать</text></cit></cit>
 <сit type="example"><text>speide ut over havet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть вдаль на море, всматриваться вдаль</text></cit></cit>
 </sense>

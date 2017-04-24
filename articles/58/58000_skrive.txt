@@ -7,7 +7,7 @@
 <inflection><orth>skre(i)v, skrevet</orth></inflection>
 </form>
 <sense>
-писать, записывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писать, записывать</text></cit>
 <сit type="example"><text>hva (dato) skriver vi i dag?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какое сегодня число?</text></cit></cit>
 <сit type="example"><text>skrive på maskin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать (печатать) на пишущей машинке</text></cit></cit>
 <сit type="example"><text>skrive en pen hånd (skrift)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать красиво, иметь красивый почерк</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>skrive seg fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести своё происхождение, происходить (от кого-л.)</text></cit></cit>
 </sense>
 <sense>
-записывать на чей-л. счёт (тж. skrive noe på én)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записывать на чей-л. счёт (тж. skrive noe på én)</text></cit>
 </sense>
 <sense>
-сочинять (литературное, научное, музыкальное произведение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочинять (литературное, научное, музыкальное произведение)</text></cit>
 <сit type="example"><text>skrive av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>списывать, переписывать</text></cit></cit>
 <сit type="example"><text>skrive inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вписывать, заносить (в книгу, протокол), регистрировать</text></cit></cit>
 <сit type="example"><text>skrive seg inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записываться</text></cit></cit>
@@ -36,7 +36,7 @@
 <сit type = "example"><text>skrive ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> призывать (в армию)</text></cit></cit>
 <сit type = "example"><text>skrive ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> налагать налог, облагать налогом</text></cit></cit>
 <сit type = "example"><text>skrive ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> предписывать</text></cit></cit>
-<сit type = "example"><text>skrive ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>комп.</u> печатать</text></cit></cit>
+<сit type = "example"><text>skrive ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>комп.</lbl> печатать</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

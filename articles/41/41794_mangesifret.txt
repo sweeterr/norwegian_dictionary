@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mangesifret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мат.</u> многозначный (о числе)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многозначный (о числе)</text></cit>
 </sense>
 </entry>
 </superEntry>

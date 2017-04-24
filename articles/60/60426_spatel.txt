@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spatel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>жив.</u> шпатель
+<usg>жив.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпатель</text></cit>
 </sense>
 </entry>
 </superEntry>

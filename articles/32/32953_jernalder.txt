@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jernalder</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>археол.</u> железный век
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>железный век</text></cit>
 </sense>
 </entry>
 </superEntry>

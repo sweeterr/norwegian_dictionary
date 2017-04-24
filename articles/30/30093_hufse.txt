@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hufse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подёргивать плечами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подёргивать плечами</text></cit>
 </sense>
 <sense>
-двигаться рывками (неровно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться рывками (неровно)</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> hufse på seg klærne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>набросить, быстро надеть (одежду)</text></cit></cit>

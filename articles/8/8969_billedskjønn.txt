@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">billedskjønn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-красивый (как картинка), очень красивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый (как картинка), очень красивый</text></cit>
 </sense>
 <sense>
-писаная (о красавице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писаная (о красавице)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">vulgær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-вульгарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вульгарный</text></cit>
 </sense>
 <sense>
-опрощённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опрощённый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,13 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">ungfolk</orth>
-<u>собир.</u> <u>диал.</u>
+<usg>собир.</usg>
+<usg>диал.</usg>
 </form>
 <sense>
-молодёжь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодёжь</text></cit>
 </sense>
 <sense>
-молодожёны, молодые
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодожёны, молодые</text></cit>
 </sense>
 </entry>
 </superEntry>

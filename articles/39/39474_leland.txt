@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">leland</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> подветренный берег
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подветренный берег</text></cit>
 </sense>
 </entry>
 </superEntry>

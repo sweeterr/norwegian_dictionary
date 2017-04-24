@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">framslenge</orth>
 <inflection><orth extent="part">-а (-en), -er</orth></inflection>
-<u>разг.</u> девочка-подросток
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девочка-подросток</text></cit>
 </sense>
 </entry>
 </superEntry>

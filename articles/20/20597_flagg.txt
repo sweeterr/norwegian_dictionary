@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-флаг, знамя, вымпел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флаг, знамя, вымпел</text></cit>
 <сit type="example"><text>det gule flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтый флаг (знак карантина)</text></cit></cit>
 <сit type="example"><text>det hvite flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белый флаг (знак капитуляции, сдачи)</text></cit></cit>
 <сit type="example"><text>det re(i)ne flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский национальный флаг (без эмблемы унии со Швецией)</text></cit></cit>
@@ -21,7 +21,7 @@
 <сit type="example"><text>vise flagget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> показать флаг</text></cit></cit>
 </sense>
 <sense>
-с определённым артиклем - главнокомандующий флотом (и его штаб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с определённым артиклем - главнокомандующий флотом (и его штаб)</text></cit>
 <сit type="example"><text>seile under falsk flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдавать себя за другого ( <lbl>букв.</lbl> плыть под чужим флагом)</text></cit></cit>
 </sense>
 </entry>

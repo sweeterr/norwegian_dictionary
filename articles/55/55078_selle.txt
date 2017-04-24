@@ -5,21 +5,21 @@
 <form>
 <orth type="lemma">selle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-парень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парень</text></cit>
 <сit type="example"><text>en lystig selle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весельчак, веселый малый</text></cit></cit>
 </sense>
 <sense>
-горняк, рудничный рабочий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горняк, рудничный рабочий</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">selle</orth>
-solte, solt
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>solte, solt</text></cit>
 <ref>selge</ref>
 </sense>
 </entry>

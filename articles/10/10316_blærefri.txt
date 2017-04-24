@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">blærefri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-не имеющий пузырей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий пузырей</text></cit>
 </sense>
 <sense>
-<u>тех.</u> не имеющий раковин (о металле)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий раковин (о металле)</text></cit>
 </sense>
 </entry>
 </superEntry>

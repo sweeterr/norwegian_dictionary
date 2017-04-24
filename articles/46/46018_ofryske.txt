@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ofryske</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-привидение, призрак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привидение, призрак</text></cit>
 </sense>
 <sense>
-чудовище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чудовище</text></cit>
 </sense>
 </entry>
 </superEntry>

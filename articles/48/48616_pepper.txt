@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pepper</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-перец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перец</text></cit>
 <сit type="example"><text>sort pepper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный перец</text></cit></cit>
 <сit type="example"><text>spansk pepper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красный стручковый перец, паприка</text></cit></cit>
 <сit type="example"><text>pepperen biter (brenner) på tungen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перец жжёт язык</text></cit></cit>

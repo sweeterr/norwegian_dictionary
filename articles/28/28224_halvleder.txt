@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">halvleder</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>эл.</u> полупроводник
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полупроводник</text></cit>
 </sense>
 </entry>
 </superEntry>

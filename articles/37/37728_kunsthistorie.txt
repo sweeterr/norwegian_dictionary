@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kunsthistorie</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-история искусств
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история искусств</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bøyningssystem</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> система словоизменения (склонения, спряжения)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>система словоизменения (склонения, спряжения)</text></cit>
 </sense>
 </entry>
 </superEntry>

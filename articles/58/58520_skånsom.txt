@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skånsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бережный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бережный</text></cit>
 </sense>
 <sense>
-снисходительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снисходительный</text></cit>
 </sense>
 </entry>
 </superEntry>

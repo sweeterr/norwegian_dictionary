@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjentfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> знакомые
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знакомые</text></cit>
 </sense>
 </entry>
 </superEntry>

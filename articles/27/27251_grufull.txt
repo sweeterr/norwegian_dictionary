@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">grufull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страшный, внушающий страх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшный, внушающий страх</text></cit>
 </sense>
 </entry>
 </superEntry>

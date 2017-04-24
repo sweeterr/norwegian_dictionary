@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-принадлежности, оборудование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежности, оборудование</text></cit>
 </sense>
 <sense>
-<u>тех.</u> арматура
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арматура</text></cit>
 </sense>
 <sense>
-<u>воен.</u> принадлежности (винтовки)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежности (винтовки)</text></cit>
 </sense>
 </entry>
 </superEntry>

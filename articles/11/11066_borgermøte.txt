@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">borgermøte</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>ист.</u> собрание городских жителей
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание городских жителей</text></cit>
 </sense>
 </entry>
 </superEntry>

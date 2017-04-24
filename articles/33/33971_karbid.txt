@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">karbid</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>хим.</u> карбид
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карбид</text></cit>
 </sense>
 </entry>
 </superEntry>

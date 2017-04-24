@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kulturhøy</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>с.-х.</u> сено с засеваемого луга
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сено с засеваемого луга</text></cit>
 </sense>
 </entry>
 </superEntry>

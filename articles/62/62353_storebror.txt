@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">storebror</orth>
 <inflection><orth extent="part">-broren, -brødre</orth></inflection>
-старший брат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старший брат</text></cit>
 <сit type="example"><text>spille storebror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разыгрывать из себя старшего (руководителя)</text></cit></cit>
 </sense>
 </entry>

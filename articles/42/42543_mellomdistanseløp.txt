@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomdistanseløp</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> бег на средние дистанции
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бег на средние дистанции</text></cit>
 </sense>
 </entry>
 </superEntry>

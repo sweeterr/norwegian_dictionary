@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">terapeut</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-врач-терапевт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач-терапевт</text></cit>
 </sense>
 </entry>
 </superEntry>

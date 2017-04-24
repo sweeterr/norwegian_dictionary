@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tarantell</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-тарантелла (танец)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тарантелла (танец)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">tarantell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> тарантул
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тарантул</text></cit>
 </sense>
 </entry>
 </superEntry>

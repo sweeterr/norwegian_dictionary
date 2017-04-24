@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tran</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-рыбий жир, ворвань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбий жир, ворвань</text></cit>
 <сit type="example"><text>drikke (ta) tran</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пить рыбий жир</text></cit></cit>
 </sense>
 </entry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">netthav</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>комп.</u>
+<usg>комп.</usg>
 </form>
 <sense>
-ядро (сети)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ядро (сети)</text></cit>
 </sense>
 <sense>
-концентратор (в сетях - сетевой аппаратный узел, к которому подключаются все компьютеры в сети топологии "звезда")
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>концентратор (в сетях - сетевой аппаратный узел, к которому подключаются все компьютеры в сети топологии "звезда")</text></cit>
 </sense>
 <sense>
-"подборка" (веб-страница, содержащая перечень ссылок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>"подборка" (веб-страница, содержащая перечень ссылок)</text></cit>
 </sense>
 </entry>
 </superEntry>

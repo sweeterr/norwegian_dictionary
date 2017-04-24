@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pip</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-плойка, гофрировка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плойка, гофрировка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">pip</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>вет.</u> типун
+<usg>вет.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>типун</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,25 +7,26 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-шов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шов</text></cit>
 <сit type="example"><text>fransk søm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>французский шов</text></cit></cit>
 <сit type="example"><text>gå opp i sømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разойтись по шву</text></cit></cit>
 <сit type="example"><text>gå (noen, noe) etter i sømmene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тщательно (придирчиво) осматривать что-л.</text></cit></cit>
 <сit type="example"><text>sprette opp en søm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распороть шов</text></cit></cit>
 </sense>
 <sense>
-кайма, рубец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кайма, рубец</text></cit>
 </sense>
 <sense>
-шитьё, швейное дело
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шитьё, швейное дело</text></cit>
 <сit type = "example"><text>lære søm(men) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> учить шить</text></cit></cit>
 <сit type = "example"><text>lære søm(men) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> учиться шить</text></cit></cit>
 </sense>
 <sense>
-швейное изделие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швейное изделие</text></cit>
 </sense>
 <sense>
-<u>анат.</u> шов
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +34,7 @@
 <form>
 <orth type="lemma">søm</orth>
 <inflection><orth extent="part">-met (-men), = (-mer)</orth></inflection>
-гвоздь (с большой шляпкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гвоздь (с большой шляпкой)</text></cit>
 <сit type="example"><text>stille sømmet på hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> поставить что-л. с ног на голову</text></cit></cit>
 </sense>
 </entry>

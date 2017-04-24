@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">rank</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-стройный, прямой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стройный, прямой</text></cit>
 </sense>
 <sense>
-гордый, полный собственного достоинства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гордый, полный собственного достоинства</text></cit>
 </sense>
 <sense>
-неустойчивый, легко опрокидывающийся (о корабле, телеге, экипаже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неустойчивый, легко опрокидывающийся (о корабле, телеге, экипаже)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">ukjuren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неряшливый, неопрятный, нечистоплотный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряшливый, неопрятный, нечистоплотный</text></cit>
 </sense>
 <sense>
-грубый, бесцеремонный, беззастенчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, бесцеремонный, беззастенчивый</text></cit>
 </sense>
 <sense>
-распутный, развратный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распутный, развратный</text></cit>
 </sense>
 </entry>
 </superEntry>

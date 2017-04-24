@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">urøkt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-беспорядок, запущенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, запущенность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">urøkt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-некопчёный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некопчёный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">menløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неиспорченный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неиспорченный (о человеке)</text></cit>
 </sense>
 <sense>
-безобидный, неопасный, безвредный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безобидный, неопасный, безвредный</text></cit>
 </sense>
 </entry>
 </superEntry>

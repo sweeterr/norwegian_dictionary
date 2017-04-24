@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kulestøt</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> толкание ядра
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкание ядра</text></cit>
 </sense>
 </entry>
 </superEntry>

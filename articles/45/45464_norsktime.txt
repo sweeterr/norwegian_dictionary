@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">norsktime</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-урок норвежского языка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>урок норвежского языка</text></cit>
 </sense>
 </entry>
 </superEntry>

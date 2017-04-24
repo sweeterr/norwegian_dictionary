@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baksnakk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> злословие, сплетни, наговор
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злословие, сплетни, наговор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">plageris</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>перен.</u> бич, источник неприятностей
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бич, источник неприятностей</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baudhastighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>комп.</u> скорость передачи данных в бодах, скорость в бодах
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скорость передачи данных в бодах, скорость в бодах</text></cit>
 </sense>
 </entry>
 </superEntry>

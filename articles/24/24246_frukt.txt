@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frukt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-плод, фрукт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плод, фрукт</text></cit>
 <сit type="example"><text>en bløt frukt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>загнивший плод</text></cit></cit>
 <сit type="example"><text>friske frukter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежие фрукты</text></cit></cit>
 <сit type="example"><text>moden frukt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спелый плод, зрелый плод</text></cit></cit>
@@ -13,7 +13,7 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-плоды, результаты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоды, результаты</text></cit>
 <сit type="example"><text>høste fruktene av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожинать плоды (чего-л.)</text></cit></cit>
 </sense>
 </entry>

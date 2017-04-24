@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sagaoversetter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-переводчик саг (сказаний)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переводчик саг (сказаний)</text></cit>
 </sense>
 </entry>
 </superEntry>

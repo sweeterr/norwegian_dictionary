@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nomming</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> неясные контуры (земли, суши)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неясные контуры (земли, суши)</text></cit>
 <сit type="example"><text>se en nomming av land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть слабые очертания земли (суши), различать контуры суши (с моря)</text></cit></cit>
 </sense>
 </entry>

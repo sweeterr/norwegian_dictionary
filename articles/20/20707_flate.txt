@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-ровная поверхность, плоскость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровная поверхность, плоскость</text></cit>
 <сit type="example"><text>utfoldelig flate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> развёртываемая плоскость</text></cit></cit>
 </sense>
 <sense>
-равнина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнина</text></cit>
 </sense>
 <sense>
-морская гладь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская гладь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">flate</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-делать ровным, разравнивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать ровным, разравнивать</text></cit>
 <сit type="example"><text>flate ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">massiv</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>геогр.</u> горный массив
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горный массив</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,13 @@
 <form>
 <orth type="lemma">massiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-массивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>массивный</text></cit>
 </sense>
 <sense>
-плотный (о веществе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плотный (о веществе)</text></cit>
 </sense>
 </entry>
 </superEntry>

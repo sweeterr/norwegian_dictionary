@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
-обмен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмен</text></cit>
 </sense>
 <sense>
-смена, перемена, изменение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смена, перемена, изменение</text></cit>
 </sense>
 <sense>
-<u>эк.</u> вексель, тратта
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вексель, тратта</text></cit>
 <сit type="example"><text>veksel på kort (lang) tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>краткосрочный (долгосрочный) вексель</text></cit></cit>
 <сit type="example"><text>trassert veksel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переводный вексель, тратта</text></cit></cit>
 <сit type="example"><text>akseptere (endossere, protestere) en veksel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>акцептовать (индоссировать, опротестовывать) вексель</text></cit></cit>
@@ -21,7 +22,8 @@
 <сit type="example"><text>trassere (utstede) veksel på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трассировать (выдавать) вексель (на кого-л.)</text></cit></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> стрелка; стрелочный (переводный) рычаг
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка; стрелочный (переводный) рычаг</text></cit>
 </sense>
 </entry>
 </superEntry>

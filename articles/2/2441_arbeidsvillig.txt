@@ -9,7 +9,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(рабочий,) готовый работать (название штрейкбрехера в устах предпринимателя)</quote>
+<text>(рабочий,) готовый работать (название штрейкбрехера в устах предпринимателя)</text>
 </cit>
 </sense>
 </entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">arbeidsvillig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-трудолюбивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудолюбивый</text></cit>
 </sense>
 </entry>
 </superEntry>

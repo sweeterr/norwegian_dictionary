@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ekteskapsløfte</orth>
 <inflection><orth extent="part">-t, -t</orth></inflection>
-обещание вступить в брак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обещание вступить в брак</text></cit>
 <сit type="example"><text>bryte et ekteskapsløfte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушить брачное обещание</text></cit></cit>
 </sense>
 </entry>

@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-дёрн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дёрн</text></cit>
 <сit type="example"><text>ligge under torven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать в могиле</text></cit></cit>
 </sense>
 <sense>
-кусок (пласт) дёрна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусок (пласт) дёрна</text></cit>
 </sense>
 <sense>
-торф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торф</text></cit>
 <сit type="example"><text>skjære torv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добывать (резать) торф</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +22,7 @@
 <index></index>
 <form>
 <orth type="lemma">torv</orth>
-см. torg
+<ref>torg</ref>
 </sense>
 </entry>
 </superEntry>

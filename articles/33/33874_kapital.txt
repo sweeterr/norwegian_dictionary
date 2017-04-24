@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-капитал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитал</text></cit>
 <сit type="example"><text>fast kapital</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>основной капитал</text></cit></cit>
 <сit type="example"><text>flytende kapital</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оборотный капитал</text></cit></cit>
 <сit type="example"><text>den interesserte kapital</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вложенный капитал, капиталовложение</text></cit></cit>
@@ -15,10 +15,11 @@
 <сit type="example"><text>slå kapital av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нажить капитал на чём-л.</text></cit></cit>
 </sense>
 <sense>
-фонды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонды</text></cit>
 </sense>
 <sense>
-<u>перен.</u> богатства
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатства</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">kapital</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-заглавная буква
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заглавная буква</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,14 +35,13 @@
 <form>
 <orth type="lemma">kapital</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-существенный, значительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>существенный, значительный</text></cit>
 </sense>
 <sense>
-серьёзный, капитальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серьёзный, капитальный</text></cit>
 </sense>
 </entry>
 </superEntry>

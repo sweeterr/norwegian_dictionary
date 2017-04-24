@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">avtakke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>воен.</u> <u>уст.</u> распускать, отпускать, демобилизовывать
+<usg>воен.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распускать, отпускать, демобилизовывать</text></cit>
 </sense>
 </entry>
 </superEntry>

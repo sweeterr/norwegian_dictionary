@@ -7,15 +7,17 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-связь, связующее звено
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связь, связующее звено</text></cit>
 </sense>
 <sense>
-общество, объединение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общество, объединение</text></cit>
 <сit type="example"><text><lbl>ист.</lbl> Norsk-Sovjetrussisk Samband</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общество «Норвегия - СССР» (в Норвегии)</text></cit></cit>
-<u>ист.</u> Sambandet «SSSR - Norge» общество «СССР - Норвегия» (в СССР)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Sambandet «SSSR - Norge» общество «СССР - Норвегия» (в СССР)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> связь
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связь</text></cit>
 </sense>
 </entry>
 </superEntry>

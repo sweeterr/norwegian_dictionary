@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-научная статья, трактат, диссертация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>научная статья, трактат, диссертация</text></cit>
 <сit type="example"><text>forsvare offentlig en avhandling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>публично защищать диссертацию</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> обсуждение, рассмотрение, дискуссия
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обсуждение, рассмотрение, дискуссия</text></cit>
 </sense>
 <sense>
-сочинение, произведение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочинение, произведение</text></cit>
 </sense>
 <sense>
-трактовка (темы, вопроса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трактовка (темы, вопроса)</text></cit>
 </sense>
 </entry>
 </superEntry>

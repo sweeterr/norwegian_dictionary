@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vanbyrdig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-низкого происхождения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкого происхождения</text></cit>
 </sense>
 <sense>
-незаконнорождённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незаконнорождённый</text></cit>
 </sense>
 </entry>
 </superEntry>

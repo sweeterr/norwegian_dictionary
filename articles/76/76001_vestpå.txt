@@ -7,10 +7,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-на западе, в Западной Норвегии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на западе, в Западной Норвегии</text></cit>
 </sense>
 <sense>
-в западном направлении, в сторону Западной Норвегии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в западном направлении, в сторону Западной Норвегии</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">vestpå</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-на запад от
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на запад от</text></cit>
 </sense>
 </entry>
 </superEntry>

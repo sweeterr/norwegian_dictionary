@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pang!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-бац!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бац!</text></cit>
 </sense>
 </entry>
 </superEntry>

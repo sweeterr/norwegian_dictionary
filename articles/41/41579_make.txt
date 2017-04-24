@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-супруг, супруга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>супруг, супруга</text></cit>
 </sense>
 <sense>
-самец, самка (в брачной паре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самец, самка (в брачной паре)</text></cit>
 </sense>
 <sense>
-один из пары предметов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>один из пары предметов</text></cit>
 </sense>
 <sense>
-ровня, пара, подобие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровня, пара, подобие</text></cit>
 <сit type="example"><text>hans make fin(ne)s ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему подобных нет на свете</text></cit></cit>
 <сit type="example"><text>jeg har aldri sett maken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я никогда не видел ничего подобного</text></cit></cit>
 </sense>
@@ -36,10 +36,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-изготавливать, изготовлять, делать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изготавливать, изготовлять, делать</text></cit>
 </sense>
 <sense>
-устраивать, налаживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать, налаживать</text></cit>
 </sense>
 </entry>
 </superEntry>

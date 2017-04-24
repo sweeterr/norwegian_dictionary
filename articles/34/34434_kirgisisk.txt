@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kirgisisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-киргизский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>киргизский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kirgisisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-киргизский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>киргизский</text></cit>
 </sense>
 </entry>
 </superEntry>

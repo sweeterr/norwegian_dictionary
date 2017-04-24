@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bum!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-бум!, ух!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бум!, ух!</text></cit>
 </sense>
 </entry>
 </superEntry>

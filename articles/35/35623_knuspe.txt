@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">knuspe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-хрустеть (под ногами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрустеть (под ногами)</text></cit>
 </sense>
 <sense>
-похрустывать (чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похрустывать (чем-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

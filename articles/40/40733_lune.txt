@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-<u>тк. sg</u> настроение, расположение духа
+<usg>тк. sg</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настроение, расположение духа</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
- капризы, причуды, выдумки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капризы, причуды, выдумки</text></cit>
 </sense>
 <sense>
-юмор, дружеская шутка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юмор, дружеская шутка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,10 +25,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-согревать, греть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>согревать, греть</text></cit>
 </sense>
 <sense>
-укрывать, защищать (от ветра, мороза)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрывать, защищать (от ветра, мороза)</text></cit>
 </sense>
 </entry>
 </superEntry>

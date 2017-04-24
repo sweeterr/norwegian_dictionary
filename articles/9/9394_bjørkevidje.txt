@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bjørkevidje</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-плакучая ива
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плакучая ива</text></cit>
 <сit type="example"><text>seig som en bjørkevidjevidje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> гибок как лоза</text></cit></cit>
 </sense>
 </entry>

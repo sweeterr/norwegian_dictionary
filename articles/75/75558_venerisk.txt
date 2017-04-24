@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">venerisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мед.</u> венерический
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>венерический</text></cit>
 </sense>
 </entry>
 </superEntry>

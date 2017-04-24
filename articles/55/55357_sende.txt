@@ -7,30 +7,32 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-посылать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посылать</text></cit>
 </sense>
 <sense>
-отправлять, направлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отправлять, направлять</text></cit>
 <сit type="example"><text>sende rundt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пускать что-л. по кругу</text></cit></cit>
 <сit type="example"><text>sende et skip til bunns</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потопить судно</text></cit></cit>
 </sense>
 <sense>
-бросать, швырять, выпускать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать, швырять, выпускать</text></cit>
 </sense>
 <sense>
-пускать (корни, ростки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пускать (корни, ростки)</text></cit>
 </sense>
 <sense>
-бросать (взгляд), дарить (улыбку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать (взгляд), дарить (улыбку)</text></cit>
 </sense>
 <sense>
-передавать (что-л. за столом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать (что-л. за столом)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> излучать, испускать лучи
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>излучать, испускать лучи</text></cit>
 </sense>
 <sense>
-<u>радио</u> передавать, делать передачу
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать, делать передачу</text></cit>
 <сit type="example"><text>sende inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прислать (в учреждение)</text></cit></cit>
 <сit type="example"><text>sende omkring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассылать</text></cit></cit>
 <сit type="example"><text>sende tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отсылать обратно</text></cit></cit>

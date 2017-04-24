@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">tien</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> оттаявший, талый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оттаявший, талый</text></cit>
 </sense>
 </entry>
 </superEntry>

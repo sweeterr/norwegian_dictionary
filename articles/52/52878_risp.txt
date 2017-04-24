@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">risp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-дратва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дратва</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-рыбья чешуя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбья чешуя</text></cit>
 </sense>
 <sense>
-царапина, небольшая ссадина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царапина, небольшая ссадина</text></cit>
 </sense>
 <sense>
-<u>тех.</u> риска, бороздка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риска, бороздка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">folkesterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-многочисленный, многолюдный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многочисленный, многолюдный</text></cit>
 </sense>
 </entry>
 </superEntry>

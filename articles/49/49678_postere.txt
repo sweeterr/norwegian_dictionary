@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">postere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-расставлять посты (часовых)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расставлять посты (часовых)</text></cit>
 <сit type="example"><text>postere seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размещаться, располагаться</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">postere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>бухг.</u> заносить (записывать) в книгу
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заносить (записывать) в книгу</text></cit>
 </sense>
 </entry>
 </superEntry>

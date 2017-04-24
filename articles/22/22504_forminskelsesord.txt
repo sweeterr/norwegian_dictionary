@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forminskelsesord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>лингв.</u> слово с уменьшительным суффиксом
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слово с уменьшительным суффиксом</text></cit>
 </sense>
 </entry>
 </superEntry>

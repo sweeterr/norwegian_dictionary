@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">geometer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-геометр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>геометр</text></cit>
 </sense>
 </entry>
 </superEntry>

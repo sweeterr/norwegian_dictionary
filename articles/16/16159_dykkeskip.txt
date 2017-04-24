@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dykkeskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> водолазный бот
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водолазный бот</text></cit>
 </sense>
 </entry>
 </superEntry>

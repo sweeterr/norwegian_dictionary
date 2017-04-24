@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">torvbruk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-потребление торфа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потребление торфа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-торфодобыча, торфяное производство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торфодобыча, торфяное производство</text></cit>
 </sense>
 <sense>
-торфяник, торфяные разработки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торфяник, торфяные разработки</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-грязь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязь</text></cit>
 </sense>
 <sense>
-мерзость; дрянь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерзость; дрянь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,13 +18,13 @@
 <form>
 <orth type="lemma">skitt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-отвратительный, мерзкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвратительный, мерзкий</text></cit>
 </sense>
 <sense>
-очень плохой, никуда не годный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень плохой, никуда не годный</text></cit>
 <сit type="example"><text>det er (var) skitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело дрянь</text></cit></cit>
 </sense>
 </entry>

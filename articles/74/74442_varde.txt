@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-пирамида (холмик) из камней (как знак на местности), сторожевой знак, опознавательный знак (из камней)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пирамида (холмик) из камней (как знак на местности), сторожевой знак, опознавательный знак (из камней)</text></cit>
 </sense>
 <sense>
-сигнальная башня, сторожевая башня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальная башня, сторожевая башня</text></cit>
 </sense>
 <sense>
-костёр (сигнальный, праздничный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костёр (сигнальный, праздничный)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> сторожка, сторожевая будка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторожка, сторожевая будка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +25,7 @@
 <form>
 <orth type="lemma">varde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-отмечать дорогу (маршрут) холмиками из камней (или каким-л, другими предметами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отмечать дорогу (маршрут) холмиками из камней (или каким-л, другими предметами)</text></cit>
 </sense>
 </entry>
 </superEntry>

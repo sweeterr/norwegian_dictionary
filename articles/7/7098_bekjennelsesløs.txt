@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bekjennelsesløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неверующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неверующий</text></cit>
 </sense>
 </entry>
 </superEntry>

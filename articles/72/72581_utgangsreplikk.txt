@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utgangsreplikk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>театр.</u> заключительная реплика
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заключительная реплика</text></cit>
 </sense>
 </entry>
 </superEntry>

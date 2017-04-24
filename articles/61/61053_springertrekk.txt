@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">springertrekk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>шахм.</u> ход конём
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ход конём</text></cit>
 </sense>
 </entry>
 </superEntry>

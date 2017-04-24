@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">nyfiken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-любопытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любопытный</text></cit>
 </sense>
 <sense>
-возбуждающий любопытство, чудной, удивительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждающий любопытство, чудной, удивительный</text></cit>
 </sense>
 </entry>
 </superEntry>

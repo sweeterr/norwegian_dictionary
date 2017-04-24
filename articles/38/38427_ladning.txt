@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-погрузка, отгрузка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погрузка, отгрузка</text></cit>
 <сit type="example"><text>ta inn ladning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грузить (судно), отгружать</text></cit></cit>
 </sense>
 <sense>
-груз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>груз</text></cit>
 </sense>
 <sense>
-зарядка, заряжение (действие)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарядка, заряжение (действие)</text></cit>
 </sense>
 <sense>
-<u>воен.</u>, <u>эл.</u> заряд
+<usg>воен.</usg>
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заряд</text></cit>
 </sense>
 </entry>
 </superEntry>

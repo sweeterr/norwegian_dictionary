@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-окраина, периферия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окраина, периферия</text></cit>
 </sense>
 <sense>
-<u>мат.</u> линия окружности
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия окружности</text></cit>
 </sense>
 </entry>
 </superEntry>

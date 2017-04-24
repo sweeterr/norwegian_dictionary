@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">backfisch</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> <u>шутл.</u> девочка-подросток
+<usg>разг.</usg>
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девочка-подросток</text></cit>
 </sense>
 </entry>
 </superEntry>

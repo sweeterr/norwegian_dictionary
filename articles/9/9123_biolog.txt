@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">biolog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-биолог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>биолог</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-<u>стр.</u> леса
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>леса</text></cit>
 </sense>
 <sense>
-стеллаж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стеллаж</text></cit>
 <сit type="example"><text>stig ned av stillaset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> не заносись, не ставь себя выше других</text></cit></cit>
 </sense>
 </entry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">respektabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-уважаемый, почтенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уважаемый, почтенный</text></cit>
 </sense>
 <sense>
-порядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядочный</text></cit>
 </sense>
 <sense>
-респектабельный, представительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>респектабельный, представительный</text></cit>
 </sense>
 </entry>
 </superEntry>

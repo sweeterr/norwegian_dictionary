@@ -13,15 +13,14 @@
 <form>
 <orth type="lemma">svang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-голодный, проголодавшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голодный, проголодавшийся</text></cit>
 </sense>
 <sense>
-пустой (о колосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустой (о колосе)</text></cit>
 </sense>
 </entry>
 <entry>

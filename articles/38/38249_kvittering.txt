@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kvittering</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-квитанция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квитанция</text></cit>
 <сit type="example"><text>mot kvittering</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под расписку</text></cit></cit>
 </sense>
 </entry>

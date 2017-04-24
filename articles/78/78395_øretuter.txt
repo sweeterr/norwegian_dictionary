@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">øretuter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-льстец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льстец</text></cit>
 </sense>
 <sense>
-клеветник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеветник</text></cit>
 </sense>
 <sense>
-болтун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтун</text></cit>
 </sense>
 </entry>
 </superEntry>

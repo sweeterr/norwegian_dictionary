@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">betraktelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-значительный, видный, существенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значительный, видный, существенный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">betraktelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-значительно, существенно, в немалой степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значительно, существенно, в немалой степени</text></cit>
 </sense>
 </entry>
 </superEntry>

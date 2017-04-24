@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vassferd</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> два ведра воды (на коромысле)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>два ведра воды (на коромысле)</text></cit>
 </sense>
 </entry>
 </superEntry>

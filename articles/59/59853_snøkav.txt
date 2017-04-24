@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snøkav</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> вьюга, метель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вьюга, метель</text></cit>
 </sense>
 </entry>
 </superEntry>

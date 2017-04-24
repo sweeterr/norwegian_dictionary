@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-богословие, теология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богословие, теология</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">pøbel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-чернь, подонки общества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чернь, подонки общества</text></cit>
 </sense>
 <sense>
-грубый, невежественный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, невежественный человек</text></cit>
 </sense>
 </entry>
 </superEntry>

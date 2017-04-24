@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-высадка с корабля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высадка с корабля</text></cit>
 </sense>
 <sense>
-<u>воен.</u> высадка десанта, десант
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высадка десанта, десант</text></cit>
 </sense>
 <sense>
-<u>ав.</u> приземление, посадка
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приземление, посадка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,10 +8,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> гичка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гичка</text></cit>
 </sense>
 <sense>
-двуколка, бричка (с большими колёсами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двуколка, бричка (с большими колёсами)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +21,7 @@
 <orth type="lemma">gigg</orth>
 <phon>|jig:|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-джига (старинный танец)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>джига (старинный танец)</text></cit>
 </sense>
 </entry>
 </superEntry>

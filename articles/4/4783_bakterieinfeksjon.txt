@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakterieinfeksjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> бактериальная инфекция
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бактериальная инфекция</text></cit>
 </sense>
 </entry>
 </superEntry>

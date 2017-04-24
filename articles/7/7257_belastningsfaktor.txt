@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningsfaktor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>эл.</u> фактор стресса, коэффициент нагрузки, коэффициент загрузки
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фактор стресса, коэффициент нагрузки, коэффициент загрузки</text></cit>
 </sense>
 </entry>
 </superEntry>

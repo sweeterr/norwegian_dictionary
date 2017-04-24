@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">snaue seg</orth>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-полностью рассчитаться (расквитаться)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полностью рассчитаться (расквитаться)</text></cit>
 </sense>
 <sense>
-полностью истратить все деньги, остаться без копейки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полностью истратить все деньги, остаться без копейки</text></cit>
 </sense>
 </entry>
 </superEntry>

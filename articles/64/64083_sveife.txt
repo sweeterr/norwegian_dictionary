@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">sveife</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-гнуть в дугу, выгибать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнуть в дугу, выгибать</text></cit>
 </sense>
 <sense>
-<u>разг.</u> двигаться по кривой, описывать кривую
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться по кривой, описывать кривую</text></cit>
 </sense>
 </entry>
 </superEntry>

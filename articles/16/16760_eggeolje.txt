@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">eggeolje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>хим.</u>
+<usg>хим.</usg>
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-лецитины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лецитины</text></cit>
 </sense>
 <sense>
-льняное масло с известковой водой (народное лекарство против ожогов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льняное масло с известковой водой (народное лекарство против ожогов)</text></cit>
 </sense>
 </entry>
 </superEntry>

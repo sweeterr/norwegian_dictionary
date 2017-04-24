@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-пламя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пламя</text></cit>
 <сit type="example"><text>stå i flammer flamme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гореть как костёр</text></cit></cit>
 <сit type="example"><text>nordlysets flammer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспышки северного сияния</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> огонь, пыл
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь, пыл</text></cit>
 <сit type="example"><text>komme i fyr og flamme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воодушевляться, возгораться</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> предмет любви (увлечения)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предмет любви (увлечения)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,13 +28,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-гореть, пылать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гореть, пылать</text></cit>
 </sense>
 <sense>
-сверкать (о взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверкать (о взгляде)</text></cit>
 </sense>
 <sense>
-загореться, вспыхнуть (о чувстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загореться, вспыхнуть (о чувстве)</text></cit>
 <сit type="example"><text>flamme opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспыхнуть пламенем</text></cit></cit>
 </sense>
 </entry>

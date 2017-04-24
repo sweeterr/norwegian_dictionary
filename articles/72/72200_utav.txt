@@ -4,9 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">utav</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>prep</pos></gramGrp>
-<u>диал.</u> из, от
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>из, от</text></cit>
 <сit type="example"><text>være utav seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне себя</text></cit></cit>
 <сit type="example"><text>komme utav med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>договориться с кем-л.</text></cit></cit>
 <сit type="example"><text>tenke utav med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказаться от мысли (сделать что-л.)</text></cit></cit>

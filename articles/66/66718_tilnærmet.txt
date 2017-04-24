@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tilnærmet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-приближённый, приблизительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приближённый, приблизительный</text></cit>
 <сit type="example"><text>tilnærmete tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> приближённые числа</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ballmottaking</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>телеком.</u> ретрансляционное телевидение, радиорелейное телевидение
+<usg>телеком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ретрансляционное телевидение, радиорелейное телевидение</text></cit>
 </sense>
 </entry>
 </superEntry>

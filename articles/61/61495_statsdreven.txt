@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">statsdreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-государственный, осуществляемый государством, осуществляемый за счёт государства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>государственный, осуществляемый государством, осуществляемый за счёт государства</text></cit>
 </sense>
 </entry>
 </superEntry>

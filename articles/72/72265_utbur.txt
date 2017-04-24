@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utbur</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> сарай (стоящий вдали от дома)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сарай (стоящий вдали от дома)</text></cit>
 </sense>
 </entry>
 </superEntry>

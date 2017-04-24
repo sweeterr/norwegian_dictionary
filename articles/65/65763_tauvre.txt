@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tauvre</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-заколдовывать, зачаровывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заколдовывать, зачаровывать</text></cit>
 </sense>
 <sense>
-ходить как в бреду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходить как в бреду</text></cit>
 </sense>
 </entry>
 </superEntry>

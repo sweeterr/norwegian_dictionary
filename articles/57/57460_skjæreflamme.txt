@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjæreflamme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> режущее пламя, острый язык пламени режущей горелки
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>режущее пламя, острый язык пламени режущей горелки</text></cit>
 </sense>
 </entry>
 </superEntry>

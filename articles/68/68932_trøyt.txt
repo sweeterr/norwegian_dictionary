@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trøyt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-окончание, конец, завершение (работы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окончание, конец, завершение (работы)</text></cit>
 </sense>
 <sense>
-спешка, напряжение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спешка, напряжение</text></cit>
 </sense>
 </entry>
 </superEntry>

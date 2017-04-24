@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">demokrat</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-демократ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>демократ</text></cit>
 </sense>
 </entry>
 </superEntry>

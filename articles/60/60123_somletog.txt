@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">somletog</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>разг.</u> поезд, идущий со всеми остановками
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поезд, идущий со всеми остановками</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">fosforsur</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>хим.</u> фосфорнокислый
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фосфорнокислый</text></cit>
 </sense>
 </entry>
 </superEntry>

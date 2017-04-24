@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">likestrømslampe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>эл.</u> лампа постоянного тока
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лампа постоянного тока</text></cit>
 </sense>
 </entry>
 </superEntry>

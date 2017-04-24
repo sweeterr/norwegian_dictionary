@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-клубок (моток) ниток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клубок (моток) ниток</text></cit>
 </sense>
 <sense>
-<u>разг.</u> колобок (о толстом низкорослом человеке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колобок (о толстом низкорослом человеке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">nøste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
- мотать, наматывать (нитки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мотать, наматывать (нитки)</text></cit>
 </sense>
 </entry>
 </superEntry>

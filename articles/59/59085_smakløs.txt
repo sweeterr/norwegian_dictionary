@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">smakløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-не имеющий вкуса (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий вкуса (о человеке)</text></cit>
 </sense>
 <sense>
-безвкусный, аляповатый, грубо сделанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвкусный, аляповатый, грубо сделанный</text></cit>
 </sense>
 <sense>
-<u>редко</u> невкусный (о пище)
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невкусный (о пище)</text></cit>
 </sense>
 </entry>
 </superEntry>

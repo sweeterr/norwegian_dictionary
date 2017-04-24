@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">stemmeløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безголосый, беззвучный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безголосый, беззвучный</text></cit>
 </sense>
 <sense>
-<u>фон.</u> глухой
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой</text></cit>
 </sense>
 </entry>
 </superEntry>

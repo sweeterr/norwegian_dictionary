@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sneiord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> колкость, насмешка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колкость, насмешка</text></cit>
 </sense>
 </entry>
 </superEntry>

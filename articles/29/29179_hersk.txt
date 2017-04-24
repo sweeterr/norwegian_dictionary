@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">hersk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прогорклый, затхлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прогорклый, затхлый</text></cit>
 </sense>
 <sense>
-дикий, буйный, необузданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дикий, буйный, необузданный</text></cit>
 </sense>
 </entry>
 </superEntry>

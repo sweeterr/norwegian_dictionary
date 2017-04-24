@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">permisjonsnektelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> отказ в увольнении
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отказ в увольнении</text></cit>
 </sense>
 </entry>
 </superEntry>

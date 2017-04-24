@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">plask</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-плеск, всплеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плеск, всплеск</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">plask</orth>
-plask! 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>plask!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-бултых!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бултых!</text></cit>
 </sense>
 </entry>
 </superEntry>

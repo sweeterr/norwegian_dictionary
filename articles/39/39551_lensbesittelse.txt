@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lensbesittelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u> феодальное владение (поместье)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>феодальное владение (поместье)</text></cit>
 </sense>
 </entry>
 </superEntry>

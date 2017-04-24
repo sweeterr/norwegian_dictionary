@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">piskado!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-чёрт возьми!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт возьми!</text></cit>
 </sense>
 </entry>
 </superEntry>

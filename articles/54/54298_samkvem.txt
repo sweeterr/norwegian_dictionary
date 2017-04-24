@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
-общение с кем-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общение с кем-л.</text></cit>
 <сit type="example"><text>holde (ha) samkvem med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общаться с кем-л.</text></cit></cit>
 </sense>
 <sense>
-связь, контакт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связь, контакт</text></cit>
 <сit type="example"><text>et livlig samkvem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оживлённые связи</text></cit></cit>
 </sense>
 <sense>
-<u>редко</u> встреча, собрание
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встреча, собрание</text></cit>
 </sense>
 </entry>
 </superEntry>

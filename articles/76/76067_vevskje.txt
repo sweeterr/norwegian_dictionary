@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vevskje</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>текст.</u> бёрдо
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бёрдо</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blingse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> косить глазами
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косить глазами</text></cit>
 <сit type="example"><text>blingse til en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покоситься, бросить беглый взгляд на кого-л</text></cit></cit>
 </sense>
 </entry>

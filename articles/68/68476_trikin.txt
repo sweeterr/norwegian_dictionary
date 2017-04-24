@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trikin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> трихина, трихинелла
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трихина, трихинелла</text></cit>
 </sense>
 </entry>
 </superEntry>

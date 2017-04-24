@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-исчезать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исчезать</text></cit>
 </sense>
 <sense>
-затихать, замирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затихать, замирать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +20,14 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-хныкать, ныть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хныкать, ныть</text></cit>
 </sense>
 <sense>
-сетовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сетовать</text></cit>
 </sense>
 <sense>
-<u>диал.</u> плакать, всхлипывать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плакать, всхлипывать</text></cit>
 </sense>
 </entry>
 </superEntry>

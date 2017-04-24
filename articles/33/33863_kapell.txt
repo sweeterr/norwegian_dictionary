@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-часовня; церковь (домовая, больничная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часовня; церковь (домовая, больничная)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> хоровая капелла
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хоровая капелла</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">kapell</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> капель (пористая чашечка)
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капель (пористая чашечка)</text></cit>
 </sense>
 </entry>
 </superEntry>

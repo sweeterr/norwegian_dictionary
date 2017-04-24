@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">dreibar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вращающийся, поворотный, поворачивающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращающийся, поворотный, поворачивающийся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">glisen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-имеющий трещины (щели), просвечивающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий трещины (щели), просвечивающий</text></cit>
 </sense>
 <sense>
-редкий (о волосах, лесе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий (о волосах, лесе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

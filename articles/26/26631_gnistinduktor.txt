@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gnistinduktor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>эл.</u> индукционная катушка (Румкорфа)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индукционная катушка (Румкорфа)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,16 +8,18 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-терпимость, толерантность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терпимость, толерантность</text></cit>
 </sense>
 <sense>
-допустимое отклонение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>допустимое отклонение</text></cit>
 </sense>
 <sense>
-<u>мед.</u> выносливость, выдержка
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносливость, выдержка</text></cit>
 </sense>
 <sense>
-<u>тех.</u> допуск
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>допуск</text></cit>
 </sense>
 </entry>
 </superEntry>

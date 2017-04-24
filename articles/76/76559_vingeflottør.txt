@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vingeflottør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ав.</u> подкрыльный поплавок
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкрыльный поплавок</text></cit>
 </sense>
 </entry>
 </superEntry>

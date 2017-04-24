@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">erkjennelseteori</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>филос.</u> теория познания
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теория познания</text></cit>
 </sense>
 </entry>
 </superEntry>

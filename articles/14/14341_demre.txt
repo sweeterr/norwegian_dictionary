@@ -7,24 +7,25 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-(рас)светать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(рас)светать</text></cit>
 <сit type="example"><text>det demrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светает</text></cit></cit>
 </sense>
 <sense>
-проясняться (о мыслях, представлениях), становиться яснее (явственнее)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проясняться (о мыслях, представлениях), становиться яснее (явственнее)</text></cit>
 <сit type="example"><text>det demret for henne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её осенило</text></cit></cit>
 </sense>
 <sense>
-светиться, испускать слабый свет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светиться, испускать слабый свет</text></cit>
 </sense>
 <sense>
-неявственно виднеться, иметь неясные (смутные) очертания; <u>перен.</u> неясно представляться в сознании
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неявственно виднеться, иметь неясные (смутные) очертания; <lbl>перен.</lbl> неясно представляться в сознании</text></cit>
 </sense>
 <sense>
-виднеться в тумане (дымке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виднеться в тумане (дымке)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> смеркаться
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смеркаться</text></cit>
 <сit type="example"><text>demre fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всплыть, появиться снова (о мыслях, представлениях)</text></cit></cit>
 <сit type="example"><text>demre hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раствориться, исчезнуть (во мраке, в тумане)</text></cit></cit>
 <сit type="example"><text>det demrer opp av seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ясно само собой</text></cit></cit>

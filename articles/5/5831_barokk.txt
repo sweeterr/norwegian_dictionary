@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barokk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-барокко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барокко</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,20 +13,19 @@
 <form>
 <orth type="lemma">barokk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-странный, удивительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странный, удивительный</text></cit>
 </sense>
 <sense>
-причудливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причудливый</text></cit>
 </sense>
 <sense>
-гротескный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гротескный</text></cit>
 </sense>
 <sense>
-в стиле барокко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в стиле барокко</text></cit>
 </sense>
 </entry>
 </superEntry>

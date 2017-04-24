@@ -8,7 +8,7 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-стол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стол</text></cit>
 <сit type="example"><text>på bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на стол, на столе</text></cit></cit>
 <сit type="example"><text>ved bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за столом, у стола</text></cit></cit>
 <сit type="example"><text>nederst ved bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этого (ближнего) края стола</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>sitte ved bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть около стола (у стола, за столом)</text></cit></cit>
 </sense>
 <sense>
-обеденный стол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обеденный стол</text></cit>
 <сit type="example"><text>et godt besatt bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо сервированный стол</text></cit></cit>
 <сit type="example"><text>dekke (på) bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрывать на стол</text></cit></cit>
 <сit type="example"><text>drikke én under bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напоить кого-л. допьяна</text></cit></cit>
@@ -34,7 +34,7 @@
 <сit type="example"><text>ta til bords</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести (даму) к обеденному столу</text></cit></cit>
 </sense>
 <sense>
-питание, пища
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питание, пища</text></cit>
 <сit type="example"><text>før bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до еды, до обеда</text></cit></cit>
 <сit type="example"><text>etter bordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после еды, после обеда</text></cit></cit>
 <сit type="example"><text>kaldt bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодные закуски</text></cit></cit>
@@ -42,7 +42,7 @@
 <сit type="example"><text>ha åpent bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить открытым домом, часто принимать гостей</text></cit></cit>
 </sense>
 <sense>
-обычно с определённым постпозитивным артиклем общество (люди, сидящие за обеденным столом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычно с определённым постпозитивным артиклем общество (люди, сидящие за обеденным столом)</text></cit>
 <сit type="example"><text>bordet fanger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что сказано, то сказано (что сделано, то сделано)</text></cit></cit>
 <сit type="example"><text>Herrens bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>церк.</lbl> алтарь, престол</text></cit></cit>
 </sense>
@@ -53,9 +53,10 @@
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> борт (судна)
-<сit type="example"><text>om bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на борту (см. тж. ombord)</text></cit></cit>
-<сit type="example"><text>over bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за бортом, за борт (см. тж. overbord)</text></cit></cit>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борт (судна)</text></cit>
+<сit type="example"><text>om bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на борту <ref>ombord</ref></text></cit></cit>
+<сit type="example"><text>over bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за бортом, за борт <ref>overbord</ref></text></cit></cit>
 <сit type="example"><text>gå om bord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться на корабль</text></cit></cit>
 <сit type="example"><text>gå fra borde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сходить с корабля</text></cit></cit>
 <сit type="example"><text>legge fra borde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> отшвартоваться, отплыть от борта корабля (о лодке)</text></cit></cit>
@@ -69,7 +70,7 @@
 <orth type="lemma">bord</orth>
 <phon>|bu:r|</phon>
 <inflection><orth extent="part">-et, =</orth></inflection>
-доска, тесина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доска, тесина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -80,10 +81,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-край, кант (материи, ткани), кайма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край, кант (материи, ткани), кайма</text></cit>
 </sense>
 <sense>
-тесьма, бордюр, обшивка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тесьма, бордюр, обшивка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ni</orth>
 <gramGrp><pos>num</pos></gramGrp>
-девять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девять</text></cit>
 </sense>
 </entry>
 </superEntry>

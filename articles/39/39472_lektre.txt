@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lektre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-перегружать на лихтер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перегружать на лихтер</text></cit>
 </sense>
 <sense>
-перевозить на лихтере
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевозить на лихтере</text></cit>
 </sense>
 </entry>
 </superEntry>

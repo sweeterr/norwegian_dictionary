@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ordstilling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>грам.</u> порядок слов в предложении
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядок слов в предложении</text></cit>
 </sense>
 </entry>
 </superEntry>

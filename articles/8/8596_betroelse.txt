@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-доверие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доверие</text></cit>
 </sense>
 <sense>
-секрет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секрет</text></cit>
 </sense>
 <sense>
-<u>эк.</u> <u>уст.</u> кредит
+<usg>эк.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кредит</text></cit>
 </sense>
 </entry>
 </superEntry>

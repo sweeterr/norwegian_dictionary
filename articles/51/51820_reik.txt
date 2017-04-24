@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">reik</orth>
 <inflection><orth extent="part">-a (-en), -e</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-борозда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борозда</text></cit>
 </sense>
 <sense>
-полоса, полоска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоса, полоска</text></cit>
 </sense>
 <sense>
-пробор (в волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробор (в волосах)</text></cit>
 </sense>
 </entry>
 </superEntry>

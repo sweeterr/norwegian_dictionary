@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">pladask</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-плашмя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плашмя</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">pladask</orth>
-pladask! 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>pladask!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-хлоп!, шлёп!, бах!, бум!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлоп!, шлёп!, бах!, бум!</text></cit>
 </sense>
 </entry>
 </superEntry>

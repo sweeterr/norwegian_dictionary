@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arbeidsbyrde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-рабочая нагрузка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочая нагрузка</text></cit>
 <сit type="example"><text>økt arbeidsbyrde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возросшая рабочая нагрузка</text></cit></cit>
 </sense>
 </entry>

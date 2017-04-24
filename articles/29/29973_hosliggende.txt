@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-лежащий рядом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лежащий рядом</text></cit>
 </sense>
 <sense>
-<u>мат.</u> прилежащий
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилежащий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fordelingsanlegg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эл.</u> распределительная (под)станция
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распределительная (под)станция</text></cit>
 </sense>
 </entry>
 </superEntry>

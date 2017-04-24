@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bohem</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> богема
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богема</text></cit>
 </sense>
 </entry>
 </superEntry>

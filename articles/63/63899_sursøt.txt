@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">sursøt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-кисло-сладкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кисло-сладкий</text></cit>
 </sense>
 <sense>
-<u>разг.</u> натянутый, неестественный (об улыбке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натянутый, неестественный (об улыбке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-слабо дуть (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабо дуть (о ветре)</text></cit>
 </sense>
 <sense>
-покрываться рябью (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться рябью (о воде)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">karre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. kurre II
+<usg>диал.</usg>
+<ref>kurre II</ref>
 </sense>
 </entry>
 </superEntry>

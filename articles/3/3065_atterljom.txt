@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">atterljom</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> отклик, отзвук, отголосок, эхо
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отклик, отзвук, отголосок, эхо</text></cit>
 </sense>
 </entry>
 </superEntry>

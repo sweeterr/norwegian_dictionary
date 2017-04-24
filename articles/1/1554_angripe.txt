@@ -7,24 +7,25 @@
 <inflection><orth>angre(i)p, angrepet</orth></inflection>
 </form>
 <sense>
-нападать, подвергать нападкам (критике)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нападать, подвергать нападкам (критике)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> наступать, вести наступательные действия, атаковать, нападать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наступать, вести наступательные действия, атаковать, нападать</text></cit>
 <сit type="example"><text>angripe på en skjendig måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вероломно напасть</text></cit></cit>
 <сit type="example"><text>angripe tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перейти в контратаку</text></cit></cit>
 </sense>
 <sense>
-изнурять, ослаблять (о болезни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изнурять, ослаблять (о болезни)</text></cit>
 <сit type="example"><text>han er sterkt angrepet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он очень изнурён болезнью, он очень серьёзно болен</text></cit></cit>
 </sense>
 <sense>
-сильно действовать, разъедать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильно действовать, разъедать</text></cit>
 <сit type="example"><text>syrer angriper metaller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кислоты разъедают металлы</text></cit></cit>
 <сit type="example"><text>jernet var angrepet av rust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>железо пострадало от ржавчины</text></cit></cit>
 </sense>
 <sense>
-посягать (на сбережения, капитал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посягать (на сбережения, капитал)</text></cit>
 </sense>
 </entry>
 </superEntry>

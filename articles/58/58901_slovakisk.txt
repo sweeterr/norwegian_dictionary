@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slovakisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-словацкий язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словацкий язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">slovakisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-словацкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словацкий</text></cit>
 </sense>
 </entry>
 </superEntry>

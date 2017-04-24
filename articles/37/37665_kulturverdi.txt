@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>тк. sg</u> значение (роль) культуры
+<usg>тк. sg</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значение (роль) культуры</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
- культурные ценности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культурные ценности</text></cit>
 </sense>
 </entry>
 </superEntry>

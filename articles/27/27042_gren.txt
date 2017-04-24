@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gren</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. grein I
+<ref>grein I</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">gren</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> нора (лисья и т. д.), логовище (волчье)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нора (лисья и т. д.), логовище (волчье)</text></cit>
 </sense>
 </entry>
 </superEntry>

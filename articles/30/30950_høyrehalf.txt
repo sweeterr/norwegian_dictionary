@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">høyrehalf</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> правый полузащитник
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правый полузащитник</text></cit>
 </sense>
 </entry>
 </superEntry>

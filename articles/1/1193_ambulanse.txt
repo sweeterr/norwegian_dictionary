@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-карета скорой помощи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карета скорой помощи</text></cit>
 </sense>
 <sense>
-<u>воен.</u> пункт первой медицинской помощи
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пункт первой медицинской помощи</text></cit>
 </sense>
 <sense>
-<u>воен.</u> перевязочный пункт, лазарет
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевязочный пункт, лазарет</text></cit>
 </sense>
 </entry>
 </superEntry>

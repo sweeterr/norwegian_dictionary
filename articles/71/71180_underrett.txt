@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">underrett</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> суд первой инстанции
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суд первой инстанции</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">improbabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-невероятный, неправдоподобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невероятный, неправдоподобный</text></cit>
 </sense>
 </entry>
 </superEntry>

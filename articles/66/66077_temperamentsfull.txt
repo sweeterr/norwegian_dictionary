@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">temperamentsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-темпераментный, пылкий, страстный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>темпераментный, пылкий, страстный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bie</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-пчела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пчела</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">bie</orth>
 <inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
-терпеливо ждать, дожидаться (кого-л. - på), томиться, жаждать (чего-л. - etter)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терпеливо ждать, дожидаться (кого-л. - på), томиться, жаждать (чего-л. - etter)</text></cit>
 <сit type="example"><text>bi litt! bi nå!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подожди немного!</text></cit></cit>
 </sense>
 </entry>

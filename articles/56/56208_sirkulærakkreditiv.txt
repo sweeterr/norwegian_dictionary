@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sirkulærakkreditiv</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>фин.</u> банковый аккредитив
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банковый аккредитив</text></cit>
 </sense>
 </entry>
 </superEntry>

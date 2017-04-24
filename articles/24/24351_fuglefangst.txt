@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fuglefangst</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-ловля птиц
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловля птиц</text></cit>
 <сit type="example"><text>fuglefangst med lokkepipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ловля птиц на манок</text></cit></cit>
 </sense>
 </entry>

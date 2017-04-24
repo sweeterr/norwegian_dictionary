@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tyste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-заглушать, заставить замолчать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заглушать, заставить замолчать</text></cit>
 <сit type="example"><text>tyste ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замять дело</text></cit></cit>
 <сit type="example"><text>tyste på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>успокоить</text></cit></cit>
 </sense>

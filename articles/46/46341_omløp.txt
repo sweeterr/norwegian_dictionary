@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-вращение, обращение, циркуляция (крови)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращение, обращение, циркуляция (крови)</text></cit>
 </sense>
 <sense>
-денежное обращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>денежное обращение</text></cit>
 <сit type = "example"><text>sette i omløp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пускать в обращение (деньги)</text></cit></cit>
 <сit type = "example"><text>sette i omløp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> распускать слухи</text></cit></cit>
 <сit type="example"><text>komme i omløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>войти в обращение</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> перебежка
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перебежка</text></cit>
 <сit type="example"><text>ha omløp i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро схватывать, понимать</text></cit></cit>
 </sense>
 </entry>

@@ -4,12 +4,12 @@
 <index></index>
 <form>
 <orth type="lemma">befalende</orth>
-I. 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>I.</text></cit>
 <gramGrp><pos>adj</pos></gramGrp>
-командующий, властный, повелительный
-II. 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командующий, властный, повелительный</text></cit>
+II.
 <gramGrp><pos>adv</pos></gramGrp>
-категорично, властно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>категорично, властно</text></cit>
 </sense>
 </entry>
 </superEntry>

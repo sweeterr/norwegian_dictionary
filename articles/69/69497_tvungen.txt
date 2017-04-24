@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">tvungen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-обязательный, принудительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обязательный, принудительный</text></cit>
 </sense>
 <sense>
-вынужденный, принуждённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вынужденный, принуждённый</text></cit>
 </sense>
 <sense>
-навязанный (кому-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навязанный (кому-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

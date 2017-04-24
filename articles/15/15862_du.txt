@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">du</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<inflection><case>объектн. п.</case><orth>deg, <u>уст.</u> dig</orth></inflection>
-ты
+<inflection><case>объектн. п.</case><orth>deg, <lbl>уст.</lbl> dig</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ты</text></cit>
 <сit type="example"><text>si du til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на «ты» с кем-л.</text></cit></cit>
 <сit type="example"><text>tiltale én med du</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращаться на «ты» к кому-л.</text></cit></cit>
 </sense>

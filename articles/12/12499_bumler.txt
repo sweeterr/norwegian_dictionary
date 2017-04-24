@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bumler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u> лодырь, гуляка, кутила
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лодырь, гуляка, кутила</text></cit>
 </sense>
 </entry>
 </superEntry>

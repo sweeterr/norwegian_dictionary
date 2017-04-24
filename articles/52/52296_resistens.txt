@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-сопротивление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопротивление</text></cit>
 </sense>
 <sense>
-<u>биол.</u> сопротивляемость
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопротивляемость</text></cit>
 </sense>
 </entry>
 </superEntry>

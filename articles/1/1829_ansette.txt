@@ -7,28 +7,33 @@
 <inflection><orth>ansatte, ansatt</orth></inflection>
 </form>
 <sense>
-назначать (на должность - i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назначать (на должность - i)</text></cit>
 <сit type="example"><text>være ansatt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занимать должность, быть назначенным (на должность)</text></cit></cit>
 </sense>
 <sense>
-оценивать, расценивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оценивать, расценивать</text></cit>
 <сit type="example"><text>ansette for høyt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переоценить</text></cit></cit>
 </sense>
 <sense>
-<u>хим.</u> осаждать
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осаждать</text></cit>
 </sense>
 <sense>
-<u>воен.</u> досылать (снаряд)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>досылать (снаряд)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> нападать, <u>перен.</u> делать нападки (на кого-л.)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нападать, <lbl>перен.</lbl> делать нападки (на кого-л.)</text></cit>
 <сit type="example"><text>komme ansettende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мчаться во весь опор, нестись</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> крепить
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепить</text></cit>
 </sense>
 <sense>
-<u>муз.</u> давать вступительный (начальный) аккорд
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать вступительный (начальный) аккорд</text></cit>
 <сit type="example"><text>ansette seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осаждаться, садиться (о пыли)</text></cit></cit>
 </sense>
 </entry>

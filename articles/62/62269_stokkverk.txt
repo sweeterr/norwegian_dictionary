@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-этаж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>этаж</text></cit>
 </sense>
 <sense>
-<u>горн.</u> штокверк
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штокверк</text></cit>
 </sense>
 <sense>
-<u>диал.</u> венец из брёвен (в срубе)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>венец из брёвен (в срубе)</text></cit>
 </sense>
 <sense>
-сооружение из брёвен (мост, пандус и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сооружение из брёвен (мост, пандус и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

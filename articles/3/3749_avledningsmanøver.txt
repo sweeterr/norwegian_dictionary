@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">avledningsmanøver</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u>, <u>перен.</u> отвлекающий манёвр
+<usg>воен.</usg>
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвлекающий манёвр</text></cit>
 <сit type="example"><text>foreta en avledningsmanøver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> намеренно вводить в заблуждение, отвлекать внимание от обсуждаемого вопроса, направлять по ложному следу намеренно, сбивать с толку</text></cit></cit>
 </sense>
 </entry>

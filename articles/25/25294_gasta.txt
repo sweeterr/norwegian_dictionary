@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">gasta</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-большой, огромный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой, огромный</text></cit>
 </sense>
 <sense>
-замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замечательный</text></cit>
 </sense>
 <sense>
-ловкий, искусный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловкий, искусный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

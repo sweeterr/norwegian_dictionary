@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">membranøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-перепончатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перепончатый</text></cit>
 </sense>
 </entry>
 </superEntry>

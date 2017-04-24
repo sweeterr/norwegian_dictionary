@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">obduksjonssal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> секционный зал
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секционный зал</text></cit>
 </sense>
 </entry>
 </superEntry>

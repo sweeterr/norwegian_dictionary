@@ -6,10 +6,10 @@
 <orth type="lemma">høyre</orth>
 </form>
 <sense>
-правая консервативная партия (det høyre)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правая консервативная партия (det høyre)</text></cit>
 </sense>
 <sense>
-партия «Хёйре» («Правая» - буржуазная партия в Норвегии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партия «Хёйре» («Правая» - буржуазная партия в Норвегии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">høyre</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-правый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правый</text></cit>
 <сit type="example"><text>høyre om!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на пра-во! (команда)</text></cit></cit>
 <сit type="example"><text>til høyre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вправо, направо</text></cit></cit>
 <сit type="example"><text>til høyre for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>… справа от …</text></cit></cit>

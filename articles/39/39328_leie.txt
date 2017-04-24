@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-аренда, наём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аренда, наём</text></cit>
 <сit type="example"><text>bo til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать комнату для жилья</text></cit></cit>
 <сit type="example"><text>ha til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём</text></cit></cit>
 <сit type="example"><text>være til leie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдаваться внаём</text></cit></cit>
 </sense>
 <sense>
-арендная плата (за снимаемое помещение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арендная плата (за снимаемое помещение)</text></cit>
 <сit type="example"><text>legge på leien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повысить плату за снимаемое помещение</text></cit></cit>
 </sense>
 </entry>
@@ -24,19 +24,20 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-ложе, постель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложе, постель</text></cit>
 </sense>
 <sense>
-русло (реки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>русло (реки)</text></cit>
 </sense>
 <sense>
-рыбацкий посёлок (на побережье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбацкий посёлок (на побережье)</text></cit>
 </sense>
 <sense>
-уровень <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уровень <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-<u>геол.</u> жила, пласт
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жила, пласт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -44,7 +45,7 @@
 <form>
 <orth type="lemma">leie</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
-вести
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести</text></cit>
 <сit type="example"><text>leie ved (i) hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести за руку</text></cit></cit>
 </sense>
 </entry>
@@ -55,21 +56,21 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-сдавать внаём (в аренду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём (в аренду)</text></cit>
 </sense>
 <sense>
-снимать (помещение; у кого-л. - av, hos én)
-<сit type = "example"><text>leie seg inn hos Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> снять помещение у кого-л.</text></cit></cit>
-<сit type = "example"><text>leie seg inn hos Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поселиться у кого-л. (за плату), быть на полном пансионе у кого-л. (за плату)</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать (помещение; у кого-л. - av, hos én)</text></cit>
+<сit type = "example"><text>leie seg inn hos Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> снять помещение у кого-л.</text></cit></cit>
+<сit type = "example"><text>leie seg inn hos Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поселиться у кого-л. (за плату), быть на полном пансионе у кого-л. (за плату)</text></cit></cit>
 </sense>
 <sense>
-брать напрокат (рояль, автомашину и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брать напрокат (рояль, автомашину и т. д.)</text></cit>
 </sense>
 <sense>
-арендовать землю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арендовать землю</text></cit>
 </sense>
 <sense>
-нанимать (на работу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нанимать (на работу)</text></cit>
 <сit type="example"><text>leie bort (ut)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём</text></cit></cit>
 </sense>
 </entry>

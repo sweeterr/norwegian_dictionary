@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bevoktningsmannskap</orth>
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
-<u>воен.</u> личный состав караула (охранения)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>личный состав караула (охранения)</text></cit>
 </sense>
 </entry>
 </superEntry>

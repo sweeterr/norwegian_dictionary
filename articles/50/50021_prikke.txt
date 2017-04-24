@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prikke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-см. prikk I
+<ref>prikk I</ref>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-колоть, уколоть, проколоть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колоть, уколоть, проколоть</text></cit>
 </sense>
 <sense>
-слегка похлопывать, тыкать пальцем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка похлопывать, тыкать пальцем</text></cit>
 </sense>
 <sense>
-покалывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покалывать</text></cit>
 </sense>
 <sense>
-накалывать (рисунок), отмечать пунктиром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накалывать (рисунок), отмечать пунктиром</text></cit>
 </sense>
 </entry>
 </superEntry>

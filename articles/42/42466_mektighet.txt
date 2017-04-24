@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-мощь, сила, величие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощь, сила, величие</text></cit>
 </sense>
 <sense>
-<u>горн.</u> мощность (пласта)
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощность (пласта)</text></cit>
 </sense>
 </entry>
 </superEntry>

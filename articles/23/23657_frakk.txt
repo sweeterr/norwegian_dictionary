@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пальто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пальто</text></cit>
 <сit type="example"><text>beholde frakken på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не снять пальто, остаться в пальто</text></cit></cit>
 </sense>
 <sense>
-сюртук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сюртук</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,9 +19,9 @@
 <form>
 <orth type="lemma">frakk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> дельный, толковый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дельный, толковый</text></cit>
 </sense>
 </entry>
 </superEntry>

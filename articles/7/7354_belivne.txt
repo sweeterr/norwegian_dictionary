@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belivne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> оживлять
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживлять</text></cit>
 <сit type="example"><text>som belivnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как живой</text></cit></cit>
 </sense>
 </entry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">akseptnektelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фин.</u>
+<usg>фин.</usg>
 </form>
 <sense>
-непринятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непринятие</text></cit>
 </sense>
 <sense>
-отказ в акцепте (векселя и т.п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отказ в акцепте (векселя и т.п.)</text></cit>
 </sense>
 <sense>
-неакцептование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неакцептование</text></cit>
 </sense>
 </entry>
 </superEntry>

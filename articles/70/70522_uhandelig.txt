@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">uhandelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-громоздкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>громоздкий</text></cit>
 </sense>
 <sense>
-неудобный в пользовании (об инструменте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неудобный в пользовании (об инструменте)</text></cit>
 </sense>
 </entry>
 </superEntry>

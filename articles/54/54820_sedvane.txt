@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sedvane</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-привычка, обыкновение, обычай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привычка, обыкновение, обычай</text></cit>
 <сit type="example"><text>etter sedvane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по привычке, по обыкновению</text></cit></cit>
 <сit type="example"><text>mot sedvane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против обычая, вопреки обычаю</text></cit></cit>
 <сit type="example"><text>ha for sedvane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь привычку (делать что-л.)</text></cit></cit>

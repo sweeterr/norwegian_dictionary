@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">veddeløp</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-состязание в беге
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состязание в беге</text></cit>
 </sense>
 <sense>
-скачки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скачки</text></cit>
 </sense>
 <sense>
-велогонки, мотогонки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>велогонки, мотогонки</text></cit>
 </sense>
 </entry>
 </superEntry>

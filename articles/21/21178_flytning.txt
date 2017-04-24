@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-переезд, переселение, кочёвка, перекочёвка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переезд, переселение, кочёвка, перекочёвка</text></cit>
 <сit type="example"><text>være på flytning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переезжать, переселяться, перекочёвывать</text></cit></cit>
 </sense>
 <sense>
-перемещение, перестановка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перемещение, перестановка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">flytning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-течение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течение</text></cit>
 </sense>
 </entry>
 </superEntry>

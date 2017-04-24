@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barnebibliotek</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-детская библиотека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детская библиотека</text></cit>
 </sense>
 </entry>
 </superEntry>

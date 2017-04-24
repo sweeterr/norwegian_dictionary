@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">versne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> ухудшаться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухудшаться</text></cit>
 </sense>
 </entry>
 </superEntry>

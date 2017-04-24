@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-лозунг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лозунг</text></cit>
 <сit type="example"><text>realisere en parole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осуществлять идею лозунга</text></cit></cit>
 <сit type="example"><text>stille en parole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвигать лозунг</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> пропуск, пароль
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропуск, пароль</text></cit>
 <сit type="example"><text>gi parole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вручать пароль</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> совещание для объявления приказов
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совещание для объявления приказов</text></cit>
 <сit type="example"><text>lystre parole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подчиниться приказу</text></cit></cit>
 <сit type="example"><text>på parole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на честное слово</text></cit></cit>
 </sense>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-наездник, всадник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наездник, всадник</text></cit>
 </sense>
 <sense>
-<u>воен.</u> кавалерист
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кавалерист</text></cit>
 </sense>
 <sense>
-<u>шахм.</u> конь
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конь</text></cit>
 </sense>
 </entry>
 </superEntry>

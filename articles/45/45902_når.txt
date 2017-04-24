@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">når</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-когда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>когда</text></cit>
 <сit type="example"><text>når som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в любое время, когда угодно</text></cit></cit>
 </sense>
 </entry>
@@ -16,13 +16,13 @@
 <gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
-всякий раз как, как только
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всякий раз как, как только</text></cit>
 </sense>
 <sense>
-раз уж, если уж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раз уж, если уж</text></cit>
 </sense>
 <sense>
-если бы, хоть бы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>если бы, хоть бы</text></cit>
 </sense>
 </entry>
 </superEntry>

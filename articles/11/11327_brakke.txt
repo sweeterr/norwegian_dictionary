@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-барак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барак</text></cit>
 </sense>
 <sense>
-деревянная казарма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная казарма</text></cit>
 </sense>
 <sense>
-тюремная камера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тюремная камера</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">brakke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-возделывать землю под пар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возделывать землю под пар</text></cit>
 </sense>
 </entry>
 </superEntry>

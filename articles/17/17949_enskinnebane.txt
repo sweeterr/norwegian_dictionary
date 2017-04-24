@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enskinnebane</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ж.-д.</u> однорельсовая железная дорога
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однорельсовая железная дорога</text></cit>
 </sense>
 </entry>
 </superEntry>

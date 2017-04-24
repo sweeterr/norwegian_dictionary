@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">tungfør</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-передвигающийся с трудом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передвигающийся с трудом</text></cit>
 </sense>
 <sense>
-медлительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлительный</text></cit>
 </sense>
 </entry>
 </superEntry>

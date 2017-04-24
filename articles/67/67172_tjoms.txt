@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tjoms</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-чудак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чудак</text></cit>
 </sense>
 <sense>
-«свой парень»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«свой парень»</text></cit>
 </sense>
 </entry>
 </superEntry>

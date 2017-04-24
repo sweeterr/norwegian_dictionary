@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gløgg</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-глинтвейн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глинтвейн</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">gløgg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-смышлёный, сообразительный, толковый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смышлёный, сообразительный, толковый</text></cit>
 </sense>
 <sense>
-находчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

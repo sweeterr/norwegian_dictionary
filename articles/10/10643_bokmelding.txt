@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bokmelding</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-рецензия на книгу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рецензия на книгу</text></cit>
 </sense>
 </entry>
 </superEntry>

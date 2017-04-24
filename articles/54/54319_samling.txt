@@ -7,27 +7,28 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-собирание, коллекционирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирание, коллекционирование</text></cit>
 </sense>
 <sense>
-собрание, коллекция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание, коллекция</text></cit>
 </sense>
 <sense>
-собрание, встреча, сбор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание, встреча, сбор</text></cit>
 </sense>
 <sense>
-сессия (Стортинга, парламента)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сессия (Стортинга, парламента)</text></cit>
 </sense>
 <sense>
-объединение (государства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объединение (государства)</text></cit>
 </sense>
 <sense>
-рассудок, разум
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассудок, разум</text></cit>
 <сit type="example"><text>være ved (full) sans og samling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в полном рассудке</text></cit></cit>
 <сit type="example"><text>være fra sans og samling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне себя, потерять рассудок</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> сосредоточение, стягивание (войск)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сосредоточение, стягивание (войск)</text></cit>
 </sense>
 </entry>
 </superEntry>

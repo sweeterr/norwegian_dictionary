@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rediskontere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>фин.</u> переучесть вексель
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переучесть вексель</text></cit>
 </sense>
 </entry>
 </superEntry>

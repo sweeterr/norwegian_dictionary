@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">konvertibel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-обратимый, изменяемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратимый, изменяемый</text></cit>
 </sense>
 </entry>
 </superEntry>

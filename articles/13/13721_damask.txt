@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">damask</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>текст.</u> атлас, камка, камчатая ткань
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атлас, камка, камчатая ткань</text></cit>
 </sense>
 </entry>
 </superEntry>

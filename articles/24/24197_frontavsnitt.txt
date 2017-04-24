@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frontavsnitt</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-участок (сектор) фронта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участок (сектор) фронта</text></cit>
 <сit type="example"><text>et betrengt frontavsnitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опасный участок фронта</text></cit></cit>
 </sense>
 </entry>

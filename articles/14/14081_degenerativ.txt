@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">degenerativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вырождающийся, вырожденческий, дегенеративный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырождающийся, вырожденческий, дегенеративный</text></cit>
 </sense>
 </entry>
 </superEntry>

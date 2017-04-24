@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">forlengsel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> <u>поэт.</u> страстное желание
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страстное желание</text></cit>
 </sense>
 </entry>
 </superEntry>

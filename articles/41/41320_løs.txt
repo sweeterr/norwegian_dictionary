@@ -5,39 +5,38 @@
 <form>
 <orth type="lemma">løs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-свободный, не связанный, не прикреплённый, отвязавшийся, расстегнувшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный, не связанный, не прикреплённый, отвязавшийся, расстегнувшийся</text></cit>
 <сit type="example"><text>være løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оторваться, отпороться, отвязаться, отстегнуться</text></cit></cit>
 </sense>
 <sense>
-съёмный; отстёгивающийся (о воротничке, манжете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>съёмный; отстёгивающийся (о воротничке, манжете)</text></cit>
 </sense>
 <sense>
-рыхлый (о почве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыхлый (о почве)</text></cit>
 </sense>
 <sense>
-просторный, свободный (об одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просторный, свободный (об одежде)</text></cit>
 </sense>
 <sense>
-редкий, неплотный (о ткани)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий, неплотный (о ткани)</text></cit>
 </sense>
 <sense>
-разнузданный, распущенный (о человеке), лёгкого поведения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разнузданный, распущенный (о человеке), лёгкого поведения</text></cit>
 </sense>
 <sense>
-разбушевавшийся (о стихиях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбушевавшийся (о стихиях)</text></cit>
 <сit type="example"><text>bryte løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начаться, разразиться (о буре, войне)</text></cit></cit>
 <сit type="example"><text>gå (springe) løs på noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ринуться на кого-л., наброситься на кого-л.</text></cit></cit>
 </sense>
 <sense>
-неосновательный, необоснованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неосновательный, необоснованный</text></cit>
 <сit type="example"><text>på det løse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случайно, без плана</text></cit></cit>
 </sense>
 <sense>
-слабохарактерный, безвольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабохарактерный, безвольный</text></cit>
 <сit type="example"><text>tale om løst og fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разговаривать о том, о сём</text></cit></cit>
 </sense>
 </entry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utfelling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u>
+<usg>хим.</usg>
 </form>
 <sense>
-выпадение в осадок, осаживание (из жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпадение в осадок, осаживание (из жидкости)</text></cit>
 </sense>
 <sense>
-осадок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадок</text></cit>
 </sense>
 </entry>
 </superEntry>

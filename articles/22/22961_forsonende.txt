@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forsonende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-примирительный, успокаивающий, смягчающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примирительный, успокаивающий, смягчающий</text></cit>
 <сit type="example"><text>forsonende trekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смягчающие (вину) обстоятельства</text></cit></cit>
 </sense>
 </entry>

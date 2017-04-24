@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">hyperbel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>лингв.</u>, <u>мат.</u> гипербола
+<usg>лингв.</usg>
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гипербола</text></cit>
 </sense>
 </entry>
 </superEntry>

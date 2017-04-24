@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">buelys</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>физ.</u> электрическая дуга
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электрическая дуга</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-годовая прибыль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годовая прибыль</text></cit>
 </sense>
 <sense>
-<u>горн.</u> годовая добыча
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годовая добыча</text></cit>
 </sense>
 </entry>
 </superEntry>

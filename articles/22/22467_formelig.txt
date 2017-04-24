@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-настоящий, форменный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий, форменный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> формальный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формальный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">formelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-пластичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пластичный</text></cit>
 </sense>
 </entry>
 </superEntry>

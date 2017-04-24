@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gårdmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-хуторянин, фермер, крестьянин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хуторянин, фермер, крестьянин</text></cit>
 </sense>
 </entry>
 </superEntry>

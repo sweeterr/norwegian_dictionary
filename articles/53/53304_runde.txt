@@ -7,30 +7,35 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-круговое движение, движение по кругу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круговое движение, движение по кругу</text></cit>
 </sense>
 <sense>
-обход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обход</text></cit>
 <сit type="example"><text>ta seg en runde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обойти (место, участок, район)</text></cit></cit>
 </sense>
 <sense>
-обход врача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обход врача</text></cit>
 </sense>
 <sense>
-<u>воен.</u> инспектирование, проверка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инспектирование, проверка</text></cit>
 </sense>
 <sense>
-<u>воен.</u> дозор, патруль, группа поверяющих
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дозор, патруль, группа поверяющих</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> круг (на стадионе, катке, ипподроме)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг (на стадионе, катке, ипподроме)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> тайм, раунд
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайм, раунд</text></cit>
 <сit type="example"><text>bokse en runde på tre minutter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трёхминутный раунд по боксу</text></cit></cit>
 </sense>
 <sense>
-<u>шахм.</u> тур
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тур</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,19 +45,20 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-округлять, делать круглым
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>округлять, делать круглым</text></cit>
 </sense>
 <sense>
-сгибать (в дугу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгибать (в дугу)</text></cit>
 </sense>
 <sense>
-завернуть, повернуть (за угол)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завернуть, повернуть (за угол)</text></cit>
 </sense>
 <sense>
-обтачивать (камни), обтёсывать (лесоматериалы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обтачивать (камни), обтёсывать (лесоматериалы)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> огибать (мыс, берег), проходить мимо (мыса и т. п.)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огибать (мыс, берег), проходить мимо (мыса и т. п.)</text></cit>
 <сit type="example"><text>runde av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>округлять (число, сумму, итог)</text></cit></cit>
 <сit type="example"><text>rundes, runde seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>округляться, становиться круглым</text></cit></cit>
 </sense>

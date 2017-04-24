@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">førstefiolin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> первая скрипка (в оркестре)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первая скрипка (в оркестре)</text></cit>
 <сit type="example"><text>spille førstefiolin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть первую скрипку (<lbl>тж. перен.</lbl>), задавать тон</text></cit></cit>
 </sense>
 </entry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-жизнь, существование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизнь, существование</text></cit>
 <сit type="example"><text>et arbeidsfylt liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудовая жизнь</text></cit></cit>
 <сit type="example"><text>det offentlige liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественная жизнь,жизнь общества</text></cit></cit>
 <сit type="example"><text>aldri i livet, ikke for sitt bare liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни за что на свете</text></cit></cit>
@@ -34,14 +34,14 @@
 <сit type="example"><text>så lenge det er liv, er det håp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> пока живёшь, надеешься</text></cit></cit>
 </sense>
 <sense>
-живое существо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живое существо</text></cit>
 <сit type="example"><text>ikke et liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни души</text></cit></cit>
 </sense>
 <sense>
-живость, оживление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живость, оживление</text></cit>
 </sense>
 <sense>
-страхование жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страхование жизни</text></cit>
 <сit type="example"><text>agent i liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>агент по страхованию жизни</text></cit></cit>
 </sense>
 </entry>
@@ -52,22 +52,22 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-талия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>талия</text></cit>
 <сit type="example"><text>om ens liv, om livet på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг талии, на талию</text></cit></cit>
 </sense>
 <sense>
-живот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живот</text></cit>
 <сit type="example"><text>få noe i livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поесть, <lbl>перен.</lbl> заморить червячка</text></cit></cit>
 <сit type="example"><text>ha hårdt (løst) liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> иметь крепкий (слабый) стул</text></cit></cit>
 <сit type = "example"><text>sette til livs :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поглощать, пожирать</text></cit></cit>
-<сit type = "example"><text>sette til livs :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> глотать, читать запоем</text></cit></cit>
+<сit type = "example"><text>sette til livs :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> глотать, читать запоем</text></cit></cit>
 </sense>
 <sense>
-утроба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утроба</text></cit>
 <сit type="example"><text>fra mors liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с самого рождения</text></cit></cit>
 </sense>
 <sense>
-лиф, лифчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лиф, лифчик</text></cit>
 <сit type = "example"><text>gå én (inn) på livet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вплотную подступить к кому-л.</text></cit></cit>
 <сit type = "example"><text>gå én (inn) på livet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взять кого-л. в оборот</text></cit></cit>
 <сit type="example"><text>holde seg (en, noe) fra livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать кого-л. на известном расстоянии</text></cit></cit>

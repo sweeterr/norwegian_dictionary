@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ene</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-один, одна; в единственном числе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>один, одна; в единственном числе</text></cit>
 <сit type="example"><text>ene og alene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>только, исключительно</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">ene</orth>
 <gramGrp><pos>num</pos></gramGrp>
-определённая форма числ. en; см. en I
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определённая форма числ. en</text></cit>
+<ref>en I</ref>
 </sense>
 </entry>
 <entry>
@@ -24,10 +25,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-соединять воедино, объединять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединять воедино, объединять</text></cit>
 </sense>
 <sense>
-роднить, связывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роднить, связывать</text></cit>
 </sense>
 </entry>
 </superEntry>

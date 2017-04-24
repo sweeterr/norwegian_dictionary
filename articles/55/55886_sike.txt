@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sike</orth>
 <inflection><orth extent="part">-t, =</orth></inflection>
-речка с замедленным течением
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>речка с замедленным течением</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">sike</orth>
 <inflection><orth extent="part">-er (-a), -et (-a)</orth></inflection>
-<u>диал.</u> течь, струиться, сочиться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, струиться, сочиться</text></cit>
 </sense>
 </entry>
 </superEntry>

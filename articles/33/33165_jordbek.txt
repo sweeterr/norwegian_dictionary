@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jordbek</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мин.</u> горная смола, асфальт
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горная смола, асфальт</text></cit>
 </sense>
 </entry>
 </superEntry>

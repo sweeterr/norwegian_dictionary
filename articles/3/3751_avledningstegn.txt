@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avledningstegn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>муз.</u> нотный значок
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нотный значок</text></cit>
 </sense>
 </entry>
 </superEntry>

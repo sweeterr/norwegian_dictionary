@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bernhardiner</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>рел.</u> бернардинец, цистерианский монах
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бернардинец, цистерианский монах</text></cit>
 </sense>
 </entry>
 </superEntry>

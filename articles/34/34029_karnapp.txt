@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">karnapp</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>архит.</u> эркер, боковой фонарь
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эркер, боковой фонарь</text></cit>
 </sense>
 </entry>
 </superEntry>

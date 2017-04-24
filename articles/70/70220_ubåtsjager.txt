@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ubåtsjager</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> охотник за подводными лодками
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охотник за подводными лодками</text></cit>
 </sense>
 </entry>
 </superEntry>

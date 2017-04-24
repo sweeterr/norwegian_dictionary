@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-издательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издательство</text></cit>
 <сit type="example"><text>på eget forlag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за счёт автора</text></cit></cit>
 </sense>
 <sense>
-издание, выпуск (книг, журналов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издание, выпуск (книг, журналов)</text></cit>
 </sense>
 <sense>
-<u>эк.</u> вложение капитала в предприятие
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вложение капитала в предприятие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,13 +25,16 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-<u>тех.</u> редуктор
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редуктор</text></cit>
 </sense>
 <sense>
-<u>эл.</u> сопротивление (деталь)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопротивление (деталь)</text></cit>
 </sense>
 <sense>
-<u>хим.</u> конденсатор
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конденсатор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kineser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-китаец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>китаец</text></cit>
 <сit type="example"><text>du store kineser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да ну?, да что вы? (выражение сильного удивления)</text></cit></cit>
 </sense>
 </entry>

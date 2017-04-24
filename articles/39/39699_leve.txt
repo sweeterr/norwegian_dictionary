@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">leve</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-здравица, заздравный тост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здравица, заздравный тост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
-жить, существовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жить, существовать</text></cit>
 <сit type="example"><text>hvorledes lever De?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вы поживаете?</text></cit></cit>
 <сit type="example"><text>lev vel!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будь здоров!, до свидания!</text></cit></cit>
 <сit type="example"><text>leve!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да здравствует!</text></cit></cit>
@@ -40,7 +40,7 @@
 <сit type="example"><text>Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>lærer så lenge én lever <lbl>посл.</lbl> век живи - век учись</text></cit></cit>
 </sense>
 <sense>
-жить, обитать, пребывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жить, обитать, пребывать</text></cit>
 <сit type = "example"><text>leve opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> ожить</text></cit></cit>
 <сit type = "example"><text>leve opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> подрасти</text></cit></cit>
 <сit type="example"><text>leve sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сожительствовать (с кем-л. - med)</text></cit></cit>

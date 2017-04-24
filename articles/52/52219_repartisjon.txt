@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">repartisjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> деление, распределение (пропорционально)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деление, распределение (пропорционально)</text></cit>
 </sense>
 </entry>
 </superEntry>

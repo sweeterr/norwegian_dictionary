@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bemanne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> комплектовать личным составом
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплектовать личным составом</text></cit>
 </sense>
 </entry>
 </superEntry>

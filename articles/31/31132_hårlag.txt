@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hårlag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-шерсть на животных
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шерсть на животных</text></cit>
 <сit type="example"><text>med kort (langt) hårlag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с короткой (длинной) шерстью</text></cit></cit>
 </sense>
 </entry>

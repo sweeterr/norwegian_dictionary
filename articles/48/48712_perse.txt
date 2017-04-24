@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">perse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-пресс (для винограда и т. п.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресс (для винограда и т. п.</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +15,11 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-жать, сдавливать, выжимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жать, сдавливать, выжимать</text></cit>
 <сit type="example"><text>perse noe på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> навязывать что-л. кому-л.</text></cit></cit>
 </sense>
 <sense>
-утюжить, наглаживать (складки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утюжить, наглаживать (складки)</text></cit>
 <сit type="example"><text>perse én til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принуждать, заставлять</text></cit></cit>
 <сit type="example"><text>perse ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выжимать</text></cit></cit>
 </sense>

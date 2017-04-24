@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">seilasbeskrivelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> периодические добавления к лоции
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>периодические добавления к лоции</text></cit>
 </sense>
 </entry>
 </superEntry>

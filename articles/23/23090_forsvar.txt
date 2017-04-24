@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-защита <u>тж.</u> <u>юр.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защита <lbl>тж.</lbl> <lbl>юр.</lbl></text></cit>
 <сit type="example"><text>ta en i forsvar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать кого-л. под защиту</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> оборона
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборона</text></cit>
 <сit type="example"><text>ordne seg til forsvar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>организовать оборону</text></cit></cit>
 </sense>
 <sense>
-вооружённые силы (страны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вооружённые силы (страны)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> защита (в футболе и т. п.)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защита (в футболе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

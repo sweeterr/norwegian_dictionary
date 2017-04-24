@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">albansk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-албанский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>албанский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">albansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-албанский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>албанский</text></cit>
 </sense>
 </entry>
 </superEntry>

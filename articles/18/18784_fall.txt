@@ -7,31 +7,33 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-падение <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падение <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>teppets fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опускание занавеса (в театре)</text></cit></cit>
 <сit type="example"><text>stå for fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на краю гибели, стоять перед угрозой разорения (гибели)</text></cit></cit>
 </sense>
 <sense>
-обвал, оползень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвал, оползень</text></cit>
 </sense>
 <sense>
-лесной завал, бурелом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесной завал, бурелом</text></cit>
 </sense>
 <sense>
-<u>разг.</u> массовый выход в море (норвежских рыболовов)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>массовый выход в море (норвежских рыболовов)</text></cit>
 <сit type="example"><text>klar til fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готов к отплытию (на ловлю рыбы)</text></cit></cit>
 </sense>
 <sense>
-склон (горы), уклон (дороги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склон (горы), уклон (дороги)</text></cit>
 </sense>
 <sense>
-водопад, порог (на реке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водопад, порог (на реке)</text></cit>
 </sense>
 <sense>
-мелководье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелководье</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бурун, морской прибой
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурун, морской прибой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,7 +43,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-случай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случай</text></cit>
 <сit type="example"><text>i fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в случае если; если</text></cit></cit>
 <сit type="example"><text>i alle fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во всяком случае</text></cit></cit>
 <сit type="example"><text>i alt fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в любом случае</text></cit></cit>
@@ -52,7 +54,8 @@
 <сit type="example"><text>i verste fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в худшем случае, на худой конец</text></cit></cit>
 </sense>
 <sense>
-<u>грам.</u> падеж
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падеж</text></cit>
 </sense>
 </entry>
 <entry>
@@ -60,7 +63,8 @@
 <form>
 <orth type="lemma">fall</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> фал
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фал</text></cit>
 </sense>
 </entry>
 </superEntry>

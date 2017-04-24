@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">katet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> катет
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катет</text></cit>
 </sense>
 </entry>
 </superEntry>

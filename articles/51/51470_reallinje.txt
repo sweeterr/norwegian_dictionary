@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reallinje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>школ.</u> реальный уклон
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальный уклон</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">plantefysiologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-физиология растений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физиология растений</text></cit>
 </sense>
 </entry>
 </superEntry>

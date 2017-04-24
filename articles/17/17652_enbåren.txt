@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">enbåren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-единородный, единственный в своем роде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>единородный, единственный в своем роде</text></cit>
 <сit type="example"><text>Guds enbårne sønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Единородный Сын Божий</text></cit></cit>
 </sense>
 </entry>

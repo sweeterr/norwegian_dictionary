@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-борода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борода</text></cit>
 <сit type="example"><text>engelsk skjegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баки, бакенбарды</text></cit></cit>
 <сit type="example"><text>le i skjegget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смеяться в бороду</text></cit></cit>
 <сit type="example"><text>mumle i skjegget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бубнить, бормотать себе под нос</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>ta skjegget (viske ut skjegget)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> бриться</text></cit></cit>
 </sense>
 <sense>
-бородка ключа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бородка ключа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +23,8 @@
 <form>
 <orth type="lemma">skjegg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> бородатый человек, бородач
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бородатый человек, бородач</text></cit>
 </sense>
 </entry>
 </superEntry>

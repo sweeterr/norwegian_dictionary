@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gryle</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> урчать, хрюкать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>урчать, хрюкать</text></cit>
 </sense>
 </entry>
 </superEntry>

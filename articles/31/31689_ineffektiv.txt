@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">ineffektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неэффективный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неэффективный</text></cit>
 </sense>
 </entry>
 </superEntry>

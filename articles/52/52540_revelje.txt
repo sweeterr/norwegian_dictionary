@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">revelje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> утренняя зоря, побудка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утренняя зоря, побудка</text></cit>
 <сit type="example"><text>blåse revelje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть подъём</text></cit></cit>
 <сit type="example"><text>slå revelje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить зорю (на барабане)</text></cit></cit>
 </sense>

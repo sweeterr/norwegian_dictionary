@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">smyge</orth>
-<inflection><orth>smøg (<u>диал.</u> smaug), smøget (smygt)</orth></inflection>
+<inflection><orth>smøg (<lbl>диал.</lbl> smaug), smøget (smygt)</orth></inflection>
 </form>
 <sense>
-пробираться, проползать, шмыгнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробираться, проползать, шмыгнуть</text></cit>
 </sense>
 <sense>
-извиваться (о дороге, реке, фиорде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться (о дороге, реке, фиорде)</text></cit>
 </sense>
 <sense>
-пресмыкаться (перед кем-л. - for); подлизываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресмыкаться (перед кем-л. - for); подлизываться</text></cit>
 <сit type="example"><text>smyge av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать, сбрасывать (покрывало, одежду, обувь)</text></cit></cit>
 <сit type="example"><text>smyge på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надеть, натянуть (одежду, обувь)</text></cit></cit>
 </sense>

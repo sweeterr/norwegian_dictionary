@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ballastmerke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отметка, показывающая осадку судна при полном балласте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отметка, показывающая осадку судна при полном балласте</text></cit>
 </sense>
 <sense>
-знак (указатель) в порту, где разрешено сбрасывать балласт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знак (указатель) в порту, где разрешено сбрасывать балласт</text></cit>
 </sense>
 </entry>
 </superEntry>

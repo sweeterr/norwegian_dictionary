@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-недостаток, порок, изъян
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недостаток, порок, изъян</text></cit>
 <сit type="example"><text>uten plett og lyte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без малейшего изъяна</text></cit></cit>
 </sense>
 <sense>
-физический недостаток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физический недостаток</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">lyte</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u> портить, уродовать (фигуру, лицо)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портить, уродовать (фигуру, лицо)</text></cit>
 </sense>
 </entry>
 </superEntry>

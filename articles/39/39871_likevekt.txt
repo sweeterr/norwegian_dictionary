@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-равновесие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равновесие</text></cit>
 <сit type="example"><text>labil (stabil) likevekt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неустойчивое (устойчивое) равновесие</text></cit></cit>
 <сit type="example"><text>bringe ut av likevekt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выводить из равновесия</text></cit></cit>
 <сit type="example"><text>gjenvinne likevekten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вновь обрести равновесие</text></cit></cit>
@@ -16,10 +16,10 @@
 <сit type="example"><text>være i likevekt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в равновесии</text></cit></cit>
 </sense>
 <sense>
-уравновешенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уравновешенность</text></cit>
 </sense>
 <sense>
-равномерное ударение (в слове)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равномерное ударение (в слове)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">tvage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-промывать, полоскать в тёплой воде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промывать, полоскать в тёплой воде</text></cit>
 </sense>
 <sense>
-шлёпать по сырости (воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёпать по сырости (воде)</text></cit>
 </sense>
 <sense>
-мочиться (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мочиться (о животных)</text></cit>
 </sense>
 </entry>
 </superEntry>

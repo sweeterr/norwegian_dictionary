@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dobbel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-игра в кости на деньги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра в кости на деньги</text></cit>
 <сit type="example"><text>dobbel og drikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>азартные игры и пьянство</text></cit></cit>
 </sense>
 </entry>

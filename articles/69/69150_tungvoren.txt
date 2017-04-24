@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">tungvoren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-хмурый, пасмурный, унылый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хмурый, пасмурный, унылый</text></cit>
 </sense>
 <sense>
-трудный, затруднительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный, затруднительный</text></cit>
 </sense>
 </entry>
 </superEntry>

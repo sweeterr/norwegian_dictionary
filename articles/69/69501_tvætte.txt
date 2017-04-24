@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tvætte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> мыть, обмывать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мыть, обмывать</text></cit>
 <ref>tvette</ref>
 </sense>
 </entry>

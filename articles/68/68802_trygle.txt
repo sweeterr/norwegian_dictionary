@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-просить, упрашивать, умолять, клянчить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просить, упрашивать, умолять, клянчить</text></cit>
 <сit type="example"><text>få én tryglet ned til hjørnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выклянчить</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> просить милостыню
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просить милостыню</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ruvle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-морщина, складка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морщина, складка</text></cit>
 </sense>
 <sense>
-борозда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борозда</text></cit>
 </sense>
 </entry>
 </superEntry>

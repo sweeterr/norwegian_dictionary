@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kampgal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-драчливый, задиристый, рвущийся в драку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>драчливый, задиристый, рвущийся в драку</text></cit>
 </sense>
 </entry>
 </superEntry>

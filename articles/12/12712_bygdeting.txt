@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bygdeting</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> вече, собрание жителей района, волости (в Норвегии)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вече, собрание жителей района, волости (в Норвегии)</text></cit>
 </sense>
 </entry>
 </superEntry>

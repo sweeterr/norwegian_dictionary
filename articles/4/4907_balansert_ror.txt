@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balansert ror</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> балансирный руль
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балансирный руль</text></cit>
 </sense>
 </entry>
 </superEntry>

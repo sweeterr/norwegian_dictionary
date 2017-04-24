@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">teglrød</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-кирпично-красный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кирпично-красный</text></cit>
 </sense>
 </entry>
 </superEntry>

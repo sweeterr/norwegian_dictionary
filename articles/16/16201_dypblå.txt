@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">dypblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-тёмно-голубой, синий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмно-голубой, синий</text></cit>
 </sense>
 </entry>
 </superEntry>

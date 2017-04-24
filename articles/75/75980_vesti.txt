@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vesti</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-на запад, к западу, далее на запад, западнее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на запад, к западу, далее на запад, западнее</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vesti</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-на запад в (горы и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на запад в (горы и т. д.)</text></cit>
 </sense>
 </entry>
 </superEntry>

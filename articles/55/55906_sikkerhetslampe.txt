@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sikkerhetslampe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>горн.</u> рудничная лампа, шахтная лампа
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рудничная лампа, шахтная лампа</text></cit>
 </sense>
 </entry>
 </superEntry>

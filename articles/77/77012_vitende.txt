@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-знание, осведомлённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знание, осведомлённость</text></cit>
 <сit type="example"><text>med (uten) mitt vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с (без) моего ведома</text></cit></cit>
 </sense>
 <sense>
-понимание, сознание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понимание, сознание</text></cit>
 <сit type="example"><text>med fullt vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полностью осознавая</text></cit></cit>
 <сit type="example"><text>med vitende og vilje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сознавая, отдавая себе отчёт (в чём-л.)</text></cit></cit>
 <сit type="example"><text>mot sitt bedre vitende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против своих убеждений</text></cit></cit>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">vitende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-знающий, сведущий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знающий, сведущий</text></cit>
 <сit type="example"><text>bli (være) vitende om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать, быть в курсе</text></cit></cit>
 </sense>
 </entry>

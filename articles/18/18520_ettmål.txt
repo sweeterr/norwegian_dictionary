@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ettmål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> сутки (считая от полудня до полудня)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сутки (считая от полудня до полудня)</text></cit>
 <сit type="example"><text>ettmålet rundt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в течение суток, за сутки</text></cit></cit>
 </sense>
 </entry>

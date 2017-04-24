@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">feiltagelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-ошибка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибка</text></cit>
 <сit type="example"><text>ved en feiltagelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по ошибке, не нарочно</text></cit></cit>
 </sense>
 </entry>

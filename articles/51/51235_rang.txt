@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-ранг, чин, звание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ранг, чин, звание</text></cit>
 <сit type="example"><text>være i rang med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть одинакового ранга (чина, звания) с кем-л.</text></cit></cit>
 </sense>
 <sense>
-разряд, степень, класс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разряд, степень, класс</text></cit>
 <сit type="example"><text>av første rang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первого разряда, первого класса</text></cit></cit>
 <сit type="example"><text>av rang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдающийся</text></cit></cit>
 <сit type="example"><text>ha rangen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь преимущество перед кем-л.</text></cit></cit>
@@ -22,7 +22,9 @@
 <form>
 <orth type="lemma">rang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> <u>мор.</u> шпангоут
+<usg>разг.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпангоут</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,18 +32,17 @@
 <form>
 <orth type="lemma">rang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ошибочный, ложный, неправильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибочный, ложный, неправильный</text></cit>
 </sense>
 <sense>
-фальшивый, лживый (о клятве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальшивый, лживый (о клятве)</text></cit>
 </sense>
 <sense>
-несправедливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несправедливый</text></cit>
 </sense>
 </entry>
 </superEntry>

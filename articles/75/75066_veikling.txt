@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veikling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-хилый (болезненный) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый (болезненный) человек</text></cit>
 </sense>
 <sense>
-слабовольный (слабохарактерный) человек, «тряпка»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабовольный (слабохарактерный) человек, «тряпка»</text></cit>
 </sense>
 </entry>
 </superEntry>

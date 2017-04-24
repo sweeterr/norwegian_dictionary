@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-чоканье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чоканье</text></cit>
 </sense>
 <sense>
-звон (посуды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звон (посуды)</text></cit>
 </sense>
 <sense>
-название детской игры (в которой бросают шарики об стену)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>название детской игры (в которой бросают шарики об стену)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">klink</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-клинкер (строительный материал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клинкер (строительный материал)</text></cit>
 </sense>
 </entry>
 </superEntry>

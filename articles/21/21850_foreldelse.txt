@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">foreldelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>юр.</u> давность
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давность</text></cit>
 </sense>
 </entry>
 </superEntry>

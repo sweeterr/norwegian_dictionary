@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">narvemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> пресс для тиснения по коже
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресс для тиснения по коже</text></cit>
 </sense>
 </entry>
 </superEntry>

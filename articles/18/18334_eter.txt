@@ -7,14 +7,16 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-эфир, воздух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эфир, воздух</text></cit>
 </sense>
 <sense>
-<u>хим.</u> эфир
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эфир</text></cit>
 <сit type="example"><text>sammensatt eter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложный эфир</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> небо
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небо</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +24,7 @@
 <form>
 <orth type="lemma">eter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-обжора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжора</text></cit>
 </sense>
 </entry>
 </superEntry>

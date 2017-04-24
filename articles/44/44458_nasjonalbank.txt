@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nasjonalbank</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эк.</u> государственный банк
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>государственный банк</text></cit>
 </sense>
 </entry>
 </superEntry>

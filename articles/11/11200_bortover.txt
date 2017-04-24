@@ -7,11 +7,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-указывает на местонахождение предмета на расстоянии от говорящего на той стороне, вон там, там вдали
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на местонахождение предмета на расстоянии от говорящего на той стороне, вон там, там вдали</text></cit>
 <сit type="example"><text>fjellet bortover</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горы там вдали</text></cit></cit>
 </sense>
 <sense>
-указывает на движение через что-л. в сторону от говорящего в ту сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на движение через что-л. в сторону от говорящего в ту сторону</text></cit>
 <сit type="example"><text>og sånn bortover</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и так далее, и тому подобное</text></cit></cit>
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">bortover</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на положение по ту сторону реки, улицы и т. д. по ту сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на положение по ту сторону реки, улицы и т. д. по ту сторону</text></cit>
 <сit type="example"><text>bortover gaten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по ту сторону улицы</text></cit></cit>
 </sense>
 </entry>

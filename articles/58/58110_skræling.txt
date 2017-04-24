@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skræling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-изнеженный человек, неженка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изнеженный человек, неженка</text></cit>
 </sense>
 <sense>
-эскимос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эскимос</text></cit>
 </sense>
 </entry>
 </superEntry>

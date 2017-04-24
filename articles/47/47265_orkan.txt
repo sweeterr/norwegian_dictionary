@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">orkan</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-ураган, сильный шторм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ураган, сильный шторм</text></cit>
 <сit type="example"><text>tropisk orkan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смерч</text></cit></cit>
 <сit type="example"><text>en orkan av bifall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гром аплодисментов</text></cit></cit>
 <сit type="example"><text>orkaner av lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потоки света</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">piggsopp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-колчак, ёжевик (гриб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колчак, ёжевик (гриб)</text></cit>
 <сit type="example"><text>brun piggsopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пёстрый колчак</text></cit></cit>
 <сit type="example"><text>lys piggsopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтый колчак</text></cit></cit>
 </sense>

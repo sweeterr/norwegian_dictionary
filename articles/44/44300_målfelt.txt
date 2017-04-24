@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">målfelt</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> вратарская площадка
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вратарская площадка</text></cit>
 </sense>
 </entry>
 </superEntry>

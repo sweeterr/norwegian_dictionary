@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hol</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> кочка (на болоте)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кочка (на болоте)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">hol</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> см. hull
+<usg>диал.</usg>
+<ref>hull</ref>
 </sense>
 </entry>
 </superEntry>

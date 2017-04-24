@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-<u>ист.</u> охранная грамота
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охранная грамота</text></cit>
 </sense>
 <sense>
-пропуск (куда-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропуск (куда-л.)</text></cit>
 <сit type="example"><text>få fritt leide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить право свободного передвижения (по какому-л. закрытому району)</text></cit></cit>
 </sense>
 </entry>

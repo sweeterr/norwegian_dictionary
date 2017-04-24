@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bagasjekjerre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ж.-д.</u> багажная тележка
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багажная тележка</text></cit>
 </sense>
 </entry>
 </superEntry>

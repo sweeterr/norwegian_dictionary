@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klippe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-скала, утёс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скала, утёс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,20 +15,21 @@
 <inflection><orth extent="part">-te(-pet), -t (-pet)</orth></inflection>
 </form>
 <sense>
-стричь, подстригать (волосы, траву, ногти и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стричь, подстригать (волосы, траву, ногти и т. п.)</text></cit>
 </sense>
 <sense>
-резать, обрезать (ножницами), кроить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резать, обрезать (ножницами), кроить</text></cit>
 </sense>
 <sense>
-компостировать, пробивать, простригать (билеты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компостировать, пробивать, простригать (билеты)</text></cit>
 </sense>
 <sense>
-моргать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моргать</text></cit>
 <сit type="example"><text>klippe med øynene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поводить глазами</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> подавать проблесковые сигналы
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавать проблесковые сигналы</text></cit>
 <сit type="example"><text>klippe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать</text></cit></cit>
 <сit type="example"><text>klippe over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перерезать, разрезать</text></cit></cit>
 <сit type="example"><text>klippe ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вырезать</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enskjønt</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-<u>уст.</u> хотя бы, хотя
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хотя бы, хотя</text></cit>
 </sense>
 </entry>
 </superEntry>

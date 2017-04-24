@@ -7,17 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-вино
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вино</text></cit>
 <сit type="example"><text>alkoholfri vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>безалкогольный напиток</text></cit></cit>
 <сit type="example"><text>edel vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокосортное вино</text></cit></cit>
 <сit type="example"><text>ekte (gammel, ny, svak) vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натуральное (выдержанное, молодое, лёгкое) вино</text></cit></cit>
 <сit type="example"><text>vinen dannet perler i glasset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вино искрилось в бокале</text></cit></cit>
 </sense>
 <sense>
-виноград (идущий на изготовление вина)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виноград (идущий на изготовление вина)</text></cit>
 </sense>
 <sense>
-виноградная лоза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виноградная лоза</text></cit>
 <сit type="example"><text>vill vin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дикий виноград</text></cit></cit>
 </sense>
 </entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">vin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> луг, лужайка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>луг, лужайка</text></cit>
 </sense>
 </entry>
 </superEntry>

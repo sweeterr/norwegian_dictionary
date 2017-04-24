@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">skjønnsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-разумный, рассудительный, здравомыслящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разумный, рассудительный, здравомыслящий</text></cit>
 </sense>
 </entry>
 </superEntry>

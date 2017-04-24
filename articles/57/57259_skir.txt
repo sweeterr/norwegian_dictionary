@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">skir</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-<u>см.</u> skjær IV
+<ref>skjær IV</ref>
 </sense>
 <sense>
-чистый, без примеси
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, без примеси</text></cit>
 </sense>
 </entry>
 </superEntry>

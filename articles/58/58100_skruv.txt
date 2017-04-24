@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">skruv</orth>
 <inflection><orth extent="part">-et (-en), = (-er)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-верхняя часть шкафа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхняя часть шкафа</text></cit>
 </sense>
 <sense>
-скирд(а) снопов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скирд(а) снопов</text></cit>
 </sense>
 <sense>
-старинный женский головной убор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старинный женский головной убор</text></cit>
 </sense>
 </entry>
 </superEntry>

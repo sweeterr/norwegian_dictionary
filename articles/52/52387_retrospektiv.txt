@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">retrospektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-ретроспективный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ретроспективный</text></cit>
 </sense>
 </entry>
 </superEntry>

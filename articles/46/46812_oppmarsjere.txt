@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">oppmarsjere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-развёртываться, строиться в боевые порядки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развёртываться, строиться в боевые порядки</text></cit>
 </sense>
 <sense>
-сосредоточивать, производить сосредоточение (войск)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сосредоточивать, производить сосредоточение (войск)</text></cit>
 </sense>
 </entry>
 </superEntry>

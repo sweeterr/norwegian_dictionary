@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">regnskur</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-короткий ливень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий ливень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">regnskur</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-навес от дождя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навес от дождя</text></cit>
 </sense>
 </entry>
 </superEntry>

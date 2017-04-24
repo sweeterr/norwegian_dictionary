@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">indikatordiagram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>тех.</u> индикаторная диаграмма
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индикаторная диаграмма</text></cit>
 </sense>
 </entry>
 </superEntry>

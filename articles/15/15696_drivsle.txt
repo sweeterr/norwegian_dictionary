@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drivsle</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> сплав (гонка) леса
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплав (гонка) леса</text></cit>
 </sense>
 </entry>
 </superEntry>

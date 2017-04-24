@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
 </form>
 <sense>
-начальник управления (муниципального совета)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальник управления (муниципального совета)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> член муниципального совета
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>член муниципального совета</text></cit>
 </sense>
 </entry>
 </superEntry>

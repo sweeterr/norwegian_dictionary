@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisemittersperrestrøm</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<u>эл.</u> напряжение отсечки коллектора
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжение отсечки коллектора</text></cit>
 </sense>
 </entry>
 </superEntry>

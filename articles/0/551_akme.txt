@@ -7,10 +7,11 @@
 <gramGrp><pos>inv</pos></gramGrp>
 </form>
 <sense>
-высшая точка, кульминационный пункт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшая точка, кульминационный пункт</text></cit>
 </sense>
 <sense>
-<u>мед.</u> кризис
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кризис</text></cit>
 </sense>
 </entry>
 </superEntry>

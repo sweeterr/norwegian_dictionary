@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">erbium</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> эрбий
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эрбий</text></cit>
 </sense>
 </entry>
 </superEntry>

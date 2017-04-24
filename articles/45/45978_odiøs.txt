@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">odiøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-одиозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одиозный</text></cit>
 </sense>
 <sense>
-злобный, озлобленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злобный, озлобленный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">egenverdi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эк.</u> действительная ценность
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действительная ценность</text></cit>
 </sense>
 </entry>
 </superEntry>

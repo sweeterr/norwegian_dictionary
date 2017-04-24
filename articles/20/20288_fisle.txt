@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fisle</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>редко</u> см. firfisle
+<usg>редко</usg>
+<ref>firfisle</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">fisle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> вилять хвостом (обычно <u>перен.</u> , перед кем-л. - for)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вилять хвостом (обычно <lbl>перен.</lbl> , перед кем-л. - for)</text></cit>
 </sense>
 </entry>
 </superEntry>

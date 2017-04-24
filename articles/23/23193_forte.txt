@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forte</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>муз.</u> форте (громко)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форте (громко)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dagligtale</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-разговорный язык, обиходная речь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разговорный язык, обиходная речь</text></cit>
 </sense>
 </entry>
 </superEntry>

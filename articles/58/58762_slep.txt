@@ -7,23 +7,25 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-буксировка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буксировка</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> ha slep</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на буксире</text></cit></cit>
 <сit type="example"><text>ha (ta) på slep</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>буксировать, брать на буксир</text></cit></cit>
 </sense>
 <sense>
-прицеп, буксируемое судно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прицеп, буксируемое судно</text></cit>
 </sense>
 <sense>
-шлейф, трен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлейф, трен</text></cit>
 </sense>
 <sense>
-<u>мор.</u> слип
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слип</text></cit>
 </sense>
 <sense>
-<u>ист.</u> волок
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волок</text></cit>
 </sense>
 </entry><entry>
 <index></index>

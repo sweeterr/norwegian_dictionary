@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flå</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> лужа, мелкий пруд
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лужа, мелкий пруд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">flå</orth>
 <inflection><orth>flåen (flåa), flåer (flær)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плато
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плато</text></cit>
 </sense>
 <sense>
-высокогорная долина с пологими склонами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокогорная долина с пологими склонами</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">flå</orth>
 <inflection><orth>flåen (flåa), flåer (flær)</orth></inflection>
-<u>диал.</u> поплавок на рыболовной сети
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок на рыболовной сети</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,13 +37,13 @@
 <form>
 <orth type="lemma">flå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плоский, ровный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоский, ровный</text></cit>
 </sense>
 <sense>
-грубый, невоздержанный на язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, невоздержанный на язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,16 +53,18 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-сдирать кожу, свежевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдирать кожу, свежевать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> сдирать шкуру с кого-л., вымогать
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдирать шкуру с кого-л., вымогать</text></cit>
 </sense>
 <sense>
-эксплуатировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эксплуатировать</text></cit>
 </sense>
 <sense>
-<u>лес.</u> окорять
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окорять</text></cit>
 </sense>
 </entry>
 </superEntry>

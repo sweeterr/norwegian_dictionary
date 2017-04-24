@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hypofyse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> гипофиз
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гипофиз</text></cit>
 </sense>
 </entry>
 </superEntry>

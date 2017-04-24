@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">koppesyk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-больной оспой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больной оспой</text></cit>
 </sense>
 </entry>
 </superEntry>

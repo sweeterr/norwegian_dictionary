@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trisseblokk</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> шкив, обликовый блок
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шкив, обликовый блок</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ringspindel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>текст.</u> кольцевое веретено
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцевое веретено</text></cit>
 </sense>
 </entry>
 </superEntry>

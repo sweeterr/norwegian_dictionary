@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">liktå</orth>
 <inflection><orth extent="part">-tåa (-tåen), -tær</orth></inflection>
-<u>разг.</u> мозоль
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мозоль</text></cit>
 <сit type="example"><text>tre én på liktærne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> наступить на (чью-л.) любимую мозоль</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gaukri</orth>
 <inflection><orth extent="part">-а, -er</orth></inflection>
-<u>диал.</u> похолодание в середине мая
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похолодание в середине мая</text></cit>
 </sense>
 </entry>
 </superEntry>

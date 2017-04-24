@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tussig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-утомительный, напряжённый, тяжёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомительный, напряжённый, тяжёлый</text></cit>
 </sense>
 <sense>
-печальный, горестный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печальный, горестный</text></cit>
 </sense>
 </entry>
 </superEntry>

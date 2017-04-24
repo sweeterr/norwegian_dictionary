@@ -5,9 +5,10 @@
 <form>
 <orth type="lemma">blekksmøreri</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>см.</u>smøring
 <inflection><orth extent="part">-en</orth></inflection>
-<u>презр.</u> бумагомарательство, писанина
+<ref>smøring</ref>
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумагомарательство, писанина</text></cit>
 </sense>
 </entry>
 </superEntry>

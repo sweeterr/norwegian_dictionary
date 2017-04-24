@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">harm</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-печаль, тоска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печаль, тоска</text></cit>
 </sense>
 <sense>
-см. harme
+<ref>harme</ref>
 </sense>
 </entry>
 <entry>
@@ -19,9 +19,8 @@
 <form>
 <orth type="lemma">harm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-разозлившийся, сердитый, возмущённый, негодующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разозлившийся, сердитый, возмущённый, негодующий</text></cit>
 </sense>
 </entry>
 </superEntry>

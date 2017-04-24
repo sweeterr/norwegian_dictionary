@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-предвестник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвестник</text></cit>
 </sense>
 <sense>
-<u>редко</u> предсказатель, вещун
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предсказатель, вещун</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> сорокопут серый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорокопут серый</text></cit>
 <сit type="example"><text>brunrygget (rødrygget) varsler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сорокопут-жулан</text></cit></cit>
 </sense>
 </entry>

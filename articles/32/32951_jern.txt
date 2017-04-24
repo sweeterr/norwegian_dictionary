@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-железо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>железо</text></cit>
 <сit type="example"><text>av jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>железный</text></cit></cit>
 <сit type="example"><text>bløtt jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкое железо</text></cit></cit>
 <сit type="example"><text>smibart jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ковкое железо</text></cit></cit>
@@ -16,16 +16,17 @@
 <сit type="example"><text>smi mens jern et er varmt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> куй железо, пока горячо</text></cit></cit>
 </sense>
 <sense>
-железное изделие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>железное изделие</text></cit>
 </sense>
 <sense>
-панцирь, латы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панцирь, латы</text></cit>
 </sense>
 <sense>
-цепи, кандалы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепи, кандалы</text></cit>
 </sense>
 <sense>
-<u>разг.</u> живой (энергичный) человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой (энергичный) человек</text></cit>
 </sense>
 </entry>
 </superEntry>

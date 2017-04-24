@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avstiver</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>тех.</u> подпорка, подкос, растяжка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпорка, подкос, растяжка</text></cit>
 </sense>
 </entry>
 </superEntry>

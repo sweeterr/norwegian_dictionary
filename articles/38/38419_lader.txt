@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lader</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>воен.</u> заряжающий (у орудия)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заряжающий (у орудия)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,8 @@
 <orth type="lemma">lader</orth>
 <inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
-<u>уст.</u> манеры, жесты
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манеры, жесты</text></cit>
 </sense>
 </entry>
 </superEntry>

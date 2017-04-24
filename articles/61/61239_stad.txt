@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">stad</orth>
 <inflection><orth>staden, steder</orth></inflection>
-город:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>город:</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">stad</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. sted
+<usg>диал.</usg>
+<ref>sted</ref>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">stad</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> с места (тронуться, отправиться и т. п.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с места (тронуться, отправиться и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

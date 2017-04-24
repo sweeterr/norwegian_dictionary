@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-живость, яркость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живость, яркость</text></cit>
 </sense>
 <sense>
-пыл, рвение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пыл, рвение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">verve</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вербовать, набирать, производить набор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вербовать, набирать, производить набор</text></cit>
 <сit type="example"><text>la seg verve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завербоваться</text></cit></cit>
 </sense>
 </entry>

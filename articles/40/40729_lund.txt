@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lund</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-роща, лесок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>роща, лесок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">lund</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> мелодия, напев
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелодия, напев</text></cit>
 </sense>
 </entry>
 </superEntry>

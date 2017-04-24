@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rotord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>лингв.</u> корневое слово
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корневое слово</text></cit>
 </sense>
 </entry>
 </superEntry>

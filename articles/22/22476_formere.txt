@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-формировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формировать</text></cit>
 </sense>
 <sense>
-формовать, придавать форму, отливать в форму
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формовать, придавать форму, отливать в форму</text></cit>
 </sense>
 <sense>
-<u>воен.</u> строить, выстраивать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строить, выстраивать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-увеличивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увеличивать</text></cit>
 </sense>
 <sense>
-размножать, плодить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размножать, плодить</text></cit>
 </sense>
 </entry>
 </superEntry>

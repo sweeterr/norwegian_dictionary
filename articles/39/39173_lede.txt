@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-скука, неудовлетворённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скука, неудовлетворённость</text></cit>
 </sense>
 <sense>
-пресыщенность (чем-л.), отвращение (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресыщенность (чем-л.), отвращение (к чему-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,31 +20,34 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-вести, показывать путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести, показывать путь</text></cit>
 <сit type="example"><text>lede på gale veier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбивать с правильного пути, совращать</text></cit></cit>
 <сit type="example"><text>lede én på sporet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навести кого-л. на след</text></cit></cit>
 <сit type="example"><text>lede én på villspor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наводить кого-л. на ложный след</text></cit></cit>
 </sense>
 <sense>
-руководить, быть (стоять) во главе (учреждения, учебного заведения и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руководить, быть (стоять) во главе (учреждения, учебного заведения и т. д.)</text></cit>
 </sense>
 <sense>
-переводить (разговор), направлять (ход мыслей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переводить (разговор), направлять (ход мыслей)</text></cit>
 </sense>
 <sense>
-приводить (к чему-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить (к чему-л. - til)</text></cit>
 </sense>
 <sense>
-регулировать (уличное движение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регулировать (уличное движение)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> проводить (электричество)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить (электричество)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> командовать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командовать</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> лидировать, быть лидером (ведущим) в соревновании
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лидировать, быть лидером (ведущим) в соревновании</text></cit>
 <сit type="example"><text>lede i poeng</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть первым по числу очков</text></cit></cit>
 </sense>
 </entry>

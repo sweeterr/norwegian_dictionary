@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">gestus</orth>
-<u>-usen, = (-er)</u>
-жест, знак рукой
+<inflection><orth extent="part">-usen, = (-er)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жест, знак рукой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tubb</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-туберкулёз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туберкулёз</text></cit>
 </sense>
 <sense>
-туберкулёзное отделение (в больнице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туберкулёзное отделение (в больнице)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tilliggende</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-угодье, владение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угодье, владение</text></cit>
 </sense>
 <sense>
-принадлежность (кому-л.):
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежность (кому-л.):</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">tilliggende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-прилежащий, прилегающий, примыкающий, граничащий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилежащий, прилегающий, примыкающий, граничащий</text></cit>
 </sense>
 </entry>
 </superEntry>

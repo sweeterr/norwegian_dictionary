@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-естественная окраска, цвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>естественная окраска, цвет</text></cit>
 <сit type="example"><text>lys i letten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлой окраски</text></cit></cit>
 </sense>
 </entry>
@@ -16,7 +16,7 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-лёгкий <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>lett på roret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о судне)</text></cit></cit>
 <сit type="example"><text>lett på tømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушный (о лошади)</text></cit></cit>
 <сit type="example"><text>lettere sagt enn gjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказать легче, чем сделать</text></cit></cit>
@@ -27,19 +27,19 @@
 <сit type="example"><text>være lett på hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь лёгкую руку</text></cit></cit>
 </sense>
 <sense>
-рыхлый (о почве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыхлый (о почве)</text></cit>
 </sense>
 <sense>
-некрепкий (о вине, табаке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некрепкий (о вине, табаке)</text></cit>
 </sense>
 <sense>
-слабый (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 </sense>
 <sense>
-чуткий (о сне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуткий (о сне)</text></cit>
 </sense>
 <sense>
-фривольный, легкомысленный (о поведении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фривольный, легкомысленный (о поведении)</text></cit>
 <сit type="example"><text>være lett på det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть морально распущенным</text></cit></cit>
 </sense>
 </entry>

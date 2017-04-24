@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mirakel</orth>
 <inflection><orth extent="part">-elet (-let), -ler</orth></inflection>
-чудо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чудо</text></cit>
 <сit type="example"><text>gjøre utrette mirakler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>творить чудеса</text></cit></cit>
 </sense>
 </entry>

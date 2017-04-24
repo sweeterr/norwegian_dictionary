@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sideledd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>грам.</u> второстепенный член предложения
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>второстепенный член предложения</text></cit>
 </sense>
 </entry>
 </superEntry>

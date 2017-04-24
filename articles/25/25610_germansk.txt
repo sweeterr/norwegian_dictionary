@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">germansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-германский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>германский</text></cit>
 </sense>
 </entry>
 </superEntry>

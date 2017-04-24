@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">utlaste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>, <u>ав.</u>
+<usg>мор.</usg>
+<usg>ав.</usg>
 </form>
 <sense>
-выгружать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выгружать</text></cit>
 </sense>
 <sense>
-высаживаться, выгружаться (о войсках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высаживаться, выгружаться (о войсках)</text></cit>
 </sense>
 </entry>
 </superEntry>

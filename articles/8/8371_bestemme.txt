@@ -7,22 +7,23 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-назначать, фиксировать (время, место)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назначать, фиксировать (время, место)</text></cit>
 </sense>
 <sense>
-определять, устанавливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определять, устанавливать</text></cit>
 </sense>
 <sense>
-решать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решать</text></cit>
 </sense>
 <sense>
-предназначать, предопределять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предназначать, предопределять</text></cit>
 </sense>
 <sense>
-устраивать (на работу, должность - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать (на работу, должность - til)</text></cit>
 </sense>
 <sense>
-<u>грам.</u> определять, служить определением
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определять, служить определением</text></cit>
 <сit type="example"><text>bestemme over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь в своём распоряжении</text></cit></cit>
 <сit type="example"><text>bestemme seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>решиться (на что-л. - til), склониться (к чему-л. - for)</text></cit></cit>
 </sense>

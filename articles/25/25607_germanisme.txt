@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">germanisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>лингв.</u> германизм, слово (выражение), заимствованное из немецкого языка
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>германизм, слово (выражение), заимствованное из немецкого языка</text></cit>
 </sense>
 </entry>
 </superEntry>

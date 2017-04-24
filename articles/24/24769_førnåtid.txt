@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">førnåtid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>грам.</u> перфект
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перфект</text></cit>
 </sense>
 </entry>
 </superEntry>

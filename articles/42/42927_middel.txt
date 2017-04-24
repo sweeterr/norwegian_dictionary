@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-delet (-let), -ler</orth></inflection>
 </form>
 <sense>
-средство, способ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средство, способ</text></cit>
 </sense>
 <sense>
-лекарственное средство, лечебное средство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лекарственное средство, лечебное средство</text></cit>
 <сit type="example"><text>anestetiske (bedøvende) midler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> обезболивающие (усыпляющие) средства</text></cit></cit>
 <сit type="example"><text>avførende midler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> слабительные средства</text></cit></cit>
 <сit type="example"><text>avledende midler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> отвлекающие средства</text></cit></cit>
@@ -18,7 +18,7 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-материальные средства, капитал, деньги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материальные средства, капитал, деньги</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">middel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> класс (средней школы)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>класс (средней школы)</text></cit>
 </sense>
 </entry>
 </superEntry>

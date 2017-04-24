@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">deficit</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-дефицит, недостача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дефицит, недостача</text></cit>
 <сit type="example"><text>dekke en deficit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покрыть (возместить) недостачу</text></cit></cit>
 </sense>
 </entry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">stemningsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-подавленный, (находящийся) в дурном настроении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленный, (находящийся) в дурном настроении</text></cit>
 </sense>
 <sense>
-<u>перен.</u> холодный, трезвый
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный, трезвый</text></cit>
 </sense>
 </entry>
 </superEntry>

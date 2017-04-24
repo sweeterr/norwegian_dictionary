@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">joule</orth>
 <phon>|d∫aul|</phon>
-<u>эл.</u> джоуль
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>джоуль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">pakte</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-снимать, арендовать, брать внаём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать, арендовать, брать внаём</text></cit>
 </sense>
 <sense>
-сдавать в аренду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать в аренду</text></cit>
 </sense>
 </entry>
 </superEntry>

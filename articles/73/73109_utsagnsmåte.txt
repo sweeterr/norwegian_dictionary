@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utsagnsmåte</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>грам.</u> изъявительное наклонение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изъявительное наклонение</text></cit>
 </sense>
 </entry>
 </superEntry>

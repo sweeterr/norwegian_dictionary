@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksplementbue</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мат.</u> дополнительная дуга
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительная дуга</text></cit>
 </sense>
 </entry>
 </superEntry>

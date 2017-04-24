@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forlikelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u> соглашение, примирение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соглашение, примирение</text></cit>
 <сit type="example"><text>komme til forlikelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>примириться</text></cit></cit>
 </sense>
 </entry>

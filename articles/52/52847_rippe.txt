@@ -5,16 +5,17 @@
 <form>
 <orth type="lemma">rippe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-бередить (старые раны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бередить (старые раны)</text></cit>
 </sense>
 <sense>
-ворошить прошлое
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворошить прошлое</text></cit>
 </sense>
 <sense>
-<u>диал.</u> чистить рыбу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистить рыбу</text></cit>
 </sense>
 </entry>
 </superEntry>

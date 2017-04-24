@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">uvørsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-непочтительный, неуважительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непочтительный, неуважительный</text></cit>
 </sense>
 <sense>
-беспечный, невнимательный (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспечный, невнимательный (к чему-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

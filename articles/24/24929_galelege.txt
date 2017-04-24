@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">galelege</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> врач-психиатр
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач-психиатр</text></cit>
 </sense>
 </entry>
 </superEntry>

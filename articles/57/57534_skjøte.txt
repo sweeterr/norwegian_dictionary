@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjøte</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>юр.</u> документ о передаче имущества
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>документ о передаче имущества</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">skjøte</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-<u>юр.</u> передавать имущество (по акту)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать имущество (по акту)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +25,15 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-надставлять, расставлять (одежду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надставлять, расставлять (одежду)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> наращивать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наращивать</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> прививать копулировкой
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прививать копулировкой</text></cit>
 <сit type="example"><text>skjøte inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вставлять, делать вставки (в одежде)</text></cit></cit>
 <сit type="example"><text>skjøte på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возмещать (что-л.)</text></cit></cit>
 <сit type="example"><text>skjøte sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подгонять края (двух кусков материи)</text></cit></cit>

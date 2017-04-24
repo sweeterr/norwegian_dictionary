@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enbo</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>бот.</u> однодомный
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однодомный</text></cit>
 </sense>
 </entry>
 </superEntry>

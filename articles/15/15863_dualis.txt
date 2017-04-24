@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dualis</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>грам.</u> двойственное число
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двойственное число</text></cit>
 </sense>
 </entry>
 </superEntry>

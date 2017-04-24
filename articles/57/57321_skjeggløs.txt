@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">skjeggløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безбородый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безбородый</text></cit>
 </sense>
 </entry>
 </superEntry>

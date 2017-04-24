@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-одежда, одеяние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одежда, одеяние</text></cit>
 </sense>
 <sense>
-снабжение одеждой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снабжение одеждой</text></cit>
 </sense>
 <sense>
-<u>воен.</u> обмундирование
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмундирование</text></cit>
 </sense>
 <sense>
-<u>тех.</u> облицовка, обшивка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облицовка, обшивка</text></cit>
 </sense>
 </entry>
 </superEntry>

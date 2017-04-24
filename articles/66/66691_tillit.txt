@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-доверие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доверие</text></cit>
 <сit type="example"><text>almen tillit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всеобщее уважение</text></cit></cit>
 <сit type="example"><text>ha (nære) tillit til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питать доверие к кому-л.</text></cit></cit>
 <сit type="example"><text>ha ens tillit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться чьим-л. доверием, доверять кому-л.</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>miste tilliten til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерять доверие к кому-л.</text></cit></cit>
 </sense>
 <sense>
-уверенность (в чём-л.), вера (во что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уверенность (в чём-л.), вера (во что-л.)</text></cit>
 <сit type="example"><text>i tillit til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полагаясь на что-л., в надежде на что-л.</text></cit></cit>
 </sense>
 </entry>

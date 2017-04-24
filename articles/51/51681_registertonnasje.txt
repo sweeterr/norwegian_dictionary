@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">registertonnasje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> регистровый тоннаж (судна), регистровая вместимость
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регистровый тоннаж (судна), регистровая вместимость</text></cit>
 </sense>
 </entry>
 </superEntry>

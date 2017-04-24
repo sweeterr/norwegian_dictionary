@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klinker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-клепальщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клепальщик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">klinker</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-клинкер (строительный материал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клинкер (строительный материал)</text></cit>
 </sense>
 </entry>
 </superEntry>

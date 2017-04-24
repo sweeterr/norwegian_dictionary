@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utleie</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-сдача внаём (напрокат)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдача внаём (напрокат)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">utleie</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
-сдавать внаём (напрокат)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать внаём (напрокат)</text></cit>
 </sense>
 </entry>
 </superEntry>

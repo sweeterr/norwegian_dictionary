@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">birtingsbad</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>поэт.</u>, <u>уст.</u> кровь, пролитая в бою
+<usg>поэт.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровь, пролитая в бою</text></cit>
 </sense>
 </entry>
 </superEntry>

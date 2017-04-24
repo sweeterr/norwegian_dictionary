@@ -7,18 +7,23 @@
 <inflection><orth extent="part">-umet</orth></inflection>
 </form>
 <sense>
-<u>грам.</u> <u>тк. sg</u> средний род
+<usg>грам.</usg>
+<usg>тк. sg</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний род</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>-a</note></gramGrp>
-<u>грам.</u> существительные среднего рода
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>существительные среднего рода</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>-a</note></gramGrp>
-<u>разг.</u> бесполое существо
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесполое существо</text></cit>
 </sense>
 <sense>
-<u>перен.</u> безликое существо
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безликое существо</text></cit>
 </sense>
 </entry>
 </superEntry>

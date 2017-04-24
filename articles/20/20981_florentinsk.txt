@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">florentinsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-флорентийский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флорентийский</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">dessforuten</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-кроме того, помимо этого
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кроме того, помимо этого</text></cit>
 </sense>
 <sense>
-между прочим, кстати
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>между прочим, кстати</text></cit>
 </sense>
 <sense>
-в остальном, впрочем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в остальном, впрочем</text></cit>
 </sense>
 </entry>
 </superEntry>

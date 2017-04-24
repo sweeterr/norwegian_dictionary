@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">gamlen</orth>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-старший из мужчин семьи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старший из мужчин семьи</text></cit>
 </sense>
 <sense>
-старик (как обращение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старик (как обращение)</text></cit>
 </sense>
 </entry>
 </superEntry>

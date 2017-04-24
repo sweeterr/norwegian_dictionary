@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">usveisbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-несвариваемый, неподдающийся сварке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несвариваемый, неподдающийся сварке</text></cit>
 </sense>
 </entry>
 </superEntry>

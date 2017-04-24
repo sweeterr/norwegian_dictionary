@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-прокатный вал, барабан, каток (ручной, дорожный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокатный вал, барабан, каток (ручной, дорожный)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> барабан
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барабан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,13 +19,13 @@
 <form>
 <orth type="lemma">tromle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-укатывать (грунт)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укатывать (грунт)</text></cit>
 </sense>
 <sense>
-барабанить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барабанить</text></cit>
 </sense>
 </entry>
 </superEntry>

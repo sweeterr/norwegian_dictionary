@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brunste(i)n</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> перекись марганца, пиролюзит
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекись марганца, пиролюзит</text></cit>
 </sense>
 </entry>
 </superEntry>

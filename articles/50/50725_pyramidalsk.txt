@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">pyramidalsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пирамидальный, имеющий форму пирамиды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пирамидальный, имеющий форму пирамиды</text></cit>
 </sense>
 <sense>
-<u>разг.</u> огромный, колоссальный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огромный, колоссальный</text></cit>
 </sense>
 </entry>
 </superEntry>

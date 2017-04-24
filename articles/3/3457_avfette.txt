@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avfette</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> обезжиривать, удалять жир
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обезжиривать, удалять жир</text></cit>
 </sense>
 </entry>
 </superEntry>

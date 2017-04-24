@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-лодка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лодка</text></cit>
 <сit type="example"><text>til båts</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лодкой, на лодке</text></cit></cit>
 <сit type="example"><text>på båten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в лодке</text></cit></cit>
 <сit type="example"><text>jeg har båten ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>моя лодка ушла в море</text></cit></cit>
@@ -18,22 +18,23 @@
 <сit type="example"><text>det er så vidt båten bærer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> насколько хватит сил (возможностей)</text></cit></cit>
 </sense>
 <sense>
-шлюпка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлюпка</text></cit>
 <сit type="example"><text>gå i båtene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться в шлюпки</text></cit></cit>
 <сit type="example"><text>i båtene ned!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> на шлюпки!</text></cit></cit>
 <сit type="example"><text>være i samme båt (som)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в одинаковых условиях (с кем-л.)</text></cit></cit>
 <сit type="example"><text>gi på båten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказаться (от чего-л.)</text></cit></cit>
 </sense>
 <sense>
-корабль, судно, пароход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корабль, судно, пароход</text></cit>
 <сit type="example"><text>ta båten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садить я на корабль (пароход)</text></cit></cit>
 </sense>
 <sense>
-пассажиры парохода (корабля)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пассажиры парохода (корабля)</text></cit>
 <сit type="example"><text>hele båten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь пароход, все на борту (парохода)</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> доля, долька (апельсина и т. п.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доля, долька (апельсина и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

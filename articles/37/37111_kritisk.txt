@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-критический, критически настроенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>критический, критически настроенный</text></cit>
 </sense>
 <sense>
-<u>мед.</u> кризисный, критический
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кризисный, критический</text></cit>
 </sense>
 <sense>
-крайний, максимально допустимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайний, максимально допустимый</text></cit>
 </sense>
 </entry>
 </superEntry>

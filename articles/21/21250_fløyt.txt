@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">fløyt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сплав (леса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплав (леса)</text></cit>
 </sense>
 <sense>
-сплавной лес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплавной лес</text></cit>
 </sense>
 <sense>
-поплавок (на рыболовных сетях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок (на рыболовных сетях)</text></cit>
 <сit type="example"><text>på fløyt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на плаву, в плавучем состоянии</text></cit></cit>
 </sense>
 </entry>

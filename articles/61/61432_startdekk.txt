@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">startdekk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> полётная палуба (авианосца)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полётная палуба (авианосца)</text></cit>
 </sense>
 </entry>
 </superEntry>

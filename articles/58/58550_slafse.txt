@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">slafse</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-чавкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чавкать</text></cit>
 <сit type="example"><text>slafse i seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>есть с жадностью</text></cit></cit>
 </sense>
 <sense>
-шлёпать по грязи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёпать по грязи</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flammehav</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>перен.</u> море огня
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>море огня</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kval</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. hval
+<usg>диал.</usg>
+<ref>hval</ref>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-мука, мучение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мука, мучение</text></cit>
 </sense>
 <sense>
-страдание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страдание</text></cit>
 </sense>
 <sense>
-<u>разг.</u> неприятность
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятность</text></cit>
 </sense>
 </entry>
 </superEntry>

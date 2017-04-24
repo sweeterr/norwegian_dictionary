@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">understreng</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-резонирующая (аликвотная) струна (на норвежской скрипке - хардингфеле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резонирующая (аликвотная) струна (на норвежской скрипке - хардингфеле)</text></cit>
 </sense>
 <sense>
-(чья-л.) слабая струна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(чья-л.) слабая струна</text></cit>
 </sense>
 </entry>
 </superEntry>

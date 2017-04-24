@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utstrømningskanal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> сливной (спускной, сточный) канал
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сливной (спускной, сточный) канал</text></cit>
 </sense>
 </entry>
 </superEntry>

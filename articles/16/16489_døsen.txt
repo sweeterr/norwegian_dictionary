@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">døsen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сонный, полусонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сонный, полусонный</text></cit>
 </sense>
 <sense>
-вялый, апатичный, бездеятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый, апатичный, бездеятельный</text></cit>
 </sense>
 <sense>
-однообразный, монотонный (о времяпрепровождении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однообразный, монотонный (о времяпрепровождении)</text></cit>
 </sense>
 <sense>
-слабый (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 </sense>
 <sense>
-тусклый, неяркий (об огне, свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тусклый, неяркий (об огне, свете)</text></cit>
 </sense>
 </entry>
 </superEntry>

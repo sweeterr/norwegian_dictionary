@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">svikles</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-верный, искренний, преданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верный, искренний, преданный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dryss</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> уйма, куча
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уйма, куча</text></cit>
 <сit type="example"><text>en dryss av unger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>куча детей (в семье)</text></cit></cit>
 <сit type="example"><text>ha en dryss med penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь уйму денег</text></cit></cit>
 </sense>
@@ -17,10 +18,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-осыпание (цветов, деревьев, злаков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осыпание (цветов, деревьев, злаков)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> дождь
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дождь</text></cit>
 <сit type="example"><text>et dryss av epleblomster</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осыпание лепестков яблонного цвета</text></cit></cit>
 </sense>
 </entry>

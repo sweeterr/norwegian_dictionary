@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-земля, суша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>земля, суша</text></cit>
 <сit type="example"><text>på den bare jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на голую землю, на голой земле</text></cit></cit>
 <сit type="example"><text>falle til jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а <lbl>перен.</lbl> остаться без последствий (о предложении, высказывании)</text></cit></cit>
 <сit type="example"><text>falle i god jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> упасть на благодатную почву (о предложении, словах и т. п.)</text></cit></cit>
@@ -16,7 +16,7 @@
 <сit type="example"><text>jorda brenner under meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> почва уходит из-под моих ног, земля горит у меня под ногами</text></cit></cit>
 </sense>
 <sense>
-почва, грунт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почва, грунт</text></cit>
 <сit type="example"><text>moder jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мать сыра земля</text></cit></cit>
 <сit type="example"><text>den sorte jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чернозём</text></cit></cit>
 <сit type="example"><text>fattig jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тощая почва</text></cit></cit>
@@ -30,12 +30,12 @@
 <сit type="example"><text>vende jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а пахать, перепахивать</text></cit></cit>
 </sense>
 <sense>
-земной шар, мир
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>земной шар, мир</text></cit>
 <сit type="example"><text>hele jorda rundt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на всём земном шаре</text></cit></cit>
 <сit type="example"><text>på hele jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а во всём мире</text></cit></cit>
 </sense>
 <sense>
-земельная собственность, участок земли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>земельная собственность, участок земли</text></cit>
 <сit type="example"><text>gå under jorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уйти в подполье</text></cit></cit>
 </sense>
 </entry>

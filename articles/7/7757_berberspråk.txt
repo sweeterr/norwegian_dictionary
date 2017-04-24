@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">berberspråk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-берберский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берберский язык</text></cit>
 </sense>
 </entry>
 </superEntry>

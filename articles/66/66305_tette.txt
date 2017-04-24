@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-закваска ( для простокваши)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закваска ( для простокваши)</text></cit>
 </sense>
 <sense>
-простокваша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простокваша</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +20,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-заделывать, замазывать, зашпаклёвывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заделывать, замазывать, зашпаклёвывать</text></cit>
 </sense>
 <sense>
-затыкать (щель, отверстие, трещину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затыкать (щель, отверстие, трещину)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> заквашивать (створаживать) молоко
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заквашивать (створаживать) молоко</text></cit>
 </sense>
 </entry>
 </superEntry>

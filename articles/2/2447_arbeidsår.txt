@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsår</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эк.</u> хозяйственный год, производственный год
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хозяйственный год, производственный год</text></cit>
 </sense>
 </entry>
 </superEntry>

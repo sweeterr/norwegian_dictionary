@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvav</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> удушье
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удушье</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">kvav</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> душный, непроветренный, удушливый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душный, непроветренный, удушливый</text></cit>
 </sense>
 </entry>
 </superEntry>

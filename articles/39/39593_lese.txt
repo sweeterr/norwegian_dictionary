@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-читать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читать</text></cit>
 <сit type="example"><text>lese flytende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать бегло</text></cit></cit>
 <сit type="example"><text>lese høyt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать вслух</text></cit></cit>
 <сit type="example"><text>lese stille, lese for seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать про себя</text></cit></cit>
@@ -15,22 +15,22 @@
 <сit type="example"><text>lære å lese</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учиться грамоте, учиться читать</text></cit></cit>
 </sense>
 <sense>
-разбирать, расшифровывать (надпись, диаграмму, карты), читать ноты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбирать, расшифровывать (надпись, диаграмму, карты), читать ноты</text></cit>
 <сit type="example"><text>lese i en avis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочесть в газете</text></cit></cit>
 <сit type="example"><text>lese mellom linjene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать между строк</text></cit></cit>
 </sense>
 <sense>
-зачитывать (приговор, решение), читать (молитву)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зачитывать (приговор, решение), читать (молитву)</text></cit>
 <сit type="example"><text>lese fra bords</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать молитву после обеда</text></cit></cit>
 <сit type="example"><text>lese til bords (for maten)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать молитву перед обедом</text></cit></cit>
 </sense>
 <sense>
-изучать (предмет, дисциплину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изучать (предмет, дисциплину)</text></cit>
 <сit type="example"><text>lese privat hos (med) én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать частные уроки у кого-л.</text></cit></cit>
 <сit type="example"><text>lese til eksamen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готовиться к экзамену</text></cit></cit>
 </sense>
 <sense>
-преподавать, вести занятия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преподавать, вести занятия</text></cit>
 <сit type="example"><text>lese seksten timer om uken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь нагрузку 16 часов в неделю, давать 16 часов в неделю</text></cit></cit>
 <сit type="example"><text>betales pr. lest time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получать почасовую оплату</text></cit></cit>
 <сit type="example"><text>lese igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочесть (полностью)</text></cit></cit>

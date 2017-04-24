@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">planteanatomi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-анатомия растений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анатомия растений</text></cit>
 </sense>
 </entry>
 </superEntry>

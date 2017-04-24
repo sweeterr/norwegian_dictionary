@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">akterut</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-на корме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на корме</text></cit>
 </sense>
 <sense>
-на корму, назад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на корму, назад</text></cit>
 <сit type="example"><text>ligge (sakke) akterut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отставать, оставаться позади (за кормой)</text></cit></cit>
 <сit type="example"><text>alle mann akterut!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все в корму! (команда)</text></cit></cit>
 </sense>

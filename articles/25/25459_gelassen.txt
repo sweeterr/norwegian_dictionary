@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">gelassen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u> спокойный, хладнокровный, уравновешенный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойный, хладнокровный, уравновешенный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bytte</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> см. bøtte
+<usg>диал.</usg>
+<ref>bøtte</ref>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,16 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-обмен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмен</text></cit>
 <сit type="example"><text>i bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в обмен на</text></cit></cit>
 <сit type="example"><text>til bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для обмена на</text></cit></cit>
 </sense>
 <sense>
-добыча, трофеи, жертва (охоты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добыча, трофеи, жертва (охоты)</text></cit>
 <сit type="example"><text>bli (være) et bytte for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать жертвой (добычей)</text></cit></cit>
 </sense>
 <sense>
-вещь, полученная в обмен на что-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещь, полученная в обмен на что-л.</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,25 +35,25 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-обменивать, менять (на что-л. - i, mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обменивать, менять (на что-л. - i, mot)</text></cit>
 </sense>
 <sense>
-(с прямым дополнением в форме множественного числа) обмениваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(с прямым дополнением в форме множественного числа) обмениваться</text></cit>
 </sense>
 <sense>
-переодевать, менять (бельё, обувь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переодевать, менять (бельё, обувь)</text></cit>
 </sense>
 <sense>
-подменять (что-л. чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подменять (что-л. чем-л.)</text></cit>
 </sense>
 <sense>
-переменить, изменить (фамилию)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переменить, изменить (фамилию)</text></cit>
 </sense>
 <sense>
-переставлять (буквы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переставлять (буквы)</text></cit>
 <сit type="example"><text>bytte bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдать в обмен, променять</text></cit></cit>
 <сit type="example"><text>bytte inn (til segl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить в обмен, выменять</text></cit></cit>
-<сit type="example"><text>bytte ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. bytte bort</text></cit></cit>
+<сit type="example"><text>bytte ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>bytte bort</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

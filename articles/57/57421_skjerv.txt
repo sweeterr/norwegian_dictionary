@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-самая мелкая монета, грош
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самая мелкая монета, грош</text></cit>
 <сit type="example"><text>til siste skjerv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до последней копейки</text></cit></cit>
 </sense>
 <sense>
-скромный (посильный) вклад, лепта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скромный (посильный) вклад, лепта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-черепок, осколок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черепок, осколок</text></cit>
 </sense>
 <sense>
-гравий, щебень, битый камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гравий, щебень, битый камень</text></cit>
 </sense>
 </entry>
 </superEntry>

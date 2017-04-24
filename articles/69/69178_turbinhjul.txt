@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">turbinhjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> турбинное колесо, рабочее колесо турбины
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>турбинное колесо, рабочее колесо турбины</text></cit>
 </sense>
 </entry>
 </superEntry>

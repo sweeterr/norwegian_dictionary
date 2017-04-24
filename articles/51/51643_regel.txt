@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
-норма, правило
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норма, правило</text></cit>
 <сit type="example"><text>en bindende regel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обязательное (нерушимое) правило</text></cit></cit>
 <сit type="example"><text>en gyllen regel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотое правило</text></cit></cit>
 <сit type="example"><text>mot alle regler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вопреки всем правилам</text></cit></cit>
@@ -16,7 +16,7 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-менструация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менструация</text></cit>
 <сit type="example"><text>ingen regel uten unntakelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нет правил без исключения</text></cit></cit>
 </sense>
 </entry>

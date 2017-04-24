@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sorgtung</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тягостный, тяжкий, тяжёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тягостный, тяжкий, тяжёлый</text></cit>
 </sense>
 <sense>
-отягчённый заботами (тяготами жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отягчённый заботами (тяготами жизни)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kullsjakt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> угольная шахта (на судне)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угольная шахта (на судне)</text></cit>
 </sense>
 </entry>
 </superEntry>

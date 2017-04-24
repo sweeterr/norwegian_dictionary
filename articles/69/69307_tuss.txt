@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tuss</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> цеп
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цеп</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">tuss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фольк.</u> горный дух, тролль
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горный дух, тролль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sinologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-китаеведение, синология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>китаеведение, синология</text></cit>
 </sense>
 </entry>
 </superEntry>

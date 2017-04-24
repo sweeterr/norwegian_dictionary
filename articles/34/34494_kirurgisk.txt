@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kirurgisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-хирургический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хирургический</text></cit>
 </sense>
 </entry>
 </superEntry>

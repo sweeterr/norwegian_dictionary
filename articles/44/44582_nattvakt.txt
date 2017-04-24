@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-ночной сторож
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночной сторож</text></cit>
 </sense>
 <sense>
-ночная охрана
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночная охрана</text></cit>
 <сit type="example"><text>stå på nattvakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в ночной охране</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> ночная вахта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночная вахта</text></cit>
 <сit type="example"><text>gå på nattvakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> становиться на ночную вахту</text></cit></cit>
 </sense>
 </entry>

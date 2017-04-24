@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
 </form>
 <sense>
-учебное пособие, хрестоматия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебное пособие, хрестоматия</text></cit>
 </sense>
 <sense>
-<u>церк.</u> служебник
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служебник</text></cit>
 </sense>
 </entry>
 </superEntry>

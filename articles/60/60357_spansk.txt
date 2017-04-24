@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">spansk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-испанский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испанский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">spansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-испанский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испанский</text></cit>
 </sense>
 </entry>
 </superEntry>

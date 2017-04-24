@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lysstyrke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>физ.</u> светосила, сила света
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светосила, сила света</text></cit>
 </sense>
 </entry>
 </superEntry>

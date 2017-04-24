@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">firkant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-четырёхугольник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четырёхугольник</text></cit>
 <сit type="example"><text>åpen firkant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> строй, открытое каре</text></cit></cit>
 <сit type="example"><text>i firkant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в квадрате</text></cit></cit>
 </sense>

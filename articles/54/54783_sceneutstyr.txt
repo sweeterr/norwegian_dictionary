@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sceneutstyr</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>театр.</u> реквизит, бутафория
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реквизит, бутафория</text></cit>
 </sense>
 </entry>
 </superEntry>

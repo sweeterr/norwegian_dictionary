@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-милостыня, подаяние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>милостыня, подаяние</text></cit>
 <сit type="example"><text>gi almisse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подавать милостыню</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> сострадание
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сострадание</text></cit>
 </sense>
 </entry>
 </superEntry>

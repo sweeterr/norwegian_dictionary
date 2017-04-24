@@ -7,11 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>ирон.</u> благодарить
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благодарить</text></cit>
 <сit type="example"><text>det betakker jeg meg for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>премного благодарен</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> <u>уст.</u> произвести ответный салют
+<usg>воен.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произвести ответный салют</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hirsjfenger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>уст.</u> охотничий нож, кинжал, короткая сабля
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охотничий нож, кинжал, короткая сабля</text></cit>
 </sense>
 </entry>
 </superEntry>

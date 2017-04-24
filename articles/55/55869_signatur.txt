@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-подпись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпись</text></cit>
 </sense>
 <sense>
-шифр книги (в библиотеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шифр книги (в библиотеке)</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> сигнатура
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнатура</text></cit>
 </sense>
 </entry>
 </superEntry>

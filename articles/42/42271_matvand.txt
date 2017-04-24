@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">matvand</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> разборчивый, привередливый (в пище)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разборчивый, привередливый (в пище)</text></cit>
 </sense>
 </entry>
 </superEntry>

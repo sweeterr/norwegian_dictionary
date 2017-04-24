@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">synonym</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> синоним
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синоним</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">synonym</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>лингв.</u> синонимический, синонимичный (с чем-л. - med)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синонимический, синонимичный (с чем-л. - med)</text></cit>
 </sense>
 </entry>
 </superEntry>

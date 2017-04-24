@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kneppe</orth>
 <inflection><orth extent="part">-te (-pet), -t (-pet)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-застёгивать на пуговицы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застёгивать на пуговицы</text></cit>
 </sense>
 <sense>
-складывать руки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складывать руки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,17 +19,17 @@
 <form>
 <orth type="lemma">kneppe</orth>
 <inflection><orth extent="part">-te (-pet), -t (-pet)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-трещать, потрескивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещать, потрескивать</text></cit>
 <сit type="example"><text>det kneppe t</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слышался треск (потрескивание)</text></cit></cit>
 </sense>
 <sense>
-токовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>токовать</text></cit>
 </sense>
 <sense>
-бренчать (на музыкальном инструменте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бренчать (на музыкальном инструменте)</text></cit>
 <сit type="example"><text>kneppe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро сфотографировать, щёлкнуть</text></cit></cit>
 </sense>
 </entry>

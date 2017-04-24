@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tørrbolk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> сушь, сухая пора
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сушь, сухая пора</text></cit>
 </sense>
 </entry>
 </superEntry>

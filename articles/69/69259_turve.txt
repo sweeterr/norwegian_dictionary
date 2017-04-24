@@ -5,18 +5,18 @@
 <form>
 <orth type="lemma">turve</orth>
 <inflection><orth>pres tarv (tar), pret turvte (tarvte), p.p. turvt (tarvt)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-нуждаться в чём-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться в чём-л.</text></cit>
 <сit type="example"><text>det tarvs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>требуется, нужно</text></cit></cit>
 <сit type="example"><text>han tarver (tørver)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему нужно</text></cit></cit>
 </sense>
 <sense>
-быть вынужденным, принуждённым (сделать что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть вынужденным, принуждённым (сделать что-л.)</text></cit>
 </sense>
 <sense>
-в форме претерита с последующим инфинитивом смыслового глагола следовало бы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в форме претерита с последующим инфинитивом смыслового глагола следовало бы</text></cit>
 </sense>
 </entry>
 </superEntry>

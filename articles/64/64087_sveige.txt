@@ -4,19 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">sveige</orth>
-<inflection><orth extent="part">-et</orth></inflection>
- (-de, -te), 
-<inflection><orth extent="part">-et</orth></inflection>
-(
-<inflection><orth extent="part">-t</orth></inflection>
-)
-<u>диал.</u>
+<inflection><orth extent="part">-et (-de, -te), -et (-t)</orth></inflection>
+<usg>диал.</usg>
 </form>
 <sense>
-гнуть, изгибать, сгибать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнуть, изгибать, сгибать</text></cit>
 </sense>
 <sense>
-наказывать хворостиной, сечь прутом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наказывать хворостиной, сечь прутом</text></cit>
 </sense>
 </entry>
 </superEntry>

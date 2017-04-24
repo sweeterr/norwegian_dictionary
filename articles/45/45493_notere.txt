@@ -7,15 +7,17 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-записывать, делать заметки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записывать, делать заметки</text></cit>
 <сit type="example"><text>bli notert av politiet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть на заметку полиции</text></cit></cit>
 <сit type="example"><text>notere seg noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заметить себе что-л.</text></cit></cit>
 </sense>
 <sense>
-<u>эк.</u> записать в дебит, заприходовать
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записать в дебит, заприходовать</text></cit>
 </sense>
 <sense>
-<u>фин.</u> котировать курс (на бирже)
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>котировать курс (на бирже)</text></cit>
 </sense>
 </entry>
 </superEntry>

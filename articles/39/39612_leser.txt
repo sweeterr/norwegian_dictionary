@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">leser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-читатель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читатель</text></cit>
 </sense>
 </entry>
 </superEntry>

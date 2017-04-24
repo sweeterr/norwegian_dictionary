@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">oventil</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-в верхней части, наверху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в верхней части, наверху</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">oventil</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-кверху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кверху</text></cit>
 </sense>
 </entry>
 </superEntry>

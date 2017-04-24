@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">fullbåren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-выношенный (о ребёнке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выношенный (о ребёнке)</text></cit>
 </sense>
 <sense>
-созревший, зрелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>созревший, зрелый</text></cit>
 </sense>
 </entry>
 </superEntry>

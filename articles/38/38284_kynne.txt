@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kynne</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-знание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знание</text></cit>
 </sense>
 <sense>
-склад ума (характера)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склад ума (характера)</text></cit>
 </sense>
 </entry>
 </superEntry>

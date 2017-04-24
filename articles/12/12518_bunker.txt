@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bunker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>воен.</u> дерево-земляное укрепление
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дерево-земляное укрепление</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">bunker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> бункер, угольная яма
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бункер, угольная яма</text></cit>
 </sense>
 </entry>
 </superEntry>

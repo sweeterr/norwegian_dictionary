@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">uferdig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неготовый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неготовый</text></cit>
 </sense>
 <sense>
-незрелый, несложившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незрелый, несложившийся</text></cit>
 </sense>
 <sense>
-несовершенный (о технике игры и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несовершенный (о технике игры и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

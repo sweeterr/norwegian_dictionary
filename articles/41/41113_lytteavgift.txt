@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lytteavgift</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>радио</u> плата за пользование радиоприёмником
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плата за пользование радиоприёмником</text></cit>
 </sense>
 </entry>
 </superEntry>

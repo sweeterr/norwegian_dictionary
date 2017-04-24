@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rampelys</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-огни рампы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огни рампы</text></cit>
 <сit type="example"><text>tre fram i rampelyset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступить перед публикой (общественностью)</text></cit></cit>
 </sense>
 </entry>

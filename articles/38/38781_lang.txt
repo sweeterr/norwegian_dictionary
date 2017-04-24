@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> галерея, балкон (вдоль стены дома)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галерея, балкон (вдоль стены дома)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,23 +14,22 @@
 <form>
 <orth type="lemma">lang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
- <inflection><orth>(komp lengre, superl lengst)</orth></inflection>
+<inflection><orth>(komp lengre, superl lengst)</orth></inflection>
 </form>
 <sense>
-длинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинный</text></cit>
 <сit type="example"><text>tre meter lang(t)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>длиной в три метра</text></cit></cit>
 <сit type="example"><text>han falt så lang han var</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он упал во весь рост</text></cit></cit>
 </sense>
 <sense>
-далёкий, большой (о расстоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкий, большой (о расстоянии)</text></cit>
 </sense>
 <sense>
-высокий (о росте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий (о росте)</text></cit>
 </sense>
 <sense>
-долгий, длительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долгий, длительный</text></cit>
 <сit type="example"><text>fem timer lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пятичасовой</text></cit></cit>
 <сit type="example"><text>hele dagen lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь день</text></cit></cit>
 <сit type="example"><text>hele natten lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всю ночь</text></cit></cit>
@@ -38,13 +38,13 @@
 <сit type="example"><text>tre minutter lang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трёхминутный</text></cit></cit>
 </sense>
 <sense>
-пространный, многословный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пространный, многословный</text></cit>
 </sense>
 <sense>
-задумчивый (о взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задумчивый (о взгляде)</text></cit>
 </sense>
 <sense>
-жидкий (о кофе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий (о кофе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

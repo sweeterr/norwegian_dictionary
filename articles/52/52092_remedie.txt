@@ -8,13 +8,15 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-инструмент, орудие, приспособление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструмент, орудие, приспособление</text></cit>
 </sense>
 <sense>
-<u>разг.</u> <lbl>pl</lbl> обстоятельства
+<usg>разг.</usg>
+<lbl>pl</lbl> обстоятельства
 </sense>
 <sense>
-<u>уст.</u> лечебное средство, лекарство, снадобье
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечебное средство, лекарство, снадобье</text></cit>
 </sense>
 </entry>
 </superEntry>

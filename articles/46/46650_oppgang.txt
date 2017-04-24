@@ -7,26 +7,28 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-подъём, движение вверх <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подъём, движение вверх <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>være i oppgang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на подъёме (об экономике и т. п.)</text></cit></cit>
 </sense>
 <sense>
-восход (светила)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восход (светила)</text></cit>
 </sense>
 <sense>
-рост (цен)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рост (цен)</text></cit>
 </sense>
 <sense>
-взлом (льда), вскрытие (реки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взлом (льда), вскрытие (реки)</text></cit>
 </sense>
 <sense>
-подъезд, ход наверх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подъезд, ход наверх</text></cit>
 </sense>
 <sense>
-<u>ав.</u> взлёт (самолёта)
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взлёт (самолёта)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> всплытие (подводной лодки)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всплытие (подводной лодки)</text></cit>
 </sense>
 </entry>
 </superEntry>

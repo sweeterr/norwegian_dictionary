@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ifra</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-на расстоянии, неподалёку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на расстоянии, неподалёку</text></cit>
 <сit type = "example"><text>langt ifra :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> издалека</text></cit></cit>
 <сit type = "example"><text>langt ifra :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> далеко не так</text></cit></cit>
 </sense>
@@ -17,11 +17,11 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-указывает на движение, удаление из какого-л. помещения, от какого-л. предмета от, из
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на движение, удаление из какого-л. помещения, от какого-л. предмета от, из</text></cit>
 <сit type="example"><text>ifra byen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из города</text></cit></cit>
 </sense>
 <sense>
-указывает на происхождение, появление из какого-л. источника из, от, с
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на происхождение, появление из какого-л. источника из, от, с</text></cit>
 <сit type="example"><text>ifra nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с севера</text></cit></cit>
 </sense>
 </entry>

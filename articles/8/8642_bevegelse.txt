@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-движение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение</text></cit>
 <сit type="example"><text>komme i bevegelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приходить в движение</text></cit></cit>
 <сit type="example"><text>sette i bevegelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в движение, пустить в ход</text></cit></cit>
 <сit type="example"><text>sette seg i bevegelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трогаться</text></cit></cit>
 </sense>
 <sense>
-волнение (душевное), возбуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнение (душевное), возбуждение</text></cit>
 </sense>
 <sense>
-<u>полит.</u> движение
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение</text></cit>
 <сit type="example"><text>nasjonal bevegelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>национальное движение</text></cit></cit>
 </sense>
 </entry>

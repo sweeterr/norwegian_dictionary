@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-эволюция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эволюция</text></cit>
 </sense>
 <sense>
-<u>воен.</u>, <u>мор.</u> маневрирование
+<usg>воен.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маневрирование</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">motorgenerator</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эл.</u> мотор-генератор
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мотор-генератор</text></cit>
 </sense>
 </entry>
 </superEntry>

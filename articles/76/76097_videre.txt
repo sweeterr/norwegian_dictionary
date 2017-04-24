@@ -6,7 +6,7 @@
 <orth type="lemma">videre</orth>
 <gramGrp><pos>adj</pos></gramGrp>
 <gramGrp><note>komp от vid</note></gramGrp>
-дальнейший, последующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальнейший, последующий</text></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 <gramGrp><note>komp от vidt</note></gramGrp>
 </form>
 <sense>
-дальше, далее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальше, далее</text></cit>
 <сit type="example"><text>gå videre!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дальше!, продолжай!</text></cit></cit>
 <сit type="example"><text>enn videre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далее, а затем</text></cit></cit>
 <сit type="example"><text>intet videre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и ничего больше</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forelesningskatalog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-каталог лекций (лекционных курсов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каталог лекций (лекционных курсов)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mersmak</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-аппетит к чему-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аппетит к чему-л.</text></cit>
 <сit type="example"><text>gi mersmak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать аппетит</text></cit></cit>
 <сit type="example"><text>ha mersmak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не наесться досыта чем-л.</text></cit></cit>
 </sense>

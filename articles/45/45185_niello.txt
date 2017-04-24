@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">niello</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-изделия, покрытые чернью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изделия, покрытые чернью</text></cit>
 </sense>
 <sense>
-покрытие изделий чернью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрытие изделий чернью</text></cit>
 </sense>
 </entry>
 </superEntry>

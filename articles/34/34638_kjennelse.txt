@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjennelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-решение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решение</text></cit>
 </sense>
 <sense>
-приговор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приговор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vyrk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-забота, заботливость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забота, заботливость</text></cit>
 </sense>
 <sense>
-нежность, ласка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежность, ласка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">vyrk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> заботливый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заботливый</text></cit>
 <сit type="example"><text>være vyrk om noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заботиться о ком-л.</text></cit></cit>
 </sense>
 </entry>

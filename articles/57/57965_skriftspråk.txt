@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skriftspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-книжно-письменный литературный язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книжно-письменный литературный язык</text></cit>
 </sense>
 </entry>
 </superEntry>

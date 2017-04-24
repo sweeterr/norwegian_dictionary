@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">damptonnasje</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> водоизмещение, тоннаж парохода
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водоизмещение, тоннаж парохода</text></cit>
 </sense>
 </entry>
 </superEntry>

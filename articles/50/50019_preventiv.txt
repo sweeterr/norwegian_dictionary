@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">preventiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-предупреждающий, предотвращающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предупреждающий, предотвращающий</text></cit>
 </sense>
 <sense>
-противозачаточный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противозачаточный</text></cit>
 </sense>
 <sense>
-превентивный (о войне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превентивный (о войне)</text></cit>
 </sense>
 </entry>
 </superEntry>

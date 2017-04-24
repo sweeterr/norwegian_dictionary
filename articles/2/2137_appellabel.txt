@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">appellabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>юр.</u> могущий быть обжалованным
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>могущий быть обжалованным</text></cit>
 </sense>
 </entry>
 </superEntry>

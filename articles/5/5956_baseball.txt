@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">baseball</orth>
-|'beisbol|
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>|'beisbol|</text></cit>
 <inflection><orth extent="part">-en</orth></inflection>
-спорт. бейсбол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спорт. бейсбол</text></cit>
 </sense>
 </entry>
 </superEntry>

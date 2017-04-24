@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">trøstgauk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> <u>фольк.</u> кукушка, кукующая на востоке (по народным поверьям, приносящая утешение)
+<usg>диал.</usg>
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кукушка, кукующая на востоке (по народным поверьям, приносящая утешение)</text></cit>
 </sense>
 </entry>
 </superEntry>

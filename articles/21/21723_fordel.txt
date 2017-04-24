@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-выгода, польза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выгода, польза</text></cit>
 <сit type="example"><text>med fordel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с выгодой, с прибылью</text></cit></cit>
 <сit type="example"><text>dra fordel av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извлекать пользу (выгоду) из чего-л.</text></cit></cit>
 <сit type="example"><text>til fordel for meg (ham, henne)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в мою (в его, её) пользу</text></cit></cit>
 </sense>
 <sense>
-преимущество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преимущество</text></cit>
 <сit type="example"><text>tale til ens fordel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо отзываться о ком-л., говорить в чью-л. пользу</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +22,8 @@
 <form>
 <orth type="lemma">fordel</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>редко</u> передняя часть (чего-л.)
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передняя часть (чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

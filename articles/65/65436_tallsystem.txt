@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tallsystem</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мат.</u> система исчисления (чисел)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>система исчисления (чисел)</text></cit>
 </sense>
 </entry>
 </superEntry>

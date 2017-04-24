@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-намерение, цель, стремление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намерение, цель, стремление</text></cit>
 <сit type="example"><text>hensikten med dette brev er ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целью данного письма является ...</text></cit></cit>
 <сit type="example"><text>med hensikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с целью</text></cit></cit>
 <сit type="example"><text>i ond hensikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со злым умыслом</text></cit></cit>
@@ -16,10 +16,10 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-намерения, виды (на кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намерения, виды (на кого-л.)</text></cit>
 </sense>
 <sense>
-назначение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назначение</text></cit>
 <сit type="example"><text>ha til hensikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предназначаться для</text></cit></cit>
 <сit type="example"><text>svare til sin hensikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать своему назначению</text></cit></cit>
 </sense>

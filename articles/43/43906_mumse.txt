@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mumse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> говорить, набив себе полон рот
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить, набив себе полон рот</text></cit>
 </sense>
 </entry>
 </superEntry>

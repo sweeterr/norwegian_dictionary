@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">buldrende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- шумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шумный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">buldrende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- шумно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шумно</text></cit>
 </sense>
 </entry>
 </superEntry>

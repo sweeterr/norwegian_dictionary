@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-агентура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агентура</text></cit>
 </sense>
 <sense>
-агентство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агентство</text></cit>
 </sense>
 <sense>
-полномочия агента выступать от имени фирмы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полномочия агента выступать от имени фирмы</text></cit>
 <сit type="example"><text>skaffe seg agenturer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить полномочия (на продажу)</text></cit></cit>
 </sense>
 </entry>

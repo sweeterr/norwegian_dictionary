@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utskrivningssted</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> призывной (приписной) участок
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призывной (приписной) участок</text></cit>
 </sense>
 </entry>
 </superEntry>

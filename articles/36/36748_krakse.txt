@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">krakse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-кашлять, харкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кашлять, харкать</text></cit>
 </sense>
 <sense>
-каркать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каркать</text></cit>
 </sense>
 </entry>
 </superEntry>

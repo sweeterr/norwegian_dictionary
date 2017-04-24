@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-обмен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмен</text></cit>
 </sense>
 <sense>
-<u>тех.</u> передаточный механизм, <u>авт.</u> коробка передач
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передаточный механизм, <lbl>авт.</lbl> коробка передач</text></cit>
 </sense>
 <sense>
-<u>тех.</u> передаточное число (отношение), передача
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передаточное число (отношение), передача</text></cit>
 </sense>
 </entry>
 </superEntry>

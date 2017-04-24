@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">undorn</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-второй завтрак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>второй завтрак</text></cit>
 </sense>
 <sense>
-начало второй половины дня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начало второй половины дня</text></cit>
 </sense>
 </entry>
 </superEntry>

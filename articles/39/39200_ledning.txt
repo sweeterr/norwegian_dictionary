@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-электропроводка, провод, кабель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электропроводка, провод, кабель</text></cit>
 </sense>
 <sense>
-газопровод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газопровод</text></cit>
 </sense>
 <sense>
-магистральный водопровод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магистральный водопровод</text></cit>
 </sense>
 <sense>
-<u>уст.</u> указание, инструкция
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указание, инструкция</text></cit>
 </sense>
 <sense>
-<u>уст.</u> руководство, водительство
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руководство, водительство</text></cit>
 </sense>
 </entry>
 </superEntry>

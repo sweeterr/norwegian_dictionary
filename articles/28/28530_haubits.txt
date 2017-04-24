@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">haubits</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> гаубица
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гаубица</text></cit>
 </sense>
 </entry>
 </superEntry>

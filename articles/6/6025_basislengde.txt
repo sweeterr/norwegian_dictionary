@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basislengde</orth>
 <inflection><orth extent="part">-n (-a), -r</orth></inflection>
-<u>геод.</u> длина базиса, длина базы
+<usg>геод.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длина базиса, длина базы</text></cit>
 </sense>
 </entry>
 </superEntry>

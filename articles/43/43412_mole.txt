@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> кусочек, крошка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусочек, крошка</text></cit>
 <сit type="example"><text>en liten mole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чуточка</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">mole</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> стараться, усердствовать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стараться, усердствовать</text></cit>
 </sense>
 </entry>
 </superEntry>

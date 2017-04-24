@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-декламация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>декламация</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-<u>разг.</u> пустые разговоры
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустые разговоры</text></cit>
 </sense>
 </entry>
 </superEntry>

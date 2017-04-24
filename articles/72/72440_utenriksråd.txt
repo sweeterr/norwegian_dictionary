@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utenriksråd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-главный советник министерства иностранных дел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главный советник министерства иностранных дел</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">utenriksråd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-Совет министров иностранных дел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Совет министров иностранных дел</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,17 @@
 <form>
 <orth type="lemma">ty</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ткань, материя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ткань, материя</text></cit>
 </sense>
 <sense>
-принадлежности, оборудование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежности, оборудование</text></cit>
 </sense>
 <sense>
-<u>горн.</u> руда
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,8 @@
 <form>
 <orth type="lemma">ty</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> добродушный, мягкий
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добродушный, мягкий</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,7 +32,8 @@
 <form>
 <orth type="lemma">ty</orth>
 <inflection><orth>tydde (tyet), tydd (tyet)</orth></inflection>
-<u>диал.</u> льнуть к кому-л.; искать помощи (убежища) у кого-л.
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льнуть к кому-л.; искать помощи (убежища) у кого-л.</text></cit>
 <сit type="example"><text>ty (seg) til én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прибегать к кому-л. (чему-л.)</text></cit></cit>
 </sense>
 </entry>

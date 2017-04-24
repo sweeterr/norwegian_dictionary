@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">øse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> волнение, возбуждение
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнение, возбуждение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">øse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-ковш, черпак, разливательная ложка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковш, черпак, разливательная ложка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-черпать, вычерпывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черпать, вычерпывать</text></cit>
 </sense>
 <sense>
-разливать (черпаком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разливать (черпаком)</text></cit>
 <сit type="example"><text>øse opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разливать (суп и т. п.)</text></cit></cit>
 <сit type="example"><text>øse ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выливать</text></cit></cit>
 </sense>
@@ -36,7 +37,7 @@
 <form>
 <orth type="lemma">øse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-лить (о дожде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лить (о дожде)</text></cit>
 <сit type="example"><text>øse ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лить как из ведра</text></cit></cit>
 </sense>
 </entry>
@@ -45,13 +46,13 @@
 <form>
 <orth type="lemma">øse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-подстрекать, подзадоривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подстрекать, подзадоривать</text></cit>
 </sense>
 <sense>
-нестись, мчаться, лететь, сломя голову
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нестись, мчаться, лететь, сломя голову</text></cit>
 </sense>
 </entry>
 </superEntry>

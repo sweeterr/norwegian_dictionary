@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">treningsbakke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> тренировочный трамплин (для прыжков на лыжах)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тренировочный трамплин (для прыжков на лыжах)</text></cit>
 тренировочная горка (для слаломистов)
 </sense>
 </entry>

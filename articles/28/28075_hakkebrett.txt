@@ -7,14 +7,16 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-доска (для рубки мяса, овощей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доска (для рубки мяса, овощей)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> цимбалы
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цимбалы</text></cit>
 <сit type="example"><text>slå (spille) hakkebrett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на цимбалах</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> расстроенный музыкальный инструмент
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстроенный музыкальный инструмент</text></cit>
 </sense>
 </entry>
 </superEntry>

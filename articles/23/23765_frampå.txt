@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frampå</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-вперёд, впереди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вперёд, впереди</text></cit>
 <сit type="example"><text>holde seg frampå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на виду (в первых рядах)</text></cit></cit>
 </sense>
 </entry>
@@ -16,11 +16,11 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении указывает на продвижение по какой-л. плоскости, на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на продвижение по какой-л. плоскости, на</text></cit>
 <сit type="example"><text>frampå taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на крыше</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на отрезок времени внутри какого-л. периода, к или переводится описательно:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на отрезок времени внутри какого-л. периода, к или переводится описательно:</text></cit>
 <сit type="example"><text>det led frampå morgenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уже наступало утро</text></cit></cit>
 <сit type="example"><text>frampå dagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во второй половине дня, после обеда</text></cit></cit>
 </sense>

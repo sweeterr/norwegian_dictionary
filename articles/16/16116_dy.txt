@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dy</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> тина, ил, илистое дно
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тина, ил, илистое дно</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sprette</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u> дамская подвязка (из кожи с серебряным крючком)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дамская подвязка (из кожи с серебряным крючком)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,25 +16,25 @@
 <inflection><orth>spratt, sprettet</orth></inflection>
 </form>
 <sense>
-вздрогнуть, дёрнуться (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздрогнуть, дёрнуться (о человеке)</text></cit>
 </sense>
 <sense>
-прыгать, подпрыгивать, подскакивать, ёрзать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыгать, подпрыгивать, подскакивать, ёрзать</text></cit>
 </sense>
 <sense>
-кружиться вихрем (о снеге), мести
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кружиться вихрем (о снеге), мести</text></cit>
 </sense>
 <sense>
-хлынуть, (по)литься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлынуть, (по)литься</text></cit>
 </sense>
 <sense>
-лопаться, трескаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лопаться, трескаться</text></cit>
 </sense>
 <sense>
-распускаться, давать ростки (побеги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распускаться, давать ростки (побеги)</text></cit>
 </sense>
 <sense>
-всходить, показываться из-за гор (о солнце)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всходить, показываться из-за гор (о солнце)</text></cit>
 <сit type="example"><text>sprette opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскочить, подскочить, подпрыгнуть</text></cit></cit>
 <сit type="example"><text>sprette tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отпрянуть:</text></cit></cit>
 </sense>
@@ -45,16 +46,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-лить, проливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лить, проливать</text></cit>
 </sense>
 <sense>
-разбрасывать (сено)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбрасывать (сено)</text></cit>
 </sense>
 <sense>
-разрезать, распарывать, взрезать, вспарывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрезать, распарывать, взрезать, вспарывать</text></cit>
 </sense>
 <sense>
-раскупоривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскупоривать</text></cit>
 <сit type = "example"><text>sprette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вспарывать, взрезать</text></cit></cit>
 <сit type = "example"><text>sprette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> разрезать (книгу)</text></cit></cit>
 <сit type = "example"><text>sprette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> распарывать (одежду, шов)</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nestfører</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>воен.</u> заместитель командира (отделения)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заместитель командира (отделения)</text></cit>
 </sense>
 </entry>
 </superEntry>

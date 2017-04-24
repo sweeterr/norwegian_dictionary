@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sammensunken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-развалившийся, разрушившийся, обвалившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развалившийся, разрушившийся, обвалившийся</text></cit>
 </sense>
 <sense>
-расстроенный, растерянный, убитый горем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстроенный, растерянный, убитый горем</text></cit>
 </sense>
 </entry>
 </superEntry>

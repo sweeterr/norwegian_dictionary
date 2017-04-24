@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">viske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> связывать в пучки, делать жгуты
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывать в пучки, делать жгуты</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-тереть, вытирать, стирать (пыль, написанное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тереть, вытирать, стирать (пыль, написанное)</text></cit>
 </sense>
 <sense>
-смахивать (слезу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смахивать (слезу)</text></cit>
 <сit type="example"><text>viske av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стирать, счищать (грязь, пыль)</text></cit></cit>
 <сit type="example"><text>viske bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смахивать, стряхивать, отряхивать</text></cit></cit>
 <сit type = "example"><text>viske over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сметать, выметать</text></cit></cit>

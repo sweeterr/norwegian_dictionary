@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-тетрадь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тетрадь</text></cit>
 </sense>
 <sense>
-выпуск, книжка, брошюра, номер (журнала)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпуск, книжка, брошюра, номер (журнала)</text></cit>
 </sense>
 <sense>
-книжечка (билетов и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книжечка (билетов и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +23,14 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-рукоять, рукоятка (меча, шашки, ножа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукоять, рукоятка (меча, шашки, ножа)</text></cit>
 </sense>
 <sense>
-задержка, помеха, препятствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержка, помеха, препятствие</text></cit>
 </sense>
 <sense>
-<u>юр.</u> задержание, арест
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержание, арест</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,17 +40,18 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-задерживать, замедлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задерживать, замедлять</text></cit>
 <сit type="example"><text>bli heftet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть задержанным</text></cit></cit>
 </sense>
 <sense>
-прикреплять, пришивать, приделывать, примётывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикреплять, пришивать, приделывать, примётывать</text></cit>
 </sense>
 <sense>
-сшивать, брошюровать (книгу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сшивать, брошюровать (книгу)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> отвечать (за кого-л.)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать (за кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
-см. døve
+<ref>døve</ref>
 </sense>
 <sense>
-затупить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затупить</text></cit>
 </sense>
 <sense>
-<u>перен.</u> одолеть, победить, превзойти
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одолеть, победить, превзойти</text></cit>
 <сit type="example"><text>på ski er det ikke lett å døyve ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в беге на лыжах его трудно победить</text></cit></cit>
 </sense>
 </entry>

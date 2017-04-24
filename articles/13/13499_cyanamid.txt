@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cyanamid</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> цианамид
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цианамид</text></cit>
 </sense>
 </entry>
 </superEntry>

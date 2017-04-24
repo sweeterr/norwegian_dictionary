@@ -6,7 +6,7 @@
 <orth type="lemma">gytje</orth>
 <phon>|jytjə|</phon>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
- икра (рыбья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>икра (рыбья)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -17,10 +17,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-ил, осадок в водоёмах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ил, осадок в водоёмах</text></cit>
 </sense>
 <sense>
-лечебная грязь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечебная грязь</text></cit>
 </sense>
 </entry>
 </superEntry>

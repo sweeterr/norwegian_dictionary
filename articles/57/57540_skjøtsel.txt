@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skjøtsel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-уход, присмотр (за кем, чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уход, присмотр (за кем, чем-л.)</text></cit>
 <сit type="example"><text>husets skjøtsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дела по дому, домашнее хозяйство</text></cit></cit>
 </sense>
 </entry>

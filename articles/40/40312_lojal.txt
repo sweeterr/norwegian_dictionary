@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">lojal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-лояльный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лояльный</text></cit>
 </sense>
 <sense>
-добросовестный, преданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добросовестный, преданный</text></cit>
 </sense>
 </entry>
 </superEntry>

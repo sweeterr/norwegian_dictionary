@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-народ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народ</text></cit>
 <сit type="example"><text>den menige nasjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>простой народ, широкие массы</text></cit></cit>
 </sense>
 <sense>
-нация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нация</text></cit>
 <сit type="example"><text>De Forente Nasjoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Организация Объединённых Наций (ООН)</text></cit></cit>
 </sense>
 </entry>

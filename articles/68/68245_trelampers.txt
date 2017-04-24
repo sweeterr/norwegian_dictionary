@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">trelampers</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-
 <gramGrp><pos>inv</pos></gramGrp>
- <u>радио</u> трёхламповый
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трёхламповый</text></cit>
 </sense>
 </entry>
 </superEntry>

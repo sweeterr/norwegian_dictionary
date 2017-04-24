@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tomset</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ошалевший, одуревший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошалевший, одуревший</text></cit>
 </sense>
 <sense>
-умственно отсталый, придурковатый, слабоумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умственно отсталый, придурковатый, слабоумный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lukker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>фото</u> затвор
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затвор</text></cit>
 </sense>
 </entry>
 </superEntry>

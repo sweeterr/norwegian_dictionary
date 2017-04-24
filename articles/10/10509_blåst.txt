@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-шторм, буря, сильный ветер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шторм, буря, сильный ветер</text></cit>
 <сit type="example"><text>bitende blåst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>резкий ветер</text></cit></cit>
 </sense>
 <sense>
-фонтан воды (выбрасываемый китом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонтан воды (выбрасываемый китом)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">blåst</orth>
 <gramGrp><tns>p.p.</tns><note>от blåse</note></gramGrp>
-убранный, чистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убранный, чистый</text></cit>
 <сit type="example"><text>være blåst for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очищенным от чего-л., не иметь чего-л.</text></cit></cit>
 <сit type="example"><text>alt var så blåst og fint ute og inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё было так чисто и красиво и снаружи и изнутри</text></cit></cit>
 <сit type="example"><text>det var blåst for folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не было ни одной души кругом</text></cit></cit>

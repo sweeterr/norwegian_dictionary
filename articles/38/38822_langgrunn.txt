@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">langgrunn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-пологий (о береге, о морском дне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пологий (о береге, о морском дне)</text></cit>
 </sense>
 </entry>
 </superEntry>

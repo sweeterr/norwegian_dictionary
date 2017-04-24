@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kyndel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-факел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>факел</text></cit>
 </sense>
 <sense>
-лучина (для разжигания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучина (для разжигания)</text></cit>
 </sense>
 </entry>
 </superEntry>

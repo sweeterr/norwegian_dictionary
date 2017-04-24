@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">smykke seg</orth>
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
-рядиться, наряжаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рядиться, наряжаться</text></cit>
 <сit type="example"><text>smykke seg med lånte fjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> рядиться в чужие перья</text></cit></cit>
 </sense>
 </entry>

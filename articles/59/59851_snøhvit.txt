@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">snøhvit</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-белоснежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белоснежный</text></cit>
 </sense>
 <sense>
-белый от снега
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белый от снега</text></cit>
 </sense>
 </entry>
 </superEntry>

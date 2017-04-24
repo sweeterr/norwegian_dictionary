@@ -7,20 +7,21 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-потерянный, пропавший, погибший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потерянный, пропавший, погибший</text></cit>
 <сit type="example"><text>holde en for fortapt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>считать кого-л. погибшим</text></cit></cit>
 </sense>
 <sense>
-погружённый (в размышления)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погружённый (в размышления)</text></cit>
 </sense>
 <sense>
-захваченный, увлечённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захваченный, увлечённый</text></cit>
 </sense>
 <sense>
-беспомощный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспомощный</text></cit>
 </sense>
 <sense>
-<u>библ.</u> блудный
+<usg>библ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блудный</text></cit>
 </sense>
 </entry>
 </superEntry>

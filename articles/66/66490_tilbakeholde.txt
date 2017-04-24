@@ -4,18 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">tilbakeholde</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-удерживать, задерживать (на месте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удерживать, задерживать (на месте)</text></cit>
 </sense>
 <sense>
-сдерживать (чувства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдерживать (чувства)</text></cit>
 </sense>
 <sense>
-придерживать (что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придерживать (что-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

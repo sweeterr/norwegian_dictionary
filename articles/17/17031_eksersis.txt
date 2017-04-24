@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksersis</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> строевое занятие, упражнения
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строевое занятие, упражнения</text></cit>
 <сit type="example"><text>være på eksersis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься строевой подготовкой</text></cit></cit>
 </sense>
 </entry>

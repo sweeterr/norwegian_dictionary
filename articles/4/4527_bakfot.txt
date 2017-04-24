@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakfot</orth>
 <inflection><orth extent="part">-foten, -føtter</orth></inflection>
-задняя нога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задняя нога</text></cit>
 <сit type="example"><text>jage på bakfoten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>охот.</lbl> идти по следам в неверном направлении</text></cit></cit>
 </sense>
 </entry>

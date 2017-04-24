@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-народная песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народная песня</text></cit>
 </sense>
 <sense>
-эстрадная песенка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эстрадная песенка</text></cit>
 </sense>
 <sense>
-баллада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баллада</text></cit>
 <сit type="example"><text>den gamle visa (visen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая песня (история)</text></cit></cit>
 <сit type="example"><text>slik er enden (slutten) på visa (visen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таков конец, дело кончилось тем, что ...</text></cit></cit>
 <сit type="example"><text>forstå en halvkvedet vise</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимать с полуслова</text></cit></cit>
@@ -26,26 +26,26 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-показывать, указывать (на что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показывать, указывать (на что-л. - på)</text></cit>
 <сit type="example"><text>vise (hen) til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>указывать, ссылаться (на что-л.)</text></cit></cit>
 </sense>
 <sense>
-обнаруживать, проявлять (чувства и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обнаруживать, проявлять (чувства и т. п.)</text></cit>
 </sense>
 <sense>
-доказывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доказывать</text></cit>
 </sense>
 <sense>
-оказывать (услугу, милость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать (услугу, милость)</text></cit>
 </sense>
 <sense>
-показывать направление, вести куда-л. (о следах и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показывать направление, вести куда-л. (о следах и т. п.)</text></cit>
 <сit type="example"><text>vise én inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ввести, провести (в комнату)</text></cit></cit>
 <сit type="example"><text>vise mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>указывать на, быть обращенным (куда-л., о стрелке компаса)</text></cit></cit>
 <сit type="example"><text>vise én ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпроводить кого-л.</text></cit></cit>
 </sense>
 <sense>
-гореть (о светофоре, маяке, указателе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гореть (о светофоре, маяке, указателе)</text></cit>
 <сit type="example"><text>vise av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвергать, отклонять (предложение)</text></cit></cit>
 <сit type = "example"><text>vise fra seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отказываться, отрекаться</text></cit></cit>
 <сit type = "example"><text>vise fra seg :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отвергать</text></cit></cit>

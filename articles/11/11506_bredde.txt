@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-ширина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина</text></cit>
 <сit type="example"><text>tre i bredden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трое рядом, по трое в ряд</text></cit></cit>
 <сit type="example"><text>av dobbelt bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двойной ширины</text></cit></cit>
 </sense>
 <sense>
-пространность (изложения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пространность (изложения)</text></cit>
 <сit type="example"><text>unødig bredde i fremstillingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>излишние подробности в изложении</text></cit></cit>
 </sense>
 <sense>
-<u>геогр.</u> широта
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широта</text></cit>
 <сit type="example"><text>nord (syd) bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>северная (южная) широта</text></cit></cit>
 <сit type="example"><text>befinne seg på høy (lav) bredde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться в верхних (нижних) широтах</text></cit></cit>
 </sense>

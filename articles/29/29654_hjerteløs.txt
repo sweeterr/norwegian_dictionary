@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hjerteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бессердечный, бесчувственный, чёрствый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессердечный, бесчувственный, чёрствый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bøle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> ларь (для мука, зерна)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ларь (для мука, зерна)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,17 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-обиталище, жилище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обиталище, жилище</text></cit>
 </sense>
 <sense>
-гнездо, нора, логово (зверя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнездо, нора, логово (зверя)</text></cit>
 </sense>
 <sense>
-звериный выводок (в одной норе, гнезде и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звериный выводок (в одной норе, гнезде и т. п.)</text></cit>
 </sense>
 <sense>
-<u>презр.</u> ватага, шайка, банда
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ватага, шайка, банда</text></cit>
 </sense>
 </entry>
 </superEntry>

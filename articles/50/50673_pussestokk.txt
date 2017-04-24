@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pussestokk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> шомпол
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шомпол</text></cit>
 </sense>
 </entry>
 </superEntry>

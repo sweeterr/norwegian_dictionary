@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjelekraft</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u> мощность котла
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощность котла</text></cit>
 </sense>
 </entry>
 </superEntry>

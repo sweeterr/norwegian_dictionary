@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-наследство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наследство</text></cit>
 <сit type="example"><text>få (ta) arv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить наследство (после кого-л. - etter)</text></cit></cit>
 <сit type="example"><text>få til arv og eie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить в наследство</text></cit></cit>
 <сit type="example"><text>gi til arv og eie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передать по наследству</text></cit></cit>
@@ -18,11 +18,11 @@
 <сit type="example"><text>fallen arv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полученное (доставшееся) наследство</text></cit></cit>
 </sense>
 <sense>
-наследственная черта (характера), унаследованное свойство, унаследованная особенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наследственная черта (характера), унаследованное свойство, унаследованная особенность</text></cit>
 <сit type="example"><text>ta i arv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>унаследовать (черты, свойства, способности)</text></cit></cit>
 </sense>
 <sense>
-наследие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наследие</text></cit>
 <сit type="example"><text>fortidens rike arv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>богатое наследие прошлого</text></cit></cit>
 <сit type="example"><text>løfte arven, ta arven opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продолжать начатое дело (после кого-л. - etter)</text></cit></cit>
 </sense>

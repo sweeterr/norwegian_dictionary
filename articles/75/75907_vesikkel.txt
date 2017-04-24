@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vesikkel</orth>
 <inflection><orth extent="part">-helen, -ler</orth></inflection>
-<u>анат.</u> пузырёк
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пузырёк</text></cit>
 </sense>
 </entry>
 </superEntry>

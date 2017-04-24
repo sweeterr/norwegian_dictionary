@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">førfortid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>грам.</u> предпрошедшее время, плюсквамперфект
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предпрошедшее время, плюсквамперфект</text></cit>
 </sense>
 </entry>
 </superEntry>

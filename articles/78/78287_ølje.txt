@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ølje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подогревать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подогревать</text></cit>
 </sense>
 <sense>
-излучать тепло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>излучать тепло</text></cit>
 </sense>
 </entry>
 </superEntry>

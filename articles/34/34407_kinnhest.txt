@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kinnhest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> пощёчина, оплеуха
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пощёчина, оплеуха</text></cit>
 </sense>
 </entry>
 </superEntry>

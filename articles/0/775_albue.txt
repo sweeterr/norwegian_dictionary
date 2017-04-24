@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-локоть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локоть</text></cit>
 <сit type="example"><text>puffe til en med albuen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толкать локтем (кого-n.)</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> колено
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено</text></cit>
 </sense>
 <sense>
-рукав (одежды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукав (одежды)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,7 @@
 <form>
 <orth type="lemma">albue</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-толкать локтем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкать локтем</text></cit>
 </sense>
 </entry>
 </superEntry>

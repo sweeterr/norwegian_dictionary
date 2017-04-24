@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">milebred</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-шириной в одну милю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шириной в одну милю</text></cit>
 </sense>
 <sense>
-шириной в несколько миль; раскинувшийся на несколько миль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шириной в несколько миль; раскинувшийся на несколько миль</text></cit>
 </sense>
 </entry>
 </superEntry>

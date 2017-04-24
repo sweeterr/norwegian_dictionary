@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">børn</orth>
 <gramGrp><num>pl</num></gramGrp>
-<u>уст.</u> от barn
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>от barn</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teaterlege</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-врач при театре
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач при театре</text></cit>
 </sense>
 </entry>
 </superEntry>

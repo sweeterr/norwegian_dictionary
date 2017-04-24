@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kråkefot</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> плаун
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плаун</text></cit>
 <сit type="example"><text>alminnelig kråkefot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плаун булавовидный</text></cit></cit>
 <сit type="example"><text>femradet kråkefot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>болотная можжуха</text></cit></cit>
 </sense>

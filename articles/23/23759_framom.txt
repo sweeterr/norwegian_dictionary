@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">framom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-вперёд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вперёд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">framom</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-мимо (вперёд)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мимо (вперёд)</text></cit>
 </sense>
 </entry>
 </superEntry>

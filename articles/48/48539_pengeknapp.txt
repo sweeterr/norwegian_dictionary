@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">pengeknapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безденежный, характеризуемый безденежьем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безденежный, характеризуемый безденежьем</text></cit>
 </sense>
 </entry>
 </superEntry>

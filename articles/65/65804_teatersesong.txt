@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teatersesong</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-театральный сезон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральный сезон</text></cit>
 </sense>
 </entry>
 </superEntry>

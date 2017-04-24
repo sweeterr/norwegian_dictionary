@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nøle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> большое корыто, деревянный чан
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большое корыто, деревянный чан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">nøle</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-колебаться, находиться в нерешительности, не знать, что делать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колебаться, находиться в нерешительности, не знать, что делать</text></cit>
 <сit type="example"><text>nøle med svaret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>медлить с ответом</text></cit></cit>
 </sense>
 </entry>

@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-хлеб, вымоченный в молоке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлеб, вымоченный в молоке</text></cit>
 </sense>
 <sense>
-черника в молоке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черника в молоке</text></cit>
 </sense>
 <sense>
-смесь творога и молока
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смесь творога и молока</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">soll</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-толпа, скопище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпа, скопище</text></cit>
 <сit type="example"><text>sanke soll på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столпиться вокруг кого-л.</text></cit></cit>
 </sense>
 </entry>

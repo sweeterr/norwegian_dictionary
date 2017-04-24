@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">frendefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-родственники, родня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родственники, родня</text></cit>
 </sense>
 <sense>
-родственный народ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родственный народ</text></cit>
 </sense>
 </entry>
 </superEntry>

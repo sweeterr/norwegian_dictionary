@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">diskurs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-пространная беседа, продолжительный разговор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пространная беседа, продолжительный разговор</text></cit>
 </sense>
 <sense>
-обмен мнениями, обсуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмен мнениями, обсуждение</text></cit>
 </sense>
 <sense>
-лекция, доклад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лекция, доклад</text></cit>
 </sense>
 </entry>
 </superEntry>

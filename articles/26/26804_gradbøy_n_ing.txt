@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gradbøy(n)ing</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>грам.</u> изменение по степеням сравнения
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изменение по степеням сравнения</text></cit>
 </sense>
 </entry>
 </superEntry>

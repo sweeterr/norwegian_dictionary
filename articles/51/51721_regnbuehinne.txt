@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">regnbuehinne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мед.</u> радужная оболочка
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радужная оболочка</text></cit>
 </sense>
 </entry>
 </superEntry>

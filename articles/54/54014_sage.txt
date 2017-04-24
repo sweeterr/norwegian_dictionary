@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-пилить, распиливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пилить, распиливать</text></cit>
 <сit type="example"><text>sage ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добывать огонь трением</text></cit></cit>
 <сit type="example"><text>sage av (over) den gre(i)n en selv sitter på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> рубить тот сук, на котором сидишь</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> идти сильно размахивая руками
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти сильно размахивая руками</text></cit>
 <сit type="example"><text>sage av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отпилить</text></cit></cit>
 <сit type="example"><text>sage opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распилить</text></cit></cit>
 <сit type="example"><text>sage over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перепилить</text></cit></cit>

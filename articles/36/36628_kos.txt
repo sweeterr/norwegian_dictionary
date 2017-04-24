@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kos</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путь</text></cit>
 <сit type="example"><text>dra (fare) sin kos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать (идти) своим путём</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">kos</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-уют
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уют</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">kos</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-уютно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уютно</text></cit>
 <сit type="example"><text>ha det kos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя уютно</text></cit></cit>
 </sense>
 </entry>

@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">hul</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полый, пустой; пустотелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полый, пустой; пустотелый</text></cit>
 </sense>
 <sense>
-впалый, ввалившийся (о щеках), глубоко посаженный (о глазах), вогнутый (о линзе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впалый, ввалившийся (о щеках), глубоко посаженный (о глазах), вогнутый (о линзе)</text></cit>
 </sense>
 <sense>
-пустой, бессодержательный (о фразе, о речи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустой, бессодержательный (о фразе, о речи)</text></cit>
 </sense>
 <sense>
-глухой, невнятный (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой, невнятный (о голосе)</text></cit>
 </sense>
 <sense>
-ненадёжный, фальшивый (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный, фальшивый (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

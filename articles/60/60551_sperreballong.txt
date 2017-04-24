@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sperreballong</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> аэростат воздушного заграждения
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аэростат воздушного заграждения</text></cit>
 </sense>
 </entry>
 </superEntry>

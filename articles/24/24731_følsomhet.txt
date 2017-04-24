@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-чувствительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительность</text></cit>
 </sense>
 <sense>
-сентиментальность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сентиментальность</text></cit>
 </sense>
 <sense>
-<u>физ.</u> точность, разрешающая способность (прибора)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точность, разрешающая способность (прибора)</text></cit>
 </sense>
 </entry>
 </superEntry>

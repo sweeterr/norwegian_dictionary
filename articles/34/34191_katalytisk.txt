@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">katalytisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>хим.</u> каталитический
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каталитический</text></cit>
 </sense>
 </entry>
 </superEntry>

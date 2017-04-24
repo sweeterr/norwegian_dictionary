@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">stutt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-короткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий</text></cit>
 </sense>
 <sense>
-краткий, кратковременный, непродолжительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краткий, кратковременный, непродолжительный</text></cit>
 </sense>
 <sense>
-немногословный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немногословный</text></cit>
 </sense>
 </entry>
 </superEntry>

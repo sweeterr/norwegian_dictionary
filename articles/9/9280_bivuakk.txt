@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bivuakk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> бив(у)ак, лагерь
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бив(у)ак, лагерь</text></cit>
 <сit type="example"><text>ligge i bivuakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>располагаться (стоять) бив(у)аком</text></cit></cit>
 </sense>
 </entry>

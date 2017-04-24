@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gjettbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-разгадываемый; поддающийся разгадке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разгадываемый; поддающийся разгадке</text></cit>
 </sense>
 </entry>
 </superEntry>

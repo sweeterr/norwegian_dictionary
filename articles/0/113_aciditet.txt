@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aciditet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> кислотность
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кислотность</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> бункер
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бункер</text></cit>
 <сit type="example"><text>ha fulle bakser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь полные бункера</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">baks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> паковый лёд
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паковый лёд</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-хутор, усадьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хутор, усадьба</text></cit>
 </sense>
 <sense>
-<u>диал.</u> приусадебный участок, огороженное поле возле дома
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приусадебный участок, огороженное поле возле дома</text></cit>
 <сit type="example"><text>ligge bø i bø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать рядом (о соприкасающихся приусадебных участках)</text></cit></cit>
 </sense>
 </entry>

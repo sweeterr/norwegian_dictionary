@@ -7,23 +7,23 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-рама (оконная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рама (оконная)</text></cit>
 </sense>
 <sense>
-рама, рамка (для картин, портретов, зеркал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рама, рамка (для картин, портретов, зеркал)</text></cit>
 <сit type="example"><text>innfatte (sette) i glass og ramme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вставлять в раму, окантовывать</text></cit></cit>
 </sense>
 <sense>
-колода (оконная, дверная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колода (оконная, дверная)</text></cit>
 </sense>
 <sense>
-пяльцы (для вышивания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пяльцы (для вышивания)</text></cit>
 </sense>
 <sense>
-обрамление, окружение, фон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрамление, окружение, фон</text></cit>
 </sense>
 <sense>
-пределы, рамки, границы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пределы, рамки, границы</text></cit>
 <сit type="example"><text>innenfor rammen av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в рамках (чего-л.)</text></cit></cit>
 <сit type="example"><text>utenfor rammen av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за пределами, вне рамок (чего-л.)</text></cit></cit>
 </sense>
@@ -34,7 +34,7 @@
 <orth type="lemma">ramme</orth>
 <inflection><orth extent="part">-met (-te), -met (-t)</orth></inflection>
 )
-вставлять в раму (в рамку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вставлять в раму (в рамку)</text></cit>
 <сit type = "example"><text>ramme inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обрамлять</text></cit></cit>
 <сit type = "example"><text>ramme inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> окантовывать</text></cit></cit>
 </sense>
@@ -47,19 +47,20 @@
 )
 </form>
 <sense>
-попадать в цель, поражать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попадать в цель, поражать</text></cit>
 <сit type="example"><text>bli rammet av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пострадать от чего-л., получить повреждение от чего-л.</text></cit></cit>
 <сit type="example"><text>bli rammet av lynet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть поражённым молнией</text></cit></cit>
 <сit type="example"><text>han ble rammet av lynet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его убило молнией, в него ударила молния</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> бить по цели, попадать в точку
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить по цели, попадать в точку</text></cit>
 </sense>
 <sense>
-задевать, обижать, оскорблять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задевать, обижать, оскорблять</text></cit>
 </sense>
 <sense>
-затрагивать, касаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затрагивать, касаться</text></cit>
 </sense>
 </entry>
 <entry>
@@ -70,10 +71,11 @@
 )
 </form>
 <sense>
-забивать сваи (тж. ramme ned)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забивать сваи (тж. ramme ned)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> взламывать лёд (о ледоколах)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взламывать лёд (о ледоколах)</text></cit>
 </sense>
 </entry>
 </superEntry>

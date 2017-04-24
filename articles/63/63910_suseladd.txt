@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">suseladd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> прожигатель жизни, бездельник, пьяница
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прожигатель жизни, бездельник, пьяница</text></cit>
 </sense>
 </entry>
 </superEntry>

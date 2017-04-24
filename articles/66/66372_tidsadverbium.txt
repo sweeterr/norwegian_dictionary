@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tidsadverbium</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>грам.</u> наречие времени
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наречие времени</text></cit>
 </sense>
 </entry>
 </superEntry>

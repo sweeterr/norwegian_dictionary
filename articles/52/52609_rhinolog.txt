@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rhinolog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> ларинголог
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ларинголог</text></cit>
 </sense>
 </entry>
 </superEntry>

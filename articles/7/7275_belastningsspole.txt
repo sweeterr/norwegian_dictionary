@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningsspole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> нагрузочная катушка, балластная катушка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузочная катушка, балластная катушка</text></cit>
 </sense>
 </entry>
 </superEntry>

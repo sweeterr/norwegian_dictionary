@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-прилавок, стойка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилавок, стойка</text></cit>
 <сit type="example"><text>stå bak (ved) disken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять за прилавком, быть продавцом (продавщицей)</text></cit></cit>
 <сit type="example"><text>selge over disken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продавать в розницу</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> обеденный стол
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обеденный стол</text></cit>
 <сit type="example"><text>holde disk og duk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить своим хозяйством (домом)</text></cit></cit>
 <сit type="example"><text>sette disk og duk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завести своё хозяйство, свить своё гнездо</text></cit></cit>
 <сit type="example"><text>skilles fra disk og duk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разойтись, развестись (о супругах)</text></cit></cit>
 </sense>
 <sense>
-<u>церк.</u> дискос, <u>уст.</u> деревянная тарелка
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дискос, <lbl>уст.</lbl> деревянная тарелка</text></cit>
 </sense>
 </entry>
 </superEntry>

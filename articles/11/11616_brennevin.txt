@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">brennevin</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-водка, самогон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водка, самогон</text></cit>
 <сit type="example"><text>fransk brennevin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коньяк</text></cit></cit>
 <сit type="example"><text>brenne brennevin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гнать водку (самогон)</text></cit></cit>
 <сit type="example"><text>traktere med brennevin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>угощать водкой</text></cit></cit>

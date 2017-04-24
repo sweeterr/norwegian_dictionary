@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-смола, дёготь, вар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смола, дёготь, вар</text></cit>
 <сit type="example"><text>svart som bek</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный как смоль</text></cit></cit>
 </sense>
 <sense>
-<u>хим.</u> остаток от дистилляции органических веществ
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остаток от дистилляции органических веществ</text></cit>
 </sense>
 </entry>
 </superEntry>

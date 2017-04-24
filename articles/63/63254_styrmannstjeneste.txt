@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">styrmannstjeneste</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> штурманская служба
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штурманская служба</text></cit>
 </sense>
 </entry>
 </superEntry>

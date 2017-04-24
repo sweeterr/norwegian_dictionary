@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">eksellense</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-превосходительство (титул)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходительство (титул)</text></cit>
 <сit type="example"><text>Deres eksellense</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Ваше Превосходительство</text></cit></cit>
 <сit type="example"><text>Hans eksellense</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Его Превосходительство</text></cit></cit>
 </sense>

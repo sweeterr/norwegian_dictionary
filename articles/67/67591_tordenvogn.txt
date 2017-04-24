@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tordenvogn</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>поэт.</u> колесница Тора-громовержца
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колесница Тора-громовержца</text></cit>
 </sense>
 </entry>
 </superEntry>

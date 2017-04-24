@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">verftsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> рабочие на верфи
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочие на верфи</text></cit>
 </sense>
 </entry>
 </superEntry>

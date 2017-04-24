@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">soldatbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-солдатская книжка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солдатская книжка</text></cit>
 </sense>
 </entry>
 </superEntry>

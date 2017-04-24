@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vekseldrift</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>с.-х.</u> севооборот
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>севооборот</text></cit>
 </sense>
 </entry>
 </superEntry>

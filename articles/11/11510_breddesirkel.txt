@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">breddesirkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>геогр.</u> параллель, широта
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>параллель, широта</text></cit>
 </sense>
 </entry>
 </superEntry>

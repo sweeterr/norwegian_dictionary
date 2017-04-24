@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> лисица
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лисица</text></cit>
 <сit type="example"><text>listig som en rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитёр как лиса</text></cit></cit>
 <сit type="example"><text>ha en rev bak øret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть себе на уме, лукавить, хитрить</text></cit></cit>
 </sense>
 <sense>
-песец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песец</text></cit>
 </sense>
 <sense>
-лисий мех
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лисий мех</text></cit>
 </sense>
 <sense>
-<u>разг.</u> хитрец, плут, «лиса»
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрец, плут, «лиса»</text></cit>
 <сit type="example"><text>en gammel rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завзятый хитрец, старый плут</text></cit></cit>
 </sense>
 </entry>
@@ -27,7 +29,7 @@
 <form>
 <orth type="lemma">rev</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пелёнка, свивальник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пелёнка, свивальник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,13 +37,13 @@
 <form>
 <orth type="lemma">rev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отмель, банка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отмель, банка</text></cit>
 </sense>
 <sense>
-риф, подводный камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риф, подводный камень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -49,7 +51,8 @@
 <form>
 <orth type="lemma">rev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> риф (на парусе)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риф (на парусе)</text></cit>
 <сit type="example"><text>ta (inn) et rev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(за)рифить парус, взять риф</text></cit></cit>
 </sense>
 </entry>

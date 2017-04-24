@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">grunne</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
- <u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отмель, мель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отмель, мель</text></cit>
 </sense>
 <sense>
-мелководье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелководье</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">grunne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-мелеть, становиться мелким
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелеть, становиться мелким</text></cit>
 <сit type="example"><text>grunne opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заносить дно (песком, илом)</text></cit></cit>
 </sense>
 </entry>
@@ -30,14 +30,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-основывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основывать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> строить (на чём-л. - på), обосновывать
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строить (на чём-л. - på), обосновывать</text></cit>
 <сit type="example"><text>grunnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на основании</text></cit></cit>
 </sense>
 <sense>
-грунтовать (под краску)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грунтовать (под краску)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">palme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-пальма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пальма</text></cit>
 <сit type="example"><text>bære (vinne) palmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить пальму первенства</text></cit></cit>
 <сit type="example"><text>stå med palmer i hendene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть победителем</text></cit></cit>
 </sense>
@@ -17,11 +17,12 @@
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 </form>
 <sense>
-забросать, засыпать (кого-л. чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забросать, засыпать (кого-л. чем-л.)</text></cit>
 <сit type="example"><text>palme én med snøballer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забросать кого-л. снежками</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> выбирать (трос)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбирать (трос)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-череп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>череп</text></cit>
 <сit type="example"><text>ha vett i skallen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> иметь голову на плечах</text></cit></cit>
 </sense>
 <sense>
-лоб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоб</text></cit>
 </sense>
 <sense>
-удар головой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар головой</text></cit>
 <сit type="example"><text>gi én en skalle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить головой (кого-л.), боднуть</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-пимы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пимы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <form>
 <orth type="lemma">skalle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-шелушить, очищать (от скорлупы), срезать (кожуру, корку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелушить, очищать (от скорлупы), срезать (кожуру, корку)</text></cit>
 <сit type = "example"><text>skalle av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> шелушиться (о коже)</text></cit></cit>
 <сit type = "example"><text>skalle av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> лупиться, облупливаться</text></cit></cit>
 <сit type = "example"><text>skalle av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> откалываться (о политической группировке)</text></cit></cit>
@@ -40,13 +40,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-ударять головой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударять головой</text></cit>
 </sense>
 <sense>
-бодаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодаться</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> отбивать головой (мяч)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбивать головой (мяч)</text></cit>
 </sense>
 </entry>
 </superEntry>

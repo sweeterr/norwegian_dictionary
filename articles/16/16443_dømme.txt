@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-судить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судить</text></cit>
 <сit type="example"><text>etter alt å dømme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судя по всему</text></cit></cit>
 <сit type="example"><text>dømme andre etter seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подходить ко всем со своей меркой</text></cit></cit>
 <сit type="example"><text>dømme på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассчитывать, делать ставку на что-л.</text></cit></cit>
@@ -15,16 +15,17 @@
 <сit type="example"><text>dømme etter det ytre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(если) судить по внешнему виду</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> выносить приговор, осуждать кого-л.
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносить приговор, осуждать кого-л.</text></cit>
 <сit type="example"><text>dømme etter lov og rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судить по закону</text></cit></cit>
 <сit type="example"><text>dømme én fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оправдать кого-л.</text></cit></cit>
 <сit type="example"><text>dømme én skyldig i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>признать кого-л. виновным в чём-л.</text></cit></cit>
 </sense>
 <sense>
-присуждать (к чему-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>присуждать (к чему-л. - til)</text></cit>
 </sense>
 <sense>
-рассудить, решить спор; <u>спорт.</u> судить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассудить, решить спор; <lbl>спорт.</lbl> судить</text></cit>
 </sense>
 </entry>
 </superEntry>

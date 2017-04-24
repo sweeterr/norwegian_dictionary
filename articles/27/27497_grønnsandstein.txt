@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grønnsandstein</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u> силикат железа и калия
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>силикат железа и калия</text></cit>
 </sense>
 </entry>
 </superEntry>

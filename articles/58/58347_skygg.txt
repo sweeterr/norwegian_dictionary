@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">skygg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пугливый, боязливый, испуганный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пугливый, боязливый, испуганный</text></cit>
 </sense>
 <sense>
-робкий, застенчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>робкий, застенчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

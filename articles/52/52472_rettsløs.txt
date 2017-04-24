@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">rettsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесправный (о положении, состоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесправный (о положении, состоянии)</text></cit>
 </sense>
 <sense>
-не имеющий прав, лишённый прав
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий прав, лишённый прав</text></cit>
 </sense>
 <sense>
-беззаконный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззаконный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forbi</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-мимо, стороной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мимо, стороной</text></cit>
 <сit type="example"><text>være forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройти, закончиться</text></cit></cit>
 <сit type="example"><text>det er forbi med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)кончено с чем-л., положен конец чему-л.</text></cit></cit>
 <сit type = "example"><text>det er forbi med ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> с ним всё кончено</text></cit></cit>
@@ -20,10 +20,10 @@
 <form>
 <orth type="lemma">forbi</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-мимо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мимо</text></cit>
 <сit type="example"><text>bile forbi noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проезжать мимо чего-л. на автомашине</text></cit></cit>
 <сit type="example"><text>gå Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>forbi:</text></cit></cit>
-<сit type = "example"><text>gå Enenen — forbi:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обойти кого-л. <u>тж. перен.</u></text></cit></cit>
+<сit type = "example"><text>gå Enenen — forbi:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обойти кого-л. <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type = "example"><text>gå Enenen — forbi:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обогнать кого-л.</text></cit></cit>
 <сit type="example"><text>det er ikke til å komme forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> нельзя пройти мимо этого, с этим нельзя не считаться</text></cit></cit>
 </sense>

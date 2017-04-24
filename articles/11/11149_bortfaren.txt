@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bortfaren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-уехавший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уехавший</text></cit>
 </sense>
 </entry>
 </superEntry>

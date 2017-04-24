@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">saga</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-сага, сказание, легенда, повествование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сага, сказание, легенда, повествование</text></cit>
 <сit type="example"><text>skrive sitt navn inn i landets saga</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вписать своё имя в историю страны</text></cit></cit>
 <сit type="example"><text>være ute av sagaen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> потерять былое значение; выбыть из игры</text></cit></cit>
 <сit type="example"><text>være en saga blott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кануть в Лету</text></cit></cit>

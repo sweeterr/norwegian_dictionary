@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppbringelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> захват (судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захват (судна)</text></cit>
 </sense>
 </entry>
 </superEntry>

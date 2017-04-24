@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hev</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кислое тесто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кислое тесто</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">hev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-рукоятка, ручка (на инструменте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукоятка, ручка (на инструменте)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,9 +21,9 @@
 <form>
 <orth type="lemma">hev</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> прекрасный, превосходный, замечательный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасный, превосходный, замечательный</text></cit>
 </sense>
 </entry><entry>
 <index></index>

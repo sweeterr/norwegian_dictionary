@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tannlyd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> зубной (дентальный) звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубной (дентальный) звук</text></cit>
 </sense>
 </entry>
 </superEntry>

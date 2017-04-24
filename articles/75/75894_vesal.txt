@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vesal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-маленький, крохотный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленький, крохотный</text></cit>
 </sense>
 <sense>
-тесный (о помещении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тесный (о помещении)</text></cit>
 </sense>
 <sense>
-слабый, дряхлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, дряхлый</text></cit>
 </sense>
 </entry>
 </superEntry>

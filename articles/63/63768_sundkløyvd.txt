@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sundkløyvd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> расколотый на куски
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расколотый на куски</text></cit>
 </sense>
 </entry>
 </superEntry>

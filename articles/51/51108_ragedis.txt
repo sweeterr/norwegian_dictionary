@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ragedis</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-неприятное положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятное положение</text></cit>
 </sense>
 <sense>
-ссора, свара
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ссора, свара</text></cit>
 </sense>
 </entry>
 </superEntry>

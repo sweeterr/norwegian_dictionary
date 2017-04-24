@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fettpresse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> шприц для смазки
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шприц для смазки</text></cit>
 </sense>
 </entry>
 </superEntry>

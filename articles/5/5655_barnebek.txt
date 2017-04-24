@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barnebek</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u> меконий, первородный кал
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меконий, первородный кал</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,10 +5,11 @@
 <form>
 <orth type="lemma">fjase</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u> 1) болтать глупости, нести чепуху (вздор)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>1) болтать глупости, нести чепуху (вздор)</text></cit>
 </sense>
 <sense>
-любезничать, флиртовать, кокетничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любезничать, флиртовать, кокетничать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> полоска (кожи, материи)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоска (кожи, материи)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> свободный кусок троса (каната)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный кусок троса (каната)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +20,7 @@
 <form>
 <orth type="lemma">lenge</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-удлинять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удлинять</text></cit>
 <сit type="example"><text>lenges</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удлиняться, становиться длинней</text></cit></cit>
 </sense>
 </entry>
@@ -35,10 +37,10 @@
 <form>
 <orth type="lemma">lenge</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp lenger, superl lengst)</orth></inflection>
+<inflection><orth>(komp lenger, superl lengst)</orth></inflection>
 </form>
 <sense>
-долго
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долго</text></cit>
 <сit type="example"><text>hvor lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как долго, сколько времени</text></cit></cit>
 <сit type="example"><text>innen lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скоро</text></cit></cit>
 <сit type = "example"><text>så lenge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> до тех пор пока ...</text></cit></cit>

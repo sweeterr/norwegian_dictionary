@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">varaanker</orth>
 <inflection><orth extent="part">-eret, = (-rer)</orth></inflection>
-<u>мор.</u> запасный якорь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запасный якорь</text></cit>
 </sense>
 </entry>
 </superEntry>

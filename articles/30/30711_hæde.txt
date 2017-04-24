@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">hæde</orth>
 <inflection><orth extent="part">-et (-de), -er (-d)</orth></inflection>
-<u>диал.</u> <u>уст.</u> презирать кого-л., издеваться над кем-л.
+<usg>диал.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>презирать кого-л., издеваться над кем-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

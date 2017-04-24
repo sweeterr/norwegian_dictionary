@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-фильм, кинофильм, кинокартина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фильм, кинофильм, кинокартина</text></cit>
 <сit type="example"><text>tredimensjonal film</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стереофильм</text></cit></cit>
 <сit type="example"><text>filmen gikk i flere uker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фильм шёл несколько недель</text></cit></cit>
 <сit type="example"><text>filmen går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фильм демонстрируется</text></cit></cit>
@@ -16,10 +16,10 @@
 <сit type="example"><text>oppta en film</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать фильм</text></cit></cit>
 </sense>
 <sense>
-плёнка ( <u>фото</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плёнка ( <lbl>фото</lbl> )</text></cit>
 </sense>
 <sense>
-камень на зубах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камень на зубах</text></cit>
 </sense>
 </entry>
 </superEntry>

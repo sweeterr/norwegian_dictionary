@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">underfallshjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> подливное водяное колесо
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подливное водяное колесо</text></cit>
 </sense>
 </entry>
 </superEntry>

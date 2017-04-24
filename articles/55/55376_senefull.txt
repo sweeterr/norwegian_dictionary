@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">senefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-жилистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жилистый</text></cit>
 </sense>
 </entry>
 </superEntry>

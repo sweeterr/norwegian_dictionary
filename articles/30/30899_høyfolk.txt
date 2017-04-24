@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">høyfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> косцы
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косцы</text></cit>
 </sense>
 </entry>
 </superEntry>

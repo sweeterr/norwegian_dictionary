@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vadre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> ходить без цели взад и вперёд, слоняться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходить без цели взад и вперёд, слоняться</text></cit>
 <сit type="example"><text>vadre seg bort (vekk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">vadre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. vatre I
+<usg>диал.</usg>
+<ref>vatre I</ref>
 </sense>
 </entry>
 </superEntry>

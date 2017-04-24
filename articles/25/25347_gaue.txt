@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gaue</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-богач
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богач</text></cit>
 </sense>
 <sense>
-крестьянин-кулак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянин-кулак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">gaue</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. gjø II
+<usg>диал.</usg>
+<ref>gjø II</ref>
 </sense>
 </entry>
 </superEntry>

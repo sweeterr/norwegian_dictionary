@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nederlag</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-поражение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поражение</text></cit>
 <сit type="example"><text>et beskt nederlag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жестокий разгром, жестокое поражение</text></cit></cit>
 <сit type="example"><text>lede til nederlag for fienden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привести к поражению врага</text></cit></cit>
 <сit type="example"><text>lide nederlag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)терпеть поражение</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">krafse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-садовые грабли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>садовые грабли</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-скрести, царапать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрести, царапать</text></cit>
 </sense>
 <sense>
-скрестись, царапаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрестись, царапаться</text></cit>
 </sense>
 <sense>
-рыться, копаться (в чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыться, копаться (в чём-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

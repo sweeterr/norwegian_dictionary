@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">buestrøk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>муз.</u> удар смычка, удар смычком
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар смычка, удар смычком</text></cit>
 </sense>
 </entry>
 </superEntry>

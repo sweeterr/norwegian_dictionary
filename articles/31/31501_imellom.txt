@@ -7,11 +7,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-в своё время, иногда, время от времени, то и дело
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в своё время, иногда, время от времени, то и дело</text></cit>
 <сit type="example"><text>alt imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> то и дело</text></cit></cit>
 </sense>
 <sense>
-между, посредине
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>между, посредине</text></cit>
 <сit type="example"><text>komme imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встать на пути (мешать)</text></cit></cit>
 </sense>
 </entry>
@@ -22,10 +22,10 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-см. mellom
+<ref>mellom</ref>
 </sense>
 <sense>
-часто ставится после управляемых им слов:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часто ставится после управляемых им слов:</text></cit>
 <сit type="example"><text>mann og mann imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>между людьми</text></cit></cit>
 <сit type="example"><text>midt imellom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и то и другое; и то и сё</text></cit></cit>
 </sense>

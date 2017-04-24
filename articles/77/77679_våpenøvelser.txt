@@ -8,10 +8,11 @@
 <gramGrp><num>pl</num></gramGrp>
 </form>
 <sense>
-военные учения, манёвры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>военные учения, манёвры</text></cit>
 </sense>
 <sense>
-<u>воен.</u> занятия с оружием
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занятия с оружием</text></cit>
 </sense>
 </entry>
 </superEntry>

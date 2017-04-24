@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">foretaksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-предприимчивый, деятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предприимчивый, деятельный</text></cit>
 </sense>
 </entry>
 </superEntry>

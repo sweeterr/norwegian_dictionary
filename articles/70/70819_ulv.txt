@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ulv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-волк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волк</text></cit>
 <сit type="example"><text>sulten som en ulv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голодный как волк</text></cit></cit>
 <сit type="example"><text>tute med de ulver én (man) er iblant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> с волками жить - по-волчьи выть</text></cit></cit>
 <сit type="example"><text>ulv i fåreklær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>волк в овечьей шкуре</text></cit></cit>

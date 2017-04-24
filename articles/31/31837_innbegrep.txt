@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">innbegrep</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-совокупность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совокупность</text></cit>
 </sense>
 <sense>
-воплощение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воплощение</text></cit>
 </sense>
 </entry>
 </superEntry>

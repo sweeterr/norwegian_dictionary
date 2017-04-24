@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strukturformel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>хим.</u> формула строения, структурная формула
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формула строения, структурная формула</text></cit>
 </sense>
 </entry>
 </superEntry>

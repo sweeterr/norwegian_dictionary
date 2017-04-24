@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-неоткрытый, неоткупоренный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неоткрытый, неоткупоренный</text></cit>
 </sense>
 <sense>
-нераспечатанный (о письме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нераспечатанный (о письме)</text></cit>
 </sense>
 <sense>
-<u>фон.</u> закрытый (о звуке)
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрытый (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,18 +7,18 @@
 <gramGrp><pos>inv</pos></gramGrp>
 </form>
 <sense>
-вселенная
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вселенная</text></cit>
 <сit type="example"><text>i allverden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>используется в речи в качестве усиления, на русский язык не переводится</text></cit></cit>
 <сit type="example"><text>hva i allverden?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> что же такое случилось?, что стряслось?</text></cit></cit>
 <сit type="example"><text>hvem iallverden?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> кто бы мог ( + инфинитив)?</text></cit></cit>
 <сit type="example"><text>hvor i allverden?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> где (куда) же ...?</text></cit></cit>
 </sense>
 <sense>
-в форме родительного падежа, всевозможные, всякие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в форме родительного падежа, всевозможные, всякие</text></cit>
 <сit type="example"><text>fra allverdens land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из всех и всяких стран</text></cit></cit>
 </sense>
 <sense>
-все, каждый и всякий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>все, каждый и всякий</text></cit>
 <сit type="example"><text>allverden snakker om det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все говорят об этом</text></cit></cit>
 </sense>
 </entry>

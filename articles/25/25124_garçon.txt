@@ -6,14 +6,15 @@
 <orth type="lemma">garçon</orth>
 <phon>|gar'soŋ|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-холостяк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холостяк</text></cit>
 <сit type="example"><text>leve en garçon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести холостяцкий образ жизни жить холостяком</text></cit></cit>
 </sense>
 <sense>
-<u>редко</u> официант
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>официант</text></cit>
 </sense>
 </entry>
 </superEntry>

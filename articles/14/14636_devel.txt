@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">devel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-чёрт (употребляется как ругательство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт (употребляется как ругательство)</text></cit>
 <сit type="example"><text>din devel!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт возьми!</text></cit></cit>
 </sense>
 </entry>

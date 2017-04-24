@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">delingsartikkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-<u>грам.</u> частичный (партитивный) артикль
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частичный (партитивный) артикль</text></cit>
 </sense>
 </entry>
 </superEntry>

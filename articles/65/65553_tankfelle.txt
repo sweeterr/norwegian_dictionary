@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tankfelle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> противотанковый ров, противотанковая ловушка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противотанковый ров, противотанковая ловушка</text></cit>
 </sense>
 </entry>
 </superEntry>

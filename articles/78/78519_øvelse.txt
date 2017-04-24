@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-упражнение, тренировка, учение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упражнение, тренировка, учение</text></cit>
 <сit type="example"><text>øvelse gjør mester</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повторенье - мать ученья</text></cit></cit>
 </sense>
 <sense>
-опытность, натренированность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опытность, натренированность</text></cit>
 </sense>
 <sense>
-вид спорта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вид спорта</text></cit>
 <сit type="example"><text>en avgjørende øvelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>решающий вид спорта (в комбинированных спортивных состязаниях)</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> учебный сбор, учения, манёвры
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебный сбор, учения, манёвры</text></cit>
 </sense>
 </entry>
 </superEntry>

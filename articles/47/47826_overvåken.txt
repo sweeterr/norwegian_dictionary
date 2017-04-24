@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">overvåken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бдительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бдительный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-ужас, жуть, страх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужас, жуть, страх</text></cit>
 </sense>
 <sense>
-отсутствие уюта (комфорта), неуютность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отсутствие уюта (комфорта), неуютность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">uhygge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> наводить ужас
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводить ужас</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">elyseisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-елисейский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>елисейский</text></cit>
 <сit type="example"><text>de elyseiske marker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>миф.</lbl> елисейские поля, <lbl>геогр.</lbl> Елисейские поля</text></cit></cit>
 </sense>
 </entry>

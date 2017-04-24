@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">estisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-эстонский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эстонский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">estisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-эстонский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эстонский</text></cit>
 </sense>
 </entry>
 </superEntry>

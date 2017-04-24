@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">språkfag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-язык как учебный предмет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык как учебный предмет</text></cit>
 </sense>
 </entry>
 </superEntry>

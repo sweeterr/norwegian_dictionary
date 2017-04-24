@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">heroisme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-героизм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>героизм</text></cit>
 </sense>
 </entry>
 </superEntry>

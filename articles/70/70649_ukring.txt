@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ukring</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-несподручный, неудобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несподручный, неудобный</text></cit>
 </sense>
 <sense>
-медлительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлительный</text></cit>
 </sense>
 </entry>
 </superEntry>

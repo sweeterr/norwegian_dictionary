@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hummer</orth>
 <inflection><orth extent="part">-en, -e (=)</orth></inflection>
-<u>зоол.</u> омар
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омар</text></cit>
 <сit type="example"><text>rød som en hummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красный как рак</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,9 @@
 <form>
 <orth type="lemma">hummer</orth>
 <inflection><orth extent="part">-et, -e</orth></inflection>
-<u>разг.</u> <u>ирон.</u> каморка, комнатушка
+<usg>разг.</usg>
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каморка, комнатушка</text></cit>
 </sense>
 </entry>
 </superEntry>

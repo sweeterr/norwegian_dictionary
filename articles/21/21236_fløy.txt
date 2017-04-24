@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fløy</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-фланг, крыло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фланг, крыло</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-дверца (шкафа, тумбочки и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дверца (шкафа, тумбочки и т. п.)</text></cit>
 </sense>
 <sense>
-створка (в двухстворчатой двери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>створка (в двухстворчатой двери)</text></cit>
 </sense>
 <sense>
-откидная доска (в раздвижных столах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откидная доска (в раздвижных столах)</text></cit>
 </sense>
 <sense>
-пристройка (к зданию)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пристройка (к зданию)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +32,7 @@
 <form>
 <orth type="lemma">fløy</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-флюгер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флюгер</text></cit>
 </sense>
 </entry><entry>
 <index></index>

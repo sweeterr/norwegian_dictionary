@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">nyttepoesi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лит.</u>
+<usg>лит.</usg>
 </form>
 <sense>
-дидактическая поэзия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дидактическая поэзия</text></cit>
 </sense>
 <sense>
-тенденциозная поэзия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тенденциозная поэзия</text></cit>
 </sense>
 </entry>
 </superEntry>

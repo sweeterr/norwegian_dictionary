@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">laugarsted</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> место купания
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место купания</text></cit>
 </sense>
 </entry>
 </superEntry>

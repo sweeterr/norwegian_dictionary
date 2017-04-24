@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">begrede</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
-плакать над чем-либо, оплакивать что-то
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плакать над чем-либо, оплакивать что-то</text></cit>
 <сit type="example"><text>begrede (tapet av)en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оплакивать (потерю) кого-л.</text></cit></cit>
 </sense>
 </entry>

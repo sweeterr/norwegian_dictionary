@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-приказ, распоряжение, предписание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приказ, распоряжение, предписание</text></cit>
 <сit type="example"><text>etter høyere (høyeste) ordre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по приказу свыше</text></cit></cit>
 <сit type="example"><text>inntil videre ordre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впредь до дальнейших распоряжений</text></cit></cit>
 <сit type="example"><text>gi ordre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавать приказ</text></cit></cit>
 </sense>
 <sense>
-заказ, поручение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заказ, поручение</text></cit>
 <сit type="example"><text>et skip i ordre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судно, строящееся по заказу</text></cit></cit>
 </sense>
 </entry>
@@ -24,10 +24,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-направить, послать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направить, послать</text></cit>
 </sense>
 <sense>
-приказать, отдать приказание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приказать, отдать приказание</text></cit>
 </sense>
 </entry>
 </superEntry>

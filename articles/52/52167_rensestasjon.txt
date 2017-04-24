@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rensestasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> очистная канализационная станция
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очистная канализационная станция</text></cit>
 </sense>
 </entry>
 </superEntry>

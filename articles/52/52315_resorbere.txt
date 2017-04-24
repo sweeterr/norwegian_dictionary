@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">resorbere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>физиол.</u> всасывать
+<usg>физиол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всасывать</text></cit>
 </sense>
 </entry>
 </superEntry>

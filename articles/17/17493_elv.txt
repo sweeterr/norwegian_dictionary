@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-река
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>река</text></cit>
 <сit type="example"><text>oppover (nedover) elv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а вверх (вниз) по реке</text></cit></cit>
 <сit type="example"><text>en uttørret elv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересохшая река</text></cit></cit>
 <сit type="example"><text>elva gikk over sine bredder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>река вышла (выступила) из берегов</text></cit></cit>
 <сit type="example"><text>elvа la seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>река стала (замёрзла)</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> поток
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поток</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,8 @@
 <form>
 <orth type="lemma">elv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>миф.</u> эльф
+<usg>миф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эльф</text></cit>
 </sense>
 </entry>
 </superEntry>

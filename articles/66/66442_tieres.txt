@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">tieres</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-
 <gramGrp><pos>inv</pos></gramGrp>
- стоящий десять эре
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоящий десять эре</text></cit>
 </sense>
 </entry>
 </superEntry>

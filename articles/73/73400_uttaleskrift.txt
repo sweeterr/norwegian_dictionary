@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">uttaleskrift</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-фонетическая транскрипция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонетическая транскрипция</text></cit>
 </sense>
 </entry>
 </superEntry>

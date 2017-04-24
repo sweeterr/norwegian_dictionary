@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-обрамлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрамлять</text></cit>
 </sense>
 <sense>
-окружать, располагаться вокруг, брать в кольцо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окружать, располагаться вокруг, брать в кольцо</text></cit>
 <сit type="example"><text>bli omringet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в окружение</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> окружать, блокировать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окружать, блокировать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkeskribent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-народный писатель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народный писатель</text></cit>
 </sense>
 </entry>
 </superEntry>

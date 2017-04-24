@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">baute</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
-<u>сокр.</u> от bautasten
+<usg>уст.</usg>
+<usg>сокр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>от bautasten</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,14 +15,14 @@
 <form>
 <orth type="lemma">baute</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
- <u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-идти одним галсом, делать галс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти одним галсом, делать галс</text></cit>
 <сit type="example"><text>baute seg opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать поворот оверштаг</text></cit></cit>
 </sense>
 <sense>
-делать галсы, лавировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать галсы, лавировать</text></cit>
 </sense>
 </entry>
 </superEntry>

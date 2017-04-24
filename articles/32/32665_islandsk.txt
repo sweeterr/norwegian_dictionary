@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">islandsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-исландский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исландский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">islandsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-исландский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исландский</text></cit>
 </sense>
 </entry>
 </superEntry>

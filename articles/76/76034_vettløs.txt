@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">vettløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-помешанный, рехнувшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помешанный, рехнувшийся</text></cit>
 </sense>
 <sense>
-неразумный, глупый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразумный, глупый</text></cit>
 </sense>
 <sense>
-необдуманный, опрометчивый, бездумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необдуманный, опрометчивый, бездумный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forhyringsagent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> агент по найму, вербовке (команды судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агент по найму, вербовке (команды судна)</text></cit>
 </sense>
 </entry>
 </superEntry>

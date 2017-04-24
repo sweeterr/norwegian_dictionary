@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ringøy</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>геогр.</u> атолл, (кольцевой) коралловый остров
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атолл, (кольцевой) коралловый остров</text></cit>
 </sense>
 </entry>
 </superEntry>

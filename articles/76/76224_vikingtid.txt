@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vikingtid</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-эпоха викингов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эпоха викингов</text></cit>
 </sense>
 </entry>
 </superEntry>

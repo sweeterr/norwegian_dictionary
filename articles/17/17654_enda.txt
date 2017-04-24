@@ -7,18 +7,18 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-всё ещё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всё ещё</text></cit>
 </sense>
 <sense>
-с числ. ещё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с числ. ещё</text></cit>
 <сit type="example"><text>enda en time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ещё один час</text></cit></cit>
 <сit type="example"><text>enda en gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ещё раз</text></cit></cit>
 </sense>
 <sense>
-с прилагательным в сравнительной степени тем более
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с прилагательным в сравнительной степени тем более</text></cit>
 </sense>
 <sense>
-всё же, тем, не менее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всё же, тем, не менее</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,7 @@
 <form>
 <orth type="lemma">enda</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-хотя, всё же, тем не менее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хотя, всё же, тем не менее</text></cit>
 </sense>
 </entry>
 </superEntry>

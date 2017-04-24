@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">uskjønnsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неблагодарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неблагодарный</text></cit>
 </sense>
 <sense>
-бестолковый, непонятливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бестолковый, непонятливый</text></cit>
 </sense>
 </entry>
 </superEntry>

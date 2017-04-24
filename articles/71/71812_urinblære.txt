@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">urinblære</orth>
 <inflection><orth extent="part">-en (-a), -en</orth></inflection>
-<u>анат.</u> мочевой пузырь
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мочевой пузырь</text></cit>
 </sense>
 </entry>
 </superEntry>

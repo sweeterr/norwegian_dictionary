@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-устанавливать, приспосабливать, прилаживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать, приспосабливать, прилаживать</text></cit>
 </sense>
 <sense>
-выверять, юстировать (инструменты, весы и т. п.), клеймить (весы и меры)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выверять, юстировать (инструменты, весы и т. п.), клеймить (весы и меры)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> калибрировать, эталонировать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>калибрировать, эталонировать</text></cit>
 </sense>
 </entry>
 </superEntry>

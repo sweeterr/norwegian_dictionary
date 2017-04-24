@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tåg</orth>
 <inflection><orth>tåga (tågen), tæger</orth></inflection>
-<u>диал.</u> волокно, фибра
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волокно, фибра</text></cit>
 </sense>
 </entry>
 </superEntry>

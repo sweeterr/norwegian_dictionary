@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sangfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-певучий, мелодичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>певучий, мелодичный</text></cit>
 </sense>
 </entry>
 </superEntry>

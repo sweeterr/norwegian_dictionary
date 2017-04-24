@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">surr</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> кофе-суррогат
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кофе-суррогат</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,19 +16,19 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-жужжание, гудение (насекомых)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жужжание, гудение (насекомых)</text></cit>
 </sense>
 <sense>
-гомон (голосов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гомон (голосов)</text></cit>
 </sense>
 <sense>
-журчание, шум (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журчание, шум (воды)</text></cit>
 </sense>
 <sense>
-вихрь, сумятица (мыслей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вихрь, сумятица (мыслей)</text></cit>
 </sense>
 <sense>
-беспорядок, путаница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, путаница</text></cit>
 </sense>
 </entry>
 <entry>

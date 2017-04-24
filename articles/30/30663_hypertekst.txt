@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hypertekst</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> гипертекст, обобщённый текст (многоуровневый способ представления информации при помощи связей между документами)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гипертекст, обобщённый текст (многоуровневый способ представления информации при помощи связей между документами)</text></cit>
 </sense>
 </entry>
 </superEntry>

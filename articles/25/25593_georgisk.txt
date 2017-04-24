@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">georgisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-грузинский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузинский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">georgisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-грузинский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузинский</text></cit>
 </sense>
 </entry>
 </superEntry>

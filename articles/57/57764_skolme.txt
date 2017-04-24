@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skolme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-лущить (горох, бобы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лущить (горох, бобы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">skolme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шелушиться (о коже, краске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелушиться (о коже, краске)</text></cit>
 </sense>
 <sense>
-отбиться от стада (о домашних животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбиться от стада (о домашних животных)</text></cit>
 </sense>
 </entry>
 </superEntry>

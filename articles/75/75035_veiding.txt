@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veiding</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-охота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охота</text></cit>
 </sense>
 <sense>
-рыбная ловля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбная ловля</text></cit>
 </sense>
 </entry>
 </superEntry>

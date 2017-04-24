@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begrepsrealisme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>филос.</u> концептуализм
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>концептуализм</text></cit>
 </sense>
 </entry>
 </superEntry>

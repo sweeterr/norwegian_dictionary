@@ -7,15 +7,17 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-ржавчина, коррозия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржавчина, коррозия</text></cit>
 <сit type="example"><text>edel rust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налёт на меди (бронзе, медных предметах), патина</text></cit></cit>
 <сit type="example"><text>banke rust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обивать (счищать) ржавчину</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> ржавчина (болезнь растений)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржавчина (болезнь растений)</text></cit>
 </sense>
 <sense>
-<u>бот.</u> ржавчинный гриб
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржавчинный гриб</text></cit>
 <сit type="example"><text>rust i stemmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дрожь в голосе</text></cit></cit>
 </sense>
 </entry>
@@ -24,7 +26,8 @@
 <form>
 <orth type="lemma">rust</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> гребень горы; небольшой горный хребет
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребень горы; небольшой горный хребет</text></cit>
 </sense>
 </entry>
 </superEntry>

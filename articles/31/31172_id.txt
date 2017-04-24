@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">id</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-деяние, деятельность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деяние, деятельность</text></cit>
 </sense>
 <sense>
-стремление, желание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стремление, желание</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-слабое волнение, рябь на море
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабое волнение, рябь на море</text></cit>
 </sense>
 <sense>
-<u>собир.</u> мелкие волны
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкие волны</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-небольшие озёра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшие озёра</text></cit>
 </sense>
 </entry>
 </superEntry>

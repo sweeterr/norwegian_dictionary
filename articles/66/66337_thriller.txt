@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">thriller</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-фильм (роман, пьеса) ужасов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фильм (роман, пьеса) ужасов</text></cit>
 </sense>
 </entry>
 </superEntry>

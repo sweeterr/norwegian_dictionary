@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">nifs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-страшный, ужасный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшный, ужасный</text></cit>
 </sense>
 <sense>
-неприятный, вызывающий отвращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятный, вызывающий отвращение</text></cit>
 </sense>
 </entry>
 </superEntry>

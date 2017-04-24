@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-eret, -re (=)</orth></inflection>
 </form>
 <sense>
-склад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склад</text></cit>
 <сit type="example"><text>ha på lager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь на складе, <lbl>перен.</lbl> иметь в запасе</text></cit></cit>
 <сit type="example"><text>holde på lager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать на складе</text></cit></cit>
 </sense>
 <sense>
-запас, ассортимент (товаров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запас, ассортимент (товаров)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> логово, логовище (зверя)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>логово, логовище (зверя)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> подшипник скольжения
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подшипник скольжения</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rape</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-низкорослый кустарник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкорослый кустарник</text></cit>
 </sense>
 <sense>
-карликовая берёза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карликовая берёза</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">rape</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-покрытый гравием склон горы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрытый гравием склон горы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <form>
 <orth type="lemma">rape</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-рыгать, отрыгивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыгать, отрыгивать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +35,8 @@
 <form>
 <orth type="lemma">rape</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> собирать (сгребать) в кучу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать (сгребать) в кучу</text></cit>
 </sense>
 </entry>
 <entry>
@@ -43,19 +44,19 @@
 <form>
 <orth type="lemma">rape</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-срываться, сыпаться вниз (об оползне, обвале)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срываться, сыпаться вниз (об оползне, обвале)</text></cit>
 </sense>
 <sense>
-терять почву под ногами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терять почву под ногами</text></cit>
 </sense>
 <sense>
-падать (о падающей звезде, метеорите)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падать (о падающей звезде, метеорите)</text></cit>
 </sense>
 <sense>
-сваливать, свергать, обрушивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сваливать, свергать, обрушивать</text></cit>
 </sense>
 </entry>
 </superEntry>

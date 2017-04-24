@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snipplosje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>театр.</u> ближайшая к сцене ложа
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближайшая к сцене ложа</text></cit>
 </sense>
 </entry>
 </superEntry>

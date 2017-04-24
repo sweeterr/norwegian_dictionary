@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-взвешивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взвешивать</text></cit>
 </sense>
 <sense>
-уравновешивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уравновешивать</text></cit>
 </sense>
 <sense>
-соответствовать, быть равноценным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать, быть равноценным</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">oppveie</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-прокладывать путь (дорогу) по снегу и т. п.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать путь (дорогу) по снегу и т. п.</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,29 +7,30 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-экипаж, повозка, коляска, карета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экипаж, повозка, коляска, карета</text></cit>
 <сit type="example"><text>sette seg til vogns</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться в экипаж</text></cit></cit>
 <сit type="example"><text>være den femte hjul på en vogn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> быть пятой спицей в колеснице</text></cit></cit>
 </sense>
 <sense>
-телега, двуколка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телега, двуколка</text></cit>
 </sense>
 <sense>
-вагон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вагон</text></cit>
 <сit type="example"><text>direkte (gjennomgående) vogn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вагон прямого сообщения</text></cit></cit>
 </sense>
 <sense>
-трамвай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамвай</text></cit>
 </sense>
 <sense>
-автомобиль, автомашина, автобус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автомобиль, автомашина, автобус</text></cit>
 <сit type="example"><text>ringe etter en vogn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать такси по телефону</text></cit></cit>
 </sense>
 <sense>
-каретка (пишущей машинки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каретка (пишущей машинки)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> танк
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>танк</text></cit>
 <сit type="example"><text>han er ikke tapt bak én vogn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не робкого десятка</text></cit></cit>
 </sense>
 </entry>

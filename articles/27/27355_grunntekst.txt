@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">grunntekst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-текст подлинника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>текст подлинника</text></cit>
 </sense>
 </entry>
 </superEntry>

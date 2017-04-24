@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ordrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-многословный (о человеке, речи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многословный (о человеке, речи)</text></cit>
 </sense>
 <sense>
-богатый словами (о языке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый словами (о языке)</text></cit>
 </sense>
 </entry>
 </superEntry>

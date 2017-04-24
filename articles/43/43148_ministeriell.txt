@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ministeriell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-министерский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>министерский</text></cit>
 </sense>
 <sense>
-подобающий министру
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подобающий министру</text></cit>
 </sense>
 </entry>
 </superEntry>

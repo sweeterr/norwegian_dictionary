@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jomfrumåned</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>поэт.</u> месяц май
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>месяц май</text></cit>
 </sense>
 </entry>
 </superEntry>

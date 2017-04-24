@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forby</orth>
 <inflection><orth extent="part">-bød (-bydde), -budt (-bydd)</orth></inflection>
-воспрещать, запрещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспрещать, запрещать</text></cit>
 <сit type="example"><text>adgang forbudt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вход воспрещён</text></cit></cit>
 <сit type="example"><text>røykning forbudt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>курить воспрещается</text></cit></cit>
 <сit type="example"><text>Gud forby</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>боже сохрани, боже избави!</text></cit></cit>

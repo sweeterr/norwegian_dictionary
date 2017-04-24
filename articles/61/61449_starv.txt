@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">starv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> тяжёлый труд
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый труд</text></cit>
 </sense>
 </entry>
 </superEntry>

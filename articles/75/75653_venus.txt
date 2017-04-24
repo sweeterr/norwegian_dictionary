@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-Venus - <u>миф.</u> Венера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Venus - <lbl>миф.</lbl> Венера</text></cit>
 </sense>
 <sense>
-<u>разг.</u> красивая женщина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивая женщина</text></cit>
 </sense>
 <sense>
-Venus - <u>астр.</u> Венера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Venus - <lbl>астр.</lbl> Венера</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">giftfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>хим.</u> не содержащий ядовитых веществ, безвредный
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не содержащий ядовитых веществ, безвредный</text></cit>
 </sense>
 </entry>
 </superEntry>

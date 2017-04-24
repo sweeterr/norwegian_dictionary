@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">terrengfold</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u> складка на местности
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складка на местности</text></cit>
 </sense>
 </entry>
 </superEntry>

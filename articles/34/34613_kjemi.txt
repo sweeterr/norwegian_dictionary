@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-химия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>химия</text></cit>
 <сit type="example"><text>analytisk (farmasøytisk, fysikalsk, organisk, uorganisk) kjemi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>аналитическая (фармацевтическая, физическая, органическая, неорганическая) химия</text></cit></cit>
 </sense>
 <sense>
-учебник химии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебник химии</text></cit>
 </sense>
 </entry>
 </superEntry>

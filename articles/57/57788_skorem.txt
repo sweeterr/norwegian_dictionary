@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skorem</orth>
 <inflection><orth extent="part">-men, -mer</orth></inflection>
-ремешок ботинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ремешок ботинка</text></cit>
 <сit type="example"><text>ikke være verdig til å løse ens skorem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и в подмётки кому-л. не годиться</text></cit></cit>
 </sense>
 </entry>

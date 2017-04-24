@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">natig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-энергичный, решительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергичный, решительный</text></cit>
 </sense>
 <sense>
-скаредный, жадный, скупой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скаредный, жадный, скупой</text></cit>
 </sense>
 </entry>
 </superEntry>

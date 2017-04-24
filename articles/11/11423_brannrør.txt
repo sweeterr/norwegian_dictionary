@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brannrør</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> взрыватель, дистанционная трубка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыватель, дистанционная трубка</text></cit>
 </sense>
 </entry>
 </superEntry>

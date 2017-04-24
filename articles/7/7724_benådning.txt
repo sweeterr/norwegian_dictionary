@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">benådning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-помилование, амнистия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помилование, амнистия</text></cit>
 <сit type="example"><text>søke om benådning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просить о помиловании</text></cit></cit>
 </sense>
 </entry>

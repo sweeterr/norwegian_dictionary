@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-непонятная тарабарщина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непонятная тарабарщина</text></cit>
 </sense>
 <sense>
-искусственный язык (с прибавлением определённых слогов или изменением слов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искусственный язык (с прибавлением определённых слогов или изменением слов)</text></cit>
 </sense>
 <sense>
-<u>редко</u> карканье
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карканье</text></cit>
 </sense>
 </entry>
 </superEntry>

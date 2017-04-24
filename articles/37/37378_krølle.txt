@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">krølle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-локон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локон</text></cit>
 <сit type="example"><text>sette krøller i håret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завивать локоны</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +16,10 @@
 <inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
-завивать (волосы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завивать (волосы)</text></cit>
 </sense>
 <sense>
-(с)мять, (с)комкать (бумагу, платье, ткань)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(с)мять, (с)комкать (бумагу, платье, ткань)</text></cit>
 </sense>
 </entry>
 </superEntry>

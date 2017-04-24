@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sta</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-упрямый, своенравный, строптивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямый, своенравный, строптивый</text></cit>
 <сit type="example"><text>være sta på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на своём, упорствовать</text></cit></cit>
 </sense>
 </entry>

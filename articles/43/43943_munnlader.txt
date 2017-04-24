@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">munnlader</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> оружие, заряжающееся сдула
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оружие, заряжающееся сдула</text></cit>
 </sense>
 </entry>
 </superEntry>

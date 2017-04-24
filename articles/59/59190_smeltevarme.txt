@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smeltevarme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>физ.</u> удельная теплота плавления
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удельная теплота плавления</text></cit>
 </sense>
 </entry>
 </superEntry>

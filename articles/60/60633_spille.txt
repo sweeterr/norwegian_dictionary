@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">spille</orth>
-<inflection><orth extent="part">-t</orth></inflection>
- (-n)
-трата, потеря (сил, энергии), непроизводительный расход
+<inflection><orth extent="part">-t (-n)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трата, потеря (сил, энергии), непроизводительный расход</text></cit>
 <сit type="example"><text>gå til spille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тратиться (расходоваться) попусту, пойти прахом</text></cit></cit>
 </sense>
 </entry>
@@ -17,7 +16,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-играть <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>spille falsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фальшивить, играть фальшиво</text></cit></cit>
 <сit type="example"><text>spille fiolin, piano</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(уметь) играть на скрипке, рояле</text></cit></cit>
 <сit type="example"><text>spille på fiolin (piano)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть, исполнять на скрипке (рояле)</text></cit></cit>
@@ -32,14 +31,14 @@
 <сit type="example"><text>spille ut sitt siste kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испытать последнюю возможность</text></cit></cit>
 </sense>
 <sense>
-переливаться, сверкать, мерцать (о звёздах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переливаться, сверкать, мерцать (о звёздах)</text></cit>
 <сit type="example"><text>spille i det grønne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отсвечивать (переливаться) зелёным</text></cit></cit>
 </sense>
 <sense>
-лицемерить, притворяться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лицемерить, притворяться</text></cit>
 </sense>
 <sense>
-токовать (о глухаре, тетереве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>токовать (о глухаре, тетереве)</text></cit>
 <сit type="example"><text>spille inn et musikkinstrument</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обыгрывать музыкальный инструмент</text></cit></cit>
 <сit type="example"><text>spille opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заиграть, грянуть</text></cit></cit>
 <сit type="example"><text>spille seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забавляться, потешаться (над кем-л. - med)</text></cit></cit>
@@ -53,13 +52,13 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-попусту тратить, расточать, терять (время)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попусту тратить, расточать, терять (время)</text></cit>
 </sense>
 <sense>
-(нечаянно) рассыпать, расплёскивать, разливать, проливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(нечаянно) рассыпать, расплёскивать, разливать, проливать</text></cit>
 </sense>
 <sense>
-упустить (возможность)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упустить (возможность)</text></cit>
 </sense>
 </entry>
 </superEntry>

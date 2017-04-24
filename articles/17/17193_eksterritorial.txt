@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">eksterritorial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-экстерриториальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экстерриториальный</text></cit>
 </sense>
 </entry>
 </superEntry>

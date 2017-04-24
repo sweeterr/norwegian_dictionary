@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">returbillett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> обратный билет
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратный билет</text></cit>
 </sense>
 </entry>
 </superEntry>

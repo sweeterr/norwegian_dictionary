@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisprogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>комп.</u> системное программное обеспечение, системная программа
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>системное программное обеспечение, системная программа</text></cit>
 </sense>
 </entry>
 </superEntry>

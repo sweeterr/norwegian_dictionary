@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kileskrift</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-клинопись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клинопись</text></cit>
 </sense>
 </entry>
 </superEntry>

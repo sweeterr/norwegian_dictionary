@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">skvær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прямой, определённый, решительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой, определённый, решительный</text></cit>
 </sense>
 <sense>
-честный, порядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честный, порядочный</text></cit>
 </sense>
 <sense>
-поперечный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поперечный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,10 +24,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-прямо, прямым путём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, прямым путём</text></cit>
 </sense>
 <sense>
-решительно, определённо, целиком и полностью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решительно, определённо, целиком и полностью</text></cit>
 </sense>
 </entry>
 </superEntry>

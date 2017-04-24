@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sjeider</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>горн.</u> шейдер, сортировщик
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шейдер, сортировщик</text></cit>
 </sense>
 </entry>
 </superEntry>

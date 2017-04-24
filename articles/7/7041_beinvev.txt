@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beinvev</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>анат.</u> костная ткань
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костная ткань</text></cit>
 </sense>
 </entry>
 </superEntry>

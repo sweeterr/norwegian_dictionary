@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-юрист, юрисконсульт, адвокат (защитник в суде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юрист, юрисконсульт, адвокат (защитник в суде)</text></cit>
 <сit type="example"><text>kronens advokat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественный обвинитель, прокурор</text></cit></cit>
 </sense>
 <sense>
-защитник, заступник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защитник, заступник</text></cit>
 </sense>
 </entry>
 </superEntry>

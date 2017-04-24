@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">boklus</orth>
 <inflection><orth extent="part">-а, =</orth></inflection>
-<u>зоол.</u> сеноед домовый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеноед домовый</text></cit>
 </sense>
 </entry>
 </superEntry>

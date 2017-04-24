@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kåseri</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-сообщение, выступление (на собрании), краткая речь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообщение, выступление (на собрании), краткая речь</text></cit>
 <сit type="example"><text>holde et kåseri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать с сообщением (с краткой речью)</text></cit></cit>
 </sense>
 </entry>

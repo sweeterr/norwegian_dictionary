@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brekke</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> крутой скат, спуск, круча, обрыв
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой скат, спуск, круча, обрыв</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,17 @@
 <inflection><orth>brakk, brukket (brekt)</orth></inflection>
 </form>
 <sense>
-ломать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломать</text></cit>
 </sense>
 <sense>
-вскрывать (письмо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вскрывать (письмо)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> поднимать (целину)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать (целину)</text></cit>
 </sense>
 <sense>
-сглаживать, закруглять острый край чего-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сглаживать, закруглять острый край чего-л.</text></cit>
 <сit type = "example"><text>brekke av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отламывать</text></cit></cit>
 <сit type = "example"><text>brekke av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прерывать (разговор)</text></cit></cit>
 <сit type="example"><text>brekke igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проваливаться (куда-л.)</text></cit></cit>

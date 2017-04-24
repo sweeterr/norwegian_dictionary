@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">ullen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-шерстяной, шерстистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шерстяной, шерстистый</text></cit>
 </sense>
 <sense>
-покрытый пухом, пушистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрытый пухом, пушистый</text></cit>
 </sense>
 <sense>
-мглистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мглистый</text></cit>
 </sense>
 <sense>
-приглушённый (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приглушённый (о звуке)</text></cit>
 </sense>
 <sense>
-размытый, расплывчатый (об очертаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размытый, расплывчатый (об очертаниях)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fysikalsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-физический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физический</text></cit>
 </sense>
 </entry>
 </superEntry>

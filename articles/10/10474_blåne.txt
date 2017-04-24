@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-синеющие дали (горизонты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синеющие дали (горизонты)</text></cit>
 </sense>
 <sense>
-удалённые, еле заметные предметы (на местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удалённые, еле заметные предметы (на местности)</text></cit>
 <сit type="example"><text>bak den borteste blåne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко-далеко</text></cit></cit>
 <сit type="example"><text>skyte ut bak den syvende blåne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться (пуститься) куда глаза глядят</text></cit></cit>
 </sense>
 <sense>
-голубой просвет (на покрытом облаками небе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голубой просвет (на покрытом облаками небе)</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> синий (голубой) колорит
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синий (голубой) колорит</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,11 +29,11 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-синеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синеть</text></cit>
 <сit type="example"><text>det blåner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>еле виднеется вдали</text></cit></cit>
 </sense>
 <sense>
-синить, подсинивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синить, подсинивать</text></cit>
 </sense>
 </entry>
 </superEntry>

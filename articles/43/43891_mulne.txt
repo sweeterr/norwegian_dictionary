@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mulne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-мрачнеть, покрываться тучами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачнеть, покрываться тучами</text></cit>
 <сit type="example"><text>det mulner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>темнеет, становится темно</text></cit></cit>
 </sense>
 </entry>

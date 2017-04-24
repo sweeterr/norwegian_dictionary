@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">dåm</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-привкус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привкус</text></cit>
 </sense>
 <sense>
-аромат, приятный запах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аромат, приятный запах</text></cit>
 </sense>
 <sense>
-цвет, окраска; оттенок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет, окраска; оттенок</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dovning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> лентяй
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лентяй</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,15 +16,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-безвозмездная помощь (соседей), помочь; <u>мор.</u> аврал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвозмездная помощь (соседей), помочь; <lbl>мор.</lbl> аврал</text></cit>
 <сit type = "example"><text>gjøre dovning :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> собирать помочь</text></cit></cit>
-<сit type = "example"><text>gjøre dovning :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> объявлять аврал</text></cit></cit>
+<сit type = "example"><text>gjøre dovning :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> объявлять аврал</text></cit></cit>
 </sense>
 <sense>
-угощение для участвовавших в помочи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угощение для участвовавших в помочи</text></cit>
 </sense>
 <sense>
-генеральная уборка в доме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>генеральная уборка в доме</text></cit>
 </sense>
 </entry>
 </superEntry>

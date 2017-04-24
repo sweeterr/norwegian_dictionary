@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">vegetativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-<u>физиол.</u> вегетативный
+<usg>физиол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вегетативный</text></cit>
 </sense>
 <sense>
-<u>редко</u> растительный
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растительный</text></cit>
 </sense>
 </entry>
 </superEntry>

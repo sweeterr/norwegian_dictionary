@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kro</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-трактир, харчевня, пивная
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трактир, харчевня, пивная</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kro</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-зоб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зоб</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">kro</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-выпячивать зоб (о птице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпячивать зоб (о птице)</text></cit>
 </sense>
 </entry>
 </superEntry>

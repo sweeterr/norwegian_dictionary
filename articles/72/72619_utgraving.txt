@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-выкапывание, раскапывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выкапывание, раскапывание</text></cit>
 </sense>
 <sense>
-<u>тех.</u> выемка грунта, земляные работы, экскавация
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выемка грунта, земляные работы, экскавация</text></cit>
 </sense>
 <sense>
-<u>археол.</u> раскопки; место раскопок
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскопки; место раскопок</text></cit>
 </sense>
 </entry>
 </superEntry>

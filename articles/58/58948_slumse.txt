@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slumse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> нерадивый (беспечный) человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерадивый (беспечный) человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,16 +14,16 @@
 <form>
 <orth type="lemma">slumse</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шлёпать (по воде), идти вброд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёпать (по воде), идти вброд</text></cit>
 </sense>
 <sense>
-перелить через край, расплёскивать (жидкость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перелить через край, расплёскивать (жидкость)</text></cit>
 </sense>
 <sense>
-работать нерадиво (лениво, небрежно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работать нерадиво (лениво, небрежно)</text></cit>
 </sense>
 </entry>
 </superEntry>

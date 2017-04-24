@@ -7,17 +7,17 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-использование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>использование</text></cit>
 </sense>
 <sense>
-польза, выгода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>польза, выгода</text></cit>
 <сit type="example"><text>det gjør samme nytta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это получается то же на то же, это совершенно одно и то же</text></cit></cit>
 <сit type="example"><text>dra nytte av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извлечь пользу из чего-л.</text></cit></cit>
 <сit type="example"><text>gjøre nytte for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>использовать для себя</text></cit></cit>
 <сit type="example"><text>til ingen nytte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесполезно, напрасно</text></cit></cit>
 </sense>
 <sense>
-выгода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выгода</text></cit>
 <сit type="example"><text>få (ha) nytte av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извлекать выгоду из чего-л.</text></cit></cit>
 </sense>
 </entry>
@@ -28,7 +28,7 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-использовать, пользоваться чем-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>использовать, пользоваться чем-л.</text></cit>
 <сit type="example"><text>nytte høve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться случаем</text></cit></cit>
 <сit type="example"><text>nytte på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться случаем</text></cit></cit>
 <сit type="example"><text>nytte seg av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться чем-л.</text></cit></cit>
@@ -36,7 +36,7 @@
 <сit type="example"><text>hva nytter det ham?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какая ему от этого польза?</text></cit></cit>
 </sense>
 <sense>
-приносить пользу; помогать (о чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приносить пользу; помогать (о чём-л.)</text></cit>
 <сit type="example"><text>hva kan det nytte?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что толку от этого?, к чему всё это?</text></cit></cit>
 </sense>
 </entry>

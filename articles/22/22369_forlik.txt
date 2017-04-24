@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-примирение, компромисс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примирение, компромисс</text></cit>
 <сit type="example"><text>inngå et forlik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойти на компромисс</text></cit></cit>
 <сit type="example"><text>et magert forlik er bedre enn en fet prosess</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> худой мир лучше доброй ссоры</text></cit></cit>
 </sense>
 <sense>
-соглашение, сделка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соглашение, сделка</text></cit>
 <сit type="example"><text>megle forlik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>способствовать соглашению</text></cit></cit>
 <сit type="example"><text>slutte et forlik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключить соглашение (сделку)</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> арбитраж
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арбитраж</text></cit>
 </sense>
 </entry>
 </superEntry>

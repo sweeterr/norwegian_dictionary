@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">landforsvar</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-сухопутные войска (в отличие от ВМС и ВВС)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухопутные войска (в отличие от ВМС и ВВС)</text></cit>
 </sense>
 <sense>
-войска местной обороны, войска оборонного района
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>войска местной обороны, войска оборонного района</text></cit>
 </sense>
 </entry>
 </superEntry>

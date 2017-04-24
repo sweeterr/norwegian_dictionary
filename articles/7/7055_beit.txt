@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beit</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>диал.</u> свежие ветви, листва деревьев (в качестве корма для домашних животных)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежие ветви, листва деревьев (в качестве корма для домашних животных)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">beit</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-борозда, желобок (с нижней стороны лыжи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борозда, желобок (с нижней стороны лыжи)</text></cit>
 </sense>
 <sense>
-край (лоханки, чашки и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край (лоханки, чашки и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">beit</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>разг.</u> затруднительное положение
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительное положение</text></cit>
 <сit type="example"><text>komme i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в затруднительное положение</text></cit></cit>
 <сit type="example"><text>sette i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить в затруднительное положение</text></cit></cit>
 <сit type="example"><text>være i beit</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в затруднительном положении</text></cit></cit>

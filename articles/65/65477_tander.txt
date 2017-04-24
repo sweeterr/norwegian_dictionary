@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">tander</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-хилый, тщедушный (о человеке, организме, растении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, тщедушный (о человеке, организме, растении)</text></cit>
 </sense>
 <sense>
-нежный, чувствительный (о коже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный, чувствительный (о коже)</text></cit>
 </sense>
 <sense>
-ласковый, любезный, мягкий, певучий (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ласковый, любезный, мягкий, певучий (о голосе)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,23 +5,23 @@
 <form>
 <orth type="lemma">braut</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-проложенный санный путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проложенный санный путь</text></cit>
 </sense>
 <sense>
-склон холма, край обрыва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склон холма, край обрыва</text></cit>
 </sense>
 <sense>
-обочина (дороги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обочина (дороги)</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">braut</orth>
-<u>разг.</u> 
+<usg>разг.</usg>
 <gramGrp><tns>pret</tns><note>от bryte</note></gramGrp>
 </sense>
 </entry>

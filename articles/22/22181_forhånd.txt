@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>карт.</u> первый ход
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первый ход</text></cit>
 <сit type="example"><text>ha forhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить первым, иметь первый ход</text></cit></cit>
 <сit type="example"><text>melde pass i forhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первым объявить пас</text></cit></cit>
 <сit type="example"><text>på forhånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заранее, предварительно</text></cit></cit>
 </sense>
 <sense>
-<u>зоол.</u> передняя лапка (насекомого)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передняя лапка (насекомого)</text></cit>
 </sense>
 </entry>
 </superEntry>

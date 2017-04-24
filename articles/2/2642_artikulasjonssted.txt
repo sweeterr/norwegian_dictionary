@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">artikulasjonssted</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>фон.</u> место артикуляции
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место артикуляции</text></cit>
 </sense>
 </entry>
 </superEntry>

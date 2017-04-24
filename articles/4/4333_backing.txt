@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">backing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-поддержка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддержка</text></cit>
 </sense>
 </entry>
 </superEntry>

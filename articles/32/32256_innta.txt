@@ -7,26 +7,27 @@
 <inflection><orth extent="part">-tok, -tatt</orth></inflection>
 </form>
 <sense>
-занимать (место, положение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занимать (место, положение)</text></cit>
 </sense>
 <sense>
-захватывать, занимать (город)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захватывать, занимать (город)</text></cit>
 </sense>
 <sense>
-пленять, очаровывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пленять, очаровывать</text></cit>
 <сit type="example"><text>være inntatt i noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть пленённым кем-л., влюбиться в кого-л.</text></cit></cit>
 </sense>
 <sense>
-принимать (пищу, лекарство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принимать (пищу, лекарство)</text></cit>
 </sense>
 <sense>
-занять (определённую позицию по отношению к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занять (определённую позицию по отношению к чему-л.)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> принять (положение, позу)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принять (положение, позу)</text></cit>
 </sense>
 <sense>
-стягивать (ремень)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стягивать (ремень)</text></cit>
 </sense>
 </entry>
 </superEntry>

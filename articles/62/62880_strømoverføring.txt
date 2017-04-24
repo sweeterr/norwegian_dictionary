@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strømoverføring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>эл.</u> передача электроэнергии
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передача электроэнергии</text></cit>
 </sense>
 </entry>
 </superEntry>

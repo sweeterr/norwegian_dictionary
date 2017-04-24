@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-цвет, краска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет, краска</text></cit>
 <сit type="example"><text>bleke farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>блёклые тона</text></cit></cit>
 <сit type="example"><text>livlige farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сочные краски (тона)</text></cit></cit>
 <сit type="example"><text>lyse farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлые краски (тона)</text></cit></cit>
@@ -20,23 +20,24 @@
 <сit type = "example"><text>skifte farge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> меняться в лице</text></cit></cit>
 </sense>
 <sense>
-окраска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окраска</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-флаг, национальные цвета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флаг, национальные цвета</text></cit>
 <сit type="example"><text>de norske farger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежский национальный флаг</text></cit></cit>
 </sense>
 <sense>
-колорит, оттенок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колорит, оттенок</text></cit>
 </sense>
 <sense>
-<u>карт.</u> масть
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масть</text></cit>
 <сit type="example"><text>bekjenne farge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскрыть свой карты <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>følge (svikte) farge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить (не ходить) в масть</text></cit></cit>
 </sense>
 <sense>
-направление (политическое)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направление (политическое)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -46,10 +47,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-красить, окрашивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красить, окрашивать</text></cit>
 </sense>
 <sense>
-придавать особый колорит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придавать особый колорит</text></cit>
 <сit type="example"><text>farge av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>краситься (о только что покрашенной поверхности)</text></cit></cit>
 </sense>
 </entry>

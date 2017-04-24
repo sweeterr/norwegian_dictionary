@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">blikkstille</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-полное безветрие, <u>мор.</u> мёртвый штиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полное безветрие, <lbl>мор.</lbl> мёртвый штиль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">blikkstille</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-совершенно тихий, спокойный (о воде, погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно тихий, спокойный (о воде, погоде)</text></cit>
 </sense>
 <sense>
-зеркальный (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зеркальный (о воде)</text></cit>
 </sense>
 </entry>
 </superEntry>

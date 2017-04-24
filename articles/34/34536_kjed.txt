@@ -5,16 +5,15 @@
 <form>
 <orth type="lemma">kjed</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 <gramGrp><pos>predic</pos></gramGrp>
 </form>
 <sense>
-недовольный, огорчённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недовольный, огорчённый</text></cit>
 <сit type="example"><text>bli (være) kjed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устать (быть уставшим) (от чего-л. - av, over)</text></cit></cit>
 </sense>
 <sense>
-скучный, вызывающий скуку, надоевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скучный, вызывающий скуку, надоевший</text></cit>
 <сit type="example"><text>han er kjed av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему надоело что-л.</text></cit></cit>
 </sense>
 </entry>

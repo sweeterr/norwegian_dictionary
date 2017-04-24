@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lesestykke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-отрывок для чтения (в учебнике)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрывок для чтения (в учебнике)</text></cit>
 </sense>
 </entry>
 </superEntry>

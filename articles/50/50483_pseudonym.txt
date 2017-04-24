@@ -6,7 +6,7 @@
 <orth type="lemma">pseudonym</orth>
 <phon>|sevdo'ny:m, søido'ny:m|</phon>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-псевдоним
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>псевдоним</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">pseudonym</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-под псевдонимом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>под псевдонимом</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-выдвижной ящик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдвижной ящик</text></cit>
 <сit type="example"><text>lukke en skuff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задвинуть выдвижной ящик</text></cit></cit>
 <сit type="example"><text>trekke ut en skuff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвинуть ящик</text></cit></cit>
 <сit type="example"><text>av første skuff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>первого класса (сорта)</text></cit></cit>
 <сit type="example"><text>av samme skuff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> одного поля ягода</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> см. skuffe I
+<usg>уст.</usg>
+<ref>skuffe I</ref>
 </sense>
 </entry>
 </superEntry>

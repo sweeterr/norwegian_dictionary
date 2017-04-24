@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nyrestein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> камень в почках
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камень в почках</text></cit>
 </sense>
 </entry>
 </superEntry>

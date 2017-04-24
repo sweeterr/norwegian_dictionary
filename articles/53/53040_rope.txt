@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-кричать, выкрикивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, выкрикивать</text></cit>
 <сit type="example"><text>rope av full hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать во всё горло</text></cit></cit>
 <сit type="example"><text>rope til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать кому-л.</text></cit></cit>
 <сit type="example"><text>som man roper i skogen får man svar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> как аукнется, так и откликнется</text></cit></cit>
 </sense>
 <sense>
-звать, позвать, окликнуть (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звать, позвать, окликнуть (кого-л.)</text></cit>
 <сit type = "example"><text>rope etter :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> просить, взывать</text></cit></cit>
 <сit type = "example"><text>rope etter :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> окликать</text></cit></cit>
 <сit type = "example"><text>rope etter :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обозвать, обругать кого-л. вслед</text></cit></cit>
@@ -24,7 +24,7 @@
 <сit type = "example"><text>rope på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> просить, взывать</text></cit></cit>
 <сit type = "example"><text>rope på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> требовать во всеуслышание</text></cit></cit>
 <сit type = "example"><text>rope på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> окликать</text></cit></cit>
-<сit type = "example"><text>rope på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>радио</u> посылать позывные, вызывать (радиостанцию)</text></cit></cit>
+<сit type = "example"><text>rope på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>радио</lbl> посылать позывные, вызывать (радиостанцию)</text></cit></cit>
 <сit type="example"><text>rope én ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать кого-л. криком</text></cit></cit>
 </sense>
 </entry>

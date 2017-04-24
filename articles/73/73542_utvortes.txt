@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utvortes</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-внешность, внешний вид
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешность, внешний вид</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-наружный, внешний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наружный, внешний</text></cit>
 </sense>
 <sense>
-поверхностный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поверхностный</text></cit>
 </sense>
 </entry>
 </superEntry>

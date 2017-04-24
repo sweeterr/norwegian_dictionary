@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">junior</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> спортсмен, выступающий (спортсменка, выступающая) по группе юношей (девушек)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спортсмен, выступающий (спортсменка, выступающая) по группе юношей (девушек)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">junior</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-младший (по возрасту, службе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>младший (по возрасту, службе)</text></cit>
 </sense>
 </entry>
 </superEntry>

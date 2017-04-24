@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">veiløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-не имеющий дорог (о районе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий дорог (о районе)</text></cit>
 </sense>
 <sense>
-стоящий (находящийся) в стороне от дорог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоящий (находящийся) в стороне от дорог</text></cit>
 </sense>
 <sense>
-растерявшийся, сбитый с толку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растерявшийся, сбитый с толку</text></cit>
 </sense>
 </entry>
 </superEntry>

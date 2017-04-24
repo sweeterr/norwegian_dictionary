@@ -5,31 +5,31 @@
 <form>
 <orth type="lemma">dårlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <inflection><orth>(komp verre, supert verst)</orth></inflection>
+<inflection><orth>(komp verre, supert verst)</orth></inflection>
 </form>
 <sense>
-плохой, скверный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой, скверный</text></cit>
 </sense>
 <sense>
-больной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больной</text></cit>
 <сit type="example"><text>bli dårlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заболеть</text></cit></cit>
 <сit type="example"><text>det sto dårlig til med noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>было очень плохо (кому-л.)</text></cit></cit>
 </sense>
 <sense>
-слабый, болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, болезненный</text></cit>
 </sense>
 <sense>
-глупый, неразумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый, неразумный</text></cit>
 </sense>
 <sense>
-ломаный (о языке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломаный (о языке)</text></cit>
 <сit type="example"><text>han uttrykker seg på dårlig norsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он изъясняется на ломаном норвежском языке</text></cit></cit>
 </sense>
 <sense>
-неудовлетворительный, малоподходящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неудовлетворительный, малоподходящий</text></cit>
 </sense>
 <sense>
-ненадёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,8 +37,8 @@
 <form>
 <orth type="lemma">dårlig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp verre, supert verst)</orth></inflection>
-плохо, скверно
+<inflection><orth>(komp verre, supert verst)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохо, скверно</text></cit>
 </sense>
 </entry>
 </superEntry>

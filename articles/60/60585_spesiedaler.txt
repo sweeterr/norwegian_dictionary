@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spesiedaler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ист.</u> норвежская монета (= 4 кронам)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская монета (= 4 кронам)</text></cit>
 </sense>
 </entry>
 </superEntry>

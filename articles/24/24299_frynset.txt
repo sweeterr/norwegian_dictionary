@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-бахромчатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бахромчатый</text></cit>
 </sense>
 <sense>
-<u>перен.</u> обтрёпанный
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обтрёпанный</text></cit>
 <сit type="example"><text>være frynset i kantene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> иметь подмоченную репутацию</text></cit></cit>
 </sense>
 </entry>

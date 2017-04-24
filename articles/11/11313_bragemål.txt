@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bragemål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-поэтический стиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэтический стиль</text></cit>
 </sense>
 <sense>
-поэзия, стихосложение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэзия, стихосложение</text></cit>
 </sense>
 </entry>
 </superEntry>

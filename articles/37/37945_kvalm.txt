@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> шум, скандал, возня
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, скандал, возня</text></cit>
 <сit type="example"><text>gjøre kvalm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наделать шуму, нашуметь (по поводу чего-л. - over), поднять скандал</text></cit></cit>
 </sense>
 <sense>
-тяжёлый воздух, душная, затхлая атмосфера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый воздух, душная, затхлая атмосфера</text></cit>
 </sense>
 <sense>
-угнетённое состояние, депрессия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угнетённое состояние, депрессия</text></cit>
 </sense>
 <sense>
-позыв к рвоте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позыв к рвоте</text></cit>
 </sense>
 <sense>
-<u>уст.</u> чад
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чад</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,17 +30,16 @@
 <form>
 <orth type="lemma">kvalm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-удушливый, тяжёлый, душный (о воздухе, атмосфере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удушливый, тяжёлый, душный (о воздухе, атмосфере)</text></cit>
 </sense>
 <sense>
-тошнотворный, вызывающий тошноту
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тошнотворный, вызывающий тошноту</text></cit>
 </sense>
 <sense>
-отвратительный, неприятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвратительный, неприятный</text></cit>
 </sense>
 </entry>
 </superEntry>

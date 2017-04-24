@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gøyve</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-<u>диал.</u> дымить, дымиться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымить, дымиться</text></cit>
 </sense>
 </entry>
 </superEntry>

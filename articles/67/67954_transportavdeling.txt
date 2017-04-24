@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">transportavdeling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> транспортное подразделение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспортное подразделение</text></cit>
 </sense>
 </entry>
 </superEntry>

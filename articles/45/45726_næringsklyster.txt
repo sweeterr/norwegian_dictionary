@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">næringsklyster</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мед.</u> питательная клизма
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питательная клизма</text></cit>
 </sense>
 </entry>
 </superEntry>

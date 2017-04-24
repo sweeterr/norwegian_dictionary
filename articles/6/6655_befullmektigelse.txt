@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">befullmektigelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-полномочия, доверенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полномочия, доверенность</text></cit>
 </sense>
 <sense>
-облечение полномочиями кого-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облечение полномочиями кого-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

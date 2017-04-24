@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-топор, плотницкий топор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топор, плотницкий топор</text></cit>
 </sense>
 <sense>
-<u>ист.</u> секира
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секира</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-ехать в автомашине
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать в автомашине</text></cit>
 </sense>
 <sense>
-возить (везти) на автомашине
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возить (везти) на автомашине</text></cit>
 </sense>
 </entry>
 </superEntry>

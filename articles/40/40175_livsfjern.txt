@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">livsfjern</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-далёкий (оторванный) от жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкий (оторванный) от жизни</text></cit>
 </sense>
 </entry>
 </superEntry>

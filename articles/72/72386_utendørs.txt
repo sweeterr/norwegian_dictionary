@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utendørs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-наружный, находящийся вне дома (на свежем воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наружный, находящийся вне дома (на свежем воздухе)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">utendørs</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-вне дома, на открытом воздухе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вне дома, на открытом воздухе</text></cit>
 </sense>
 </entry>
 </superEntry>

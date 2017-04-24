@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sporavstand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ж.-д.</u>
+<usg>ж.-д.</usg>
 </form>
 <sense>
-ширина железнодорожной колей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина железнодорожной колей</text></cit>
 </sense>
 <sense>
-расстояние между двумя колеями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстояние между двумя колеями</text></cit>
 </sense>
 </entry>
 </superEntry>

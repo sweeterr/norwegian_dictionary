@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">inntog</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-вступление, въезд, торжественное прибытие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вступление, въезд, торжественное прибытие</text></cit>
 <сit type="example"><text>gjøre (holde) sitt inntog</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>торжественно вступать (куда-л.)</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innmark</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>с.-х.</u> огороженный приусадебный участок; приусадебная пашня
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огороженный приусадебный участок; приусадебная пашня</text></cit>
 </sense>
 </entry>
 </superEntry>

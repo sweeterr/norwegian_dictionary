@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">tankekjapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-сообразительный, сметливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообразительный, сметливый</text></cit>
 </sense>
 </entry>
 </superEntry>

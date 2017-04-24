@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ugjøre</orth>
 <inflection><orth>ugjorde, ugjort</orth></inflection>
-<u>диал.</u> портить, губить
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портить, губить</text></cit>
 <сit type="example"><text>ugjøre seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приходить в негодность, портиться</text></cit></cit>
 </sense>
 </entry>

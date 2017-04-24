@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bibeluttrykk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-библейское выражение, выражение из Библии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>библейское выражение, выражение из Библии</text></cit>
 </sense>
 </entry>
 </superEntry>

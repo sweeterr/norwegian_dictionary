@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">stranten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-длинный и тонкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинный и тонкий</text></cit>
 </sense>
 </entry>
 </superEntry>

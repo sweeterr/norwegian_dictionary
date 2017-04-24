@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">koffardiflåte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> торговый флот
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговый флот</text></cit>
 </sense>
 </entry>
 </superEntry>

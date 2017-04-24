@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-звать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звать</text></cit>
 <сit type="example"><text>kalle én ved (med) fornavn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окликать кого-л. по имени</text></cit></cit>
 </sense>
 <sense>
-призывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призывать</text></cit>
 <сit type="example"><text>komme som kalt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти как раз вовремя (в назначенное время)</text></cit></cit>
 <сit type="example"><text>kalle én til et embete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>назначить на должность</text></cit></cit>
 <сit type="example"><text>kalle til vitne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>призывать в свидетели</text></cit></cit>
@@ -19,11 +19,12 @@
 <сit type = "example"><text>kalle til (under) våpen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> призывать в армию</text></cit></cit>
 </sense>
 <sense>
-вызывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать</text></cit>
 <сit type="example"><text>la én kalle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызвать кого-л.</text></cit></cit>
 </sense>
 <sense>
-<u>радио</u> посылать позывные
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посылать позывные</text></cit>
 <сit type="example"><text>kalle for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>называть кого-л. как-л.</text></cit></cit>
 <сit type="example"><text>kalle fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать</text></cit></cit>
 <сit type="example"><text>kalle inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>позвать (пригласить) в дом</text></cit></cit>

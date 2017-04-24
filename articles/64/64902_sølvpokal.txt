@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sølvpokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> серебряный кубок
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серебряный кубок</text></cit>
 </sense>
 </entry>
 </superEntry>

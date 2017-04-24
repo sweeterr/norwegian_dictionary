@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">navnetjener</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>комп.</u> сервер доменных имён
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сервер доменных имён</text></cit>
 </sense>
 </entry>
 </superEntry>

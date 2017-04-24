@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-денщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>денщик</text></cit>
 </sense>
 <sense>
-<u>уст.</u> слуга
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуга</text></cit>
 </sense>
 </entry>
 </superEntry>

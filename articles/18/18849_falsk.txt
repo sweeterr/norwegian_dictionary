@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">falsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-фальшь, обман
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальшь, обман</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,17 +13,17 @@
 <form>
 <orth type="lemma">falsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ложный, неверный, ошибочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложный, неверный, ошибочный</text></cit>
 </sense>
 <sense>
-<u>муз.</u> фальшивый
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальшивый</text></cit>
 </sense>
 <sense>
-поддельный, подложный, фальсифицированный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддельный, подложный, фальсифицированный</text></cit>
 </sense>
 </entry>
 </superEntry>

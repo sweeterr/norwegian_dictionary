@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flyktning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-беженец, беглец, эмигрант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беженец, беглец, эмигрант</text></cit>
 </sense>
 </entry>
 </superEntry>

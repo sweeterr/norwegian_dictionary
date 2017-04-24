@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">tullet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <gramGrp><pos>predic</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-сбитый с толку, смущённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбитый с толку, смущённый</text></cit>
 </sense>
 <sense>
-рехнувшийся, помешанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рехнувшийся, помешанный</text></cit>
 </sense>
 <sense>
-развеселившийся, расшалившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развеселившийся, расшалившийся</text></cit>
 </sense>
 </entry>
 </superEntry>

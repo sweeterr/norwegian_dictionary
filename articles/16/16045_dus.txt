@@ -20,7 +20,7 @@
 <index></index>
 <form>
 <orth type="lemma">dus</orth>
-см. døs
+<ref>døs</ref>
 </sense>
 </entry>
 <entry>
@@ -28,9 +28,8 @@
 <form>
 <orth type="lemma">dus</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-мягкий, нежный (о звуках, красках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий, нежный (о звуках, красках)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">knelle</orth>
 <inflection><orth>knellte (knall), knellt</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-визжать, пронзительно кричать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>визжать, пронзительно кричать</text></cit>
 </sense>
 <sense>
-хлопать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопать</text></cit>
 </sense>
 </entry>
 </superEntry>

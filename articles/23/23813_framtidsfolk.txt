@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">framtidsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> люди будущего
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>люди будущего</text></cit>
 </sense>
 </entry>
 </superEntry>

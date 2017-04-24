@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stålskodd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> окованный сталью
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окованный сталью</text></cit>
 </sense>
 </entry>
 </superEntry>

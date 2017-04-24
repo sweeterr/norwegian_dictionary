@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">banelegge</orth>
 <inflection><orth extent="part">-la, -lagt</orth></inflection>
-сменить покрышку, чинить шину (путем вулканизации)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сменить покрышку, чинить шину (путем вулканизации)</text></cit>
 <сit type="example"><text>et banelagt dekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>новая покрышка, новый протектор</text></cit></cit>
 </sense>
 </entry>

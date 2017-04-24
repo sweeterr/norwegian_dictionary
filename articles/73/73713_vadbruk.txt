@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vadbruk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ловля рыбы на бечёвку с наживкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловля рыбы на бечёвку с наживкой</text></cit>
 </sense>
 <sense>
-ловля рыбы неводом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловля рыбы неводом</text></cit>
 </sense>
 </entry>
 </superEntry>

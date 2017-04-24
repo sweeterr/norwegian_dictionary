@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vivang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> паслён сладко-горький
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паслён сладко-горький</text></cit>
 </sense>
 </entry>
 </superEntry>

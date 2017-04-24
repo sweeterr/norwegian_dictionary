@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">soppemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лес.</u> сплоточная машина
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплоточная машина</text></cit>
 </sense>
 </entry>
 </superEntry>

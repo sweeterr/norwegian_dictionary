@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spikke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> пташка, воробей
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пташка, воробей</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-вырезать ножом (фигурки и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырезать ножом (фигурки и т. п.)</text></cit>
 </sense>
 <sense>
-резать на мелкие (тонкие) куски
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резать на мелкие (тонкие) куски</text></cit>
 </sense>
 </entry>
 </superEntry>

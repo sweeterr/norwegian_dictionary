@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-изгиб, извилина, поворот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб, извилина, поворот</text></cit>
 <сit type="example"><text>gå i bukter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться (о дороге)</text></cit></cit>
 <сit type="example"><text>slå bukter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изгибаться, извиваться</text></cit></cit>
 <сit type="example"><text>slå bukter på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создавать себе затруднения (трудности)</text></cit></cit>
-<сit type = "example"><text>få (vinne) bukt med — <u>перен.</u> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одолеть кого л., справиться с чем-л., покончить с чем-л.</text></cit></cit>
-<сit type = "example"><text>få (vinne) bukt med — <u>перен.</u> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настоять на своём</text></cit></cit>
+<сit type = "example"><text>få (vinne) bukt med — <lbl>перен.</lbl> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одолеть кого л., справиться с чем-л., покончить с чем-л.</text></cit></cit>
+<сit type = "example"><text>få (vinne) bukt med — <lbl>перен.</lbl> :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настоять на своём</text></cit></cit>
 </sense>
 <sense>
-бухта, широкий залив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухта, широкий залив</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бухта каната (троса)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухта каната (троса)</text></cit>
 </sense>
 </entry>
 </superEntry>

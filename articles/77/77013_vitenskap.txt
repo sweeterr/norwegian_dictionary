@@ -7,15 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-наука, знание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наука, знание</text></cit>
 </sense>
 <sense>
-отрасль науки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрасль науки</text></cit>
 <сit type="example"><text>de eksakte vitenskaper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точные науки</text></cit></cit>
 <сit type="example"><text>de skjønne vitenskaper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>литература, словесность</text></cit></cit>
 </sense>
 <sense>
-учебная дисциплина, предмет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебная дисциплина, предмет</text></cit>
 </sense>
 </entry>
 </superEntry>

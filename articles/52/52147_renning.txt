@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">renning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-побег, отросток, отпрыск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побег, отросток, отпрыск</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">renning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>текст.</u> основа
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основа</text></cit>
 </sense>
 </entry>
 </superEntry>

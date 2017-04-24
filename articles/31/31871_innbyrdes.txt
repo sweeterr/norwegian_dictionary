@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">innbyrdes</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-взаимный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">innbyrdes</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-взаимно, между собой, друг друга, друг другу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимно, между собой, друг друга, друг другу</text></cit>
 </sense>
 </entry>
 </superEntry>

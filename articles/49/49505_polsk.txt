@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">polsk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-польский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>польский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">polsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-польский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>польский</text></cit>
 </sense>
 </entry>
 </superEntry>

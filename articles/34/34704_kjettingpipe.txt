@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjettingpipe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> труба якорного клюза
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труба якорного клюза</text></cit>
 </sense>
 </entry>
 </superEntry>

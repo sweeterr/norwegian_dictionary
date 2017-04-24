@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tuk(k)el</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> простофиля, дурень
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простофиля, дурень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">tuk(k)el</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-беспорядок, неразбериха, хаос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, неразбериха, хаос</text></cit>
 </sense>
 <sense>
-неприятность, хлопоты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятность, хлопоты</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">portugisisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-португальский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>португальский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">portugisisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-португальский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>португальский</text></cit>
 </sense>
 </entry>
 </superEntry>

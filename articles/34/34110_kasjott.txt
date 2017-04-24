@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kasjott</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> кутузка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутузка</text></cit>
 <сit type="example"><text>komme (putte, sette) i kasjott(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть (затолкать, посадить) в кутузку</text></cit></cit>
 <сit type="example"><text>sitte i kasjott(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в кутузке</text></cit></cit>
 </sense>

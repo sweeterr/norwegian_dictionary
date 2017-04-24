@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lenkjerote</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>комп.</u> «битая», неработающая ссылка
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«битая», неработающая ссылка</text></cit>
 </sense>
 </entry>
 </superEntry>

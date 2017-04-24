@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">legemsstor</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-во весь рост (портрет, скульптура)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во весь рост (портрет, скульптура)</text></cit>
 </sense>
 <sense>
-высотой в рост человека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высотой в рост человека</text></cit>
 </sense>
 <sense>
-<u>редко</u> высокий, рослый
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий, рослый</text></cit>
 </sense>
 </entry>
 </superEntry>

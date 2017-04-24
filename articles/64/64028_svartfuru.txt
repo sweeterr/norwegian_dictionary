@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svartfuru</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>бот.</u> чёрная сосна австрийская
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрная сосна австрийская</text></cit>
 </sense>
 </entry>
 </superEntry>

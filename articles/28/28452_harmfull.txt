@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">harmfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-рассерженный, возмущённый, гневный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассерженный, возмущённый, гневный</text></cit>
 </sense>
 </entry>
 </superEntry>

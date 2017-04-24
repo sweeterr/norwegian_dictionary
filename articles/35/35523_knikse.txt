@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knikse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-делать книксен (реверанс)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать книксен (реверанс)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">knikse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. knirke
+<usg>диал.</usg>
+<ref>knirke</ref>
 </sense>
 </entry>
 </superEntry>

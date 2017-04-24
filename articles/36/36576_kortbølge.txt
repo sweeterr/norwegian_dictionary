@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kortbølge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>радио</u> короткая волна
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткая волна</text></cit>
 </sense>
 </entry>
 </superEntry>

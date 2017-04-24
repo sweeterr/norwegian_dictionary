@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">spaltelang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-длиной в полосу (столбец)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длиной в полосу (столбец)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-непроизвольный, невольный, автоматический, спонтанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непроизвольный, невольный, автоматический, спонтанный</text></cit>
 </sense>
 <sense>
-неизбежный, неотвратимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неизбежный, неотвратимый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">uvilkårlig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-непроизвольно, невольно, автоматически
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непроизвольно, невольно, автоматически</text></cit>
 </sense>
 </entry>
 </superEntry>

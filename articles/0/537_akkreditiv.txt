@@ -8,11 +8,12 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-верительные грамоты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верительные грамоты</text></cit>
 <сit type="example"><text>overrekke sine akkreditiver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>дип.</lbl> вручить свои верительные грамоты</text></cit></cit>
 </sense>
 <sense>
-<u>бухг.</u> аккредитив
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аккредитив</text></cit>
 </sense>
 </entry>
 </superEntry>

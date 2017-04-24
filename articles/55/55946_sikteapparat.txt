@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sikteapparat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> прицельное приспособление, прицел
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прицельное приспособление, прицел</text></cit>
 </sense>
 </entry>
 </superEntry>

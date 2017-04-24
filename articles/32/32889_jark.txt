@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">jark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-самое широкое место ступни (подошвы ботинка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самое широкое место ступни (подошвы ботинка)</text></cit>
 </sense>
 <sense>
-край ладони; мускул большого пальца (на ладони)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край ладони; мускул большого пальца (на ладони)</text></cit>
 </sense>
 </entry>
 </superEntry>

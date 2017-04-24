@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hepp!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-ну!, пошёл ! (понукание лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ну!, пошёл ! (понукание лошади)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forbehandler</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>инф.</u> пре(д)процессор, процессор предварительной обработки данных
+<usg>инф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пре(д)процессор, процессор предварительной обработки данных</text></cit>
 </sense>
 </entry>
 </superEntry>

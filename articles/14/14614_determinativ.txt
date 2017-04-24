@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">determinativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> определяющее слово
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определяющее слово</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">determinativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-решающий, определяющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решающий, определяющий</text></cit>
 </sense>
 </entry>
 </superEntry>

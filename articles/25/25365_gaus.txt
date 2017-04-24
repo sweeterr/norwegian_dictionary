@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gaus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ток, поток, течение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ток, поток, течение</text></cit>
 </sense>
 <sense>
-утечка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утечка</text></cit>
 </sense>
 </entry>
 </superEntry>

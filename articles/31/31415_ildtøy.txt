@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">ildtøy</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-каминные принадлежности (совок, щипцы и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каминные принадлежности (совок, щипцы и т. д.)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> см. fyrtøy
+<usg>уст.</usg>
+<ref>fyrtøy</ref>
 </sense>
 </entry>
 </superEntry>

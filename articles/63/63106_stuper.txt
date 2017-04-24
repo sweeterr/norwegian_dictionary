@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stuper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> прыгун в воду
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыгун в воду</text></cit>
 </sense>
 </entry>
 </superEntry>

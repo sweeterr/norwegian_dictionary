@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ihvor</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-куда бы ни, где бы ни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куда бы ни, где бы ни</text></cit>
 </sense>
 <sense>
-как бы ни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как бы ни</text></cit>
 </sense>
 </entry>
 </superEntry>

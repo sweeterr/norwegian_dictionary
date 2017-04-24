@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">piano</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-фортепиано, пианино
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фортепиано, пианино</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,12 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-<u>муз.</u> пиано
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пиано</text></cit>
 </sense>
 <sense>
-<u>разг.</u> спокойно, медленно
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойно, медленно</text></cit>
 <сit type="example"><text>ta det piano</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>относись к этому спокойно</text></cit></cit>
 </sense>
 </entry>

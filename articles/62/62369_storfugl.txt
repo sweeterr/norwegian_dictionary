@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">storfugl</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u>
+<usg>зоол.</usg>
 </form>
 <sense>
-глухарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухарь</text></cit>
 </sense>
 <sense>
-<u>собир.</u> боровая дичь
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боровая дичь</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kompassrose</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-компасная картушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компасная картушка</text></cit>
 </sense>
 <sense>
-компасная роза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компасная роза</text></cit>
 </sense>
 </entry>
 </superEntry>

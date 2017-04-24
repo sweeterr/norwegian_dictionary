@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">subbearbeid</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-нудная (скучная) работа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нудная (скучная) работа</text></cit>
 </sense>
 <sense>
-неряшливо выполненная работа, халтура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряшливо выполненная работа, халтура</text></cit>
 </sense>
 </entry>
 </superEntry>

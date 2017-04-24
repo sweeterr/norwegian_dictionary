@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>поэт.</u> бард, певец, сказитель, скальд
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бард, певец, сказитель, скальд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">barde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-китовый ус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>китовый ус</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">barde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u> корабль викингов (с высоким носом, обитым железными листами)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корабль викингов (с высоким носом, обитым железными листами)</text></cit>
 </sense>
 </entry>
 </superEntry>

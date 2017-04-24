@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rabbiner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-раввин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раввин</text></cit>
 </sense>
 </entry>
 </superEntry>

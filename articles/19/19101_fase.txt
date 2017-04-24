@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-фаза, период, стадия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фаза, период, стадия</text></cit>
 </sense>
 <sense>
-<u>физ.</u> фаза, амплитуда, размах колебаний
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фаза, амплитуда, размах колебаний</text></cit>
 </sense>
 </entry>
 </superEntry>

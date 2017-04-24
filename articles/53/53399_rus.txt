@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rus</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-опьянение <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опьянение <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>få en rus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опьянеть</text></cit></cit>
 <сit type="example"><text>sove rusen ut (av seg)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проспаться и отрезветь</text></cit></cit>
 </sense>
@@ -15,7 +15,8 @@
 <form>
 <orth type="lemma">rus</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> груда камней
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>груда камней</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +24,7 @@
 <form>
 <orth type="lemma">rus</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-случайность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случайность</text></cit>
 </sense>
 </entry>
 </superEntry>

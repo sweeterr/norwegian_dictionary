@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">varmfront</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>метеор.</u> тёплый фронт
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёплый фронт</text></cit>
 </sense>
 </entry>
 </superEntry>

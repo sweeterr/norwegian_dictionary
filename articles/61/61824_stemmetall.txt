@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">stemmetall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-число поданных голосов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>число поданных голосов</text></cit>
 </sense>
 </entry>
 </superEntry>

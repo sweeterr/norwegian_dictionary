@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-насущный хлеб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насущный хлеб</text></cit>
 </sense>
 <sense>
-<u>перен.</u> кусок хлеба
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусок хлеба</text></cit>
 <сit type="example"><text>skaffe seg et levebrød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зарабатывать на кусок хлеба</text></cit></cit>
 </sense>
 </entry>

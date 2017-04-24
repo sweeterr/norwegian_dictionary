@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lort</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-навоз, помёт, кучка навоза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навоз, помёт, кучка навоза</text></cit>
 </sense>
 <sense>
-грязь, мусор, куча грязи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязь, мусор, куча грязи</text></cit>
 </sense>
 </entry>
 </superEntry>

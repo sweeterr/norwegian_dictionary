@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">apropos</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-что-л. сказанное кстати (впопад), удачное словцо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>что-л. сказанное кстати (впопад), удачное словцо</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,12 +15,12 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-кстати, удачно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кстати, удачно</text></cit>
 <сit type="example"><text>si (bemerke) noe apropos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сказать (заметить) что-л. кстати</text></cit></cit>
 <сit type="example"><text>komme apropos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в нужный момент</text></cit></cit>
 </sense>
 <sense>
-между прочим, кстати (как вводное слово)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>между прочим, кстати (как вводное слово)</text></cit>
 <сit type="example"><text>ja apropos ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, кстати ...</text></cit></cit>
 </sense>
 </entry>

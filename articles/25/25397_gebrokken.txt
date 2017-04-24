@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gebrokken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-ломаный (о языке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломаный (о языке)</text></cit>
 <сit type="example"><text>snakke (tale) gebrokkent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить на ломаном языке</text></cit></cit>
 </sense>
 </entry>

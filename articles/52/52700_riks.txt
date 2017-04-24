@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">riks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> междугородный телефонный разговор
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>междугородный телефонный разговор</text></cit>
 <сit type="example"><text>bestille riks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> заказать разговор по междугородному телефону</text></cit></cit>
 <сit type="example"><text>han satt i riks med ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он имел разговор по междугородному телефону с ...</text></cit></cit>
 </sense>
@@ -15,7 +16,8 @@
 <form>
 <orth type="lemma">riks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> см. riksmål
+<usg>разг.</usg>
+<ref>riksmål</ref>
 </sense>
 </entry>
 <entry>
@@ -23,7 +25,8 @@
 <form>
 <orth type="lemma">riks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> скрип, поскрипывание, хруст
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрип, поскрипывание, хруст</text></cit>
 </sense>
 </entry>
 </superEntry>

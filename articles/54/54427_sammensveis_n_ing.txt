@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sammensveis(n)ing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u> сварка; спайка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сварка; спайка</text></cit>
 </sense>
 </entry>
 </superEntry>

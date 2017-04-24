@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-нерассказанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерассказанный</text></cit>
 </sense>
 <sense>
-необсуждённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необсуждённый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">utalt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-неподсчитанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподсчитанный</text></cit>
 </sense>
 </entry>
 </superEntry>

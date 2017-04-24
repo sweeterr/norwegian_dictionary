@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">evfoni</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лингв.</u> благозвучие, эвфония
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благозвучие, эвфония</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">differensrekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мат.</u> арифметическая прогрессия
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арифметическая прогрессия</text></cit>
 </sense>
 </entry>
 </superEntry>

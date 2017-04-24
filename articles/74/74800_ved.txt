@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-дрова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрова</text></cit>
 <сit type="example"><text>et fang ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>охапка дров</text></cit></cit>
 <сit type="example"><text>hugge ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рубить дрова</text></cit></cit>
 <сit type="example"><text>kjøre ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возить дрова</text></cit></cit>
 <сit type="example"><text>lø ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>складывать дрова</text></cit></cit>
 </sense>
 <sense>
-древесина, лесоматериал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древесина, лесоматериал</text></cit>
 <сit type="example"><text>løs ved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пористая (рыхлая) древесина</text></cit></cit>
 <сit type="example"><text>kaste seg i veden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сесть на дерево (о птице)</text></cit></cit>
 <сit type="example"><text>sitte i veden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на дереве (о птице)</text></cit></cit>
@@ -28,7 +28,7 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении указывает на положение одного предмета вблизи другого, у, около, возле
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на положение одного предмета вблизи другого, у, около, возле</text></cit>
 <сit type="example"><text>ved ens høyre hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по правую руку</text></cit></cit>
 <сit type="example"><text>ved ens side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рядом с кем-л.</text></cit></cit>
 <сit type="example"><text>bo ved elva (fjorden, sjøen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить у реки (фиорда, моря)</text></cit></cit>
@@ -36,57 +36,57 @@
 <сit type="example"><text>vi er ved målet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы у цели</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на место, вблизи которого произошло сражение и т. п., при, под
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на место, вблизи которого произошло сражение и т. п., при, под</text></cit>
 <сit type="example"><text>slaget ved Waterloo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сражение при Ватерлоо</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на присутствие в определённом месте или участие в процессе, совершающемся где-л., в, на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на присутствие в определённом месте или участие в процессе, совершающемся где-л., в, на</text></cit>
 <сit type="example"><text>studere ved et universitet (en høyskole)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учиться в университете (институте)</text></cit></cit>
 <сit type="example"><text>være ved møtet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на собрании</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на движение к предмету, в, к, на, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на движение к предмету, в, к, на, за</text></cit>
 <сit type="example"><text>sette seg ved bordet (peisen, vinduet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться (сесть) за стол (к печке, к окну)</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на время действия; иногда переводится наречием:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на время действия; иногда переводится наречием:</text></cit>
 <сit type="example"><text>ved daggry</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на рассвете</text></cit></cit>
 <сit type="example"><text>ved nattetid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ночью</text></cit></cit>
 <сit type="example"><text>ved soloppgang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на восходе солнца</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на приближение к определённому моменту, около, к
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на приближение к определённому моменту, около, к</text></cit>
 <сit type="example"><text>ved kveld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к вечеру</text></cit></cit>
 <сit type="example"><text>ved sjutiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около семи часов</text></cit></cit>
 </sense>
 <sense>
-указывает на орудие, средство, с помощью которого произведено действие, переводится творительным падежом существительного без предлога:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на орудие, средство, с помощью которого произведено действие, переводится творительным падежом существительного без предлога:</text></cit>
 <сit type="example"><text>han ble dødet ved sverd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он был убит мечом</text></cit></cit>
 </sense>
 <sense>
-указывает на характер совершения действия, переводится чаще всего наречием:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на характер совершения действия, переводится чаще всего наречием:</text></cit>
 <сit type="example"><text>ved hjelp av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с помощью</text></cit></cit>
 <сit type="example"><text>ved lys (lampelys)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при свете свечи (лампы)</text></cit></cit>
 <сit type="example"><text>ved synet av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при виде</text></cit></cit>
 <сit type="example"><text>ved et tilfelle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случайно, по случаю</text></cit></cit>
 </sense>
 <sense>
-указывает на пребывание в определённом настроении, психическом состоянии и т. п.:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на пребывание в определённом настроении, психическом состоянии и т. п.:</text></cit>
 <сit type="example"><text>være ikke ved sine fulle fem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть не в своём уме</text></cit></cit>
 <сit type="example"><text>være ved godt mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в хорошем расположении духа</text></cit></cit>
 </sense>
 <sense>
-указывает на характерную черту, качество, свойство:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на характерную черту, качество, свойство:</text></cit>
 <сit type="example"><text>det peneste ved henne er øynene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самое красивое в ней - глаза</text></cit></cit>
 <сit type="example"><text>det er noe lokkende ved ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в нём есть что-то привлекательное</text></cit></cit>
 </sense>
 <sense>
-указывает на причину, вызвавшую данное действие, от, из-за (с родительным падежом); при (с предложным падежом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на причину, вызвавшую данное действие, от, из-за (с родительным падежом); при (с предложным падежом)</text></cit>
 <сit type="example"><text>ved uforsiktighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за неосторожности</text></cit></cit>
 <сit type="example"><text>ved den tanke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при этой мысли</text></cit></cit>
 </sense>
 <sense>
-указывает на автора произведения, пьесы и т. п., переводится родительным или творительным падежом фамилии автора:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на автора произведения, пьесы и т. п., переводится родительным или творительным падежом фамилии автора:</text></cit>
 <сit type="example"><text>«Peer Gynt» ved Henrik Ibsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«Пер Гюнт» Генрика Ибсена</text></cit></cit>
 </sense>
 </entry>

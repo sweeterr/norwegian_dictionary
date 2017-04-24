@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-петля (дверная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петля (дверная)</text></cit>
 </sense>
 <sense>
-грузило (на сетях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузило (на сетях)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">darre</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> дрожать, вибрировать, дребезжать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожать, вибрировать, дребезжать</text></cit>
 </sense>
 </entry>
 </superEntry>

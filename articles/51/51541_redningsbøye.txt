@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">redningsbøye</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> спасательный буёк
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спасательный буёк</text></cit>
 </sense>
 </entry>
 </superEntry>

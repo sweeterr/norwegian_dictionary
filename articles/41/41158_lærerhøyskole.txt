@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lærerhøyskole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-педагогический институт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>педагогический институт</text></cit>
 <сit type="example"><text>Norges Lærarhøgskule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Норвежский педагогический институт (в городе Тронхейме)</text></cit></cit>
 </sense>
 </entry>

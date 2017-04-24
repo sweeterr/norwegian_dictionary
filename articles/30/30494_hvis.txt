@@ -8,11 +8,11 @@
 </form>
 <sense>
 <gramGrp><pos>inter</pos></gramGrp>
- чей?, чья?, чьё?, чьи?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чей?, чья?, чьё?, чьи?</text></cit>
 </sense>
 <sense>
 <gramGrp><pos>rel</pos></gramGrp>
-чей, чья, чьё, чьи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чей, чья, чьё, чьи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">hvis</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-если, в том случае если, если бы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>если, в том случае если, если бы</text></cit>
 </sense>
 </entry>
 </superEntry>

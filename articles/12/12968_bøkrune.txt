@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bøkrune</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>ист.</u> руна, вырезанная на буковой дощечке
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руна, вырезанная на буковой дощечке</text></cit>
 </sense>
 </entry>
 </superEntry>

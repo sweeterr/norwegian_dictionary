@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sangfilm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-музыкальный кинофильм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыкальный кинофильм</text></cit>
 </sense>
 </entry>
 </superEntry>

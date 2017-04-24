@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">desimalregning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> счисление десятичных дробей
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счисление десятичных дробей</text></cit>
 </sense>
 </entry>
 </superEntry>

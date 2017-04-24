@@ -6,7 +6,8 @@
 <orth type="lemma">premiere</orth>
 <phon>|premj'æ:rә|</phon>
 <inflection><orth extent="part">-n, -r</orth></inflection>
- <u>театр.</u> премьера
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>премьера</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,7 @@
 <form>
 <orth type="lemma">premiere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-премировать, присуждать премию
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>премировать, присуждать премию</text></cit>
 </sense>
 </entry>
 </superEntry>

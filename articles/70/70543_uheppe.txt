@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">uheppe</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-несчастье, несчастный случай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несчастье, несчастный случай</text></cit>
 </sense>
 <sense>
-невезение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невезение</text></cit>
 </sense>
 </entry>
 </superEntry>

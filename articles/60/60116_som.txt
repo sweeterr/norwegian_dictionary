@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">som</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-который, которая, которое, которые, что, кто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>который, которая, которое, которые, что, кто</text></cit>
 <сit type="example"><text>den (hvem) som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который; та, которая</text></cit></cit>
 <сit type="example"><text>det (hva) som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то, которое</text></cit></cit>
 <сit type="example"><text>de som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>те, которые</text></cit></cit>
@@ -21,7 +21,7 @@
 <gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
-как; так, как ...
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как; так, как ...</text></cit>
 <сit type="example"><text>det blir, som du har sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё будет (останется) так, как ты сказал</text></cit></cit>
 <сit type="example"><text>slik (sådan) som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>такой (такая), как ...</text></cit></cit>
 <сit type="example"><text>således som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, как ...</text></cit></cit>
@@ -31,7 +31,7 @@
 <сit type="example"><text>som for (med) meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> что касается меня, то ...; что до меня, то ...</text></cit></cit>
 </sense>
 <sense>
-в качестве, как
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве, как</text></cit>
 <сit type="example"><text>som barn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будучи ребенком</text></cit></cit>
 <сit type="example"><text>som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какой угодно</text></cit></cit>
 <сit type="example"><text>som lamslått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>словно как (словно) на иголках</text></cit></cit>

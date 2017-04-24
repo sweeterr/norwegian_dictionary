@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">beitemark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. beite I
+<ref>beite I</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">beitemark</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> см. beite II
+<usg>диал.</usg>
+<ref>beite II</ref>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> толстый канат, трос
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый канат, трос</text></cit>
 </sense>
 <sense>
-<u>тех.</u> кабель, <u>эл.</u> провод
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кабель, <lbl>эл.</lbl> провод</text></cit>
 <сit type="example"><text>blyarmert kabel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освинцованный (бронированный) кабель</text></cit></cit>
 </sense>
 </entry>

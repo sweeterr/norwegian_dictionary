@@ -5,33 +5,32 @@
 <form>
 <orth type="lemma">tynn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тонкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий</text></cit>
 </sense>
 <sense>
-редкий (о волосах, растительности, застройке, населении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий (о волосах, растительности, застройке, населении)</text></cit>
 </sense>
 <sense>
-лёгкий (об одежде, тумане)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (об одежде, тумане)</text></cit>
 </sense>
 <sense>
-скудный, небольшой (о запасе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный, небольшой (о запасе)</text></cit>
 <сit type="example"><text>ha det tynt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь ограниченные средства</text></cit></cit>
 </sense>
 <sense>
-жидкий, разбавленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий, разбавленный</text></cit>
 </sense>
 <sense>
-тоненький (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тоненький (о голосе)</text></cit>
 </sense>
 <sense>
-плохой, слабый (о знаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой, слабый (о знаниях)</text></cit>
 </sense>
 <sense>
-худой, отощавший (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>худой, отощавший (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

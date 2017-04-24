@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rømme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-сливки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сливки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,17 @@
 <inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 </form>
 <sense>
-сбежать, дезертировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбежать, дезертировать</text></cit>
 </sense>
 <sense>
-освобождать, покидать (помещение), очищать (место)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освобождать, покидать (помещение), очищать (место)</text></cit>
 </sense>
 <sense>
-эвакуировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эвакуировать</text></cit>
 </sense>
 <sense>
-<u>диал.</u> расширять, делать просторнее
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расширять, делать просторнее</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-обычай, традиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычай, традиция</text></cit>
 </sense>
 <sense>
-привычка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привычка</text></cit>
 <сit type="example"><text>av vane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по привычке, по обычаю</text></cit></cit>
 <сit type="example"><text>ha det for vane, ha den vane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь обычай (привычку)</text></cit></cit>
 <сit type="example"><text>komme i vane med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привыкнуть, усвоить привычку</text></cit></cit>
@@ -24,7 +24,8 @@
 <form>
 <orth type="lemma">vane</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> охранять (оберегать) горные пастбища
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охранять (оберегать) горные пастбища</text></cit>
 </sense>
 </entry>
 </superEntry>

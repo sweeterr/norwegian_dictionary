@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ros</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-похвала, восхваление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похвала, восхваление</text></cit>
 <сit type="example"><text>til ens ros</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в похвалу кому-л.</text></cit></cit>
 <сit type="example"><text>fortjene ros</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заслужить похвалу</text></cit></cit>
 <сit type="example"><text>få ros</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить одобрение</text></cit></cit>

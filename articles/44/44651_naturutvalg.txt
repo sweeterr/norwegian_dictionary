@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">naturutvalg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>биол.</u> естественный отбор
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>естественный отбор</text></cit>
 </sense>
 </entry>
 </superEntry>

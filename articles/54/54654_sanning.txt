@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sanning</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> правда, истина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правда, истина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slarve</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-халтурить, работать небрежно (плохо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>халтурить, работать небрежно (плохо)</text></cit>
 </sense>
 <sense>
-болтать, сплетничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать, сплетничать</text></cit>
 </sense>
 </entry>
 </superEntry>

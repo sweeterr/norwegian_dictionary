@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">etiolere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>биол.</u> этиолировать (растения)
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>этиолировать (растения)</text></cit>
 </sense>
 </entry>
 </superEntry>

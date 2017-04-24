@@ -5,21 +5,22 @@
 <form>
 <orth type="lemma">nøytral</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-нейтральный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нейтральный</text></cit>
 <сit type="example"><text>de nøytrale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нейтральные государства</text></cit></cit>
 </sense>
 <sense>
-промежуточный, неопределённый (о цвете, высказывании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промежуточный, неопределённый (о цвете, высказывании)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> средний (о роде)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний (о роде)</text></cit>
 </sense>
 <sense>
-<u>хим.</u> нейтральный
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нейтральный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,10 @@
 <form>
 <orth type="lemma">konkav</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мат.</u>, <u>физ.</u> вогнутый
+<usg>мат.</usg>
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вогнутый</text></cit>
 </sense>
 </entry>
 </superEntry>

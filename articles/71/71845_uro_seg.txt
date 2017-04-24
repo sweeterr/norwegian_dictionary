@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uro seg</orth>
 <inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
-<u>разг.</u> двигаться, шевелиться, копошиться
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться, шевелиться, копошиться</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teaterskole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-театральная школа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральная школа</text></cit>
 </sense>
 </entry>
 </superEntry>

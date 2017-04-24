@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">blekre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-развеваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развеваться</text></cit>
 </sense>
 <sense>
-трепетать, дрожать (о листьях на ветру)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трепетать, дрожать (о листьях на ветру)</text></cit>
 </sense>
 </entry>
 </superEntry>

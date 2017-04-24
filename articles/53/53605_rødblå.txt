@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">rødblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-пурпуровый, лиловый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пурпуровый, лиловый</text></cit>
 </sense>
 </entry>
 </superEntry>

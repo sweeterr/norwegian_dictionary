@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">canyon</orth>
 <inflection><orth extent="part">-en, -er (-s)</orth></inflection>
-<u>геогр.</u> каньон
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каньон</text></cit>
 </sense>
 </entry>
 </superEntry>

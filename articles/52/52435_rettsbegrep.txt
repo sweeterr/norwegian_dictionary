@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rettsbegrep</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>юр.</u> юридическое (правовое) понятие, юридический термин
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юридическое (правовое) понятие, юридический термин</text></cit>
 </sense>
 </entry>
 </superEntry>

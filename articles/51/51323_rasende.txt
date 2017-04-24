@@ -7,17 +7,17 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-бешеный, головокружительный (о скорости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бешеный, головокружительный (о скорости)</text></cit>
 </sense>
 <sense>
-неистовый, сильный (о буре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неистовый, сильный (о буре)</text></cit>
 </sense>
 <sense>
-разъярённый, буйствующий, вне себя от злости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разъярённый, буйствующий, вне себя от злости</text></cit>
 <сit type="example"><text>bli rasende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в ярость, сильно разозлиться</text></cit></cit>
 </sense>
 <sense>
-сумасшедший, не в своём уме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший, не в своём уме</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,7 +25,7 @@
 <form>
 <orth type="lemma">rasende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-страшно, ужасно (с усилительным значением)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшно, ужасно (с усилительным значением)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">denominativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> отымённое производное слово
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отымённое производное слово</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">denominativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> отымённый
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отымённый</text></cit>
 </sense>
 </entry>
 </superEntry>

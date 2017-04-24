@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-'en, -'er</orth></inflection>
 </form>
 <sense>
-первая буква норвежского алфавита
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первая буква норвежского алфавита</text></cit>
 <сit type="example"><text>har man (en) sagt a, får (må) man (en) si b</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто сказал А, должен сказать и Б; взялся за гуж, не говори, что не дюж</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> ля (нота)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ля (нота)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +20,13 @@
 <form>
 <orth type="lemma">A</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-она, её
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>она, её</text></cit>
 </sense>
 <sense>
-его
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>его</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +34,7 @@
 <form>
 <orth type="lemma">A</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на предел, верхнюю границу в количестве, числе (от) до
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на предел, верхнюю границу в количестве, числе (от) до</text></cit>
 <сit type="example"><text>tre a fire år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от трёх до четырёх лет</text></cit></cit>
 <сit type="example"><text>fem a seks kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять-шесть крон</text></cit></cit>
 </sense>
@@ -43,7 +44,7 @@
 <form>
 <orth type="lemma">A</orth>
 <gramGrp><pos>int</pos></gramGrp>
-выражает удивление, смятение, испуг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выражает удивление, смятение, испуг</text></cit>
 а!, о!, ну!
 <сit type="example"><text>a ja da!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах, ну конечно!</text></cit></cit>
 <сit type="example"><text>a nei!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да нет же!</text></cit></cit>
@@ -54,8 +55,8 @@
 <form>
 <orth type="lemma">A</orth>
 <gramGrp><pos>int</pos></gramGrp>
- <u>разг.</u>
-выражает раздражение, огорчение говорящего в отношении себя самого:
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выражает раздражение, огорчение говорящего в отношении себя самого:</text></cit>
 <сit type="example"><text>isj a meg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтоб тебе пусто было! (про самого себя)</text></cit></cit>
 </sense>
 </entry>

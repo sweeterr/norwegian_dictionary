@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-чернила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чернила</text></cit>
 </sense>
 <sense>
-сепия (жидкость, выпускаемая каракатицей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сепия (жидкость, выпускаемая каракатицей)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">blekk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> см. blikk III
+<usg>диал.</usg>
+<ref>blikk III</ref>
 </sense>
 </entry>
 </superEntry>

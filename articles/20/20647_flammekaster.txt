@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flammekaster</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>воен.</u> огнемёт
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огнемёт</text></cit>
 </sense>
 </entry>
 </superEntry>

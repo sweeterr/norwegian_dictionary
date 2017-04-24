@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ukomplett</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-некомплектный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некомплектный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">frafalle</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-отпадать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпадать</text></cit>
 </sense>
 <sense>
-отступаться (от убеждений), отказываться (от своих слов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отступаться (от убеждений), отказываться (от своих слов)</text></cit>
 </sense>
 </entry>
 </superEntry>

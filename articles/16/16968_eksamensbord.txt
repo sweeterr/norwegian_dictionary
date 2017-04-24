@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">eksamensbord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-экзаменационный стол, стол экзаменаторов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзаменационный стол, стол экзаменаторов</text></cit>
 <сit type="example"><text>komme like fra eksamensbordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть новоиспечённым специалистом</text></cit></cit>
 </sense>
 </entry>

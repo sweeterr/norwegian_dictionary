@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-домик, хижина, хата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домик, хижина, хата</text></cit>
 </sense>
 <sense>
-лавка (мелочная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лавка (мелочная)</text></cit>
 </sense>
 <sense>
-помещение для хранения молочных продуктов (особенно на летних горных пастбищах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение для хранения молочных продуктов (особенно на летних горных пастбищах)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">bu</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> жильё, жилище, дом, гнездо
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жильё, жилище, дом, гнездо</text></cit>
 <сit type="example"><text>sette bu</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поселиться, обосноваться</text></cit></cit>
 </sense>
 </entry>
@@ -30,16 +31,17 @@
 <form>
 <orth type="lemma">bu</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> жить, обитать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жить, обитать</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bu</orth>
-bu! 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>bu!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
- му!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>му!</text></cit>
 </sense>
 </entry>
 </superEntry>

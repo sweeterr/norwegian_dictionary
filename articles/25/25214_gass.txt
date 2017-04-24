@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-газ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газ</text></cit>
 </sense>
 <sense>
-светильный газ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светильный газ</text></cit>
 </sense>
 <sense>
-<u>воен.</u> боевое отравляющее веществе
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боевое отравляющее веществе</text></cit>
 </sense>
 </entry>
 </superEntry>

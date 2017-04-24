@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-лебёдка, ворот; <u>мор.</u> брашпиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лебёдка, ворот; <lbl>мор.</lbl> брашпиль</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> мотовило
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мотовило</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,22 +21,22 @@
 <inflection><orth>vandt, vundet</orth></inflection>
 </form>
 <sense>
-обматывать, обвивать, обвязывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обматывать, обвивать, обвязывать</text></cit>
 </sense>
 <sense>
-поднимать воротом (лебёдкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать воротом (лебёдкой)</text></cit>
 <сit type="example"><text>vinde ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать воротом (лебёдкой)</text></cit></cit>
 <сit type = "example"><text>vinde opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поднимать воротом (тяжести)</text></cit></cit>
 <сit type = "example"><text>vinde opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> доставать воротом воду из колодца</text></cit></cit>
 </form>
 <sense>
-виться, извиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виться, извиваться</text></cit>
 </sense>
 <sense>
-клубиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клубиться</text></cit>
 </sense>
 <sense>
-скручиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скручиваться</text></cit>
 </sense>
 </entry>
 <entry>
@@ -43,7 +44,7 @@
 <form>
 <orth type="lemma">vinde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-принюхиваться, нюхать, разнюхивать, тянуть носом (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принюхиваться, нюхать, разнюхивать, тянуть носом (о животных)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">prud</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> <u>поэт.</u> прекрасный, красивый, изысканный
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасный, красивый, изысканный</text></cit>
 </sense>
 </entry>
 </superEntry>

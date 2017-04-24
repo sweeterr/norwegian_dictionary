@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjøkkenkniv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кухонный нож
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кухонный нож</text></cit>
 </sense>
 </entry>
 </superEntry>

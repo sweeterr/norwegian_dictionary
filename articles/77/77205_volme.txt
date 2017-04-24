@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">volme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-клубиться (о дыме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клубиться (о дыме)</text></cit>
 </sense>
 <sense>
-разливаться (о свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разливаться (о свете)</text></cit>
 </sense>
 </entry>
 </superEntry>

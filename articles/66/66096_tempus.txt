@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tempus</orth>
 <inflection><orth>tempuset, tempora</orth></inflection>
-<u>грам.</u> глагольное время
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глагольное время</text></cit>
 </sense>
 </entry>
 </superEntry>

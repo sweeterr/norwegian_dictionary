@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-морская пена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская пена</text></cit>
 </sense>
 <sense>
-пена, слюна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пена, слюна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">fråde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-пениться, покрываться пеной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пениться, покрываться пеной</text></cit>
 </sense>
 </entry>
 </superEntry>

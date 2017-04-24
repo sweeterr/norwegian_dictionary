@@ -7,14 +7,14 @@
 <gramGrp><pos>konj</pos></gramGrp>
 </form>
 <sense>
-и (соединительный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>и (соединительный)</text></cit>
 <сit type="example"><text>både ... og ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и ... и ..., как ... так и ...</text></cit></cit>
 <сit type="example"><text>og så videre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и так далее</text></cit></cit>
 <сit type="example"><text>og det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а именно, и притом</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><pos>adj</pos></gramGrp>
- (противительный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(противительный)</text></cit>
 <сit type="example"><text>du skal skrive og ikke lese</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тебе надо писать, а не читать</text></cit></cit>
 </sense>
 </entry>
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">og</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- (при положении в конце синтагмы или предложения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(при положении в конце синтагмы или предложения)</text></cit>
 также, тоже
 </sense>
 </entry>

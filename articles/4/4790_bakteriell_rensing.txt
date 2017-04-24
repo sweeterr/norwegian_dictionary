@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakteriell rensing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-микробиологическая очистка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>микробиологическая очистка</text></cit>
 </sense>
 </entry>
 </superEntry>

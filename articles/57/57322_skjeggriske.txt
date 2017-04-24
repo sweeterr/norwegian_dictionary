@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjeggriske</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>бот.</u> волнушка розовая
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнушка розовая</text></cit>
 </sense>
 </entry>
 </superEntry>

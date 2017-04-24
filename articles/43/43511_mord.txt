@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-убийство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убийство</text></cit>
 <сit type="example"><text>et grusomt (nederdrektig) mord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жестокое (подлое, гнусное) убийство</text></cit></cit>
 <сit type="example"><text>begå et mord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить убийство</text></cit></cit>
 <сit type="example"><text>begå mord på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убить кого-л.</text></cit></cit>

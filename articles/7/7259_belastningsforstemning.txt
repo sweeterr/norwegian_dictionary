@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningsforstemning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> величина затягивания частоты, коэффициент затягивания частоты
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>величина затягивания частоты, коэффициент затягивания частоты</text></cit>
 </sense>
 </entry>
 </superEntry>

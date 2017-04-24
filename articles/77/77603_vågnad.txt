@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vågnad</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-риск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риск</text></cit>
 </sense>
 <sense>
-рискованный поступок, рискованное предприятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рискованный поступок, рискованное предприятие</text></cit>
 </sense>
 </entry>
 </superEntry>

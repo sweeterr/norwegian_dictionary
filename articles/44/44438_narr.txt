@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
 </form>
 <sense>
-дурак, глупец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дурак, глупец</text></cit>
 <сit type="example"><text>din lille narr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дурачок</text></cit></cit>
 <сit type="example"><text>en lærd narr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учёный дурак</text></cit></cit>
 <сit type = "example"><text>gjøre narr av Enenen —:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> высмеивать кого-л., подымать на смех</text></cit></cit>
@@ -18,7 +18,8 @@
 <сit type="example"><text>gjøre seg til narr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>валять дурака</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> шут (при королевском дворе)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шут (при королевском дворе)</text></cit>
 </sense>
 </entry>
 </superEntry>

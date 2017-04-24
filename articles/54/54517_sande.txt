@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sande</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-посыпать песком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посыпать песком</text></cit>
 <сit type="example"><text>sande(s) til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться песком</text></cit></cit>
 </sense>
 </entry>

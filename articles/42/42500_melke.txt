@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">melke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-молоки (рыб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молоки (рыб)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-доить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доить</text></cit>
 </sense>
 <sense>
-доиться, давать молоко (о корове, козе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доиться, давать молоко (о корове, козе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
-публика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>публика</text></cit>
 <сit type="example"><text>fast publikum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>постоянные покупатели, завсегдатаи</text></cit></cit>
 <сit type="example"><text>det store publikum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>широкая публика, широкие слой населения</text></cit></cit>
 <сit type="example"><text>et utsøkt publikum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изысканная публика</text></cit></cit>
 </sense>
 <sense>
-зрители
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрители</text></cit>
 </sense>
 </entry>
 </superEntry>

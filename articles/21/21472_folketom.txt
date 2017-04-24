@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">folketom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безлюдный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безлюдный</text></cit>
 </sense>
 </entry>
 </superEntry>

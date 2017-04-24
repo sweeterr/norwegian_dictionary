@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">røret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-несвязный, бессвязный (о речи, словах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несвязный, бессвязный (о речи, словах)</text></cit>
 </sense>
 <sense>
-взбалмошный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взбалмошный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

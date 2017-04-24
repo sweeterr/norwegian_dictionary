@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mellomtid</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-промежуток, отрезок времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промежуток, отрезок времени</text></cit>
 <сit type="example"><text>mellomtida</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>между тем, тем временем</text></cit></cit>
 </sense>
 </entry>

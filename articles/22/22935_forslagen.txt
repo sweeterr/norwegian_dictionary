@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">forslagen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u> хитрый, пронырливый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый, пронырливый</text></cit>
 </sense>
 </entry>
 </superEntry>

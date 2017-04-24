@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-север
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>север</text></cit>
 <сit type="example"><text>fra nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с севера</text></cit></cit>
 <сit type="example"><text>i nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на севере</text></cit></cit>
 <сit type="example"><text>mot nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к северу</text></cit></cit>
 <сit type="example"><text>stå mot nord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> держать курс на север</text></cit></cit>
 </sense>
 <sense>
-<u>собир.</u> северные (скандинавские) страны
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северные (скандинавские) страны</text></cit>
 </sense>
 <sense>
-северные области страны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северные области страны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,7 +26,7 @@
 <form>
 <orth type="lemma">nord</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-на север, к северу, в северном направлении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на север, к северу, в северном направлении</text></cit>
 <сit type="example"><text>nord for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>севернее, к северу от</text></cit></cit>
 <сit type="example"><text>nord og ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в преисподнюю</text></cit></cit>
 <сit type="example"><text>det går nord og ned med det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё идёт шиворот-навыворот (кувырком)</text></cit></cit>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">utrulig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-необычный, необычайный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необычный, необычайный</text></cit>
 </sense>
 <sense>
-невероятный, неправдоподобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невероятный, неправдоподобный</text></cit>
 </sense>
 <sense>
-фантастический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фантастический</text></cit>
 <ref>utrolig</ref>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">linjedamper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> пассажирский пароход, совершающий регулярные рейсы
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пассажирский пароход, совершающий регулярные рейсы</text></cit>
 </sense>
 </entry>
 </superEntry>

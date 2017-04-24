@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">plagsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мучительный, тягостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мучительный, тягостный</text></cit>
 </sense>
 <sense>
-надоедливый, навязчивый (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надоедливый, навязчивый (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

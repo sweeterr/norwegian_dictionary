@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sup</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-глоток вина, рюмка водки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток вина, рюмка водки</text></cit>
 </sense>
 <sense>
-дымоход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымоход</text></cit>
 </sense>
 </entry>
 </superEntry>

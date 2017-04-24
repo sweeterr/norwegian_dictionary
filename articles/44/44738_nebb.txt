@@ -7,25 +7,27 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-клюв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клюв</text></cit>
 <сit type="example"><text>sette seg imot noe med nebb og klør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всячески сопротивляться чему-л., бороться всеми возможными средствами против чего-л.</text></cit></cit>
 </sense>
 <sense>
-<u>шутл.</u> или <u>ирон.</u> рот, нос
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>или <lbl>ирон.</lbl> рот, нос</text></cit>
 <сit type="example"><text>stikke nebbet fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать себя дерзко (нагло)</text></cit></cit>
 <сit type="example"><text>henge med nebbet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повесить голову ( <lbl>перен.</lbl> )</text></cit></cit>
 </sense>
 <sense>
-носик (чайника, кофейника)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носик (чайника, кофейника)</text></cit>
 </sense>
 <sense>
-носок (ботинка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носок (ботинка)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> дерзкая девушка (женщина)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дерзкая девушка (женщина)</text></cit>
 </sense>
 <sense>
-горный пик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горный пик</text></cit>
 </sense>
 </entry>
 </superEntry>

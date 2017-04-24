@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rangle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-погремушка (игрушка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погремушка (игрушка)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,16 +13,16 @@
 <form>
 <orth type="lemma">rangle</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-брести шатаясь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брести шатаясь</text></cit>
 </sense>
 <sense>
-бродить, слоняться без дела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродить, слоняться без дела</text></cit>
 </sense>
 <sense>
-кутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,10 +32,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-издавать звон, звенеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издавать звон, звенеть</text></cit>
 </sense>
 <sense>
-греметь (о каком-л. предмете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>греметь (о каком-л. предмете)</text></cit>
 </sense>
 </entry>
 </superEntry>

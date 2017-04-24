@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-катушка, бобина, шпуля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катушка, бобина, шпуля</text></cit>
 </sense>
 <sense>
-<u>разг.</u> толстушка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстушка</text></cit>
 </sense>
 <sense>
-<u>текст.</u> цевка
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цевка</text></cit>
 </sense>
 <sense>
-<u>эл.</u> ролик-изолятор
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ролик-изолятор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +27,8 @@
 <form>
 <orth type="lemma">snelle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> хвощ
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвощ</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +36,7 @@
 <form>
 <orth type="lemma">snelle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-наматывать на катушку (шпульку, бобину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наматывать на катушку (шпульку, бобину)</text></cit>
 </sense>
 </entry>
 </superEntry>

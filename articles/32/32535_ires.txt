@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ires</orth>
 <inflection><orth extent="part">-tes, -tes</orth></inflection>
-<u>диал.</u> беспокоиться, тревожиться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоиться, тревожиться</text></cit>
 </sense>
 </entry>
 </superEntry>

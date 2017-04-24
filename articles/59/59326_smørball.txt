@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smørball</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> купальница
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купальница</text></cit>
 </sense>
 </entry>
 </superEntry>

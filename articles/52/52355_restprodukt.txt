@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">restprodukt</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>эк.</u> побочный (остаточный) продукт
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побочный (остаточный) продукт</text></cit>
 </sense>
 </entry>
 </superEntry>

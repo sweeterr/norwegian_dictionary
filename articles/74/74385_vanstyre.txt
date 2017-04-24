@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vanstyre</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-плохое управление (руководство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохое управление (руководство)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vanstyre</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-плохо (бесхозяйственно) управлять (руководить)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохо (бесхозяйственно) управлять (руководить)</text></cit>
 </sense>
 </entry>
 </superEntry>

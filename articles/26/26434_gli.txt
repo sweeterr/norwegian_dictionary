@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gli</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-скольжение, скользящее движение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скольжение, скользящее движение</text></cit>
 <сit type = "example"><text>komme på gli :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приходить в движение, начинать двигаться</text></cit></cit>
 <сit type = "example"><text>komme på gli :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заговорить, начать рассказывать</text></cit></cit>
 <сit type = "example"><text>få (hjelpe, sette) på gli :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заставить заговорить</text></cit></cit>
@@ -19,22 +19,22 @@
 <inflection><orth>gled (glei, gleid), glidd</orth></inflection>
 </form>
 <sense>
-скользить, катиться (о санях, лыжах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользить, катиться (о санях, лыжах)</text></cit>
 </sense>
 <sense>
-плыть, проплывать (по воде, воздуху), парить, плавно двигаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, проплывать (по воде, воздуху), парить, плавно двигаться</text></cit>
 </sense>
 <sense>
-проходить, течь (о жизни, времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходить, течь (о жизни, времени)</text></cit>
 </sense>
 <sense>
-касаться (чего-л. в разговоре - om)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться (чего-л. в разговоре - om)</text></cit>
 </sense>
 <sense>
-уноситься (о мыслях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уноситься (о мыслях)</text></cit>
 </sense>
 <sense>
-поскользнуться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поскользнуться</text></cit>
 <сit type="example"><text>gli bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ускользнуть, выскользнуть</text></cit></cit>
 <сit type="example"><text>gli forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проскользнуть мимо, проплыть мимо</text></cit></cit>
 <сit type="example"><text>gli fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> отдаляться от кого-л.</text></cit></cit>

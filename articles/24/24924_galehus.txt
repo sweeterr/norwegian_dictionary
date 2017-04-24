@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">galehus</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>разг.</u> сумасшедший дом
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший дом</text></cit>
 <сit type="example"><text>komme på galehus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в сумасшедший дом</text></cit></cit>
 </sense>
 </entry>

@@ -5,10 +5,12 @@
 <form>
 <orth type="lemma">led</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> <u>уст.</u> курс корабля
+<usg>мор.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс корабля</text></cit>
 <сit type="example"><text>seile indre (ytre) led</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти во внутренних (внешних) шхерах</text></cit></cit>
 <сit type="example"><text>være godt kjent i leden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>известный в округе</text></cit></cit>
-см. тж. lei I
+<ref>тж. lei I</ref>
 </sense>
 </entry>
 <entry>
@@ -16,7 +18,7 @@
 <form>
 <orth type="lemma">led</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. ledd I
+<ref>ledd I</ref>
 </sense>
 </entry>
 <entry>
@@ -24,7 +26,7 @@
 <form>
 <orth type="lemma">led</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- см. lei II
+<ref>lei II</ref>
 </sense>
 </entry><entry>
 <index></index>
@@ -41,10 +43,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-калитка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>калитка</text></cit>
 </sense>
 <sense>
-проход (проезд), закрываемый жердью (слегой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проход (проезд), закрываемый жердью (слегой)</text></cit>
 </sense>
 </entry>
 </superEntry>

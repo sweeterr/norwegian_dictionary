@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kver(r)isette</orth>
 <inflection><orth extent="part">-satte, -satt</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-задержать, арестовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержать, арестовать</text></cit>
 </sense>
 <sense>
-наложить арест
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наложить арест</text></cit>
 </sense>
 </entry>
 </superEntry>

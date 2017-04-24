@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pil</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-ива
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ива</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-стрела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрела</text></cit>
 </sense>
 <sense>
-стрелка, указатель (дорожный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка, указатель (дорожный)</text></cit>
 </sense>
 <sense>
-шпилька (для волос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпилька (для волос)</text></cit>
 </sense>
 </entry>
 </superEntry>

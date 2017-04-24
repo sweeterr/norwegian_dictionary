@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vannsystem</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>геогр.</u> водная система (страны)
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водная система (страны)</text></cit>
 </sense>
 </entry>
 </superEntry>

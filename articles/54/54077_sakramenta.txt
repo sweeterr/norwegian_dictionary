@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sakramenta</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-священный, сакраментальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>священный, сакраментальный</text></cit>
 </sense>
 </entry>
 </superEntry>

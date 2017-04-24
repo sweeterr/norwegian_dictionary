@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">selvhjulpen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-самостоятельный, обходящийся своими силами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самостоятельный, обходящийся своими силами</text></cit>
 </sense>
 <sense>
-независимый (экономически)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>независимый (экономически)</text></cit>
 </sense>
 </entry>
 </superEntry>

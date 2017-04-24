@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-блистать, красоваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блистать, красоваться</text></cit>
 <сit type="example"><text>prange med (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щеголять (чем-л.)</text></cit></cit>
 </sense>
 <sense>
-пускать пыль в глаза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пускать пыль в глаза</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">prange</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-торговаться, заключать сделку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговаться, заключать сделку</text></cit>
 </sense>
 <sense>
-барышничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барышничать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +33,8 @@
 <form>
 <orth type="lemma">prange</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> идти на всех парусах
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти на всех парусах</text></cit>
 </sense>
 </entry>
 </superEntry>

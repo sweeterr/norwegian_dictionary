@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">åndfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-остроумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остроумный</text></cit>
 </sense>
 <sense>
-умный, одухотворённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умный, одухотворённый</text></cit>
 </sense>
 </entry>
 </superEntry>

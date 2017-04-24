@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">paterfamilias</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>шутл.</u> отец семейства
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отец семейства</text></cit>
 </sense>
 </entry>
 </superEntry>

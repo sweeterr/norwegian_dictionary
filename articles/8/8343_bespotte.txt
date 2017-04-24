@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bespotte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-насмехаться, издеваться (над чем-л.), высмеивать (что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насмехаться, издеваться (над чем-л.), высмеивать (что-л.)</text></cit>
 </sense>
 <sense>
-богохульствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богохульствовать</text></cit>
 </sense>
 </entry>
 </superEntry>

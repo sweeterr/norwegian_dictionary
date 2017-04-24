@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-делить на квадраты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делить на квадраты</text></cit>
 </sense>
 <sense>
-<u>мат.</u> возводить в квадрат
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возводить в квадрат</text></cit>
 </sense>
 <sense>
-<u>мат.</u> определять площадь плоскости
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определять площадь плоскости</text></cit>
 </sense>
 </entry>
 </superEntry>

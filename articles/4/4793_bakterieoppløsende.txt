@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakterieoppløsende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мед.</u> бактериолитический
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бактериолитический</text></cit>
 </sense>
 </entry>
 </superEntry>

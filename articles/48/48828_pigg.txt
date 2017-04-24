@@ -7,26 +7,28 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-остриё (колющее)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остриё (колющее)</text></cit>
 </sense>
 <sense>
-гвоздь, шпилька (сапожная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гвоздь, шпилька (сапожная)</text></cit>
 </sense>
 <sense>
-острый выступ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый выступ</text></cit>
 </sense>
 <sense>
-горный пик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горный пик</text></cit>
 </sense>
 <sense>
-колючка, шип, игла (растения или животного)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колючка, шип, игла (растения или животного)</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> щетина (на лице)
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щетина (на лице)</text></cit>
 <сit type="example"><text>vende piggene ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ощетиниться <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> ахтерпик
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ахтерпик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +36,7 @@
 <form>
 <orth type="lemma">pigg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-расположенный (к чему-л.), настроенный (на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расположенный (к чему-л.), настроенный (на что-л.)</text></cit>
 <сit type="example"><text>pigg på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>склонный к чему-л., стремящийся к чему-л.</text></cit></cit>
 </sense>
 </entry>

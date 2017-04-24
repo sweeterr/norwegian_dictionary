@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomlanding</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ав.</u> промежуточная посадка
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промежуточная посадка</text></cit>
 </sense>
 </entry>
 </superEntry>

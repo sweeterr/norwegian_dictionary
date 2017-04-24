@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">skummel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тёмный, мрачный, слабо освещенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный, мрачный, слабо освещенный</text></cit>
 </sense>
 <sense>
-сумрачный (о времени дня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумрачный (о времени дня)</text></cit>
 </sense>
 <sense>
-тайный, скрытый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайный, скрытый</text></cit>
 </sense>
 <sense>
-неприятный, отталкивающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятный, отталкивающий</text></cit>
 </sense>
 <sense>
-враждебно настроенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>враждебно настроенный</text></cit>
 </sense>
 </entry>
 </superEntry>

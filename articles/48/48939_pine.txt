@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-мука, мучение, терзание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мука, мучение, терзание</text></cit>
 <сit type="example"><text>gjøre pine n kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро справиться с трудностями (преодолеть трудности)</text></cit></cit>
 <сit type="example"><text>være til pine og plage for alle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>досаждать (надоедать) всем</text></cit></cit>
 </sense>
 <sense>
-боль, страдание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боль, страдание</text></cit>
 <сit type="example"><text>død og pine!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> чёрт подери!</text></cit></cit>
 </sense>
 </entry>
@@ -23,18 +23,18 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-мучить, подвергать мучениям
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мучить, подвергать мучениям</text></cit>
 <сit type="example"><text>pine livet av én, pine én til døde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замучить до смерти</text></cit></cit>
 </sense>
 <sense>
-терзать, сильно огорчать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терзать, сильно огорчать</text></cit>
 </sense>
 <sense>
-пытать, подвергать пыткам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пытать, подвергать пыткам</text></cit>
 <сit type="example"><text>pine og plage Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> отравлять существование кому-л.</text></cit></cit>
 </sense>
 <sense>
-заставлять, принуждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять, принуждать</text></cit>
 <сit type="example"><text>pine sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наскрести с трудом (о деньгах)</text></cit></cit>
 <сit type="example"><text>pine ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высасывать все соки, истощать</text></cit></cit>
 </sense>

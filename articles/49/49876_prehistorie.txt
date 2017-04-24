@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prehistorie</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-предыстория
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предыстория</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">røste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-выжигать вредные примеси (из руды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выжигать вредные примеси (из руды)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-подавать (повышать) голос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавать (повышать) голос</text></cit>
 </sense>
 <sense>
-голосовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голосовать</text></cit>
 </sense>
 </entry>
 </superEntry>

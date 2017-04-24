@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">diger</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-толстый, плотный, полный, массивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый, плотный, полный, массивный</text></cit>
 </sense>
 <sense>
-большой (о шагах, аппетите)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой (о шагах, аппетите)</text></cit>
 </sense>
 <sense>
-многочисленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многочисленный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">anklage</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-обвинение, жалоба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвинение, жалоба</text></cit>
 <сit type="example"><text>rette anklager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвинуть обвинения, обвинить (кого-л. —mot)</text></cit></cit>
 <сit type="example"><text>sette under anklage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обвинить (кого-л.)</text></cit></cit>
 </sense>
@@ -17,13 +17,14 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-обвинять, упрекать (в чём-л.— for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвинять, упрекать (в чём-л.— for)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> предъявлять иск
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять иск</text></cit>
 </sense>
 <sense>
-жаловаться, подавать жалобу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаловаться, подавать жалобу</text></cit>
 </sense>
 </entry>
 </superEntry>

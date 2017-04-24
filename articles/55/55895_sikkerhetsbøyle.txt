@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sikkerhetsbøyle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> предохранительная скоба
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предохранительная скоба</text></cit>
 </sense>
 </entry>
 </superEntry>

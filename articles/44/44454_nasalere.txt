@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nasalere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>фон.</u> назализировать
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назализировать</text></cit>
 </sense>
 </entry>
 </superEntry>

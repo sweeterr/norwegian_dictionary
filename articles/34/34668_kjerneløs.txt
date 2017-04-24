@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">kjerneløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бескосточковый (о фрукте), не имеющий ядра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бескосточковый (о фрукте), не имеющий ядра</text></cit>
 </sense>
 <sense>
-бессодержательный, пустой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессодержательный, пустой</text></cit>
 </sense>
 </entry>
 </superEntry>

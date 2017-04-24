@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lokativ</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>грам.</u> локатив, местный падеж
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локатив, местный падеж</text></cit>
 </sense>
 </entry>
 </superEntry>

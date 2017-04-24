@@ -7,13 +7,13 @@
 </form>
 <sense>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-действие желудка, стул
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действие желудка, стул</text></cit>
 <сit type="example"><text>løs (tynn) avføring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понос</text></cit></cit>
 <сit type="example"><text>hård avføring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запор</text></cit></cit>
 </sense>
 <sense>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-испражнения, экскременты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испражнения, экскременты</text></cit>
 </sense>
 </entry>
 </superEntry>

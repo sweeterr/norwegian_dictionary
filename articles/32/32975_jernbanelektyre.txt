@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jernbanelektyre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>разг.</u> лёгкое чтение (в поезде)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкое чтение (в поезде)</text></cit>
 </sense>
 </entry>
 </superEntry>

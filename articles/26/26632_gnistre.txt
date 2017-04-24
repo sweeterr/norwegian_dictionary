@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-искриться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искриться</text></cit>
 </sense>
 <sense>
-играть разноцветными огнями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть разноцветными огнями</text></cit>
 <сit type="example"><text>det gnistrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>блестит, поблёскивает</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> сверкать (о глазах), метать искры
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверкать (о глазах), метать искры</text></cit>
 <сit type="example"><text>gnistre av sinne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метать искры (от гнева, ярости)</text></cit></cit>
 <сit type="example"><text>så det gnistrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так что искры летят во все стороны</text></cit></cit>
 </sense>
@@ -24,7 +25,7 @@
 <form>
 <orth type="lemma">gnistre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-скрипеть, поскрипывать (о снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрипеть, поскрипывать (о снеге)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">danisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>лингв.</u> слово (выражение), заимствованное из датского языка, данизм
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слово (выражение), заимствованное из датского языка, данизм</text></cit>
 </sense>
 </entry>
 </superEntry>

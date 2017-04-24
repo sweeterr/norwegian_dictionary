@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
 </form>
 <sense>
-<u>ист.</u> совет (выборный государственный орган в Советском Союзе)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совет (выборный государственный орган в Советском Союзе)</text></cit>
 <сit type="example"><text>Sovjet-Unionens Øverste Sovjet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Верховный Совет СССР</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> Sovjet <u>разг.</u> Советский Союз
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Sovjet <lbl>разг.</lbl> Советский Союз</text></cit>
 </sense>
 </entry>
 </superEntry>

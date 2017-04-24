@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-протест
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протест</text></cit>
 <сit type="example"><text>en skarp protest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>резкий протест</text></cit></cit>
 <сit type="example"><text>nedlegge (reise) protest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заявить протест, опротестовать</text></cit></cit>
 </sense>
 <sense>
-опротестование (векселя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опротестование (векселя)</text></cit>
 </sense>
 </entry>
 </superEntry>

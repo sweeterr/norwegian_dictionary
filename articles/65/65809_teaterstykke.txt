@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teaterstykke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-театральная пьеса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральная пьеса</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,27 +7,31 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-рулон (бумаги), свёрток, пачка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рулон (бумаги), свёрток, пачка</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-катки (для перекатывания тяжёлых предметов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катки (для перекатывания тяжёлых предметов)</text></cit>
 </sense>
 <sense>
-машина для катания белья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>машина для катания белья</text></cit>
 </sense>
 <sense>
-<u>тех.</u> дорожный каток
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорожный каток</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> полевой каток
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полевой каток</text></cit>
 </sense>
 <sense>
-<u>воен.</u> список, реестр (военнообязанных)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>список, реестр (военнообязанных)</text></cit>
 <сit type="example"><text>stå i rullene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>числиться в списках; состоять в списке</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> судовая роль
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судовая роль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,40 +41,41 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-катить, перекатывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катить, перекатывать</text></cit>
 </sense>
 <sense>
-катиться, перекатываться (о волнах), волноваться (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катиться, перекатываться (о волнах), волноваться (о море)</text></cit>
 </sense>
 <sense>
-вращаться, вертеться (вокруг собственной оси)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращаться, вертеться (вокруг собственной оси)</text></cit>
 </sense>
 <sense>
-скатывать (ковры, настенные карты и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скатывать (ковры, настенные карты и т. п.)</text></cit>
 </sense>
 <sense>
-катать, раскатывать (бельё)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катать, раскатывать (бельё)</text></cit>
 </sense>
 <sense>
-скатиться, покатиться, упасть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скатиться, покатиться, упасть</text></cit>
 </sense>
 <sense>
-заворачивать, завёртывать (тж. rulle inn)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заворачивать, завёртывать (тж. rulle inn)</text></cit>
 </sense>
 <sense>
-укатывать (дорогу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укатывать (дорогу)</text></cit>
 </sense>
 <sense>
-раскатывать (тесто, тж. rulle ut)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскатывать (тесто, тж. rulle ut)</text></cit>
 </sense>
 <sense>
-быстро проходить (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстро проходить (о времени)</text></cit>
 </sense>
 <sense>
-греметь, грохотать (о громе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>греметь, грохотать (о громе)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> идти, катиться (о танках)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти, катиться (о танках)</text></cit>
 <сit type = "example"><text>rulle inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заворачивать, завёртывать</text></cit></cit>
 <сit type = "example"><text>rulle inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прибывать (о поезде)</text></cit></cit>
 <сit type="example"><text>rulle forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проходить, уходить (о годах, времени)</text></cit></cit>

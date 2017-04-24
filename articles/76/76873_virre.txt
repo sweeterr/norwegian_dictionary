@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">virre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-проволочный канатик (тросик) с нитяной обмоткой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проволочный канатик (тросик) с нитяной обмоткой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-вертеть, вращать, крутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертеть, вращать, крутить</text></cit>
 </sense>
 <sense>
-мотать, наматывать, накручивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мотать, наматывать, накручивать</text></cit>
 </sense>
 <sense>
-метаться, бросаться из стороны в сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метаться, бросаться из стороны в сторону</text></cit>
 <сit type="example"><text>virre seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вертеться, вращаться, крутиться</text></cit></cit>
 </sense>
 </entry>
@@ -32,11 +32,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-качаться, раскачиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, раскачиваться</text></cit>
 <сit type="example"><text>virre med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>махать, размахивать (чем-л.)</text></cit></cit>
 </sense>
 <sense>
-дрожать, колебаться, вибрировать (о воздухе, свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожать, колебаться, вибрировать (о воздухе, свете)</text></cit>
 </sense>
 </entry>
 </superEntry>

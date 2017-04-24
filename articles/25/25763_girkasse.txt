@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">girkasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> коробка скоростей, коробка передач
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коробка скоростей, коробка передач</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dolk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кинжал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кинжал</text></cit>
 <сit type="example"><text>dra en dolk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выхватить кинжал (из ножен)</text></cit></cit>
 <сit type="example"><text>med dragen dolk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с обнажённым кинжалом</text></cit></cit>
 </sense>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">langsville</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ж.-д.</u> продольная (металлическая) шпала
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продольная (металлическая) шпала</text></cit>
 </sense>
 </entry>
 </superEntry>

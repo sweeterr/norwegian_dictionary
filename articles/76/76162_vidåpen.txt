@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">vidåpen</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-широко раскрытый, распахнутый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широко раскрытый, распахнутый</text></cit>
 </sense>
 <sense>
-открытый, легко доступный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытый, легко доступный</text></cit>
 </sense>
 </entry>
 </superEntry>

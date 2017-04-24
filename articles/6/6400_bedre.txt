@@ -8,17 +8,17 @@
 <gramGrp><note>komp — от god, bra I</note></gramGrp>
 </form>
 <sense>
-лучший, более ценный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучший, более ценный</text></cit>
 </sense>
 <sense>
-более здоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>более здоровый</text></cit>
 <сit type="example"><text>bli bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выздоравливать, поправляться</text></cit></cit>
 </sense>
 <sense>
-более лёгкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>более лёгкий</text></cit>
 </sense>
 <sense>
-более знатный (о происхождении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>более знатный (о происхождении)</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> en bedre middag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плотный обед</text></cit></cit>
@@ -31,7 +31,7 @@
 <orth type="lemma">bedre</orth>
 <gramGrp><pos>adv</pos></gramGrp>
 <gramGrp><note>komp от godt, bra II</note></gramGrp>
-лучше
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучше</text></cit>
 <сit type="example"><text>dess (desto) bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем лучше</text></cit></cit>
 <сit type="example"><text>bedre sent enn aldri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> лучше поздно, чем никогда</text></cit></cit>
 <сit type="example"><text>det går ham nå bedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>теперь ему лучше</text></cit></cit>
@@ -44,12 +44,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-улучшать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>улучшать</text></cit>
 <сit type = "example"><text>Gud bedre det! :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дай бог!</text></cit></cit>
 <сit type = "example"><text>Gud bedre det! :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упаси бог!</text></cit></cit>
 </sense>
 <sense>
-исправлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исправлять</text></cit>
 </sense>
 </entry>
 </superEntry>

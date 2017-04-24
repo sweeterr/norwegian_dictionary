@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-минута (тж. <u>астр.</u>, <u>мат.</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>минута (тж. <lbl>астр.</lbl>, <lbl>мат.</lbl> )</text></cit>
 <сit type="example"><text>hvert tiende minutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(через) каждые десять минут</text></cit></cit>
 <сit type="example"><text>på minuttet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>минута в минуту, как раз вовремя</text></cit></cit>
 </sense>
 <sense>
-мгновение, момент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мгновение, момент</text></cit>
 <сit type="example"><text>unnskyld et minutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одну минутку (восклицание)</text></cit></cit>
 <сit type="example"><text>(like) på minuttet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немедленно, сейчас же</text></cit></cit>
 </sense>

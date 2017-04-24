@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-пряжа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пряжа</text></cit>
 </sense>
 <sense>
-паутина, сеть <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паутина, сеть <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-занос в сторону (автомашины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занос в сторону (автомашины)</text></cit>
 </sense>
 <sense>
-<u>ав.</u> штопор
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штопор</text></cit>
 <сit type="example"><text>gå (komme) i spinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>входить в штопор</text></cit></cit>
 </sense>
 </entry>

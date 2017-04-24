@@ -6,7 +6,8 @@
 <orth type="lemma">hausse</orth>
 <phon>|hos:|</phon>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>эк.</u> повышение (курса ценных бумаг)
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повышение (курса ценных бумаг)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +16,8 @@
 <orth type="lemma">hausse</orth>
 <phon>|'hos:ə|</phon>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>эк.</u> спекулировать на повышение (курса ценных бумаг)
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спекулировать на повышение (курса ценных бумаг)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +25,8 @@
 <form>
 <orth type="lemma">hausse</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> орать, вопить
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орать, вопить</text></cit>
 </sense>
 </entry>
 </superEntry>

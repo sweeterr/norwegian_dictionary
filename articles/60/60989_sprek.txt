@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sprek</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-живой, подвижный, энергичный, бодрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой, подвижный, энергичный, бодрый</text></cit>
 </sense>
 <sense>
-сильный, здоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, здоровый</text></cit>
 </sense>
 </entry>
 </superEntry>

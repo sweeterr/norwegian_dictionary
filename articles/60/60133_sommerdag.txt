@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-летний день
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>летний день</text></cit>
 </sense>
 <sense>
-полярный день
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полярный день</text></cit>
 </sense>
 <sense>
-<u>астр.</u> день 14 апреля
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>день 14 апреля</text></cit>
 </sense>
 </entry>
 </superEntry>

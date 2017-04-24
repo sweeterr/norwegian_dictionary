@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">perforasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u>
+<usg>мед.</usg>
 </form>
 <sense>
-прободение, перфорация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прободение, перфорация</text></cit>
 </sense>
 <sense>
-прокол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокол</text></cit>
 </sense>
 </entry>
 </superEntry>

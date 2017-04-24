@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-траловая сеть, трал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>траловая сеть, трал</text></cit>
 </sense>
 <sense>
-траловый лов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>траловый лов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(один) замёт трала</quote>
+<text>(один) замёт трала</text>
 </cit>
 </sense>
 </entry>

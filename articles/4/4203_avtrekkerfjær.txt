@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avtrekkerfjær</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> пружина спускового крючка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пружина спускового крючка</text></cit>
 </sense>
 </entry>
 </superEntry>

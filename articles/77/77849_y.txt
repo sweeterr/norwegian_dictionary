@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-'en,-'er</orth></inflection>
 </form>
 <sense>
-двадцать пятая буква норвежского алфавита
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двадцать пятая буква норвежского алфавита</text></cit>
 </sense>
 <sense>
-<u>мат.</u> игрек, неизвестная величина
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игрек, неизвестная величина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">y</orth>
 <inflection><orth>ydde, ydd</orth></inflection>
-<u>диал.</u> см. yre II
+<usg>диал.</usg>
+<ref>yre II</ref>
 </sense>
 </entry>
 </superEntry>

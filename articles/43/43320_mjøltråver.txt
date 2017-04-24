@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">mjøltråver</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бродяга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродяга</text></cit>
 </sense>
 <sense>
-человек средних способностей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек средних способностей</text></cit>
 </sense>
 </entry>
 </superEntry>

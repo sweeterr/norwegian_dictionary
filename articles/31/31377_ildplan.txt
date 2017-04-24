@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ildplan</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> план огня, плановая таблица огня
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>план огня, плановая таблица огня</text></cit>
 </sense>
 </entry>
 </superEntry>

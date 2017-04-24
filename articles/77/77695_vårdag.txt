@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vårdag</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-весенний день
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весенний день</text></cit>
 <сit type="example"><text>vårdagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>день 17 мая (день Эйдсволльской конституции Норвегии)</text></cit></cit>
 </sense>
 </entry>

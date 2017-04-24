@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">trangpusten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-имеющий затруднённое дыхание, задыхающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий затруднённое дыхание, задыхающийся</text></cit>
 </sense>
 </entry>
 </superEntry>

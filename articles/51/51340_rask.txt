@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-мусор, отбросы, отходы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мусор, отбросы, отходы</text></cit>
 </sense>
 <sense>
-барахло, хлам (о вещи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барахло, хлам (о вещи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,31 +18,32 @@
 <form>
 <orth type="lemma">rask</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-быстрый, прыткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, прыткий</text></cit>
 </sense>
 <sense>
-проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проворный</text></cit>
 <сit type="example"><text>være rask på hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать всё быстро</text></cit></cit>
 </sense>
 <sense>
-поспешный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поспешный</text></cit>
 </sense>
 <sense>
-черновой, сделанный начерно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черновой, сделанный начерно</text></cit>
 5)смелый, отважный
 </sense>
 <sense>
-здоровый, сильный, крепкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый, сильный, крепкий</text></cit>
 </sense>
 <sense>
-<u>уст.</u> свежий (о ветре)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (о ветре)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> живой, весёлый (о мелодии)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой, весёлый (о мелодии)</text></cit>
 </sense>
 </entry>
 </superEntry>

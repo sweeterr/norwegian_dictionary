@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sameie</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-общая собственность, общинная земля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общая собственность, общинная земля</text></cit>
 <сit type="example"><text>ha noe i sameie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>владеть чем-л. сообща</text></cit></cit>
 </sense>
 </entry>

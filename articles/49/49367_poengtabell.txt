@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">poengtabell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> таблица, показывающая распределение мест по очкам
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таблица, показывающая распределение мест по очкам</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">birmansk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-бирманский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бирманский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">birmansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- бирманский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бирманский</text></cit>
 </sense>
 </entry>
 </superEntry>

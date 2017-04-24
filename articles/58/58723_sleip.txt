@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sleip</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> каток (для перевозки перетаскивания грузов)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каток (для перевозки перетаскивания грузов)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,13 @@
 <form>
 <orth type="lemma">sleip</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-скользкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользкий</text></cit>
 </sense>
 <sense>
-увёртливый, хитрый, неискренний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увёртливый, хитрый, неискренний</text></cit>
 </sense>
 </entry>
 </superEntry>

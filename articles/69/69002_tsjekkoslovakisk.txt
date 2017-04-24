@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tsjekkoslovakisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-чехословацкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чехословацкий</text></cit>
 </sense>
 </entry>
 </superEntry>

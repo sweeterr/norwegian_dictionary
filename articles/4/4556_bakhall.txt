@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakhall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> северный склон (откос), склон (откос), обращенный к северу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северный склон (откос), склон (откос), обращенный к северу</text></cit>
 </sense>
 </entry>
 </superEntry>

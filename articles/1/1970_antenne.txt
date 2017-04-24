@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>радио</u> антенна
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антенна</text></cit>
 </sense>
 <sense>
-усик, щупальце (у насекомых)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усик, щупальце (у насекомых)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-зажигать, зажечь (свечу, лампу, светильник)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажигать, зажечь (свечу, лампу, светильник)</text></cit>
 </sense>
 <sense>
-поджигать (что-л. )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поджигать (что-л. )</text></cit>
 </sense>
 </entry>
 </superEntry>

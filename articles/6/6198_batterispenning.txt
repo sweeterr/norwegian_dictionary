@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">batterispenning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-напряжение батареи, напряжение аккумулятора
-<u>эл.</u> nominell batterispenning - номинальное напряжение батареи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжение батареи, напряжение аккумулятора</text></cit>
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>nominell batterispenning - номинальное напряжение батареи</text></cit>
 </sense>
 </entry>
 </superEntry>

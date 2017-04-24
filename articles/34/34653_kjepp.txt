@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-тонкая палка, хворостина, ветка, прутик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкая палка, хворостина, ветка, прутик</text></cit>
 <сit type="example"><text>stikke kjepper i hjulene for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить кому-л. палки в колёса</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> посох
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посох</text></cit>
 </sense>
 <sense>
-спица (в колесе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спица (в колесе)</text></cit>
 <сit type="example"><text>det går som kjepper i hjul</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> г всё идёт как по маслу</text></cit></cit>
 </sense>
 </entry>

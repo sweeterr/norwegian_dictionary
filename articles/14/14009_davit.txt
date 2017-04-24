@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">davit</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> крамбол, фишбалка, шлюпбалка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крамбол, фишбалка, шлюпбалка</text></cit>
 </sense>
 </entry>
 </superEntry>

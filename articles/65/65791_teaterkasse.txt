@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teaterkasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-театральная касса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральная касса</text></cit>
 </sense>
 </entry>
 </superEntry>

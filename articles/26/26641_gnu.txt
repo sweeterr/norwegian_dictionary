@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gnu</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тереть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тереть</text></cit>
 </sense>
 <sense>
-скаредничать, скупиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скаредничать, скупиться</text></cit>
 <сit type="example"><text>gnu på skillingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трястись над каждой копейкой</text></cit></cit>
 <сit type="example"><text>gnu og arbeide</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работать упорно и систематически</text></cit></cit>
 <сit type="example"><text>gnu og gni</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>копить (деньги, имущество)</text></cit></cit>

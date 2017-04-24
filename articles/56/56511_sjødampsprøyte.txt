@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sjødampsprøyte</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> паровая пожарная помпа
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паровая пожарная помпа</text></cit>
 </sense>
 </entry>
 </superEntry>

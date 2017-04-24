@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sammenlikningsgrad</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> степень сравнения
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степень сравнения</text></cit>
 </sense>
 </entry>
 </superEntry>

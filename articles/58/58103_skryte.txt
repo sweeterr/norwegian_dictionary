@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skryte</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u> сухостойное дерево
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухостойное дерево</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth>skrøt (skrytte), skrytt</orth></inflection>
 </form>
 <sense>
-хвастаться, бахвалиться (чем-л. - av)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвастаться, бахвалиться (чем-л. - av)</text></cit>
 </sense>
 <sense>
-кричать (об осле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать (об осле)</text></cit>
 <сit type="example"><text>skryte opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расхваливать</text></cit></cit>
 </sense>
 </entry>

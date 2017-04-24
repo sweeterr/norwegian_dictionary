@@ -4,16 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">strie</orth>
-<inflection><orth extent="part">-n</orth></inflection>
-(
-<inflection><orth extent="part">-t</orth></inflection>
-)
+<inflection><orth extent="part">-n (-t)</orth></inflection>
 </form>
 <sense>
-мешковина, дерюга, грубая парусина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешковина, дерюга, грубая парусина</text></cit>
 </sense>
 <sense>
-<u>разг.</u> посконная (холщовая) рубашка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посконная (холщовая) рубашка</text></cit>
 </sense>
 </entry>
 </superEntry>

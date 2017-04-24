@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-заграница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заграница</text></cit>
 <сit type="example"><text>fra utlandet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за границы, из-за рубежа</text></cit></cit>
 <сit type="example"><text>i utlandet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за границей, за рубежом</text></cit></cit>
 <сit type="example"><text>til utlandet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за границу, за рубеж</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> «за рубежом», «иностранная хроника» (отдел в газете)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«за рубежом», «иностранная хроника» (отдел в газете)</text></cit>
 </sense>
 <sense>
-далёкая (заморская) страна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкая (заморская) страна</text></cit>
 </sense>
 </entry>
 </superEntry>

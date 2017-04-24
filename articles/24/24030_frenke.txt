@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">frenke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> двоюродная сестра, кузина
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двоюродная сестра, кузина</text></cit>
 </sense>
 </entry>
 </superEntry>

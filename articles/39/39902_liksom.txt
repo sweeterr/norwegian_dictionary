@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">liksom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-словно, как бы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словно, как бы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">liksom</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-так же как и, равно как и
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>так же как и, равно как и</text></cit>
 </sense>
 </entry>
 </superEntry>

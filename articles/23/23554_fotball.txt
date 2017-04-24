@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>спорт.</u> футбол
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>футбол</text></cit>
 <сit type="example"><text>spille (sparke) fotball</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в футбол</text></cit></cit>
 </sense>
 <sense>
-футбольный мяч
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>футбольный мяч</text></cit>
 </sense>
 </entry>
 </superEntry>

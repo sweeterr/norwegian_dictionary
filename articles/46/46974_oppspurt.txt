@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppspurt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> спурт
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спурт</text></cit>
 </sense>
 </entry>
 </superEntry>

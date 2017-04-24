@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bilramp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> шофёр-лихач, автолихач
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шофёр-лихач, автолихач</text></cit>
 </sense>
 </entry>
 </superEntry>

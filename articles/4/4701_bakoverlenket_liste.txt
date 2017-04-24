@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">bakoverlenket liste</orth>
-<u>комп.</u> обратный список (связный список, в котором следующий элемент указывает на предыдущий)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратный список (связный список, в котором следующий элемент указывает на предыдущий)</text></cit>
 </sense>
 </entry>
 </superEntry>

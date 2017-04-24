@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rise</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>миф.</u>
+<usg>миф.</usg>
 </form>
 <sense>
-горный тролль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горный тролль</text></cit>
 </sense>
 <sense>
-великан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>великан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-подниматься, вздыматься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подниматься, вздыматься</text></cit>
 </sense>
 <sense>
-всходить (о солнце)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всходить (о солнце)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +32,7 @@
 <form>
 <orth type="lemma">rise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-выпороть (высечь) розгой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпороть (высечь) розгой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,7 +40,7 @@
 <form>
 <orth type="lemma">rise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-подпирать лучинкой (горох, цветы и др. растения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпирать лучинкой (горох, цветы и др. растения)</text></cit>
 </sense>
 </entry>
 </superEntry>

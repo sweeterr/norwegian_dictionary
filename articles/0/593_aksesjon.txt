@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aksesjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> прирост, прибавление
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прирост, прибавление</text></cit>
 </sense>
 </entry>
 </superEntry>

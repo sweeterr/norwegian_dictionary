@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">svimen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> потерявший сознание, находящийся в обморочном состоянии
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потерявший сознание, находящийся в обморочном состоянии</text></cit>
 </sense>
 </entry>
 </superEntry>

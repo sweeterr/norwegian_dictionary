@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">motstilling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-противопоставление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противопоставление</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">motstilling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-расположение напротив (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расположение напротив (чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

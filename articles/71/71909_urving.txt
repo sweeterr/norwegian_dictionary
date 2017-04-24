@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">urving</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дрожь, озноб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожь, озноб</text></cit>
 </sense>
 <sense>
-недомогание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недомогание</text></cit>
 </sense>
 </entry>
 </superEntry>

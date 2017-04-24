@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">varpe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-кошельковый невод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кошельковый невод</text></cit>
 </sense>
 <sense>
-место замёта кошелькового невода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место замёта кошелькового невода</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,16 +21,20 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> производить замёт кошелькового невода
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производить замёт кошелькового невода</text></cit>
 </sense>
 <sense>
-<u>разг.</u> тащить, волочить
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тащить, волочить</text></cit>
 </sense>
 <sense>
-<u>текст.</u> сновать, ткать основу
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сновать, ткать основу</text></cit>
 </sense>
 <sense>
-<u>мор.</u> верповать, верповаться
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верповать, верповаться</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bodmeribrev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> письменный документ (контракт) о выдаче ссуды под залог судна или груза
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>письменный документ (контракт) о выдаче ссуды под залог судна или груза</text></cit>
 </sense>
 </entry>
 </superEntry>

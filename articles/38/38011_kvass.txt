@@ -5,26 +5,25 @@
 <form>
 <orth type="lemma">kvass</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-острый, отточенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый, отточенный</text></cit>
 </sense>
 <sense>
-сильный, резкий (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, резкий (о ветре)</text></cit>
 </sense>
 <sense>
-холодный (о воздухе, погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный (о воздухе, погоде)</text></cit>
 </sense>
 <sense>
-тяжёлый (о переживании, воспоминании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о переживании, воспоминании)</text></cit>
 </sense>
 <sense>
-острый, проницательный (о взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый, проницательный (о взгляде)</text></cit>
 </sense>
 <sense>
-резкий, критический (о замечании, словах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, критический (о замечании, словах)</text></cit>
 <ref>hvass</ref>
 </sense>
 </entry>

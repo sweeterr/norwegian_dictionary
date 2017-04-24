@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-грудь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грудь</text></cit>
 <сit type="example"><text>gi bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кормить грудью</text></cit></cit>
 <сit type="example"><text>få (ha, ta) bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сосать грудь</text></cit></cit>
 <сit type="example"><text>før (etter) brystet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до (после) кормления</text></cit></cit>
@@ -18,19 +18,22 @@
 <сit type="example"><text>slå seg for sitt bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить себя в грудь (в знак скорби или раскаяния)</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> сердце
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердце</text></cit>
 <сit type="example"><text>hennes bryst ville springe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её сердце было готово выпрыгнуть из груди</text></cit></cit>
 </sense>
 <sense>
-грудь (верхняя передняя часть одежды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грудь (верхняя передняя часть одежды)</text></cit>
 <сit type="example"><text>med stivt bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с накрахмаленной грудью</text></cit></cit>
 <сit type="example"><text>løst bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>манишка</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> нос (корабля, лодки), фасад (дома)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нос (корабля, лодки), фасад (дома)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> дека (струнного инструмента)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дека (струнного инструмента)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">postlinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> линия постов
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия постов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">postlinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-почтово-телеграфная линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтово-телеграфная линия</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tredjedagsfeber</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> лихорадка, повторяющаяся каждый третий день
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лихорадка, повторяющаяся каждый третий день</text></cit>
 </sense>
 </entry>
 </superEntry>

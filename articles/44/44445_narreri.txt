@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">narreri</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-дурачество, глупость, глупая выходка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дурачество, глупость, глупая выходка</text></cit>
 <сit type="example"><text>gjøre noe på narreri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> сделать что-л. ради шутки</text></cit></cit>
 </sense>
 </entry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">gjos</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дуновение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуновение</text></cit>
 </sense>
 <sense>
-холодный порыв ветра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный порыв ветра</text></cit>
 </sense>
 <sense>
-озноб, дрожь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озноб, дрожь</text></cit>
 </sense>
 </entry>
 </superEntry>

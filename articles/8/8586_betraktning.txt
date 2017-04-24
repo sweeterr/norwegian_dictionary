@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-рассматривание, разглядывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассматривание, разглядывание</text></cit>
 </sense>
 <sense>
-рассмотрение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассмотрение</text></cit>
 <сit type="example"><text>i betraktning av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учитывая, принимая во внимание</text></cit></cit>
 <сit type="example"><text>ved nærmere betraktning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при ближайшем рассмотрении</text></cit></cit>
 <сit type="example"><text>komme i betraktning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приниматься во внимание, учитываться</text></cit></cit>
@@ -19,12 +19,12 @@
 <сit type="example"><text>ta i betraktning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>учитывать, принимать во внимание</text></cit></cit>
 </sense>
 <sense>
-наблюдение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наблюдение</text></cit>
 <сit type="example"><text>anstille betraktninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>установить наблюдение</text></cit></cit>
 <сit type="example"><text>gjøre sine betraktninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>составить себе мнение (о чём-л.)</text></cit></cit>
 </sense>
 <sense>
-соображения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соображения</text></cit>
 </sense>
 </entry>
 </superEntry>

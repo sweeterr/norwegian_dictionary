@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">podekløft</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>с.-х.</u> расщеп (для черенка)
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расщеп (для черенка)</text></cit>
 </sense>
 </entry>
 </superEntry>

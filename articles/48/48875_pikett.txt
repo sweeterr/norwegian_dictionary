@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>воен.</u> сторожевая застава, пикет, караул, дозор
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторожевая застава, пикет, караул, дозор</text></cit>
 <сit type="example"><text>stå (være på) pikett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в дозоре</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> дозорное судно, корабль дозора
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дозорное судно, корабль дозора</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-законный, закономерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законный, закономерный</text></cit>
 </sense>
 <sense>
-правовой, юридический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правовой, юридический</text></cit>
 </sense>
 <sense>
-<u>диал.</u> правильный, верный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правильный, верный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,13 +22,13 @@
 <form>
 <orth type="lemma">rettelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-законно, по праву
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законно, по праву</text></cit>
 </sense>
 <sense>
-в самом деле
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в самом деле</text></cit>
 </sense>
 </entry>
 </superEntry>

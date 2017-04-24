@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">strikke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-верёвка, бечёвка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верёвка, бечёвка</text></cit>
 <сit type="example"><text>man skal ikke tale om strikke i hengt manns hus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в доме повешенного не говорят о верёвке</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">strikke</orth>
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
-вязать (чулки и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вязать (чулки и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ablativ</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> аблятив, творительный падеж
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аблятив, творительный падеж</text></cit>
 </sense>
 </entry>
 </superEntry>

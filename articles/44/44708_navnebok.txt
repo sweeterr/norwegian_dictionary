@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">navnebok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-книга регистрации приезжих (в гостинице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга регистрации приезжих (в гостинице)</text></cit>
 </sense>
 </entry>
 </superEntry>

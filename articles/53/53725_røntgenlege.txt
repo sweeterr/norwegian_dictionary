@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">røntgenlege</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-врач-рентгенолог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач-рентгенолог</text></cit>
 </sense>
 </entry>
 </superEntry>

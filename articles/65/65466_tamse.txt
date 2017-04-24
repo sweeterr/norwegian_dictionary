@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tamse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-жевать, медленно есть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жевать, медленно есть</text></cit>
 </sense>
 <sense>
-подыскивать слова, мямлить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подыскивать слова, мямлить</text></cit>
 </sense>
 </entry>
 </superEntry>

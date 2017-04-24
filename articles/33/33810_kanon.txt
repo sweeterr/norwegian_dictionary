@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kanon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-канон, правило
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>канон, правило</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kanon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пушка</text></cit>
 <сit type="example"><text>la en kanon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зарядить пушку</text></cit></cit>
 <сit type="example"><text>sikte inn en kanon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наводить пушку</text></cit></cit>
 <сit type="example"><text>skyte spurver med kanoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять из пушек по воробьям</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rentesrente</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>фин.</u> сложные проценты
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сложные проценты</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">useilbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-несудоходный (о реке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несудоходный (о реке)</text></cit>
 </sense>
 <sense>
-не окупающий себя при морских перевозках (о товаре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не окупающий себя при морских перевозках (о товаре)</text></cit>
 </sense>
 </entry>
 </superEntry>

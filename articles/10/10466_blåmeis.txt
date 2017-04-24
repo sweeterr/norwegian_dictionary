@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blåmeis</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> лазоревка обыкновенная
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лазоревка обыкновенная</text></cit>
 </sense>
 </entry>
 </superEntry>

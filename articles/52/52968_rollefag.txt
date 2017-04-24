@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rollefag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>театр.</u> амплуа
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амплуа</text></cit>
 </sense>
 </entry>
 </superEntry>

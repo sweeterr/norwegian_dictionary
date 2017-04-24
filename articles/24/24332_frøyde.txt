@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">frøyde</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-<u>диал.</u> пениться, покрываться пеной
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пениться, покрываться пеной</text></cit>
 </sense>
 </entry>
 </superEntry>

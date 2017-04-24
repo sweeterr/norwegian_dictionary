@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lensbesitter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ист.</u> феодал, сюзерен
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>феодал, сюзерен</text></cit>
 </sense>
 </entry>
 </superEntry>

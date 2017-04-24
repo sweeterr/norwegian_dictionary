@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-отклонение, уклонение (от правильного пути)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отклонение, уклонение (от правильного пути)</text></cit>
 </sense>
 <sense>
-<u>полит.</u> уклон
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уклон</text></cit>
 <сit type="example"><text>den høyre avvikelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>правый уклон</text></cit></cit>
 </sense>
 <sense>
-расхождение (во взглядах, мнениях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расхождение (во взглядах, мнениях)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> деривация
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деривация</text></cit>
 </sense>
 <sense>
-угол (величина) отклонения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол (величина) отклонения</text></cit>
 </sense>
 </entry>
 </superEntry>

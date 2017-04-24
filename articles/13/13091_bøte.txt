@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bøte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-штраф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штраф</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,17 +15,17 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-чинить, латать, класть заплаты, штопать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чинить, латать, класть заплаты, штопать</text></cit>
 </sense>
 <sense>
-исправлять (тж. bøte på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исправлять (тж. bøte på)</text></cit>
 </sense>
 <sense>
-возмещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмещать</text></cit>
 <сit type="example"><text>bøte med sitt liv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поплатиться жизнью, расплачиваться (за что-л. - for)</text></cit></cit>
 </sense>
 <sense>
-платить штраф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платить штраф</text></cit>
 </sense>
 </entry>
 </superEntry>

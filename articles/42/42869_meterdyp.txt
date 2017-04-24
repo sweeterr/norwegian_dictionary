@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">meterdyp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глубиной в один метр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубиной в один метр</text></cit>
 </sense>
 <sense>
-глубиной в несколько метров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубиной в несколько метров</text></cit>
 </sense>
 </entry>
 </superEntry>

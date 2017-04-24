@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">værdatter</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> невестка, сноха
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невестка, сноха</text></cit>
 </sense>
 </entry>
 </superEntry>

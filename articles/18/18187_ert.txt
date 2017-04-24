@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-горошина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горошина</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-горох
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горох</text></cit>
 <сit type="example"><text>grønne erter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зелёный горошек</text></cit></cit>
 <сit type="example"><text>tørrede erter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сушёный горох</text></cit></cit>
 <сit type="example"><text>det renner av ham som erter ut av en sekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> он говорит без умолку</text></cit></cit>

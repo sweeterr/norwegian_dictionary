@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fjamse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-беспечная, безрассудная женщина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспечная, безрассудная женщина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-действовать (поступать) безрассудно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действовать (поступать) безрассудно</text></cit>
 </sense>
 <sense>
-бесцельно бродить, слоняться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцельно бродить, слоняться</text></cit>
 </sense>
 </entry>
 </superEntry>

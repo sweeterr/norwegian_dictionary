@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bestyrkelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u> подкрепление, подтверждение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкрепление, подтверждение</text></cit>
 </sense>
 </entry>
 </superEntry>

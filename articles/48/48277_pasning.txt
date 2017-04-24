@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-подгонка (обмундирования)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подгонка (обмундирования)</text></cit>
 </sense>
 <sense>
-покрой, фасон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрой, фасон</text></cit>
 </sense>
 <sense>
-уход (за кем-л.), забота (о ком, чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уход (за кем-л.), забота (о ком, чём-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">pasning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>спорт.</u> пасовка
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пасовка</text></cit>
 </sense>
 </entry>
 </superEntry>

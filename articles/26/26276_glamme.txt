@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glamme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> лаять, выть, завывать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лаять, выть, завывать</text></cit>
 </sense>
 </entry>
 </superEntry>

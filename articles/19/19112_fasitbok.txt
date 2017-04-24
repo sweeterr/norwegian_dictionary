@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fasitbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-книга готовых расчётов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга готовых расчётов</text></cit>
 </sense>
 </entry>
 </superEntry>

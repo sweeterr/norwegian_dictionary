@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">deposisjonsavtale</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>банк.</u> депозитный договор, депозитное соглашение
+<usg>банк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>депозитный договор, депозитное соглашение</text></cit>
 </sense>
 </entry>
 </superEntry>

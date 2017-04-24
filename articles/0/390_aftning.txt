@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aftning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> вечер
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечер</text></cit>
 </sense>
 </entry>
 </superEntry>

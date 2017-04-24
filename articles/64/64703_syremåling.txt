@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">syremåling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>хим.</u> ацидометрия
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ацидометрия</text></cit>
 </sense>
 </entry>
 </superEntry>

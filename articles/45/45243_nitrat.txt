@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nitrat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> нитрат, азотнокислая соль
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нитрат, азотнокислая соль</text></cit>
 </sense>
 </entry>
 </superEntry>

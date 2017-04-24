@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-сон, сновидение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сон, сновидение</text></cit>
 <сit type="example"><text>i en drøm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во сне</text></cit></cit>
 <сit type="example"><text>drømme en drøm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть сон</text></cit></cit>
 <сit type="example"><text>ha en drøm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть сон, видеть что-л. во сне</text></cit></cit>
@@ -15,14 +15,14 @@
 <сit type="example"><text>tyde en drøm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>истолковывать сон (сновидение)</text></cit></cit>
 </sense>
 <sense>
-фантазия, иллюзия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фантазия, иллюзия</text></cit>
 </sense>
 <sense>
-мечта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мечта</text></cit>
 <сit type="example"><text>tomme drømmer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>несбыточные мечты</text></cit></cit>
 </sense>
 <sense>
-предмет желаний (стремлений)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предмет желаний (стремлений)</text></cit>
 <сit type="example"><text>kjolen var en drøm!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было не платье - мечта!</text></cit></cit>
 </sense>
 </entry>

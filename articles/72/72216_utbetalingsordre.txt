@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utbetalingsordre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бухг.</u> расходный ордер
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расходный ордер</text></cit>
 </sense>
 </entry>
 </superEntry>

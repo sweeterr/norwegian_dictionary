@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">travalig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-старательный, прилежный, работящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старательный, прилежный, работящий</text></cit>
 </sense>
 <sense>
-трудный, тяжкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный, тяжкий</text></cit>
 </sense>
 </entry>
 </superEntry>

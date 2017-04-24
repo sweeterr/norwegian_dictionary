@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">papyrus</orth>
 <inflection><orth extent="part">-usen (-uset), -er (-i)</orth></inflection>
-папирус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>папирус</text></cit>
 </sense>
 </entry>
 </superEntry>

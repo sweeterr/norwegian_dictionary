@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-кусок, штука
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусок, штука</text></cit>
 <сit type="example"><text>et stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немного, чуточку</text></cit></cit>
 <сit type="example"><text>et stykke brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ломоть хлеба</text></cit></cit>
 <сit type="example"><text>et stykke sukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кусок сахару</text></cit></cit>
@@ -19,29 +19,33 @@
 <сit type="example"><text>fem stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> пять человек</text></cit></cit>
 </sense>
 <sense>
-обрезок, обрывок, осколок, черепок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрезок, обрывок, осколок, черепок</text></cit>
 <сit type="example"><text>bryte (gjøre) i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбить вдребезги</text></cit></cit>
 <сit type = "example"><text>gå i stykker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сломаться</text></cit></cit>
 <сit type = "example"><text>gå i stykker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> разлететься вдребезги</text></cit></cit>
 </sense>
 <sense>
-часть, раздел (книги), фрагмент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часть, раздел (книги), фрагмент</text></cit>
 </sense>
 <sense>
-<u>разг.</u> участок земли
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участок земли</text></cit>
 </sense>
 <sense>
-<u>разг.</u> загородный дом, дача
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загородный дом, дача</text></cit>
 </sense>
 <sense>
-произведение, рассказ, вещь (музыкальная), пьеса, фильм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произведение, рассказ, вещь (музыкальная), пьеса, фильм</text></cit>
 <сit type="example"><text>stykket gjør stor lykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пьеса идёт с большим успехом</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> человек, тип
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, тип</text></cit>
 </sense>
 <sense>
-<u>школ.</u> задача, арифметический пример
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задача, арифметический пример</text></cit>
 <сit type="example"><text>i enkelte (alle, mange) stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в ряде случаев (во всех, многих отношениях)</text></cit></cit>
 <сit type="example"><text>i dette stykket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается этого ...</text></cit></cit>
 <сit type="example"><text>blåse én et langt stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> не считаться с кем-л., плевать на кого-л.</text></cit></cit>
@@ -54,7 +58,7 @@
 <form>
 <orth type="lemma">stykke</orth>
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
-делить на части
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делить на части</text></cit>
 <сit type="example"><text>stykke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделить, поделить</text></cit></cit>
 <сit type="example"><text>stykke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделить</text></cit></cit>
 </sense>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">overlaste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-перегружать, принимать слишком большой груз на борт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перегружать, принимать слишком большой груз на борт</text></cit>
 <сit type="example"><text>han var overlastet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> он был пьян</text></cit></cit>
 </sense>
 </entry>

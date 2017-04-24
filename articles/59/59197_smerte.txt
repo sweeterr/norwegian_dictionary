@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-боль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боль</text></cit>
 <сit type="example"><text>en brennende (dump, voldsom) smerte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>острая (тупая, сильная) боль</text></cit></cit>
 </sense>
 <sense>
-душевное страдание, горе, мука, мучение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душевное страдание, горе, мука, мучение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-болеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болеть</text></cit>
 </sense>
 <sense>
-причинять боль (муку, страдание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причинять боль (муку, страдание)</text></cit>
 <сit type="example"><text>det smerter ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это причиняет ему страдания</text></cit></cit>
 </sense>
 </entry>
@@ -33,7 +33,8 @@
 <form>
 <orth type="lemma">smerte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> оплетать, обматывать
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оплетать, обматывать</text></cit>
 </sense>
 </entry>
 </superEntry>

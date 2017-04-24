@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strålebehandling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> лучевая терапия
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучевая терапия</text></cit>
 </sense>
 </entry>
 </superEntry>

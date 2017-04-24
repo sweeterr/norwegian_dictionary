@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-жидкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкость</text></cit>
 </sense>
 <sense>
-сок (растений)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сок (растений)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> напиток, вино, водка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напиток, вино, водка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +24,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сочиться (о жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочиться (о жидкости)</text></cit>
 </sense>
 <sense>
-выделять (сок, жидкость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделять (сок, жидкость)</text></cit>
 </sense>
 <sense>
-кровоточить, гноиться (о ране)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровоточить, гноиться (о ране)</text></cit>
 </sense>
 </entry>
 </superEntry>

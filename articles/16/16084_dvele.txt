@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dvele</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-оставаться, задерживаться где-л., загоститься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться, задерживаться где-л., загоститься</text></cit>
 <сit type="example"><text>dvele med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>медлить с чем-л.</text></cit></cit>
 <сit type="example"><text>dvele med øynene på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть на кого-л. не сводя глаз</text></cit></cit>
 <сit type="example"><text>se dvelende på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть пристально на кого-л.</text></cit></cit>

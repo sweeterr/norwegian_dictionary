@@ -4,18 +4,18 @@
 <index></index>
 <form>
 <orth type="lemma">format</orth>
-fórmat
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>fórmat</text></cit>
 <inflection><orth extent="part">-en</orth></inflection>
-закуска, первое блюдо (в обеде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закуска, первое блюдо (в обеде)</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">format</orth>
-formát
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>formát</text></cit>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-формат, размер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формат, размер</text></cit>
 <сit type="example"><text>i lite(stort) format</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небольшого (большого) формата</text></cit></cit>
 </sense>
 </entry>

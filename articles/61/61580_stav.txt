@@ -7,32 +7,34 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-палка, посох, жезл
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палка, посох, жезл</text></cit>
 <сit type="example"><text>bryte (brekke) staven over én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вынести приговор, осудить кого-л.</text></cit></cit>
 <сit type="example"><text>ta staven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пуститься в путь</text></cit></cit>
 </sense>
 <sense>
-лыжная палка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжная палка</text></cit>
 </sense>
 <sense>
-бочарная доска, клёпка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бочарная доска, клёпка</text></cit>
 <сit type = "example"><text>falle i staver :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> рассохнуться (о бочке, бадье), развалиться</text></cit></cit>
-<сit type = "example"><text>falle i staver :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> погрузиться в мысли, задуматься</text></cit></cit>
+<сit type = "example"><text>falle i staver :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> погрузиться в мысли, задуматься</text></cit></cit>
 </sense>
 <sense>
-паркетная плитка (дощечка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паркетная плитка (дощечка)</text></cit>
 </sense>
 <sense>
-вертикальная черта (в рунах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикальная черта (в рунах)</text></cit>
 </sense>
 <sense>
-бактерийная палочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бактерийная палочка</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> шест для прыжков
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шест для прыжков</text></cit>
 </sense>
 <sense>
-<u>диал.</u> свая
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свая</text></cit>
 </sense>
 </entry>
 </superEntry>

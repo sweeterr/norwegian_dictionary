@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">valkejord</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>текст.</u> сукновальная глина
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сукновальная глина</text></cit>
 </sense>
 </entry>
 </superEntry>

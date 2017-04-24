@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hufs</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>разг.</u> рывок, толчок
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рывок, толчок</text></cit>
 <сit type="example"><text>med et hufs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одним толчком, одним махом</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">hufs</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> обрыв
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрыв</text></cit>
 </sense>
 </entry>
 </superEntry>

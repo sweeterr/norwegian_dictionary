@@ -6,7 +6,9 @@
 <orth type="lemma">wagon</orth>
 <phon>|va'goŋ|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> <u>ж.-д.</u> пассажирский вагон
+<usg>уст.</usg>
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пассажирский вагон</text></cit>
 </sense>
 </entry>
 </superEntry>

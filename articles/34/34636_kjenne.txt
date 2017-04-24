@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjenne</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-крошка, чуточка, капелька, совсем немного
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крошка, чуточка, капелька, совсем немного</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kjenne</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-признак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>признак</text></cit>
 <сit type="example"><text>gi til kjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать знать (понять)</text></cit></cit>
 <сit type="example"><text>gi seg til kjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявиться, стать заметным; дать о себе знать</text></cit></cit>
 </sense>
@@ -25,7 +25,7 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-знать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знать</text></cit>
 <сit type="example"><text>som kjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как известно</text></cit></cit>
 <сit type="example"><text>lære å kjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>познакомиться, узнать; познать (что-л.)</text></cit></cit>
 <сit type="example"><text>kjenne til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знать о чём-л. (ком-л.)</text></cit></cit>
@@ -33,12 +33,13 @@
 <сit type="example"><text>bli (være) kjent med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>познакомиться (быть знакомым) с кем-л.</text></cit></cit>
 </sense>
 <sense>
-чувствовать, ощущать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать, ощущать</text></cit>
 <сit type="example"><text>kjenne én på pulsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щупать чей-л. пульс</text></cit></cit>
 <сit type="example"><text>kjenne på ølet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробовать пиво</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> выносить решение, признавать виновным (невиновным)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносить решение, признавать виновным (невиновным)</text></cit>
 <сit type="example"><text>kjenne igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать кого-л.</text></cit></cit>
 <сit type="example"><text>kjenne seg igjen på et sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать то место, где раньше бывал</text></cit></cit>
 </sense>

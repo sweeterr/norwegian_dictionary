@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">solidaransvar</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>юр.</u> солидарная ответственность
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солидарная ответственность</text></cit>
 </sense>
 </entry>
 </superEntry>

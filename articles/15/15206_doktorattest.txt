@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">doktorattest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-справка от врача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>справка от врача</text></cit>
 </sense>
 </entry>
 </superEntry>

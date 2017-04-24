@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bladartikkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-газетная статья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газетная статья</text></cit>
 </sense>
 </entry>
 </superEntry>

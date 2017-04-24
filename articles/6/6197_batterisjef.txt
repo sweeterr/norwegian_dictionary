@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">batterisjef</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> командир батареи
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командир батареи</text></cit>
 </sense>
 </entry>
 </superEntry>

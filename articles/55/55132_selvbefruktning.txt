@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">selvbefruktning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>биол.</u> самооплодотворение
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самооплодотворение</text></cit>
 </sense>
 </entry>
 </superEntry>

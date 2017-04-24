@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">logg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> лаг (прибор для измерения скорости судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лаг (прибор для измерения скорости судна)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,7 @@
 <form>
 <orth type="lemma">logg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-толстое бревно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстое бревно</text></cit>
 </sense>
 </entry>
 </superEntry>

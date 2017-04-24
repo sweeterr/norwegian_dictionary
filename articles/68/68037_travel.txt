@@ -5,19 +5,18 @@
 <form>
 <orth type="lemma">travel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-очень занятой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень занятой</text></cit>
 <сit type="example"><text>få det travelt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>загрузиться делами</text></cit></cit>
 <сit type="example"><text>ha det travelt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очень занятым, иметь много дел</text></cit></cit>
 </sense>
 <sense>
-напряжённый (о работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжённый (о работе)</text></cit>
 </sense>
 <sense>
-горячий (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горячий (о времени)</text></cit>
 </sense>
 </entry>
 </superEntry>

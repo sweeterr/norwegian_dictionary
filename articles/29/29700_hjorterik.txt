@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hjorterik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-богатый оленями (о районе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый оленями (о районе)</text></cit>
 </sense>
 </entry>
 </superEntry>

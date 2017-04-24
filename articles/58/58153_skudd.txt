@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-выстрел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выстрел</text></cit>
 <сit type="example"><text>løst skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холостой выстрел</text></cit></cit>
 <сit type="example"><text>løsne et skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать выстрел</text></cit></cit>
 <сit type="example"><text>sende et skudd for baugen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> дать предупредительный выстрел</text></cit></cit>
 </sense>
 <sense>
-патрон, боезаряд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патрон, боезаряд</text></cit>
 <сit type="example"><text>skyte med skarpt skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять боевыми патронами</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> удар по воротам
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар по воротам</text></cit>
 <сit type="example"><text>avverge skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предотвратить гол</text></cit></cit>
 <сit type="example"><text>komme i skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в ударе</text></cit></cit>
 </sense>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">skudd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> см. skott III
+<usg>мор.</usg>
+<ref>skott III</ref>
 </sense>
 </entry>
 <entry>
@@ -37,13 +39,13 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-росток, побег, отросток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>росток, побег, отросток</text></cit>
 <сit type="example"><text>komme (være) i skuddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цвести, процветать</text></cit></cit>
 <сit type="example"><text>skyte nye skudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать новые ростки (побеги)</text></cit></cit>
 <сit type="example"><text>være i skuddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть популярным</text></cit></cit>
 </sense>
 <sense>
-потомок, отпрыск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потомок, отпрыск</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-кукла
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кукла</text></cit>
 </sense>
 <sense>
-марионетка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>марионетка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,16 +20,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-окунать, погружать (в воду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окунать, погружать (в воду)</text></cit>
 </sense>
 <sense>
-нырять, уходить под воду (о звере, подводной лодке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нырять, уходить под воду (о звере, подводной лодке)</text></cit>
 </sense>
 <sense>
-скрыться (из виду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрыться (из виду)</text></cit>
 </sense>
 <sense>
-укрыться (где-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрыться (где-л.)</text></cit>
 <сit type="example"><text>dukke fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внезапно появиться, показаться</text></cit></cit>
 <сit type="example"><text>dukke fram av mørket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вынырнуть из темноты</text></cit></cit>
 <сit type="example"><text>dukke ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уйти под воду, скрыться под водой</text></cit></cit>

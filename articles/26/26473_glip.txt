@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">glip</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-большой сачок (для ловли рыбы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой сачок (для ловли рыбы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">glip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> щель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щель</text></cit>
 <сit type="example"><text>se på glip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть прищурясь</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blankokreditt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ком.</u> бланковый кредит, кредит без гарантий для продавца
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бланковый кредит, кредит без гарантий для продавца</text></cit>
 </sense>
 </entry>
 </superEntry>

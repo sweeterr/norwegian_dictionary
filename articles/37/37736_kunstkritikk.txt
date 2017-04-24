@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kunstkritikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-критика произведений искусства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>критика произведений искусства</text></cit>
 </sense>
 </entry>
 </superEntry>

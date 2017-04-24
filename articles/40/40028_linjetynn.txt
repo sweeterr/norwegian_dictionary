@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">linjetynn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-тонкий как волосок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий как волосок</text></cit>
 </sense>
 </entry>
 </superEntry>

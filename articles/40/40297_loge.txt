@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">loge</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> пламя, язык пламени
-см. тж. lue II
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пламя, язык пламени</text></cit>
+<ref>тж. lue II</ref>
 </sense>
 </entry>
 <entry>
@@ -14,8 +15,8 @@
 <form>
 <orth type="lemma">loge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-гореть, пылать
-см. тж. lue III
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гореть, пылать</text></cit>
+<ref>тж. lue III</ref>
 </sense>
 </entry>
 </superEntry>

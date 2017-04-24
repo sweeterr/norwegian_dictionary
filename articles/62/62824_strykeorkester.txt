@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">strykeorkester</orth>
-<inflection><orth extent="part">-eret (-ret), -re</orth></inflection>
-(r)
-<u>муз.</u> струнный оркестр
+<inflection><orth extent="part">-eret (-ret), -re (r)</orth></inflection>
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струнный оркестр</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dekkspumpe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> палубная ручная помпа
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палубная ручная помпа</text></cit>
 </sense>
 </entry>
 </superEntry>

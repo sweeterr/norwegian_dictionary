@@ -7,33 +7,36 @@
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
-поднимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать</text></cit>
 <сit type="example"><text>heve til skyene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>превозносить до небес</text></cit></cit>
 <сit type="example"><text>det er hevet over (all) tvil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это вне всякого сомнения</text></cit></cit>
 </sense>
 <sense>
-повышать (голос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повышать (голос)</text></cit>
 </sense>
 <sense>
-собирать, взимать (налоги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать, взимать (налоги)</text></cit>
 </sense>
 <sense>
-устранять (тж. heve opp)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устранять (тж. heve opp)</text></cit>
 </sense>
 <sense>
-аннулировать (договор, сделку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аннулировать (договор, сделку)</text></cit>
 </sense>
 <sense>
-закрывать (собрание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрывать (собрание)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> снимать (осаду, блокаду)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать (осаду, блокаду)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> прекращать дело производством
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекращать дело производством</text></cit>
 </sense>
 <sense>
-<u>мат.</u> взаимно уничтожать-ся(очислах)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимно уничтожать-ся(очислах)</text></cit>
 </sense>
 </entry>
 </superEntry>

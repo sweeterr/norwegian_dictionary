@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sovjetrussisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>ист.</u> советский
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>советский</text></cit>
 </sense>
 </entry>
 </superEntry>

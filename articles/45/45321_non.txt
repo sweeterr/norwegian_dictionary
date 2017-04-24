@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">non</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-время около 3 часов дня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время около 3 часов дня</text></cit>
 <сit type="example"><text>over non</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после 3 часов дня</text></cit></cit>
 <сit type="example"><text>ved nons tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около трёх часов дня, к трём часам дня</text></cit></cit>
 </sense>
 <sense>
-обед, трапеза (около 3 часов дня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обед, трапеза (около 3 часов дня)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">non</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>разг.</u> тройка (оценка на экзамене)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройка (оценка на экзамене)</text></cit>
 <сit type="example"><text>bestå eksamen med non</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдать экзамен на тройку</text></cit></cit>
 </sense>
 </entry>

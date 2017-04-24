@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avmarsjere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>воен.</u> отходить, отступать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отходить, отступать</text></cit>
 </sense>
 </entry>
 </superEntry>

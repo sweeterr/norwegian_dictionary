@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">forår</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> <u>поэт.</u> весна
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весна</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skjold</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятно</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,20 +15,22 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-щит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щит</text></cit>
 <сit type="example"><text>det røde skjold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызов на бой</text></cit></cit>
 <сit type="example"><text>løfte på skjold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять на щит</text></cit></cit>
 <сit type="example"><text>slå på skjoldet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бряцать оружием</text></cit></cit>
 <сit type="example"><text>føre i sitt skjold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь в мыслях, задумать</text></cit></cit>
 </sense>
 <sense>
-защита, прикрытие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защита, прикрытие</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> панцирь
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панцирь</text></cit>
 </sense>
 <sense>
-<u>тех.</u> проходческий щит
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходческий щит</text></cit>
 </sense>
 </entry>
 </superEntry>

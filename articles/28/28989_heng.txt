@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">heng</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-занавес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занавес</text></cit>
 </sense>
 <sense>
-листва, сень (деревьев)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>листва, сень (деревьев)</text></cit>
 </sense>
 <sense>
-крутой обрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой обрыв</text></cit>
 </sense>
 <sense>
-лёгкое дуновение (ветра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкое дуновение (ветра)</text></cit>
 </sense>
 <sense>
-трясина (на болоте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трясина (на болоте)</text></cit>
 </sense>
 </entry>
 </superEntry>

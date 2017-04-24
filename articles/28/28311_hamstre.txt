@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hamstre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-запасать продукты ( в периоды их нехватки); припрятывать (продукты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запасать продукты ( в периоды их нехватки); припрятывать (продукты)</text></cit>
 </sense>
 <sense>
-хранить деньги в кубышке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хранить деньги в кубышке</text></cit>
 </sense>
 </entry>
 </superEntry>

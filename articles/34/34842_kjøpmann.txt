@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjøpmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-купец, торговец, коммерсант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купец, торговец, коммерсант</text></cit>
 </sense>
 </entry>
 </superEntry>

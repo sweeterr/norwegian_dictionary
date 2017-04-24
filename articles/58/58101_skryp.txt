@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">skryp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-скудный, недостаточный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный, недостаточный</text></cit>
 </sense>
 <sense>
-хилый, слабый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, слабый</text></cit>
 </sense>
 </entry>
 </superEntry>

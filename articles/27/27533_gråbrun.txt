@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gråbrun</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-серовато-коричневый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серовато-коричневый</text></cit>
 </sense>
 </entry>
 </superEntry>

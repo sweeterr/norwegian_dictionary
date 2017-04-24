@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slind</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поперечная балка (в крестьянской избе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поперечная балка (в крестьянской избе)</text></cit>
 </sense>
 <sense>
-снятая с бревна кора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снятая с бревна кора</text></cit>
 </sense>
 </entry>
 </superEntry>

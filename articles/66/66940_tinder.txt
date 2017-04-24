@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-яркий блеск, сверкание, мерцание (звёзд и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий блеск, сверкание, мерцание (звёзд и т. п.)</text></cit>
 </sense>
 <sense>
-звучание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звучание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,13 +18,13 @@
 <form>
 <orth type="lemma">tinder</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ясный (о погоде), чистый, прозрачный (о воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ясный (о погоде), чистый, прозрачный (о воздухе)</text></cit>
 </sense>
 <sense>
-сверкающий, блестящий (о глазах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверкающий, блестящий (о глазах)</text></cit>
 </sense>
 </entry>
 </superEntry>

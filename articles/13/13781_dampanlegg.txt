@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dampanlegg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> паросиловая установка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паросиловая установка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bestikkelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-подкуп, взятка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкуп, взятка</text></cit>
 <сit type="example"><text>ta imot bestikkelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать взятки</text></cit></cit>
 </sense>
 </entry>

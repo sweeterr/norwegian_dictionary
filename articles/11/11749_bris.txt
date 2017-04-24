@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bris</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> бриз
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бриз</text></cit>
 <сit type="example"><text>lett (løy, laber) bris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий бриз</text></cit></cit>
 <сit type="example"><text>frisk bris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежий бриз</text></cit></cit>
 </sense>
@@ -15,7 +16,7 @@
 <form>
 <orth type="lemma">bris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-большой костёр, пламя, вспышка огня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой костёр, пламя, вспышка огня</text></cit>
 </sense>
 </entry>
 </superEntry>

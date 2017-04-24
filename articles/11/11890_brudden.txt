@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">brudden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-разломанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разломанный</text></cit>
 </sense>
 <sense>
-<u>мат.</u> дробный (о числе)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дробный (о числе)</text></cit>
 </sense>
 </entry>
 </superEntry>

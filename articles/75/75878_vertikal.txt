@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vertikal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-вертикаль, вертикальная линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикаль, вертикальная линия</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">vertikal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вертикальный, отвесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикальный, отвесный</text></cit>
 </sense>
 </entry>
 </superEntry>

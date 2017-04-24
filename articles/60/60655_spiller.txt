@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-игрок <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игрок <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>spiller av en stor klasse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>игрок высокого класса</text></cit></cit>
 <сit type="example"><text>passe på spilleren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> «опекать» игрока</text></cit></cit>
 </sense>
 <sense>
-музыкант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыкант</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">spiller</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-совершенно, абсолютно, совсем, полностью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, абсолютно, совсем, полностью</text></cit>
 </sense>
 </entry>
 </superEntry>

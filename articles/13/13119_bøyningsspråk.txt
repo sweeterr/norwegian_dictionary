@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bøyningsspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>лингв.</u> флективный язык
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флективный язык</text></cit>
 </sense>
 </entry>
 </superEntry>

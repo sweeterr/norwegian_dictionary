@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uso</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ком.</u> срок платежа по векселям из-за границы
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срок платежа по векселям из-за границы</text></cit>
 </sense>
 </entry>
 </superEntry>

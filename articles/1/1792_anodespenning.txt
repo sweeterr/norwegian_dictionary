@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">anodespenning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u> анодное напряжение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анодное напряжение</text></cit>
 </sense>
 </entry>
 </superEntry>

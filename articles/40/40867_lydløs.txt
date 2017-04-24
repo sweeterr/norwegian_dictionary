@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">lydløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесшумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесшумный</text></cit>
 </sense>
 <sense>
-молчаливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молчаливый</text></cit>
 </sense>
 <sense>
-беззвучный, тихий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззвучный, тихий</text></cit>
 </sense>
 </entry>
 </superEntry>

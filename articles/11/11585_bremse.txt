@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bremse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-слепень, овод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слепень, овод</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">bremse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-тормоз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормоз</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">bremse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-тормозить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормозить</text></cit>
 <сit type="example"><text>nå får du bremse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>теперь тебе придётся уступить</text></cit></cit>
 </sense>
 </entry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-родной язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родной язык</text></cit>
 </sense>
 <sense>
-государственный язык (данной страны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>государственный язык (данной страны)</text></cit>
 </sense>
 </entry>
 </superEntry>

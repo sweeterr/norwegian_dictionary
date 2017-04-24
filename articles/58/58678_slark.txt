@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> лентяй, лоботряс
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лентяй, лоботряс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">slark</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>тех.</u> мёртвый ход, зазор, люфт
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёртвый ход, зазор, люфт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">øye</orth>
-<inflection><orth>øyet, øyne (<u>диал.</u> øyer)</orth></inflection>
+<inflection><orth>øyet, øyne (<lbl>диал.</lbl> øyer)</orth></inflection>
 </form>
 <sense>
-глаз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глаз</text></cit>
 <сit type="example"><text>brune øyne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>карие глаза</text></cit></cit>
 <сit type="example"><text>et blått øye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подбитый глаз, синяк под глазом</text></cit></cit>
 <сit type="example"><text>øyne løp i vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глаза наполнились слезами</text></cit></cit>
@@ -22,13 +22,13 @@
 <сit type="example"><text>være lutter øye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть во все глаза</text></cit></cit>
 </sense>
 <sense>
-очко (в игре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очко (в игре)</text></cit>
 </sense>
 <sense>
-ушко (иголки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ушко (иголки)</text></cit>
 </sense>
 <sense>
-глазок, щель, прорезь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глазок, щель, прорезь</text></cit>
 <сit type="example"><text>det onde øye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>фольк.</lbl> дурной глаз</text></cit></cit>
 <сit type="example"><text>ha øye for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понимать, разбираться в чём-л.</text></cit></cit>
 <сit type="example"><text>ha et godt øye til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уважать, ценить кого-л.</text></cit></cit>
@@ -37,7 +37,7 @@
 <сit type="example"><text>øye mot øye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лицом к лицу</text></cit></cit>
 <сit type="example"><text>øye til øye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с глазу на глаз</text></cit></cit>
 <сit type="example"><text>ute av øye ute av sinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> с глаз долой - из сердца вон</text></cit></cit>
-см. тж. øyne I
+<ref>тж. øyne I</ref>
 </sense>
 </entry>
 <entry>
@@ -45,7 +45,8 @@
 <form>
 <orth type="lemma">øye</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-<u>диал.</u> см. øde III
+<usg>диал.</usg>
+<ref>øde III</ref>
 </sense>
 </entry>
 </superEntry>

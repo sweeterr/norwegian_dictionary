@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-минерал, содержащий окись кремния
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>минерал, содержащий окись кремния</text></cit>
 </sense>
 <sense>
-галька, кругляк, голыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галька, кругляк, голыш</text></cit>
 </sense>
 <sense>
-<u>хим.</u> кремний
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кремний</text></cit>
 </sense>
 </entry>
 </superEntry>

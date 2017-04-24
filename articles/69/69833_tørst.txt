@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tørst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-жажда <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жажда <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>drikke over tørsten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> перепить, выпить лишнего (о вине)</text></cit></cit>
 <сit type="example"><text>slukke tørsten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утолять жажду</text></cit></cit>
 </sense>
@@ -17,12 +17,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-жаждущий <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаждущий <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>bli tørst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>захотеть пить, почувствовать жажду</text></cit></cit>
 <сit type="example"><text>være tørst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотеть пить</text></cit></cit>
 </sense>
 <sense>
-запёкшийся, пересохший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запёкшийся, пересохший</text></cit>
 </sense>
 </entry>
 </superEntry>

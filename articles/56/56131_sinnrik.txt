@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sinnrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-изобретательный, искусный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобретательный, искусный</text></cit>
 </sense>
 <sense>
-хитроумный, остроумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитроумный, остроумный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">skrinn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-худой, тощий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>худой, тощий</text></cit>
 </sense>
 <sense>
-постный (о мясе), малокалорийный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постный (о мясе), малокалорийный</text></cit>
 </sense>
 <sense>
-бесплодный, неплодородный, бедный (о почве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплодный, неплодородный, бедный (о почве)</text></cit>
 </sense>
 </entry>
 </superEntry>

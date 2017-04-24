@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-кувалда, кузнечный молот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кувалда, кузнечный молот</text></cit>
 <сit type="example"><text>bruke (stor)sleggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>использовать убедительные аргументы</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> молот
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молот</text></cit>
 <сit type="example"><text>kaste slegge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метать молот</text></cit></cit>
 </sense>
 </entry>
@@ -22,10 +23,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-ковать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковать</text></cit>
 </sense>
 <sense>
-дробить молотом (камни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дробить молотом (камни)</text></cit>
 </sense>
 </entry>
 </superEntry>

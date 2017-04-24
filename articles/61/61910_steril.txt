@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">steril</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесплодный, не способный к размножению, не приносящий плодов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплодный, не способный к размножению, не приносящий плодов</text></cit>
 </sense>
 <sense>
-безрезультатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безрезультатный</text></cit>
 </sense>
 <sense>
-<u>бот.</u> бесполый
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесполый</text></cit>
 </sense>
 <sense>
-стерильный, стерилизованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стерильный, стерилизованный</text></cit>
 </sense>
 </entry>
 </superEntry>

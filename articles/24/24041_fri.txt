@@ -5,47 +5,46 @@
 <form>
 <orth type="lemma">fri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-свободный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный</text></cit>
 </sense>
 <sense>
-вольный, независимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вольный, независимый</text></cit>
 <сit type="example"><text>gjøre seg fri for en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освободиться от чьего-л. влияния</text></cit></cit>
 </sense>
 <sense>
-находящийся на свободе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находящийся на свободе</text></cit>
 <сit type="example"><text>slippe fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти на свободу</text></cit></cit>
 </sense>
 <sense>
-беспрепятственный (о проезде, проходе, доступе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспрепятственный (о проезде, проходе, доступе)</text></cit>
 <сit type="example"><text>det står meg fritt for å gjøre det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я имею полную возможность сделать это</text></cit></cit>
 </sense>
 <sense>
-открытый, широкий, необозримый (о море, горизонте, дали)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытый, широкий, необозримый (о море, горизонте, дали)</text></cit>
 </sense>
 <sense>
-необлагаемый (налогом, сбором, пошлиной), свободный, освобождённый (от чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необлагаемый (налогом, сбором, пошлиной), свободный, освобождённый (от чего-л.)</text></cit>
 </sense>
 <sense>
-бесплатный, даровой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплатный, даровой</text></cit>
 <сit type="example"><text>fritt på jernbane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ком.</lbl> франко-рельсы, франко-вагон</text></cit></cit>
 <сit type="example"><text>fritt ombord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ком.</lbl> фоб, франко-борт</text></cit></cit>
 </sense>
 <sense>
-естественный, непринуждённый (о поведении, манерах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>естественный, непринуждённый (о поведении, манерах)</text></cit>
 <сit type="example"><text>må eg være så fri ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> разрешите мне ...</text></cit></cit>
 </sense>
 <sense>
-незанятый, свободный (от чего-л)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незанятый, свободный (от чего-л)</text></cit>
 <сit type="example"><text>fri for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободный от чего-л.</text></cit></cit>
 <сit type="example"><text>ringe fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать звонок на перемену (в школе)</text></cit></cit>
 <сit type="example"><text>være fri fra skolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть свободным от занятий (уроков)</text></cit></cit>
 </sense>
 <sense>
-незамужняя, неженатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незамужняя, неженатый</text></cit>
 <сit type="example"><text>falle i det fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поступить во всеобщее распоряжение</text></cit></cit>
 <сit type="example"><text>i det fri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под открытым небом</text></cit></cit>
 </sense>
@@ -57,16 +56,16 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-освобождать, выпускать на свободу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освобождать, выпускать на свободу</text></cit>
 </sense>
 <sense>
-избавлять, спасать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избавлять, спасать</text></cit>
 </form>
 <sense>
-освободиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освободиться</text></cit>
 </sense>
 <sense>
-избавиться (от чего, кого-л. - ut av, fra)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избавиться (от чего, кого-л. - ut av, fra)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -74,7 +73,7 @@
 <form>
 <orth type="lemma">fri</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-свататься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свататься</text></cit>
 <сit type="example"><text>fri til en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> подлизываться к кому-л.</text></cit></cit>
 <сit type="example"><text>fri etter noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ирон.</lbl> добиваться чего-л.</text></cit></cit>
 </sense>

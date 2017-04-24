@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">lumsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-коварный, злобный, злокозненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коварный, злобный, злокозненный</text></cit>
 </sense>
 <sense>
-злонамеренный, предательский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злонамеренный, предательский</text></cit>
 </sense>
 <sense>
-скрытый, тайный (о подозрении, чувстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрытый, тайный (о подозрении, чувстве)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kaup</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> хороший улов, богатая добыча
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хороший улов, богатая добыча</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-сумма, итог, окончательный вывод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумма, итог, окончательный вывод</text></cit>
 <сit type="example"><text>en pen sum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>большая сумма, большие деньги</text></cit></cit>
 <сit type="example"><text>i en sum, i sum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в итоге, в целом</text></cit></cit>
 </sense>
 <sense>
-множество, большое количество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>множество, большое количество</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">sum</orth>
 <inflection><orth extent="part">-met</orth></inflection>
-жужжание, гудение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жужжание, гудение</text></cit>
 </sense>
 </entry>
 </superEntry>

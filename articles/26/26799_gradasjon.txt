@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-градация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>градация</text></cit>
 </sense>
 <sense>
-<u>мат.</u> деление на градусы
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деление на градусы</text></cit>
 </sense>
 </entry>
 </superEntry>

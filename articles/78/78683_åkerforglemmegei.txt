@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">åkerforglemmegei</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> незабудка полевая
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незабудка полевая</text></cit>
 </sense>
 </entry>
 </superEntry>

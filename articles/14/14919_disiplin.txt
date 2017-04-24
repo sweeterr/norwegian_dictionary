@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-дисциплина, порядок, дисциплинированность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дисциплина, порядок, дисциплинированность</text></cit>
 <сit type="example"><text>en jernhard disiplin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>железная дисциплина</text></cit></cit>
 <сit type="example"><text>slapp (stram) disiplin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохая (строгая) дисциплина</text></cit></cit>
 <сit type="example"><text>holde disiplin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддерживать дисциплину</text></cit></cit>
 <сit type="example"><text>vise mangel på disiplin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявить недисциплинированность</text></cit></cit>
 </sense>
 <sense>
-учебный предмет, дисциплина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебный предмет, дисциплина</text></cit>
 </sense>
 <sense>
-<u>уст.</u> палка (орудие наказания)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палка (орудие наказания)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">drukken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пьяный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пьяный</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> опьянённый (счастьем, любовью), опьяневший (от счастья, от любви)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опьянённый (счастьем, любовью), опьяневший (от счастья, от любви)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">islandsfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> исландцы
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исландцы</text></cit>
 </sense>
 </entry>
 </superEntry>

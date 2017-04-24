@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bommert</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-промах, просчёт, ошибка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промах, просчёт, ошибка</text></cit>
 <сit type="example"><text>begå en bommert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать промах</text></cit></cit>
 <сit type="example"><text>en politisk bommert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>политическая ошибка</text></cit></cit>
 </sense>
@@ -15,7 +15,8 @@
 <form>
 <orth type="lemma">bommert</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> большой стакан
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой стакан</text></cit>
 </sense>
 </entry>
 </superEntry>

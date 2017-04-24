@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bysed</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-городской обычай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городской обычай</text></cit>
 <сit type="example"><text>byseder og byskikker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>городские нравы и обычаи</text></cit></cit>
 </sense>
 </entry>

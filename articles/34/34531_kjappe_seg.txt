@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjappe seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-торопиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торопиться</text></cit>
 </sense>
 <sense>
-грести быстрыми короткими гребками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грести быстрыми короткими гребками</text></cit>
 </sense>
 </entry>
 </superEntry>

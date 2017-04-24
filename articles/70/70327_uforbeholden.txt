@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">uforbeholden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-откровенный, искренний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откровенный, искренний</text></cit>
 </sense>
 <sense>
-недвусмысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недвусмысленный</text></cit>
 </sense>
 <sense>
-безоговорочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безоговорочный</text></cit>
 </sense>
 </entry>
 </superEntry>

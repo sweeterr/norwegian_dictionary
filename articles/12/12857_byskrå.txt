@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">byskrå</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ист.</u>
+<usg>ист.</usg>
 </form>
 <sense>
-городские законы (узаконения, распоряжения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городские законы (узаконения, распоряжения)</text></cit>
 </sense>
 <sense>
-летопись города
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>летопись города</text></cit>
 </sense>
 </entry>
 </superEntry>

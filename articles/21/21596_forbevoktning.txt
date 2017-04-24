@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forbevoktning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> передовое охранение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передовое охранение</text></cit>
 </sense>
 </entry>
 </superEntry>

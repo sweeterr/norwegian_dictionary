@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">brank</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-износ, порча (от эксплуатации чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>износ, порча (от эксплуатации чего-л.)</text></cit>
 </sense>
 <sense>
-растрёпанный конец троса (каната)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растрёпанный конец троса (каната)</text></cit>
 </sense>
 </entry>
 </superEntry>

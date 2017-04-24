@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kullkjele</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> котёл, отапливаемый углем
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>котёл, отапливаемый углем</text></cit>
 </sense>
 </entry>
 </superEntry>

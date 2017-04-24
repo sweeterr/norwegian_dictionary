@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lengstforsvunnen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> давно минувший
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давно минувший</text></cit>
 </sense>
 </entry>
 </superEntry>

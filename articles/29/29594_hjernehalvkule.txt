@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hjernehalvkule</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> полушарие мозга
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полушарие мозга</text></cit>
 </sense>
 </entry>
 </superEntry>

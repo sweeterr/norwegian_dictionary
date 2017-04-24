@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">usunn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-нездоровый, болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нездоровый, болезненный</text></cit>
 </sense>
 <sense>
-вредный для здоровья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вредный для здоровья</text></cit>
 </sense>
 <sense>
-разлагающий, вредный (о влиянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разлагающий, вредный (о влиянии)</text></cit>
 </sense>
 </entry>
 </superEntry>

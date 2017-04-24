@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bulgarer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-болгарин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болгарин</text></cit>
 </sense>
 </entry>
 </superEntry>

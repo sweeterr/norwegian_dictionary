@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-школа пения (учебное заведение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>школа пения (учебное заведение)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> школа пения (метод)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>школа пения (метод)</text></cit>
 </sense>
 </entry>
 </superEntry>

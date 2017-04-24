@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-pelen, -ler</orth></inflection>
 </form>
 <sense>
-купол, сводчатая крыша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купол, сводчатая крыша</text></cit>
 </sense>
 <sense>
-закрытый плафон, колпак (для лампы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрытый плафон, колпак (для лампы)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> башка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>башка</text></cit>
 <сit type="example"><text>gi én en på kuppelen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать кому-л. по башке (по кумполу)</text></cit></cit>
 </sense>
 </entry>

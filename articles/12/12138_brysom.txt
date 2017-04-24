@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">brysom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-надоедливый (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надоедливый (о человеке)</text></cit>
 </sense>
 <sense>
-утомительный, тягостный (о деле, работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомительный, тягостный (о деле, работе)</text></cit>
 </sense>
 </entry>
 </superEntry>

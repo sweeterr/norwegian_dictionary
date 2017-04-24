@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gråskjegg</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> старик с седой бородой
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старик с седой бородой</text></cit>
 </sense>
 </entry>
 </superEntry>

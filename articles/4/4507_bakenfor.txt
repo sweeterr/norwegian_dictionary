@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakenfor</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-сзади, с обратной стороны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сзади, с обратной стороны</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">bakenfor</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-позади, сзади (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позади, сзади (чего-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

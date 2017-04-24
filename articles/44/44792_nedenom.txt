@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">nedenom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-низом, ниже в обход по кругу
-<сit type = "example"><text><u>разг.</u> gå nedenom og hjem:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утонуть, погибнуть в море</text></cit></cit>
-<сit type = "example"><text><u>разг.</u> gå nedenom og hjem:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерпеть фиаско (неудачу)</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низом, ниже в обход по кругу</text></cit>
+<сit type = "example"><text><lbl>разг.</lbl> gå nedenom og hjem:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утонуть, погибнуть в море</text></cit></cit>
+<сit type = "example"><text><lbl>разг.</lbl> gå nedenom og hjem:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерпеть фиаско (неудачу)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

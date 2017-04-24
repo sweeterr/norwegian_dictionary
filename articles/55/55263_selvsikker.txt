@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">selvsikker</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-уверенный в себе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уверенный в себе</text></cit>
 </sense>
 <sense>
-уверенный, спокойный (о поведении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уверенный, спокойный (о поведении)</text></cit>
 </sense>
 </entry>
 </superEntry>

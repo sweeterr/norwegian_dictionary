@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">håndbrekk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>авт.</u> ручной тормоз
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручной тормоз</text></cit>
 </sense>
 </entry>
 </superEntry>

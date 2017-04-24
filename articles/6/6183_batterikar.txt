@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">batterikar</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эл.</u> банка аккумулятора, аккумуляторный сосуд
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банка аккумулятора, аккумуляторный сосуд</text></cit>
 </sense>
 </entry>
 </superEntry>

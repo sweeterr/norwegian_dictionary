@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>уст.</u>, <u>поэт.</u> конь, скакун
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конь, скакун</text></cit>
 </sense>
 <sense>
-см. gangar
+<ref>gangar</ref>
 </sense>
 </entry>
 </superEntry>

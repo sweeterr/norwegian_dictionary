@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">sanseløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесчувственный, нечувствительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесчувственный, нечувствительный</text></cit>
 </sense>
 <sense>
-безрассудный, действующий очертя голову
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безрассудный, действующий очертя голову</text></cit>
 </sense>
 <sense>
-<u>редко</u> бессознательный, потерявший сознание
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессознательный, потерявший сознание</text></cit>
 </sense>
 </entry>
 </superEntry>

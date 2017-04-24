@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hørebein</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>анат.</u> слуховая косточка
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуховая косточка</text></cit>
 </sense>
 </entry>
 </superEntry>

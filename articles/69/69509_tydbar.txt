@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">tydbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-объяснимый, поддающийся толкованию, расшифровываемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объяснимый, поддающийся толкованию, расшифровываемый</text></cit>
 </sense>
 </entry>
 </superEntry>

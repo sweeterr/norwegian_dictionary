@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sneke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> вонять, дурно пахнуть
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вонять, дурно пахнуть</text></cit>
 </sense>
 </entry>
 </superEntry>

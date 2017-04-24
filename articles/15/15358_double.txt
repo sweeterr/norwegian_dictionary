@@ -6,7 +6,8 @@
 <orth type="lemma">double</orth>
 <phon>|'døb:әl|</phon>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> парная игра в теннис
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парная игра в теннис</text></cit>
 <сit type="example"><text>double kvinner (menn)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>женская (мужская) пара (в теннисе)</text></cit></cit>
 </sense>
 </entry>

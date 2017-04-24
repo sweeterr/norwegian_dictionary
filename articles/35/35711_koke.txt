@@ -15,22 +15,23 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-кипеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кипеть</text></cit>
 </sense>
 <sense>
-вариться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вариться</text></cit>
 </sense>
 <sense>
-кипятить, варить, готовить (пищу, еду), стряпать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кипятить, варить, готовить (пищу, еду), стряпать</text></cit>
 </sense>
 <sense>
-вытапливать (жир)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытапливать (жир)</text></cit>
 </sense>
 <sense>
-выпаривать (соль)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпаривать (соль)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> кипеть, бурлить (о людской массе, страстях)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кипеть, бурлить (о людской массе, страстях)</text></cit>
 <сit type="example"><text>koke bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увариваться</text></cit></cit>
 <сit type="example"><text>koke bort for Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> забывать кого-л.</text></cit></cit>
 <сit type="example"><text>koke inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увариваться, развариваться</text></cit></cit>

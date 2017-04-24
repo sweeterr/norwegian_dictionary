@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forøvelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-совершение (преступления)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершение (преступления)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">forøvelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-тренировочное упражнение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тренировочное упражнение</text></cit>
 </sense>
 </entry>
 </superEntry>

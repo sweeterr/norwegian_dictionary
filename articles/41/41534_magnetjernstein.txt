@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">magnetjernstein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мин.</u> магнитный железняк
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магнитный железняк</text></cit>
 </sense>
 </entry>
 </superEntry>

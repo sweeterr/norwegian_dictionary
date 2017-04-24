@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-кишка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кишка</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-кишки, внутренности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кишки, внутренности</text></cit>
 </sense>
 <sense>
-<u>разг.</u> желудок
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желудок</text></cit>
 <сit type="example"><text>være så sulten at tarmene skriker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть голодным как волк ( <lbl>букв.</lbl> голоден так, что кишки пищат)</text></cit></cit>
 </sense>
 </entry>

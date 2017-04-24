@@ -7,30 +7,31 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-крюк, крючок, костыль, багор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крюк, крючок, костыль, багор</text></cit>
 <сit type = "example"><text>bite på kroken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> клевать (о рыбе)</text></cit></cit>
-<сit type = "example"><text>bite på kroken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> попадаться на удочку</text></cit></cit>
+<сit type = "example"><text>bite på kroken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> попадаться на удочку</text></cit></cit>
 <сit type="example"><text>huke av kroken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отцепить крюк (крючок)</text></cit></cit>
 <сit type = "example"><text>huke på kroken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> нацепить на крючок</text></cit></cit>
 <сit type = "example"><text>huke på kroken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поддеть кого-л.</text></cit></cit>
 <сit type="example"><text>væte krok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забрасывать удочку</text></cit></cit>
 </sense>
 <sense>
-излучина (реки), поворот (дороги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>излучина (реки), поворот (дороги)</text></cit>
 <сit type="example"><text>i kors og i krok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль и поперёк</text></cit></cit>
 <сit type="example"><text>til kroks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в обход, окольным путём</text></cit></cit>
 <сit type="example"><text>gjøre en stor krok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать большой изгиб (о реке, дороге)</text></cit></cit>
 </sense>
 <sense>
-угол, закоулок, укромный уголок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол, закоулок, укромный уголок</text></cit>
 <сit type="example"><text>drive opp i en krok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> припереть к стенке (кого-л.), загнать в тупик</text></cit></cit>
 </sense>
 <sense>
-юла, волчок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юла, волчок</text></cit>
 <сit type="example"><text>sveipe (vandre) krok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пускать волчок</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> сутулый человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сутулый человек</text></cit>
 </sense>
 </entry><entry>
 <index></index>

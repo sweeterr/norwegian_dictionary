@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blindspor</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ж.-д.</u> тупик, тупиковый путь
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупик, тупиковый путь</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsintensitet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эк.</u> интенсивность труда
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интенсивность труда</text></cit>
 </sense>
 </entry>
 </superEntry>

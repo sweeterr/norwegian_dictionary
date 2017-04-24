@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fattes</orth>
 <inflection><orth extent="part">-edes, -es</orth></inflection>
-<u>уст.</u> не хватать, недоставать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не хватать, недоставать</text></cit>
 <сit type="example"><text>hva fattes deg?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что с тобой случилось?</text></cit></cit>
 </sense>
 </entry>

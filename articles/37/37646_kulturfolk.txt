@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kulturfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-культурный (цивилизованный) народ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культурный (цивилизованный) народ</text></cit>
 </sense>
 <sense>
-культурные (интеллигентные) люди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культурные (интеллигентные) люди</text></cit>
 </sense>
 </entry>
 </superEntry>

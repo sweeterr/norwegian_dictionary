@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nykke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-причуда, прихоть, вздорная выдумка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причуда, прихоть, вздорная выдумка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">nykke</orth>
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
-рвануть, потянуть, вырвать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рвануть, потянуть, вырвать</text></cit>
 </sense>
 </entry>
 </superEntry>

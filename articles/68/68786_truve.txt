@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">truve</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-давить, жать (что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давить, жать (что-л.)</text></cit>
 </sense>
 <sense>
-настаивать (на чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настаивать (на чём-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

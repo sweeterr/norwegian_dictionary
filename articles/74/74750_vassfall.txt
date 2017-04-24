@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vassfall</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-водопад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водопад</text></cit>
 </sense>
 <sense>
-сильный ливень, проливень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный ливень, проливень</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dov</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>анат.</u> крестец
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">dov</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-зыбкая почва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зыбкая почва</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">dov</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-затишье (после бури
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затишье (после бури</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,9 +30,8 @@
 <form>
 <orth type="lemma">dov</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-глухой, заглушённый, приглушённый (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой, заглушённый, приглушённый (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skytevåpen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> огнестрельное оружие
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огнестрельное оружие</text></cit>
 </sense>
 </entry>
 </superEntry>

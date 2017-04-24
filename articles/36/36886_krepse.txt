@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">krepse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-пятиться назад, двигаться по-рачьи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятиться назад, двигаться по-рачьи</text></cit>
 </sense>
 <sense>
-отступать, ретироваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отступать, ретироваться</text></cit>
 </sense>
 <sense>
-ловить раков
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловить раков</text></cit>
 </sense>
 </entry>
 </superEntry>

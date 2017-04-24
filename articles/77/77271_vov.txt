@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">vov</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-лай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лай</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vov</orth>
-<u>диал.</u> 
+<usg>диал.</usg>
 <gramGrp><tns>pret</tns><note>от veve</note></gramGrp>
 </sense>
 </entry>
@@ -20,9 +20,9 @@
 <index></index>
 <form>
 <orth type="lemma">vov</orth>
-vov! 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>vov!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-гав-гав! (подражание лаю собаки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гав-гав! (подражание лаю собаки)</text></cit>
 </sense>
 </entry>
 </superEntry>

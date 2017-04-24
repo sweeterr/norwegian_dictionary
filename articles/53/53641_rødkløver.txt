@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødkløver</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> клевер красноватый или луговой
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клевер красноватый или луговой</text></cit>
 </sense>
 </entry>
 </superEntry>

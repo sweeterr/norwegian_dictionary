@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skuddvidde</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-дальность стрельбы (полёта снаряда), досягаемость огня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальность стрельбы (полёта снаряда), досягаемость огня</text></cit>
 <сit type="example"><text>innenfor skuddvidde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пределах досягаемости огня</text></cit></cit>
 <сit type="example"><text>utenfor skuddvidde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вне досягаемости огня</text></cit></cit>
 </sense>

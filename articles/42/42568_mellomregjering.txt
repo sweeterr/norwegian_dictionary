@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomregjering</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>редко</u> междуцарствие
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>междуцарствие</text></cit>
 </sense>
 </entry>
 </superEntry>

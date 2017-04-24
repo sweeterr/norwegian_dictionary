@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dokke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-см. dukke I
+<ref>dukke I</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">dokke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> ставить в док, заходить в док (о судне)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ставить в док, заходить в док (о судне)</text></cit>
 </sense>
 </entry>
 </superEntry>

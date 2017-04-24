@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">musikanter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u> музыкант
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыкант</text></cit>
 </sense>
 </entry>
 </superEntry>

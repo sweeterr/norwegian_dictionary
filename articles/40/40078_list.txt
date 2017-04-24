@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">list</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-хитрость, лукавство, коварство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрость, лукавство, коварство</text></cit>
 <сit type="example"><text>med (ved) list</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитростью</text></cit></cit>
 <сit type="example"><text>bruke list</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитрить, лукавить</text></cit></cit>
 <сit type="example"><text>ta sin tilflukt til list</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пуститься на хитрости</text></cit></cit>
@@ -18,13 +18,14 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-планка, рейка, плинтус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>планка, рейка, плинтус</text></cit>
 </sense>
 <sense>
-кайма, кромка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кайма, кромка</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> планка (при прыжках в высоту)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>планка (при прыжках в высоту)</text></cit>
 <сit type="example"><text>sette list 10 cm. opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять планку на 10 см.</text></cit></cit>
 </sense>
 </entry>

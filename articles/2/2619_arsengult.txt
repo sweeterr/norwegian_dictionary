@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arsengult</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> жёлтый мышьяк, трёхсернистый мышьяк
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтый мышьяк, трёхсернистый мышьяк</text></cit>
 </sense>
 </entry>
 </superEntry>

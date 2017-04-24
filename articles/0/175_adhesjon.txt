@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">adhesjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u>, <u>тех.</u> прилипание, сцепление
+<usg>физ.</usg>
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилипание, сцепление</text></cit>
 </sense>
 </entry>
 </superEntry>

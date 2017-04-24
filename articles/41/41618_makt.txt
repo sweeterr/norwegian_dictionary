@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-мощь, сила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мощь, сила</text></cit>
 <сit type="example"><text>av all makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изо всех сил</text></cit></cit>
 <сit type="example"><text>bruke makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>применять силу</text></cit></cit>
 <сit type="example"><text>holde ved makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>утверждать силой</text></cit></cit>
@@ -16,7 +16,7 @@
 <сit type="example"><text>ta noe med makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять что-л. силой</text></cit></cit>
 </sense>
 <sense>
-власть, компетенция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>власть, компетенция</text></cit>
 <сit type="example"><text>dømmende makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судебные власти</text></cit></cit>
 <сit type="example"><text>lovgivende (utøvende, øverste) makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>законодательная (исполнительная, высшая) власть</text></cit></cit>
 <сit type="example"><text>det er i min makt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это в моей власти</text></cit></cit>
@@ -25,10 +25,10 @@
 <сit type = "example"><text>komme til makt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обрести силы</text></cit></cit>
 </sense>
 <sense>
-авторитет, влияние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>авторитет, влияние</text></cit>
 </sense>
 <sense>
-держава, суверенное государство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держава, суверенное государство</text></cit>
 <сit type="example"><text>forbundne (allierte) makter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>союзные государства</text></cit></cit>
 <сit type="example"><text>krigførende (nøytrale) makter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воюющие (нейтральные) государства</text></cit></cit>
 <сit type="example"><text>store makter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>великие державы</text></cit></cit>

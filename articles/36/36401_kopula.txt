@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kopula</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> (глагол-)связка
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(глагол-)связка</text></cit>
 </sense>
 </entry>
 </superEntry>

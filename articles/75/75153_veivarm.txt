@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">veivarm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> плечо кривошипа
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плечо кривошипа</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-формулировка, редакция, форма выражения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формулировка, редакция, форма выражения</text></cit>
 </sense>
 <sense>
-буквальное значение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буквальное значение</text></cit>
 <сit type="example"><text>følge ordlyden av en kontrakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следовать букве соглашения (контракта)</text></cit></cit>
 </sense>
 </entry>

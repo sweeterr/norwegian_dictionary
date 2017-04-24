@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">isgrå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-светло-серый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светло-серый</text></cit>
 </sense>
 </entry>
 </superEntry>

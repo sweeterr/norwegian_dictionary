@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">morkake</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> детское место, плацента
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детское место, плацента</text></cit>
 </sense>
 </entry>
 </superEntry>

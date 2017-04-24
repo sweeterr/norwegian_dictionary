@@ -7,14 +7,15 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-старомодный, устаревший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старомодный, устаревший</text></cit>
 <сit type="example"><text>bli avlegs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить из моды</text></cit></cit>
 </sense>
 <sense>
-отставший от жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отставший от жизни</text></cit>
 </sense>
 <sense>
-<u>уст.</u> дряхлый, одряхлевший
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дряхлый, одряхлевший</text></cit>
 </sense>
 </entry>
 </superEntry>

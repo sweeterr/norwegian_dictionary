@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trandamper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-судно, гружёное рыбьим жиром (ворванью, жидким китовым жиром)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно, гружёное рыбьим жиром (ворванью, жидким китовым жиром)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">trandamper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-рабочий, занятый вытопкой рыбьего жира (ворвани)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий, занятый вытопкой рыбьего жира (ворвани)</text></cit>
 </sense>
 </entry>
 </superEntry>

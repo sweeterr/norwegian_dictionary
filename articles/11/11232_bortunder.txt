@@ -7,10 +7,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-указывает на местоположение предмета где-то внизу, на значительном расстоянии от говорящего там внизу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на местоположение предмета где-то внизу, на значительном расстоянии от говорящего там внизу</text></cit>
 </sense>
 <sense>
-с глаголами движения указывает на движение вниз в сторону от говорящего туда вниз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с глаголами движения указывает на движение вниз в сторону от говорящего туда вниз</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">bortunder</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на положение одного предмета под другим на расстоянии от говорящего там под чем-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на положение одного предмета под другим на расстоянии от говорящего там под чем-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

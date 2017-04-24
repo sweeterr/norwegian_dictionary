@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-голос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голос</text></cit>
 <сit type="example"><text>første (annen) stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>муз.</lbl> первый (второй) голос</text></cit></cit>
 <сit type="example"><text>stemmen brast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голос сорвался</text></cit></cit>
 <сit type="example"><text>synge med halv stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь вполголоса</text></cit></cit>
 <сit type="example"><text>tale med bristende stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить срывающимся (ломающимся) голосом</text></cit></cit>
 </sense>
 <sense>
-избирательный голос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избирательный голос</text></cit>
 <сit type="example"><text>avgi sin stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проголосовать</text></cit></cit>
 <сit type="example"><text>telle opp stemmene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подсчитывать голоса</text></cit></cit>
 </sense>
@@ -26,28 +26,28 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-настраивать (напр. музыкальные инструменты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настраивать (напр. музыкальные инструменты)</text></cit>
 <сit type="example"><text>være stemt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть настроенным (в чью-л. пользу - for, против кого, чего-л. - mot)</text></cit></cit>
 </sense>
 <sense>
-подбирать (цвета, краски; тж. stemme sammen)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подбирать (цвета, краски; тж. stemme sammen)</text></cit>
 </sense>
 <sense>
-соответствовать, согласовываться, гармонировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать, согласовываться, гармонировать</text></cit>
 <сit type = "example"><text>det stemmer :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> годится, подходит, соответствует</text></cit></cit>
 <сit type = "example"><text>det stemmer :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> именно, так, точно, так и было</text></cit></cit>
 </sense>
 <sense>
-голосовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голосовать</text></cit>
 <сit type="example"><text>ikke stemme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воздерживаться от голосования</text></cit></cit>
 </sense>
 <sense>
-высказываться в пользу чего-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высказываться в пользу чего-л.</text></cit>
 <сit type = "example"><text>stemme i :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> запеть, заиграть (вместе с кем-л.), подхватить (песню)</text></cit></cit>
 <сit type = "example"><text>stemme i :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> присоединиться</text></cit></cit>
 <сit type = "example"><text>stemme ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приглушать (звук)</text></cit></cit>
 <сit type = "example"><text>stemme ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> проголосовать против, провалить на голосовании</text></cit></cit>
-<сit type = "example"><text>stemme ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> снижать тон</text></cit></cit>
+<сit type = "example"><text>stemme ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> снижать тон</text></cit></cit>
 <сit type = "example"><text>stemme opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> запеть, начать петь</text></cit></cit>
 <сit type = "example"><text>stemme opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> настраивать на весёлый лад</text></cit></cit>
 </sense>
@@ -59,14 +59,14 @@
 <inflection><orth extent="part">-te (-met), -t (-met)</orth></inflection>
 </form>
 <sense>
-запруживать, перегораживать плотиной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запруживать, перегораживать плотиной</text></cit>
 </sense>
 <sense>
-прекращать циркуляцию (воды, крови и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекращать циркуляцию (воды, крови и т. д.)</text></cit>
 <сit type="example"><text>stemme blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> останавливать кровь</text></cit></cit>
 </sense>
 <sense>
-сжимать, прижимать, сдавливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сжимать, прижимать, сдавливать</text></cit>
 </sense>
 </entry>
 </superEntry>

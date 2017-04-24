@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lagløp</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>спорт.</u> командный бег на длинную дистанцию
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командный бег на длинную дистанцию</text></cit>
 </sense>
 </entry>
 </superEntry>

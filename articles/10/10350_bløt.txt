@@ -5,56 +5,55 @@
 <form>
 <orth type="lemma">bløt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий</text></cit>
 <сit type="example"><text>falle bløtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть на что-л. мягкое, не ушибиться при падении</text></cit></cit>
 <сit type="example"><text>ligge bløtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лежать на чём-л. мягком</text></cit></cit>
 </sense>
 <sense>
-гладкий, без шероховатостей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гладкий, без шероховатостей</text></cit>
 </sense>
 <sense>
-лёгкий (о прикосновении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (о прикосновении)</text></cit>
 </sense>
 <sense>
-чувствительный, сентиментальный, нежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительный, сентиментальный, нежный</text></cit>
 <сit type="example"><text>bli bløtt om hjertet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растрогаться</text></cit></cit>
 </sense>
 <sense>
-благодушный (о настроении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благодушный (о настроении)</text></cit>
 </sense>
 <sense>
-не резкий, мягкий (о формах), бледный (о красках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не резкий, мягкий (о формах), бледный (о красках)</text></cit>
 </sense>
 <sense>
-шелковистый, пушистый (о волосах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелковистый, пушистый (о волосах)</text></cit>
 </sense>
 <sense>
-ласковый, ласкающий (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ласковый, ласкающий (о море)</text></cit>
 </sense>
 <sense>
-благозвучный, красивый, мелодичный (о языке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благозвучный, красивый, мелодичный (о языке)</text></cit>
 </sense>
 <sense>
-звонкий (о согласных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звонкий (о согласных)</text></cit>
 </sense>
 <sense>
-мягкий (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий (о воде)</text></cit>
 </sense>
 <sense>
-слабый, женственный (о характере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, женственный (о характере)</text></cit>
 <сit type="example"><text>han ble bløt i knærne bløt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него поджилки затряслись</text></cit></cit>
 </sense>
 <sense>
-слабоумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабоумный</text></cit>
 <сit type="example"><text>bli bløt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рехнуться</text></cit></cit>
 <сit type="example"><text>være bløt på pæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>груб.</lbl> быть не в своём уме</text></cit></cit>
 </sense>
 <sense>
-мокрый, сырой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мокрый, сырой</text></cit>
 <сit type="example"><text>være bløt på benene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промочить ноги</text></cit></cit>
 <сit type="example"><text>bløt til skinnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промокший до костей</text></cit></cit>
 </sense>

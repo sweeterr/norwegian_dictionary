@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">mase</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-раздавить, размять, превратить в месиво
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздавить, размять, превратить в месиво</text></cit>
 <сit type = "example"><text>mase til støv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> превратить в порошок</text></cit></cit>
-<сit type = "example"><text>mase til støv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> стереть в порошок</text></cit></cit>
+<сit type = "example"><text>mase til støv :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> стереть в порошок</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <form>
 <orth type="lemma">mase</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-возиться, хлопотать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возиться, хлопотать</text></cit>
 </sense>
 <sense>
-приставать, попрошайничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приставать, попрошайничать</text></cit>
 </sense>
 <sense>
-шуметь, кричать, шумно вести себя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, кричать, шумно вести себя</text></cit>
 </sense>
 </entry>
 </superEntry>

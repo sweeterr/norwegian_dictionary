@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bavl</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустая болтовня</text></cit>
 </sense>
 <sense>
-вздор, чепуха, ерунда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздор, чепуха, ерунда</text></cit>
 </sense>
 </entry>
 </superEntry>

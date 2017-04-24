@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">leseklubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-читательский клуб, литературный кружок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читательский клуб, литературный кружок</text></cit>
 </sense>
 </entry>
 </superEntry>

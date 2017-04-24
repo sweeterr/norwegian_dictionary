@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-умение, сноровка, способности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умение, сноровка, способности</text></cit>
 </sense>
 <sense>
-ёмкость, вместимость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ёмкость, вместимость</text></cit>
 </sense>
 <sense>
-теплоёмкость, электроёмкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплоёмкость, электроёмкость</text></cit>
 </sense>
 <sense>
-<u>тех.</u> производительность, мощность
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производительность, мощность</text></cit>
 </sense>
 </entry>
 </superEntry>

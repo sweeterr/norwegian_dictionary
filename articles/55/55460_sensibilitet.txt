@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-чувствительность, восприимчивость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительность, восприимчивость</text></cit>
 </sense>
 <sense>
-впечатлительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впечатлительность</text></cit>
 </sense>
 <sense>
-<u>фото</u> светочувствительность
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светочувствительность</text></cit>
 </sense>
 </entry>
 </superEntry>

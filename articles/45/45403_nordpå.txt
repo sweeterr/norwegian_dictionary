@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">nordpå</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-на севере
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на севере</text></cit>
 </sense>
 <sense>
-на север, в северном направлении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на север, в северном направлении</text></cit>
 </sense>
 </entry>
 </superEntry>

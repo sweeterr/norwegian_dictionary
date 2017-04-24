@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utlegdsmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-изгнанник; человек, высланный за пределы страны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгнанник; человек, высланный за пределы страны</text></cit>
 </sense>
 <sense>
-эмигрант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эмигрант</text></cit>
 </sense>
 </entry>
 </superEntry>

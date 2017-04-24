@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">akttegning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>жив.</u> рисунок с натуры
+<usg>жив.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рисунок с натуры</text></cit>
 </sense>
 </entry>
 </superEntry>

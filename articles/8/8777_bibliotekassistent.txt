@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bibliotekassistent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-помощник библиотекаря, книгоноша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помощник библиотекаря, книгоноша</text></cit>
 </sense>
 </entry>
 </superEntry>

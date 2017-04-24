@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">svalke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-перекатываться через палубу (о волне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекатываться через палубу (о волне)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> переходить с корабля на корабль (о матросах)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переходить с корабля на корабль (о матросах)</text></cit>
 </sense>
 </entry>
 </superEntry>

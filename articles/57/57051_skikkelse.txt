@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-вид, фигура, образ, облик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вид, фигура, образ, облик</text></cit>
 <сit type="example"><text>i skikkelse av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в образе (кого-л.), в форме (чего-л.)</text></cit></cit>
 </sense>
 <sense>
-версия, подача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>версия, подача</text></cit>
 </sense>
 <sense>
-<u>шутл.</u> персона
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>персона</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">aktelsesfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-почтительный, уважительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтительный, уважительный</text></cit>
 </sense>
 <sense>
-подобострастный, раболепный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подобострастный, раболепный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,8 +19,8 @@
 <form>
 <orth type="lemma">aktelsesfull</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <u>уст.</u>
-с совершенным почтением (завершающая формула в письме)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с совершенным почтением (завершающая формула в письме)</text></cit>
 </sense>
 </entry>
 </superEntry>

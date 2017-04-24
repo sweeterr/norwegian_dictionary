@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">triviell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-избитый, пошлый, тривиальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избитый, пошлый, тривиальный</text></cit>
 </sense>
 <sense>
-обычный, ординарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычный, ординарный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">betvinger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>уст.</u> победитель, поработитель
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>победитель, поработитель</text></cit>
 </sense>
 </entry>
 </superEntry>

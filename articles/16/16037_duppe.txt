@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">duppe</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-растопленное масло (сало)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растопленное масло (сало)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,23 +15,23 @@
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
 </form>
 <sense>
-клевать носом, дремать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клевать носом, дремать</text></cit>
 </sense>
 <sense>
-опускаться беспомощно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опускаться беспомощно</text></cit>
 </sense>
 <sense>
-качаться на воде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться на воде</text></cit>
 </sense>
 <sense>
-подпрыгивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпрыгивать</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">duppe</orth>
-см. dyppe
+<ref>dyppe</ref>
 </sense>
 </entry>
 </superEntry>

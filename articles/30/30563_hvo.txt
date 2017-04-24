@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">hvo</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
 <gramGrp><pos>inter</pos></gramGrp>
- кто?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кто?</text></cit>
 </sense>
 <sense>
 <gramGrp><pos>rel</pos></gramGrp>
- тот который, который
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тот который, который</text></cit>
 </sense>
 </entry>
 </superEntry>

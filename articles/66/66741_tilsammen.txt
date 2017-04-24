@@ -4,17 +4,17 @@
 <index></index>
 <form>
 <orth type="lemma">tilsammen</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-вместе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вместе</text></cit>
 </sense>
 <sense>
-итого, всего-навсего, в целом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>итого, всего-навсего, в целом</text></cit>
 </sense>
 <sense>
-сообща, вместе (с кем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообща, вместе (с кем-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

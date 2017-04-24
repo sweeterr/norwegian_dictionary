@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-разливать, наливать (вино, чай)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разливать, наливать (вино, чай)</text></cit>
 </sense>
 <sense>
-подносить, угощать (вином, водкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подносить, угощать (вином, водкой)</text></cit>
 </sense>
 <sense>
-дарить, преподносить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дарить, преподносить</text></cit>
 </sense>
 <sense>
-ниспосылать
-<u>уст.</u> наделять (кого-л. чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ниспосылать</text></cit>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наделять (кого-л. чем-л.)</text></cit>
 <сit type="example"><text>skjenke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продавать вино (водку) в разлив</text></cit></cit>
 </sense>
 </entry>

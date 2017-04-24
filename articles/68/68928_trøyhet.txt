@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trøyhet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> веселье, забава, шутка, проделка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веселье, забава, шутка, проделка</text></cit>
 </sense>
 </entry>
 </superEntry>

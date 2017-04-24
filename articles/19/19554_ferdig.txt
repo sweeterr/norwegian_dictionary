@@ -7,7 +7,7 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-готовый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готовый</text></cit>
 <сit type="example"><text>ferdig med det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довольно говорить об этом</text></cit></cit>
 <сit type="example"><text>bli ferdig med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закончить что-л.</text></cit></cit>
 <сit type="example"><text>være ferdig med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделаться с кем-л., не желать больше иметь дела с кем-л.</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>være ferdig til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть готовым (сделать что-л.)</text></cit></cit>
 </sense>
 <sense>
-в расцвете (сил, энергии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в расцвете (сил, энергии)</text></cit>
 </sense>
 <sense>
-законченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законченный</text></cit>
 </sense>
 </entry>
 </superEntry>

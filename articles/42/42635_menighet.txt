@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">menighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-прихожане, церковная община
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прихожане, церковная община</text></cit>
 </sense>
 <sense>
-молящиеся (в церкви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молящиеся (в церкви)</text></cit>
 </sense>
 <sense>
-приспешники, прихвостни, прихлебатели
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приспешники, прихвостни, прихлебатели</text></cit>
 </sense>
 </entry>
 </superEntry>

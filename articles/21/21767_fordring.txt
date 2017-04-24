@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-требование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>требование</text></cit>
 <сit type="example"><text>gjøre fordring på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять требования, требовать</text></cit></cit>
 <сit type="example"><text>stille store fordringer til livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять высокие требования к жизни</text></cit></cit>
 </sense>
 <sense>
-претензия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>претензия</text></cit>
 <сit type="example"><text>inndrive sine fordringer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заявлять претензии</text></cit></cit>
 </sense>
 <sense>
-<u>горн.</u> выдача на-гора (руды, угля)
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдача на-гора (руды, угля)</text></cit>
 </sense>
 </entry>
 </superEntry>

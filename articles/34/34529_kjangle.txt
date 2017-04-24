@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">kjangle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-жевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жевать</text></cit>
 </sense>
 <sense>
-не резать (о тупых ножницах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не резать (о тупых ножницах)</text></cit>
 </sense>
 <sense>
-резать тупым инструментом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резать тупым инструментом</text></cit>
 </sense>
 <sense>
-пререкаться, браниться, препираться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пререкаться, браниться, препираться</text></cit>
 </sense>
 </entry>
 </superEntry>

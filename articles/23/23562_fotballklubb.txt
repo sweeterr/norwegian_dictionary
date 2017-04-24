@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fotballklubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> футбольный клуб
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>футбольный клуб</text></cit>
 </sense>
 </entry>
 </superEntry>

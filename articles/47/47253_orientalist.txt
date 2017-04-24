@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">orientalist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-востоковед
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>востоковед</text></cit>
 </sense>
 </entry>
 </superEntry>

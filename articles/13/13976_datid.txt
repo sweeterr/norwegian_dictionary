@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-прошлое
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прошлое</text></cit>
 </sense>
 <sense>
-прошлое поколение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прошлое поколение</text></cit>
 </sense>
 <sense>
-<u>грам.</u> прошедшее время
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прошедшее время</text></cit>
 </sense>
 </entry>
 </superEntry>

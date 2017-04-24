@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sneie</orth>
 <inflection><orth extent="part">-et (-dde, -de), -et (-dd, -d)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-срезать наискось
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срезать наискось</text></cit>
 </sense>
 <sense>
-касаться, задевать (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться, задевать (кого-л.)</text></cit>
 </sense>
 <sense>
-идти наискосок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти наискосок</text></cit>
 </sense>
 </entry>
 </superEntry>

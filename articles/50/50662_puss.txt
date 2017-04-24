@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-наряд, украшение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наряд, украшение</text></cit>
 <сit type="example"><text>i full puss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полном блеске</text></cit></cit>
 </sense>
 <sense>
-штукатурка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штукатурка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">puss</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-гной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гной</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <form>
 <orth type="lemma">puss</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-шутка, проделка, трюк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, проделка, трюк</text></cit>
 <сit type="example"><text>gjøre (spille) én et puss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сыграть шутку с кем-л.</text></cit></cit>
 </sense>
 </entry>

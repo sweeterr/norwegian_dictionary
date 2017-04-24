@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ekserserpatron</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> учебный патрон
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебный патрон</text></cit>
 </sense>
 </entry>
 </superEntry>

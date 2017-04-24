@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utslagsmetode</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> олимпийская система игры (проигравший выбывает)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>олимпийская система игры (проигравший выбывает)</text></cit>
 </sense>
 </entry>
 </superEntry>

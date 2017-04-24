@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">auditiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слуховой (о памяти)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуховой (о памяти)</text></cit>
 </sense>
 <sense>
-легковоспринимающий на слух (об ученике)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легковоспринимающий на слух (об ученике)</text></cit>
 </sense>
 </entry>
 </superEntry>

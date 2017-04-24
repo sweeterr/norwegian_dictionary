@@ -6,13 +6,13 @@
 <orth type="lemma">baluchi</orth>
 </form>
 <sense>
-белуджи (народ, населяющий территорию между нижним течением Инда и Ираном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белуджи (народ, населяющий территорию между нижним течением Инда и Ираном)</text></cit>
 </sense>
 <sense>
-белудж (представитель этого народа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белудж (представитель этого народа)</text></cit>
 </sense>
 <sense>
-балучи (язык белуджей; относится к индо-иранской группе индоевропейской семьи языков, близок к курдскому)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балучи (язык белуджей; относится к индо-иранской группе индоевропейской семьи языков, близок к курдскому)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-белуджский (относящийся к Белуджистану, белуджам или языку балучи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белуджский (относящийся к Белуджистану, белуджам или языку балучи)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rådgjerd</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-средство (от чего-л. - av)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средство (от чего-л. - av)</text></cit>
 </sense>
 <sense>
-совет, консультация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совет, консультация</text></cit>
 </sense>
 </entry>
 </superEntry>

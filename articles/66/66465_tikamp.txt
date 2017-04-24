@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tikamp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> десятиборье
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>десятиборье</text></cit>
 </sense>
 </entry>
 </superEntry>

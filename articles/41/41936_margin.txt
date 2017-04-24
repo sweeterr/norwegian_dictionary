@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">margin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эк.</u>
+<usg>эк.</usg>
 </form>
 <sense>
-гарантийный задаток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гарантийный задаток</text></cit>
 </sense>
 <sense>
-маржа (разница между покупной и продажной ценой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маржа (разница между покупной и продажной ценой)</text></cit>
 </sense>
 </entry>
 </superEntry>

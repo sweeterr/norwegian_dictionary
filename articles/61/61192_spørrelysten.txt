@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">spørrelysten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-любознательный, любопытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любознательный, любопытный</text></cit>
 <сit type="example"><text>være spørrelysten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявлять любознательность</text></cit></cit>
 </sense>
 </entry>

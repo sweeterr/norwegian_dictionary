@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">motordur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ав.</u> гул, шум (работающего) мотора
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гул, шум (работающего) мотора</text></cit>
 </sense>
 </entry>
 </superEntry>

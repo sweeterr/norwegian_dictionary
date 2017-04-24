@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elektrostatikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> электростатика
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электростатика</text></cit>
 </sense>
 </entry>
 </superEntry>

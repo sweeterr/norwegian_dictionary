@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">berberhøne</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>зоол.</u> берберийская каменная куропатка (Alectoris barbara)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берберийская каменная куропатка (Alectoris barbara)</text></cit>
 </sense>
 </entry>
 </superEntry>

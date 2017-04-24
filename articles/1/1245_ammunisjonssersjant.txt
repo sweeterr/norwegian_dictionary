@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ammunisjonssersjant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> сержант службы артиллерийско-технического снабжения
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сержант службы артиллерийско-технического снабжения</text></cit>
 </sense>
 </entry>
 </superEntry>

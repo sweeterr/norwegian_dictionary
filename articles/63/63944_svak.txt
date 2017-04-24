@@ -5,32 +5,32 @@
 <form>
 <orth type="lemma">svak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слабый <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>bli svak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слабеть</text></cit></cit>
 <сit type="example"><text>være svak etter en sykdom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать слабость после болезни</text></cit></cit>
 </sense>
 <sense>
-хилый, плохой (о здоровье), дряблый (о мускулах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, плохой (о здоровье), дряблый (о мускулах)</text></cit>
 </sense>
 <sense>
-непрочный, ненадёжный (о сооружении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрочный, ненадёжный (о сооружении)</text></cit>
 </sense>
 <sense>
-неустойчивый, нетвёрдый (о политике, ценах и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неустойчивый, нетвёрдый (о политике, ценах и т. п.)</text></cit>
 <сit type="example"><text>han er svak for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не может устоять (напр. против соблазна)</text></cit></cit>
 </sense>
 <sense>
-лёгкий (о вине, запахе, звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (о вине, запахе, звуке)</text></cit>
 </sense>
 <sense>
-неуспевающий (в учёбе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуспевающий (в учёбе)</text></cit>
 </sense>
 <sense>
-<u>грам.</u> слабый
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый</text></cit>
 </sense>
 </entry>
 </superEntry>

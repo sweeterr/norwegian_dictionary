@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">loggflyndre</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> сектор ручного лага
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сектор ручного лага</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsmon</orth>
 <inflection><orth extent="part">-net, =</orth></inflection>
-<u>тех.</u> допуск, припуск (на деталях)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>допуск, припуск (на деталях)</text></cit>
 </sense>
 </entry>
 </superEntry>

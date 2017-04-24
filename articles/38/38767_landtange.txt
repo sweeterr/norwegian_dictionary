@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landtange</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>геогр.</u> перешеек
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перешеек</text></cit>
 </sense>
 </entry>
 </superEntry>

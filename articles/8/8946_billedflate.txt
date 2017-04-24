@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">billedflate</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>физ.</u> плоскость оптического изображения
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоскость оптического изображения</text></cit>
 </sense>
 </entry>
 </superEntry>

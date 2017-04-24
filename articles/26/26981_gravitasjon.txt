@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gravitasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> сила тяжести, всемирное тяготение, гравитация; притяжение
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила тяжести, всемирное тяготение, гравитация; притяжение</text></cit>
 </sense>
 </entry>
 </superEntry>

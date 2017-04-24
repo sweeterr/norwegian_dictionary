@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">blaute</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-мокрота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мокрота</text></cit>
 </sense>
 <sense>
-сильный дождь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный дождь</text></cit>
 </sense>
 <sense>
-пропитанная водой земля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропитанная водой земля</text></cit>
 </sense>
 </entry>
 </superEntry>

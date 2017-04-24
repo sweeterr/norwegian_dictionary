@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slutteri</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> долговая тюрьма
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долговая тюрьма</text></cit>
 </sense>
 </entry>
 </superEntry>

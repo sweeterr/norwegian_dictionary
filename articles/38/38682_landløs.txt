@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">landløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безземельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безземельный</text></cit>
 </sense>
 <sense>
-оторвавшийся от суши (о припайном льде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оторвавшийся от суши (о припайном льде)</text></cit>
 </sense>
 </entry>
 </superEntry>

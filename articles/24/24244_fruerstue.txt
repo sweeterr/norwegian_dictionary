@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fruerstue</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>ист.</u> помещение для женщин, женская половина (дома)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение для женщин, женская половина (дома)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">luftbuss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> пассажирский самолёт (совершающий регулярные рейсы)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пассажирский самолёт (совершающий регулярные рейсы)</text></cit>
 </sense>
 </entry>
 </superEntry>

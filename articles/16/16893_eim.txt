@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">eim</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-запах, благоухание (леса, луга и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запах, благоухание (леса, луга и т. п.)</text></cit>
 </sense>
 <sense>
-испарения (от земли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испарения (от земли)</text></cit>
 </sense>
 </entry>
 </superEntry>

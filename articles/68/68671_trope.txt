@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trope</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>лит.</u> троп
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>троп</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-тропик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропик</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-тропики, тропический пояс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропики, тропический пояс</text></cit>
 </sense>
 </entry>
 </superEntry>

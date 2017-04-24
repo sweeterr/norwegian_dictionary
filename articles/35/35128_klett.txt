@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">klett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-горка, холм, возвышенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горка, холм, возвышенность</text></cit>
 </sense>
 <sense>
-мель (в районе порта, гавани)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мель (в районе порта, гавани)</text></cit>
 </sense>
 </entry>
 </superEntry>

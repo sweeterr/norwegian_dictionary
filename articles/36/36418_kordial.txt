@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kordial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-сердечный, приветливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердечный, приветливый</text></cit>
 </sense>
 </entry>
 </superEntry>

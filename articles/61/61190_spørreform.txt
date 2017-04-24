@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spørreform</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>грам.</u> вопросительная форма
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вопросительная форма</text></cit>
 </sense>
 </entry>
 </superEntry>

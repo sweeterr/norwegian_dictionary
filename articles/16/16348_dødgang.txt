@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">dødgang</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-мёртвый ход, люфт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёртвый ход, люфт</text></cit>
 </sense>
 <sense>
-холостой ход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холостой ход</text></cit>
 </sense>
 </entry>
 </superEntry>

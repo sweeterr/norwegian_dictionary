@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">utgard</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-изгородь между выгоном и полями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгородь между выгоном и полями</text></cit>
 </sense>
 <sense>
-хутор (усадьба), лежащая в стороне
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хутор (усадьба), лежащая в стороне</text></cit>
 </sense>
 </entry>
 </superEntry>

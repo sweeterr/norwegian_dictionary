@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tordenskrall</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-раскатистый удар грома
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскатистый удар грома</text></cit>
 <сit type="example"><text>som et tordenskrall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как гром среди ясного неба</text></cit></cit>
 </sense>
 </entry>

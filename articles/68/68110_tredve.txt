@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tredve</orth>
 <gramGrp><pos>num</pos></gramGrp>
-тридцать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тридцать</text></cit>
 </sense>
 </entry>
 </superEntry>

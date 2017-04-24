@@ -7,12 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-берлога, нора, логово
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берлога, нора, логово</text></cit>
 <сit type="example"><text>gå av hi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить (вылезать) из берлоги</text></cit></cit>
 <сit type="example"><text>gå (legge seg) i hi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>залезать в берлогу</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> <u>ирон.</u> жильё, жилище
+<usg>перен.</usg>
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жильё, жилище</text></cit>
 </sense>
 </entry>
 <entry>

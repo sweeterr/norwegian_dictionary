@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vietnamesisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-вьетнамский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вьетнамский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vietnamesisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-вьетнамский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вьетнамский</text></cit>
 </sense>
 </entry>
 </superEntry>

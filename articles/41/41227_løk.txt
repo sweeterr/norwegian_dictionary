@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">løk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-лук, луковица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лук, луковица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">løk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-спокойный и глубокий ручей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойный и глубокий ручей</text></cit>
 </sense>
 <sense>
-бочаг, бочажина (расширение русла небольшой речки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бочаг, бочажина (расширение русла небольшой речки)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">nyankommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-вновь прибывший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вновь прибывший</text></cit>
 </sense>
 </entry>
 </superEntry>

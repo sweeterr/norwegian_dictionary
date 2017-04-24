@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-масса плавучего льда, паковый лёд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масса плавучего льда, паковый лёд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +15,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> вещи, багаж
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещи, багаж</text></cit>
 <сit type="example"><text>pikk og pakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все пожитки</text></cit></cit>
 </sense>
 <sense>
-сброд (о людях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сброд (о людях)</text></cit>
 </sense>
 </entry>
 </superEntry>

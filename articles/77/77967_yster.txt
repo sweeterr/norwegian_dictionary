@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">yster</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-сыровар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыровар</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">yster</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-буйный, неугомонный, жизнерадостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буйный, неугомонный, жизнерадостный</text></cit>
 </sense>
 </entry>
 </superEntry>

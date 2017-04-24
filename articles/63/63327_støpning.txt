@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-отливка, литейная работа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отливка, литейная работа</text></cit>
 </sense>
 <sense>
-гармоническое сочетание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гармоническое сочетание</text></cit>
 </sense>
 <sense>
-<u>перен.</u> масштаб, значение
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масштаб, значение</text></cit>
 <сit type="example"><text>av internasjonal støpning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>международного класса</text></cit></cit>
 </sense>
 </entry>

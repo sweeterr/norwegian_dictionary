@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-положение, состояние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>положение, состояние</text></cit>
 </sense>
 <sense>
-правовое положение, статус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правовое положение, статус</text></cit>
 </sense>
 <sense>
-<u>бухг.</u> баланс
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баланс</text></cit>
 <сit type="example"><text>gjøre opp status</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сводить баланс</text></cit></cit>
 </sense>
 </entry>

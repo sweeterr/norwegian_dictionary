@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tiltaleord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>грам.</u> обращение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обращение</text></cit>
 </sense>
 </entry>
 </superEntry>

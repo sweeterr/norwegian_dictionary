@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">tippe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-курица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курица</text></cit>
 </sense>
 <sense>
-<u>ласк.</u> цыпочка
+<usg>ласк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цыпочка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,13 +22,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-приводить в наклонное положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в наклонное положение</text></cit>
 </sense>
 <sense>
-сбрасывать, вываливать, сваливать (с самосвала)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбрасывать, вываливать, сваливать (с самосвала)</text></cit>
 </sense>
 <sense>
-запрокидываться (о кузове самосвала)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрокидываться (о кузове самосвала)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,16 +38,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-давать на чай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать на чай</text></cit>
 </sense>
 <sense>
-давать взятку, подкупать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать взятку, подкупать</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> делать ставку на кого-л.; держать пари на кого-л. (что-л.)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать ставку на кого-л.; держать пари на кого-л. (что-л.)</text></cit>
 </sense>
 <sense>
-участвовать в спортивной лотерее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участвовать в спортивной лотерее</text></cit>
 </sense>
 </entry>
 <entry>
@@ -54,7 +56,7 @@
 <form>
 <orth type="lemma">tippe</orth>
 <gramGrp><pos>int</pos></gramGrp>
- tippe-tippe! цып-цып!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>tippe-tippe! цып-цып!</text></cit>
 </sense>
 </entry>
 </superEntry>

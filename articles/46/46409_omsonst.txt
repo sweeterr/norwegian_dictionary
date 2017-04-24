@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">omsonst</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-напрасно, зря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напрасно, зря</text></cit>
 </sense>
 <sense>
-безвозмездно, даром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвозмездно, даром</text></cit>
 </sense>
 </entry>
 </superEntry>

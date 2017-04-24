@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">boggivogn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ж.-д.</u> вагон с тележками
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вагон с тележками</text></cit>
 </sense>
 </entry>
 </superEntry>

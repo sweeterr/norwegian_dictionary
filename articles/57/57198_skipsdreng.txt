@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">skipsdreng</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> <u>мор.</u> юнга
+<usg>уст.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юнга</text></cit>
 </sense>
 </entry>
 </superEntry>

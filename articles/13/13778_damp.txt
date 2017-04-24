@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пар, пары
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пар, пары</text></cit>
 <сit type="example"><text>for full damp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(идти) на всех парах</text></cit></cit>
 <сit type="example"><text>ligge med dampen oppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять под парами (о паровозе, пароходе)</text></cit></cit>
 <сit type = "example"><text>sette full damp på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать на полный ход (о паровозе, машине и т. п.)</text></cit></cit>
@@ -20,19 +20,21 @@
 <сit type="example"><text>slå dampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> давать контрпар</text></cit></cit>
 </sense>
 <sense>
-испарение, дымка, лёгкий туман
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испарение, дымка, лёгкий туман</text></cit>
 </sense>
 <sense>
-чад, угар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чад, угар</text></cit>
 </sense>
 <sense>
-<u>разг.</u> рейсовый пароход, пароход, совершающий регулярные рейсы
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рейсовый пароход, пароход, совершающий регулярные рейсы</text></cit>
 </sense>
 <sense>
-<u>разг.</u> паровая кухня
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паровая кухня</text></cit>
 </sense>
 <sense>
-общественная столовая
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общественная столовая</text></cit>
 <сit type="example"><text>spise på damp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питаться в общественной столовой</text></cit></cit>
 </sense>
 </entry>

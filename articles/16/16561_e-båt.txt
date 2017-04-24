@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">e-båt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> конвойное судно, конвоир
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конвойное судно, конвоир</text></cit>
 </sense>
 </entry>
 </superEntry>

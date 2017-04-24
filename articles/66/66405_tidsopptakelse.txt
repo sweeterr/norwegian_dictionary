@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tidsopptakelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>фото</u> съёмка с выдержкой
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>съёмка с выдержкой</text></cit>
 </sense>
 </entry>
 </superEntry>

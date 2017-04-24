@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lydisolasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-звукоизоляция, звуковая изоляция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звукоизоляция, звуковая изоляция</text></cit>
 </sense>
 <sense>
-звуконепроницаемый слой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звуконепроницаемый слой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">tonløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-беззвучный, глухой, приглушённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззвучный, глухой, приглушённый</text></cit>
 </sense>
 <sense>
-невыразительный (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыразительный (о голосе)</text></cit>
 </sense>
 <sense>
-<u>фон.</u> безударный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безударный</text></cit>
 </sense>
 </entry>
 </superEntry>

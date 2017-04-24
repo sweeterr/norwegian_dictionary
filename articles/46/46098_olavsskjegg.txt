@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">olavsskjegg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>бот.</u> костенец северный
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костенец северный</text></cit>
 </sense>
 </entry>
 </superEntry>

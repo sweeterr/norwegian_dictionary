@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">stage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-делать поворот оверштаг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать поворот оверштаг</text></cit>
 </sense>
 <sense>
-укреплять мачту (стеньгу) штагом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укреплять мачту (стеньгу) штагом</text></cit>
 </sense>
 </entry>
 </superEntry>

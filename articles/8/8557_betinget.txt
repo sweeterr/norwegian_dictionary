@@ -7,11 +7,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-обусловленный, оговорённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обусловленный, оговорённый</text></cit>
 <сit type="example"><text>være betinget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обусловливаться (чем-л. - av)</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> условный (о приговоре)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>условный (о приговоре)</text></cit>
 </sense>
 </entry>
 </superEntry>

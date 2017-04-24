@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">blytung</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тяжёлый как свинец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый как свинец</text></cit>
 </sense>
 <sense>
-невыразимо тяжёлый (о переживаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыразимо тяжёлый (о переживаниях)</text></cit>
 </sense>
 <sense>
-мрачный, окутанный мраком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачный, окутанный мраком</text></cit>
 </sense>
 </entry>
 </superEntry>

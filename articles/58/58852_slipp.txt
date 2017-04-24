@@ -7,13 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>авт.</u> эстакада (для ремонта автомашин)
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эстакада (для ремонта автомашин)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> слип, мортонов эллинг
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слип, мортонов эллинг</text></cit>
 </sense>
 <sense>
-<u>мор.</u> скольжение винта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скольжение винта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +24,7 @@
 <form>
 <orth type="lemma">slipp</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-свора (упряжка) собак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свора (упряжка) собак</text></cit>
 <сit type="example"><text>gi slipp på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упустить, выпустить из рук; уступить</text></cit></cit>
 </sense>
 </entry>

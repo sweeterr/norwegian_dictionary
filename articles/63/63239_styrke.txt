@@ -7,25 +7,27 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-сила, мощь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила, мощь</text></cit>
 <сit type="example"><text>hans styrke brast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он выбился из сил</text></cit></cit>
 <сit type="example"><text>gi ny styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>придать новые силы</text></cit></cit>
 <сit type="example"><text>prøve styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меряться силами (с кем-л.)</text></cit></cit>
 </sense>
 <sense>
-прочность, крепость, сопротивление (материалов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочность, крепость, сопротивление (материалов)</text></cit>
 </sense>
 <sense>
-стойкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стойкость</text></cit>
 </sense>
 <sense>
-сильная сторона (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильная сторона (кого-л.)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> интенсивность, напряжение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интенсивность, напряжение</text></cit>
 </sense>
 <sense>
-<u>воен.</u> численный состав (численность) войск
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>численный состав (численность) войск</text></cit>
 <сit type="example"><text>effektive styrke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>боеспособные войска</text></cit></cit>
 <сit type="example"><text>væpnede styrker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вооружённые силы</text></cit></cit>
 </sense>
@@ -37,13 +39,13 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-укреплять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укреплять</text></cit>
 </sense>
 <sense>
-поддерживать (морально)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддерживать (морально)</text></cit>
 </sense>
 <sense>
-усиливать, делать более прочным, крепким
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усиливать, делать более прочным, крепким</text></cit>
 </sense>
 </entry>
 </superEntry>

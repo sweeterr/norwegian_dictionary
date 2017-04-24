@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">tussgrå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u> сероватый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сероватый</text></cit>
 </sense>
 </entry>
 </superEntry>

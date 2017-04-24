@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">strede</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-небольшая улица, переулок, проезд (в городе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая улица, переулок, проезд (в городе)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">strede</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-узкий пролив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий пролив</text></cit>
 </sense>
 </entry>
 </superEntry>

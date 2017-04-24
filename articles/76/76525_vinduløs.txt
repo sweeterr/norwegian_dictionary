@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vinduløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не имеющий окон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий окон</text></cit>
 </sense>
 </entry>
 </superEntry>

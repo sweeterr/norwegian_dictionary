@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ildlinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> линия огня, передний край
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия огня, передний край</text></cit>
 </sense>
 </entry>
 </superEntry>

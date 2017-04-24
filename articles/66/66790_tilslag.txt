@@ -7,14 +7,16 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-удар молотка на аукционе (свидетельствующий о принятии предложенной цены)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар молотка на аукционе (свидетельствующий о принятии предложенной цены)</text></cit>
 <сit type="example"><text>få tilslaget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приобрести вещь на аукционе</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> присадка, плавень, флюс
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>присадка, плавень, флюс</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> удар (в футболе)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар (в футболе)</text></cit>
 </sense>
 </entry>
 </superEntry>

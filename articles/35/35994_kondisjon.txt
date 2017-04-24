@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-условие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>условие</text></cit>
 </sense>
 <sense>
-состояние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состояние</text></cit>
 <сit type="example"><text>i god kondisjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в хорошем состоянии</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> место прислуги
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место прислуги</text></cit>
 <сit type="example"><text>ta kondisjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поступить в дом</text></cit></cit>
 </sense>
 </entry>

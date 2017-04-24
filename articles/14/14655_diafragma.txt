@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">diafragma</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>анат.</u>, <u>тех.</u> диафрагма
+<usg>анат.</usg>
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диафрагма</text></cit>
 </sense>
 </entry>
 </superEntry>

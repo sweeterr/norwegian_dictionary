@@ -5,24 +5,23 @@
 <form>
 <orth type="lemma">vrang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неверный, неправильный, не соответствующий действительности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неверный, неправильный, не соответствующий действительности</text></cit>
 </sense>
 <sense>
-трудный, сложный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный, сложный</text></cit>
 </sense>
 <sense>
-неприязненный, недоброжелательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприязненный, недоброжелательный</text></cit>
 </sense>
 <sense>
-несговорчивый, строптивый, норовистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несговорчивый, строптивый, норовистый</text></cit>
 <сit type="example"><text>slå (skape) seg vrang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заупрямиться, заартачиться</text></cit></cit>
 </sense>
 <sense>
-вывернутый наизнанку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывернутый наизнанку</text></cit>
 </sense>
 </entry>
 </superEntry>

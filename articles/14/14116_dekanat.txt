@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-должность декана
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность декана</text></cit>
 </sense>
 <sense>
-<u>церк.</u> должность старшего пастора
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность старшего пастора</text></cit>
 </sense>
 </entry>
 </superEntry>

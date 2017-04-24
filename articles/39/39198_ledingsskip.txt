@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ledingsskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> корабль, построенный для морских набегов
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корабль, построенный для морских набегов</text></cit>
 </sense>
 </entry>
 </superEntry>

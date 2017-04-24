@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">vissen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-увядший, завядший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увядший, завядший</text></cit>
 </sense>
 <sense>
-поблёкший, поникший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поблёкший, поникший</text></cit>
 </sense>
 <sense>
-дряблый, ослабевший, бессильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дряблый, ослабевший, бессильный</text></cit>
 </sense>
 <sense>
-усталый, изнурённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усталый, изнурённый</text></cit>
 </sense>
 </entry>
 </superEntry>

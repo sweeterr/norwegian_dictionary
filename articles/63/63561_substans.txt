@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-сущность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сущность</text></cit>
 </sense>
 <sense>
-<u>филос.</u> субстанция
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>субстанция</text></cit>
 </sense>
 <sense>
-<u>хим.</u> вещество, материя
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещество, материя</text></cit>
 </sense>
 </entry>
 </superEntry>

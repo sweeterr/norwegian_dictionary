@@ -7,20 +7,20 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-остриё, лезвие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остриё, лезвие</text></cit>
 <сit type="example"><text>verge med odd og egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> оборонять, защищать с оружием в руках</text></cit></cit>
 </sense>
 <sense>
-гребень (горы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребень (горы)</text></cit>
 </sense>
 <sense>
-впадина на дне моря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впадина на дне моря</text></cit>
 </sense>
 <sense>
-кромка (ткани)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кромка (ткани)</text></cit>
 </sense>
 <sense>
-острый край (камня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый край (камня)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +28,7 @@
 <form>
 <orth type="lemma">egg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-яйцо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яйцо</text></cit>
 <сit type="example"><text>bløtkokt egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яйцо всмятку</text></cit></cit>
 <сit type="example"><text>forlorne egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>яйцо-пашот</text></cit></cit>
 <сit type="example"><text>hardkokt egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крутое яйцо</text></cit></cit>

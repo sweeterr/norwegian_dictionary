@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skuddhold</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-дальность выстрела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дальность выстрела</text></cit>
 <сit type="example"><text>utenfor skuddhold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вне досягаемости огня</text></cit></cit>
 <сit type="example"><text>komme på skuddhold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подходить на дальность выстрела</text></cit></cit>
 </sense>

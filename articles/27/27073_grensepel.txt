@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">grensepel</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пограничный столб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пограничный столб</text></cit>
 <сit type = "example"><text>flytte grensepeler :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отодвигать пограничные столбы</text></cit></cit>
-<сit type = "example"><text>flytte grensepeler :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> захватывать новые области (знания и т. д.)</text></cit></cit>
+<сit type = "example"><text>flytte grensepeler :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> захватывать новые области (знания и т. д.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

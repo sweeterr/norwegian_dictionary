@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">foranomtalt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-о котором говорилось раньше, ранее упомянутый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>о котором говорилось раньше, ранее упомянутый</text></cit>
 </sense>
 </entry>
 </superEntry>

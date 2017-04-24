@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glispe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> злобно хихикать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злобно хихикать</text></cit>
 </sense>
 </entry>
 </superEntry>

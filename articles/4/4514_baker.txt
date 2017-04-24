@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">baker</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-пекарь, булочник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пекарь, булочник</text></cit>
 <сit type="example"><text>rette baker for smed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> наказывать пекаря вместо кузнеца (ср. русск. бить Фому за Ерёмину вину)</text></cit></cit>
 <сit type="example"><text>gi bakerens barn bred</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> давать хлеб ребёнку пекаря (ср. русск. в лес дров не возят, в колодец воды не льют)</text></cit></cit>
 </sense>

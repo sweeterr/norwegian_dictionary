@@ -7,18 +7,21 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-кислота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кислота</text></cit>
 <сit type="example"><text>fortynnet syre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбавленная кислота</text></cit></cit>
 <сit type="example"><text>uorganiske syrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неорганические кислоты</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> щавель
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щавель</text></cit>
 </sense>
 <sense>
-<u>разг.</u> спиртные напитки
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спиртные напитки</text></cit>
 </sense>
 <sense>
-<u>диал.</u> сыворотка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыворотка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,13 +31,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-подкислять, делать кислым
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкислять, делать кислым</text></cit>
 </sense>
 <sense>
-заквашивать (тесто)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заквашивать (тесто)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> хандрить, киснуть (о человеке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хандрить, киснуть (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

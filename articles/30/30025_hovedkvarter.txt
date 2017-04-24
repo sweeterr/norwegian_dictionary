@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hovedkvarter</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> штаб, штаб-квартира, ставка (главнокомандующего)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штаб, штаб-квартира, ставка (главнокомандующего)</text></cit>
 </sense>
 </entry>
 </superEntry>

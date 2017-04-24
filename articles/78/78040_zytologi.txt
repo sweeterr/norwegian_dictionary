@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">zytologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>биол.</u> цитология
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цитология</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvanteteori</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> квантовая теория
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квантовая теория</text></cit>
 </sense>
 </entry>
 </superEntry>

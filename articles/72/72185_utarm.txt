@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">utarm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> очень бедный, нищий
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень бедный, нищий</text></cit>
 </sense>
 </entry>
 </superEntry>

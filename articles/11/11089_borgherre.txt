@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">borgherre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u> владелец замка
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владелец замка</text></cit>
 </sense>
 </entry>
 </superEntry>

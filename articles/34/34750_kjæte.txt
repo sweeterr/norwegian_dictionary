@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjæte</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> шаловливость, кокетство
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаловливость, кокетство</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">kjæte</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> шалить, кокетничать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шалить, кокетничать</text></cit>
 </sense>
 </entry>
 </superEntry>

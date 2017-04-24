@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">diplomat</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-дипломат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дипломат</text></cit>
 </sense>
 </entry>
 </superEntry>

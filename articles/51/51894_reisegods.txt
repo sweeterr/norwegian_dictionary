@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">reisegods</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-багаж (крупный, перевозимый отдельно от пассажира)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багаж (крупный, перевозимый отдельно от пассажира)</text></cit>
 <сit type="example"><text>innskrevet reisegods</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вещи, сданные в багаж</text></cit></cit>
 </sense>
 </entry>

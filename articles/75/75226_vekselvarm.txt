@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">vekselvarm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>зоол.</u> холоднокровный (о животном)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холоднокровный (о животном)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,7 +8,7 @@
 <inflection><orth>ga, gitt</orth></inflection>
 </form>
 <sense>
-давать, вручать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать, вручать</text></cit>
 <сit type="example"><text>gi en noe med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать кому-л. с собой</text></cit></cit>
 <сit type="example"><text>jeg skal gi deg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я тебе задам (выражение угрозы)</text></cit></cit>
 <сit type="example"><text>gi av seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать доход, приносить выгоду</text></cit></cit>
@@ -20,39 +20,39 @@
 <сit type="example"><text>gi til ekte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдавать замуж</text></cit></cit>
 </sense>
 <sense>
-даровать, жаловать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>даровать, жаловать</text></cit>
 </sense>
 <sense>
-дарить, преподносить (к празднику - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дарить, преподносить (к празднику - til)</text></cit>
 </sense>
 <sense>
-платить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платить</text></cit>
 <сit type="example"><text>hva gir du meg for det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что ты мне на это скажешь? (как выражение возмущения)</text></cit></cit>
 </sense>
 <sense>
-давать, устраивать (обед, вечеринку, спектакль, концерт)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать, устраивать (обед, вечеринку, спектакль, концерт)</text></cit>
 </sense>
 <sense>
-оказывать (помощь, поддержку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать (помощь, поддержку)</text></cit>
 </sense>
 <sense>
-сдавать (карты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать (карты)</text></cit>
 </sense>
 <sense>
-играть (чью-л. роль), передавать (чей-л. образ)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (чью-л. роль), передавать (чей-л. образ)</text></cit>
 </sense>
 <sense>
-в словосочетаниях с прямым дополнением, выраженным существительным, см. под соответствующим существительным, напр.:
-<сit type="example"><text>gi akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. под akt</text></cit></cit>
-<сit type="example"><text>gi svikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. под svikt</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в словосочетаниях с прямым дополнением, выраженным существительным, см. под соответствующим существительным, напр.:</text></cit>
+<сit type="example"><text>gi akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>под akt</ref></text></cit></cit>
+<сit type="example"><text>gi svikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>под svikt</ref></text></cit></cit>
 </sense>
 <sense>
-в безличных оборотах:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в безличных оборотах:</text></cit>
 <сit type="example"><text>det ga et dump</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздался грохот</text></cit></cit>
 <сit type="example"><text>det ga et skinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>был виден блеск свет)</text></cit></cit>
 </sense>
 <sense>
-в пассивной форме:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пассивной форме:</text></cit>
 <сit type="example"><text>der gis, det gis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>имеется, существует, бывает</text></cit></cit>
 <сit type="example"><text>gi etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддаваться, уступать</text></cit></cit>
 <сit type="example"><text>gi igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать сдачи</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lekk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> звено (в цепи)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звено (в цепи)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-течь, утечка (в судне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, утечка (в судне)</text></cit>
 </sense>
 <sense>
-трещина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина</text></cit>
 </sense>
 <sense>
-утечка (количество жидкости, газа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утечка (количество жидкости, газа)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,9 +30,8 @@
 <form>
 <orth type="lemma">lekk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-имеющий течь, давший течь, дырявый, худой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий течь, давший течь, дырявый, худой</text></cit>
 <сit type="example"><text>springe lekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать течь</text></cit></cit>
 <сit type="example"><text>være lekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>течь, иметь пробоину</text></cit></cit>
 </sense>

@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-сжигать, выжигать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сжигать, выжигать</text></cit>
 </sense>
 <sense>
-обжигать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжигать</text></cit>
 </sense>
 <sense>
-пускать (фейерверк)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пускать (фейерверк)</text></cit>
 </sense>
 <sense>
-дистиллировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дистиллировать</text></cit>
 </sense>
 <sense>
-травить (металл)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>травить (металл)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <form>
 <orth type="lemma">avbrenne</orth>
 <inflection><orth>avbrant, avbrent</orth></inflection>
-выгорать, сгорать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выгорать, сгорать</text></cit>
 </sense>
 </entry>
 </superEntry>

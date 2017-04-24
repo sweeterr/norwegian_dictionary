@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-слово
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слово</text></cit>
 <сit type="example"><text>det levende ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>живое слово</text></cit></cit>
 <сit type="example"><text>sammensatt ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложное слово</text></cit></cit>
 <сit type="example"><text>ikke et ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни одного слова</text></cit></cit>
@@ -39,12 +39,12 @@
 <сit type="example"><text>det var et ord i rette tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> вовремя сказанное слово</text></cit></cit>
 </sense>
 <sense>
-пословица, поговорка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пословица, поговорка</text></cit>
 <сit type="example"><text>bevingede ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крылатые слова</text></cit></cit>
 <сit type="example"><text>et gammelt ord sier ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая пословица гласит ...</text></cit></cit>
 </sense>
 <sense>
-речь, выступление (в прениях, дискуссии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>речь, выступление (в прениях, дискуссии)</text></cit>
 <сit type="example"><text>føre ordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать, ораторствовать</text></cit></cit>
 <сit type="example"><text>føre det store ordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хвастаться, бахвалиться</text></cit></cit>
 <сit type="example"><text>gripe (ta) ordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять (брать) слово (для выступления)</text></cit></cit>
@@ -52,14 +52,14 @@
 <сit type="example"><text>ta ordet fra noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прервать кого-л.</text></cit></cit>
 </sense>
 <sense>
-молва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молва</text></cit>
 <сit type="example"><text>ha godt (dårlig) ord (på seg)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться доброй (дурной) славой</text></cit></cit>
 <сit type="example"><text>ha (få) ord for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слыть за (кого-л.)</text></cit></cit>
 <сit type="example"><text>så går ordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так говорят, такова молва</text></cit></cit>
 <сit type="example"><text>stort ord gikk der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>было много разговоров (о чём-л.)</text></cit></cit>
 </sense>
 <sense>
-обещание, заверение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обещание, заверение</text></cit>
 <сit type="example"><text>på ord og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на честное слово</text></cit></cit>
 <сit type="example"><text>være mann for sitt ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть хозяином своего слова</text></cit></cit>
 </sense>

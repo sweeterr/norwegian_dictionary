@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forplante</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>с.-х.</u> кормовое растение, кормовая культура
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормовое растение, кормовая культура</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-размножаться, распространяться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размножаться, распространяться</text></cit>
 </sense>
 <sense>
-<u>физ.</u> распространяться (тж. forplante seg)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распространяться (тж. forplante seg)</text></cit>
 </sense>
 <sense>
-передаваться по наследству
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передаваться по наследству</text></cit>
 </sense>
 </entry>
 </superEntry>

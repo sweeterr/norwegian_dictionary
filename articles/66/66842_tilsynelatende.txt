@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">tilsynelatende</orth>
-а кажущийся, призрачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>а кажущийся, призрачный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -12,7 +12,7 @@
 <form>
 <orth type="lemma">tilsynelatende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-внешне, судя по внешнему виду, с виду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешне, судя по внешнему виду, с виду</text></cit>
 </sense>
 </entry>
 </superEntry>

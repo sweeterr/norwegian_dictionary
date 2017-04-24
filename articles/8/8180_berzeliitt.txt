@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">berzeliitt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u> берцелиит
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берцелиит</text></cit>
 </sense>
 </entry>
 </superEntry>

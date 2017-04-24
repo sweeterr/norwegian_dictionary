@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bedragerisiktelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>юр.</u> обвинение в мошенничестве
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвинение в мошенничестве</text></cit>
 </sense>
 </entry>
 </superEntry>

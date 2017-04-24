@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">koffardimann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-купец (торговец), занимающийся морской торговлей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купец (торговец), занимающийся морской торговлей</text></cit>
 </sense>
 <sense>
-<u>мор.</u> купец, торговое судно
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купец, торговое судно</text></cit>
 </sense>
 </entry>
 </superEntry>

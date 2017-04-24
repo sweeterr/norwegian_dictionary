@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-стучать, похлопывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стучать, похлопывать</text></cit>
 <сit type="example"><text>det klaprer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слышится стук</text></cit></cit>
 </sense>
 <sense>
-щёлкать зубами (от страха)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щёлкать зубами (от страха)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> долбить (клювом)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долбить (клювом)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> хлопать (крыльями)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопать (крыльями)</text></cit>
 </sense>
 </entry>
 </superEntry>

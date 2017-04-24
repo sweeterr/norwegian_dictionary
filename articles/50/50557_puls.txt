@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пульс, биение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульс, биение</text></cit>
 <сit type="example"><text>bløt puls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий пульс</text></cit></cit>
 <сit type="example"><text>høy puls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>частый (учащённый) пульс</text></cit></cit>
 <сit type="example"><text>intermitterende puls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>аритмичный пульс</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>føle én på pulsen (ta pulsen, prøve pulsen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проверять пульс</text></cit></cit>
 </sense>
 <sense>
-биение (пульсирование) жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>биение (пульсирование) жизни</text></cit>
 </sense>
 </entry>
 </superEntry>

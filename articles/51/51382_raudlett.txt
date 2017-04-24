@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">raudlett</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-румяный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румяный</text></cit>
 </sense>
 <sense>
-рыжеватый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыжеватый</text></cit>
 </sense>
 </entry>
 </superEntry>

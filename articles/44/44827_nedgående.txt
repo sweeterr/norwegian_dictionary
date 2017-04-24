@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nedgående</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-заход, закат (солнца)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заход, закат (солнца)</text></cit>
 <сit type="example"><text>være i nedgående</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на закате <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 </entry>
@@ -16,16 +16,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-спускающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спускающийся</text></cit>
 </sense>
 <sense>
-падающий (о ценах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падающий (о ценах)</text></cit>
 </sense>
 <sense>
-заходящий (о солнце, луне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заходящий (о солнце, луне)</text></cit>
 </sense>
 <sense>
-тонущий (о корабле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонущий (о корабле)</text></cit>
 </sense>
 </entry>
 </superEntry>

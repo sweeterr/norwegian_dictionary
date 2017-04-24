@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-стул (сиденье) на трёх ножках
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стул (сиденье) на трёх ножках</text></cit>
 </sense>
 <sense>
-треножник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треножник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">trefot</orth>
 <inflection><orth extent="part">-foten, -føtter</orth></inflection>
-деревянная нога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная нога</text></cit>
 </sense>
 </entry>
 </superEntry>

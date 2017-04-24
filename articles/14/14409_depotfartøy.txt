@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">depotfartøy</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мор.</u> плавучая база, судно-матка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавучая база, судно-матка</text></cit>
 </sense>
 </entry>
 </superEntry>

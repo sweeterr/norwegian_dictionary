@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">samtykke</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-согласие, одобрение, разрешение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>согласие, одобрение, разрешение</text></cit>
 <сit type="example"><text>få (ha) ens samtykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить (иметь) чьё-л. согласие на что-л.</text></cit></cit>
 <сit type="example"><text>gi sitt samtykke til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать свое согласие на что-л.</text></cit></cit>
 <сit type="example"><text>hente ens samtykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить чьё-л. согласие</text></cit></cit>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">samtykke</orth>
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
-соглашаться, давать согласие (на что-л. - i), разрешать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соглашаться, давать согласие (на что-л. - i), разрешать</text></cit>
 <сit type="example"><text>den som tier, samtykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> молчание - знак согласия</text></cit></cit>
 </sense>
 </entry>

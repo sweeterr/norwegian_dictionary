@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folketone</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-народная мелодия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народная мелодия</text></cit>
 </sense>
 </entry>
 </superEntry>

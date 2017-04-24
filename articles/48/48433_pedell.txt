@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pedell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> привратник, сторож (в школе, университете)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привратник, сторож (в школе, университете)</text></cit>
 </sense>
 </entry>
 </superEntry>

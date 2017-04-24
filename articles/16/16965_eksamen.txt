@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">eksamen</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-экзамен, проверка знаний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзамен, проверка знаний</text></cit>
 <сit type="example"><text>muntlig eksamen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устный экзамен</text></cit></cit>
 <сit type="example"><text>skriftlig eksamen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>письменный экзамен</text></cit></cit>
 <сit type="example"><text>avlegge en eksamen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сдавать экзамен</text></cit></cit>

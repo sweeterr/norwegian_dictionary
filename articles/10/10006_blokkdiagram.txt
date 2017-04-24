@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blokkdiagram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>комп.</u> блок-схема (программы)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блок-схема (программы)</text></cit>
 </sense>
 </entry>
 </superEntry>

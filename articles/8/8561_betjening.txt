@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-обслуживание (клиентов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обслуживание (клиентов)</text></cit>
 </sense>
 <sense>
-<u>собир.</u> обслуживающий персонал (в гостинице, ресторане, магазине и т. п.)
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обслуживающий персонал (в гостинице, ресторане, магазине и т. п.)</text></cit>
 <сit type="example"><text>kvinnelig betjening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>женский обслуживающий персонал</text></cit></cit>
 </sense>
 </entry>

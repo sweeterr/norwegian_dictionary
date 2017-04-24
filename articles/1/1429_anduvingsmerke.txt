@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">anduvingsmerke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>мор.</u> береговой сигнальный знак
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>береговой сигнальный знак</text></cit>
 </sense>
 </entry>
 </superEntry>

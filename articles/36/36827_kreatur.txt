@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-скот, скотина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скот, скотина</text></cit>
 <сit type="example"><text>slippe kreaturene inn på beite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпустить скот на подножный корм</text></cit></cit>
 </sense>
 <sense>
-<u>презр.</u> креатура, ставленник
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>креатура, ставленник</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dominant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> доминанта
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доминанта</text></cit>
 </sense>
 </entry>
 </superEntry>

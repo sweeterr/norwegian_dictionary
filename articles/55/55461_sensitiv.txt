@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sensitiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-чувствительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительный</text></cit>
 </sense>
 </entry>
 </superEntry>

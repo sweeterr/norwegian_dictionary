@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">katgut</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> кетгут, хирургические нитки
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кетгут, хирургические нитки</text></cit>
 </sense>
 </entry>
 </superEntry>

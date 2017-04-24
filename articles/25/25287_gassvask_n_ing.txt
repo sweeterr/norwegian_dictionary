@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gassvask(n)ing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> газоочистка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газоочистка</text></cit>
 </sense>
 </entry>
 </superEntry>

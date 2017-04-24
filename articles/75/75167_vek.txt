@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">vek</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слабый, вялый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, вялый</text></cit>
 </sense>
 <sense>
-дряблый, бессильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дряблый, бессильный</text></cit>
 </sense>
 <sense>
-непрочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрочный</text></cit>
 </sense>
 <sense>
-сентиментальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сентиментальный</text></cit>
 </sense>
 </entry><entry>
 <index></index>

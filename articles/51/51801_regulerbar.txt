@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">regulerbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-регулируемый, поддающийся регулировке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регулируемый, поддающийся регулировке</text></cit>
 </sense>
 </entry>
 </superEntry>

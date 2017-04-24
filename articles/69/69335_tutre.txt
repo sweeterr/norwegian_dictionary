@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">tutre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дрожать (от холода), трястись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожать (от холода), трястись</text></cit>
 </sense>
 <sense>
-ныть, хныкать, пищать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ныть, хныкать, пищать</text></cit>
 </sense>
 <sense>
-бормотать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бормотать</text></cit>
 <сit type="example"><text>tutre i hop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плести небылицы, болтать</text></cit></cit>
 </sense>
 </entry>

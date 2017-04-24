@@ -7,11 +7,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-вокруг, кругом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг, кругом</text></cit>
 <сit type="example"><text>rundt omkring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>везде, повсюду</text></cit></cit>
 </sense>
 <sense>
-примерно, приблизительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примерно, приблизительно</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,12 +21,12 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-кругом, вокруг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кругом, вокруг</text></cit>
 <сit type="example"><text>gå omkring hjørne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть (уйти) за угол</text></cit></cit>
 <сit type="example"><text>ta omkring én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обнять (обхватить руками) кого-л.</text></cit></cit>
 </sense>
 <sense>
-около
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>около</text></cit>
 <сit type="example"><text>snakke omkring noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить вокруг да около</text></cit></cit>
 </sense>
 </entry>

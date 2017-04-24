@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">truk(j)en</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> угрюмый, надутый, брюзгливый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угрюмый, надутый, брюзгливый</text></cit>
 </sense>
 </entry>
 </superEntry>

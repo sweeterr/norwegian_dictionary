@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glidelager</orth>
 <inflection><orth extent="part">-eret, = (-re)</orth></inflection>
-<u>тех.</u> подшипник скольжения
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подшипник скольжения</text></cit>
 </sense>
 </entry>
 </superEntry>

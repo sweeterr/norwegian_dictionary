@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-валик (из волос или материи), пучок (волос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валик (из волос или материи), пучок (волос)</text></cit>
 </sense>
 <sense>
-складка (кожи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складка (кожи)</text></cit>
 </sense>
 <sense>
-шрам, рубец, желвак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шрам, рубец, желвак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">valk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> рахит
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рахит</text></cit>
 </sense>
 </entry>
 </superEntry>

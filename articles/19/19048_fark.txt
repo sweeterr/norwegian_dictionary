@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-бродяга, босяк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродяга, босяк</text></cit>
 </sense>
 <sense>
-ненадёжный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный человек</text></cit>
 </sense>
 </entry>
 </superEntry>

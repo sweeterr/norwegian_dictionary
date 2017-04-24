@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fals</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-фальшь, обман
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальшь, обман</text></cit>
 <сit type="example"><text>fals slår sin egen herre på hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> ложь всегда бывает наказана (ср. русск. сама раба себя бьёт, что нечисто жнёт)</text></cit></cit>
 </sense>
 </entry>
@@ -16,13 +16,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-фальц
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фальц</text></cit>
 </sense>
 <sense>
-паз, желобок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паз, желобок</text></cit>
 </sense>
 <sense>
-шпунт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпунт</text></cit>
 </sense>
 </entry>
 </superEntry>

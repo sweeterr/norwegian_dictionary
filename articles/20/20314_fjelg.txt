@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">fjelg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-чистый, хорошо вычищенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, хорошо вычищенный</text></cit>
 </sense>
 <sense>
-нарядный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарядный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">senehinne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> апоневроз
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>апоневроз</text></cit>
 </sense>
 </entry>
 </superEntry>

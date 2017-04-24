@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagskurs</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ком.</u> валютный курс (курс ценных бумаг) на данный день
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валютный курс (курс ценных бумаг) на данный день</text></cit>
 </sense>
 </entry>
 </superEntry>

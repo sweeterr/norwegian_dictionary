@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-плита, под (в печи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плита, под (в печи)</text></cit>
 </sense>
 <sense>
-шахта (доменной печи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шахта (доменной печи)</text></cit>
 </sense>
 <sense>
-<u>уст.</u>, <u>поэт.</u> очаг, камелёк
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очаг, камелёк</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">herd</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> плечо
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плечо</text></cit>
 </sense>
 </entry>
 </superEntry>

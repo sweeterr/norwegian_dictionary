@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-<u>воен.</u> калибр
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>калибр</text></cit>
 <сit type="example"><text>av kaliber på 105 mm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>калибром в 105 мм</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> размер
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размер</text></cit>
 <сit type="example"><text>en fyr av tvilsom kaliber</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подозрительный парень</text></cit></cit>
 </sense>
 </entry>

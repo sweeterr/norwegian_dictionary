@@ -7,13 +7,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-позади, после
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позади, после</text></cit>
 </sense>
 <sense>
-позднее, позже
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позднее, позже</text></cit>
 </sense>
 <sense>
-затем, спустя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затем, спустя</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">baketter</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на движение за кем-л. после, за, вслед за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на движение за кем-л. после, за, вслед за</text></cit>
 </sense>
 </entry>
 </superEntry>

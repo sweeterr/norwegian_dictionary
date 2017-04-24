@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bekledningsreglement</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> наставление по форме одежды
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наставление по форме одежды</text></cit>
 </sense>
 </entry>
 </superEntry>

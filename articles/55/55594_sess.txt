@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">sess</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сиденье, место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сиденье, место</text></cit>
 <сit type="example"><text>sess og sete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честь и место</text></cit></cit>
 <сit type="example"><text>han er tung i sessen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он медлительный (неповоротливый) человек</text></cit></cit>
 </sense>
 <sense>
-терраса, уступ на (склоне) местности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терраса, уступ на (склоне) местности</text></cit>
 </sense>
 </entry>
 </superEntry>

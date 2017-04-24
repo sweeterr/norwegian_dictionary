@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trenkolonne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> транспортная колонна службы тыла
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспортная колонна службы тыла</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
-дозор, вахта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дозор, вахта</text></cit>
 <сit type="example"><text>gå utkik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> стоять на вахте</text></cit></cit>
 <сit type = "example"><text>holde utkik :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> наблюдать, высматривать</text></cit></cit>
-<сit type = "example"><text>holde utkik :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> стоять в дозоре</text></cit></cit>
-<сit type = "example"><text>holde utkik :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> нести вахту</text></cit></cit>
+<сit type = "example"><text>holde utkik :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> стоять в дозоре</text></cit></cit>
+<сit type = "example"><text>holde utkik :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> нести вахту</text></cit></cit>
 <сit type="example"><text>stå på utkik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наблюдать, выслеживать</text></cit></cit>
 </sense>
 <sense>
-наблюдательный пункт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наблюдательный пункт</text></cit>
 </sense>
 <sense>
-<u>мор.</u> вахтенные
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вахтенные</text></cit>
 </sense>
 </entry>
 </superEntry>

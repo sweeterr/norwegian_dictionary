@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-певец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>певец</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> певунья-пташка
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>певунья-пташка</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> славка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>славка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vannfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-безводный, не содержащий воды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безводный, не содержащий воды</text></cit>
 </sense>
 </entry>
 </superEntry>

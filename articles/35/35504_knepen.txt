@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">knepen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-узкий, тесный, ограниченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, тесный, ограниченный</text></cit>
 </sense>
 <sense>
-скудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный</text></cit>
 </sense>
 <sense>
-тяжёлый (о времени, эпохе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о времени, эпохе)</text></cit>
 </sense>
 <sense>
-скупой, скаредный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скупой, скаредный</text></cit>
 </sense>
 </entry>
 </superEntry>

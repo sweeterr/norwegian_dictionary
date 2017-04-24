@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stikkedåse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> спичечная коробка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спичечная коробка</text></cit>
 </sense>
 </entry>
 </superEntry>

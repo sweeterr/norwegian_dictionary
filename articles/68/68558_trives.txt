@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">trives</orth>
-<inflection><orth>trivdes(<u>диал.</u> treivs), triv(e)s</orth></inflection>
+<inflection><orth>trivdes(<lbl>диал.</lbl> treivs), triv(e)s</orth></inflection>
 </form>
 <sense>
-процветать, преуспевать, благоденствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>процветать, преуспевать, благоденствовать</text></cit>
 </sense>
 <sense>
-хорошо расти, хорошо развиваться (о растениях, животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо расти, хорошо развиваться (о растениях, животных)</text></cit>
 </sense>
 <sense>
-жиреть, толстеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жиреть, толстеть</text></cit>
 </sense>
 </entry>
 </superEntry>

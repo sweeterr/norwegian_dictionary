@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støttone</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фон.</u> затвор, смычка
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затвор, смычка</text></cit>
 </sense>
 </entry>
 </superEntry>

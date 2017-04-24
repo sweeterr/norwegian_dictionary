@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skoleattest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-свидетельство об окончании школы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свидетельство об окончании школы</text></cit>
 </sense>
 </entry>
 </superEntry>

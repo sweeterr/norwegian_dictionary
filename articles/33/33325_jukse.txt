@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-обманывать, надувать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обманывать, надувать</text></cit>
 </sense>
 <sense>
-жульничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жульничать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">jukse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-ловить рыбу на подпуск (на поддёв)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловить рыбу на подпуск (на поддёв)</text></cit>
 </sense>
 </entry>
 </superEntry>

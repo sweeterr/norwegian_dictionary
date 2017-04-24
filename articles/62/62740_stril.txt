@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">stril</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-увалень, вялый (медлительный) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увалень, вялый (медлительный) человек</text></cit>
 </sense>
 <sense>
-<u>разг.</u> комбинезон
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комбинезон</text></cit>
 </sense>
 </entry>
 </superEntry>

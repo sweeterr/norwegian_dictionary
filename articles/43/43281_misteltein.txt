@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">misteltein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> омёла белая
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омёла белая</text></cit>
 </sense>
 </entry>
 </superEntry>

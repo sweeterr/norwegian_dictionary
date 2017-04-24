@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">unnamonn</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-опережение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опережение</text></cit>
 </sense>
 <sense>
-преимущество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преимущество</text></cit>
 </sense>
 </entry>
 </superEntry>

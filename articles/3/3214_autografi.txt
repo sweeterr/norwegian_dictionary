@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">autografi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>полигр.</u> литография (способ печати)
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>литография (способ печати)</text></cit>
 </sense>
 </entry>
 </superEntry>

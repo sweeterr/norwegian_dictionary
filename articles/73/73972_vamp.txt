@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vamp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-соблазнительница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соблазнительница</text></cit>
 </sense>
 <sense>
-авантюристка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>авантюристка</text></cit>
 </sense>
 <sense>
-артистка, исполняющая роль соблазнительницы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>артистка, исполняющая роль соблазнительницы</text></cit>
 </sense>
 </entry>
 </superEntry>

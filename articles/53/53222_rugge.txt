@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rugge</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> толстуха, толстая женщина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстуха, толстая женщина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,19 +16,19 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-качать, раскачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качать, раскачивать</text></cit>
 </sense>
 <sense>
-сдвигать (стронуть) с места
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдвигать (стронуть) с места</text></cit>
 </sense>
 <sense>
-качаться, раскачиваться, покачиваться (тж. rugge på seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, раскачиваться, покачиваться (тж. rugge på seg)</text></cit>
 </sense>
 <sense>
-идти покачиваясь, пошатываясь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти покачиваясь, пошатываясь</text></cit>
 </sense>
 <sense>
-поколебать (мнение, суждение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поколебать (мнение, суждение)</text></cit>
 </sense>
 </entry>
 </superEntry>

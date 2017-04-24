@@ -5,23 +5,24 @@
 <form>
 <orth type="lemma">rokke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> скат
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скат</text></cit>
 <сit type="example"><text>den elektriske rokke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрический скат</text></cit></cit>
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расшатывать, раскачивать, пытаться сдвинуть с места
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расшатывать, раскачивать, пытаться сдвинуть с места</text></cit>
 </sense>
 <sense>
-ёрзать (на стуле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ёрзать (на стуле)</text></cit>
 <сit type="example"><text>rokke fram og tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покачиваться взад и вперёд</text></cit></cit>
 <сit type="example"><text>rokke på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пошевельнуться, сдвинуться с места</text></cit></cit>
 </sense>
 <sense>
-идти покачиваясь, пошатываясь (о пьяном), идти нетвёрдой поступью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти покачиваясь, пошатываясь (о пьяном), идти нетвёрдой поступью</text></cit>
 </sense>
 <sense>
-заставить поколебаться (в своём мнении, решении, убеждении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заставить поколебаться (в своём мнении, решении, убеждении)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,8 @@
 <form>
 <orth type="lemma">rokke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> ехать на велосипеде
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать на велосипеде</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slagprøve</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> проба (испытание) на удар
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проба (испытание) на удар</text></cit>
 </sense>
 </entry>
 </superEntry>

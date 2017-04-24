@@ -5,17 +5,19 @@
 <form>
 <orth type="lemma">diffus</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неясный, нечёткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неясный, нечёткий</text></cit>
 </sense>
 <sense>
-<u>физ.</u>, <u>хим.</u> рассеянный, диффузный
+<usg>физ.</usg>
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассеянный, диффузный</text></cit>
 </sense>
 <sense>
-<u>мед.</u> разлитой (о болезни)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разлитой (о болезни)</text></cit>
 </sense>
 </entry>
 </superEntry>

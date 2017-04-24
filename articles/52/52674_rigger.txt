@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rigger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> такелажный мастер, такелажник
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>такелажный мастер, такелажник</text></cit>
 </sense>
 </entry>
 </superEntry>

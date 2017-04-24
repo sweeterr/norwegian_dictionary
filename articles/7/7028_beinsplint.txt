@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beinsplint</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> осколок кости
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осколок кости</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">hu</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>диал.</u> см. hun II
+<usg>диал.</usg>
+<ref>hun II</ref>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">hu</orth>
 <gramGrp><pos>int</pos></gramGrp>
-ух, тьфу (используется для выражения страха, боли, отвращения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ух, тьфу (используется для выражения страха, боли, отвращения)</text></cit>
 </sense>
 </entry>
 </superEntry>

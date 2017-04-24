@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">baus</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-заносчивый, гордый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заносчивый, гордый</text></cit>
 </sense>
 <sense>
-вспыльчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспыльчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

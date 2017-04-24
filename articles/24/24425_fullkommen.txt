@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">fullkommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный</text></cit>
 </sense>
 <sense>
-совершенный, безупречный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенный, безупречный</text></cit>
 </sense>
 </entry>
 </superEntry>

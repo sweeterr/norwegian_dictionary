@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dyreslekt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> род животных
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>род животных</text></cit>
 </sense>
 </entry>
 </superEntry>

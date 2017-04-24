@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">marsjordre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> приказ на марш
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приказ на марш</text></cit>
 </sense>
 </entry>
 </superEntry>

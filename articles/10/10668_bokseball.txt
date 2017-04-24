@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bokseball</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> боксёрская груша
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боксёрская груша</text></cit>
 </sense>
 </entry>
 </superEntry>

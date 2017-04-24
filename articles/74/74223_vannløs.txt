@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vannløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безводный, лишённый воды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безводный, лишённый воды</text></cit>
 </sense>
 </entry>
 </superEntry>

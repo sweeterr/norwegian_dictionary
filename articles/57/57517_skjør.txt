@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skjør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-кислое молоко, простокваша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кислое молоко, простокваша</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,20 +13,19 @@
 <form>
 <orth type="lemma">skjør</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-хрупкий, бьющийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрупкий, бьющийся</text></cit>
 </sense>
 <sense>
-тонкий, слабый, прерывистый (о звуке, голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, слабый, прерывистый (о звуке, голосе)</text></cit>
 </sense>
 <sense>
-скоропреходящий, эфемерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скоропреходящий, эфемерный</text></cit>
 </sense>
 <sense>
-ненадёжный, непрочный, неустойчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный, непрочный, неустойчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

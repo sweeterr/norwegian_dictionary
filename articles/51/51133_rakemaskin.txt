@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rakemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>с.-х.</u> механические грабли
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>механические грабли</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-бубенчик, маленький колокольчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бубенчик, маленький колокольчик</text></cit>
 </sense>
 <sense>
-<u>диал.</u> будильник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>будильник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-пешня (для прорубания льда)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пешня (для прорубания льда)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> проход (канал) во льду
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проход (канал) во льду</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,13 +35,13 @@
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 </form>
 <sense>
-будить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>будить</text></cit>
 </sense>
 <sense>
-пробуждать, возбуждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробуждать, возбуждать</text></cit>
 </sense>
 <sense>
-вызывать (сочувствие, удивление, интерес и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать (сочувствие, удивление, интерес и т. п.)</text></cit>
 <сit type="example"><text>vekke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбудить</text></cit></cit>
 </sense>
 </entry>
@@ -50,13 +52,14 @@
 <inflection><orth extent="part">-te (-ket),-t (-ket)</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> прокладывать (прорубать) путь (канал) во льду
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать (прорубать) путь (канал) во льду</text></cit>
 </sense>
 <sense>
-делать пешнёй прорубь во льду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать пешнёй прорубь во льду</text></cit>
 </sense>
 <sense>
-вскрывать вены
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вскрывать вены</text></cit>
 <сit type="example"><text>vekke blod</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать кровопускание</text></cit></cit>
 </sense>
 </entry>
@@ -65,15 +68,17 @@
 <form>
 <orth type="lemma">vekke</orth>
 <inflection><orth>vakk, vekket</orth></inflection>
-<u>диал.</u> внезапно проснуться, пробудиться
-см. тж. kvekke I
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внезапно проснуться, пробудиться</text></cit>
+<ref>тж. kvekke I</ref>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">vekke</orth>
-<u>диал.</u> см. borte
+<usg>диал.</usg>
+<ref>borte</ref>
 </sense>
 </entry>
 </superEntry>

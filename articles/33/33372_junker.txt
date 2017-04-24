@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">junker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ист.</u> молодой дворянин, аристократ
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодой дворянин, аристократ</text></cit>
 </sense>
 </entry>
 </superEntry>

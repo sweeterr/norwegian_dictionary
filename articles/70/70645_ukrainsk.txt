@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ukrainsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-украинский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украинский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ukrainsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-украинский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украинский</text></cit>
 <сit type="example"><text>snakke ukrainsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-украински</text></cit></cit>
 </sense>
 </entry>

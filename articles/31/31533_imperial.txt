@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">imperial</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-большой формат бумаги (30 X 22 дюйма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой формат бумаги (30 X 22 дюйма)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">imperial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-императорский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>императорский</text></cit>
 </sense>
 <sense>
-имперский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имперский</text></cit>
 </sense>
 </entry>
 </superEntry>

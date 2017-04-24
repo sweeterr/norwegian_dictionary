@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-клятва, присяга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клятва, присяга</text></cit>
 <сit type="example"><text>avlegge ed på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приносить присягу в чём-л., давать клятву, клятвенное обещание в чём-л.</text></cit></cit>
 <сit type="example"><text>bryte en ed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушать клятву</text></cit></cit>
 <сit type="example"><text>erklære under ed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заявить под присягой</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>vinne ed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать клятву, клясться</text></cit></cit>
 </sense>
 <sense>
-проклятие, ругательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проклятие, ругательство</text></cit>
 <сit type="example"><text>en drøy ed</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкое ругательство</text></cit></cit>
 <сit type="example"><text>eder og forbannelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проклятия и ругательства</text></cit></cit>
 </sense>

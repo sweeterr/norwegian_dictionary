@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pannebein</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>анат.</u> лобная кость
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лобная кость</text></cit>
 </sense>
 </entry>
 </superEntry>

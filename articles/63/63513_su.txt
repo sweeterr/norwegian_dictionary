@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">su</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> паз, фальц, шов, место соединения
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паз, фальц, шов, место соединения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">su</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> см. sugge
+<usg>диал.</usg>
+<ref>sugge</ref>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">su</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>разг.</u> см. suge
+<usg>разг.</usg>
+<ref>suge</ref>
 </sense>
 </entry>
 </superEntry>

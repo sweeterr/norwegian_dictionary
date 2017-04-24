@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trippel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u> трепел
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трепел</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-тройной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройной</text></cit>
 </sense>
 <sense>
-тройственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройственный</text></cit>
 </sense>
 <sense>
-<u>тех.</u> тройного действия
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройного действия</text></cit>
 </sense>
 </entry>
 </superEntry>

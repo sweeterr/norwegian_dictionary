@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brunkrutt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> бурый порох
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурый порох</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">farse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-мясной (рыбный) фарш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мясной (рыбный) фарш</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">farse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-фарс <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фарс <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 </superEntry>

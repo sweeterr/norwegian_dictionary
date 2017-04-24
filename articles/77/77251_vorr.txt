@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vorr</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-груда камней (гальки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>груда камней (гальки)</text></cit>
 </sense>
 <sense>
-причал из камней
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причал из камней</text></cit>
 </sense>
 <sense>
-кильватерная струя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кильватерная струя</text></cit>
 </sense>
 </entry>
 </superEntry>

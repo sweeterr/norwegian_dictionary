@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">essensiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-существенный, важный, решающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>существенный, важный, решающий</text></cit>
 </sense>
 </entry>
 </superEntry>

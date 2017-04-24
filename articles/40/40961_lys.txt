@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-свет, излучение света
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свет, излучение света</text></cit>
 <сit type="example"><text>dagens lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дневной свет</text></cit></cit>
 <сit type="example"><text>indirekte lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отражённый свет</text></cit></cit>
 <сit type="example"><text>ved dagens lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>средь бела дня</text></cit></cit>
@@ -21,7 +21,7 @@
 <сit type="example"><text>se dagens lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>появиться на свет, родиться</text></cit></cit>
 </sense>
 <sense>
-освещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освещение</text></cit>
 <сit type="example"><text>elektrisk lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрическое освещение</text></cit></cit>
 <сit type="example"><text>kunstig lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искусственное освещение</text></cit></cit>
 <сit type="example"><text>naturlig lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>естественное (нормальное) освещение</text></cit></cit>
@@ -30,7 +30,7 @@
 <сit type="example"><text>stå i lyset for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заслонять свет (кому-л.)</text></cit></cit>
 </sense>
 <sense>
-огонь (лампы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь (лампы)</text></cit>
 <сit type="example"><text>blåse ut et lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погасить лампу</text></cit></cit>
 <сit type="example"><text>lete med lys og lykt(e)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искать днём с огнём</text></cit></cit>
 <сit type="example"><text>pusse lyset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистить лампу</text></cit></cit>
@@ -39,19 +39,21 @@
 <сit type="example"><text>det kom lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зажглись огни</text></cit></cit>
 </sense>
 <sense>
-свеча
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свеча</text></cit>
 <сit type="example"><text>rank (rett) som et lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямой как свеча (палка)</text></cit></cit>
 </sense>
 <sense>
-сигнальная лампа, лампа (светофора)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальная лампа, лампа (светофора)</text></cit>
 <сit type="example"><text>grønt lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зелёный свет</text></cit></cit>
 <сit type="example"><text>rødt lys</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красный свет (как сигнал опасности)</text></cit></cit>
 </sense>
 <sense>
-<u>эл.</u> свеча (единица измерения силы света)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свеча (единица измерения силы света)</text></cit>
 </sense>
 <sense>
-<u>астр.</u> светило
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светило</text></cit>
 <сit type="example"><text>brenne sitt lys fra (i) begge ender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тратить свои силы не жалея себя</text></cit></cit>
 <сit type = "example"><text>det brenner et blått lys over (for) ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> дни его сочтены</text></cit></cit>
 <сit type = "example"><text>det brenner et blått lys over (for) ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> его жизнь в опасности</text></cit></cit>
@@ -60,7 +62,7 @@
 <сit type="example"><text>gå (ryke) i lyset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исчезнуть, превратиться в ничто</text></cit></cit>
 <сit type="example"><text>ikke sette sitt lys under en skjeppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не скрывать своих талантов, не скромничать</text></cit></cit>
 <сit type = "example"><text>støpe lys :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отливать свечи</text></cit></cit>
-<сit type = "example"><text>støpe lys :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> делать книксен (о девочке)</text></cit></cit>
+<сit type = "example"><text>støpe lys :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> делать книксен (о девочке)</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -68,29 +70,28 @@
 <form>
 <orth type="lemma">lys</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-светлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светлый</text></cit>
 <сit type="example"><text>det blir lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светает</text></cit></cit>
 <сit type="example"><text>det er lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светло</text></cit></cit>
 </sense>
 <sense>
-яркий, светящийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий, светящийся</text></cit>
 </sense>
 <sense>
-ясный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ясный</text></cit>
 <сit type="example"><text>det blir lysere i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погода проясняется</text></cit></cit>
 </sense>
 <sense>
-освещенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освещенный</text></cit>
 </sense>
 <sense>
-звонкий, чистый (о звуке, голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звонкий, чистый (о звуке, голосе)</text></cit>
 </sense>
 <sense>
-весёлый, бодрый (о настроении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый, бодрый (о настроении)</text></cit>
 <сit type="example"><text>se lyst på livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть оптимистом</text></cit></cit>
 </sense>
 </entry>
@@ -103,7 +104,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(только в сочетаниях с другими наречиями и прилагательными) совсем, целиком, полностью, совершенно</quote>
+<text>(только в сочетаниях с другими наречиями и прилагательными) совсем, целиком, полностью, совершенно</text>
 </cit>
 </sense>
 </entry>

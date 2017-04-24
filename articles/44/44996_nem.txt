@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">nem</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-лёгкий, нетрудный, простой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий, нетрудный, простой</text></cit>
 </sense>
 <sense>
-<u>редко</u> удобный в обращении (об инструменте)
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удобный в обращении (об инструменте)</text></cit>
 </sense>
 </entry>
 </superEntry>

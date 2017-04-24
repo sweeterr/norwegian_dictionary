@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mispel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> мушмула
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мушмула</text></cit>
 </sense>
 </entry>
 </superEntry>

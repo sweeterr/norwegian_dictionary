@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rapp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> рюкзак, ранец, заплечный мешок
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рюкзак, ранец, заплечный мешок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">rapp</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-удар (палкой, хлыстом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар (палкой, хлыстом)</text></cit>
 <сit type="example"><text>gi rapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить (палкой), вытянуть (хлыстом)</text></cit></cit>
 </sense>
 </entry>
@@ -32,23 +33,22 @@
 <form>
 <orth type="lemma">rapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-быстрый, подвижный, прыткий, проворный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, подвижный, прыткий, проворный (о человеке)</text></cit>
 <сit type="example"><text>være rapp på hånden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть ловким (быстрым) в работе</text></cit></cit>
 <сit type="example"><text>være rapp på foten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть быстроногим, быть лёгким на подъём</text></cit></cit>
 </sense>
 <sense>
-сообразительный, бойкий, находчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообразительный, бойкий, находчивый</text></cit>
 <сit type="example"><text>være rapp i munnen (i kjeften)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за словом в карман не лезть</text></cit></cit>
 </sense>
 <sense>
-меткий (о словах, замечаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меткий (о словах, замечаниях)</text></cit>
 </sense>
 <sense>
-быстрый, скорый (о действиях, вмешательстве, помощи и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, скорый (о действиях, вмешательстве, помощи и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

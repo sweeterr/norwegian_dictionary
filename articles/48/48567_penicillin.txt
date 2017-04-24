@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">penicillin</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-пенициллин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пенициллин</text></cit>
 </sense>
 </entry>
 </superEntry>

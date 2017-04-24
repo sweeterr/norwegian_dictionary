@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-издержки, расходы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издержки, расходы</text></cit>
 </sense>
 <sense>
-уплата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уплата</text></cit>
 </sense>
 <sense>
-<u>юр.</u> опись имущества (в обеспечение долга)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опись имущества (в обеспечение долга)</text></cit>
 <сit type="example"><text>gjøre (ta) utlegg i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накладывать арест (на имущество)</text></cit></cit>
 </sense>
 <sense>
-расставленные рыбные снасти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расставленные рыбные снасти</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rak</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-фитиль (свечи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фитиль (свечи)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-обломки кораблекрушения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обломки кораблекрушения</text></cit>
 </sense>
 <sense>
-лом, скрап
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лом, скрап</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,14 +26,13 @@
 <form>
 <orth type="lemma">rak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прямой (об осанке человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой (об осанке человека)</text></cit>
 </sense>
 <sense>
-последовательный, прямой (о линии поведения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>последовательный, прямой (о линии поведения)</text></cit>
 <сit type="example"><text>rakt i øynene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямое глаза</text></cit></cit>
 <сit type="example"><text>gjøre rakt imot det en blir bedt om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать всё как раз наоборот (не так, как просили)</text></cit></cit>
 </sense>
@@ -43,9 +42,9 @@
 <form>
 <orth type="lemma">rak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> нежный, слегка пряный (о вкусе специально обработанной рыбы
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный, слегка пряный (о вкусе специально обработанной рыбы</text></cit>
 </sense>
 </entry><entry>
 <index></index>

@@ -7,21 +7,21 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-вера <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вера <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-доверие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доверие</text></cit>
 </sense>
 <sense>
-уверенность, убеждённость (в чём-л.):
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уверенность, убеждённость (в чём-л.):</text></cit>
 <сit type="example"><text>ha god tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть твёрдо уверенным</text></cit></cit>
 <сit type="example"><text>stå i den tro at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть уверенным (убеждённым) в том, что ...</text></cit></cit>
 </sense>
 <sense>
-верование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верование</text></cit>
 </sense>
 <sense>
-честность, порядочность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честность, порядочность</text></cit>
 <сit type="example"><text>i god tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честно</text></cit></cit>
 <сit type="example"><text>i ond tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечестно</text></cit></cit>
 <сit type="example"><text>min tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>честное слово</text></cit></cit>
@@ -34,10 +34,10 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-корыто, кормушка (для свиней)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корыто, кормушка (для свиней)</text></cit>
 </sense>
 <sense>
-деревянный жёлоб для воды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянный жёлоб для воды</text></cit>
 </sense>
 </entry>
 <entry>
@@ -45,16 +45,16 @@
 <form>
 <orth type="lemma">tro</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-планка, тесина (в дерновой крыше)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>планка, тесина (в дерновой крыше)</text></cit>
 </sense>
 <sense>
-шест, слега
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шест, слега</text></cit>
 </sense>
 <sense>
-удилище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удилище</text></cit>
 </sense>
 </entry>
 <entry>
@@ -64,12 +64,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-верный, надёжный, преданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верный, надёжный, преданный</text></cit>
 <сit type="example"><text>bli seg selv tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остаться верным самому себе</text></cit></cit>
 <сit type="example"><text>forbli (være) tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться (быть) верным (кому, чему-л. - mot)</text></cit></cit>
 </sense>
 <sense>
-точный, адекватный (о переводе с языка на язык)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точный, адекватный (о переводе с языка на язык)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -79,16 +79,16 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-верить (в кого, во что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верить (в кого, во что-л. - på)</text></cit>
 </sense>
 <sense>
-верить, доверять (кому-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верить, доверять (кому-л.)</text></cit>
 <сit type="example"><text>få én til å tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убедить кого-л. (в чём-л.), заставить поверить</text></cit></cit>
 <сit type="example"><text>tro én på ordet, tro på ens ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>верить кому-л. на слово</text></cit></cit>
 <сit type="example"><text>ikke tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не верить, не доверять</text></cit></cit>
 </sense>
 <sense>
-думать, полагать, считать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>думать, полагать, считать</text></cit>
 <сit type="example"><text>jeg tror</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я думаю, я полагаю</text></cit></cit>
 <сit type="example"><text>ja, det tror jeg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, полагаю, что это так</text></cit></cit>
 <сit type="example"><text>du kan tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты можешь быть уверен, поверь</text></cit></cit>
@@ -98,7 +98,7 @@
 <сit type="example"><text>tro hva det kunne være</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>интересно, что это могло быть?</text></cit></cit>
 </sense>
 <sense>
-поверять, доверять (тайну)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поверять, доверять (тайну)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-образовательный, творческий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образовательный, творческий</text></cit>
 </sense>
 <sense>
-изобразительный, пластический (об искусстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобразительный, пластический (об искусстве)</text></cit>
 <сit type="example"><text>bildende kunst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изобразительное искусство</text></cit></cit>
 <сit type="example"><text>bildende kunstner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>художник, скульптор</text></cit></cit>
 </sense>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">junggrammatiker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>лингв.</u> младограмматик
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>младограмматик</text></cit>
 </sense>
 </entry>
 </superEntry>

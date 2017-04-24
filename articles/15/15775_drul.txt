@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">drul</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-кряжистый мужчина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кряжистый мужчина</text></cit>
 </sense>
 <sense>
-упрямец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямец</text></cit>
 </sense>
 <sense>
-глыба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глыба</text></cit>
 </sense>
 </entry>
 </superEntry>

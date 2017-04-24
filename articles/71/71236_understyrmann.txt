@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">understyrmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>мор.</u> второй штурман
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>второй штурман</text></cit>
 </sense>
 </entry>
 </superEntry>

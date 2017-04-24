@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bankoverførsel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фин.</u> кредитный перевод, банковский перевод, банковский трансферт
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кредитный перевод, банковский перевод, банковский трансферт</text></cit>
 </sense>
 </entry>
 </superEntry>

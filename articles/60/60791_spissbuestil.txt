@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spissbuestil</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>архит.</u> готический стиль
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готический стиль</text></cit>
 </sense>
 </entry>
 </superEntry>

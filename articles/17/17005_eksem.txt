@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksem</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>мед.</u> экзема
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экзема</text></cit>
 </sense>
 </entry>
 </superEntry>

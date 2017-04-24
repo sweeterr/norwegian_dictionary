@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">geip</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-гримаса (как перед плачем)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гримаса (как перед плачем)</text></cit>
 <сit type="example"><text>dra på geipen, dra opp en geip, henge med (på) geipen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать гримасы (как перед плачем)</text></cit></cit>
 </sense>
 <sense>
-выпад, язвительное замечание (против кого-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпад, язвительное замечание (против кого-л. - til)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,8 @@
 <form>
 <orth type="lemma">geip</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> ротозей, зевака
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ротозей, зевака</text></cit>
 </sense>
 </entry>
 </superEntry>

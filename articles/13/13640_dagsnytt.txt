@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagsnytt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> новости дня
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>новости дня</text></cit>
 </sense>
 </entry>
 </superEntry>

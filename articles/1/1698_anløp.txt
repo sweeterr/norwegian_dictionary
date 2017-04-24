@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-заход (в порт)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заход (в порт)</text></cit>
 <сit type="example"><text>med anløp av ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с заходом в ...</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> нападение, набег, наскок
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нападение, набег, наскок</text></cit>
 </sense>
 </entry>
 </superEntry>

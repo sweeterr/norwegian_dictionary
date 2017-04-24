@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brink</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> крутой пригорок, крутой спуск, гребень холма
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой пригорок, крутой спуск, гребень холма</text></cit>
 </sense>
 </entry>
 </superEntry>

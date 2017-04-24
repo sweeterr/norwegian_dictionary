@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> поросший травой вал (возле воды)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поросший травой вал (возле воды)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,34 +14,35 @@
 <form>
 <orth type="lemma">fet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-жирный, измазанный жиром (маслом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жирный, измазанный жиром (маслом)</text></cit>
 <сit type="example"><text>det er (meg) like fet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> мне совершенно всё равно</text></cit></cit>
 </sense>
 <sense>
-тучный, упитанный (о людях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тучный, упитанный (о людях)</text></cit>
 </sense>
 <sense>
-тучный, плодородный (о почве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тучный, плодородный (о почве)</text></cit>
 </sense>
 <sense>
-густой, сочный (о траве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густой, сочный (о траве)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> самодовольный
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самодовольный</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> жирный
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жирный</text></cit>
 <сit type="example"><text>trykke fett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>набирать жирным шрифтом</text></cit></cit>
 </sense>
 <sense>
-доходный (о месте, занятии), богатый (о добыче)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходный (о месте, занятии), богатый (о добыче)</text></cit>
 </sense>
 <sense>
-смолистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смолистый</text></cit>
 </sense>
 </entry>
 </superEntry>

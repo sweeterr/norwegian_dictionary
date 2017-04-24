@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kommersiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-коммерческий, торговый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коммерческий, торговый</text></cit>
 </sense>
 </entry>
 </superEntry>

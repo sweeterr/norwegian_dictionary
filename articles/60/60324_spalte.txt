@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-трещина, щель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина, щель</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> полоса, столбец, колонка (в газете)
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоса, столбец, колонка (в газете)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расщеплять, раскалывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расщеплять, раскалывать</text></cit>
 </sense>
 <sense>
-<u>хим.</u> расщеплять, разлагать
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расщеплять, разлагать</text></cit>
 <сit type="example"><text>spalte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расщепляться, раскалываться, распадаться, растрескиваться</text></cit></cit>
 </sense>
 </entry>

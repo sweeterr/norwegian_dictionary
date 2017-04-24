@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">brum</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>собир.</u> <u>диал.</u> свежие побеги, ветки (употребляемые в качестве корма для животных)
+<usg>собир.</usg>
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежие побеги, ветки (употребляемые в качестве корма для животных)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +17,13 @@
 <inflection><orth extent="part">-met</orth></inflection>
 </form>
 <sense>
-гудение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гудение</text></cit>
 </sense>
 <sense>
-ворчание, урчание (медведя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворчание, урчание (медведя)</text></cit>
 </sense>
 <sense>
-шум (прибоя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум (прибоя)</text></cit>
 <сit type="example"><text>det dype brum fra brenningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глухой шум прибоя</text></cit></cit>
 </sense>
 </entry>

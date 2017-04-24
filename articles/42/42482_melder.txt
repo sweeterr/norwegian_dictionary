@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-игрок, объявляющий козырь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игрок, объявляющий козырь</text></cit>
 </sense>
 <sense>
-сигнальная кнопка, сигнальный аппарат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальная кнопка, сигнальный аппарат</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,13 +18,13 @@
 <form>
 <orth type="lemma">melder</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-зерно, предназначенное для помола
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зерно, предназначенное для помола</text></cit>
 </sense>
 <sense>
-смолотое зерно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смолотое зерно</text></cit>
 </sense>
 </entry>
 </superEntry>

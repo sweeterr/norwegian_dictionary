@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-ответвление дороги, дорога в сторону, окольный путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ответвление дороги, дорога в сторону, окольный путь</text></cit>
 </sense>
 <sense>
-<u>перен.</u> ложный путь
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложный путь</text></cit>
 <сit type="example"><text>på avveie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на ложном пути</text></cit></cit>
 <сit type="example"><text>føre på avveier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>направить по ложному пути</text></cit></cit>
 </sense>

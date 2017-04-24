@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">farbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-проезжий, проходимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проезжий, проходимый</text></cit>
 </sense>
 <sense>
-судоходный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судоходный</text></cit>
 </sense>
 </entry>
 </superEntry>

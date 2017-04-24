@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">alke</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-чистик (северная птица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистик (северная птица)</text></cit>
 <сit type="example"><text>brednebbet alke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гагарка обыкновенная</text></cit></cit>
 <сit type="example"><text>full som en alke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как стелька пьян</text></cit></cit>
 </sense>

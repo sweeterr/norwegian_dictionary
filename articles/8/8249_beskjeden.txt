@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">beskjeden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-скромный, застенчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скромный, застенчивый</text></cit>
 </sense>
 <sense>
-нетребовательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нетребовательный</text></cit>
 </sense>
 <sense>
-умеренный (о требованиях, желаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умеренный (о требованиях, желаниях)</text></cit>
 </sense>
 <sense>
-незначительный, небольшой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незначительный, небольшой</text></cit>
 </sense>
 </entry>
 </superEntry>

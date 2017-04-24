@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">deplorabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-плачевный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плачевный</text></cit>
 </sense>
 </entry>
 </superEntry>

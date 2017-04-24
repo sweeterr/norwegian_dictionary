@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gant</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u> шутка, прибаутка, пустая болтовня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, прибаутка, пустая болтовня</text></cit>
 </sense>
 </entry>
 </superEntry>

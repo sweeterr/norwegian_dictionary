@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ekvivalent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-эквивалент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эквивалент</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ekvivalent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-равный, равнозначный, равносильный, эквивалентный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равный, равнозначный, равносильный, эквивалентный</text></cit>
 </sense>
 </entry>
 </superEntry>

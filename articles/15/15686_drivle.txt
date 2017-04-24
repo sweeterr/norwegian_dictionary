@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">drivle</orth>
--a, -er
-<u>диал.</u> мелкий, моросящий дождь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-a, -er</text></cit>
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий, моросящий дождь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">drivle</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>диал.</u> моросить (о дожде)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моросить (о дожде)</text></cit>
 </sense>
 </entry>
 </superEntry>

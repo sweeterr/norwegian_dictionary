@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">spedere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-отправлять, посылать (товары) наложенным платежом
-<u>ком.</u> экспедировать (за счёт получателя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отправлять, посылать (товары) наложенным платежом</text></cit>
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экспедировать (за счёт получателя)</text></cit>
 </sense>
 </entry>
 </superEntry>

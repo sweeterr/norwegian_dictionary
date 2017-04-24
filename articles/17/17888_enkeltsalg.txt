@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enkeltsalg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ком.</u> розничная торговля, розничная продажа
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>розничная торговля, розничная продажа</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">natte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> переночевать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переночевать</text></cit>
 <сit type="example"><text>det nattes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опускается ночь</text></cit></cit>
 </sense>
 </entry>

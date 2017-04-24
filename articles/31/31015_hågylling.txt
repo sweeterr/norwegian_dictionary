@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hågylling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> химера европейская
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>химера европейская</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">patologisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-патологический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патологический</text></cit>
 </sense>
 </entry>
 </superEntry>

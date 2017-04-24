@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-обжора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжора</text></cit>
 </sense>
 <sense>
-глоток, кусок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток, кусок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,18 +18,17 @@
 <form>
 <orth type="lemma">gløyp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прожорливый (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прожорливый (о животных)</text></cit>
 </sense>
 <sense>
-жадный (до чего-л. - etter, på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жадный (до чего-л. - etter, på)</text></cit>
 </sense>
 <sense>
-живо интересующийся (чем-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живо интересующийся (чем-л. - på)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">haloidsalt</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> соль галоидоводородной кислоты
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соль галоидоводородной кислоты</text></cit>
 </sense>
 </entry>
 </superEntry>

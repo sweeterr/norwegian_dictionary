@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">branngrav</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>археол.</u> захоронение (могила) с остатками трупосжигания
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>захоронение (могила) с остатками трупосжигания</text></cit>
 </sense>
 </entry>
 </superEntry>

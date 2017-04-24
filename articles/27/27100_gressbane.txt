@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gressbane</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> поле с естественным газоном, травяная площадка, травяной корт
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле с естественным газоном, травяная площадка, травяной корт</text></cit>
 <сit type="example"><text>spille på gressbane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на траве</text></cit></cit>
 </sense>
 </entry>

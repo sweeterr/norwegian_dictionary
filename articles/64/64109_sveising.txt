@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sveising</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-сварка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сварка</text></cit>
 <сit type="example"><text>autogen sveising</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>автогенная сварка</text></cit></cit>
 <сit type="example"><text>elektrisk sveising</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электросварка</text></cit></cit>
 </sense>

@@ -4,22 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">sveive</orth>
-<inflection><orth extent="part">-et</orth></inflection>
- (de), 
-<inflection><orth extent="part">-et</orth></inflection>
- (-d)
+<inflection><orth extent="part">-et (de), -et (-d)</orth></inflection>
 </form>
 <sense>
-вращать, вертеть, крутить (что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращать, вертеть, крутить (что-л. - på)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> отсылать, отправлять, отшвыривать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отсылать, отправлять, отшвыривать</text></cit>
 </sense>
 <sense>
-<u>диал.</u> махать (чем-л. - med)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>махать (чем-л. - med)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> слоняться взад и вперёд, метаться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слоняться взад и вперёд, метаться</text></cit>
 <сit type="example"><text>sveive opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> заводить; запускать с помощью заводной ручки (двигатель)</text></cit></cit>
 </sense>
 </entry>

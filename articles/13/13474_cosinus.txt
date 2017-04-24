@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cosinus</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> косинус
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косинус</text></cit>
 </sense>
 </entry>
 </superEntry>

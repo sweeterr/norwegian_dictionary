@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">melodiøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-мелодичный, гармоничный, певучий, напевный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелодичный, гармоничный, певучий, напевный</text></cit>
 </sense>
 </entry>
 </superEntry>

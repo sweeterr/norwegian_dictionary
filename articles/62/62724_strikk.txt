@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">strikk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-резинка (шнур, тесьма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резинка (шнур, тесьма)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">strikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-изношенные шерстяные вещи (используемые как сырьё на трикотажных фабриках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изношенные шерстяные вещи (используемые как сырьё на трикотажных фабриках)</text></cit>
 </sense>
 </entry>
 </superEntry>

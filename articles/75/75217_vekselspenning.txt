@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vekselspenning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>эл.</u>
+<usg>эл.</usg>
 </form>
 <sense>
-переменное напряжение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переменное напряжение</text></cit>
 </sense>
 <sense>
-напряжение переменного тока
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжение переменного тока</text></cit>
 </sense>
 </entry>
 </superEntry>

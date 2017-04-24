@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hovedforsvarslinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> главная полоса обороны; передний край обороны
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главная полоса обороны; передний край обороны</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snorkeramikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>археол.</u> верёвочная керамика
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верёвочная керамика</text></cit>
 </sense>
 </entry>
 </superEntry>

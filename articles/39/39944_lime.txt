@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lime</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-метла
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метла</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-клеить, склеивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеить, склеивать</text></cit>
 </sense>
 <sense>
-обмазывать (деревья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмазывать (деревья)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> стащить, украсть
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стащить, украсть</text></cit>
 <сit type="example"><text>lime inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вклеивать</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brottharv</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>с.-х.</u> борона, культиватор
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борона, культиватор</text></cit>
 </sense>
 </entry>
 </superEntry>

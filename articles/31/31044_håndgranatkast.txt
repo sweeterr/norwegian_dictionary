@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">håndgranatkast</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u>, <u>спорт.</u> метание гранаты
+<usg>воен.</usg>
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метание гранаты</text></cit>
 </sense>
 </entry>
 </superEntry>

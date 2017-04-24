@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flyhøyde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>ав.</u> высота полёта
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высота полёта</text></cit>
 </sense>
 </entry>
 </superEntry>

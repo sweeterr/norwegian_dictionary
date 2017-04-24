@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rasp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> рашпиль
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рашпиль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,14 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-панировочные сухари
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панировочные сухари</text></cit>
 </sense>
 <sense>
-<u>разг.</u> чешуя
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чешуя</text></cit>
 </sense>
 <sense>
-опилки из-под рашпиля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опилки из-под рашпиля</text></cit>
 </sense>
 </entry>
 </superEntry>

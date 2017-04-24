@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-загородка, изгородь, ограда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загородка, изгородь, ограда</text></cit>
 </sense>
 <sense>
-огороженное место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огороженное место</text></cit>
 </sense>
 <sense>
-<u>уст.</u> каморка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каморка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-запирать (дверь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запирать (дверь)</text></cit>
 </sense>
 <sense>
-держать под замком (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держать под замком (кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

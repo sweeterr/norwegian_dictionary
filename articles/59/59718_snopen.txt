@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">snopen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-скудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный</text></cit>
 </sense>
 <sense>
-обидный, досадный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обидный, досадный</text></cit>
 </sense>
 <sense>
-затруднительный, хлопотливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительный, хлопотливый</text></cit>
 </sense>
 </entry>
 </superEntry>

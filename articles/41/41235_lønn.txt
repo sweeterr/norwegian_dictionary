@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-жалованье, зарплата, оклад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалованье, зарплата, оклад</text></cit>
 </sense>
 <sense>
-вознаграждение, благодарность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вознаграждение, благодарность</text></cit>
 <сit type="example"><text>få lønn som fortjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить по заслугам</text></cit></cit>
 </sense>
 <sense>
-возмездие, наказание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмездие, наказание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,8 @@
 <form>
 <orth type="lemma">lønn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> клён остролистный
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клён остролистный</text></cit>
 </sense>
 </entry>
 <entry>

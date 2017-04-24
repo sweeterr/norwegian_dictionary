@@ -5,33 +5,32 @@
 <form>
 <orth type="lemma">blank</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-блестящий, сверкающий, светящийся, глянцевый (о фотобумаге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестящий, сверкающий, светящийся, глянцевый (о фотобумаге)</text></cit>
 <сit type="example"><text>blank som et speil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистый как зеркало, зеркально чистый</text></cit></cit>
 </sense>
 <sense>
-ясный (о погоде, небе), чистый (о воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ясный (о погоде, небе), чистый (о воздухе)</text></cit>
 </sense>
 <sense>
-пустой, незаполненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустой, незаполненный</text></cit>
 <сit type="example"><text>la en side blank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставить страницу чистой</text></cit></cit>
 </sense>
 <sense>
-чистый, незапятнанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, незапятнанный</text></cit>
 </sense>
 <sense>
-холодный (об оружии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный (об оружии)</text></cit>
 </sense>
 <sense>
-обнажённый (о холодном оружии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обнажённый (о холодном оружии)</text></cit>
 <сit type="example"><text>trekke blank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выхватить из ножен, обнажить оружие</text></cit></cit>
 <сit type="example"><text>kjempe med blanke våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сражаться с поднятым забралом, <lbl>перен.</lbl> вести борьбу открыто</text></cit></cit>
 </sense>
 <sense>
-категорический, решительный (об отказе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>категорический, решительный (об отказе)</text></cit>
 <сit type="example"><text>være blank og bar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть без копейки денег</text></cit></cit>
 <сit type="example"><text>legge (levere) blank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не выполнить письменного задания (об ученике)</text></cit></cit>
 <сit type="example"><text>være ganske blank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> ни в зуб толкнуть (о ничего не знающем ученике)</text></cit></cit>

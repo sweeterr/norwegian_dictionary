@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-напряжённый, интенсивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжённый, интенсивный</text></cit>
 </sense>
 <sense>
-<u>эл.</u> имеющий высокое напряжение, высокого напряжения (о токе)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий высокое напряжение, высокого напряжения (о токе)</text></cit>
 </sense>
 </entry>
 </superEntry>

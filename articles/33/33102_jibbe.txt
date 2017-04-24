@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">jibbe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-перекладывать парус (при перемене галса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекладывать парус (при перемене галса)</text></cit>
 </sense>
 <sense>
-вращаться (о кране)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращаться (о кране)</text></cit>
 </sense>
 </entry>
 </superEntry>

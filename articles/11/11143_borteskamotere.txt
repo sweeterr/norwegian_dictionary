@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">borteskamotere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>перен.</u> убрать незаметно, устранить с пути
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убрать незаметно, устранить с пути</text></cit>
 <сit type="example"><text>borteskamotere seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> исчезнуть, смыться</text></cit></cit>
 </sense>
 </entry>

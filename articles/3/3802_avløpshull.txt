@@ -5,12 +5,12 @@
 <form>
 <orth type="lemma">avløpshull</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-водосток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водосток</text></cit>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(в ванной и т. д.) спускное отверстие под пробку</quote>
+<text>(в ванной и т. д.) спускное отверстие под пробку</text>
 </cit>
 </sense>
 </entry>

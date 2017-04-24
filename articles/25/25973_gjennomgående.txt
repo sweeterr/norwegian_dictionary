@@ -7,16 +7,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-сквозной (о болте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сквозной (о болте)</text></cit>
 </sense>
 <sense>
-прямого сообщения (о вагоне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямого сообщения (о вагоне)</text></cit>
 </sense>
 <sense>
-транзитный (о поезде, грузе, товаре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транзитный (о поезде, грузе, товаре)</text></cit>
 </sense>
 <sense>
-коренной, радикальный (об изменении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коренной, радикальный (об изменении)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">gjennomgående</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-сплошь, без исключения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплошь, без исключения</text></cit>
 </sense>
 </entry>
 </superEntry>

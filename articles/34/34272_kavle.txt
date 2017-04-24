@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-(примитивный) пешеходный мостик, бревно (через ручей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(примитивный) пешеходный мостик, бревно (через ручей)</text></cit>
 </sense>
 <sense>
-деревянный каток, круглый чурбан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянный каток, круглый чурбан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">kavle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вздыматься, громоздиться (о морских волнах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздыматься, громоздиться (о морских волнах)</text></cit>
 </sense>
 </entry>
 </superEntry>

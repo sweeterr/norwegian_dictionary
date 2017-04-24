@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">labrador</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> лабрадор
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лабрадор</text></cit>
 </sense>
 </entry>
 </superEntry>

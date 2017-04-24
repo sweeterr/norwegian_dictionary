@@ -7,7 +7,7 @@
 <inflection><orth>lot, latt</orth></inflection>
 </form>
 <sense>
-оставлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять</text></cit>
 <сit type="example"><text>late én i fred</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять кого-л. в покое</text></cit></cit>
 <сit type="example"><text>late én inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впускать кого-л.</text></cit></cit>
 <сit type="example"><text>late én løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпускать, освобождать</text></cit></cit>
@@ -17,7 +17,8 @@
 <сit type="example"><text>det må man late ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> этого у него нельзя отнять</text></cit></cit>
 </sense>
 <sense>
-давать (сделать что-л.), разрешать (см. тж. la III)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать (сделать что-л.), разрешать</text></cit>
+<ref>la III</ref>
 <сit type = "example"><text>late bli :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> не мешать, не препятствовать (делать что-л.)</text></cit></cit>
 <сit type = "example"><text>late bli :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> воздерживаться (от совершения чего-л.), не делать (чего-л.)</text></cit></cit>
 <сit type="example"><text>late én stå (sitte) og vente på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять кого-л. ждать себя</text></cit></cit>
@@ -31,18 +32,18 @@
 <сit type="example"><text>late vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сообщать, ставить в известность</text></cit></cit>
 </sense>
 <sense>
-казаться, прикидываться, притворяться, делать вид
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>казаться, прикидываться, притворяться, делать вид</text></cit>
 <сit type="example"><text>late som ingenting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать вид, что не замечаешь (чего-л.)</text></cit></cit>
 <сit type="example"><text>late som om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>притворяться, прикидываться</text></cit></cit>
 <сit type="example"><text>det later til at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кажется, что ...</text></cit></cit>
 </sense>
 <sense>
-в повелительном наклонении перед смысловым глаголом выражает оттенки модальности - приказание, предположение и т. д.:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в повелительном наклонении перед смысловым глаголом выражает оттенки модальности - приказание, предположение и т. д.:</text></cit>
 <сit type="example"><text>late meg tenke så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>позволь мне думать так</text></cit></cit>
 <сit type="example"><text>late meg si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дай (те) мне сказать</text></cit></cit>
 <сit type="example"><text>late oss gå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойдём (те)</text></cit></cit>
 <сit type="example"><text>late gå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предположим</text></cit></cit>
-см. тж. la III
+<ref>тж. la III</ref>
 </sense>
 </entry>
 </superEntry>

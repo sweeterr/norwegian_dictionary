@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">beiting</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-пастьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастьба</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">beiting</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> якорный битенг
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>якорный битенг</text></cit>
 </sense>
 </entry>
 </superEntry>

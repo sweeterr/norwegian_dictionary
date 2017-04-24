@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">apotekerlatin</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-латынь в пределах медицинской рецептуры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латынь в пределах медицинской рецептуры</text></cit>
 </sense>
 </entry>
 </superEntry>

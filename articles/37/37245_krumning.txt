@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-изгиб, извилина, загиб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб, извилина, загиб</text></cit>
 </sense>
 <sense>
-кривая линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кривая линия</text></cit>
 </sense>
 <sense>
-<u>мат.</u> кривизна
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кривизна</text></cit>
 </sense>
 </entry>
 </superEntry>

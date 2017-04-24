@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">herreløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бесхозяйный, не имеющий хозяина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесхозяйный, не имеющий хозяина</text></cit>
 </sense>
 </entry>
 </superEntry>

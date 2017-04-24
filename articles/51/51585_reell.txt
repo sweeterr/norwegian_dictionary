@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">reell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-реальный, действительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальный, действительный</text></cit>
 </sense>
 <sense>
-фактический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фактический</text></cit>
 </sense>
 <sense>
-материальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материальный</text></cit>
 </sense>
 <sense>
-честный, порядочный (о человеке, подходе к делу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честный, порядочный (о человеке, подходе к делу)</text></cit>
 </sense>
 </entry>
 </superEntry>

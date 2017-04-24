@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smånytt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> местные (незначительные) новости
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местные (незначительные) новости</text></cit>
 </sense>
 </entry>
 </superEntry>

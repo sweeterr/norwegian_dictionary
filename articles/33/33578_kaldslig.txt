@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kaldslig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прохладный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прохладный</text></cit>
 </sense>
 <sense>
-ужасный, страшный, жуткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужасный, страшный, жуткий</text></cit>
 </sense>
 </entry>
 </superEntry>

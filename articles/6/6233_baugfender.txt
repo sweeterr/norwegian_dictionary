@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baugfender</orth>
 <inflection><orth extent="part">-eren, -ere (-rer)</orth></inflection>
-<u>мор.</u> (носовой) кранец
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(носовой) кранец</text></cit>
 </sense>
 </entry>
 </superEntry>

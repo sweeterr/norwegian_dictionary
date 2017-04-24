@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">debitor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>ком.</u> должник, дебитор
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должник, дебитор</text></cit>
 </sense>
 </entry>
 </superEntry>

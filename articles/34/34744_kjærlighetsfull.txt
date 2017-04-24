@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kjærlighetsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-полный любви
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный любви</text></cit>
 </sense>
 </entry>
 </superEntry>

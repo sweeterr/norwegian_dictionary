@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">handelsgeografi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-экономическая география
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экономическая география</text></cit>
 </sense>
 </entry>
 </superEntry>

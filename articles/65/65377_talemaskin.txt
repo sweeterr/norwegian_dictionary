@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">talemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> <u>пренебр.</u> говорильная машина (о человеке, собрании)
+<usg>разг.</usg>
+<usg>пренебр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорильная машина (о человеке, собрании)</text></cit>
 </sense>
 </entry>
 </superEntry>

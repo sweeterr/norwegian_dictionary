@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uttaingskamp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> отборочные соревнования
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отборочные соревнования</text></cit>
 </sense>
 </entry>
 </superEntry>

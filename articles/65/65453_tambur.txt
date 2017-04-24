@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-барабанщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барабанщик</text></cit>
 </sense>
 <sense>
-пяльцы (для вышивания)
-</sense>
-<sense>
-<note>|-'bur|</note>
-<u>архит.</u> барабан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пяльцы (для вышивания)</text></cit>
 </sense>
 <sense>
 <note>|-'bur|</note>
-тамбур, вход, прихожая
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барабан</text></cit>
+</sense>
+<sense>
+<note>|-'bur|</note>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тамбур, вход, прихожая</text></cit>
 </sense>
 </entry>
 </superEntry>

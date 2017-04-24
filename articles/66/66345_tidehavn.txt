@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">tidehavn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> <u>уст.</u> приливная гавань
+<usg>мор.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приливная гавань</text></cit>
 </sense>
 </entry>
 </superEntry>

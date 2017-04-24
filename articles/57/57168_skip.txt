@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-судно, корабль, пароход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно, корабль, пароход</text></cit>
 <сit type="example"><text>ombord på et skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на борт (у) корабля</text></cit></cit>
 <сit type="example"><text>et mørklagt skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затемнённый корабль (во время светомаскировки)</text></cit></cit>
 <сit type="example"><text>et sjøgående skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>океанский (морской) корабль</text></cit></cit>
@@ -22,10 +22,12 @@
 <сit type="example"><text>brenne sine skip</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сжечь свой корабли</text></cit></cit>
 </sense>
 <sense>
-<u>архит.</u> неф
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неф</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> наборная доска
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наборная доска</text></cit>
 </sense>
 </entry>
 </superEntry>

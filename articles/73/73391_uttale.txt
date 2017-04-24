@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">uttale</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-произношение, артикуляция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произношение, артикуляция</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-произносить, артикулировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произносить, артикулировать</text></cit>
 </sense>
 <sense>
-высказывать своё мнение, делать заявление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высказывать своё мнение, делать заявление</text></cit>
 </sense>
 </entry>
 </superEntry>

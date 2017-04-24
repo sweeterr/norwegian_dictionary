@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dette</orth>
 <inflection><orth>datt, dettet</orth></inflection>
-<u>разг.</u> падать, шлёпаться
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падать, шлёпаться</text></cit>
 <сit type="example"><text>dette ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть</text></cit></cit>
 </sense>
 </entry>

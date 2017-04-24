@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">alluvium</orth>
 <inflection><orth extent="part">-umet (-et), -er</orth></inflection>
-<u>геол.</u> аллювий, речные отложения
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аллювий, речные отложения</text></cit>
 </sense>
 </entry>
 </superEntry>

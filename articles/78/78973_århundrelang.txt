@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">århundrelang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-столетний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столетний</text></cit>
 </sense>
 <sense>
-длящийся в течение многих веков
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длящийся в течение многих веков</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">reiseskildring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-описание путешествия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>описание путешествия</text></cit>
 </sense>
 </entry>
 </superEntry>

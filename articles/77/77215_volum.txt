@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-том (книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>том (книги)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> том, большая толстая книга
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>том, большая толстая книга</text></cit>
 </sense>
 <sense>
-<u>физ.</u> объём тела
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объём тела</text></cit>
 </sense>
 <sense>
-<u>радио</u> сила звука
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила звука</text></cit>
 </sense>
 </entry>
 </superEntry>

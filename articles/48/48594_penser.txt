@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">penser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ж.-д.</u> стрелочник
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелочник</text></cit>
 </sense>
 </entry>
 </superEntry>

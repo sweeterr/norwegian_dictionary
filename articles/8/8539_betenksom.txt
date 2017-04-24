@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">betenksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-озабоченный, серьёзный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озабоченный, серьёзный</text></cit>
 </sense>
 <sense>
-осторожный, осмотрительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожный, осмотрительный</text></cit>
 </sense>
 <sense>
-спокойный, рассудительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойный, рассудительный</text></cit>
 </sense>
 </entry>
 </superEntry>

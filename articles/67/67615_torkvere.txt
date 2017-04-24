@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">torkvere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>уст.</u> пытать, мучить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пытать, мучить</text></cit>
 </sense>
 </entry>
 </superEntry>

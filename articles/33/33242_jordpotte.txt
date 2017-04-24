@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jordpotte</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>с.-х.</u> торфоперегнойный горшочек
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торфоперегнойный горшочек</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -8,7 +8,7 @@
 <gramGrp><pos>pron</pos></gramGrp>
 </form>
 <sense>
-себя, себе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>себя, себе</text></cit>
 <сit type="example"><text>av (fra) seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от себя</text></cit></cit>
 <сit type="example"><text>for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для себя</text></cit></cit>
 <сit type="example"><text>hver for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каждый за (для) себя</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самого себя</text></cit></cit>
 </sense>
 <sense>
-при глаголах -ся, -сь, напр.:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>при глаголах -ся, -сь, напр.:</text></cit>
 <сit type="example"><text>bade seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>купаться</text></cit></cit>
 <сit type="example"><text>samle seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собираться</text></cit></cit>
 </sense>

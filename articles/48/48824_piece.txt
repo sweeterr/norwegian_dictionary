@@ -8,16 +8,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-небольшая пьеса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая пьеса</text></cit>
 </sense>
 <sense>
-газетная (журнальная) статья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газетная (журнальная) статья</text></cit>
 </sense>
 <sense>
-небольшая брошюра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая брошюра</text></cit>
 </sense>
 <sense>
-<u>воен.</u> <u>уст.</u> пушка
+<usg>воен.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пушка</text></cit>
 </sense>
 </entry>
 </superEntry>

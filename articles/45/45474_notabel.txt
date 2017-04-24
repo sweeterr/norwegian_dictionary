@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">notabel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-знатный человек, аристократ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный человек, аристократ</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">notabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-почётный, важный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почётный, важный</text></cit>
 </sense>
 <sense>
-известный, знаменитый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>известный, знаменитый</text></cit>
 </sense>
 </entry>
 </superEntry>

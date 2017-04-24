@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svakstrøm</orth>
 <inflection><orth extent="part">-men, -mer</orth></inflection>
-<u>эл.</u> слабый ток
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый ток</text></cit>
 </sense>
 </entry>
 </superEntry>

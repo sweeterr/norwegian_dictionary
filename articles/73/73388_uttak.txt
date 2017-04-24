@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-взятие, изъятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взятие, изъятие</text></cit>
 </sense>
 <sense>
-сумма, взятая в банке, ссуда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумма, взятая в банке, ссуда</text></cit>
 </sense>
 <sense>
-утечка (тока)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утечка (тока)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,16 +23,17 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-отбытие, отправление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбытие, отправление</text></cit>
 </sense>
 <sense>
-место отправления
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место отправления</text></cit>
 </sense>
 <sense>
-взятие следа (собакой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взятие следа (собакой)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> зажим, клемма
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажим, клемма</text></cit>
 </sense>
 </entry>
 </superEntry>

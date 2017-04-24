@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lurendreier</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u> обманщик, хитрец, плут
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обманщик, хитрец, плут</text></cit>
 </sense>
 </entry>
 </superEntry>

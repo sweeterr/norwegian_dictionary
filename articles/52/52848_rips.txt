@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rips</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-красная (белая) смородина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красная (белая) смородина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">rips</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-репс (ткань)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репс (ткань)</text></cit>
 </sense>
 </entry>
 </superEntry>

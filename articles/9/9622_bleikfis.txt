@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bleikfis</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> бледный, болезненный человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледный, болезненный человек</text></cit>
 </sense>
 </entry>
 </superEntry>

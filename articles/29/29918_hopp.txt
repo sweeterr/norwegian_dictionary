@@ -7,20 +7,20 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-прыжок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыжок</text></cit>
 <сit type="example"><text>i et eneste hopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одним прыжком</text></cit></cit>
 </sense>
 <sense>
-стол отрыва (лыжного трамплина)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стол отрыва (лыжного трамплина)</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">hopp</orth>
-hopp!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>hopp!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-гоп!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гоп!</text></cit>
 </sense>
 </entry>
 </superEntry>

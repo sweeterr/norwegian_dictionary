@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lavere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>мор.</u> лавировать, менять галс
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лавировать, менять галс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,13 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-смывать (краску)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смывать (краску)</text></cit>
 </sense>
 <sense>
-отмывать (чертёж)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отмывать (чертёж)</text></cit>
 </sense>
 <sense>
-промывать (краской)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промывать (краской)</text></cit>
 </sense>
 </entry>
 </superEntry>

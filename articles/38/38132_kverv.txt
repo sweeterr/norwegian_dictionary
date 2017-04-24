@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-круг (при обшивке судна)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг (при обшивке судна)</text></cit>
 </sense>
 <sense>
-ряд (при вязании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряд (при вязании)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">kverv</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-проблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проблеск</text></cit>
 <сit type="example"><text>i et kverv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мельком</text></cit></cit>
 </sense>
 </entry>
@@ -27,9 +27,9 @@
 <form>
 <orth type="lemma">kverv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> быстрый, расторопный, ловкий
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, расторопный, ловкий</text></cit>
 </sense>
 </entry>
 </superEntry>

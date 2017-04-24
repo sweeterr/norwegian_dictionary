@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">resonere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>физ.</u> резонировать, давать резонанс
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резонировать, давать резонанс</text></cit>
 </sense>
 </entry>
 </superEntry>

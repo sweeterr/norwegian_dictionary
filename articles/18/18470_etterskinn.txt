@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">etterskinn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> отблеск, отсвет, отражение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отблеск, отсвет, отражение</text></cit>
 </sense>
 </entry>
 </superEntry>

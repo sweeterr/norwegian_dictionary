@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">småvær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-маленький рыбачий посёлок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленький рыбачий посёлок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">småvær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> переменная погода с небольшими дождями
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переменная погода с небольшими дождями</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-выговор, упрёк, осуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выговор, упрёк, осуждение</text></cit>
 </sense>
 <sense>
-телесное наказание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телесное наказание</text></cit>
 </sense>
 <sense>
-<u>воен.</u> взыскание
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взыскание</text></cit>
 </sense>
 </entry>
 </superEntry>

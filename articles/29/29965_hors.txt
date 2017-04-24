@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">hors</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сорвиголова (о девушке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорвиголова (о девушке)</text></cit>
 </sense>
 <sense>
-женщина лёгкого поведения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>женщина лёгкого поведения</text></cit>
 </sense>
 <sense>
-наглое поведение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наглое поведение</text></cit>
 </sense>
 </entry>
 </superEntry>

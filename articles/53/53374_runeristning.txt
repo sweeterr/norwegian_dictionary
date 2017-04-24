@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">runeristning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-руническая надпись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руническая надпись</text></cit>
 </sense>
 </entry>
 </superEntry>

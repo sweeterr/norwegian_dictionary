@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">patronhylse</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>воен.</u> патронная гильза
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патронная гильза</text></cit>
 </sense>
 </entry>
 </superEntry>

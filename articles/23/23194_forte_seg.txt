@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forte seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-быстро идти, торопиться, спешить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстро идти, торопиться, спешить</text></cit>
 </sense>
 <sense>
-уходить вперёд (о часах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уходить вперёд (о часах)</text></cit>
 </sense>
 </entry>
 </superEntry>

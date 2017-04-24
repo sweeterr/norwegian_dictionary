@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">tutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-локон, завиток, хохолок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локон, завиток, хохолок</text></cit>
 </sense>
 <sense>
-пучок (о причёске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пучок (о причёске)</text></cit>
 </sense>
 <sense>
-бумажный кулёк, пакетик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумажный кулёк, пакетик</text></cit>
 </sense>
 <sense>
-бумажный колпак (для закрывания цветов от мороза)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумажный колпак (для закрывания цветов от мороза)</text></cit>
 </sense>
 </entry>
 </superEntry>

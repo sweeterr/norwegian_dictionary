@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-поэзия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэзия</text></cit>
 </sense>
 <sense>
-стихотворение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стихотворение</text></cit>
 </sense>
 <sense>
-<u>перен.</u> романтика, лирическое настроение
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>романтика, лирическое настроение</text></cit>
 </sense>
 </entry>
 </superEntry>

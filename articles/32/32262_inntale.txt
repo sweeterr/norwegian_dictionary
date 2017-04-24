@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-наговаривание (запись) на грампластинку (ленту магнитофона)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наговаривание (запись) на грампластинку (ленту магнитофона)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> взыскивание судебным порядком
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взыскивание судебным порядком</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">inntale</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>юр.</u> взыскивать судебным порядком
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взыскивать судебным порядком</text></cit>
 </sense>
 </entry>
 </superEntry>

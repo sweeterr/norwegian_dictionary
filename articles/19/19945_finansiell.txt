@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">finansiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-финансовый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>финансовый</text></cit>
 </sense>
 </entry>
 </superEntry>

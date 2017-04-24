@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-шум (ветра, прибоя, улицы), рокот (моря)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум (ветра, прибоя, улицы), рокот (моря)</text></cit>
 </sense>
 <sense>
-биение жизни, шумная жизнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>биение жизни, шумная жизнь</text></cit>
 </sense>
 <sense>
-изобилие (цветов и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобилие (цветов и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">brus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-газированная фруктовая вода в бутылках, лимонад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газированная фруктовая вода в бутылках, лимонад</text></cit>
 </sense>
 </entry>
 </superEntry>

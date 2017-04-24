@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drygsel</orth>
 <inflection><orth extent="part">-elen (-la)</orth></inflection>
-<u>диал.</u> достаток, обилие
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достаток, обилие</text></cit>
 </sense>
 </entry>
 </superEntry>

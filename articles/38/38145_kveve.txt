@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kveve</orth>
 <inflection><orth extent="part">-t (-n)</orth></inflection>
-см. kvev II
+<ref>kvev II</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">kveve</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>хим.</u> азот
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>азот</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,13 +22,13 @@
 <form>
 <orth type="lemma">kveve</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подавлять, глушить, заглушать (стремление, надежду и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавлять, глушить, заглушать (стремление, надежду и т. п.)</text></cit>
 </sense>
 <sense>
-приглушать (голос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приглушать (голос)</text></cit>
 </sense>
 </entry>
 </superEntry>

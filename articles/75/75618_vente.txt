@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">vente</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-ждать, ожидать, поджидать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ждать, ожидать, поджидать</text></cit>
 <сit type="example"><text>drosjen venter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>такси ждёт</text></cit></cit>
 <сit type="example"><text>middagen venter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обед подан</text></cit></cit>
 <сit type="example"><text>la seg vente, la vente på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставлять себя ждать</text></cit></cit>

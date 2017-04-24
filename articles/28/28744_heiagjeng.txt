@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">heiagjeng</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> <u>разг.</u> группа болельщиков за одну команду
+<usg>спорт.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа болельщиков за одну команду</text></cit>
 </sense>
 </entry>
 </superEntry>

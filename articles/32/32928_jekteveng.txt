@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">jekteveng</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> <u>мор.</u> каюта на одномачтовом судне
+<usg>диал.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каюта на одномачтовом судне</text></cit>
 </sense>
 </entry>
 </superEntry>

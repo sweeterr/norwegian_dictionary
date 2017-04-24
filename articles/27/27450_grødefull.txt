@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">grødefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-урожайный, плодоносный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>урожайный, плодоносный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nervelære</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> неврология
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неврология</text></cit>
 </sense>
 </entry>
 </superEntry>

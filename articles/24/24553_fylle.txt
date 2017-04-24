@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-наполнять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наполнять</text></cit>
 </sense>
 <sense>
-набивать (подушку, матрац), начинять (пирог)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набивать (подушку, матрац), начинять (пирог)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> наполняться водой (о лодке, судне)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наполняться водой (о лодке, судне)</text></cit>
 </sense>
 <sense>
-надувать (паруса, одежду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надувать (паруса, одежду)</text></cit>
 </sense>
 <sense>
-достигать определённого возраста
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достигать определённого возраста</text></cit>
 <сit type="example"><text>han fyller tolv år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему исполняется двенадцать лет</text></cit></cit>
 </sense>
 <sense>
-завладевать полностью (о чувстве, стремлении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завладевать полностью (о чувстве, стремлении)</text></cit>
 <сit type="example"><text>fylle på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доливать (рюмку, стакан)</text></cit></cit>
 <сit type="example"><text>fylle ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заполнять (анкету, схему)</text></cit></cit>
 <сit type="example"><text>fylle seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наесться до отвала, напиться</text></cit></cit>
@@ -34,7 +35,7 @@
 <form>
 <orth type="lemma">fylle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-пить, пьянствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пить, пьянствовать</text></cit>
 </sense>
 </entry>
 </superEntry>

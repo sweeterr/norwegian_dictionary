@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avpreg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> оттиск, отпечаток
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оттиск, отпечаток</text></cit>
 </sense>
 </entry>
 </superEntry>

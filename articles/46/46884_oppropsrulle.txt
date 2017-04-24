@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppropsrulle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> список личного состава
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>список личного состава</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sporvogn</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-трамвайный вагон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамвайный вагон</text></cit>
 </sense>
 </entry>
 </superEntry>

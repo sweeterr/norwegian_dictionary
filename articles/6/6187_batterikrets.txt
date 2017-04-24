@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">batterikrets</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эл.</u> цепь аккумулятора
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепь аккумулятора</text></cit>
 </sense>
 </entry>
 </superEntry>

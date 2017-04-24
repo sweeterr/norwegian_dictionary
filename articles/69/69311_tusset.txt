@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tusset</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-невзрачный, маленький
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невзрачный, маленький</text></cit>
 </sense>
 <sense>
-ошалевший, помешавшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошалевший, помешавшийся</text></cit>
 </sense>
 </entry>
 </superEntry>

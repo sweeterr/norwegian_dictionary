@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">litterkjennskap</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-знание литературы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знание литературы</text></cit>
 </sense>
 </entry>
 </superEntry>

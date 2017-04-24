@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sykekasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-больничная касса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>больничная касса</text></cit>
 </sense>
 </entry>
 </superEntry>

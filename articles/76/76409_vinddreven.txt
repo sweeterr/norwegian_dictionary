@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">vinddreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-гонимый ветром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гонимый ветром</text></cit>
 </sense>
 <sense>
-ветряной, приводимый в движение ветром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветряной, приводимый в движение ветром</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gen</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>биол.</u> ген
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ген</text></cit>
 </sense>
 </entry>
 </superEntry>

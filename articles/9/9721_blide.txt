@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">blide</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> <u>ист.</u> метательная машина, катапульта, баллиста
+<usg>воен.</usg>
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метательная машина, катапульта, баллиста</text></cit>
 </sense>
 </entry>
 </superEntry>

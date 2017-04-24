@@ -7,16 +7,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-жидкий (о топливе, веществе), текучий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий (о топливе, веществе), текучий</text></cit>
 </sense>
 <sense>
-нечёткий, неясный, подвижной (о границах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечёткий, неясный, подвижной (о границах)</text></cit>
 </sense>
 <sense>
-переменный (о капитале)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переменный (о капитале)</text></cit>
 </sense>
 <sense>
-беглый, свободный (о речи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беглый, свободный (о речи)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">flytende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-бегло, свободно (говорить на иностранном языке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бегло, свободно (говорить на иностранном языке)</text></cit>
 </sense>
 </entry>
 </superEntry>

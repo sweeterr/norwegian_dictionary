@@ -7,33 +7,34 @@
 <inflection><orth>frøs (fraus), frosset</orth></inflection>
 </form>
 <sense>
-мёрзнуть, зябнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёрзнуть, зябнуть</text></cit>
 <сit type="example"><text>jeg fryser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне холодно</text></cit></cit>
 <сit type="example"><text>jeg fryser på hendene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня мёрзнут руки</text></cit></cit>
 <сit type="example"><text>jeg fryser når jeg tenker på det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> у меня стынет кровь, когда я подумаю об этом</text></cit></cit>
 <сit type="example"><text>fryse i hjel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замёрзнуть насмерть</text></cit></cit>
 </sense>
 <sense>
-замёрзнуть, превратиться в лёд, покрыться льдом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замёрзнуть, превратиться в лёд, покрыться льдом</text></cit>
 <сit type="example"><text>fryse i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лопнуть от мороза (о трубах)</text></cit></cit>
 </sense>
 <sense>
-морозить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морозить</text></cit>
 <сit type="example"><text>det fryser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>морозит</text></cit></cit>
 <сit type="example"><text>det fryser på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мороз крепчает</text></cit></cit>
 </sense>
 <sense>
-помёрзнуть, пострадать от мороза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помёрзнуть, пострадать от мороза</text></cit>
 </sense>
 <sense>
-отмораживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отмораживать</text></cit>
 <сit type="example"><text>fryse av seg hendene (fingrene)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отморозить себе руки (пальцы)</text></cit></cit>
 </sense>
 <sense>
-замораживать (продукты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замораживать (продукты)</text></cit>
 </sense>
 <sense>
-<u>эк.</u> замораживать (капитал)
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замораживать (капитал)</text></cit>
 <сit type="example"><text>fryse bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вымерзнуть</text></cit></cit>
 <сit type="example"><text>fryse fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>примёрзнуть</text></cit></cit>
 <сit type = "example"><text>fryse inne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть затёртым льдами</text></cit></cit>

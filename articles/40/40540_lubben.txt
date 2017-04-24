@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">lubben</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пухлый, толстый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пухлый, толстый</text></cit>
 </sense>
 <sense>
-густой, разросшийся (о траве, деревьях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густой, разросшийся (о траве, деревьях)</text></cit>
 </sense>
 </entry>
 </superEntry>

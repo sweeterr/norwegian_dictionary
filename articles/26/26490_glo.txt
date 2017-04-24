@@ -7,11 +7,11 @@
 <inflection><orth>gloen (gloa), glør</orth></inflection>
 </form>
 <sense>
-горящий уголь, жар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горящий уголь, жар</text></cit>
 <сit type="example"><text>stå (gå) som på glør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> сидеть как на угольях; волноваться</text></cit></cit>
 </sense>
 <sense>
-огонь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">glo</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-пристально глядеть, уставиться, выпучить глаза (на что-л. - etter, på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пристально глядеть, уставиться, выпучить глаза (на что-л. - etter, på)</text></cit>
 </sense>
 </entry>
 </superEntry>

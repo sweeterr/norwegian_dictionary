@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tobakk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-табак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>табак</text></cit>
 <сit type="example"><text>mild (svak) tobakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слабый табак</text></cit></cit>
 <сit type="example"><text>sterk tobakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий табак</text></cit></cit>
 <сit type="example"><text>dyrke tobakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выращивать табак</text></cit></cit>

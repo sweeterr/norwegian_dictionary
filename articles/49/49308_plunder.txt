@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">plunder</orth>
 <inflection><orth extent="part">-eret (-ret)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-трудность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудность</text></cit>
 </sense>
 <sense>
-хлопоты, возня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопоты, возня</text></cit>
 </sense>
 </entry>
 </superEntry>

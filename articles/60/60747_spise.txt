@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">spise</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-пища
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пища</text></cit>
 </sense>
 <sense>
-кушанье, блюдо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кушанье, блюдо</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">spise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-есть, кушать, столоваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>есть, кушать, столоваться</text></cit>
 <сit type="example"><text>spise aften(s)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ужинать</text></cit></cit>
 <сit type="example"><text>spise frokost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтракать</text></cit></cit>
 <сit type="example"><text>spise middag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обедать</text></cit></cit>

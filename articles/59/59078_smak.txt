@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-вкус, чувство вкуса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкус, чувство вкуса</text></cit>
 <сit type="example"><text>besk (bitter) smak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горький (на) вкус</text></cit></cit>
 <сit type="example"><text>fin smak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий вкус</text></cit></cit>
 <сit type="example"><text>for enhver smak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на любой вкус</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>smak og behag ikke diskuteres</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>о вкусах не спорят</text></cit></cit>
 </sense>
 <sense>
-кусочек (чего-л.) для пробы (дегустации)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусочек (чего-л.) для пробы (дегустации)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjev</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> угол (не прямой)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол (не прямой)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,20 +14,19 @@
 <form>
 <orth type="lemma">skjev</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-косой, перекошенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косой, перекошенный</text></cit>
 кривой, наклонный
 <сit type="example"><text>på skjeve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наискось, наискосок</text></cit></cit>
 <сit type="example"><text>se skjevt til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть косо, коситься, недолюбливать</text></cit></cit>
 </sense>
 <sense>
-несимметричный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несимметричный</text></cit>
 </sense>
 <sense>
-неверный, неправильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неверный, неправильный</text></cit>
 <сit type="example"><text>skjeve hæler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоптанные каблуки</text></cit></cit>
 <сit type="example"><text>skjeve linjer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непараллельные линии</text></cit></cit>
 </sense>

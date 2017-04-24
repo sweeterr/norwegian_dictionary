@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">medansvar</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>юр.</u> коллективная ответственность
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коллективная ответственность</text></cit>
 </sense>
 </entry>
 </superEntry>

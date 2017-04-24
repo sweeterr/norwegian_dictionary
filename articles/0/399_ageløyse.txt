@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ageløyse</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неуважение, непочтительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуважение, непочтительность</text></cit>
 </sense>
 <sense>
-недисциплинированность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недисциплинированность</text></cit>
 </sense>
 </entry>
 </superEntry>

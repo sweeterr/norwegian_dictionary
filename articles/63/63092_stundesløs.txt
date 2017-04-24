@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">stundesløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-не имеющий ни минуты (покоя, свободного времени), вечно занятый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий ни минуты (покоя, свободного времени), вечно занятый</text></cit>
 </sense>
 <sense>
-деловой, работающий без отдыха и срока
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деловой, работающий без отдыха и срока</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vassmål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-водная поверхность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водная поверхность</text></cit>
 </sense>
 <sense>
-уровень воды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уровень воды</text></cit>
 </sense>
 </entry>
 </superEntry>

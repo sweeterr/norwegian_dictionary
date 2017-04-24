@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagsordre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> приказ
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приказ</text></cit>
 <сit type="example"><text>dagsordre fra øverstkommanderende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приказ главнокомандующего</text></cit></cit>
 </sense>
 </entry>

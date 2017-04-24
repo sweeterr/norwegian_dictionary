@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tøve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-медлить, мешкать, тянуть, канителить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлить, мешкать, тянуть, канителить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-проводить время попусту
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить время попусту</text></cit>
 </sense>
 <sense>
-заниматься чем-л. впустую,
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься чем-л. впустую,</text></cit>
 </sense>
 <sense>
-болтать попусту, нести чепуху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать попусту, нести чепуху</text></cit>
 </sense>
 <sense>
-выделывать, валять, бить (шерсть)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделывать, валять, бить (шерсть)</text></cit>
 </sense>
 </entry>
 </superEntry>

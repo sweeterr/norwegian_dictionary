@@ -6,10 +6,11 @@
 <orth type="lemma">aerosol</orth>
 </form>
 <sense>
-<u>хим.</u> аэрозоль
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аэрозоль</text></cit>
 </sense>
 <sense>
-аэрозольный баллончик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аэрозольный баллончик</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skruehjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-винтовая передача, винтовое зацепление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винтовая передача, винтовое зацепление</text></cit>
 </sense>
 <sense>
-червячное колесо, червячный привод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>червячное колесо, червячный привод</text></cit>
 </sense>
 </entry>
 </superEntry>

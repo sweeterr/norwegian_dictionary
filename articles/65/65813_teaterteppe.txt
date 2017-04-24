@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teaterteppe</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-театральный занавес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театральный занавес</text></cit>
 </sense>
 </entry>
 </superEntry>

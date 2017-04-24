@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-хотеть, желать, иметь охоту
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хотеть, желать, иметь охоту</text></cit>
 </sense>
 <sense>
-<u>уст.</u> возбуждать желание (охоту)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждать желание (охоту)</text></cit>
 <сit type="example"><text>det lyster meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне хочется</text></cit></cit>
 </sense>
 </entry>

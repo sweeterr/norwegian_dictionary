@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ilriks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> срочный междугородный телефонный разговор
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срочный междугородный телефонный разговор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-система <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>система <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>det bestående system</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>существующий (политический) строй</text></cit></cit>
 <сit type="example"><text>periodisk system</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>периодическая система элементов (Менделеева)</text></cit></cit>
 </sense>
 <sense>
-<u>геол.</u> формация
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формация</text></cit>
 </sense>
 </entry>
 </superEntry>

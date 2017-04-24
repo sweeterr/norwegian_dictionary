@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">bras</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-треск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треск</text></cit>
 </sense>
 <sense>
-потрескивание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрескивание</text></cit>
 </sense>
 <sense>
-огонь (в печке, камине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь (в печке, камине)</text></cit>
 </sense>
 <sense>
-хворост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хворост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,7 +25,8 @@
 <form>
 <orth type="lemma">bras</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> брас
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брас</text></cit>
 <сit type="example"><text>greie (klare) brasene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>преодолевать трудности</text></cit></cit>
 </sense>
 </entry>

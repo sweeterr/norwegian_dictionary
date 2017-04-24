@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-реветь (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реветь (о животных)</text></cit>
 </sense>
 <sense>
-вопить, орать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вопить, орать</text></cit>
 </sense>
 <sense>
-выть, завывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выть, завывать</text></cit>
 <сit type="example"><text>belje opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завыть, загудеть (о гудке)</text></cit></cit>
 <сit type="example"><text>belje ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, орать</text></cit></cit>
 </sense>
@@ -23,7 +23,8 @@
 <form>
 <orth type="lemma">belje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> пить с жадностью
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пить с жадностью</text></cit>
 <сit type="example"><text>belje i seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напиваться</text></cit></cit>
 </sense>
 </entry>

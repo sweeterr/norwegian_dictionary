@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lokabad</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u>
+<usg>мед.</usg>
 </form>
 <sense>
-воздушные ванны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздушные ванны</text></cit>
 </sense>
 <sense>
-грязевые ванны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязевые ванны</text></cit>
 </sense>
 </entry>
 </superEntry>

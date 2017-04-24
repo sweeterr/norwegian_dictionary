@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begrepsinnhold</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>лог.</u> сущность понятия, содержание термина
+<usg>лог.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сущность понятия, содержание термина</text></cit>
 </sense>
 </entry>
 </superEntry>

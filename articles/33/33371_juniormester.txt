@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">juniormester</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> чемпион по группе юношей (девушек)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чемпион по группе юношей (девушек)</text></cit>
 </sense>
 </entry>
 </superEntry>

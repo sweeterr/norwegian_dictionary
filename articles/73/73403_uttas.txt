@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uttas</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> в противном случае
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в противном случае</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">uttas</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-<u>диал.</u> исключая, за исключением
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исключая, за исключением</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">uttas</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-<u>диал.</u> если только не
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>если только не</text></cit>
 </sense>
 </entry>
 </superEntry>

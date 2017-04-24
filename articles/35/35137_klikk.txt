@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-щёлканье, звяканье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щёлканье, звяканье</text></cit>
 </sense>
 <sense>
-осечка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осечка</text></cit>
 <сit type="example"><text>gi (slå) klikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать осечку <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> позорное пятно
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позорное пятно</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,10 +25,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-тесный круг, тесная компания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тесный круг, тесная компания</text></cit>
 </sense>
 <sense>
-клика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клика</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +36,7 @@
 <form>
 <orth type="lemma">klikk</orth>
 <gramGrp><pos>int</pos></gramGrp>
-щёлк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щёлк</text></cit>
 </sense>
 </entry>
 </superEntry>

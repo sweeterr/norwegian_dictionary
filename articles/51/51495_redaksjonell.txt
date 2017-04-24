@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">redaksjonell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-редакционный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редакционный</text></cit>
 </sense>
 <sense>
-редакторский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редакторский</text></cit>
 </sense>
 </entry>
 </superEntry>

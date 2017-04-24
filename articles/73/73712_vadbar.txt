@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vadbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-проходимый вброд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходимый вброд</text></cit>
 </sense>
 </entry>
 </superEntry>

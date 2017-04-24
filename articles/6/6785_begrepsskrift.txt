@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begrepsskrift</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>лингв.</u> понятийное письмо, идеографическое письмо
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понятийное письмо, идеографическое письмо</text></cit>
 </sense>
 </entry>
 </superEntry>

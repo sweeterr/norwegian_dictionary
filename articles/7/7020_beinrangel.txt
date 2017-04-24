@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">beinrangel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-скелет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скелет</text></cit>
 </sense>
 <sense>
-долговязый (тощий) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долговязый (тощий) человек</text></cit>
 </sense>
 </entry>
 </superEntry>

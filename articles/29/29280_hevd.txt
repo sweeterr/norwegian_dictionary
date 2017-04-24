@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hevd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> право давности
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право давности</text></cit>
 <сit type="example"><text>ha hevd på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь право по давности (на что-л.)</text></cit></cit>
 <сit type="example"><text>vinne hevd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить право по давности</text></cit></cit>
 </sense>

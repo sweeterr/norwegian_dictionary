@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">mangslungen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-запутанный, сложный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запутанный, сложный</text></cit>
 </sense>
 <sense>
-смышлёный, понятливый, хитрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смышлёный, понятливый, хитрый</text></cit>
 </sense>
 </entry>
 </superEntry>

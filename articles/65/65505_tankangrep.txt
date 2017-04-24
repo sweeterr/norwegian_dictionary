@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tankangrep</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> танковая атака
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>танковая атака</text></cit>
 </sense>
 </entry>
 </superEntry>

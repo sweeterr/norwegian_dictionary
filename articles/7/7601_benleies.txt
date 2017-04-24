@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">benleies</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> прямо, напрямик
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, напрямик</text></cit>
 </sense>
 </entry>
 </superEntry>

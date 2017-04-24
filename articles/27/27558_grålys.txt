@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">grålys</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-предрассветный полумрак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предрассветный полумрак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">grålys</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-светло-серый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светло-серый</text></cit>
 </sense>
 <sense>
-сумрачный, предрассветный (об освещении, свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумрачный, предрассветный (об освещении, свете)</text></cit>
 </sense>
 </entry>
 </superEntry>

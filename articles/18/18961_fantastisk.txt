@@ -7,12 +7,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-фантастический, невероятный, причудливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фантастический, невероятный, причудливый</text></cit>
 </sense>
 <sense>
-далёкий от действительности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкий от действительности</text></cit>
 <сit type = "example"><text>det er fantastisk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> это невероятно</text></cit></cit>
-<сit type = "example"><text>det er fantastisk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> это восхитительно</text></cit></cit>
+<сit type = "example"><text>det er fantastisk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> это восхитительно</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

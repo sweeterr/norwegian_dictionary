@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">armatur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> арматура, приборы и принадлежности (станка, машины, парового котла и т. п.)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арматура, приборы и принадлежности (станка, машины, парового котла и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

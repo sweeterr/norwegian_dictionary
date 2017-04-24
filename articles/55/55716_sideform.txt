@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sideform</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>лингв.</u> вариант формы, побочная (второстепенная) форма
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вариант формы, побочная (второстепенная) форма</text></cit>
 </sense>
 </entry>
 </superEntry>

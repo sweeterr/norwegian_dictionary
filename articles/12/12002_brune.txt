@@ -5,27 +5,28 @@
 <form>
 <orth type="lemma">brune</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-горение, пожар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горение, пожар</text></cit>
 </sense>
 <sense>
-<u>мед.</u> изжога
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изжога</text></cit>
 </sense>
 <sense>
-выжженный участок земли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выжженный участок земли</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">brune</orth>
--te (
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-te (</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
-), 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>),</text></cit>
 <inflection><orth extent="part">-t (-et)</orth></inflection>
-слегка поджарить, подрумянить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка поджарить, подрумянить</text></cit>
 </sense>
 </entry>
 </superEntry>

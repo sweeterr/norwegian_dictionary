@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skogmark</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-лесистая местность, местность, богатая лесом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесистая местность, местность, богатая лесом</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skogmark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-гусеница соснового шелкопряда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гусеница соснового шелкопряда</text></cit>
 </sense>
 </entry>
 </superEntry>

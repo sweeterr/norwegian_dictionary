@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">attåt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вплотную, впритык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вплотную, впритык</text></cit>
 </sense>
 <sense>
-вдобавок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вдобавок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">attåt</orth>
 <gramGrp><pos>prep</pos></gramGrp>
- <u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вплотную к (чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вплотную к (чему-л.)</text></cit>
 </sense>
 <sense>
-в добавление к (чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в добавление к (чему-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

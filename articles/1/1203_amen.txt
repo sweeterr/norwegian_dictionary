@@ -7,10 +7,11 @@
 <gramGrp><pos>int</pos></gramGrp>
 </form>
 <sense>
-аминь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аминь</text></cit>
 </sense>
 <sense>
-<u>разг.</u> баста
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баста</text></cit>
 <сit type="example"><text>si ja og amen til alt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> соглашаться во всём; подтверждать всё</text></cit></cit>
 </sense>
 </entry>

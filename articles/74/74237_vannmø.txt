@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vannmø</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фольк.</u> русалка
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>русалка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-перхоть (у животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перхоть (у животных)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-передвигать, перемещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передвигать, перемещать</text></cit>
 </sense>
 <sense>
-возиться, копошиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возиться, копошиться</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,8 @@
 <form>
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>разг.</u> кататься на санях (с гор)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кататься на санях (с гор)</text></cit>
 <сit type="example"><text>åke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться очень медленно, тащиться</text></cit></cit>
 </sense>
 </entry>
@@ -36,7 +37,8 @@
 <form>
 <orth type="lemma">åke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> надевать хомут (ярме) на тягловое животное
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надевать хомут (ярме) на тягловое животное</text></cit>
 </sense>
 </entry>
 </superEntry>

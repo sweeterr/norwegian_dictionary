@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ungsmale</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> стадо ягнят (козлят)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стадо ягнят (козлят)</text></cit>
 </sense>
 </entry>
 </superEntry>

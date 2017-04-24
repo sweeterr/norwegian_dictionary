@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trøys</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пивная кружка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пивная кружка</text></cit>
 </sense>
 <sense>
-ящик для хранения рыболовных снастей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ящик для хранения рыболовных снастей</text></cit>
 </sense>
 </entry>
 </superEntry>

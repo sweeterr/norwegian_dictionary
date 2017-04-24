@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">rulten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-толстый, ожиревший, полный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый, ожиревший, полный (о человеке)</text></cit>
 </sense>
 <sense>
-округлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>округлый</text></cit>
 </sense>
 </entry>
 </superEntry>

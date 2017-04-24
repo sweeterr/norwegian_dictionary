@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">økt</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-время работы до и после перерыва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время работы до и после перерыва</text></cit>
 </sense>
 <sense>
-обеденный перерыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обеденный перерыв</text></cit>
 </sense>
 </entry>
 </superEntry>

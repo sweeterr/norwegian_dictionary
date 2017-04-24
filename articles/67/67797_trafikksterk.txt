@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">trafikksterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-оживлённый (об улице, дороге и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживлённый (об улице, дороге и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

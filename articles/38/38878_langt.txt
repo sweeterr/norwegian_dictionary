@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">langt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp lenger, superl lengst)</orth></inflection>
+<inflection><orth>(komp lenger, superl lengst)</orth></inflection>
 </form>
 <sense>
-далеко (о расстоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далеко (о расстоянии)</text></cit>
 <сit type="example"><text>langt fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко от <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>langt ifra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни в коем случае, вовсе нет</text></cit></cit>
 <сit type="example"><text>ikke på langt nær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко не, даже приблизительно не</text></cit></cit>
@@ -17,10 +17,10 @@
 <сit type="example"><text>det er langt fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ещё далеко до</text></cit></cit>
 <сit type="example"><text>det gikk langt annerledes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё пошло совершенно по-иному</text></cit></cit>
 <сit type = "example"><text>være langt på vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> продвинуться</text></cit></cit>
-<сit type = "example"><text>være langt på vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> выполнить большую часть работы</text></cit></cit>
+<сit type = "example"><text>være langt på vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> выполнить большую часть работы</text></cit></cit>
 </sense>
 <sense>
-долго
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долго</text></cit>
 <сit type="example"><text>langt om lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в конце концов; наконец-то</text></cit></cit>
 <сit type="example"><text>langt tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко позади, давно</text></cit></cit>
 <сit type="example"><text>det var langt mellom (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>были большие перерывы (интервалы) между (чем-л.)</text></cit></cit>
@@ -29,7 +29,7 @@
 <сit type="example"><text>langt ut på natten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко за полночь</text></cit></cit>
 </sense>
 <sense>
-гораздо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гораздо</text></cit>
 <сit type="example"><text>langt vakrere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гораздо красивее</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pyss!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-тьфу!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тьфу!</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">inert</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>хим.</u> инертный
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инертный</text></cit>
 </sense>
 </entry>
 </superEntry>

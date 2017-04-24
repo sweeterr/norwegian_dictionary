@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">værmølle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> ветряная мельница
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветряная мельница</text></cit>
 </sense>
 </entry>
 </superEntry>

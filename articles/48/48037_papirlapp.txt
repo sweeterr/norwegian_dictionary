@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-клочок бумаги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клочок бумаги</text></cit>
 </sense>
 <sense>
-<u>перен.</u> филькина грамота
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>филькина грамота</text></cit>
 </sense>
 <sense>
-<u>разг.</u> ассигнация небольшого достоинства
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ассигнация небольшого достоинства</text></cit>
 </sense>
 </entry>
 </superEntry>

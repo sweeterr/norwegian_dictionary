@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">brase</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-связка, охапка (дров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связка, охапка (дров)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-шипеть (о масле, сале)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шипеть (о масле, сале)</text></cit>
 </sense>
 <sense>
-трещать, потрескивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещать, потрескивать</text></cit>
 </sense>
 <sense>
-жарить, поджаривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жарить, поджаривать</text></cit>
 <сit type="example"><text>brase opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспыхивать</text></cit></cit>
 </sense>
 </entry>
@@ -32,10 +32,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-двигаться (с шумом, громом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться (с шумом, громом)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> брасопить
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брасопить</text></cit>
 </sense>
 </entry>
 </superEntry>

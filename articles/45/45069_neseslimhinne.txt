@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">neseslimhinne</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>анат.</u> слизистая оболочка носа
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слизистая оболочка носа</text></cit>
 </sense>
 </entry>
 </superEntry>

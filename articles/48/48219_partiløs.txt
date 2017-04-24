@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">partiløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-беспартийный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспартийный</text></cit>
 </sense>
 </entry>
 </superEntry>

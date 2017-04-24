@@ -7,13 +7,16 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>лингв.</u> транскрипция, транскрибирование
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транскрипция, транскрибирование</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> транскрибированный текст
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транскрибированный текст</text></cit>
 </sense>
 <sense>
-<u>муз.</u> транскрипция
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транскрипция</text></cit>
 </sense>
 </entry>
 </superEntry>

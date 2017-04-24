@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">terminologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-терминология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терминология</text></cit>
 </sense>
 </entry>
 </superEntry>

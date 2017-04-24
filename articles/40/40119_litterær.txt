@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">litterær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-литературный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>литературный</text></cit>
 </sense>
 <sense>
-читающий, знающий литературу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читающий, знающий литературу</text></cit>
 </sense>
 </entry>
 </superEntry>

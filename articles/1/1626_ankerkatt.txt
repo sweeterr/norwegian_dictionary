@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ankerkatt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> кат (для поднятия якоря)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кат (для поднятия якоря)</text></cit>
 </sense>
 </entry>
 </superEntry>

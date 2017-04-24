@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støymåler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>тех.</u> измеритель шума
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>измеритель шума</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">stappe</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-пюре; мусс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пюре; мусс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-pet (-te), -pet (-t)</orth></inflection>
 </form>
 <sense>
-набивать, наполнять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набивать, наполнять</text></cit>
 </sense>
 <sense>
-засовывать, запихивать, втискивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>засовывать, запихивать, втискивать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">stappe</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> см. stampe III 3)
+<usg>диал.</usg>
+<ref>stampe III 3)</ref>
 </sense>
 </entry>
 </superEntry>

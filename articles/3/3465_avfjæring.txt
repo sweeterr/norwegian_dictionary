@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avfjæring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> амортизация удара
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амортизация удара</text></cit>
 </sense>
 </entry>
 </superEntry>

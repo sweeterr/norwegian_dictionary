@@ -7,27 +7,28 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-кончик, остриё, шпиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кончик, остриё, шпиль</text></cit>
 </sense>
 <sense>
-вершина, высшая точка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вершина, высшая точка</text></cit>
 </sense>
 <sense>
-передний ряд, «голова» (колонны и т. п.), передовая часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передний ряд, «голова» (колонны и т. п.), передовая часть</text></cit>
 <сit type="example"><text>med noen i spissen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с кем-л. во главе</text></cit></cit>
 <сit type="example"><text>sette seg i spissen for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>становиться во главе чего-л.</text></cit></cit>
 <сit type="example"><text>stå (gå) i spissen for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять (идти) во главе чего-л.</text></cit></cit>
 </sense>
 <sense>
-главное лицо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главное лицо</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-сливки (общества), именитые люди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сливки (общества), именитые люди</text></cit>
 </sense>
 <sense>
-передовая статья, передовица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передовая статья, передовица</text></cit>
 </sense>
 <sense>
-<u>разг.</u> колкость, шпилька, язвительное замечание
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колкость, шпилька, язвительное замечание</text></cit>
 <сit type="example"><text>by én spissen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать кому-л. отпор</text></cit></cit>
 <сit type="example"><text>sette på spissen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заострять, доводить до конфликта</text></cit></cit>
 </sense>
@@ -37,7 +38,7 @@
 <form>
 <orth type="lemma">spiss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-шпиц (порода собак)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпиц (порода собак)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +46,7 @@
 <form>
 <orth type="lemma">spiss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-приправа (к пище)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приправа (к пище)</text></cit>
 <сit type="example"><text>sette spissen på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приправить пряностями</text></cit></cit>
 </sense>
 </entry>
@@ -54,17 +55,16 @@
 <form>
 <orth type="lemma">spiss</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-острый, остроконечный, заострённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый, остроконечный, заострённый</text></cit>
 </sense>
 <sense>
-резкий, чёткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, чёткий</text></cit>
 </sense>
 <sense>
-язвительный, насмешливый, колкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язвительный, насмешливый, колкий</text></cit>
 </sense>
 </entry>
 </superEntry>

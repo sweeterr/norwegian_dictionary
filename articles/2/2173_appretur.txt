@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-выделка, отделка (тканей, кожи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделка, отделка (тканей, кожи)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> аппретура
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аппретура</text></cit>
 </sense>
 </entry>
 </superEntry>

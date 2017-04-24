@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">ess-moll</orth>
-<u>муз.</u> ми бемоль минор
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ми бемоль минор</text></cit>
 </sense>
 </entry>
 </superEntry>

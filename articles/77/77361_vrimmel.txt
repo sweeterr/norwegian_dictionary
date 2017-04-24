@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vrimmel</orth>
 <inflection><orth extent="part">-melen, -ler</orth></inflection>
-масса, множество, толпа, толчея
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масса, множество, толпа, толчея</text></cit>
 <сit type="example"><text>livets vrimmel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суета жизни</text></cit></cit>
 </sense>
 </entry>

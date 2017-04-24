@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stivkrampe</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> столбняк
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столбняк</text></cit>
 </sense>
 </entry>
 </superEntry>

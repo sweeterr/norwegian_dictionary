@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svinekjøtt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-свинина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свинина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forsinkelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-задержка, опоздание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержка, опоздание</text></cit>
 <сit type="example"><text>innvinne en forsinkelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наверстать время опоздания</text></cit></cit>
 </sense>
 </entry>

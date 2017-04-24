@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>метеор.</u> барограмма
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барограмма</text></cit>
 </sense>
 </entry>
 </superEntry>

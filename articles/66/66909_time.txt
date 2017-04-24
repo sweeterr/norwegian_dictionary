@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-час
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>час</text></cit>
 <сit type="example"><text>en time for tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часом (на час) раньше</text></cit></cit>
 <сit type="example"><text>en hel (stiv) time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целый (битый) час</text></cit></cit>
 <сit type="example"><text>halvannen time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полтора часа</text></cit></cit>
@@ -17,7 +17,7 @@
 <сit type="example"><text>på timen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сию минуту, сейчас же</text></cit></cit>
 </sense>
 <sense>
-время, пора, момент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время, пора, момент</text></cit>
 <сit type="example"><text>ledige timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часы досуга</text></cit></cit>
 <сit type="example"><text>de små timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> время после полуночи</text></cit></cit>
 <сit type="example"><text>langt ut i de små timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко за полночь</text></cit></cit>
@@ -25,7 +25,7 @@
 <сit type="example"><text>hans siste time</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его предсмертный час</text></cit></cit>
 </sense>
 <sense>
-академический час (45 минут), урок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>академический час (45 минут), урок</text></cit>
 <сit type="example"><text>få (ta) timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать уроки</text></cit></cit>
 <сit type="example"><text>gi (ha) timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать (иметь) уроки</text></cit></cit>
 </sense>

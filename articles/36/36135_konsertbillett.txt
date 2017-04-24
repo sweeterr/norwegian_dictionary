@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">konsertbillett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-билет на концерт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>билет на концерт</text></cit>
 </sense>
 </entry>
 </superEntry>

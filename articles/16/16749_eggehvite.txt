@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-яичный белок, белок в яйце
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яичный белок, белок в яйце</text></cit>
 </sense>
 <sense>
-<u>хим.</u> белковое вещество
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белковое вещество</text></cit>
 </sense>
 </entry>
 </superEntry>

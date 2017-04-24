@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-физика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физика</text></cit>
 </sense>
 <sense>
-<u>школ.</u> учебник физики
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебник физики</text></cit>
 </sense>
 <sense>
-физический кабинет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физический кабинет</text></cit>
 </sense>
 <sense>
-телосложение, конституция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телосложение, конституция</text></cit>
 </sense>
 </entry>
 </superEntry>

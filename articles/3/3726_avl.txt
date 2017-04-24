@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-разведение (животных, рас тений), возделывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведение (животных, рас тений), возделывание</text></cit>
 </sense>
 <sense>
-потомство, потомки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потомство, потомки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">avl</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-горн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горн</text></cit>
 </sense>
 </entry>
 </superEntry>

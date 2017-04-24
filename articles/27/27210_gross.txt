@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-основная масса (кого, чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основная масса (кого, чего-л.)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> главные силы
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главные силы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">gross</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ком.</u> гросс, двенадцать дюжин (единица счёта галантерейных и других мелких товаров)
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гросс, двенадцать дюжин (единица счёта галантерейных и других мелких товаров)</text></cit>
 </sense>
 </entry>
 </superEntry>

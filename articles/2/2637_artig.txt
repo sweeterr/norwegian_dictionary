@@ -7,16 +7,17 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-воспитанный (о детях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспитанный (о детях)</text></cit>
 </sense>
 <sense>
-странный, чудной, своеобразный, необычный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странный, чудной, своеобразный, необычный</text></cit>
 </sense>
 <sense>
-интересный, забавный, занятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интересный, забавный, занятный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> вежливый, учтивый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вежливый, учтивый</text></cit>
 <сit type="example"><text>vær så artig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> будьте так любезны, прошу вас</text></cit></cit>
 </sense>
 </entry>

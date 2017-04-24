@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">snøfanger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ж.-д.</u>
+<usg>ж.-д.</usg>
 </form>
 <sense>
-снегоочиститель, снеговой краб, щит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снегоочиститель, снеговой краб, щит</text></cit>
 </sense>
 <sense>
-защитное устройство от снежных обвалов, лавин и т. п.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защитное устройство от снежных обвалов, лавин и т. п.</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kvarter</orth>
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
-четверть (какой-л. меры)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четверть (какой-л. меры)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,32 +15,35 @@
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
 </form>
 <sense>
-четверть часа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четверть часа</text></cit>
 <сit type="example"><text>et kvarter over el(le)ve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>четверть двенадцатого</text></cit></cit>
 <сit type="example"><text>et kvarter på tolv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без четверти двенадцать</text></cit></cit>
 <сit type="example"><text>akademisk kvarter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перерыв (в учебном заведении)</text></cit></cit>
 </sense>
 <sense>
-местожительство, квартира
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местожительство, квартира</text></cit>
 <сit type="example"><text>fast kvarter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>постоянное местожительство</text></cit></cit>
 </sense>
 <sense>
-квартал (города)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квартал (города)</text></cit>
 </sense>
 <sense>
-<u>астр.</u> фаза (четверть) луны
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фаза (четверть) луны</text></cit>
 </sense>
 <sense>
-<u>воен.</u> постой, расквартирование
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постой, расквартирование</text></cit>
 <сit type="example"><text>gå i kvarter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>становиться на постой</text></cit></cit>
 <сit type="example"><text>ligge (bli lagt) i kvarter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться (стоять) на постое</text></cit></cit>
 </sense>
 <sense>
-пощада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пощада</text></cit>
 <сit type="example"><text>gi kvarter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать пощаду</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> вахтенная смена
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вахтенная смена</text></cit>
 </sense>
 </entry>
 </superEntry>

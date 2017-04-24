@@ -7,26 +7,28 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-зерно, хлеб (в зерне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зерно, хлеб (в зерне)</text></cit>
 <сit type="example"><text>få kornet i jorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посеять хлеб</text></cit></cit>
 </sense>
 <sense>
-зерновые, злаки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зерновые, злаки</text></cit>
 <сit type="example"><text>kornet står pent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хлеба (зерновые) хороши</text></cit></cit>
 <сit type="example"><text>kjøre inn korn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убрать зерновые</text></cit></cit>
 <сit type="example"><text>treske korn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>молотить хлеб</text></cit></cit>
 </sense>
 <sense>
-зёрнышко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зёрнышко</text></cit>
 </sense>
 <sense>
-<u>диал.</u> ячмень
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ячмень</text></cit>
 </sense>
 <sense>
-крупинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крупинка</text></cit>
 </sense>
 <sense>
-<u>воен.</u> мушка (у винтовки)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мушка (у винтовки)</text></cit>
 <сit type="example"><text>ta på kornet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать на прицел, на мушку</text></cit></cit>
 </sense>
 </entry>

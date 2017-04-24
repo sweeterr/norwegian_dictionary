@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">men</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-вред; убыток, ущерб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вред; убыток, ущерб</text></cit>
 <сit type="example"><text>til mens</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во вред, в ущерб</text></cit></cit>
 <сit type = "example"><text>uten men :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> без вреда</text></cit></cit>
 <сit type = "example"><text>uten men :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> без сучка, без задоринки</text></cit></cit>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">men</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-но, а, однако, же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>но, а, однако, же</text></cit>
 <сit type="example"><text>men allikevel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>но всё же</text></cit></cit>
 <сit type="example"><text>men dog</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>но, ведь</text></cit></cit>
 <сit type="example"><text>vel, ... men</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да ..., но</text></cit></cit>

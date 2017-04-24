@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bekkaure</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> форель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форель</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-латунь, жёлтая медь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латунь, жёлтая медь</text></cit>
 </sense>
 <sense>
-<u>муз.</u> медные духовые инструменты
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медные духовые инструменты</text></cit>
 </sense>
 </entry>
 </superEntry>

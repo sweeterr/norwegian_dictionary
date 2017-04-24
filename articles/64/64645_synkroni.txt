@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">synkroni</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лингв.</u> синхрония
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синхрония</text></cit>
 </sense>
 </entry>
 </superEntry>

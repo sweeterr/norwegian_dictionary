@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prøvebok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-книга (альбом) образцов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга (альбом) образцов</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">siple</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-просачиваться, капать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просачиваться, капать</text></cit>
 </sense>
 <sense>
-пить маленькими глоточками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пить маленькими глоточками</text></cit>
 </sense>
 <sense>
-хныкать, ныть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хныкать, ныть</text></cit>
 </sense>
 </entry>
 </superEntry>

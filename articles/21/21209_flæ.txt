@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">flæ</orth>
 <inflection><orth extent="part">-et (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-мелководный залив, бухта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелководный залив, бухта</text></cit>
 </sense>
 <sense>
-плоская отмель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоская отмель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">flæ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> поплавок
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок</text></cit>
 </sense>
 </entry>
 </superEntry>

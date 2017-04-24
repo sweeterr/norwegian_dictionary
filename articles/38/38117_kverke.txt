@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kverke</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>вет.</u> мыт (болезнь лошадей)
+<usg>вет.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мыт (болезнь лошадей)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,17 +16,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-душить, хватать за глотку (за горло)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душить, хватать за глотку (за горло)</text></cit>
 </sense>
 <sense>
-покончить (с кем-л.), уничтожить, прикончить, удушить (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покончить (с кем-л.), уничтожить, прикончить, удушить (кого-л.)</text></cit>
 <сit type="example"><text>kverke livet av én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прикончить кого-л.</text></cit></cit>
 </sense>
 <sense>
-тушить (огонь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тушить (огонь)</text></cit>
 </sense>
 <sense>
-заставить замолчать; припереть к стенке (в споре и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заставить замолчать; припереть к стенке (в споре и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

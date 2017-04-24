@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-клок, прядь волос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клок, прядь волос</text></cit>
 </sense>
 <sense>
-пучок (травы, цветов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пучок (травы, цветов)</text></cit>
 </sense>
 <sense>
-<u>фольк.</u> гном, карлик
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гном, карлик</text></cit>
 </sense>
 <sense>
-дурак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дурак</text></cit>
 <сit type="example"><text>gå (komme, være) i tufsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впадать в детство</text></cit></cit>
 </sense>
 </entry>
@@ -27,10 +28,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-пустяк, мелочь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустяк, мелочь</text></cit>
 </sense>
 <sense>
-путаница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путаница</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,10 +41,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-хилый, болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, болезненный</text></cit>
 </sense>
 <sense>
-слабый, ослабевший (от болезни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, ослабевший (от болезни)</text></cit>
 </sense>
 </entry>
 </superEntry>

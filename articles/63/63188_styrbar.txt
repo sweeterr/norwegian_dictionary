@@ -5,9 +5,10 @@
 <form>
 <orth type="lemma">styrbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мор.</u>, <u>ав.</u> управляемый, поддающийся управлению
+<usg>мор.</usg>
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управляемый, поддающийся управлению</text></cit>
 </sense>
 </entry>
 </superEntry>

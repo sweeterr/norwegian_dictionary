@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vredaktig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-раздражительный, жёлчный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздражительный, жёлчный</text></cit>
 </sense>
 <sense>
-вспыльчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспыльчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">glohet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-раскалённый (о металле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскалённый (о металле)</text></cit>
 </sense>
 <sense>
-горячий (о жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горячий (о жидкости)</text></cit>
 </sense>
 </entry>
 </superEntry>

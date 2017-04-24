@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-доставлять (письмо), поставлять (товар)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доставлять (письмо), поставлять (товар)</text></cit>
 </sense>
 <sense>
-передавать, вручать (кому-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать, вручать (кому-л. - til)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> передавать (команду)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передавать (команду)</text></cit>
 </sense>
 </entry>
 </superEntry>

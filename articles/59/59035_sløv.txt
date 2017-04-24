@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">sløv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тупой <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупой <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-малоразвитый, глупый, несообразительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малоразвитый, глупый, несообразительный</text></cit>
 </sense>
 <sense>
-слабый (о зрении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о зрении)</text></cit>
 </sense>
 </entry>
 </superEntry>

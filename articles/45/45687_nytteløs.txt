@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">nytteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бесполезный, напрасный, безрезультатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесполезный, напрасный, безрезультатный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">herremann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>ист.</u> дворянин, помещик, барин
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дворянин, помещик, барин</text></cit>
 </sense>
 </entry>
 </superEntry>

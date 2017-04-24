@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">distingvert</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-выделяющийся (чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделяющийся (чём-л.)</text></cit>
 </sense>
 <sense>
-знатный, аристократический, благородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный, аристократический, благородный</text></cit>
 </sense>
 </entry>
 </superEntry>

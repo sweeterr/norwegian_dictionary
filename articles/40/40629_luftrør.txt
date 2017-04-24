@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">luftrør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-воздухопровод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздухопровод</text></cit>
 </sense>
 <sense>
-<u>анат.</u> дыхательное горло, трахея
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыхательное горло, трахея</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">snakksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-болтливый, разговорчивый, словоохотливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтливый, разговорчивый, словоохотливый</text></cit>
 </sense>
 </entry>
 </superEntry>

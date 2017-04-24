@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vaterbordsvinkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>мор.</u> стрингерный угольник
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрингерный угольник</text></cit>
 </sense>
 </entry>
 </superEntry>

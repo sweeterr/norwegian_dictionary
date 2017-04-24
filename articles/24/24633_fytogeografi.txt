@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fytogeografi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-география растений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>география растений</text></cit>
 </sense>
 </entry>
 </superEntry>

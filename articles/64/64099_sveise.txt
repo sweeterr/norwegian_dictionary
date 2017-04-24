@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sveise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>тех.</u> сваривать, приваривать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сваривать, приваривать</text></cit>
 <сit type="example"><text>sveise sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соединять, сплачивать воедино</text></cit></cit>
 </sense>
 </entry>
@@ -14,13 +15,13 @@
 <form>
 <orth type="lemma">sveise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-швырять, отшвыривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырять, отшвыривать</text></cit>
 </sense>
 <sense>
-идти раскачиваясь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти раскачиваясь</text></cit>
 </sense>
 </entry>
 </superEntry>

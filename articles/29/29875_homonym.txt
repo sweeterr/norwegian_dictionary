@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">homonym</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> омоним
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омоним</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">homonym</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-омонимичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омонимичный</text></cit>
 </sense>
 </entry>
 </superEntry>

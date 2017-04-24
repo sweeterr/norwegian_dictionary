@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vinbøtte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> пьяница, алкоголик
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пьяница, алкоголик</text></cit>
 </sense>
 </entry>
 </superEntry>

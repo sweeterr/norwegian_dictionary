@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">operasjonsbyrå</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> оперативный отдел (штаба)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оперативный отдел (штаба)</text></cit>
 </sense>
 </entry>
 </superEntry>

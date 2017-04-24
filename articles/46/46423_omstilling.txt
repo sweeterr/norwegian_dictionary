@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-перестановка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перестановка</text></cit>
 </sense>
 <sense>
-перестройка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перестройка</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> метатеза
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метатеза</text></cit>
 </sense>
 </entry>
 </superEntry>

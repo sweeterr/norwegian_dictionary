@@ -7,15 +7,15 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-вещь, предмет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещь, предмет</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-вещи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещи</text></cit>
 <сit type="example"><text>etterglemte (etterlagte) saker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забытые (оставленные) вещи</text></cit></cit>
 <сit type="example"><text>funne(de) saker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найденные (обнаруженные) вещи</text></cit></cit>
 <сit type="example"><text>trykte saker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>печатные издания</text></cit></cit>
 </sense>
 <sense>
-дело, вопрос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дело, вопрос</text></cit>
 <сit type="example"><text>det er en avgjort sak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это дело решённое</text></cit></cit>
 <сit type="example"><text>det er ingen sak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не проблема</text></cit></cit>
 <сit type = "example"><text>det var en given (sikker) sak :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> это верное дело</text></cit></cit>
@@ -24,7 +24,8 @@
 <сit type="example"><text>til saken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к делу</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> иск, дело, тяжба
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иск, дело, тяжба</text></cit>
 <сit type="example"><text>borgerlige saker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гражданские дела</text></cit></cit>
 <сit type="example"><text>anlegge en sak mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждать дело против кого-л.</text></cit></cit>
 <сit type="example"><text>avvise en sak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонить иск</text></cit></cit>
@@ -39,7 +40,8 @@
 <сit type="example"><text>søte saker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сладости</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> менструация
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менструация</text></cit>
 </sense>
 </entry>
 </superEntry>

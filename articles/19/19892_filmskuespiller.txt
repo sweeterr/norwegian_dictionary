@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">filmskuespiller</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-киноартист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>киноартист</text></cit>
 </sense>
 </entry>
 </superEntry>

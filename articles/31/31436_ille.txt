@@ -5,23 +5,23 @@
 <form>
 <orth type="lemma">ille</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp verre, superl verst)</orth></inflection>
+<inflection><orth>(komp verre, superl verst)</orth></inflection>
 </form>
 <sense>
-плохо, дурно, скверно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохо, дурно, скверно</text></cit>
 <сit type="example"><text>ha det ille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя плохо</text></cit></cit>
 <сit type="example"><text>det var ikke ille ment</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было сказано (сделано) не со зла</text></cit></cit>
 <сit type="example"><text>fare ille (være ille faren)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в тяжёлом положении</text></cit></cit>
 </sense>
 <sense>
-болезненно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болезненно</text></cit>
 <сit type="example"><text>se ille ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо выглядеть</text></cit></cit>
 </sense>
 <sense>
-подавленно, угнетённо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленно, угнетённо</text></cit>
 </sense>
 <sense>
-употребляется как усиление при некоторых прилагательных ужасно, страшно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется как усиление при некоторых прилагательных ужасно, страшно</text></cit>
 <сit type="example"><text>ille godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ужасно хорошо</text></cit></cit>
 </sense>
 </entry>

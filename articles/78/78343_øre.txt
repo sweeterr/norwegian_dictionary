@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">øre</orth>
 <inflection><orth extent="part">-n (-t), = (-r)</orth></inflection>
-эре (монета=1/100 кроны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эре (монета=1/100 кроны)</text></cit>
 <сit type="example"><text>han betalte ikke en rød øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он не заплатил ни копейки</text></cit></cit>
 <сit type="example"><text>han eier ikke en rød øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него нет ни гроша</text></cit></cit>
 <сit type="example"><text>på øret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точь-в-точь</text></cit></cit>
@@ -18,19 +18,19 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-ухо, ушная раковина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухо, ушная раковина</text></cit>
 <сit type="example"><text>det suser for ørene mine</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня шумит в ушах</text></cit></cit>
 <сit type="example"><text>slå én på øret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать оплеуху</text></cit></cit>
 <сit type="example"><text>være døv på det ene øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть глухим на одно ухо</text></cit></cit>
 </sense>
 <sense>
-слух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слух</text></cit>
 <сit type="example"><text>anstrenge sine ører</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрягать слух</text></cit></cit>
 <сit type="example"><text>ha øre for musikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь музыкальный слух</text></cit></cit>
 <сit type="example"><text>ha et fint øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь острый (тонкий) слух</text></cit></cit>
 </sense>
 <sense>
-ушко, ручка (кастрюли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ушко, ручка (кастрюли)</text></cit>
 <сit type="example"><text>ha åpent øre for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо воспринимать что-л.</text></cit></cit>
 <сit type="example"><text>ha ens øre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться чьим-л. расположением (доверием)</text></cit></cit>
 <сit type="example"><text>holde ørene stive</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать ухо востро</text></cit></cit>
@@ -51,7 +51,8 @@
 <form>
 <orth type="lemma">øre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> намывать отмель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намывать отмель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -59,13 +60,13 @@
 <form>
 <orth type="lemma">øre</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-терять сознание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терять сознание</text></cit>
 </sense>
 <sense>
-бредить, говорить в бреду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бредить, говорить в бреду</text></cit>
 </sense>
 </entry>
 </superEntry>

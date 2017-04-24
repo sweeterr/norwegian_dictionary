@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-плавниковый, имеющий плавники
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавниковый, имеющий плавники</text></cit>
 </sense>
 <sense>
-<u>тех.</u> имеющий стабилизирующие плоскости
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий стабилизирующие плоскости</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">finnet(e)</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-прыщавый, угреватый, в прыщах, в угрях (о коже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыщавый, угреватый, в прыщах, в угрях (о коже)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>уст.</u> см. smi
+<usg>уст.</usg>
+<ref>smi</ref>
 </sense>
 <sense>
-сочинять, измышлять, выдумывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочинять, измышлять, выдумывать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">smede</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-издеваться, измываться, оскорблять (словесно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издеваться, измываться, оскорблять (словесно)</text></cit>
 </sense>
 </entry>
 </superEntry>

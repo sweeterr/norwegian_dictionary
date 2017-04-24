@@ -7,13 +7,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-следующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следующий</text></cit>
 <сit type="example"><text>det følgende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следующее</text></cit></cit>
 <сit type="example"><text>i det følgende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в дальнейшем</text></cit></cit>
 <сit type="example"><text>bli følgende(s) med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> пойти, поехать за компанию</text></cit></cit>
 </sense>
 <sense>
-грядущий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грядущий</text></cit>
 </sense>
 </entry>
 </superEntry>

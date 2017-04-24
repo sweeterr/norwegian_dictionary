@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">citasjonstegn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>грам.</u> кавычки
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кавычки</text></cit>
 </sense>
 </entry>
 </superEntry>

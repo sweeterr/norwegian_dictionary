@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">slunken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-обвисший, сидящий мешком (об одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвисший, сидящий мешком (об одежде)</text></cit>
 </sense>
 <sense>
-тощий, исхудавший, поджарый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тощий, исхудавший, поджарый</text></cit>
 </sense>
 <sense>
-полупустой, почти порожний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полупустой, почти порожний</text></cit>
 </sense>
 </entry>
 </superEntry>

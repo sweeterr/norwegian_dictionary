@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-мужество, храбрость, бесстрашие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мужество, храбрость, бесстрашие</text></cit>
 <сit type="example"><text>frisk mot!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не унывай (те)!, держи(те)сь!</text></cit></cit>
 <сit type="example"><text>fatte mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собраться с духом</text></cit></cit>
 <сit type="example"><text>ha (vise) moralsk mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь (проявить) гражданское мужество</text></cit></cit>
@@ -15,12 +15,14 @@
 <сit type="example"><text>inngi én mot, sette mot i én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вселять бодрость, придавать бодрость кому-л.</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> расположение духа, настроение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расположение духа, настроение</text></cit>
 <сit type="example"><text>han er ille (vel) til mote</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него нехорошо (хорошо) на душе</text></cit></cit>
 <сit type="example"><text>være ved godt mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в бодром настроении</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> желание
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желание</text></cit>
 <сit type="example"><text>ha mot på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хотеть чего-л.</text></cit></cit>
 </sense>
 </entry>
@@ -29,7 +31,8 @@
 <form>
 <orth type="lemma">mot</orth>
 <inflection><orth extent="part">-et</orth></inflection>
- <u>диал.</u> встреча
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встреча</text></cit>
 <сit type="example"><text>godt mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рад нашей встрече (приветствие на дороге, в пути)</text></cit></cit>
 </sense>
 </entry>
@@ -40,10 +43,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-напротив, против
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напротив, против</text></cit>
 </sense>
 <sense>
-навстречу (чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навстречу (чему-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,19 +54,19 @@
 <form>
 <orth type="lemma">mot</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-употребляется для выражения:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется для выражения:</text></cit>
 </form>
 <sense>
-движения в направлении предмета или ориентации на предмет к, на, по направлению к:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движения в направлении предмета или ориентации на предмет к, на, по направлению к:</text></cit>
 <сit type="example"><text>mot nord (sør)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к северу (югу), на север (юг)</text></cit></cit>
 <сit type="example"><text>mot land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к берегу</text></cit></cit>
 </sense>
 <sense>
-действия, направленного в противоположную сторону против
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действия, направленного в противоположную сторону против</text></cit>
 <сit type="example"><text>mot strømmen (vinden)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против течения (ветра)</text></cit></cit>
 </sense>
 <sense>
-фона, опоры, предмета противодействия о, об, на, на фоне, к:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фона, опоры, предмета противодействия о, об, на, на фоне, к:</text></cit>
 <сit type="example"><text>mot den mørke veggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на фоне тёмной стены</text></cit></cit>
 <сit type="example"><text>mot den røde aftenhimmelen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на фоне вечернего пурпурного неба</text></cit></cit>
 <сit type="example"><text>briste (gnisse) mot noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбиваться (тереться) обо что-л.</text></cit></cit>
@@ -71,7 +74,7 @@
 <сit type="example"><text>kjøre (lene seg, støtte seg) mot noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наскочить, наехать (облокотиться, опереться) на что-л.</text></cit></cit>
 </sense>
 <sense>
-несогласия, противодействия, борьбы против, от:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несогласия, противодействия, борьбы против, от:</text></cit>
 <сit type="example"><text>mot sin vilje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против своей воли</text></cit></cit>
 <сit type="example"><text>mot sedvane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>против обычая, вопреки обычаю</text></cit></cit>
 <сit type="example"><text>et middel mot magesmerter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>средство против болей в желудке</text></cit></cit>
@@ -81,24 +84,24 @@
 <сit type="example"><text>skrive (stå, tale, være) mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать (выступать, говорить, быть) против кого-л.</text></cit></cit>
 </sense>
 <sense>
-приближения к определённой точке во времени к
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приближения к определённой точке во времени к</text></cit>
 <сit type="example"><text>mot aften (mot kveld)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к вечеру</text></cit></cit>
 <сit type="example"><text>mot solrenning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к восходу солнца</text></cit></cit>
 <сit type="example"><text>mot slutten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к концу</text></cit></cit>
 <сit type="example"><text>det gryr mot sommer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время идёт к лету</text></cit></cit>
 </sense>
 <sense>
-отношения к кому-л. или чему-л. к
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отношения к кому-л. или чему-л. к</text></cit>
 <сit type="example"><text>ha plikter mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь обязанности по отношению к кому-л.</text></cit></cit>
 <сit type="example"><text>vise lydighet (troskap) mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявить послушание (верность) кому-л.</text></cit></cit>
 <сit type="example"><text>være elskverdig (hard, fiendtlig sinnet, oppmerksom, snill, takknemlig, øm) mot én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть любезным (суровым, враждебно настроенным, внимательным, добрым, признательным, нежным) к кому-л.</text></cit></cit>
 </sense>
 <sense>
-сравнения сравнительно с
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сравнения сравнительно с</text></cit>
 <сit type="example"><text>dette er intet mot hva det skal komme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это ещё пустяки по сравнению с тем, что будет</text></cit></cit>
 </sense>
 <sense>
-замены, замещения взамен, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замены, замещения взамен, за</text></cit>
 <сit type="example"><text>mot kausjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под залог</text></cit></cit>
 <сit type="example"><text>gi penger mot kvittering</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать деньги под расписку</text></cit></cit>
 </sense>

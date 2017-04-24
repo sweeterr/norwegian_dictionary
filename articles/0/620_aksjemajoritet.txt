@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aksjemajoritet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фин.</u> контрольный (мажоритарный) пакет (акций)
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контрольный (мажоритарный) пакет (акций)</text></cit>
 </sense>
 </entry>
 </superEntry>

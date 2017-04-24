@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trolove</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-давать торжественное обещание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать торжественное обещание</text></cit>
 </sense>
 <sense>
-обручить, помолвить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обручить, помолвить</text></cit>
 </sense>
 </entry>
 </superEntry>

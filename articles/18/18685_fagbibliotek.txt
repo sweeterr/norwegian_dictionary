@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fagbibliotek</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-специальная (отраслевая) библиотека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>специальная (отраслевая) библиотека</text></cit>
 </sense>
 </entry>
 </superEntry>

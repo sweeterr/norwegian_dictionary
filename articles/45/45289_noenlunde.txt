@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">noenlunde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>школ.</u> отметка «почти удовлетворительно»
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отметка «почти удовлетворительно»</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">noenlunde</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>редко</u> сравнительный, относительный
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сравнительный, относительный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +25,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-относительно, сравнительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относительно, сравнительно</text></cit>
 </sense>
 <sense>
-до некоторой степени, более или менее
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>до некоторой степени, более или менее</text></cit>
 <сit type="example"><text>han er bare så noenlunde ennå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он чувствует себя уже молодцом</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">blakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-пегая лошадь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пегая лошадь</text></cit>
 <сit type="example"><text>Blakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Пегашка (кличка пегой лошади)</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">blakk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> шлепок
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлепок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,17 +23,16 @@
 <form>
 <orth type="lemma">blakk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бледно-жёлтый, блёклый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледно-жёлтый, блёклый</text></cit>
 </sense>
 <sense>
-пегий (о лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пегий (о лошади)</text></cit>
 </sense>
 <sense>
-мутный, непрозрачный (о жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мутный, непрозрачный (о жидкости)</text></cit>
 </sense>
 </entry>
 </superEntry>

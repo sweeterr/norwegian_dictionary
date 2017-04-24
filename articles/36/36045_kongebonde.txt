@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kongebonde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>шахм.</u> королевская пешка
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>королевская пешка</text></cit>
 </sense>
 </entry>
 </superEntry>

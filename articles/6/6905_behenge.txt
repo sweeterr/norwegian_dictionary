@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">behenge</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-увешивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увешивать</text></cit>
 <сit type="example"><text>behengt med sørgeflagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с вывешенными траурными флагами</text></cit></cit>
 <сit type="example"><text>behengt med ordener</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь в орденах</text></cit></cit>
 </sense>

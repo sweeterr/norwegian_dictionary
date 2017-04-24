@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cerebral</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> церебральный (какуминальный) звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церебральный (какуминальный) звук</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,15 @@
 <form>
 <orth type="lemma">cerebral</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-<u>анат.</u> мозговой, церебральный
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мозговой, церебральный</text></cit>
 </sense>
 <sense>
-<u>фон.</u> церебральный, какуминальный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церебральный, какуминальный</text></cit>
 </sense>
 </entry>
 </superEntry>

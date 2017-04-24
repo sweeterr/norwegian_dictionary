@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kombattant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> строевик (о военнослужащем)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строевик (о военнослужащем)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">kombattant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-строевой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строевой</text></cit>
 </sense>
 </entry>
 </superEntry>

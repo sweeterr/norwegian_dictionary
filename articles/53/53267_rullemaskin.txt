@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rullemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-накат (устройство для наматывания бумаги в рулоны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накат (устройство для наматывания бумаги в рулоны)</text></cit>
 </sense>
 <sense>
-сигарная машина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигарная машина</text></cit>
 </sense>
 </entry>
 </superEntry>

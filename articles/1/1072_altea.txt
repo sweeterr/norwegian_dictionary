@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">altea</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> алтей аптечный
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>алтей аптечный</text></cit>
 </sense>
 </entry>
 </superEntry>

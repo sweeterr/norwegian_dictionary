@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">oval</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-овал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">oval</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-овальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овальный</text></cit>
 </sense>
 </entry>
 </superEntry>

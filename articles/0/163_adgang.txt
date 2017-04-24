@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-подступ, подход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подступ, подход</text></cit>
 <сit type="example"><text>adgangen var sperret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подход был закрыт</text></cit></cit>
 </sense>
 <sense>
-доступ, вход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доступ, вход</text></cit>
 <сit type="example"><text>adgang forbudt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вход воспрещён</text></cit></cit>
 <сit type="example"><text>fri adgang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободный (бесплатный) вход</text></cit></cit>
 <сit type="example"><text>uvedkommende forbys adgang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посторонним вход воспрещён</text></cit></cit>
@@ -19,16 +19,17 @@
 <сit type="example"><text>tiltvinge seg adgang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробиться (куда-л.)</text></cit></cit>
 </sense>
 <sense>
-право (возможность) пользования
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право (возможность) пользования</text></cit>
 <сit type="example"><text>med adgang til kjøkken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с правом пользоваться кухней</text></cit></cit>
 </sense>
 <sense>
-возможность, разрешение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возможность, разрешение</text></cit>
 <сit type="example"><text>det er adgang til diskusjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>можно обсудить (вопрос)</text></cit></cit>
 <сit type="example"><text>gi adgang til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предоставить возможность для</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> впуск, вводное отверстие
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впуск, вводное отверстие</text></cit>
 </sense>
 </entry>
 </superEntry>

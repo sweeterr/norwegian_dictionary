@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">celsitt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> цельсит (сплав железа а никеля)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цельсит (сплав железа а никеля)</text></cit>
 </sense>
 </entry>
 </superEntry>

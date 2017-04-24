@@ -9,7 +9,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(авто)машина, автомобиль</quote>
+<text>(авто)машина, автомобиль</text>
 </cit>
 </sense>
 </entry>
@@ -18,14 +18,16 @@
 <form>
 <orth type="lemma">bil</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> миг, момент, мгновение
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>миг, момент, мгновение</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">bil</orth>
-<u>диал.</u> см. bild I
+<usg>диал.</usg>
+<ref>bild I</ref>
 </sense>
 </entry>
 </superEntry>

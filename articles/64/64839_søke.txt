@@ -7,21 +7,21 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-искать, разыскивать, подыскивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искать, разыскивать, подыскивать</text></cit>
 <сit type="example"><text>søke etter én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разыскивать кого-л.</text></cit></cit>
 <сit type="example"><text>stuepike søkes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ищу домработницу (объявление)</text></cit></cit>
 </sense>
 <sense>
-пытаться, стараться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пытаться, стараться</text></cit>
 </sense>
 <sense>
-отправляться (в путь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отправляться (в путь)</text></cit>
 </sense>
 <sense>
-посещать, навещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посещать, навещать</text></cit>
 </sense>
 <sense>
-обращаться (к кому-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обращаться (к кому-л.)</text></cit>
 <сit type="example"><text>søke hen til noens hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прибегать к чьей-л. помощи</text></cit></cit>
 <сit type="example"><text>søke om én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просить, ходатайствовать о ком-л. (чём-л.)</text></cit></cit>
 <сit type="example"><text>søke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отыскивать, разыскивать</text></cit></cit>
@@ -33,7 +33,8 @@
 <form>
 <orth type="lemma">søke</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> рыскать, искать дичь (о собаках)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыскать, искать дичь (о собаках)</text></cit>
 </sense>
 </entry>
 </superEntry>

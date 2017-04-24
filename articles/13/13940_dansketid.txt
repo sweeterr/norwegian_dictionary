@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dansketid</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> эпоха датского господства в Норвегии (1397-1814 гг)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эпоха датского господства в Норвегии (1397-1814 гг)</text></cit>
 </sense>
 </entry>
 </superEntry>

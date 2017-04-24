@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-продолжительность жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продолжительность жизни</text></cit>
 </sense>
 <sense>
-время (период) жизни, жизнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время (период) жизни, жизнь</text></cit>
 <сit type="example"><text>ha en lang (kort) levetid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть долговечным (недолговечным)</text></cit></cit>
 <сit type="example"><text>få levetiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть заключённым пожизненно</text></cit></cit>
 </sense>

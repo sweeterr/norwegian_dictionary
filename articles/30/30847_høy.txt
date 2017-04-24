@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">høy</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-сено
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сено</text></cit>
 <сit type="example"><text>nyslått høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежескошенное сено</text></cit></cit>
 <сit type="example"><text>høyet er inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сено свезено с поля (на сеновал)</text></cit></cit>
 <сit type="example"><text>breie (berge, kjøre) høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбрасывать для сушки (убирать с поля, возить) сено</text></cit></cit>
@@ -18,41 +18,40 @@
 <form>
 <orth type="lemma">høy</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-высокий <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>ti meter høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высотой в десять метров</text></cit></cit>
 <сit type="example"><text>to (tre, fire и т. д.) mann høy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по два (три, четыре и т. д.) человека в глубину (о рядах)</text></cit></cit>
 <сit type="example"><text>høy i hatten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> чванный, надменный</text></cit></cit>
 <сit type="example"><text>høy på pæra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> гордый, высокомерный</text></cit></cit>
 </sense>
 <sense>
-громкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>громкий</text></cit>
 <сit type="example"><text>høyere!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громче!</text></cit></cit>
 </sense>
 <sense>
-большой (о числе, номере, сумме, ренте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой (о числе, номере, сумме, ренте)</text></cit>
 </sense>
 <sense>
-пожилой, преклонный (о возрасте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожилой, преклонный (о возрасте)</text></cit>
 </sense>
 <sense>
-оживлённый, бодрый, весёлый (о настроении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживлённый, бодрый, весёлый (о настроении)</text></cit>
 </sense>
 <sense>
-сильный, интенсивный (о чувствах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, интенсивный (о чувствах)</text></cit>
 <сit type="example"><text>være høy under hatten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в приподнятом настроении</text></cit></cit>
 </sense>
 <sense>
-высший (об учреждениях, классах общества)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высший (об учреждениях, классах общества)</text></cit>
 </sense>
 <sense>
-знатный (по рождению)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный (по рождению)</text></cit>
 </sense>
 <sense>
-яркий, румяный (о щеках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий, румяный (о щеках)</text></cit>
 <сit type="example"><text>det er høyt på dagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время уже за полдень</text></cit></cit>
 <сit type = "example"><text>det er på høy tid :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> самое время (сделать что-л.)</text></cit></cit>
 <сit type = "example"><text>det er på høy tid :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> уже давно пора</text></cit></cit>

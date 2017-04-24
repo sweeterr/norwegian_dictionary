@@ -5,17 +5,18 @@
 <form>
 <orth type="lemma">kvede</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бот.</u> айва (обыкновенная)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>айва (обыкновенная)</text></cit>
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-песнь (старинная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песнь (старинная)</text></cit>
 </sense>
 <sense>
-поэма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэма</text></cit>
 </sense>
 <sense>
-мелодия, напев
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелодия, напев</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,10 +26,11 @@
 <inflection><orth>kvad, kvedet</orth></inflection>
 </form>
 <sense>
-декламировать, исполнять речитативом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>декламировать, исполнять речитативом</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> петь, распевать
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь, распевать</text></cit>
 </sense>
 </entry>
 </superEntry>

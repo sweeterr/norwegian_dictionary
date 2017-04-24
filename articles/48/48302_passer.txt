@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-санитар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>санитар</text></cit>
 </sense>
 <sense>
-служитель (зоопарка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служитель (зоопарка)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">passer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-циркуль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>циркуль</text></cit>
 </sense>
 </entry>
 </superEntry>

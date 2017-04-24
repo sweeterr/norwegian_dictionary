@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">salve</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-мазь, крем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мазь, крем</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +15,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-залп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>залп</text></cit>
 <сit type="example"><text>avgi (avfyre) en salve</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать залп</text></cit></cit>
 </sense>
 <sense>
-взрыв (смеха), гром (аплодисментов), поток (ругательств)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв (смеха), гром (аплодисментов), поток (ругательств)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,10 +29,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-мазать мазью (кремом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мазать мазью (кремом)</text></cit>
 </sense>
 <sense>
-<u>церк.</u> помазывать (на царство)
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помазывать (на царство)</text></cit>
 </sense>
 </entry>
 </superEntry>

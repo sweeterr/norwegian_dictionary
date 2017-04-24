@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slarv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-халтурщик, разгильдяй, халатный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>халтурщик, разгильдяй, халатный человек</text></cit>
 </sense>
 <sense>
-болтун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтун</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-халтура, плохая (небрежная) работа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>халтура, плохая (небрежная) работа</text></cit>
 </sense>
 <sense>
-пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустая болтовня</text></cit>
 </sense>
 </entry>
 </superEntry>

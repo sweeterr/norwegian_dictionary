@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skare</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-толпа, скопище, группа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпа, скопище, группа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skare</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-наст
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наст</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">skare</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> загребать угли (золу)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загребать угли (золу)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,7 @@
 <form>
 <orth type="lemma">skare</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-толпиться, собираться толпой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпиться, собираться толпой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +38,7 @@
 <form>
 <orth type="lemma">skare</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-снимать нагар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать нагар</text></cit>
 </sense>
 </entry>
 </superEntry>

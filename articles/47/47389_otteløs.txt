@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">otteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> беззаботный, нетревожащийся, беспечный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззаботный, нетревожащийся, беспечный</text></cit>
 </sense>
 </entry>
 </superEntry>

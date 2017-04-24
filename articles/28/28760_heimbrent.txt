@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">heimbrent</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-самогон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самогон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">heimbrent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-самогонный (о спиртных напитках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самогонный (о спиртных напитках)</text></cit>
 </sense>
 </entry>
 </superEntry>

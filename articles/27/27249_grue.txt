@@ -4,10 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">grue</orth>
-<inflection><orth extent="part">-en (-a)</orth></inflection>
-, 
-<inflection><orth extent="part">-en</orth></inflection>
-очаг, открытый камин
+<inflection><orth extent="part">-en (-a), -en</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очаг, открытый камин</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +13,7 @@
 <form>
 <orth type="lemma">grue</orth>
 <inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
-бояться, страшиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бояться, страшиться</text></cit>
 </sense>
 </entry>
 <entry>

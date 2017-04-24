@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tårnpanser</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> броня орудийных башен
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>броня орудийных башен</text></cit>
 </sense>
 </entry>
 </superEntry>

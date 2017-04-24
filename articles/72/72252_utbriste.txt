@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">utbriste</orth>
 <inflection><orth>utbrast, utbrustet</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-воскликнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воскликнуть</text></cit>
 </sense>
 <sense>
-разразиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разразиться</text></cit>
 </sense>
 <sense>
-лопаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лопаться</text></cit>
 </sense>
 </entry>
 </superEntry>

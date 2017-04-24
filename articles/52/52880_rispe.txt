@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rispe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> побасёнка, весёлая история
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побасёнка, весёлая история</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расцарапать, поцарапать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расцарапать, поцарапать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> рассекать (небо)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассекать (небо)</text></cit>
 </sense>
 <sense>
-чистить (рыбу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистить (рыбу)</text></cit>
 </sense>
 <sense>
-обрывать (листья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрывать (листья)</text></cit>
 </sense>
 </entry>
 </superEntry>

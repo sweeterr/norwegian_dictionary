@@ -8,22 +8,26 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-виды на будущее, перспективы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виды на будущее, перспективы</text></cit>
 </sense>
 <sense>
-<u>астр.</u> взаимное расположение планет
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимное расположение планет</text></cit>
 </sense>
 <sense>
-<u>астр.</u> календарная таблица (астрономических явлений)
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>календарная таблица (астрономических явлений)</text></cit>
 </sense>
 <sense>
-<u>грам.</u> вид (в глаголах)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вид (в глаголах)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> характерная черта
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>характерная черта</text></cit>
 </sense>
 <sense>
-внешность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешность</text></cit>
 </sense>
 </entry>
 </superEntry>

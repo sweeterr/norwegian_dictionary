@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innrømmelsessetning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> уступительное предложение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уступительное предложение</text></cit>
 </sense>
 </entry>
 </superEntry>

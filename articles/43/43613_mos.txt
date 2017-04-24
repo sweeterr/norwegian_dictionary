@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mos</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> мох
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мох</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">mos</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-мусс (сладкое кушанье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мусс (сладкое кушанье)</text></cit>
 </sense>
 </entry>
 </superEntry>

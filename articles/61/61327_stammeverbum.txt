@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stammeverbum</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> корневой глагол
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корневой глагол</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-кол, (заострённый) шест, веха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кол, (заострённый) шест, веха</text></cit>
 <сit type="example"><text>lang og tynn som en stake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>длинный и тонкий как жердь</text></cit></cit>
 </sense>
 <sense>
-багор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багор</text></cit>
 </sense>
 <sense>
-подсвечник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подсвечник</text></cit>
 </sense>
 <sense>
-<u>разг.</u> дылда (о человеке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дылда (о человеке)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> веха
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веха</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,16 +32,16 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-вбивать (кол)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вбивать (кол)</text></cit>
 </sense>
 <sense>
-намечать, разбивать линию (вехами), провешивать (тж. stake opp, stake ut)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намечать, разбивать линию (вехами), провешивать (тж. stake opp, stake ut)</text></cit>
 </sense>
 <sense>
-прочищать (трубу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочищать (трубу)</text></cit>
 </sense>
 <sense>
-отталкиваться шестом (в лодке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отталкиваться шестом (в лодке)</text></cit>
 <сit type="example"><text>stake seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти опираясь на палку</text></cit></cit>
 </sense>
 </entry>

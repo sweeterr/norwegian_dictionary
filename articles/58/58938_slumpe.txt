@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">slumpe</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-случаться, случайно происходить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случаться, случайно происходить</text></cit>
 <сit type="example"><text>jeg har slumpet til å (+ инфинитив)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне довелось, мне пришлось (+ инфинитив)</text></cit></cit>
 </sense>
 <sense>
-пускать на самотёк, делать что-л. наудачу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пускать на самотёк, делать что-л. наудачу</text></cit>
 </sense>
 </entry>
 </superEntry>

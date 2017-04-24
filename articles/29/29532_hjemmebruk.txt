@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hjemmebruk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-домашнее употребление, использование в домашних условиях, домашний обиход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домашнее употребление, использование в домашних условиях, домашний обиход</text></cit>
 <сit type="example"><text>til hjemmebruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для носки дома (об одежде)</text></cit></cit>
 </sense>
 </entry>

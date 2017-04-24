@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-заплат(к)а
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплат(к)а</text></cit>
 </sense>
 <sense>
-набойка (на обуви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набойка (на обуви)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">flikk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-ремонт обуви
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ремонт обуви</text></cit>
 </sense>
 </entry>
 </superEntry>

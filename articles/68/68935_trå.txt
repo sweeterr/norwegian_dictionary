@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trå</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-страстное желание, влечение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страстное желание, влечение</text></cit>
 </sense>
 <sense>
-вожделение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вожделение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">trå</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-утоптанное место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утоптанное место</text></cit>
 </sense>
 <sense>
-овчарня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овчарня</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +33,8 @@
 <form>
 <orth type="lemma">trå</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> стопа, ступня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стопа, ступня</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,9 +42,8 @@
 <form>
 <orth type="lemma">trå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-затхлый, прогорклый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затхлый, прогорклый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,24 +51,23 @@
 <form>
 <orth type="lemma">trå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выносливый, неутомимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносливый, неутомимый</text></cit>
 </sense>
 <sense>
-несговорчивый, упрямый, строптивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несговорчивый, упрямый, строптивый</text></cit>
 </sense>
 <sense>
-неровный (о льде); липкий (о снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неровный (о льде); липкий (о снеге)</text></cit>
 </sense>
 <sense>
-тяжёлый (о дне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о дне)</text></cit>
 </sense>
 <sense>
-устойчивый (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устойчивый (о погоде)</text></cit>
 <сit type="example"><text>det går trått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дела идут со скрипом</text></cit></cit>
 </sense>
 </entry>
@@ -77,7 +76,8 @@
 <form>
 <orth type="lemma">trå</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> чувствовать страстное влечение (к кому-л.); страстно желать (чего-л.)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать страстное влечение (к кому-л.); страстно желать (чего-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -85,17 +85,17 @@
 <form>
 <orth type="lemma">trå</orth>
 <inflection><orth extent="part">-dte (-dde), -dt (-dd)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ступать, наступать (на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ступать, наступать (на что-л.)</text></cit>
 <сit type="example"><text>trå én på foten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наступать на ногу кому-л.</text></cit></cit>
 <сit type="example"><text>trå feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оступиться</text></cit></cit>
 <сit type = "example"><text>trå under hæl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> топтать ногами</text></cit></cit>
-<сit type = "example"><text>trå under hæl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> растоптать, подавить</text></cit></cit>
+<сit type = "example"><text>trå under hæl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> растоптать, подавить</text></cit></cit>
 </sense>
 <sense>
-нажимать ногой (на педаль и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нажимать ногой (на педаль и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

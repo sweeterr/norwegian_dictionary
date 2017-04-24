@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trespann</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-деревянное ведро, бадья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянное ведро, бадья</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">trespann</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-тройка (упряжка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройка (упряжка)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aksjespekulasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бирж.</u> фондовая спекуляция
+<usg>бирж.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фондовая спекуляция</text></cit>
 </sense>
 </entry>
 </superEntry>

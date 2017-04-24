@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-делать шов, сшивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать шов, сшивать</text></cit>
 </sense>
 <sense>
-подрубать, окаймлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подрубать, окаймлять</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">sømme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сшивать (сбивать) гвоздями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сшивать (сбивать) гвоздями</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">sømme</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> см. svømme
+<usg>диал.</usg>
+<ref>svømme</ref>
 </sense>
 </entry>
 </superEntry>

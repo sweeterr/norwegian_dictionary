@@ -5,25 +5,26 @@
 <form>
 <orth type="lemma">sjapp</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-лавка, магазин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лавка, магазин</text></cit>
 <сit type="example"><text>stenge sjapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а закрыть лавочку <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 <sense>
-трактир, кабак, погребок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трактир, кабак, погребок</text></cit>
 </sense>
 <sense>
-<u>разг.</u> парикмахерская
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парикмахерская</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-пойло, бурда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пойло, бурда</text></cit>
 </sense>
 <sense>
-талый снег с водой, снежная каша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>талый снег с водой, снежная каша</text></cit>
 </sense>
 </entry>
 </superEntry>

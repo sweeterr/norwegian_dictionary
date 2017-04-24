@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">neie</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
-делать реверанс (книксен), приседать, приветствовать, слегка приседая (тж. neie seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать реверанс (книксен), приседать, приветствовать, слегка приседая (тж. neie seg)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">neie</orth>
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
-<u>мор.</u> найтовить, делать найтов
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>найтовить, делать найтов</text></cit>
 </sense>
 </entry>
 </superEntry>

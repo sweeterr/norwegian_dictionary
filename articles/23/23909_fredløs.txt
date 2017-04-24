@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fredløs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> вербейник
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вербейник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">fredløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-опальный, находящийся вне закона, изгнанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опальный, находящийся вне закона, изгнанный</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> не находящий себе покоя
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не находящий себе покоя</text></cit>
 </sense>
 </entry>
 </superEntry>

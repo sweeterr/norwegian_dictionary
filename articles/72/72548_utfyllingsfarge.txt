@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utfyllingsfarge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>физ.</u> дополнительный цвет
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительный цвет</text></cit>
 </sense>
 </entry>
 </superEntry>

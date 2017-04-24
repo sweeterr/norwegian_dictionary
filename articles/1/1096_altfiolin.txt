@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">altfiolin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> альт (музыкальный инструмент)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>альт (музыкальный инструмент)</text></cit>
 </sense>
 </entry>
 </superEntry>

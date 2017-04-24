@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bestigning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-восхождение (на гору)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восхождение (на гору)</text></cit>
 <сit type="example"><text>foreta en bestigning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершить восхождение (на гору)</text></cit></cit>
 </sense>
 </entry>

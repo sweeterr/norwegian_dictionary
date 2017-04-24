@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-единение, единство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>единение, единство</text></cit>
 <сit type="example"><text>handlingens, stedets og tidens enhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>лит.</lbl>, <lbl>театр.</lbl> единство действия, места и времени</text></cit></cit>
 </sense>
 <sense>
-единица (измерения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>единица (измерения)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> воинская часть, войсковое подразделение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воинская часть, войсковое подразделение</text></cit>
 </sense>
 </entry>
 </superEntry>

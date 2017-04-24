@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">forgjette</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> <u>поэт.</u> забывать, предавать забвению
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забывать, предавать забвению</text></cit>
 </sense>
 </entry>
 </superEntry>

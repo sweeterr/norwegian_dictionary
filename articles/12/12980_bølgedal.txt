@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-понижение между двумя волнами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понижение между двумя волнами</text></cit>
 </sense>
 <sense>
-<u>физ.</u> нижняя часть амплитуды колебаний
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нижняя часть амплитуды колебаний</text></cit>
 </sense>
 <sense>
-<u>эк.</u> период спада
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>период спада</text></cit>
 </sense>
 </entry>
 </superEntry>

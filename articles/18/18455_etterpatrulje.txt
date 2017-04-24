@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">etterpatrulje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> тыльный дозор
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тыльный дозор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">stakket</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-короткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий</text></cit>
 </sense>
 <sense>
-краткий, непродолжительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краткий, непродолжительный</text></cit>
 </sense>
 </entry>
 </superEntry>

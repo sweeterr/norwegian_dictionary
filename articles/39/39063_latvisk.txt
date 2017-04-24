@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">latvisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-латышский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латышский</text></cit>
 </sense>
 </entry>
 </superEntry>

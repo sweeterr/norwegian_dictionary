@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arabisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-арабский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арабский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">arabisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-арабский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арабский</text></cit>
 </sense>
 </entry>
 </superEntry>

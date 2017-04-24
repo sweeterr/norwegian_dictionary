@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">uoppmerksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-невнимательный (к кому, чему-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невнимательный (к кому, чему-л. - mot)</text></cit>
 </sense>
 <sense>
-не замечающий (чего-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не замечающий (чего-л. - på)</text></cit>
 </sense>
 </entry>
 </superEntry>

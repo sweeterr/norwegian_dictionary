@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pasteurinstitutt</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мед.</u> пастеровская бактериологическая станция
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастеровская бактериологическая станция</text></cit>
 </sense>
 </entry>
 </superEntry>

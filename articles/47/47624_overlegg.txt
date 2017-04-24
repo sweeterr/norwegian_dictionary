@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-размышление, раздумье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размышление, раздумье</text></cit>
 <сit type="example"><text>uten overlegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не подумав, необдуманно</text></cit></cit>
 <сit type="example"><text>handle med overlegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поступать обдуманно (рассудительно)</text></cit></cit>
 </sense>
 <sense>
-предвидение, предусмотрительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвидение, предусмотрительность</text></cit>
 </sense>
 <sense>
-<u>редко</u> спокойствие, выдержка
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойствие, выдержка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sukkertopp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> сахарная голова
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сахарная голова</text></cit>
 </sense>
 </entry>
 </superEntry>

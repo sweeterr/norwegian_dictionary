@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bankerklæring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>банк.</u> банковская декларация
+<usg>банк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банковская декларация</text></cit>
 </sense>
 </entry>
 </superEntry>

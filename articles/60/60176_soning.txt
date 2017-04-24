@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-искупление (вины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искупление (вины)</text></cit>
 </sense>
 <sense>
-возмещение (убытков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмещение (убытков)</text></cit>
 </sense>
 <sense>
-отбытие наказания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбытие наказания</text></cit>
 </sense>
 <sense>
-<u>церк.</u> отпущение грехов
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпущение грехов</text></cit>
 </sense>
 </entry>
 </superEntry>

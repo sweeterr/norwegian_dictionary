@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">låring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> кормовая часть (судна)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормовая часть (судна)</text></cit>
 </sense>
 </entry>
 </superEntry>

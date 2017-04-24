@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-см. svepe I
+<ref>svepe I</ref>
 </sense>
 <sense>
-резкая критика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкая критика</text></cit>
 </sense>
 <sense>
-<u>уст.</u> карающий меч
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карающий меч</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-заворачивать, закутывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заворачивать, закутывать</text></cit>
 </sense>
 <sense>
-пеленать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеленать</text></cit>
 <сit type="example"><text>svøpe inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окутывать</text></cit></cit>
 </sense>
 </entry>

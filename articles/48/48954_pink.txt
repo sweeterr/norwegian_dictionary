@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pink</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-хромой человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хромой человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">pink</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> (слабый) самогон, брага
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(слабый) самогон, брага</text></cit>
 </sense>
 </entry>
 </superEntry>

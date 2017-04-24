@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppsprang</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> выход на поверхность (о подводной лодке, торпеде)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выход на поверхность (о подводной лодке, торпеде)</text></cit>
 </sense>
 </entry>
 </superEntry>

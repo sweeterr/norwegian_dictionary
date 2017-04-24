@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">albunerve</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> внутренний мыщелок плечевой кости
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутренний мыщелок плечевой кости</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,40 +5,39 @@
 <form>
 <orth type="lemma">rik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-богатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый</text></cit>
 <сit type="example"><text>de nye rike</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>новая буржуазия</text></cit></cit>
 <сit type="example"><text>bli rik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбогатеть, стать богатым</text></cit></cit>
 </sense>
 <sense>
-плодородный, изобилующий (чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плодородный, изобилующий (чем-л.)</text></cit>
 </sense>
 <sense>
-доходный, прибыльный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходный, прибыльный</text></cit>
 </sense>
 <sense>
-одарённый, даровитый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одарённый, даровитый</text></cit>
 </sense>
 <sense>
-дорогостоящий, ценный, драгоценный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорогостоящий, ценный, драгоценный</text></cit>
 </sense>
 <sense>
-обильный, изысканный (об обеде, пище)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обильный, изысканный (об обеде, пище)</text></cit>
 </sense>
 <sense>
-пышный (о волосах, о причёске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пышный (о волосах, о причёске)</text></cit>
 </sense>
 <sense>
-разнообразный (о растительности и животном мире)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разнообразный (о растительности и животном мире)</text></cit>
 </sense>
 <sense>
-звучный, чистый (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звучный, чистый (о голосе)</text></cit>
 </sense>
 <sense>
-вкусный, питательный (о пище)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкусный, питательный (о пище)</text></cit>
 </sense>
 </entry>
 </superEntry>

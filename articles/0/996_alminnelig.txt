@@ -7,14 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-общий, всеобщий, общепринятый, общедоступный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общий, всеобщий, общепринятый, общедоступный</text></cit>
 <сit type="example"><text>det alminnelige</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> общество</text></cit></cit>
 </sense>
 <sense>
-обыкновенный, обычный, стандартный, серийный, банальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обыкновенный, обычный, стандартный, серийный, банальный</text></cit>
 </sense>
 <sense>
-простой, заурядный, рядовой, средний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, заурядный, рядовой, средний</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,10 +24,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-вообще
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вообще</text></cit>
 </sense>
 <sense>
-обычно, как правило, чаще всего
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычно, как правило, чаще всего</text></cit>
 <сit type="example"><text>mere enn alminnelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>необыкновенно</text></cit></cit>
 </sense>
 </entry>

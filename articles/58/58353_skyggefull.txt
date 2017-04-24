@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">skyggefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тенистый, затенённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тенистый, затенённый</text></cit>
 </sense>
 <sense>
-бросающий (дающий) тень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросающий (дающий) тень</text></cit>
 </sense>
 <sense>
-мрачный, озабоченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачный, озабоченный</text></cit>
 </sense>
 </entry>
 </superEntry>

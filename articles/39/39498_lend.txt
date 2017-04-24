@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-поясница, бедро
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поясница, бедро</text></cit>
 </sense>
 <sense>
 <inflection><num>pl</num><orth extent="part">-er</orth></inflection>
-бёдра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бёдра</text></cit>
 <сit type="example"><text>binde opp om sine lender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>препоясать чресла (готовясь в путь)</text></cit></cit>
 </sense>
 </entry>

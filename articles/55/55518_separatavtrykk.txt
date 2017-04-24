@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">separatavtrykk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> <u>полигр.</u> отдельный оттиск, специальный отпечаток
+<usg>уст.</usg>
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдельный оттиск, специальный отпечаток</text></cit>
 </sense>
 </entry>
 </superEntry>

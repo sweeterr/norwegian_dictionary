@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rektangel</orth>
 <inflection><orth extent="part">-elet (-let), -ler</orth></inflection>
-<u>мат.</u> прямоугольник
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямоугольник</text></cit>
 </sense>
 </entry>
 </superEntry>

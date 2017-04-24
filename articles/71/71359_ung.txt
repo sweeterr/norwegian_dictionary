@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">ung</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <inflection><orth>(komp yngre, superl yngst)</orth></inflection>
+<inflection><orth>(komp yngre, superl yngst)</orth></inflection>
 </form>
 <sense>
-молодой <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодой <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>gammel og ung, unge og gamle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и стар и млад</text></cit></cit>
 </sense>
 <sense>
-юный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юный</text></cit>
 <сit type = "example"><text>de unge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> малыши, детвора</text></cit></cit>
 <сit type = "example"><text>de unge :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> молодые</text></cit></cit>
 </sense>
 <sense>
-свежий (о зелени и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (о зелени и т. д.)</text></cit>
 </sense>
 <sense>
-употребляется как определение перед именами собственными для указания на молодой возраст:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется как определение перед именами собственными для указания на молодой возраст:</text></cit>
 <сit type="example"><text>ung Per</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>молодой Пер, малыш Пер</text></cit></cit>
 </sense>
 </entry>

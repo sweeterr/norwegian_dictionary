@@ -4,22 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">gjennom-</orth>
-в сложн. сл. указывает на:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сложн. сл. указывает на:</text></cit>
 </form>
 <sense>
-движение через, сквозь что-л.:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение через, сквозь что-л.:</text></cit>
 <сit type="example"><text>gjennomreise</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проезжать через (какое-л. место)</text></cit></cit>
 </sense>
 <sense>
-движение сквозь какую-л. среду:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение сквозь какую-л. среду:</text></cit>
 <сit type="example"><text>gjennomskue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть насквозь</text></cit></cit>
 </sense>
 <sense>
-завершённый характер действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завершённый характер действия:</text></cit>
 <сit type="example"><text>gjennomforske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исследовать до конца</text></cit></cit>
 </sense>
 <sense>
-длительность действия или состояния:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длительность действия или состояния:</text></cit>
 <сit type="example"><text>gjennomtenke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продумывать</text></cit></cit>
 </sense>
 </entry>

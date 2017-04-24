@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">rosenrød</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-алый, пунцовый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>алый, пунцовый</text></cit>
 <сit type="example"><text>en rosenrød framtid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>светлое будущее</text></cit></cit>
 <сit type="example"><text>se alt i rosenrødt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>видеть всё в розовом свете</text></cit></cit>
 </sense>

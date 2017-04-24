@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skarntyde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>бот.</u> болиголов пятнистый
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болиголов пятнистый</text></cit>
 </sense>
 </entry>
 </superEntry>

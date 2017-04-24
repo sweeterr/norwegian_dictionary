@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-шпулька, катушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпулька, катушка</text></cit>
 </sense>
 <sense>
-<u>текст.</u> ткацкий челнок
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ткацкий челнок</text></cit>
 </sense>
 <sense>
-<u>радио</u> катушка
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катушка</text></cit>
 </sense>
 <sense>
-<u>эл.</u> соленоид, индуктор
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соленоид, индуктор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +27,7 @@
 <form>
 <orth type="lemma">spole</orth>
 <inflection><orth extent="part">-te(-et), -t (-et)</orth></inflection>
-наматывать на катушку или шпульку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наматывать на катушку или шпульку</text></cit>
 </sense>
 </entry>
 </superEntry>

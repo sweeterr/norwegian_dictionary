@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fosforbomle</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> фосфорная зажигательная бомба
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фосфорная зажигательная бомба</text></cit>
 </sense>
 </entry>
 </superEntry>

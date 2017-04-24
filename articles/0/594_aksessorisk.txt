@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">aksessorisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-дополнительный, примыкающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительный, примыкающий</text></cit>
 </sense>
 <sense>
-имеющий отношение, зависимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий отношение, зависимый</text></cit>
 </sense>
 </entry>
 </superEntry>

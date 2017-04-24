@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skyfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-безоблачный, ясный (о небе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безоблачный, ясный (о небе)</text></cit>
 </sense>
 <sense>
-беззаботный (о выражении лица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззаботный (о выражении лица)</text></cit>
 </sense>
 </entry>
 </superEntry>

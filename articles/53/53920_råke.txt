@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">råke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> слюна
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слюна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-встретить (случайно), наткнуться, натолкнуться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встретить (случайно), наткнуться, натолкнуться</text></cit>
 </sense>
 <sense>
-угодить, попасть (куда-л. - i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угодить, попасть (куда-л. - i)</text></cit>
 <сit type="example"><text>råke fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приближаться</text></cit></cit>
 <сit type="example"><text>råke opp i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть куда-л.</text></cit></cit>
 <сit type="example"><text>råke på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случайно встретить, наткнуться</text></cit></cit>

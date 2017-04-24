@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">med-</orth>
 <gramGrp><pos>pref</pos></gramGrp>
-употребляется:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>употребляется:</text></cit>
 </form>
 <sense>
-для образования имён существительных со значением совместного участия в чём-л., со-:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>для образования имён существительных со значением совместного участия в чём-л., со-:</text></cit>
 <сit type="example"><text>medarbeider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сотрудник</text></cit></cit>
 <сit type="example"><text>medeier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совладелец</text></cit></cit>
 </sense>
 <sense>
-для образования имён прилагательных со значением признака, общего нескольким лицам, предметам:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>для образования имён прилагательных со значением признака, общего нескольким лицам, предметам:</text></cit>
 <сit type="example"><text>medansvarlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>несущий коллективную ответственность</text></cit></cit>
 </sense>
 <sense>
-для образования глаголов со значением совместного характера действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>для образования глаголов со значением совместного характера действия:</text></cit>
 <сit type="example"><text>medvirke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взаимодействовать, действовать совместно, содействовать</text></cit></cit>
 </sense>
 </entry>

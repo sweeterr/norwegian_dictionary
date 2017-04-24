@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vannball</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-мяч (для игры в водное поло)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мяч (для игры в водное поло)</text></cit>
 </sense>
 <sense>
-водное поло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водное поло</text></cit>
 </sense>
 </entry>
 </superEntry>

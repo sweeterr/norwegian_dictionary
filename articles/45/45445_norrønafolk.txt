@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">norrønafolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> <u>поэт.</u>
+<usg>собир.</usg>
+<usg>поэт.</usg>
 </form>
 <sense>
-древние норвежцы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древние норвежцы</text></cit>
 </sense>
 <sense>
-норвежцы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норвежцы</text></cit>
 </sense>
 </entry>
 </superEntry>

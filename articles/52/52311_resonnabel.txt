@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">resonnabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-разумный, здравый, рассудительный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разумный, здравый, рассудительный (о человеке)</text></cit>
 </sense>
 <sense>
-убедительный (об аргументации)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убедительный (об аргументации)</text></cit>
 </sense>
 </entry>
 </superEntry>

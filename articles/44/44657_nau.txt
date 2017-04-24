@@ -5,10 +5,9 @@
 <form>
 <orth type="lemma">nau</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
-<inflection><orth extent="part">-t</orth></inflection>
-(t)
-<u>диал.</u> слабый (о ветре)
+<inflection><orth extent="part">-t (t)</orth></inflection>
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

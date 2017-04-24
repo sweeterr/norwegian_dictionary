@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">laksand</orth>
 <inflection><orth extent="part">-anden (-anda), -ender</orth></inflection>
-<u>зоол.</u> крохаль большой
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крохаль большой</text></cit>
 </sense>
 </entry>
 </superEntry>

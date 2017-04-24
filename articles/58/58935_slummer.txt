@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-дрёма, короткий лёгкий сон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрёма, короткий лёгкий сон</text></cit>
 <сit type="example"><text>falle i slummer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задремать, вздремнуть</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> вечный сон, смерть
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечный сон, смерть</text></cit>
 </sense>
 </entry>
 </superEntry>

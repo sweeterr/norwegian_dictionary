@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">anklager</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>юр.</u> обвинитель, прокурор
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвинитель, прокурор</text></cit>
 <сit type="example"><text>den offentlige anklager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественный обвинитель</text></cit></cit>
 </sense>
 </entry>

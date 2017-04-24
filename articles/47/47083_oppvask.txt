@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-мытьё посуды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мытьё посуды</text></cit>
 </sense>
 <sense>
-грязная посуда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязная посуда</text></cit>
 </sense>
 <sense>
-<u>разг.</u> ссора, сведение счётов, ругань
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ссора, сведение счётов, ругань</text></cit>
 </sense>
 </entry>
 </superEntry>

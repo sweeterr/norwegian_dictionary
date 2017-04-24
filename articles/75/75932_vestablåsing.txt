@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vestablåsing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> западный ветер
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>западный ветер</text></cit>
 </sense>
 </entry>
 </superEntry>

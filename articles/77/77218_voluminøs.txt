@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">voluminøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-объёмистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объёмистый</text></cit>
 </sense>
 <sense>
-толстый, большой (о книге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый, большой (о книге)</text></cit>
 </sense>
 <sense>
-имеющий широкий диапазон (о голоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий широкий диапазон (о голоде)</text></cit>
 </sense>
 </entry>
 </superEntry>

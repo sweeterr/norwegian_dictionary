@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barkekniv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лес.</u> скобель, струг
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скобель, струг</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lysrakett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> осветительная ракета
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осветительная ракета</text></cit>
 </sense>
 </entry>
 </superEntry>

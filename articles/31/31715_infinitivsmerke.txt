@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">infinitivsmerke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>грам.</u> инфинитивная частица, показатель инфинитива
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инфинитивная частица, показатель инфинитива</text></cit>
 </sense>
 </entry>
 </superEntry>

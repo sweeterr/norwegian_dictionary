@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> терраса, уступ
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терраса, уступ</text></cit>
 </sense>
 <sense>
-<u>геол.</u> след линии прибоя на скалах
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>след линии прибоя на скалах</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,24 +22,25 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-место, сиденье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место, сиденье</text></cit>
 <сit type="example"><text>bytte sete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересесть</text></cit></cit>
 <сit type="example"><text>ta sete</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться</text></cit></cit>
 </sense>
 <sense>
-сидение, сидячее положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сидение, сидячее положение</text></cit>
 <сit type="example"><text>i setet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в сидячем положении</text></cit></cit>
 </sense>
 <sense>
-должность, место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность, место</text></cit>
 <сit type="example"><text>få sete i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить место (где-л.)</text></cit></cit>
 <сit type="example"><text>ta sete i rådet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать членом совета</text></cit></cit>
 </sense>
 <sense>
-резиденция (правительства), местонахождение (учреждения и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резиденция (правительства), местонахождение (учреждения и т. п.)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> зад
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зад</text></cit>
 </sense>
 </entry>
 </superEntry>

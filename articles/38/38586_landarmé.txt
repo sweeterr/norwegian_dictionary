@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landarmé</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> сухопутная армия
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухопутная армия</text></cit>
 </sense>
 </entry>
 </superEntry>

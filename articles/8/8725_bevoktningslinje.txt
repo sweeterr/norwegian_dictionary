@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bevoktningslinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> линия охранения, линия (полевых) караулов
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия охранения, линия (полевых) караулов</text></cit>
 </sense>
 </entry>
 </superEntry>

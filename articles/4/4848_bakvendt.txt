@@ -7,16 +7,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-обратный, повёрнутый задом наперёд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратный, повёрнутый задом наперёд</text></cit>
 </sense>
 <sense>
-противоположный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противоположный</text></cit>
 </sense>
 <sense>
-превратный, неправильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превратный, неправильный</text></cit>
 </sense>
 <sense>
-абсурдный, бессмысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абсурдный, бессмысленный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,11 +26,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-задом наперёд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задом наперёд</text></cit>
 <сit type="example"><text>bære seg bakvendt ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести себя не так как полагается</text></cit></cit>
 </sense>
 <sense>
-шиворот-навыворот, наизнанку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шиворот-навыворот, наизнанку</text></cit>
 </sense>
 </entry>
 </superEntry>

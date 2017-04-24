@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elektromobil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> электромобиль
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электромобиль</text></cit>
 </sense>
 </entry>
 </superEntry>

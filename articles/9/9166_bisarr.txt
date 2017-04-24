@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">bisarr</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-странный, причудливый, чудной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странный, причудливый, чудной</text></cit>
 </sense>
 <sense>
-бьющий на эффект, кричащий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бьющий на эффект, кричащий</text></cit>
 </sense>
 <sense>
-своенравный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своенравный</text></cit>
 </sense>
 </entry>
 </superEntry>

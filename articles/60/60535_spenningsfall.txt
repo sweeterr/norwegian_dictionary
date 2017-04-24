@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spenningsfall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>эл.</u> падение напряжения (в цепи)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падение напряжения (в цепи)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvartæravleiring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геол.</u> отложения четвертичного периода
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отложения четвертичного периода</text></cit>
 </sense>
 </entry>
 </superEntry>

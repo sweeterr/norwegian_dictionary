@@ -6,7 +6,7 @@
 <orth type="lemma">beige</orth>
 <phon>|be:∫|</phon>
 <inflection><orth extent="part">-n</orth></inflection>
-цвет беж, бежевый цвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет беж, бежевый цвет</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <orth type="lemma">beige</orth>
 <phon>|be:∫|</phon>
 <gramGrp><pos>adj</pos></gramGrp>
-цвета беж, бежевый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвета беж, бежевый</text></cit>
 </sense>
 </entry>
 </superEntry>

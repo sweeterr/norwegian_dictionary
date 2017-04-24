@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rødlett</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-румяный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румяный</text></cit>
 </sense>
 <sense>
-рыжевато-красный, красноватый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыжевато-красный, красноватый</text></cit>
 </sense>
 </entry>
 </superEntry>

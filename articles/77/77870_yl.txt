@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">yl</orth>
 <inflection><orth>ylen (ylet)</orth></inflection>
-<u>диал.</u> град
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>град</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">yl</orth>
 <inflection><orth>ylet</orth></inflection>
-вой, плач, вопль, стенание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вой, плач, вопль, стенание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">yl</orth>
 <inflection><orth>ylen</orth></inflection>
-<u>диал.</u> марево
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>марево</text></cit>
 </sense>
 </entry>
 </superEntry>

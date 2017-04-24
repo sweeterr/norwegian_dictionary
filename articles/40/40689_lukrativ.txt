@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">lukrativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-доходный, прибыльный, выгодный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходный, прибыльный, выгодный</text></cit>
 </sense>
 </entry>
 </superEntry>

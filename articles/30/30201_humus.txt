@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">humus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>с.-х.</u> гумус, перегной
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гумус, перегной</text></cit>
 </sense>
 </entry>
 </superEntry>

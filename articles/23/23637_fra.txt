@@ -5,11 +5,11 @@
 <form>
 <orth type="lemma">fra</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-придаёт глаголам движения значение удаления, движения от исходной точки:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придаёт глаголам движения значение удаления, движения от исходной точки:</text></cit>
 <сit type="example"><text>falle fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвалиться</text></cit></cit>
 <сit type="example"><text>klippe fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать</text></cit></cit>
 <сit type = "example"><text>fra og til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взад и вперёд, туда и сюда</text></cit></cit>
-<сit type = "example"><text>fra og til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>уст.</u> то и дело, время от времени</text></cit></cit>
+<сit type = "example"><text>fra og til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>уст.</lbl> то и дело, время от времени</text></cit></cit>
 <сit type="example"><text>det gjør hverken fra eller til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не играет роли, это не имеет значения</text></cit></cit>
 </sense>
 </entry>
@@ -20,19 +20,19 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении указывает на удаление от исходного пункта движения, от, из, с:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на удаление от исходного пункта движения, от, из, с:</text></cit>
 <сit type="example"><text>fra Norge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из Норвегии</text></cit></cit>
 <сit type="example"><text>fra byen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из города</text></cit></cit>
 <сit type="example"><text>fra øst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с востока</text></cit></cit>
 <сit type="example"><text>fra borde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из-за стола</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на расстояние от какого-л. предмета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на расстояние от какого-л. предмета</text></cit>
 <сit type="example"><text>Kristiansund ligger 120 kilometer fra Ålesund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Кристиансунн находится в 120 километрах от Олесунна</text></cit></cit>
 <сit type="example"><text>fra ... til ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от ... до ...; <lbl>перен.</lbl> начиная ... и кончая ...</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на удаление от определённого момента, с, от:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на удаление от определённого момента, с, от:</text></cit>
 <сit type="example"><text>fra denne tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этого времени, с этих пор</text></cit></cit>
 <сit type="example"><text>fra gutter av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с детства, с того времени, как они (мы, вы) были мальчиками</text></cit></cit>
 <сit type="example"><text>fra klokka tre til sju</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от трёх до семи часов</text></cit></cit>
@@ -40,13 +40,13 @@
 <сit type="example"><text>fra før</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от прежних времён, ещё прежде, ещё до этого</text></cit></cit>
 </sense>
 <sense>
-указывает на происхождение, на появление из какого-л. источника, от, из:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на происхождение, на появление из какого-л. источника, от, из:</text></cit>
 <сit type="example"><text>hvor er han fra?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>откуда он родом?</text></cit></cit>
 <сit type="example"><text>han nedstammer fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он происходит от (такого-то)</text></cit></cit>
 <сit type="example"><text>ordet er lånt fra fransk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это слово заимствовано из французского языка</text></cit></cit>
 </sense>
 <sense>
-указывает на отделение от чего-л., освобождение от чего-л., от, у:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на отделение от чего-л., освобождение от чего-л., от, у:</text></cit>
 <сit type="example"><text>skyve noe fra seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оттолкнуть (отпихнуть) от себя</text></cit></cit>
 <сit type="example"><text>fra hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>один от другого</text></cit></cit>
 <сit type="example"><text>avsette en fra sin stilling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освободить кого-л. от должности</text></cit></cit>
@@ -58,7 +58,7 @@
 <form>
 <orth type="lemma">fra</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-с тех пор как, со времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с тех пор как, со времени</text></cit>
 </sense>
 </entry>
 </superEntry>

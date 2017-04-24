@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ildsikker</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безопасный в пожарном отношении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безопасный в пожарном отношении</text></cit>
 </sense>
 <sense>
-огнестойкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огнестойкий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dor</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> шип (металлический), пробойник, бородок
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шип (металлический), пробойник, бородок</text></cit>
 </sense>
 </entry>
 </superEntry>

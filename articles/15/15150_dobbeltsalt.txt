@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dobbeltsalt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> двойная соль
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двойная соль</text></cit>
 </sense>
 </entry>
 </superEntry>

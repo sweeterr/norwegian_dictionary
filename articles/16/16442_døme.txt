@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">døme</orth>
 <inflection><orth extent="part">-t, =</orth></inflection>
-<u>диал.</u> пример
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пример</text></cit>
 <сit type="example"><text>til døme(s)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>например</text></cit></cit>
 </sense>
 </entry>

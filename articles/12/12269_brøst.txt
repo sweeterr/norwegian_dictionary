@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">brøst</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-недостаток (тж. физический), дефект, отсутствие (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недостаток (тж. физический), дефект, отсутствие (чего-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">brøst</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>диал.</u> см. bryst
+<usg>диал.</usg>
+<ref>bryst</ref>
 </sense>
 </entry>
 </superEntry>

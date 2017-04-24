@@ -7,10 +7,10 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-указывает на происхождение, из, с
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на происхождение, из, с</text></cit>
 </sense>
 <sense>
-указывает на процент, из:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на процент, из:</text></cit>
 <сit type="example"><text>ex</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>10% из 10%</text></cit></cit>
 </sense>
 </entry>

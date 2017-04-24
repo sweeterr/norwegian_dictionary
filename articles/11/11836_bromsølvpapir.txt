@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bromsølvpapir</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>фото</u> бромосеребряная бумага
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бромосеребряная бумага</text></cit>
 </sense>
 </entry>
 </superEntry>

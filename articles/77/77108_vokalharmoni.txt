@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vokalharmoni</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фон.</u> гармония гласных, сингармонизм
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гармония гласных, сингармонизм</text></cit>
 </sense>
 </entry>
 </superEntry>

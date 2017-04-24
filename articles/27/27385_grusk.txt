@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">grusk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-гордый, важный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гордый, важный</text></cit>
 </sense>
 <sense>
-пышный, замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пышный, замечательный</text></cit>
 </sense>
 <sense>
-суровый (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый (о погоде)</text></cit>
 </sense>
 </entry>
 </superEntry>

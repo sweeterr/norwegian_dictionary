@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">betongbefestning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> бетонированное фортификационное сооружение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бетонированное фортификационное сооружение</text></cit>
 </sense>
 </entry>
 </superEntry>

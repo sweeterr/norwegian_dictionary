@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mistillitsvotum</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-вотум недоверия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вотум недоверия</text></cit>
 <сit type="example"><text>gi én et mistillitsvotum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выражать недоверие</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">feltstyrke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>эл.</u> сила (напряжённость) поля
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила (напряжённость) поля</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">feltstyrke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> численность по штатам военного времени
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>численность по штатам военного времени</text></cit>
 </sense>
 </entry>
 </superEntry>

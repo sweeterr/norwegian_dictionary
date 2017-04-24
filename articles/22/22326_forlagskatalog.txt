@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forlagskatalog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-издательский каталог, каталог издательства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издательский каталог, каталог издательства</text></cit>
 </sense>
 </entry>
 </superEntry>

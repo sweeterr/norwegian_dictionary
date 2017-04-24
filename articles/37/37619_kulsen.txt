@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kulsen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-чувствительный к холоду, зябкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствительный к холоду, зябкий</text></cit>
 </sense>
 </entry>
 </superEntry>

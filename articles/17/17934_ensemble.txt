@@ -6,7 +6,9 @@
 <orth type="lemma">ensemble</orth>
 <phon>|aŋsaŋblə|</phon>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>муз.</u>, <u>архит.</u> ансамбль
+<usg>муз.</usg>
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ансамбль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-исполин, богатырь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исполин, богатырь</text></cit>
 </sense>
 <sense>
-<u>разг.</u> верзила
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верзила</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,10 +19,10 @@
 <form>
 <orth type="lemma">pryl</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-избиение, побои
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избиение, побои</text></cit>
 <сit type="example"><text>en ordentlig drakt pryl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>основательная взбучка</text></cit></cit>
 <сit type = "example"><text>få pryl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть побитым</text></cit></cit>
-<сit type = "example"><text>få pryl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> подвергнуться жестокой критике</text></cit></cit>
+<сit type = "example"><text>få pryl :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> подвергнуться жестокой критике</text></cit></cit>
 <сit type="example"><text>gi pryl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>побить, вздуть (кого-л.)</text></cit></cit>
 <сit type="example"><text>ta prylene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть сильно раскритикованным</text></cit></cit>
 </sense>

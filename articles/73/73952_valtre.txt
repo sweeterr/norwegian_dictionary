@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">valtre</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-опрокидываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опрокидываться</text></cit>
 </sense>
 <sense>
-переваливаться с ноги на ногу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переваливаться с ноги на ногу</text></cit>
 </sense>
 </entry>
 </superEntry>

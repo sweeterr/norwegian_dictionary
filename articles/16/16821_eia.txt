@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">eia</orth>
 <gramGrp><pos>int</pos></gramGrp>
-<u>поэт.</u> <u>уст.</u> (выражает бурную радость, веселье, восторг) ура!
+<usg>поэт.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(выражает бурную радость, веселье, восторг) ура!</text></cit>
 </sense>
 </entry>
 </superEntry>

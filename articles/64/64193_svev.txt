@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svev</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-см. sveiv I
+<ref>sveiv I</ref>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-парение, парящий полёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парение, парящий полёт</text></cit>
 </sense>
 <sense>
-<u>ав.</u> планирование
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>планирование</text></cit>
 </sense>
 </entry>
 <entry>

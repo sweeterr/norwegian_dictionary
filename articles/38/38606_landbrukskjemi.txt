@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">landbrukskjemi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-агрохимия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агрохимия</text></cit>
 </sense>
 </entry>
 </superEntry>

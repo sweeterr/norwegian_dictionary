@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">overlag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-верхний слой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхний слой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">overlag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-избыток, масса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избыток, масса</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">overlag</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> чрезвычайно, весьма
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайно, весьма</text></cit>
 </sense>
 </entry>
 </superEntry>

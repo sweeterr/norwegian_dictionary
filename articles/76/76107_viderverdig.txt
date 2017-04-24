@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">viderverdig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-неприятный, противный, досадный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятный, противный, досадный</text></cit>
 </sense>
 <sense>
-утомительный, мучительный, надоедливый, скучный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомительный, мучительный, надоедливый, скучный</text></cit>
 </sense>
 </entry>
 </superEntry>

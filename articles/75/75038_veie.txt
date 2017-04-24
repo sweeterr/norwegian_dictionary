@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-весить, иметь вес <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весить, иметь вес <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-взвешивать <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взвешивать <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-уравновешивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уравновешивать</text></cit>
 <сit type="example"><text>veie av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>развешивать</text></cit></cit>
 <сit type="example"><text>veie fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отвешивать</text></cit></cit>
 <сit type="example"><text>veie opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свешать</text></cit></cit>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">veie</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
-<u>диал.</u> прокладывать дорогу (обычно по снегу)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать дорогу (обычно по снегу)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avtrekker</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>воен.</u> спусковой крючок
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спусковой крючок</text></cit>
 </sense>
 </entry>
 </superEntry>

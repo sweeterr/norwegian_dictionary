@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-men (-ma)</orth></inflection>
 </form>
 <sense>
-позор, стыд, срам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позор, стыд, срам</text></cit>
 <сit type="example"><text>til min skam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к моему стыду</text></cit></cit>
 <сit type="example"><text>det er ingen skam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в этом нет ничего зазорного</text></cit></cit>
 <сit type="example"><text>han har ingen skam i livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него нет ни стыда, ни совести</text></cit></cit>
@@ -21,14 +21,15 @@
 <сit type="example"><text>skam ta deg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как тебе не стыдно!, стыдись!</text></cit></cit>
 </sense>
 <sense>
-позорный, постыдный поступок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позорный, постыдный поступок</text></cit>
 </sense>
 <sense>
-стыдливость, застенчивость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стыдливость, застенчивость</text></cit>
 <сit type="example"><text>bite hodet av all skam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерять чувство стыда, не стыдиться</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> половые органы
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>половые органы</text></cit>
 </sense>
 </entry>
 </superEntry>

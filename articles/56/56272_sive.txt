@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">sive</orth>
-<inflection><orth extent="part">-et, (-de, <u>уст.</u> sev), -et (-d)</orth></inflection>
+<inflection><orth extent="part">-et, (-de, <lbl>уст.</lbl> sev), -et (-d)</orth></inflection>
 </form>
 <sense>
-капать, сочиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капать, сочиться</text></cit>
 </sense>
 <sense>
-накрапывать (о дожде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накрапывать (о дожде)</text></cit>
 </sense>
 <sense>
-пробиваться (о свете), просвечивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробиваться (о свете), просвечивать</text></cit>
 <сit type="example"><text>sive inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просачиваться внутрь</text></cit></cit>
 <сit type="example"><text>sive ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>просочиться (о тайне), распространиться, разнестись (о слухах, известии)</text></cit></cit>
 </sense>

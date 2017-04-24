@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bister</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-коричневая краска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коричневая краска</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,17 +13,16 @@
 <form>
 <orth type="lemma">bister</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-суровый, угрюмый, мрачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый, угрюмый, мрачный</text></cit>
 </sense>
 <sense>
-яростный, свирепый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яростный, свирепый</text></cit>
 </sense>
 <sense>
-лютый, жестокий (о морозе), пронизывающий (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лютый, жестокий (о морозе), пронизывающий (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

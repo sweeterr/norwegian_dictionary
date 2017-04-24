@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">treslesott</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>фольк.</u> чахотка
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чахотка</text></cit>
 </sense>
 </entry>
 </superEntry>

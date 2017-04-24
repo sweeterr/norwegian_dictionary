@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-принцип, основное правило
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принцип, основное правило</text></cit>
 </sense>
 <sense>
-<u>филос.</u> <u>мат.</u> аксиома
+<usg>филос.</usg>
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аксиома</text></cit>
 </sense>
 </entry>
 </superEntry>

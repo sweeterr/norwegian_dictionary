@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">termokjemi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-термохимия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>термохимия</text></cit>
 </sense>
 </entry>
 </superEntry>

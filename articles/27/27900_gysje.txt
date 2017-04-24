@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gysje</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>диал.</u> выдумка, небылица
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдумка, небылица</text></cit>
 </sense>
 </entry>
 </superEntry>

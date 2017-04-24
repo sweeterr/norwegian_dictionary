@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">penneprøve</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-проба пера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проба пера</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">ufri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-несвободный, зависимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несвободный, зависимый</text></cit>
 </sense>
 <sense>
-подневольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подневольный</text></cit>
 </sense>
 <sense>
-стеснённый, скованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стеснённый, скованный</text></cit>
 </sense>
 </entry>
 </superEntry>

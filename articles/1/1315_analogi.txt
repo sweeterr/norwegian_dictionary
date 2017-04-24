@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-аналогия, соответствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аналогия, соответствие</text></cit>
 <сit type="example"><text>i analogi med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в соответствии с</text></cit></cit>
 </sense>
 <sense>
-<u>лингв.</u> образование по аналогии
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образование по аналогии</text></cit>
 </sense>
 </entry>
 </superEntry>

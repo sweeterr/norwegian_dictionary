@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utor</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-<u>диал.</u> из
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>из</text></cit>
 </sense>
 </entry>
 </superEntry>

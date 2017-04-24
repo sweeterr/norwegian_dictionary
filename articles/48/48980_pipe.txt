@@ -7,27 +7,28 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-труба, трубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труба, трубка</text></cit>
 </sense>
 <sense>
-свисток, сирена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свисток, сирена</text></cit>
 </sense>
 <sense>
-дудка, свирель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дудка, свирель</text></cit>
 <сit type="example"><text>danse etter ens pipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>танцевать под чью-л. дудку</text></cit></cit>
 <сit type = "example"><text>nå får pipa en annen lyd :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> теперь запели по-иному</text></cit></cit>
 <сit type = "example"><text>nå får pipa en annen lyd :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> дело приняло другой оборот</text></cit></cit>
 <сit type="example"><text>stikke pipa i sekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбавить тон</text></cit></cit>
 </sense>
 <sense>
-курительная трубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курительная трубка</text></cit>
 <сit type="example"><text>banke ut pipen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выколачивать трубку</text></cit></cit>
 <сit type="example"><text>få seg en pipe tobakk, tenne en pipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закурить трубку</text></cit></cit>
 <сit type="example"><text>stoppe pipen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>набивать трубку</text></cit></cit>
 <сit type="example"><text>ikke en pipe tobakk verd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> грош этому цена</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> ствол (винтовки, револьвера)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ствол (винтовки, револьвера)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,25 +38,26 @@
 <inflection><orth>pe(i)p, pepet</orth></inflection>
 </form>
 <sense>
-свистеть, (подавать свисток (сигнал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свистеть, (подавать свисток (сигнал)</text></cit>
 </sense>
 <sense>
-петь (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь (о птицах)</text></cit>
 </sense>
 <sense>
-выть, завывать (о ветре, буре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выть, завывать (о ветре, буре)</text></cit>
 </sense>
 <sense>
-пищать (о мышах и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пищать (о мышах и т. п.)</text></cit>
 </sense>
 <sense>
-скрипеть (о дверях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрипеть (о дверях)</text></cit>
 </sense>
 <sense>
-освистывать (тж. pipe én ut)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освистывать (тж. pipe én ut)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> вызывать свистком
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать свистком</text></cit>
 </sense>
 </entry>
 </superEntry>

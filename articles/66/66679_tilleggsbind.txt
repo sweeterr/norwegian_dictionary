@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tilleggsbind</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-дополнительный том (словаря, собрания сочинений и т.п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительный том (словаря, собрания сочинений и т.п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

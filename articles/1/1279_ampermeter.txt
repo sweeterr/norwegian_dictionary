@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ampermeter</orth>
 <inflection><orth extent="part">-eren, -(e)re, =</orth></inflection>
-<u>физ.</u> амперметр
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амперметр</text></cit>
 </sense>
 </entry>
 </superEntry>

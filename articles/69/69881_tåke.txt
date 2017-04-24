@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-туман, дымка, мгла
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туман, дымка, мгла</text></cit>
 <сit type="example"><text>gråhvit tåke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>седой туман</text></cit></cit>
 <сit type="example"><text>kunstig tåke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дымовая завеса</text></cit></cit>
 <сit type="example"><text>sterk (tett, tykk) tåke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>густой туман</text></cit></cit>
 <сit type="example"><text>tynn tåke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий туман</text></cit></cit>
 </sense>
 <sense>
-туманные (смутные) воспоминания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туманные (смутные) воспоминания</text></cit>
 </sense>
 <sense>
-бред
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бред</text></cit>
 <сit type="example"><text>bort(e) (hen) i tåke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в бреду</text></cit></cit>
 </sense>
 <sense>
-<u>астр.</u> туманность
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туманность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,13 +32,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-окутывать (покрывать) туманом, затуманивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окутывать (покрывать) туманом, затуманивать</text></cit>
 </sense>
 <sense>
-исчезать в тумане
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исчезать в тумане</text></cit>
 </sense>
 <sense>
-покрываться туманом, затуманиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться туманом, затуманиваться</text></cit>
 </sense>
 </entry>
 </superEntry>

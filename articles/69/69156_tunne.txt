@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tunne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> кружить, вертеть, вращать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кружить, вертеть, вращать</text></cit>
 </sense>
 </entry>
 </superEntry>

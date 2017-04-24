@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">analog</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-аналогичный, соответствующий, сходный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аналогичный, соответствующий, сходный</text></cit>
 </sense>
 </entry>
 </superEntry>

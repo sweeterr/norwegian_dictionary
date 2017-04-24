@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mjød</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-мёд (напиток)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёд (напиток)</text></cit>
 <сit type="example"><text>brygge mjød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>варить мёд</text></cit></cit>
 </sense>
 </entry>

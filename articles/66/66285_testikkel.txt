@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">testikkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-<u>анат.</u> яичко
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яичко</text></cit>
 </sense>
 </entry>
 </superEntry>

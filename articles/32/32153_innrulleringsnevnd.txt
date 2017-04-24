@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innrulleringsnevnd</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> приписная (призывная) комиссия
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приписная (призывная) комиссия</text></cit>
 </sense>
 </entry>
 </superEntry>

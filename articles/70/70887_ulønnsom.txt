@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ulønnsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-нерентабельный, невыгодный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерентабельный, невыгодный</text></cit>
 </sense>
 <sense>
-не оправдывающий себя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не оправдывающий себя</text></cit>
 </sense>
 </entry>
 </superEntry>

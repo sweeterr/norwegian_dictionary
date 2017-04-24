@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-дубинка, толстая палка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дубинка, толстая палка</text></cit>
 </sense>
 <sense>
-крепыш, толстяк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепыш, толстяк</text></cit>
 </sense>
 <sense>
-<u>собир.</u> булыжник, крупный щебень
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>булыжник, крупный щебень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">kult</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>рел.</u> культ, вероисповедание
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культ, вероисповедание</text></cit>
 </sense>
 </entry>
 </superEntry>

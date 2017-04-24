@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">kadreier</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-торговец с лодки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговец с лодки</text></cit>
 </sense>
 <sense>
-судно-лавка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно-лавка</text></cit>
 </sense>
 <sense>
-судовой поставщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судовой поставщик</text></cit>
 </sense>
 </entry>
 </superEntry>

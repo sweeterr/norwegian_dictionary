@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">Sovjet-Samveldet</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>ист.</u> Советский Союз
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Советский Союз</text></cit>
 </sense>
 </entry>
 </superEntry>

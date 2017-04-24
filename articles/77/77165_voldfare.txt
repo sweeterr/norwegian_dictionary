@@ -4,8 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">voldfare</orth>
-<u>-for, -fart</u>
-подавлять (подчинять) силой
+<inflection><orth extent="part">-for, -fart</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавлять (подчинять) силой</text></cit>
 </sense>
 </entry>
 </superEntry>

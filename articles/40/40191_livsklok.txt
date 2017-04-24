@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">livsklok</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-умудрённый жизнью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умудрённый жизнью</text></cit>
 </sense>
 </entry>
 </superEntry>

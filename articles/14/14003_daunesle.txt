@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">daunesle</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>бот.</u> глухая крапива
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухая крапива</text></cit>
 </sense>
 </entry>
 </superEntry>

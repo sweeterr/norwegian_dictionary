@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">samnorsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-общенорвежский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общенорвежский</text></cit>
 </sense>
 </entry>
 </superEntry>

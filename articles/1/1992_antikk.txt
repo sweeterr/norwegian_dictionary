@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-античная эпоха, античная культура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>античная эпоха, античная культура</text></cit>
 </sense>
 <sense>
-предмет, сохранившийся (вещь, сохранившаяся) со времён античной культуры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предмет, сохранившийся (вещь, сохранившаяся) со времён античной культуры</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,14 +18,13 @@
 <form>
 <orth type="lemma">antikk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-античный древний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>античный древний</text></cit>
 </sense>
 <sense>
-классический, старинный (о стиле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>классический, старинный (о стиле)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-прямоугольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямоугольный</text></cit>
 </sense>
 <sense>
-угловой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угловой</text></cit>
 </sense>
 <sense>
-<u>мат.</u> вертикальный
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикальный</text></cit>
 </sense>
 </entry>
 </superEntry>

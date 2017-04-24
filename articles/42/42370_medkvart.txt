@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">medkvart</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-постепенно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постепенно</text></cit>
 </sense>
 <sense>
-иногда, временами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иногда, временами</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,17 +7,20 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-галантный, обходительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галантный, обходительный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> замечательный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замечательный</text></cit>
 <сit type="example"><text>det gikk galant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё шло замечательно</text></cit></cit>
 </sense>
 <sense>
-<u>шутл.</u> легкомысленный, фривольный (о женщине)
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленный, фривольный (о женщине)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> непринуждённый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непринуждённый</text></cit>
 </sense>
 </entry>
 </superEntry>

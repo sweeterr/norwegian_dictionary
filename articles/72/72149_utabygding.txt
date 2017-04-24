@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utabygding</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> уроженец другой местности, пришелец
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уроженец другой местности, пришелец</text></cit>
 </sense>
 </entry>
 </superEntry>

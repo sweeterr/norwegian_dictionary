@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">feltvikling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>эл.</u> обмотка возбуждения
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмотка возбуждения</text></cit>
 </sense>
 </entry>
 </superEntry>

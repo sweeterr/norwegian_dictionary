@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">benediktinermunk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>рел.</u> бенедиктинец (монах ордена св. Бенедикта, основанного в 529 г.)
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бенедиктинец (монах ордена св. Бенедикта, основанного в 529 г.)</text></cit>
 </sense>
 </entry>
 </superEntry>

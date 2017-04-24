@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kastanjebrun</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-каштановый, каштанового цвета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каштановый, каштанового цвета</text></cit>
 </sense>
 </entry>
 </superEntry>

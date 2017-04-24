@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">glatte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-ровное скользкое место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровное скользкое место</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расправлять, разглаживать (складки, морщины, сборки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расправлять, разглаживать (складки, морщины, сборки)</text></cit>
 </sense>
 <sense>
-гладить (утюгом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гладить (утюгом)</text></cit>
 <сit type="example"><text>glatte ut, glatte utover</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уладить (конфликт, ссору)</text></cit></cit>
 </sense>
 </entry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">stem</orth>
 <inflection><orth extent="part">-men (-met), -mer</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плотина, запруда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плотина, запруда</text></cit>
 </sense>
 <sense>
-пруд перед запрудой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пруд перед запрудой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bikkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-<u>диал.</u> вертикальный болт дверной петли
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикальный болт дверной петли</text></cit>
 </sense>
 </entry>
 </superEntry>

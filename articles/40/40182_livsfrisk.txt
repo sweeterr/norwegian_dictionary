@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">livsfrisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-жизнерадостный, жизнеутверждающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизнерадостный, жизнеутверждающий</text></cit>
 </sense>
 </entry>
 </superEntry>

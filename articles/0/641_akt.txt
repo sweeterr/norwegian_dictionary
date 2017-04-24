@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-поступок, действие, акт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поступок, действие, акт</text></cit>
 </sense>
 <sense>
-церемония, обряд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церемония, обряд</text></cit>
 </sense>
 <sense>
-театр, действие, акт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>театр, действие, акт</text></cit>
 </sense>
 <sense>
-<u>жив.</u> нагая натурщица, нагой натурщик
+<usg>жив.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагая натурщица, нагой натурщик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,14 +25,14 @@
 <form>
 <orth type="lemma">akt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-государственный акт, документ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>государственный акт, документ</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-дела, деловые бумаги, документы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дела, деловые бумаги, документы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,21 +42,21 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-внимание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внимание</text></cit>
 <сit type="example"><text>gi akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращать внимание (на что-л. - på)</text></cit></cit>
 <сit type = "example"><text>gi akt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> внимание!, берегись!, осторожно!</text></cit></cit>
-<сit type = "example"><text>gi akt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> смирно!</text></cit></cit>
+<сit type = "example"><text>gi akt :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> смирно!</text></cit></cit>
 <сit type="example"><text>ta i akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать во внимание, учитывать</text></cit></cit>
 <сit type="example"><text>ta seg i akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть настороже, быть начеку</text></cit></cit>
 </sense>
 <sense>
-почёт, уважение, почтение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почёт, уважение, почтение</text></cit>
 <сit type="example"><text>holde i akt og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почитать (кого-л.), оказывать (кому-л.) почёт и уважение</text></cit></cit>
 <сit type="example"><text>stå i akt og berømmelse hos alle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться всеобщим уважением</text></cit></cit>
 <сit type="example"><text>vise en akt og ære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>относиться почтительно (к кому-л.)</text></cit></cit>
 </sense>
 <sense>
-намерение, цель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>намерение, цель</text></cit>
 <сit type="example"><text>det er ikke min akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я не намерен, это не входит в мой намерения</text></cit></cit>
 </sense>
 </entry>
@@ -64,7 +65,8 @@
 <form>
 <orth type="lemma">akt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> опала
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опала</text></cit>
 <сit type="example"><text>erklære (sette) i rikets akt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять вне закона</text></cit></cit>
 </sense>
 </entry>

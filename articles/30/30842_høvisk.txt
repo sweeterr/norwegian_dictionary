@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">høvisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-вежливый, воспитанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вежливый, воспитанный</text></cit>
 </sense>
 <sense>
-учтивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учтивый</text></cit>
 </sense>
 <sense>
-почтенный, порядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтенный, порядочный</text></cit>
 </sense>
 <sense>
-пышный, великолепный (об одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пышный, великолепный (об одежде)</text></cit>
 </sense>
 <sense>
-придворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придворный</text></cit>
 </sense>
 </entry>
 </superEntry>

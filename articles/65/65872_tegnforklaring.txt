@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tegnforklaring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-объяснение условных знаков (на карте и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объяснение условных знаков (на карте и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,16 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">olympiade</orth>
-<inflection><orth extent="part">-n</orth></inflection>
-, 
-<inflection><orth extent="part">-n</orth></inflection>
-<u>спорт.</u>
+<inflection><orth extent="part">-n, -n</orth></inflection>
+<usg>спорт.</usg>
 </form>
 <sense>
-олимпиада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>олимпиада</text></cit>
 </sense>
 <sense>
-олимпийские игры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>олимпийские игры</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">målmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>спорт.</u> вратарь
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вратарь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">målmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>разг.</u> сторонник лансмола
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сторонник лансмола</text></cit>
 </sense>
 </entry>
 </superEntry>

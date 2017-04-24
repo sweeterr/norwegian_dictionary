@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">talerstol</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-трибуна, кафедра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трибуна, кафедра</text></cit>
 <сit type="example"><text>bestige talerstolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подняться на трибуну</text></cit></cit>
 </sense>
 </entry>

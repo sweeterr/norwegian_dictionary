@@ -7,12 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> замедлять ход
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замедлять ход</text></cit>
 <сit type="example"><text>sakke akterut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отставать <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>sakke på farten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбавлять скорость (ход)</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> идти задним ходом
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти задним ходом</text></cit>
 <сit type="example"><text>sakke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отставать</text></cit></cit>
 </sense>
 </entry>

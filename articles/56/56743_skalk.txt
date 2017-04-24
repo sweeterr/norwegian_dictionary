@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-горбушка (хлеба)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горбушка (хлеба)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> котелок (шляпа)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>котелок (шляпа)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> хитрец, пройдоха, плут
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрец, пройдоха, плут</text></cit>
 </sense>
 <sense>
-<u>уст.</u> мошенник, жулик
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мошенник, жулик</text></cit>
 </sense>
 </entry>
 </superEntry>

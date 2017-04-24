@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-t (-n), -r</orth></inflection>
 </form>
 <sense>
-свидание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свидание</text></cit>
 <сit type="example"><text>sette én stevne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>назначать кому-л. свидание</text></cit></cit>
 </sense>
 <sense>
-собрание, сходка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собрание, сходка</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> соревнование, состязание
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соревнование, состязание</text></cit>
 <сit type="example"><text>internasjonalt stevne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>международные соревнования</text></cit></cit>
 <сit type="example"><text>lokalt stevne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>местные соревнования</text></cit></cit>
 <сit type="example"><text>sportslige stevner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спортивные соревнования (состязания)</text></cit></cit>
@@ -27,17 +28,18 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-вызывать (в суд), приглашать (на собрание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать (в суд), приглашать (на собрание)</text></cit>
 </sense>
 <sense>
-назначать (свидание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назначать (свидание)</text></cit>
 <сit type="example"><text>stevne møte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>договориться о встрече</text></cit></cit>
 </sense>
 <sense>
-устремляться, стремиться (куда-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устремляться, стремиться (куда-л.)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> держать курс, ложиться на курс, направляться (к чему-л.- mot)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс, ложиться на курс, направляться (к чему-л.- mot)</text></cit>
 </sense>
 </entry>
 </superEntry>

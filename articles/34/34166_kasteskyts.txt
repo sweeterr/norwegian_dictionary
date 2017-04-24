@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kasteskyts</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> орудие с навесной траекторией (мортира, гаубица)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орудие с навесной траекторией (мортира, гаубица)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-комплекс, совокупность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплекс, совокупность</text></cit>
 </sense>
 <sense>
-комплект, полный набор (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплект, полный набор (чего-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">kompleks</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-комплексный; сложный, составной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплексный; сложный, составной</text></cit>
 </sense>
 </entry>
 </superEntry>

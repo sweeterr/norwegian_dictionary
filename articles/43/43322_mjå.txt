@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">mjå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тонкий, худенький
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, худенький</text></cit>
 </sense>
 <sense>
-слабый, обессилевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, обессилевший</text></cit>
 </sense>
 </entry>
 </superEntry>

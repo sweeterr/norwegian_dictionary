@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brannfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> пожарные
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожарные</text></cit>
 </sense>
 </entry>
 </superEntry>

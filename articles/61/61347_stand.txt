@@ -7,7 +7,7 @@
 <inflection><orth>standen, stender</orth></inflection>
 </form>
 <sense>
-положение, состояние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>положение, состояние</text></cit>
 <сit type="example"><text>bringe (få) i stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>организовать, устроить</text></cit></cit>
 <сit type="example"><text>holde stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться, выдерживать (напор, критику, натиск)</text></cit></cit>
 <сit type="example"><text>komme i stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в состояние</text></cit></cit>
@@ -15,22 +15,23 @@
 <сit type = "example"><text>være i stand til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> работать (о механизме)</text></cit></cit>
 </sense>
 <sense>
-порядок, обычай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядок, обычай</text></cit>
 <сit type="example"><text>gjøre (sette) i stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>починить, отремонтировать, залатать</text></cit></cit>
 </sense>
 <sense>
-общественное положение, ранг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общественное положение, ранг</text></cit>
 <сit type="example"><text>av høy stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занимающий высокое положение в обществе</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> сословие
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сословие</text></cit>
 <сit type="example"><text>de høyere stender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высшие круги общества</text></cit></cit>
 </sense>
 <sense>
-уровень (води, барометра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уровень (води, барометра)</text></cit>
 </sense>
 <sense>
-стойка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стойка</text></cit>
 <сit type="example"><text>få (ha) stand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать стойку (о собаке)</text></cit></cit>
 </sense>
 </entry>
@@ -41,10 +42,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стойка, прилавок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стойка, прилавок</text></cit>
 </sense>
 <sense>
-стенд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стенд</text></cit>
 </sense>
 </entry>
 </superEntry>

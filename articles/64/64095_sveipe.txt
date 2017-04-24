@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sveipe</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
- <u>диал.</u> пеленать, закутывать, окутывать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеленать, закутывать, окутывать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">sveipe</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-<u>диал.</u> хлестать, бить плетью
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлестать, бить плетью</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">sveipe</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-<u>мор.</u> тралить, вытраливать, протраливать
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тралить, вытраливать, протраливать</text></cit>
 </sense>
 </entry>
 </superEntry>

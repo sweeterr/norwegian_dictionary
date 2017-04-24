@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">val</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-мелководная бухта (с берегами, заливаемыми во время прилива)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелководная бухта (с берегами, заливаемыми во время прилива)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">val</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-поле брани
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле брани</text></cit>
 </sense>
 <sense>
-павшие воины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>павшие воины</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,8 @@
 <form>
 <orth type="lemma">val</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> см. valg I
+<usg>диал.</usg>
+<ref>valg I</ref>
 </sense>
 </entry>
 </superEntry>

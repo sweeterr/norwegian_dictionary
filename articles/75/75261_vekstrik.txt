@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">vekstrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-богатый (о растительности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый (о растительности)</text></cit>
 </sense>
 <sense>
-богатый растительностью (о местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый растительностью (о местности)</text></cit>
 </sense>
 </entry>
 </superEntry>

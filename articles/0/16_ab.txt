@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ab</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на место, откуда что-л. прибыло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на место, откуда что-л. прибыло</text></cit>
 <сit type="example"><text>ab Oslo</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из Осло</text></cit></cit>
 <сit type="example"><text>ab fabrikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с предприятия</text></cit></cit>
 <сit type="example"><text>ab lager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со склада, самовывозом со склада</text></cit></cit>

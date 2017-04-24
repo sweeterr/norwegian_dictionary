@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">plantesamling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-гербарий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гербарий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">billedkort</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>карт.</u> фигура (король, дама, валет)
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фигура (король, дама, валет)</text></cit>
 </sense>
 </entry>
 </superEntry>

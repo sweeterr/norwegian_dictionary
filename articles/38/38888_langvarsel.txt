@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">langvarsel</orth>
 <inflection><orth extent="part">-elet (-let), -ler (=)</orth></inflection>
-<u>метеор.</u> долгосрочный прогноз погоды
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долгосрочный прогноз погоды</text></cit>
 </sense>
 </entry>
 </superEntry>

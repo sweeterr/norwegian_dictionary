@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-возвышение, повышение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвышение, повышение</text></cit>
 </sense>
 <sense>
-<u>церк.</u> воздвижение
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздвижение</text></cit>
 </sense>
 <sense>
-<u>мат.</u> возведение в степень
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возведение в степень</text></cit>
 </sense>
 </entry>
 </superEntry>

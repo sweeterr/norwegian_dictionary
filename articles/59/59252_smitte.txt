@@ -7,31 +7,29 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-зараза, инфекция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зараза, инфекция</text></cit>
 <сit type="example"><text>overføre smitte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заражать, переносить заразу</text></cit></cit>
 <сit type="example"><text>utsette seg for smitte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться опасности заражения</text></cit></cit>
 </sense>
 <sense>
-микроб, бактерия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>микроб, бактерия</text></cit>
 </sense>
 <sense>
-влияние, воздействие (особенно отрицательное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>влияние, воздействие (особенно отрицательное)</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">smitte</orth>
-<inflection><orth extent="part">-et</orth></inflection>
-,
-<inflection><orth extent="part">-et</orth></inflection>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-заражать, переносить инфекцию
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заражать, переносить инфекцию</text></cit>
 <сit type="example"><text>bli smittet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заразиться</text></cit></cit>
 </sense>
 <sense>
-влиять, воздействовать (особенно отрицательно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>влиять, воздействовать (особенно отрицательно)</text></cit>
 <сit type="example"><text>smitte av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять пятна краски, краситься</text></cit></cit>
 </sense>
 </entry>

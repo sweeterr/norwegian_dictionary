@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">grusom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-жестокий, свирепый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жестокий, свирепый</text></cit>
 </sense>
 <sense>
-жуткий, ужасный, страшный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жуткий, ужасный, страшный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> отвратительный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвратительный</text></cit>
 </sense>
 </entry>
 </superEntry>

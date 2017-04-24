@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">konsert</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-концерт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>концерт</text></cit>
 <сit type="example"><text>gi konsert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать концерт</text></cit></cit>
 <сit type="example"><text>gå på konsert</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посещать концерты</text></cit></cit>
 </sense>

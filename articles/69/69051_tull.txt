@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-круг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг</text></cit>
 </sense>
 <sense>
-путаница, неразбериха, беспорядок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путаница, неразбериха, беспорядок</text></cit>
 <сit type = "example"><text>gå i tull :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> кружиться, вертеться</text></cit></cit>
 <сit type = "example"><text>gå i tull :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> ходить по кругу</text></cit></cit>
 <сit type = "example"><text>gå i tull :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прийти в беспорядок</text></cit></cit>
@@ -18,13 +18,15 @@
 <сit type="example"><text>tull i tull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>клубком</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> бестолочь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бестолочь</text></cit>
 </sense>
 <sense>
-пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустая болтовня</text></cit>
 </sense>
 <sense>
-<u>разг.</u> толстый ребёнок
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый ребёнок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,13 +36,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-моток, клубок шерсти, скатавшаяся шерсть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моток, клубок шерсти, скатавшаяся шерсть</text></cit>
 </sense>
 <sense>
-узел, связка, свёрток, пожитки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узел, связка, свёрток, пожитки</text></cit>
 </sense>
 <sense>
-клуб (дыма, тумана)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клуб (дыма, тумана)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -48,7 +50,7 @@
 <form>
 <orth type="lemma">tull</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-глупая затея (выдумка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупая затея (выдумка)</text></cit>
 </sense>
 </entry>
 </superEntry>

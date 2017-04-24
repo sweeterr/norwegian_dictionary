@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hue</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-колпак, шапочка, кепка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колпак, шапочка, кепка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">hue</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u> см. hode
+<usg>диал.</usg>
+<ref>hode</ref>
 </sense>
 </entry>
 </superEntry>

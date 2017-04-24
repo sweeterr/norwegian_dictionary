@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-вода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вода</text></cit>
 <сit type="example"><text>bløtt (fersk, hårdt, syret, tungt) vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкая (пресная, жёсткая, подкисленная, тяжёлая) вода</text></cit></cit>
 <сit type="example"><text>holde vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не пропускать воду (об обуви и т. п.)</text></cit></cit>
 <сit type="example"><text>legge inn vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провести (в дом) водопровод</text></cit></cit>
@@ -21,9 +21,9 @@
 <сit type="example"><text>skrive i vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> вилами на воде писано</text></cit></cit>
 </sense>
 <sense>
-водная поверхность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водная поверхность</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-воды (моря, реки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воды (моря, реки)</text></cit>
 <сit type="example"><text>fallende vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отлив</text></cit></cit>
 <сit type="example"><text>høyt vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>паводок, половодье, большая вода</text></cit></cit>
 <сit type="example"><text>stigende vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прилив</text></cit></cit>
@@ -31,19 +31,19 @@
 <сit type = "example"><text>på vannet, til vanns :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> водой, по воде</text></cit></cit>
 <сit type = "example"><text>på vannet, til vanns :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> морем, морским путём</text></cit></cit>
 <сit type="example"><text>til lands og (til) vanns</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и на суше и на море</text></cit></cit>
-<сit type = "example"><text>gå i vann :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>шутл.</u> купаться в море</text></cit></cit>
+<сit type = "example"><text>gå i vann :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>шутл.</lbl> купаться в море</text></cit></cit>
 <сit type = "example"><text>gå i vann :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> попасть впросак</text></cit></cit>
 <сit type="example"><text>sette på vannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать на воду (лодку, судно)</text></cit></cit>
 <сit type="example"><text>ta vannet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать посадку на воду (о гидросамолёте)</text></cit></cit>
 <сit type="example"><text>det stille vann har den dype grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в тихом омуте черти водятся ( <lbl>букв.</lbl> тихие воды глубоки)</text></cit></cit>
 </sense>
 <sense>
-озеро, большой пруд, водоём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озеро, большой пруд, водоём</text></cit>
 </sense>
 <sense>
-серозная жидкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серозная жидкость</text></cit>
 <сit type = "example"><text>vann i hodet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> водянка мозга</text></cit></cit>
-<сit type = "example"><text>vann i hodet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> глупость, тупость</text></cit></cit>
+<сit type = "example"><text>vann i hodet :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> глупость, тупость</text></cit></cit>
 <сit type="example"><text>vann i kneet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отёк колена</text></cit></cit>
 <сit type="example"><text>vann i lungene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мокрота (в лёгких), эксудат</text></cit></cit>
 <сit type="example"><text>av re(i)neste vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистейшей воды (о бриллиантах; тж. <lbl>перен.</lbl> )</text></cit></cit>

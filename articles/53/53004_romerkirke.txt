@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">romerkirke</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-католическая церковь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>католическая церковь</text></cit>
 </sense>
 </entry>
 </superEntry>

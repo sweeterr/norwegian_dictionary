@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brakebær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> можжевёловая ягода
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>можжевёловая ягода</text></cit>
 </sense>
 </entry>
 </superEntry>

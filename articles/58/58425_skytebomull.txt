@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skytebomull</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> пироксилин
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пироксилин</text></cit>
 </sense>
 </entry>
 </superEntry>

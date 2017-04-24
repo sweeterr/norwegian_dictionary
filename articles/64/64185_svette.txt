@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-пот, испарина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пот, испарина</text></cit>
 </sense>
 <sense>
-<u>уст.</u> кровь убитого животного
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровь убитого животного</text></cit>
 <ref>sved</ref>
 </sense>
 </entry>
@@ -21,10 +22,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-потеть, покрываться испариной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потеть, покрываться испариной</text></cit>
 </sense>
 <sense>
-покрываться капельками росы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться капельками росы</text></cit>
 <сit type="example"><text>svette ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выделяться каплями</text></cit></cit>
 </sense>
 </entry>

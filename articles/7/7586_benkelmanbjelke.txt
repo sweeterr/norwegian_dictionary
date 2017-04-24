@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">benkelmanbjelke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>стр.</u> балка Бенкельмана
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балка Бенкельмана</text></cit>
 </sense>
 </entry>
 </superEntry>

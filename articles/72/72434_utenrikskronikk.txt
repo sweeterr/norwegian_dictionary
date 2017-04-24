@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utenrikskronikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-иностранная хроника (раздел в газете, в радиопередачах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иностранная хроника (раздел в газете, в радиопередачах)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">endokrin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мед.</u> эндокринный
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эндокринный</text></cit>
 </sense>
 </entry>
 </superEntry>

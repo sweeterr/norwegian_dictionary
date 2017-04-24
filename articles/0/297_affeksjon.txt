@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-преданность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преданность</text></cit>
 </sense>
 <sense>
-<u>психол.</u> воздействие (вызывающее изменение состояния)
+<usg>психол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздействие (вызывающее изменение состояния)</text></cit>
 </sense>
 <sense>
-<u>мед.</u> поражение, заболевание (какого-л. органа)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поражение, заболевание (какого-л. органа)</text></cit>
 </sense>
 </entry>
 </superEntry>

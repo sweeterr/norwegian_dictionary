@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">forsulten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-изголодавшийся, проголодавшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изголодавшийся, проголодавшийся</text></cit>
 <сit type="example"><text>forsulten på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жадный (о взгляде)</text></cit></cit>
 </sense>
 </entry>

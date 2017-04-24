@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">soria-moria-slott</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>фольк.</u> красивый сказочный замок
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красивый сказочный замок</text></cit>
 </sense>
 </entry>
 </superEntry>

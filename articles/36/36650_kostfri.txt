@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kostfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-бесплатный, даровой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплатный, даровой</text></cit>
 </sense>
 </entry>
 </superEntry>

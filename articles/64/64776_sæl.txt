@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">sæl</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-счастливый, благополучный, удачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счастливый, благополучный, удачный</text></cit>
 <сit type="example"><text>heil og sæl!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добро пожаловать!</text></cit></cit>
 <сit type="example"><text>like sæl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>безразличный</text></cit></cit>
 </sense>
 <sense>
-довольный, радостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>довольный, радостный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> блаженный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блаженный</text></cit>
 </sense>
 </entry>
 </superEntry>

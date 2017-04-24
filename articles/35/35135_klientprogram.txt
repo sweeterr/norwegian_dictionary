@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">klientprogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>комп.</u>
+<usg>комп.</usg>
 </form>
 <sense>
-клиент (заказчик, пользователь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент (заказчик, пользователь)</text></cit>
 </sense>
 <sense>
-клиент - приложение, использующее объекты другого приложения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - приложение, использующее объекты другого приложения</text></cit>
 </sense>
 <sense>
-клиент - в OLE - приложение, которое может отображать и хранить связанные или внедренные объекты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - в OLE - приложение, которое может отображать и хранить связанные или внедренные объекты</text></cit>
 </sense>
 <sense>
-клиент - (приложение или машина в сети, использующая ресурсы (сервисы) другой машины или инициирующая запрос к приложению-серверу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - (приложение или машина в сети, использующая ресурсы (сервисы) другой машины или инициирующая запрос к приложению-серверу)</text></cit>
 </sense>
 <sense>
-клиент - класс, использующий feature другого класса-сервера, на основе спецификации его интерфейса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент - класс, использующий feature другого класса-сервера, на основе спецификации его интерфейса</text></cit>
 </sense>
 </entry>
 </superEntry>

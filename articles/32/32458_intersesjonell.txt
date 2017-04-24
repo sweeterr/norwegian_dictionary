@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">intersesjonell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-межсессионный (о заседаниях комитетов парламента)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>межсессионный (о заседаниях комитетов парламента)</text></cit>
 </sense>
 </entry>
 </superEntry>

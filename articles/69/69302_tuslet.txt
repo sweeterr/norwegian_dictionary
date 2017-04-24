@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tuslet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-немощный, слабый, ослабевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немощный, слабый, ослабевший</text></cit>
 </sense>
 <sense>
-тщедушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тщедушный</text></cit>
 </sense>
 </entry>
 </superEntry>

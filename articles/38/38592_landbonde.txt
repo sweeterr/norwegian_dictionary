@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-bonden, -bønder</orth></inflection>
 </form>
 <sense>
-крестьянин (не занимающийся рыболовством)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянин (не занимающийся рыболовством)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> арендатор
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арендатор</text></cit>
 </sense>
 </entry>
 </superEntry>

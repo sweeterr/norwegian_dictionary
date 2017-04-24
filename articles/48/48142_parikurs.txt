@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">parikurs</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фин.</u> номинальный курс
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>номинальный курс</text></cit>
 </sense>
 </entry>
 </superEntry>

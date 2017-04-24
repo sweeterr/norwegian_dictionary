@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ise</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> морская свинья
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская свинья</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,15 +16,15 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-замерзать, покрываться льдом (тж. ise ned)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замерзать, покрываться льдом (тж. ise ned)</text></cit>
 <сit type="example"><text>det iser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подмораживает</text></cit></cit>
 </sense>
 <sense>
-мёрзнуть, стынуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёрзнуть, стынуть</text></cit>
 <сit type="example"><text>det iser i tennene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зубы немеют (стынут)</text></cit></cit>
 </sense>
 <sense>
-замораживать (съестные припасы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замораживать (съестные припасы)</text></cit>
 </sense>
 </entry>
 </superEntry>

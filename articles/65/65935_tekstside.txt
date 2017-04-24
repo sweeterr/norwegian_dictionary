@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tekstside</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-страница текста
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страница текста</text></cit>
 </sense>
 </entry>
 </superEntry>

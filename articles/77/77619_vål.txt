@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vål</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-куча хвороста (веток), валежник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча хвороста (веток), валежник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">vål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> крик, вой, вопль
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, вой, вопль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">avstandssignal</orth>
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отдалённые сигналы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдалённые сигналы</text></cit>
 </sense>
 <sense>
-сигнальные фигуры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальные фигуры</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>бот.</u> сердцевина (дерева)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердцевина (дерева)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> суть, ядро, смысл, сущность чего-л.
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суть, ядро, смысл, сущность чего-л.</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +20,8 @@
 <form>
 <orth type="lemma">al</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> песчаник с прожилками
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песчаник с прожилками</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +29,7 @@
 <form>
 <orth type="lemma">al</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-примитивный плуг, соха с металлическим наконечником (зубом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивный плуг, соха с металлическим наконечником (зубом)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,13 +37,13 @@
 <form>
 <orth type="lemma">al</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-культивирование (растений)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культивирование (растений)</text></cit>
 </sense>
 <sense>
-разведение (скота)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведение (скота)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">major</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-майор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>майор</text></cit>
 </sense>
 </entry>
 </superEntry>

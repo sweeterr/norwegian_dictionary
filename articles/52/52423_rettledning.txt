@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-руководство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руководство</text></cit>
 </sense>
 <sense>
-<u>перен.</u> путеводная звезда
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путеводная звезда</text></cit>
 <сit type="example"><text>tjene til rettledning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть путеводной звездой</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tatar</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-татарин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>татарин</text></cit>
 </sense>
 </entry>
 </superEntry>

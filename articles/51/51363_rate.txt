@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>эк.</u> (очередной) взнос (при уплате в рассрочку)
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(очередной) взнос (при уплате в рассрочку)</text></cit>
 <сit type="example"><text>på rate</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в рассрочку, в кредит</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> фрахтовая ставка, фрахт
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фрахтовая ставка, фрахт</text></cit>
 </sense>
 </entry>
 </superEntry>

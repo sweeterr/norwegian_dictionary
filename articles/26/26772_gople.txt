@@ -6,7 +6,8 @@
 <orth type="lemma">gople</orth>
 <phon>|'goplə|</phon>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> колокольчик
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колокольчик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">gople</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> медуза
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медуза</text></cit>
 </sense>
 </entry>
 </superEntry>

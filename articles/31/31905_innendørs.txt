@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">innendørs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-домашний, комнатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домашний, комнатный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">innendørs</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-в доме, в закрытом помещении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в доме, в закрытом помещении</text></cit>
 </sense>
 </entry>
 </superEntry>

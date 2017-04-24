@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">realleksikon</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-тематический толковый словарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тематический толковый словарь</text></cit>
 </sense>
 </entry>
 </superEntry>

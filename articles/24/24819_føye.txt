@@ -15,7 +15,8 @@
 <form>
 <orth type="lemma">føye</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> малюсенький, крошечный, незначительный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малюсенький, крошечный, незначительный</text></cit>
 <сit type="example"><text>om føye tid (stund)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через мгновение, скоро</text></cit></cit>
 </sense>
 </entry>
@@ -26,10 +27,10 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-прилаживать, приспосабливать, пригонять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилаживать, приспосабливать, пригонять</text></cit>
 </sense>
 <sense>
-владеть (словом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владеть (словом)</text></cit>
 <сit type="example"><text>føye inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вкладывать</text></cit></cit>
 <сit type="example"><text>føye sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>складывать, соединять</text></cit></cit>
 <сit type="example"><text>føye til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добавлять</text></cit></cit>

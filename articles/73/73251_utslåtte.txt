@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utslåtte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> отдельно лежащий луг
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдельно лежащий луг</text></cit>
 </sense>
 </entry>
 </superEntry>

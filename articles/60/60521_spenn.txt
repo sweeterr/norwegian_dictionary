@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-натяжение, сила натяжения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натяжение, сила натяжения</text></cit>
 </sense>
 <sense>
-давление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давление</text></cit>
 </sense>
 <sense>
-пролёт, арка (моста)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пролёт, арка (моста)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">spenn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-удар ногой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар ногой</text></cit>
 </sense>
 </entry>
 </superEntry>

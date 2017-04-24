@@ -7,21 +7,21 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-треск, хруст
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треск, хруст</text></cit>
 </sense>
 <sense>
-трещина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина</text></cit>
 </sense>
 <sense>
-колено (трубы), изгиб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено (трубы), изгиб</text></cit>
 </sense>
 <sense>
-склон, скат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склон, скат</text></cit>
 <сit type = "example"><text>ha knekken i ryggen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> принять подобострастную позу</text></cit></cit>
-<сit type = "example"><text>ha knekken i ryggen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> гнуть спину, подхалимничать перед кем-л., угождать кому-л.</text></cit></cit>
+<сit type = "example"><text>ha knekken i ryggen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> гнуть спину, подхалимничать перед кем-л., угождать кому-л.</text></cit></cit>
 </sense>
 <sense>
-удар (увечье, потрясение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар (увечье, потрясение)</text></cit>
 <сit type="example"><text>ta knekken på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расправиться, разделаться (с кем, чем-л.)</text></cit></cit>
 <сit type="example"><text>ta knekk av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пострадать от чего-л.</text></cit></cit>
 </sense>
@@ -31,7 +31,7 @@
 <form>
 <orth type="lemma">knekk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-тянучка (конфета)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тянучка (конфета)</text></cit>
 </sense>
 </entry>
 </superEntry>

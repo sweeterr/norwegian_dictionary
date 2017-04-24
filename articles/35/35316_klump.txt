@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-ком, комок, сгусток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ком, комок, сгусток</text></cit>
 <сit type="example"><text>få (kjenne) en klump i halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ощутить комок в горле</text></cit></cit>
 </sense>
 <sense>
-толпа, группа, куча
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпа, группа, куча</text></cit>
 </sense>
 <sense>
-<u>разг.</u> увалень (о человеке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увалень (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

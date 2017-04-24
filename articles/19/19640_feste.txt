@@ -7,29 +7,18 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-опора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опора</text></cit>
 </sense>
 <sense>
-эфес, ручка (холодного оружия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эфес, ручка (холодного оружия)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> крепость
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепость</text></cit>
 </sense>
 <sense>
-<u>мор.</u> швартов, причальный конец
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">feste</orth>
-<inflection><orth extent="part">-et, -et</orth></inflection>
-</form>
-<sense>
-праздновать, справлять праздник
-</sense>
-<sense>
-кутить, пировать
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швартов, причальный конец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,19 +28,33 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-прикреплять, прибивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>праздновать, справлять праздник</text></cit>
 </sense>
 <sense>
-закреплять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутить, пировать</text></cit>
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">feste</orth>
+<inflection><orth extent="part">-et, -et</orth></inflection>
+</form>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикреплять, прибивать</text></cit>
 </sense>
 <sense>
-приковывать, привлекать (взгляд, внимание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закреплять</text></cit>
 </sense>
 <sense>
-<u>диал.</u> обручиться с кем-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приковывать, привлекать (взгляд, внимание)</text></cit>
 </sense>
 <sense>
-нанимать, законтрактовывать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обручиться с кем-л.</text></cit>
+</sense>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нанимать, законтрактовывать</text></cit>
 <сit type="example"><text>feste bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сосватать (просватать) кого-л.</text></cit></cit>
 </sense>
 </entry>

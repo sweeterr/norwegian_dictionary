@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">trusk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> <u>разг.</u> старое судно, «старая калоша»
+<usg>мор.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старое судно, «старая калоша»</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +15,8 @@
 <form>
 <orth type="lemma">trusk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> неряха, разгильдяй
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряха, разгильдяй</text></cit>
 </sense>
 </entry>
 </superEntry>

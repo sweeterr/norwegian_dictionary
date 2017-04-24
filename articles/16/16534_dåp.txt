@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">dåp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>церк.</u>
+<usg>церк.</usg>
 </form>
 <sense>
-крещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крещение</text></cit>
 </sense>
 <sense>
-крестины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестины</text></cit>
 </sense>
 <sense>
-купель для крещения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купель для крещения</text></cit>
 </sense>
 </entry>
 </superEntry>

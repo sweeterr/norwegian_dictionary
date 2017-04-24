@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-дробление, размалывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дробление, размалывание</text></cit>
 </sense>
 <sense>
-уничтожение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожение</text></cit>
 </sense>
 <sense>
-<u>воен.</u> поражение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поражение</text></cit>
 </sense>
 <sense>
-<u>мед.</u> поражённое (ушибленное) место
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поражённое (ушибленное) место</text></cit>
 </sense>
 </entry>
 </superEntry>

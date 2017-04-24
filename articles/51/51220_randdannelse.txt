@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">randdannelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>геол.</u> боковые морены
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковые морены</text></cit>
 </sense>
 </entry>
 </superEntry>

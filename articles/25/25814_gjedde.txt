@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gjedde</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> щука
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щука</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">gjedde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-сухостойное дерево
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухостойное дерево</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trengsmål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> беда, бедствие
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беда, бедствие</text></cit>
 <сit type="example"><text>i trengsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в крайней нужде</text></cit></cit>
 </sense>
 </entry>

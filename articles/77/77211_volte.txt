@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">volte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-вольт (при верховой езде в манеже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вольт (при верховой езде в манеже)</text></cit>
 </sense>
 <sense>
-вольт, уклонение от удара противника (в фехтовании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вольт, уклонение от удара противника (в фехтовании)</text></cit>
 </sense>
 </entry>
 </superEntry>

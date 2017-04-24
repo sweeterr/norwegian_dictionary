@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lomvie</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> кайра тонкоклювая
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кайра тонкоклювая</text></cit>
 </sense>
 </entry>
 </superEntry>

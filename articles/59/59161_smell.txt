@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-треск, трескотня, резкий звук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треск, трескотня, резкий звук</text></cit>
 </sense>
 <sense>
-хлопок, щелчок, хлопанье (двери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопок, щелчок, хлопанье (двери)</text></cit>
 </sense>
 <sense>
-грохот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грохот</text></cit>
 </sense>
 <sense>
-взрыв, детонация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв, детонация</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">smell</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-очень, весьма, крайне
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень, весьма, крайне</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">positron</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>физ.</u> позитрон
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позитрон</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsdeling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>эк.</u> разделение труда
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разделение труда</text></cit>
 </sense>
 </entry>
 </superEntry>

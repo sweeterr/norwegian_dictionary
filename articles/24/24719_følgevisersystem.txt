@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">følgevisersystem</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> система приборов управления стрельбой
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>система приборов управления стрельбой</text></cit>
 </sense>
 </entry>
 </superEntry>

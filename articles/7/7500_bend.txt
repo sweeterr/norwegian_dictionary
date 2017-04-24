@@ -7,15 +7,17 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-изгиб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб</text></cit>
 <сit type="example"><text>sette i bend</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгибать,</text></cit></cit>
-гнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнуть</text></cit>
 </sense>
 <sense>
-<u>мор.</u> петля
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петля</text></cit>
 </sense>
 <sense>
-<u>тех.</u> колено трубы
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено трубы</text></cit>
 </sense>
 </entry>
 </superEntry>

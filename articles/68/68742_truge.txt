@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-снегоступы, ступающие лыжи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снегоступы, ступающие лыжи</text></cit>
 </sense>
 <sense>
-<u>шутл.</u> широкая ступня
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широкая ступня</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">truge</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> см. true II
+<usg>диал.</usg>
+<ref>true II</ref>
 </sense>
 </entry>
 </superEntry>

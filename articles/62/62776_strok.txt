@@ -5,25 +5,26 @@
 <form>
 <orth type="lemma">strok</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-прохождение, проезд (мимо чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прохождение, проезд (мимо чего-л.)</text></cit>
 </sense>
 <sense>
-стремнина, бурный поток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стремнина, бурный поток</text></cit>
 </sense>
 <sense>
-порыв ветра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порыв ветра</text></cit>
 </sense>
 <sense>
-наплыв, скопление (людей), нашествие (зверей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наплыв, скопление (людей), нашествие (зверей)</text></cit>
 </sense>
 <sense>
-вечеринка с танцами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечеринка с танцами</text></cit>
 </sense>
 <sense>
-<u>собир.</u> бродяги
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродяги</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">examen artium</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-вступительный экзамен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вступительный экзамен</text></cit>
 </sense>
 </entry>
 </superEntry>

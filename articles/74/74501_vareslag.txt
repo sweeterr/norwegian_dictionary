@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vareslag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-сорт товара
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорт товара</text></cit>
 </sense>
 </entry>
 </superEntry>

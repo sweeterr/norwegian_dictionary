@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kutte</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-ряса (монашеская)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряса (монашеская)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-отрезать, обрубать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрезать, обрубать</text></cit>
 </sense>
 <sense>
-обрезать, подстригать (кусты, деревья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрезать, подстригать (кусты, деревья)</text></cit>
 </sense>
 </entry>
 </superEntry>

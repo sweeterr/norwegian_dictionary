@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">blåhvit</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бледно-голубой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледно-голубой</text></cit>
 </sense>
 <sense>
-бледный с синеватым оттенком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледный с синеватым оттенком</text></cit>
 </sense>
 </entry>
 </superEntry>

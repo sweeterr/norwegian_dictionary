@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-образование, возникновение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образование, возникновение</text></cit>
 </sense>
 <sense>
-<u>геол.</u> формация
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формация</text></cit>
 </sense>
 <sense>
-<u>воен.</u> (боевой) порядок, строй; формирование, соединение, войсковая часть
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(боевой) порядок, строй; формирование, соединение, войсковая часть</text></cit>
 </sense>
 </entry>
 </superEntry>

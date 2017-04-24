@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balsamedelgran</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> пихта бальзимическая (Abies balsamea)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пихта бальзимическая (Abies balsamea)</text></cit>
 </sense>
 </entry>
 </superEntry>

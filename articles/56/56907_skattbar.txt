@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">skattbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-подлежащий обложению налогом, облагаемый налогом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлежащий обложению налогом, облагаемый налогом</text></cit>
 </sense>
 </entry>
 </superEntry>

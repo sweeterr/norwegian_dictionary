@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-валежник, бурелом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валежник, бурелом</text></cit>
 </sense>
 <sense>
-куча хвороста (ветвей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча хвороста (ветвей)</text></cit>
 <сit type="example"><text>brenne bråte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>топить(ся) хворостом</text></cit></cit>
 </sense>
 <sense>
-гарь, выгоревший (выжженный) участок в лесу, вырубка, поляна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гарь, выгоревший (выжженный) участок в лесу, вырубка, поляна</text></cit>
 </sense>
 <sense>
-<u>разг.</u> куча, груда (чего-л. - med)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча, груда (чего-л. - med)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> завал
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завал</text></cit>
 </sense>
 </entry>
 </superEntry>

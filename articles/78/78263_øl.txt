@@ -7,10 +7,10 @@
 <inflection><orth>ølen</orth></inflection>
 </form>
 <sense>
-дымка, лёгкий туман
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымка, лёгкий туман</text></cit>
 </sense>
 <sense>
-тёплое дуновение, тепло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёплое дуновение, тепло</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <inflection><orth>ølet (ølen)</orth></inflection>
 </form>
 <sense>
-пиво
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пиво</text></cit>
 <сit type="example"><text>baiersk øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>баварское пиво</text></cit></cit>
 <сit type="example"><text>dovent øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдохшееся пиво</text></cit></cit>
 <сit type="example"><text>hjemmebrygget øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брага</text></cit></cit>
@@ -28,11 +28,11 @@
 <сit type="example"><text>brygge øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>варить пиво (брагу)</text></cit></cit>
 </sense>
 <sense>
-бутылка пива, кружка пива
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутылка пива, кружка пива</text></cit>
 <сit type="example"><text>en halv øl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бутылка (0,5 л, 0,8 л) пива</text></cit></cit>
 </sense>
 <sense>
-бочка пива, пивная бочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бочка пива, пивная бочка</text></cit>
 </sense>
 </entry>
 </superEntry>

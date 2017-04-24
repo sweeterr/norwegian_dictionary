@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">ihukomme</orth>
 <inflection><orth extent="part">-kom, -kommet</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-вспоминать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспоминать</text></cit>
 </sense>
 <sense>
-помнить, не забывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помнить, не забывать</text></cit>
 </sense>
 <sense>
-припоминать (что-л. кому-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>припоминать (что-л. кому-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

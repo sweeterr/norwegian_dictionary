@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balanseringsspjeld</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мех.</u> балансирующая заслонка
+<usg>мех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балансирующая заслонка</text></cit>
 </sense>
 </entry>
 </superEntry>

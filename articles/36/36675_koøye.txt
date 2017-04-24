@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-øyet, -øyne (-øyer)</orth></inflection>
 </form>
 <sense>
-коровий глаз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коровий глаз</text></cit>
 </sense>
 <sense>
-круглый, выпученный глаз (человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглый, выпученный глаз (человека)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> <u>мор.</u> иллюминатор
+<usg>уст.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иллюминатор</text></cit>
 </sense>
 </entry>
 </superEntry>

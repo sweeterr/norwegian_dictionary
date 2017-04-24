@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fyndig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-убедительный, вразумительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убедительный, вразумительный</text></cit>
 <сit type="example"><text>kort og fyndig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коротко и ясно, ясно и определённо</text></cit></cit>
 </sense>
 </entry>

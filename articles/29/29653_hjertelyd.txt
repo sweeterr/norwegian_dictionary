@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hjertelyd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u>
+<usg>мед.</usg>
 </form>
 <sense>
-сердечный тон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердечный тон</text></cit>
 </sense>
 <sense>
-пульс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульс</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">realordbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-тематический толковый словарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тематический толковый словарь</text></cit>
 </sense>
 </entry>
 </superEntry>

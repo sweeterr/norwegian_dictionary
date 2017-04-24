@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">Backus-Naur-notasjon</orth>
-<u>комп.</u> нормальная форма Бэкуса, форма Бэкуса-Наура, БНФ
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нормальная форма Бэкуса, форма Бэкуса-Наура, БНФ</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-стрела (подъёмного крана), кронштейн (электромачты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрела (подъёмного крана), кронштейн (электромачты)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> утлегарь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утлегарь</text></cit>
 </sense>
 <sense>
-<u>мор.</u> балансир
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балансир</text></cit>
 </sense>
 <sense>
-<u>уст.</u> отшельник
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отшельник</text></cit>
 </sense>
 </entry>
 </superEntry>

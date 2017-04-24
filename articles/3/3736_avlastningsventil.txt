@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avlastningsventil</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> предохранительный клапан (на котлах)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предохранительный клапан (на котлах)</text></cit>
 </sense>
 </entry>
 </superEntry>

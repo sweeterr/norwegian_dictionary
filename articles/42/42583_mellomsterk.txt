@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">mellomsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-средний по силе, средний по крепости (о табаке, о вине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний по силе, средний по крепости (о табаке, о вине)</text></cit>
 </sense>
 </entry>
 </superEntry>

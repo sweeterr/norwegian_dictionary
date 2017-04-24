@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">velgerfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-избиратели
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избиратели</text></cit>
 </sense>
 <sense>
-выборщики
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выборщики</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -4,26 +4,26 @@
 <index></index>
 <form>
 <orth type="lemma">gjen-</orth>
-в сложных словах со значением:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сложных словах со значением:</text></cit>
 </form>
 <sense>
-обратного действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратного действия:</text></cit>
 <сit type="example"><text>gjenlyde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>резонировать, отдаваться (о звуке)</text></cit></cit>
 </sense>
 <sense>
-противоположного направления:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противоположного направления:</text></cit>
 <сit type="example"><text>gjenkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться</text></cit></cit>
 </sense>
 <sense>
-восстановления прежнего состояния, действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восстановления прежнего состояния, действия:</text></cit>
 <сit type="example"><text>gjenkjenne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать кого-л.</text></cit></cit>
 </sense>
 <sense>
-заполнения пустого пространства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заполнения пустого пространства</text></cit>
 <сit type="example"><text>gjensy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зашить</text></cit></cit>
 </sense>
 <sense>
-ответного или повторного действия, часто переводится с помощью русских слов вновь, снова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ответного или повторного действия, часто переводится с помощью русских слов вновь, снова</text></cit>
 <сit type="example"><text>gjenta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вновь (снова) повторить</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkeferd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-слой (группа) населения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слой (группа) населения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">folkeferd</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>диал.</u> народный обычай
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народный обычай</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">timeløp</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>спорт.</u> часовой бег, бег в течение часа
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часовой бег, бег в течение часа</text></cit>
 </sense>
 </entry>
 </superEntry>

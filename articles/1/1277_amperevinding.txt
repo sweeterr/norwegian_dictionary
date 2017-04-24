@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">amperevinding</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> ампер-витки
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ампер-витки</text></cit>
 </sense>
 </entry>
 </superEntry>

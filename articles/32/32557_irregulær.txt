@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">irregulær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-нерегулярный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерегулярный</text></cit>
 </sense>
 <sense>
-неправильный, отклоняющийся от правила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неправильный, отклоняющийся от правила</text></cit>
 </sense>
 </entry>
 </superEntry>

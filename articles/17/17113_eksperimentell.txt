@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">eksperimentell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-основанный на эксперименте, экспериментальный (о методе, материале, данных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основанный на эксперименте, экспериментальный (о методе, материале, данных)</text></cit>
 </sense>
 </entry>
 </superEntry>

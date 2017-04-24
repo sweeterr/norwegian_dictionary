@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skrubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-щётка, скребок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щётка, скребок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">skrubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> волк
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волк</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">skrubb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пунш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пунш</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,10 +32,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-царапина, ссадина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царапина, ссадина</text></cit>
 </sense>
 <sense>
-нагоняй, головомойка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагоняй, головомойка</text></cit>
 </sense>
 </entry>
 </superEntry>

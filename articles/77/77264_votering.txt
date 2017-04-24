@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">votering</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-голосование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голосование</text></cit>
 <сit type="example"><text>sette under votering</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить на голосование</text></cit></cit>
 </sense>
 </entry>

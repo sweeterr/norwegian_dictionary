@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oljeblått</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>жив.</u> берлинская лазурь
+<usg>жив.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берлинская лазурь</text></cit>
 </sense>
 </entry>
 </superEntry>

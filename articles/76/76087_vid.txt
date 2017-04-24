@@ -5,26 +5,25 @@
 <form>
 <orth type="lemma">vid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-широкий <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широкий <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>på vidt gap (på vid vegg)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>широко раскрытый (распахнутый)</text></cit></cit>
 <сit type = "example"><text>i det vide og i det brede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вдоль и поперёк</text></cit></cit>
 <сit type = "example"><text>i det vide og i det brede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пространно</text></cit></cit>
 </sense>
 <sense>
-обширный, просторный, вместительный, бескрайний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обширный, просторный, вместительный, бескрайний</text></cit>
 </sense>
 <sense>
-имеющий широкий кругозор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий широкий кругозор</text></cit>
 </sense>
 <sense>
-далёкий, дальний (о расстоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далёкий, дальний (о расстоянии)</text></cit>
 </sense>
 <sense>
-значительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значительный</text></cit>
 <сit type="example"><text>gå vidt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь большое значение</text></cit></cit>
 </sense>
 </entry>

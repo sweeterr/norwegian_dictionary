@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utskei</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> остановка в работе
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остановка в работе</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vesterveg</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> западные страны (Англия, Ирландия или Франция)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>западные страны (Англия, Ирландия или Франция)</text></cit>
 <сit type="example"><text>dra (fare) i vesterveg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершать набеги, отправляться в поход на запад (о викингах)</text></cit></cit>
 </sense>
 </entry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">titulær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-титулованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>титулованный</text></cit>
 </sense>
 <sense>
-титулярный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>титулярный</text></cit>
 </sense>
 </entry>
 </superEntry>

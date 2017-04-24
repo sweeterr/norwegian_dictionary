@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sølje</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>уст.</u> большая брошка-заколка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большая брошка-заколка</text></cit>
 </sense>
 </entry>
 </superEntry>

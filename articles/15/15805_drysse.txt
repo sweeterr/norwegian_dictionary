@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-set (-te), -set (-t)</orth></inflection>
 </form>
 <sense>
-сыпать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыпать</text></cit>
 </sense>
 <sense>
-рассыпать, усыпать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассыпать, усыпать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> сеять (смерть)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеять (смерть)</text></cit>
 </sense>
 <sense>
-обдавать (каплями росы, дождя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обдавать (каплями росы, дождя)</text></cit>
 </sense>
 <sense>
-осыпаться (о цветах, листьях, злаках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осыпаться (о цветах, листьях, злаках)</text></cit>
 <сit type="example"><text>rosen drysser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>роза осыпается (отцветает)</text></cit></cit>
 </sense>
 <sense>
-сыпаться, падать (о снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыпаться, падать (о снеге)</text></cit>
 </sense>
 </entry>
 </superEntry>

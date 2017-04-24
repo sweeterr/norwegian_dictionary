@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">polarrev</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> песец
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песец</text></cit>
 </sense>
 </entry>
 </superEntry>

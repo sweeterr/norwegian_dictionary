@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-восьмёрка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восьмёрка</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> восьмёрка (спортивная лодка)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восьмёрка (спортивная лодка)</text></cit>
 <сit type="example"><text>åtter med rormann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восьмёрка с рулевым</text></cit></cit>
 </sense>
 </entry>

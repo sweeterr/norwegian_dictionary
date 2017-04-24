@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forlast</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> носовой грузовой трюм
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носовой грузовой трюм</text></cit>
 </sense>
 </entry>
 </superEntry>

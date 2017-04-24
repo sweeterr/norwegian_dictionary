@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">stillbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-регулируемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регулируемый</text></cit>
 </sense>
 <sense>
-подвижной, передвижной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подвижной, передвижной</text></cit>
 </sense>
 </entry>
 </superEntry>

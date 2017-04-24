@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">ulikelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неподходящий, несоответствующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподходящий, несоответствующий</text></cit>
 </sense>
 <sense>
-невоспитанный, неотёсанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невоспитанный, неотёсанный</text></cit>
 </sense>
 <sense>
-невыносимый, несносный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыносимый, несносный</text></cit>
 </sense>
 </entry>
 </superEntry>

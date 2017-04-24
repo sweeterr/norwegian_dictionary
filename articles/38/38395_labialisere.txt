@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">labialisere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>фон.</u> лабиализировать
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лабиализировать</text></cit>
 </sense>
 </entry>
 </superEntry>

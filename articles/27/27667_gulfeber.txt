@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gulfeber</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> жёлтая или тропическая лихорадка
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёлтая или тропическая лихорадка</text></cit>
 </sense>
 </entry>
 </superEntry>

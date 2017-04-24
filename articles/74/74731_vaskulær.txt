@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">vaskulær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>анат.</u> сосудистый
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сосудистый</text></cit>
 </sense>
 </entry>
 </superEntry>

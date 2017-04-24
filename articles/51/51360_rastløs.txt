@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">rastløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неутомимый, работающий без устали
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неутомимый, работающий без устали</text></cit>
 </sense>
 <sense>
-беспокойный, нервный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойный, нервный</text></cit>
 </sense>
 </entry>
 </superEntry>

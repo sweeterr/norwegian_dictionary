@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-крик, выкрик, зов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, выкрик, зов</text></cit>
 <сit type="example"><text>et rop om hjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крик о помощи</text></cit></cit>
 <сit type="example"><text>sette i et rop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закричать, начать кричать</text></cit></cit>
 </sense>
 <sense>
-призыв, клич
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призыв, клич</text></cit>
 <сit type="example"><text>gi et rop</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подать клич</text></cit></cit>
 </sense>
 </entry>

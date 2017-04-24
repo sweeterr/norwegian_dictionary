@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nyrebark</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>анат.</u> корковое вещество почки
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корковое вещество почки</text></cit>
 </sense>
 </entry>
 </superEntry>

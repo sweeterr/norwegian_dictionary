@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dusting</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> дурак, болван
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дурак, болван</text></cit>
 </sense>
 </entry>
 </superEntry>

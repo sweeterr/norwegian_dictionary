@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">underst</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-самый нижний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый нижний</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">underst</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-ниже всего (всех), в самом низу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ниже всего (всех), в самом низу</text></cit>
 </sense>
 </entry>
 </superEntry>

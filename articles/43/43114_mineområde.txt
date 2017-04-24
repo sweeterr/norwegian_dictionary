@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mineområde</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>мор.</u> район минного заграждения
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район минного заграждения</text></cit>
 </sense>
 </entry>
 </superEntry>

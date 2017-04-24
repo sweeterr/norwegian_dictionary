@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basalstoffskifte</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мед.</u> основной обмен, основной метаболизм
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основной обмен, основной метаболизм</text></cit>
 </sense>
 </entry>
 </superEntry>

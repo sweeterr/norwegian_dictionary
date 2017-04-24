@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">skjekte</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> <u>мор.</u> ёла
+<usg>диал.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ёла</text></cit>
 </sense>
 </entry>
 </superEntry>

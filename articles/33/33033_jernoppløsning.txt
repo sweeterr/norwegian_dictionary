@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jernoppløsning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>хим.</u> раствор железосодержащих солей
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раствор железосодержащих солей</text></cit>
 </sense>
 </entry>
 </superEntry>

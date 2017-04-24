@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">betesukker</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-свекловичный сахар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свекловичный сахар</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">betesukker</orth>
 <inflection><orth extent="part">-et</orth></inflection>
- кусковой сахар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусковой сахар</text></cit>
 </sense>
 </entry>
 </superEntry>

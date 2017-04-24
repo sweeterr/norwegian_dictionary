@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">hål</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-скользкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользкий</text></cit>
 </sense>
 <sense>
-гладкий, ровный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гладкий, ровный</text></cit>
 </sense>
 </entry>
 </superEntry>

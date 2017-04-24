@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rap</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-отрыжка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрыжка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">rap</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> оползень, обвал
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оползень, обвал</text></cit>
 </sense>
 </entry>
 </superEntry>

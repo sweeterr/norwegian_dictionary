@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dølsmål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-тайна, секрет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайна, секрет</text></cit>
 <сit type="example"><text>i dølsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тайне</text></cit></cit>
 <сit type="example"><text>uten dølsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без утайки, откровенно</text></cit></cit>
 <сit type="example"><text>legge dølsmål på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать тайну (из чего-л.)</text></cit></cit>

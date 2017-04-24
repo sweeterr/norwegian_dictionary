@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arvebærer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>биол.</u> носитель наследственного (породного) признака
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носитель наследственного (породного) признака</text></cit>
 </sense>
 </entry>
 </superEntry>

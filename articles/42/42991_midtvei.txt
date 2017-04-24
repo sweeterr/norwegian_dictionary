@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">midtvei</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-полпути
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полпути</text></cit>
 <сit type="example"><text>på midtveien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на полпути, на полдороге</text></cit></cit>
 </sense>
 </entry>

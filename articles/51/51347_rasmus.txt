@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">rasmus</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-властная женщина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>властная женщина</text></cit>
 </sense>
 <sense>
-<u>мор.</u> высокая волна, перекатывающаяся через борт
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокая волна, перекатывающаяся через борт</text></cit>
 </sense>
 </entry>
 </superEntry>

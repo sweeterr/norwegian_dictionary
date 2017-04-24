@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gøys</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> поток, ключ, фонтан
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поток, ключ, фонтан</text></cit>
 </sense>
 </entry>
 </superEntry>

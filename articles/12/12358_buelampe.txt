@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">buelampe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>эл.</u> дуговая лампа
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуговая лампа</text></cit>
 </sense>
 </entry>
 </superEntry>

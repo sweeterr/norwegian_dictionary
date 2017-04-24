@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hæ!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ха-ха!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ха-ха!</text></cit>
 </sense>
 <sense>
-а? (вопросительное слово вместо что?)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>а? (вопросительное слово вместо что?)</text></cit>
 </sense>
 </entry>
 </superEntry>

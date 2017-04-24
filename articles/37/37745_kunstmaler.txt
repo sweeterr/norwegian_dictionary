@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kunstmaler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-художник-живописец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>художник-живописец</text></cit>
 </sense>
 </entry>
 </superEntry>

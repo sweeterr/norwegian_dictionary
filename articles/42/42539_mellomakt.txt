@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomakt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>театр.</u> антракт
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антракт</text></cit>
 </sense>
 </entry>
 </superEntry>

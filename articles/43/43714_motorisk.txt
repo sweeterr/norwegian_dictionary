@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">motorisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>анат.</u> моторный, двигательный
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моторный, двигательный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">blinklanterne</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u>, <u>мор.</u> сигнальный фонарь
+<usg>воен.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальный фонарь</text></cit>
 </sense>
 </entry>
 </superEntry>

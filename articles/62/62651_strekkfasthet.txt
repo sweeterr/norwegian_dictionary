@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">strekkfasthet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-прочность на разрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочность на разрыв</text></cit>
 </sense>
 <sense>
-максимальная растяжимость материала
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>максимальная растяжимость материала</text></cit>
 </sense>
 </entry>
 </superEntry>

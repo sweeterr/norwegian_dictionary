@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pote</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-лапа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лапа</text></cit>
 <сit type="example"><text>vekk med potene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>груб.</lbl> руки прочь</text></cit></cit>
 </sense>
 </entry>

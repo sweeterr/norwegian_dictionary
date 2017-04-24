@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">aggressiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-агрессивный, захватнический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агрессивный, захватнический</text></cit>
 </sense>
 <sense>
-вызывающий (о тоне, поведении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вызывающий (о тоне, поведении)</text></cit>
 </sense>
 </entry>
 </superEntry>

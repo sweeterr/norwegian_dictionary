@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">benhård</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-твёрдый как камень ( <u>букв.</u> как кость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый как камень ( <lbl>букв.</lbl> как кость)</text></cit>
 </sense>
 </entry>
 </superEntry>

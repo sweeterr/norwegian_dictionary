@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nyutgave</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-переиздание (книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переиздание (книги)</text></cit>
 </sense>
 </entry>
 </superEntry>

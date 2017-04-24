@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">komfyr</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кухонная плита
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кухонная плита</text></cit>
 <сit type="example"><text>elektrisk komfyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрическая печка (плита)</text></cit></cit>
 </sense>
 </entry>

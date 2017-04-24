@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-расстановка постов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстановка постов</text></cit>
 </sense>
 <sense>
-<u>воен.</u> усиленный полевой караул
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усиленный полевой караул</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">postering</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бухг.</u> сумма, занесённая (записанная) в книгу
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумма, занесённая (записанная) в книгу</text></cit>
 </sense>
 </entry>
 </superEntry>

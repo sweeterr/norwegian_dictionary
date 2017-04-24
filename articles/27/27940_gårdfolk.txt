@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gårdfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> хуторяне, фермеры
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хуторяне, фермеры</text></cit>
 </sense>
 </entry>
 </superEntry>

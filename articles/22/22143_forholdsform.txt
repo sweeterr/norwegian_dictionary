@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forholdsform</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>грам.</u> падеж, падежная форма
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падеж, падежная форма</text></cit>
 </sense>
 </entry>
 </superEntry>

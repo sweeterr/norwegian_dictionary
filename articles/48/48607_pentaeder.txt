@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pentaeder</orth>
 <inflection><orth extent="part">-eret, -rer</orth></inflection>
-<u>мат.</u> пятиугольник
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятиугольник</text></cit>
 </sense>
 </entry>
 </superEntry>

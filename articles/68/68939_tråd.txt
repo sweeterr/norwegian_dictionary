@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-нитка, нить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нитка, нить</text></cit>
 <сit type="example"><text>en beket tråd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дратва</text></cit></cit>
 <сit type="example"><text>tråden i ens tale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>основная тема чьего-л. выступления (чьей-л. речи)</text></cit></cit>
 <сit type="example"><text>som en rød tråd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красной нитью</text></cit></cit>
@@ -18,12 +18,12 @@
 <сit type="example"><text>trekke i trådene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать бразды правления в своих руках</text></cit></cit>
 </sense>
 <sense>
-проволока
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проволока</text></cit>
 <сit type="example"><text>ha (få) én på tråden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> говорить по телефону с кем-л.</text></cit></cit>
 <сit type="example"><text>slå på tråden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> позвонить по телефону (кому-л.)</text></cit></cit>
 </sense>
 <sense>
-волокно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волокно</text></cit>
 <сit type="example"><text>lett (løs) på tråden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленная, лёгкого поведения</text></cit></cit>
 </sense>
 </entry>

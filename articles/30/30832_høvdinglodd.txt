@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">høvdinglodd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> часть (доля) вождя (в походе, в военной добыче)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часть (доля) вождя (в походе, в военной добыче)</text></cit>
 </sense>
 </entry>
 </superEntry>

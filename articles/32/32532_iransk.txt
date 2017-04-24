@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">iransk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-иранский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иранский</text></cit>
 </sense>
 </entry>
 </superEntry>

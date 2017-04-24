@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">orv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> косовище (косы)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косовище (косы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">orv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> кольцо из ивовой ветки (для запирания калитки)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо из ивовой ветки (для запирания калитки)</text></cit>
 </sense>
 </entry>
 </superEntry>

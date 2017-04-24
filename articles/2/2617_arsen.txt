@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arsen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> мышьяк
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мышьяк</text></cit>
 </sense>
 </entry>
 </superEntry>

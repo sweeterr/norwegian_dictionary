@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bygutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-уроженец города, <u>шутл.</u> дитя города
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уроженец города, <lbl>шутл.</lbl> дитя города</text></cit>
 </sense>
 </entry>
 </superEntry>

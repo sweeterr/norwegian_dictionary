@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arbeidsstrøm</orth>
 <inflection><orth extent="part">-men, -mer</orth></inflection>
-<u>эл.</u> энергия (для производственных нужд)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергия (для производственных нужд)</text></cit>
 </sense>
 </entry>
 </superEntry>

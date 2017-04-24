@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-распутный, безнравственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распутный, безнравственный</text></cit>
 </sense>
 <sense>
-грубый, непристойный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, непристойный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">lidderlig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-ужасно, страшно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужасно, страшно</text></cit>
 </sense>
 </entry>
 </superEntry>

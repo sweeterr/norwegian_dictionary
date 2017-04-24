@@ -5,29 +5,28 @@
 <form>
 <orth type="lemma">villsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-заблудившийся, сбившийся с дороги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заблудившийся, сбившийся с дороги</text></cit>
 </sense>
 <sense>
-бродячий, бездомный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродячий, бездомный</text></cit>
 </sense>
 <sense>
-беспорядочный, сбивчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядочный, сбивчивый</text></cit>
 </sense>
 <sense>
-запутанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запутанный</text></cit>
 </sense>
 <sense>
-пустынный, дикий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустынный, дикий</text></cit>
 </sense>
 <sense>
-дикий, одичавший, одичалый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дикий, одичавший, одичалый</text></cit>
 </sense>
 <sense>
-сумасшедший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший</text></cit>
 </sense>
 </entry>
 </superEntry>

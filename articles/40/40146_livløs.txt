@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">livløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безжизненный, мёртвый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безжизненный, мёртвый</text></cit>
 </sense>
 <sense>
-пустой, невыразительный (о взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустой, невыразительный (о взгляде)</text></cit>
 </sense>
 <sense>
-вялый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый</text></cit>
 </sense>
 <sense>
-неживой (о природе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неживой (о природе)</text></cit>
 </sense>
 </entry>
 </superEntry>

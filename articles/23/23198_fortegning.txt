@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fortegning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-модель, образец, узор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>модель, образец, узор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">fortegning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-ошибочная запись, неверный рисунок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибочная запись, неверный рисунок</text></cit>
 </sense>
 </entry>
 </superEntry>

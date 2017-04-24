@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">venushår</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>бот.</u> адиантум, венерин волос
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>адиантум, венерин волос</text></cit>
 </sense>
 </entry>
 </superEntry>

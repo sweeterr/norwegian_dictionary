@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">dvine</orth>
 <inflection><orth extent="part">-te (-a), -t (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-уменьшаться, убывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшаться, убывать</text></cit>
 </sense>
 <sense>
-уменьшать, умерять (темп, шаги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшать, умерять (темп, шаги)</text></cit>
 </sense>
 <sense>
-смягчать, успокаивать (боль)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смягчать, успокаивать (боль)</text></cit>
 </sense>
 </entry>
 </superEntry>

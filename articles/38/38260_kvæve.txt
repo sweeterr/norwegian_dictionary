@@ -4,10 +4,10 @@
 <index></index>
 <form>
 <orth type="lemma">kvæve</orth>
--a (
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-a (</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
 )
-см. kvev II
+<ref>kvev II</ref>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">kvæve</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-см. kveve II
+<ref>kveve II</ref>
 </sense>
 </entry>
 <entry>
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">kvæve</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-см. kveve III
+<ref>kveve III</ref>
 </sense>
 </entry>
 </superEntry>

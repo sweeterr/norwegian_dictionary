@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skrekke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> (ис)пугать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(ис)пугать</text></cit>
 <сit type="example"><text>skrekkes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бояться (чего-л. - for)</text></cit></cit>
 <сit type="example"><text>skrekke bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отпугивать</text></cit></cit>
 </sense>

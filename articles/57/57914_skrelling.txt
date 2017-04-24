@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skrelling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-жалкий, несчастный человек, бедняга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалкий, несчастный человек, бедняга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skrelling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-очистки, обрезки, кожура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очистки, обрезки, кожура</text></cit>
 </sense>
 </entry>
 </superEntry>

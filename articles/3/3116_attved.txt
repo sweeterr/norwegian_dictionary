@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">attved</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> в дополнение, ещё, к тому же
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в дополнение, ещё, к тому же</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">attved</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-<u>диал.</u> рядом с (кем-л.), около, подле
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рядом с (кем-л.), около, подле</text></cit>
 </sense>
 </entry>
 </superEntry>

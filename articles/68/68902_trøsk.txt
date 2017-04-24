@@ -5,8 +5,10 @@
 <form>
 <orth type="lemma">trøsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> верзила, силач
-<u>разг.</u> битюг
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верзила, силач</text></cit>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>битюг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -16,10 +18,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-трухлявое дерево
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трухлявое дерево</text></cit>
 </sense>
 <sense>
-трут (для разжигания огня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трут (для разжигания огня)</text></cit>
 </sense>
 </entry>
 </superEntry>

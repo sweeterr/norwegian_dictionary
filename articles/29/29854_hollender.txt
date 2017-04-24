@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-голландец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голландец</text></cit>
 </sense>
 <sense>
-<u>разг.</u> копчёная или вяленая треска
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копчёная или вяленая треска</text></cit>
 </sense>
 <sense>
-мор <u>разг.</u> голландский торговый корабль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мор <lbl>разг.</lbl> голландский торговый корабль</text></cit>
 </sense>
 </entry>
 </superEntry>

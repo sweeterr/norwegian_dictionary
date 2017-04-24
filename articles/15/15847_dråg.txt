@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dråg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> район долины
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район долины</text></cit>
 </sense>
 </entry>
 </superEntry>

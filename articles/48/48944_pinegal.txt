@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">pinegal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сумасшедший, ненормальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший, ненормальный</text></cit>
 </sense>
 <sense>
-бессмысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессмысленный</text></cit>
 </sense>
 </entry>
 </superEntry>

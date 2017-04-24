@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vimple</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-развеваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развеваться</text></cit>
 </sense>
 <sense>
-шевелить что-л. (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шевелить что-л. (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

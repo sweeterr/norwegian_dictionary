@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rydde</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-хлыст, розга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлыст, розга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,15 +15,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расчищать от камней, леса (для вспашки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расчищать от камней, леса (для вспашки)</text></cit>
 </sense>
 <sense>
-убирать, очищать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убирать, очищать</text></cit>
 <сit type="example"><text>rydde av veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирать с дороги <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>rydde til side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отставить, отодвинуть в сторону</text></cit></cit>
 </sense>
 <sense>
-приводить в порядок, наводить порядок (в помещении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в порядок, наводить порядок (в помещении)</text></cit>
 <сit type="example"><text>rydde opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирать, прибирать, наводить порядок</text></cit></cit>
 </sense>
 </entry>

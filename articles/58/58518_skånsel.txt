@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skånsel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-снисхождение, пощада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снисхождение, пощада</text></cit>
 <сit type="example"><text>uten skånsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>беспощадно</text></cit></cit>
 </sense>
 </entry>

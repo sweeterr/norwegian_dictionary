@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">u-bane</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>разг.</u> метро
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метро</text></cit>
 </sense>
 </entry>
 </superEntry>

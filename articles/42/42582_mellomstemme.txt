@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mellomstemme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>муз.</u> альт, контральто
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>альт, контральто</text></cit>
 </sense>
 </entry>
 </superEntry>

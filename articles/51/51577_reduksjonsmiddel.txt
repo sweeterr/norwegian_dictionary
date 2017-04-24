@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reduksjonsmiddel</orth>
 <inflection><orth extent="part">-delet (-let), -ler</orth></inflection>
-<u>хим.</u> восстановитель, раскислитель
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восстановитель, раскислитель</text></cit>
 </sense>
 </entry>
 </superEntry>

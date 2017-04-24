@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">smelte</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-расплавленная масса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расплавленная масса</text></cit>
 <сit type="example"><text>hele smelta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё вместе</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">smelte</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>диал.</u> 
+<usg>диал.</usg>
 <ref>sypike 2)</ref>
 </sense>
 </entry>
@@ -25,17 +25,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-расплавлять, растапливать, плавить (руду), выплавлять (металл)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расплавлять, растапливать, плавить (руду), выплавлять (металл)</text></cit>
 </sense>
 <sense>
-растворять (в жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растворять (в жидкости)</text></cit>
 </sense>
 <sense>
-таять, растворяться, плавиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таять, растворяться, плавиться</text></cit>
 <сit type="example"><text>smelte i hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сливаться одно с другим</text></cit></cit>
 </sense>
 <sense>
-размягчаться, размякать <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размягчаться, размякать <lbl>тж. перен.</lbl></text></cit>
 <сit type = "example"><text>smelte av, smelte bort:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> растаять, улетучиться, исчезнуть, истощиться (о средствах)</text></cit></cit>
 <сit type = "example"><text>smelte av, smelte bort:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> погрузиться (в мечты)</text></cit></cit>
 <сit type="example"><text>smelte hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замирать (о звуках)</text></cit></cit>

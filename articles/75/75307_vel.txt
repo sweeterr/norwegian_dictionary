@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-let, =</orth></inflection>
 </form>
 <sense>
-благо, благополучие, польза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благо, благополучие, польза</text></cit>
 <сit type="example"><text>for det alminnelige vel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>для всеобщего блага, для общей пользы</text></cit></cit>
 </sense>
 <sense>
-благотворительное общество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благотворительное общество</text></cit>
 </sense>
 <sense>
-дом благотворительного общества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дом благотворительного общества</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-хорошо, благополучно, успешно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо, благополучно, успешно</text></cit>
 <сit type="example"><text>både vel og lenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо и долго, основательно</text></cit></cit>
 <сit type="example"><text>vel og bra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо, по-хорошему</text></cit></cit>
 <сit type="example"><text>det er gått vel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё в порядке</text></cit></cit>
@@ -32,15 +32,15 @@
 <сit type="example"><text>vel den som ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>счастлив тот, кто ...</text></cit></cit>
 </sense>
 <sense>
-приблизительно, примерно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приблизительно, примерно</text></cit>
 <сit type="example"><text>en jente på vel nitten år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>девушка примерно девятнадцати лет, девушка лет девятнадцати</text></cit></cit>
 </sense>
 <sense>
-ведь, пожалуй, же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ведь, пожалуй, же</text></cit>
 <сit type="example"><text>det er vel han</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это же он, это ведь он</text></cit></cit>
 </sense>
 <sense>
-возможно, вероятно; видимо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возможно, вероятно; видимо</text></cit>
 <сit type="example"><text>lev vel!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будь(те) здоров(ы)!, прощай(те)!</text></cit></cit>
 <сit type = "example"><text>vel møtt igjen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> до следующей встречи</text></cit></cit>
 <сit type = "example"><text>vel møtt igjen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приходите снова (при прощании)</text></cit></cit>

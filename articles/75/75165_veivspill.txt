@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">veivspill</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> шарманка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шарманка</text></cit>
 </sense>
 </entry>
 </superEntry>

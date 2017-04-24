@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-порицание, осуждение, критика, выговор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порицание, осуждение, критика, выговор</text></cit>
 </sense>
 <sense>
-<u>юр.</u> передача дела в суд, преследование по закону
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передача дела в суд, преследование по закону</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-выражать своё неудовольствие, порицать, критиковать, указывать (отмечать) недостатки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выражать своё неудовольствие, порицать, критиковать, указывать (отмечать) недостатки</text></cit>
 </sense>
 <sense>
-<u>юр.</u> подавать жалобу (иск) в суд, преследовать по закону
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавать жалобу (иск) в суд, преследовать по закону</text></cit>
 </sense>
 </entry>
 </superEntry>

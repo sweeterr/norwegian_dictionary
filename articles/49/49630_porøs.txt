@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">porøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-пористый, губчатый, ноздреватый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пористый, губчатый, ноздреватый</text></cit>
 </sense>
 </entry>
 </superEntry>

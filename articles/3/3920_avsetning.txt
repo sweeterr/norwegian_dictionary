@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-сбыт (товара)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбыт (товара)</text></cit>
 <сit type="example"><text>få en strykende (rivende) avsetning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро (хорошо) продаваться, иметь хороший сбыт</text></cit></cit>
 </sense>
 <sense>
-выступ, уступ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступ, уступ</text></cit>
 </sense>
 <sense>
-<u>юр.</u> гарантия (процессуальная)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гарантия (процессуальная)</text></cit>
 </sense>
 </entry>
 </superEntry>

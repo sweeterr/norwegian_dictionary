@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tusende</orth>
 <gramGrp><pos>num</pos></gramGrp>
-тысячный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тысячный</text></cit>
 </sense>
 </entry>
 </superEntry>

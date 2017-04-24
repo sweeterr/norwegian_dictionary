@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">partisipp</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u> причастие
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причастие</text></cit>
 <сit type="example"><text>nåtids (present) partisipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>причастие настоящего времени, причастие I</text></cit></cit>
 <сit type="example"><text>fortids (perfektum) partisipp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>причастие прошедшего времени, причастие II</text></cit></cit>
 </sense>

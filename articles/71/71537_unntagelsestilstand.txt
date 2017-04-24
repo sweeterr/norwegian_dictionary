@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">unntagelsestilstand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> чрезвычайное положение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайное положение</text></cit>
 </sense>
 </entry>
 </superEntry>

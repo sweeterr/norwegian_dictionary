@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">forstage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u>, <u>тех.</u> закрепить растяжками, расчалками, оттяжками (о мачтах, трубах и т. п.)
+<usg>мор.</usg>
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закрепить растяжками, расчалками, оттяжками (о мачтах, трубах и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

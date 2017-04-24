@@ -7,30 +7,31 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-обработанная глыба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обработанная глыба</text></cit>
 </sense>
 <sense>
-плаха, колода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плаха, колода</text></cit>
 <сit type="example"><text>legge hodet på blokken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложить голову на плахе</text></cit></cit>
 </sense>
 <sense>
-группа домов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа домов</text></cit>
 </sense>
 <sense>
-квартал (городе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квартал (городе)</text></cit>
 </sense>
 <sense>
-колодки (орудие наказания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колодки (орудие наказания)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> блок
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блок</text></cit>
 <сit type="example"><text>vandrende blokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> подвижной блок</text></cit></cit>
 </sense>
 <sense>
-колодка (для обуви), болванка (для шляп)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колодка (для обуви), болванка (для шляп)</text></cit>
 </sense>
 <sense>
-блокнот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блокнот</text></cit>
 </sense>
 </entry>
 <entry>
@@ -38,7 +39,7 @@
 <form>
 <orth type="lemma">blokk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-блок (политических партий, государств)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блок (политических партий, государств)</text></cit>
 </sense>
 </entry>
 </superEntry>

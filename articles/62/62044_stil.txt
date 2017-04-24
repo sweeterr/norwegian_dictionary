@@ -7,26 +7,27 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стиль <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стиль <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>gotisk stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>архит.</lbl> готический стиль</text></cit></cit>
 </sense>
 <sense>
-стиль, слог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стиль, слог</text></cit>
 <сit type="example"><text>bunden stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поэзия</text></cit></cit>
 <сit type="example"><text>fortellende stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повествовательный стиль</text></cit></cit>
 </sense>
 <sense>
-школьное сочинение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>школьное сочинение</text></cit>
 </sense>
 <sense>
-письменный перевод с родного языка на иностранный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>письменный перевод с родного языка на иностранный</text></cit>
 </sense>
 <sense>
-календарный стиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>календарный стиль</text></cit>
 <сit type="example"><text>gammel (ny) stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старый (новый) стиль</text></cit></cit>
 </sense>
 <sense>
-<u>полигр.</u> шрифт
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шрифт</text></cit>
 <сit type="example"><text>i stor stil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на широкую ногу</text></cit></cit>
 </sense>
 </entry>

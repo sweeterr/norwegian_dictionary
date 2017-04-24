@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ihvo</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>уст.</u> кто бы ни, какой бы ни
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кто бы ни, какой бы ни</text></cit>
 </sense>
 </entry>
 </superEntry>

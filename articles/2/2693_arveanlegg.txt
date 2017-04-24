@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">arveanlegg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>биол.</u> свойства (элементы) половой клетки, обуславливающие передачу определённых признаков по наследству
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свойства (элементы) половой клетки, обуславливающие передачу определённых признаков по наследству</text></cit>
 </sense>
 </entry>
 </superEntry>

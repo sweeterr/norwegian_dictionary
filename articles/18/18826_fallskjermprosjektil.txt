@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fallskjermprosjektil</orth>
 <inflection><orth extent="part">-et, -er (=)</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-осветительная ракета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осветительная ракета</text></cit>
 </sense>
 <sense>
-светящаяся авиационная бомба на парашюте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светящаяся авиационная бомба на парашюте</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">gjørs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-судак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судак</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">gjørs</orth>
-gjørs på noe <u>разг.</u> делать назло (нарочно, наперекор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>gjørs på noe <lbl>разг.</lbl> делать назло (нарочно, наперекор)</text></cit>
 </sense>
 </entry>
 </superEntry>

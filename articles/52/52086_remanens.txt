@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">remanens</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u>, <u>эл.</u> остаточный магнетизм
+<usg>физ.</usg>
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остаточный магнетизм</text></cit>
 </sense>
 </entry>
 </superEntry>

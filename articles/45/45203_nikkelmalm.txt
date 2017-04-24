@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nikkelmalm</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> никелевая руда
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>никелевая руда</text></cit>
 </sense>
 </entry>
 </superEntry>

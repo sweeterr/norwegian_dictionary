@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">befare</orth>
-<inflection><orth>befarte ( <u>уст.</u> befor), befart</orth></inflection>
+<inflection><orth>befarte ( <lbl>уст.</lbl> befor), befart</orth></inflection>
 </form>
 <sense>
-объезжать, разъезжать, проезжать (по чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объезжать, разъезжать, проезжать (по чему-л.)</text></cit>
 </sense>
 <sense>
-изъездить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изъездить</text></cit>
 </sense>
 <sense>
-совершать инспекционную поездку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершать инспекционную поездку</text></cit>
 </sense>
 </entry>
 </superEntry>

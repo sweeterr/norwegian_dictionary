@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sugeventilator</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>тех.</u> всасывающий вентилятор
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всасывающий вентилятор</text></cit>
 </sense>
 </entry>
 </superEntry>

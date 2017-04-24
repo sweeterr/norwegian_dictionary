@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">acetaldehyd</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>хим.</u> ацетальдегид, уксусный альдегид
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ацетальдегид, уксусный альдегид</text></cit>
 </sense>
 </entry>
 </superEntry>

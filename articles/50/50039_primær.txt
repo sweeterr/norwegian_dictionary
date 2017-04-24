@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">primær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-первичный, начальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первичный, начальный</text></cit>
 </sense>
 <sense>
-главный, основной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главный, основной</text></cit>
 </sense>
 </entry>
 </superEntry>

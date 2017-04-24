@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-масса, толпа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масса, толпа</text></cit>
 <сit type="example"><text>de arbeidende masser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудящиеся массы</text></cit></cit>
 </sense>
 <sense>
-<u>физ.</u> масса
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>масса</text></cit>
 <сit type="example"><text>flytende masse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жидкая масса</text></cit></cit>
 <сit type="example"><text>glødende masse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскалённая масса</text></cit></cit>
 <сit type="example"><text>hard (kompakt) masse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдая масса</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> множество, груда, куча
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>множество, груда, куча</text></cit>
 <сit type="example"><text>i store masser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во множестве</text></cit></cit>
 </sense>
 </entry>
@@ -26,7 +28,8 @@
 <form>
 <orth type="lemma">masse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>дет.</u> животик
+<usg>дет.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>животик</text></cit>
 </sense>
 </entry>
 </superEntry>

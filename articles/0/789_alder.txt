@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-eren, -rer</orth></inflection>
 </form>
 <sense>
-возраст
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возраст</text></cit>
 <сit type="example"><text>høy alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почтенный возраст</text></cit></cit>
 <сit type="example"><text>farlig alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переходный (опасный) возраст</text></cit></cit>
 <сit type="example"><text>med alderen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с годами, с возрастом</text></cit></cit>
@@ -19,12 +19,12 @@
 <сit type="example"><text>være på alder med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть одних лет с кем-л.</text></cit></cit>
 </sense>
 <sense>
-старость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старость</text></cit>
 <сit type="example"><text>dra på alderen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стареть</text></cit></cit>
 <сit type="example"><text>være til alders</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в преклонном возрасте</text></cit></cit>
 </sense>
 <sense>
-век (исторический период)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>век (исторический период)</text></cit>
 <сit type="example"><text>den gyllne alder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотой век</text></cit></cit>
 <сit type="example"><text>fra alders tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с незапамятных времён, исстари</text></cit></cit>
 </sense>

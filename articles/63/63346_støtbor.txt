@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støtbor</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> ударный бур
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударный бур</text></cit>
 </sense>
 </entry>
 </superEntry>

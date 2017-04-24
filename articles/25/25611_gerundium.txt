@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gerundium</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-герундий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>герундий</text></cit>
 </sense>
 <sense>
-деепричастие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деепричастие</text></cit>
 </sense>
 </entry>
 </superEntry>

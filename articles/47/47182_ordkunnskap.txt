@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ordkunnskap</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лингв.</u> лексикология
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лексикология</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">satinermaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фото</u> машинка для сатинирования фотографий
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>машинка для сатинирования фотографий</text></cit>
 </sense>
 </entry>
 </superEntry>

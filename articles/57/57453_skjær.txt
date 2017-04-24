@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-свет, отсвет, отблеск, проблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свет, отсвет, отблеск, проблеск</text></cit>
 <сit type="example"><text>skjær av smil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкая улыбка</text></cit></cit>
 </sense>
 <sense>
-блеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блеск</text></cit>
 </sense>
 <sense>
-оттенок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оттенок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">skjær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-шхеры; подводный камень <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шхеры; подводный камень <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>et blindt skjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подводный риф, подводная скала</text></cit></cit>
 </sense>
 </entry>
@@ -33,22 +33,24 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-порез, разрез, зарубина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порез, разрез, зарубина</text></cit>
 </sense>
 <sense>
-след от коньков (на льду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>след от коньков (на льду)</text></cit>
 </sense>
 <sense>
-лемех (плуга)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лемех (плуга)</text></cit>
 </sense>
 <sense>
-бородка ключа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бородка ключа</text></cit>
 </sense>
 <sense>
-<u>диал.</u> торфоразработки
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торфоразработки</text></cit>
 </sense>
 <sense>
-<u>мор.</u> :
+<usg>мор.</usg>
+:
 <сit type="example"><text>ta et skjær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>резко свернуть с курса, отклониться от курса</text></cit></cit>
 </sense>
 </entry>
@@ -57,23 +59,22 @@
 <form>
 <orth type="lemma">skjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-чистый <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-ясный, чёткий, безоблачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ясный, чёткий, безоблачный</text></cit>
 </sense>
 <sense>
-нежный (о краске, запахе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежный (о краске, запахе)</text></cit>
 </sense>
 <sense>
-прозрачный, просвечивающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прозрачный, просвечивающий</text></cit>
 </sense>
 <sense>
-целомудренный, неиспорченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целомудренный, неиспорченный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -81,9 +82,8 @@
 <form>
 <orth type="lemma">skjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-зрелый, созревший, поспевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрелый, созревший, поспевший</text></cit>
 </sense>
 </entry>
 <entry>
@@ -91,9 +91,8 @@
 <form>
 <orth type="lemma">skjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-пугливый, робкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пугливый, робкий</text></cit>
 </sense>
 </entry>
 </superEntry>

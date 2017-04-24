@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">melkeytelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>с.-х.</u> удойность молока
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удойность молока</text></cit>
 </sense>
 </entry>
 </superEntry>

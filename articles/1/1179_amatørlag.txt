@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">amatørlag</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> команда, состоящая из любителей
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>команда, состоящая из любителей</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">glume</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-мрачнеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачнеть</text></cit>
 </sense>
 <sense>
-бросать мрачные взгляды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать мрачные взгляды</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-коврик (у кровати)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коврик (у кровати)</text></cit>
 </sense>
 <sense>
-половик, дорожка (на полу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>половик, дорожка (на полу)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">rye</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> помещение для сушки, сушильня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение для сушки, сушильня</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,8 @@
 <form>
 <orth type="lemma">rye</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> каменистое нагорье
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменистое нагорье</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">veibar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-проезжий, годный для проезда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проезжий, годный для проезда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,9 +14,8 @@
 <form>
 <orth type="lemma">veibar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-весомый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весомый</text></cit>
 </sense>
 </entry>
 </superEntry>

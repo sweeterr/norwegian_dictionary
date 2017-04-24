@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gitterslange</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> питон сетчатый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питон сетчатый</text></cit>
 </sense>
 </entry>
 </superEntry>

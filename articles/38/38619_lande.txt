@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lande</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-ветер с суши, восточный ветер (для Западной Норвегии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветер с суши, восточный ветер (для Западной Норвегии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,18 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-высаживать(ся) на берег
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высаживать(ся) на берег</text></cit>
 </sense>
 <sense>
-опуститься на землю (о птице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опуститься на землю (о птице)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> приставать (причаливать) к берегу
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приставать (причаливать) к берегу</text></cit>
 </sense>
 <sense>
-<u>ав.</u> делать посадку, приземляться <u>тж. перен.</u>
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать посадку, приземляться <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 </superEntry>

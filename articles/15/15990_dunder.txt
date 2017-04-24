@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dunder</orth>
 <inflection><orth extent="part">-eret (-ret)</orth></inflection>
-грохот, гром, раскаты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грохот, гром, раскаты</text></cit>
 <сit type="example"><text>sende til dunders</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послать к чёрту</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">dunder</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-народная игра в карты (в Норвегии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народная игра в карты (в Норвегии)</text></cit>
 </sense>
 </entry>
 </superEntry>

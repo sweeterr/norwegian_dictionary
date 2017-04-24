@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-диафильм, диапозитив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диафильм, диапозитив</text></cit>
 </sense>
 <sense>
-яркое изображение (быта, нравов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркое изображение (быта, нравов)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> дагерротип
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дагерротип</text></cit>
 </sense>
 </entry>
 </superEntry>

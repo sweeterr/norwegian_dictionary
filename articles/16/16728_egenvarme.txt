@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">egenvarme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>физ.</u> удельная теплоёмкость (вещества)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удельная теплоёмкость (вещества)</text></cit>
 </sense>
 </entry>
 </superEntry>

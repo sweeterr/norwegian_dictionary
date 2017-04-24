@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">helfigur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фото</u> портрет во весь рост
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портрет во весь рост</text></cit>
 </sense>
 </entry>
 </superEntry>

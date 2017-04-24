@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">selvskreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-бесспорный, неоспоримый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесспорный, неоспоримый</text></cit>
 </sense>
 <sense>
-собственноручный, подлинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собственноручный, подлинный</text></cit>
 </sense>
 </entry>
 </superEntry>

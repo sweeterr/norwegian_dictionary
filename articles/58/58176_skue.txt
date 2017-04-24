@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-зрелище, вид
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрелище, вид</text></cit>
 <сit type="example"><text>komme til skue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>появиться (в поле зрения)</text></cit></cit>
 </sense>
 <sense>
-обзор, осмотр, обозрение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обзор, осмотр, обозрение</text></cit>
 <сit type="example"><text>stille til skue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выставлять для обозрения, выставлять напоказ</text></cit></cit>
 </sense>
 </entry>
@@ -22,10 +22,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-смотреть, глядеть, обозревать, рассматривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть, глядеть, обозревать, рассматривать</text></cit>
 </sense>
 <sense>
-предвидеть, предугадать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвидеть, предугадать</text></cit>
 <сit type="example"><text>skue inn (i)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заглядывать (куда-л.)</text></cit></cit>
 <сit type="example"><text>skue ned på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть с презрением на кого-л., презирать</text></cit></cit>
 </sense>

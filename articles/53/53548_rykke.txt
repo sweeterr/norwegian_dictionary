@@ -7,34 +7,34 @@
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
 </form>
 <sense>
-дёргать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дёргать</text></cit>
 <сit type="example"><text>rykke én i ermet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дёргать кого-л. за рукав</text></cit></cit>
 <сit type="example"><text>rykke seg i håret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рвать на себе волосы</text></cit></cit>
 </sense>
 <sense>
-пожимать (плечами - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожимать (плечами - på)</text></cit>
 </sense>
 <sense>
-толкать, пихать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкать, пихать</text></cit>
 <сit type="example"><text>rykke til side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отодвигать рывком в сторону</text></cit></cit>
 </sense>
 <sense>
-продвигаться, двигаться (о войсках, экспедиции)
-<сit type = "example"><text>rykke i marken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> выступить в поход</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продвигаться, двигаться (о войсках, экспедиции)</text></cit>
+<сit type = "example"><text>rykke i marken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> выступить в поход</text></cit></cit>
 <сit type = "example"><text>rykke i marken :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вступить в спор</text></cit></cit>
 <сit type="example"><text>rykke nærmere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>придвинуться</text></cit></cit>
 <сit type="example"><text>rykke bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уносить (о смерти, болезни)</text></cit></cit>
 <сit type="example"><text>rykke én for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>требовать возврата (вещи, данной для пользования)</text></cit></cit>
 <сit type = "example"><text>rykke fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> продвигаться, двигаться вперёд</text></cit></cit>
-<сit type = "example"><text>rykke fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> наступать</text></cit></cit>
+<сit type = "example"><text>rykke fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> наступать</text></cit></cit>
 <сit type = "example"><text>rykke inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> помещать (в газету)</text></cit></cit>
 <сit type = "example"><text>rykke inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вставлять (в корректуру)</text></cit></cit>
-<сit type = "example"><text>rykke inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> вторгаться</text></cit></cit>
+<сit type = "example"><text>rykke inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> вторгаться</text></cit></cit>
 <сit type="example"><text>rykke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвинуться, продвинуться на службе</text></cit></cit>
 <сit type="example"><text>rykke opp med rot (en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> вырвать с корнем</text></cit></cit>
 <сit type="example"><text>rykke sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> стягивать(ся), собирать(ся)</text></cit></cit>
 <сit type = "example"><text>rykke tilbake :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пятиться</text></cit></cit>
-<сit type = "example"><text>rykke tilbake :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> оттягивать (войска)</text></cit></cit>
+<сit type = "example"><text>rykke tilbake :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> оттягивать (войска)</text></cit></cit>
 <сit type="example"><text>rykke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> выступать (о войсках)</text></cit></cit>
 <сit type="example"><text>rykke ut med (penger)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкладывать (деньги)</text></cit></cit>
 </sense>

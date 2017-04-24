@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakspeil</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>авт.</u> зеркало заднего обзора, зеркало заднего вида
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зеркало заднего обзора, зеркало заднего вида</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">timeakse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>астр.</u> полярная или часовая ось
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полярная или часовая ось</text></cit>
 </sense>
 </entry>
 </superEntry>

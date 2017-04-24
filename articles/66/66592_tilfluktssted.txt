@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tilfluktssted</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>перен.</u> убежище, приют
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убежище, приют</text></cit>
 </sense>
 </entry>
 </superEntry>

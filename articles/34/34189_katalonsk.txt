@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">katalonsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-каталонский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каталонский</text></cit>
 </sense>
 </entry>
 </superEntry>

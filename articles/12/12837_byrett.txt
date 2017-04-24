@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-городской суд (по гражданским и уголовным делам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городской суд (по гражданским и уголовным делам)</text></cit>
 </sense>
 <sense>
-суд в четырёх крупнейших городах Норвегии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суд в четырёх крупнейших городах Норвегии</text></cit>
 </sense>
 <sense>
-<u>ист.</u> городской закон
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городской закон</text></cit>
 </sense>
 </entry>
 </superEntry>

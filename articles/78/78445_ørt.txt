@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ørt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> жвачка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жвачка</text></cit>
 </sense>
 </entry>
 </superEntry>

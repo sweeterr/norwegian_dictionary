@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -е</orth></inflection>
 </form>
 <sense>
-вязальщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вязальщик</text></cit>
 </sense>
 <sense>
-вязальная машина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вязальная машина</text></cit>
 </sense>
 <sense>
-<u>архит.</u> стропильная ферма
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стропильная ферма</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> сноповязалка
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сноповязалка</text></cit>
 </sense>
 </entry>
 </superEntry>

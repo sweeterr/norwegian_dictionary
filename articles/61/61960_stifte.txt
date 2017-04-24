@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-основывать, создавать, учреждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основывать, создавать, учреждать</text></cit>
 </sense>
 <sense>
-устраивать (заговор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать (заговор)</text></cit>
 </sense>
 <sense>
-заключать (брак), заводить (знакомство, семью)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заключать (брак), заводить (знакомство, семью)</text></cit>
 </sense>
 <sense>
-устанавливать (порядок, закон, налог)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать (порядок, закон, налог)</text></cit>
 </sense>
 <sense>
-быть причиной, вызывать, порождать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть причиной, вызывать, порождать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,10 +29,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-прикреплять шпильками, пришпиливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикреплять шпильками, пришпиливать</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> брошюровать
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брошюровать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">charnier</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> шарнир, гибкое соединение, гук
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шарнир, гибкое соединение, гук</text></cit>
 </sense>
 </entry>
 </superEntry>

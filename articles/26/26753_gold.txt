@@ -6,20 +6,19 @@
 <orth type="lemma">gold</orth>
 <phon>|gol:|</phon>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесплодный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплодный</text></cit>
 </sense>
 <sense>
-пустой (о колосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустой (о колосе)</text></cit>
 </sense>
 <sense>
-неплодородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неплодородный</text></cit>
 </sense>
 <sense>
-бесполезный, безрезультатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесполезный, безрезультатный</text></cit>
 </sense>
 </entry>
 </superEntry>

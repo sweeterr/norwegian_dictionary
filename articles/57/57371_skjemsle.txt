@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjemsle</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> выговор, нотация
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выговор, нотация</text></cit>
 </sense>
 </entry>
 </superEntry>

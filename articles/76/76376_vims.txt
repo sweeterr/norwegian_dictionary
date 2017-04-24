@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vims</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-непоседа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непоседа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vims</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-нервный, беспокойный, суетливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нервный, беспокойный, суетливый</text></cit>
 </sense>
 </entry>
 </superEntry>

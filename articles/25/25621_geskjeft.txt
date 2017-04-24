@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">geskjeft</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-работа, дело, занятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работа, дело, занятие</text></cit>
 </sense>
 <sense>
-фирма, предприятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фирма, предприятие</text></cit>
 <сit type="example"><text>føre en geskjeft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести дело (предприятие)</text></cit></cit>
 </sense>
 <sense>
-магазин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магазин</text></cit>
 <сit type="example"><text>drive en geskjeft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь магазин</text></cit></cit>
 <сit type="example"><text>om søndagen hviler geskjeften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по воскресеньям магазин закрыт</text></cit></cit>
 </sense>

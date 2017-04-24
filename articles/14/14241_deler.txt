@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">deler</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>тех.</u> делитель, распределитель
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делитель, распределитель</text></cit>
 </sense>
 </entry>
 </superEntry>

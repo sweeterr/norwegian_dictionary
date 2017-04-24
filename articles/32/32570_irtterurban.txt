@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">irtterurban</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-междугородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>междугородный</text></cit>
 </sense>
 </entry>
 </superEntry>

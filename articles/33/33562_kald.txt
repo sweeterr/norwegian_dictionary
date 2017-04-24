@@ -5,30 +5,29 @@
 <form>
 <orth type="lemma">kald</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-холодный <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>det blir kaldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежеет, холодает</text></cit></cit>
 <сit type="example"><text>det er bitende kaldt ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на улице жгучий мороз</text></cit></cit>
 <сit type="example"><text>isende kaldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>леденяще холодно</text></cit></cit>
 <сit type="example"><text>det løper kaldt nedover ryggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодок бежит по спине, мурашки бегают по спине</text></cit></cit>
 </sense>
 <sense>
-морозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морозный</text></cit>
 </sense>
 <sense>
-остывший, охлаждённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остывший, охлаждённый</text></cit>
 </sense>
 <sense>
-нетопленый, неотапливаемый (о помещении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нетопленый, неотапливаемый (о помещении)</text></cit>
 </sense>
 <sense>
-бесстрастный, равнодушный, бесчувственный, хладнокровный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесстрастный, равнодушный, бесчувственный, хладнокровный</text></cit>
 </sense>
 <sense>
-холоднокровный (о рыбах и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холоднокровный (о рыбах и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

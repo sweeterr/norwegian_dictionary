@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bankenes oppgjør</orth>
 <gramGrp><num>pl</num></gramGrp>
-<u>банк.</u> остатки счётов в банке
+<usg>банк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остатки счётов в банке</text></cit>
 </sense>
 </entry>
 </superEntry>

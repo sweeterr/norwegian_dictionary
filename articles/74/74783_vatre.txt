@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vatre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>текст.</u> муарировать
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муарировать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">vatre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-устанавливать в горизонтальном положении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать в горизонтальном положении</text></cit>
 </sense>
 </entry>
 </superEntry>

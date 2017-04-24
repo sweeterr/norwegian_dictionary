@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-точка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка</text></cit>
 <сit type="example"><text>sette prikken over i'en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить точки над i</text></cit></cit>
 </sense>
 <sense>
-крапинка, пятнышко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крапинка, пятнышко</text></cit>
 <сit type="example"><text>på en prikk, på prikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всяких отклонений; в совершенстве, точь-в-точь</text></cit></cit>
 <сit type = "example"><text>til punkt og prikk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> совершенно точно</text></cit></cit>
 <сit type = "example"><text>til punkt og prikk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> как полагается</text></cit></cit>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">prikk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-укол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укол</text></cit>
 </sense>
 </entry>
 </superEntry>

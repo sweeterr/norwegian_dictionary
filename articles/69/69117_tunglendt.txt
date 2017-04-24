@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tunglendt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-труднопроходимый (о местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труднопроходимый (о местности)</text></cit>
 </sense>
 <sense>
-труднообрабатываемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труднообрабатываемый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">leirjernstein</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> карбонатная железная руда с примесью глины
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карбонатная железная руда с примесью глины</text></cit>
 </sense>
 </entry>
 </superEntry>

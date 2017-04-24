@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kolonial</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-бакалейные (колониальные) товары, бакалея
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бакалейные (колониальные) товары, бакалея</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">kolonial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-колониальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колониальный</text></cit>
 </sense>
 </entry>
 </superEntry>

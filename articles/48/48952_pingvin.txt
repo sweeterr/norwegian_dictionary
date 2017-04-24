@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pingvin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пингвин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пингвин</text></cit>
 </sense>
 </entry>
 </superEntry>

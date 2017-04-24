@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">stade</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-точка зрения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точка зрения</text></cit>
 </sense>
 <sense>
-стадия, ступень (в развитии), уровень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стадия, ступень (в развитии), уровень</text></cit>
 </sense>
 <sense>
-место, позиция, расположение, местонахождение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место, позиция, расположение, местонахождение</text></cit>
 </sense>
 </entry>
 </superEntry>

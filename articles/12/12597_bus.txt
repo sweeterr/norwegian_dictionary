@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bus</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> сильная буря
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильная буря</text></cit>
 <сit type="example"><text>ha (være på) et bus</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опьянеть, быть под хмельком</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,7 @@
 <form>
 <orth type="lemma">bus</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-необдуманно, опрометчиво
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необдуманно, опрометчиво</text></cit>
 <сit type="example"><text>gå (løpe) bus på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти (бежать) прямо к (чему-л.)</text></cit></cit>
 </sense>
 </entry>

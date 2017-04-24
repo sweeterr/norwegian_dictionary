@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">ærbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-почтенный, уважаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтенный, уважаемый</text></cit>
 </sense>
 <sense>
-честный, порядочный, добросовестный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честный, порядочный, добросовестный</text></cit>
 </sense>
 <sense>
-приличный, скромный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приличный, скромный</text></cit>
 </sense>
 </entry>
 </superEntry>

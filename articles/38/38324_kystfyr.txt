@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kystfyr</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> береговой маяк
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>береговой маяк</text></cit>
 </sense>
 </entry>
 </superEntry>

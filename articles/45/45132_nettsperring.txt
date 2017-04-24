@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nettsperring</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> сетевое заграждение
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сетевое заграждение</text></cit>
 </sense>
 </entry>
 </superEntry>

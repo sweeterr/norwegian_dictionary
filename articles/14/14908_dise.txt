@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dise</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-затуманиваться, покрываться дымкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затуманиваться, покрываться дымкой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">dise</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-быть с кем-л. на «вы»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть с кем-л. на «вы»</text></cit>
 </sense>
 </entry>
 </superEntry>

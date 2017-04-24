@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-состав (вещества, коллектива)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состав (вещества, коллектива)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> словосложение
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словосложение</text></cit>
 </sense>
 <sense>
-<u>грам.</u> сложное слово
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сложное слово</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">overkjørsel</orth>
 <inflection><orth extent="part">-elen (-la), -ler</orth></inflection>
-<u>ж.-д.</u> переезд
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переезд</text></cit>
 </sense>
 </entry>
 </superEntry>

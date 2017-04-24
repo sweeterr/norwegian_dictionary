@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nazist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-нацист, фашист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нацист, фашист</text></cit>
 </sense>
 </entry>
 </superEntry>

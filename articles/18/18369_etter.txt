@@ -7,30 +7,30 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-позади
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позади</text></cit>
 <сit type="example"><text>bli etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отстать</text></cit></cit>
 </sense>
 <sense>
-спустя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спустя</text></cit>
 <сit type="example"><text>dagen etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на следующий день, на другой день</text></cit></cit>
 <сit type="example"><text>lenge etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>много времени спустя</text></cit></cit>
 <сit type="example"><text>litt etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскоре</text></cit></cit>
 </sense>
 <sense>
-указывает на интенсивность действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на интенсивность действия:</text></cit>
 <сit type="example"><text>det ljomet etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавалось эхом</text></cit></cit>
 <сit type="example"><text>det sang etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавалось в ушах</text></cit></cit>
 <сit type="example"><text>han skriver så det står etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пишет так, что скрип стоит</text></cit></cit>
 <сit type="example"><text>han kjører så det står etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он едет так, что пыль подымается (столбом)</text></cit></cit>
 </sense>
 <sense>
-указывает, что действие совершается с определённой целью, в определённом направлении:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает, что действие совершается с определённой целью, в определённом направлении:</text></cit>
 <сit type="example"><text>se etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следить, выслеживать</text></cit></cit>
 <сit type="example"><text>høre etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прислушиваться, подслушивать</text></cit></cit>
 <сit type="example"><text>sette etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>броситься (за кем-л.)</text></cit></cit>
 </sense>
 <sense>
-указывает, что действие совершается по определённому образцу:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает, что действие совершается по определённому образцу:</text></cit>
 <сit type="example"><text>gjøre etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подражать</text></cit></cit>
 <сit type="example"><text>synge etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подпевать</text></cit></cit>
 </sense>
@@ -42,66 +42,66 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении указывает на местонахождение позади (после) данного предмета, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на местонахождение позади (после) данного предмета, за</text></cit>
 <сit type="example"><text>stå etter hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять один за другим</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на последовательное расположение ряда предметов один за другим, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на последовательное расположение ряда предметов один за другим, за</text></cit>
 <сit type="example"><text>holmene, som midt i fjorden, en etter en, fulgte hverandre innover</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>островки, которые в средине фиорда следовали один за другим</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на движение одного предмета непосредственно после другого, за, вслед за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на движение одного предмета непосредственно после другого, за, вслед за</text></cit>
 <сit type="example"><text>han tok stykke etter stykke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он брал кусок за куском</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на движение по направлению движения другого предмета по
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на движение по направлению движения другого предмета по</text></cit>
 <сit type="example"><text>styre etter stjernene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести корабль по звёздам</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на движение вдоль чего-л., вдоль, по
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на движение вдоль чего-л., вдоль, по</text></cit>
 <сit type="example"><text>etter fjorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдоль фиорда</text></cit></cit>
 <сit type="example"><text>etter skigardene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по заборам (вдоль заборов)</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на движение под звуки чего-л., под
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на движение под звуки чего-л., под</text></cit>
 <сit type="example"><text>danse etter musikken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>танцевать под музыку</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на последовательную смену явлений, событий, фактов, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на последовательную смену явлений, событий, фактов, за</text></cit>
 <сit type="example"><text>dag etter dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>день за днём</text></cit></cit>
 <сit type="example"><text>år etter år</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>год за годом</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на промежуток времени, после которого произошло действие, спустя, после, через
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на промежуток времени, после которого произошло действие, спустя, после, через</text></cit>
 <сit type="example"><text>etter fem åts forløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять лет спустя, через пять лет</text></cit></cit>
 </sense>
 <sense>
-указывает на следование одного предмета за другим по роли, значению, удельному весу и т. д., после
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на следование одного предмета за другим по роли, значению, удельному весу и т. д., после</text></cit>
 <сit type="example"><text>etter Oslo er Bergen den største by i Norge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Берген - следующий по величине после Осло город в Норвегии</text></cit></cit>
 </sense>
 <sense>
-указывает на сходство с оригиналом или подражание кому, чему-л., по, по сходству с, переводится также формой родительного падежа:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на сходство с оригиналом или подражание кому, чему-л., по, по сходству с, переводится также формой родительного падежа:</text></cit>
 <сit type="example"><text>han hadde øyne etter faren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него были глаза его отца</text></cit></cit>
 </sense>
 <sense>
-указывает на соответствие свойствам, качествам, взглядам, обычаям, размерам, образцам, моделям, по, согласно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на соответствие свойствам, качествам, взглядам, обычаям, размерам, образцам, моделям, по, согласно</text></cit>
 <сit type="example"><text>etter skikk og bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласно нравам и обычаям</text></cit></cit>
 <сit type="example"><text>hun var kledd etter siste mote</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она была одета по последней моде</text></cit></cit>
 </sense>
 <sense>
-указывает на цель действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на цель действия:</text></cit>
 <сit type="example"><text>hun gikk etter vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она пошла за водой</text></cit></cit>
 </sense>
 <sense>
-указывает на проявление внимания, заботы, интереса, тоски и т. д., по, о
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на проявление внимания, заботы, интереса, тоски и т. д., по, о</text></cit>
 <сit type="example"><text>lenges etter noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скучать о ком-л., тосковать по ком-л.</text></cit></cit>
 </sense>
 <sense>
-указывает на людей, предметы, оставшиеся после отъезда, ухода, смерти после; переводится также формой родительного падежа:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на людей, предметы, оставшиеся после отъезда, ухода, смерти после; переводится также формой родительного падежа:</text></cit>
 <сit type="example"><text>det var intet etter ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после его смерти ничего не осталось</text></cit></cit>
 </sense>
 <sense>
-после глаголов dra, rykke, sleppe, trekke указывает на предмет, при посредстве которого производится действие или на который направлено действие, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>после глаголов dra, rykke, sleppe, trekke указывает на предмет, при посредстве которого производится действие или на который направлено действие, за</text></cit>
 <сit type="example"><text>trekke en etter håret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таскать кого-л. за волосы</text></cit></cit>
 </sense>
 </entry>

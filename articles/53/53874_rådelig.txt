@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rådelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-благоразумный, целесообразный, достойный рекомендации (о чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благоразумный, целесообразный, достойный рекомендации (о чём-л.)</text></cit>
 <сit type="example"><text>det er ikke rådelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это нежелательно</text></cit></cit>
 </sense>
 </entry>

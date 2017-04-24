@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sveiser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-сварщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сварщик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-скотник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скотник</text></cit>
 </sense>
 <sense>
-работник молочной фермы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работник молочной фермы</text></cit>
 </sense>
 </entry>
 </superEntry>

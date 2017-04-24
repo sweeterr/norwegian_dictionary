@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakterieterapi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> лечение с помощью бактерий или продуктов их жизнедеятельности
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечение с помощью бактерий или продуктов их жизнедеятельности</text></cit>
 </sense>
 </entry>
 </superEntry>

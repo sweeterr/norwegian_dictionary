@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blindgjenger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>воен.</u> неразорвавшийся снаряд
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразорвавшийся снаряд</text></cit>
 </sense>
 </entry>
 </superEntry>

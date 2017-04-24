@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tilleggskost</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> дополнительное питание (для больных)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дополнительное питание (для больных)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-краткосрочный отпуск, <u>воен.</u> увольнение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краткосрочный отпуск, <lbl>воен.</lbl> увольнение</text></cit>
 </sense>
 <sense>
-<u>уст.</u> разрешение, позволение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрешение, позволение</text></cit>
 <сit type="example"><text>med permisjon (å si)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с позволения сказать</text></cit></cit>
 </sense>
 </entry>

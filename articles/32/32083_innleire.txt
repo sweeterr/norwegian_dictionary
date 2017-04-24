@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">innleire</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>геол.</u>
+<usg>геол.</usg>
 </form>
 <sense>
-откладывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откладывать</text></cit>
 </sense>
 <sense>
-откладываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>откладываться</text></cit>
 </sense>
 </entry>
 </superEntry>

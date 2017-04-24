@@ -7,23 +7,23 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-позволять, разрешать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позволять, разрешать</text></cit>
 </sense>
 <sense>
-допускать, делать возможным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>допускать, делать возможным</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">tilstede</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adv</pos></gramGrp>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(быть) на месте</quote>
+<text>(быть) на месте</text>
 </cit>
 <сit type="example"><text>være tilstede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>присутствовать</text></cit></cit>
 <ref>sted</ref>

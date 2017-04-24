@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-видимость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>видимость</text></cit>
 </sense>
 <sense>
-вид, обзор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вид, обзор</text></cit>
 <сit type="example"><text>ved (etter) sikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при предъявлении, по предъявлении</text></cit></cit>
 </sense>
 <sense>
-срок векселя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>срок векселя</text></cit>
 <сit type="example"><text>på kort (lang) sikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на короткий (длительный) срок</text></cit></cit>
 </sense>
 </entry>
@@ -23,13 +23,13 @@
 <form>
 <orth type="lemma">sikt</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-решето, сито
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решето, сито</text></cit>
 </sense>
 <sense>
-фильтр, очиститель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фильтр, очиститель</text></cit>
 </sense>
 </entry>
 </superEntry>

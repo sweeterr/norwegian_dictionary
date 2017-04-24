@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">morsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-забавный, развлекательный, весёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забавный, развлекательный, весёлый</text></cit>
 </sense>
 <sense>
-занимательный, занятный, интересный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>занимательный, занятный, интересный</text></cit>
 </sense>
 <sense>
-приятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приятный</text></cit>
 </sense>
 </entry>
 </superEntry>

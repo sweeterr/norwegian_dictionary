@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bibelhistorie</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-история Библии, изучение Библии (школьный предмет)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история Библии, изучение Библии (школьный предмет)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nefritt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> нефрит, воспаление почек
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нефрит, воспаление почек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">nefritt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мин.</u> нефрит
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нефрит</text></cit>
 </sense>
 </entry>
 </superEntry>

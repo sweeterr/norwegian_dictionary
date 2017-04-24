@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">interferere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>физ.</u> интерферировать, вызывать интерференцию
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интерферировать, вызывать интерференцию</text></cit>
 </sense>
 </entry>
 </superEntry>

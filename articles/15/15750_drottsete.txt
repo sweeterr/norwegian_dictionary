@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drottsete</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u> резиденция наместника
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резиденция наместника</text></cit>
 </sense>
 </entry>
 </superEntry>

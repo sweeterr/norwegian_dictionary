@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">malmfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-богатый рудами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый рудами</text></cit>
 </sense>
 <sense>
-металлический (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлический (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

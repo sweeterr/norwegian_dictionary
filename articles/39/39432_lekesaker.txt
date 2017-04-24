@@ -8,10 +8,11 @@
 <gramGrp><num>pl</num></gramGrp>
 </form>
 <sense>
-игрушки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игрушки</text></cit>
 </sense>
 <sense>
-<u>уст.</u> музыкальные инструменты, настольные игры
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыкальные инструменты, настольные игры</text></cit>
 </sense>
 </entry>
 </superEntry>

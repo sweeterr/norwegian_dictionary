@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">solhøyde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>астр.</u> высота солнца над горизонтом
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высота солнца над горизонтом</text></cit>
 </sense>
 </entry>
 </superEntry>

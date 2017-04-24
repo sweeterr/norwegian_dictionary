@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">retur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-возвращение, возврат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвращение, возврат</text></cit>
 </sense>
 <sense>
-обратная поездка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратная поездка</text></cit>
 <сit type = "example"><text>på retur :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> на обратном пути</text></cit></cit>
 <сit type = "example"><text>på retur :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> на склоне лет, на закате жизни</text></cit></cit>
 <сit type="example"><text>tur og retur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>туда и обратно:</text></cit></cit>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">retur</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-обратно, назад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратно, назад</text></cit>
 </sense>
 </entry>
 </superEntry>

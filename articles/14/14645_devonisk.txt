@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">devonisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>геол.</u> девонский
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девонский</text></cit>
 </sense>
 </entry>
 </superEntry>

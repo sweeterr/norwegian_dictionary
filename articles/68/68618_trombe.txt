@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trombe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-смерч, торнадо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смерч, торнадо</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">trombe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мед.</u> тромб
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тромб</text></cit>
 </sense>
 </entry>
 </superEntry>

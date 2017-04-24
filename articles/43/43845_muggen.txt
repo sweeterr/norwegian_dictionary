@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">muggen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-заплесневелый, покрытый плесенью, затхлый, испортившийся (о продуктах питания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплесневелый, покрытый плесенью, затхлый, испортившийся (о продуктах питания)</text></cit>
 </sense>
 <sense>
-ворчливый, недовольный, хмурый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворчливый, недовольный, хмурый</text></cit>
 <сit type="example"><text>det er noe muggent ved affæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>здесь дело нечисто</text></cit></cit>
 </sense>
 </entry>

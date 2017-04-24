@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">håpefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полный надежд, надеющийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный надежд, надеющийся</text></cit>
 </sense>
 <sense>
-подающий надежды, многообещающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подающий надежды, многообещающий</text></cit>
 </sense>
 </entry>
 </superEntry>

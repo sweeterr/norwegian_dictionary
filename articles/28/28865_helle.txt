@@ -7,38 +7,39 @@
 <inflection><orth extent="part">-a, -er</orth></inflection>
 </form>
 <sense>
-каменная плита, плоский камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменная плита, плоский камень</text></cit>
 </sense>
 <sense>
-каменный порожек перед входной дверью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменный порожек перед входной дверью</text></cit>
 </sense>
 <sense>
-противень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противень</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">helle</orth>
--te , 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-te ,</text></cit>
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-быть в наклонном положении, иметь наклон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть в наклонном положении, иметь наклон</text></cit>
 <сit type="example"><text>helle på (med) hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>склонить голову</text></cit></cit>
 </sense>
 <sense>
-принять наклонное положение, наклониться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принять наклонное положение, наклониться</text></cit>
 <сit type="example"><text>helle til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>склоняться (к какому-л. мнению, к какой-л. точке зрения)</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> клониться к закату (о солнце)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клониться к закату (о солнце)</text></cit>
 </sense>
 <sense>
-приближаться к концу (об отрезке времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приближаться к концу (об отрезке времени)</text></cit>
 </sense>
 <sense>
-наливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наливать</text></cit>
 <сit type="example"><text>helle ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опустошить (сосуд)</text></cit></cit>
 <сit type="example"><text>helle én ut på dør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выставить кого-л. за дверь</text></cit></cit>
 </sense>

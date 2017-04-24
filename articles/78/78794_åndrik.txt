@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">åndrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-остроумный, одарённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остроумный, одарённый</text></cit>
 </sense>
 <sense>
-одухотворённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одухотворённый</text></cit>
 </sense>
 </entry>
 </superEntry>

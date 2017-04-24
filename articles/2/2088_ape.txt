@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ape</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-обезьяна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обезьяна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +15,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-пустословить, болтать вздор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустословить, болтать вздор</text></cit>
 <сit type="example"><text>ape på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать возню (шум)</text></cit></cit>
 </sense>
 <sense>
-гримасничать, кривляться, обезьянничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гримасничать, кривляться, обезьянничать</text></cit>
 <сit type="example"><text>ape etter en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подражать кому-л., передразнивать кого-л.</text></cit></cit>
 <сit type="example"><text>ape seg inn på (noen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приставать, привязываться к (кому-л.)</text></cit></cit>
 </sense>

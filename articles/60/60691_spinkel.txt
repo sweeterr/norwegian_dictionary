@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">spinkel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-худой, тщедушный, хилый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>худой, тщедушный, хилый</text></cit>
 </sense>
 <sense>
-тонкий, хрупкий, изящный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, хрупкий, изящный</text></cit>
 </sense>
 <sense>
-поверхностный, неглубокий (по содержанию)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поверхностный, неглубокий (по содержанию)</text></cit>
 </sense>
 </entry>
 </superEntry>

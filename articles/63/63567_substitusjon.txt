@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-замена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замена</text></cit>
 </sense>
 <sense>
-субституция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>субституция</text></cit>
 </sense>
 <sense>
-<u>мат.</u> подстановка
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подстановка</text></cit>
 </sense>
 </entry>
 </superEntry>

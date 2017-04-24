@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">varle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-двигаться туда и сюда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигаться туда и сюда</text></cit>
 </sense>
 <sense>
-барахтаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барахтаться</text></cit>
 </sense>
 <sense>
-комкать (бумагу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комкать (бумагу)</text></cit>
 </sense>
 </entry>
 </superEntry>

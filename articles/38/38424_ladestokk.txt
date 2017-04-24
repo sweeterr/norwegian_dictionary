@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ladestokk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-шомпол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шомпол</text></cit>
 </sense>
 <sense>
-прибойник (у орудия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибойник (у орудия)</text></cit>
 </sense>
 </entry>
 </superEntry>

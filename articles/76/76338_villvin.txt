@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">villvin</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> девичий виноград садовый
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девичий виноград садовый</text></cit>
 </sense>
 </entry>
 </superEntry>

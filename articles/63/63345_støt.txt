@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et (-en), = (-er)</orth></inflection>
 </form>
 <sense>
-удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар</text></cit>
 <сit type="example"><text>det siste støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смертельный удар</text></cit></cit>
 <сit type="example"><text>bibringe én et støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наносить удар кому-л.</text></cit></cit>
 <сit type="example"><text>gi et støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ударить, толкнуть</text></cit></cit>
@@ -15,28 +15,31 @@
 <сit type="example"><text>ta støtet av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>парировать (отражать) удар</text></cit></cit>
 </sense>
 <sense>
-толчок, рывок, импульс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчок, рывок, импульс</text></cit>
 </sense>
 <sense>
-потрясение, шок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрясение, шок</text></cit>
 </sense>
 <sense>
-порыв (ветра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порыв (ветра)</text></cit>
 <сit type="example"><text>støt av musikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звуки музыки (раздавшиеся неожиданно)</text></cit></cit>
 </sense>
 <sense>
-большой глоток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой глоток</text></cit>
 </sense>
 <sense>
-<u>воен.</u> напор, натиск
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напор, натиск</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> толчок (в поднятии штанги)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчок (в поднятии штанги)</text></cit>
 <сit type="example"><text>to arms støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толчок двумя руками</text></cit></cit>
 <сit type="example"><text>venstre arms støt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>толчок левой рукой</text></cit></cit>
 </sense>
 <sense>
-<u>фон.</u> затвор, смычка
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затвор, смычка</text></cit>
 </sense>
 </entry>
 </superEntry>

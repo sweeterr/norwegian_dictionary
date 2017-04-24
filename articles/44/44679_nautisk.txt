@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nautisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мор.</u> мореходный, навигационный
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мореходный, навигационный</text></cit>
 <сit type="example"><text>nautisk mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>морская миля (=1852 м)</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">personell</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> личный состав
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>личный состав</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">personell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-личный, персональный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>личный, персональный</text></cit>
 </sense>
 <sense>
-<u>воен.</u> относящийся к личному составу
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относящийся к личному составу</text></cit>
 </sense>
 </entry>
 </superEntry>

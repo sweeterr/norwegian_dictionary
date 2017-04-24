@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rørende</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-конец трубы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конец трубы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">rørende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-трогательный, сентиментальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трогательный, сентиментальный</text></cit>
 </sense>
 </entry>
 </superEntry>

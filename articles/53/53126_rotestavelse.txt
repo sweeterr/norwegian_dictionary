@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rotestavelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>лингв.</u> корневой слог
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корневой слог</text></cit>
 </sense>
 </entry>
 </superEntry>

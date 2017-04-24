@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">diluvium</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>геол.</u> дилювий, дилювиальная формация
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дилювий, дилювиальная формация</text></cit>
 </sense>
 </entry>
 </superEntry>

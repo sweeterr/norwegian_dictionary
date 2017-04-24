@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">indiansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-индейский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индейский</text></cit>
 </sense>
 </entry>
 </superEntry>

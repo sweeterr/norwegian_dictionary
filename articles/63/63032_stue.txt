@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-изба (в одну комнату), избушка, хижина, лачуга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изба (в одну комнату), избушка, хижина, лачуга</text></cit>
 <сit type="example"><text>reise en stue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>построить дом</text></cit></cit>
 <сit type="example"><text>sette stua på taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> перевернуть весь дом вверх дном</text></cit></cit>
 </sense>
 <sense>
-домик туриста (охотника), горная (туристская) хижина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домик туриста (охотника), горная (туристская) хижина</text></cit>
 </sense>
 <sense>
-гостиная, большая комната, помещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гостиная, большая комната, помещение</text></cit>
 </sense>
 <sense>
-палата (в больнице)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палата (в больнице)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> мебельный гарнитур
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мебельный гарнитур</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,7 @@
 <form>
 <orth type="lemma">stue</orth>
 <inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
-тушить (мясо и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тушить (мясо и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,10 +40,11 @@
 <inflection><orth extent="part">-et (-dde), -et (-dd)</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> штивать, плотно укладывать (груз в трюме)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штивать, плотно укладывать (груз в трюме)</text></cit>
 </sense>
 <sense>
-упаковывать, плотно напихивать, заставлять (что-л. чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упаковывать, плотно напихивать, заставлять (что-л. чем-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

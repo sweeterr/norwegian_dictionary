@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flire</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-густера (рыба)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густера (рыба)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">flire</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-ухмыляться, хихикать, глупо смеяться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухмыляться, хихикать, глупо смеяться</text></cit>
 </sense>
 </entry>
 </superEntry>

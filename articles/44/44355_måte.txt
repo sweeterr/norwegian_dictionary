@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-манера, способ, образ действий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>манера, способ, образ действий</text></cit>
 <сit type="example"><text>måte å behandle noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подход к чему-л., способ обращения с чем-л.</text></cit></cit>
 <сit type="example"><text>i mange måter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многими способами</text></cit></cit>
 <сit type = "example"><text>i så måte :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в этом отношении</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>på samme måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таким же способом</text></cit></cit>
 </sense>
 <sense>
-мера, предел, граница, степень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мера, предел, граница, степень</text></cit>
 <сit type="example"><text>allting med måte, det er måte med allting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всему есть предел</text></cit></cit>
 <сit type = "example"><text>i like måte :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в равной степени (мере)</text></cit></cit>
 <сit type = "example"><text>i like måte :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> и вам того же (ответ на поздравление с праздником, с Новым годом)</text></cit></cit>
@@ -28,7 +28,8 @@
 <сit type="example"><text>holde (passe) måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соблюдать меру, не допускать крайностей</text></cit></cit>
 </sense>
 <sense>
-<u>грам.</u> наклонение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наклонение</text></cit>
 <сit type="example"><text>fortellende måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изъявительное наклонение</text></cit></cit>
 </sense>
 </entry>

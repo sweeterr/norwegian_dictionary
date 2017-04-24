@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">krapp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> крапп (корень марены)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крапп (корень марены)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,23 +14,22 @@
 <form>
 <orth type="lemma">krapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тесный, узкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тесный, узкий</text></cit>
 </sense>
 <sense>
-ограниченный (о круге людей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченный (о круге людей)</text></cit>
 </sense>
 <sense>
-крутой (о волне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой (о волне)</text></cit>
 </sense>
 <sense>
-резкий, крутой (о повороте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, крутой (о повороте)</text></cit>
 </sense>
 <sense>
-резкий, быстрый (о движении, ударе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, быстрый (о движении, ударе)</text></cit>
 </sense>
 </entry>
 </superEntry>

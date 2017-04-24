@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utenbys</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-загородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загородный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">utenbys</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-за городом, за город
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>за городом, за город</text></cit>
 </sense>
 </entry>
 </superEntry>

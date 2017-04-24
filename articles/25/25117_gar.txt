@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">gar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-чистый, очищенный (о металлах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, очищенный (о металлах)</text></cit>
 </sense>
 <sense>
-дублёный (о коже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дублёный (о коже)</text></cit>
 </sense>
 </entry>
 </superEntry>

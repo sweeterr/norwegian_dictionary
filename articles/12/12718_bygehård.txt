@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bygehård</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бурный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sine</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <gramGrp><num>pl</num><note>от sin</note></gramGrp>
+<gramGrp><num>pl</num><note>от sin</note></gramGrp>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">sine</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> перестать доиться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перестать доиться</text></cit>
 </sense>
 </entry>
 </superEntry>

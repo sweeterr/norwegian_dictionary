@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gjennomkjørsel</orth>
 <inflection><orth extent="part">-elen (-la)</orth></inflection>
-сквозной проезд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сквозной проезд</text></cit>
 <сit type="example"><text>gjennomkjørsel forbudt!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проезд воспрещён!</text></cit></cit>
 </sense>
 </entry>

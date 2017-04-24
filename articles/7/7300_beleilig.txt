@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-благоприятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благоприятный</text></cit>
 </sense>
 <sense>
-удобный, подходящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удобный, подходящий</text></cit>
 <сit type="example"><text>hvis det er Dem beleilig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если это вам удобно</text></cit></cit>
 <сit type="example"><text>benytte det beleilige øyeblikket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>использовать подходящий момент</text></cit></cit>
 </sense>

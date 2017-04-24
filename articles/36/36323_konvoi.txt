@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">konvoi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u>, <u>мор.</u> конвой, охранение
+<usg>воен.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конвой, охранение</text></cit>
 </sense>
 </entry>
 </superEntry>

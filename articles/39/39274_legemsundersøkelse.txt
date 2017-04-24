@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-медицинский (врачебный) осмотр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медицинский (врачебный) осмотр</text></cit>
 </sense>
 <sense>
-<u>разг.</u> личный обыск
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>личный обыск</text></cit>
 </sense>
 </entry>
 </superEntry>

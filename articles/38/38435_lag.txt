@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-слой (земли, снега и т д.), пласт, напластование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слой (земли, снега и т д.), пласт, напластование</text></cit>
 </sense>
 <sense>
-слой, прослойка (населения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слой, прослойка (населения)</text></cit>
 <сit type="example"><text>brede lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>широкие массы населения, простой народ</text></cit></cit>
 </sense>
 <sense>
-компания, общество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компания, общество</text></cit>
 <сit type="example"><text>takk for laget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спасибо за компанию</text></cit></cit>
 <сit type="example"><text>i lag med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вместе с кем-л., сообща, в компании с кем-л.</text></cit></cit>
 <сit type="example"><text>bryte (skille) lag med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порвать с кем-л.</text></cit></cit>
@@ -25,16 +25,16 @@
 <сit type="example"><text>godt lag gjør kortere dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> в хорошей компании время летит</text></cit></cit>
 </sense>
 <sense>
-пирушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пирушка</text></cit>
 <сit type="example"><text>holde lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить пирушку</text></cit></cit>
 </sense>
 <sense>
-обхождение, обращение (с людьми)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обхождение, обращение (с людьми)</text></cit>
 <сit type="example"><text>gjøre én til lags</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>угождать кому-л.</text></cit></cit>
 <сit type="example"><text>være én til lags</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приходиться по нраву (кому-л.)</text></cit></cit>
 </sense>
 <sense>
-поведение, настроение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поведение, настроение</text></cit>
 <сit type="example"><text>i lage(t)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в хорошем настроении</text></cit></cit>
 <сit type="example"><text>ute av lag (e)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не в настроении</text></cit></cit>
 <сit type="example"><text>komme i lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обрести своё обычное расположение духа</text></cit></cit>
@@ -43,17 +43,21 @@
 <сit type="example"><text>være i lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пребывать в своём привычном состоянии (настроении)</text></cit></cit>
 </sense>
 <sense>
-партия, бригада, смена (рабочих)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партия, бригада, смена (рабочих)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> отделение, полувзвод
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отделение, полувзвод</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> команда
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>команда</text></cit>
 <сit type="example"><text>et sammensatt lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сборная команда</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u>, <u>мор.</u> орудия одного борта
+<usg>воен.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орудия одного борта</text></cit>
 <сit type="example"><text>gi det glatte lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать залп всем бортом</text></cit></cit>
 <сit type="example"><text>på nytt lag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снова, вновь</text></cit></cit>
 </sense>
@@ -63,13 +67,13 @@
 <form>
 <orth type="lemma">lag</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-закон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закон</text></cit>
 </sense>
 <sense>
-судебный округ (участок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судебный округ (участок)</text></cit>
 </sense>
 </entry>
 </superEntry>

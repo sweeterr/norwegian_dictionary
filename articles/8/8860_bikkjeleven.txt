@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bikkjeleven</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> собачий лай, лай собак
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собачий лай, лай собак</text></cit>
 </sense>
 </entry>
 </superEntry>

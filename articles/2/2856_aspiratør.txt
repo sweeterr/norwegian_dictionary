@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aspiratør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>с.-х.</u> веялка, зерноочистительный аппарат
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веялка, зерноочистительный аппарат</text></cit>
 </sense>
 </entry>
 </superEntry>

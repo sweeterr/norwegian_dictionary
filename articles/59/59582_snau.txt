@@ -5,32 +5,31 @@
 <form>
 <orth type="lemma">snau</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-голый, обнажённый, оголённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голый, обнажённый, оголённый</text></cit>
 </sense>
 <sense>
-лысый, плешивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лысый, плешивый</text></cit>
 </sense>
 <sense>
-остриженный наголо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остриженный наголо</text></cit>
 </sense>
 <sense>
-краткий, непродолжительный (о промежутке времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краткий, непродолжительный (о промежутке времени)</text></cit>
 </sense>
 <sense>
-скудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный</text></cit>
 </sense>
 <sense>
-безденежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безденежный</text></cit>
 </sense>
 <sense>
-узкий, тесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, тесный</text></cit>
 </sense>
 <sense>
-полностью вырубленный (выжженный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полностью вырубленный (выжженный)</text></cit>
 </sense>
 </entry>
 </superEntry>

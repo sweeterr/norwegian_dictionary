@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">py!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-выражает неприязнь, отвращение - фу!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выражает неприязнь, отвращение - фу!</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">avgiftsfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-не облагаемый налогом, беспошлинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не облагаемый налогом, беспошлинный</text></cit>
 </sense>
 </entry>
 </superEntry>

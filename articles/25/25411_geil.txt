@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">geil</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> узкий проход (между домами), узкий проезд (между двумя изгородями)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий проход (между домами), узкий проезд (между двумя изгородями)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">geil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-похотливый, сладострастный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похотливый, сладострастный</text></cit>
 </sense>
 </entry>
 </superEntry>

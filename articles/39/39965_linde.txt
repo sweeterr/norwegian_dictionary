@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">linde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-свивальник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свивальник</text></cit>
 </sense>
 <sense>
-широкая лента, перевязь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широкая лента, перевязь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">linde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-свивать (младенца)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свивать (младенца)</text></cit>
 </sense>
 <sense>
-обёртывать, завёртывать, перевязывать широкой лентой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обёртывать, завёртывать, перевязывать широкой лентой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kyklop</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>миф.</u> циклоп, одноглазый великан
+<usg>миф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>циклоп, одноглазый великан</text></cit>
 </sense>
 </entry>
 </superEntry>

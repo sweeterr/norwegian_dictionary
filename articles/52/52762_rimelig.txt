@@ -7,20 +7,20 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-правдоподобный, вероятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правдоподобный, вероятный</text></cit>
 </sense>
 <sense>
-здравый, благоразумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здравый, благоразумный</text></cit>
 </sense>
 <sense>
-сговорчивый, покладистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сговорчивый, покладистый</text></cit>
 </sense>
 <sense>
-подходящий, приемлемый (о цене, требовании), допустимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подходящий, приемлемый (о цене, требовании), допустимый</text></cit>
 <сit type="example"><text>til rimelig pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по доступной (умеренной) цене</text></cit></cit>
 </sense>
 <sense>
-тихий (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихий (о погоде)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,16 +30,17 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-очевидно, вероятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очевидно, вероятно</text></cit>
 </sense>
 <sense>
-предположительно, допустимо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предположительно, допустимо</text></cit>
 </sense>
 <sense>
-правдоподобно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правдоподобно</text></cit>
 </sense>
 <sense>
-<u>диал.</u> относительно, сравнительно, достаточно
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>относительно, сравнительно, достаточно</text></cit>
 </sense>
 </entry>
 </superEntry>

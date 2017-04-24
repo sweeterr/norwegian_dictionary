@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tonebad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>фото</u> вираж
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вираж</text></cit>
 </sense>
 </entry>
 </superEntry>

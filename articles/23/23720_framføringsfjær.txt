@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">framføringsfjær</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-пружина накатника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пружина накатника</text></cit>
 </sense>
 <sense>
-боевая возвратная пружина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боевая возвратная пружина</text></cit>
 </sense>
 </entry>
 </superEntry>

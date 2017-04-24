@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-осторожность, осмотрительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожность, осмотрительность</text></cit>
 <сit type="example"><text>iaktta forsiktighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соблюдать осторожность</text></cit></cit>
 <сit type="example"><text>vise forsiktighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявлять осторожность, быть осторожным</text></cit></cit>
 </sense>
 <sense>
-<u>редко</u> осторожный человек
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожный человек</text></cit>
 </sense>
 </entry>
 </superEntry>

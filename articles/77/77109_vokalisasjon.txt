@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vokalisasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фон.</u>
+<usg>фон.</usg>
 </form>
 <sense>
-вокализация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вокализация</text></cit>
 </sense>
 <sense>
-расстановка гласных
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстановка гласных</text></cit>
 </sense>
 </entry>
 </superEntry>

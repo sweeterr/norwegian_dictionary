@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">likvidasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-ликвидация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ликвидация</text></cit>
 <сit type="example"><text>være under likvidasjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ликвидироваться (кем-л.)</text></cit></cit>
 </sense>
 </entry>

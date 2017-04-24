@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kubisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-кубический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кубический</text></cit>
 <сit type="example"><text>kubisk ligning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кубическое уравнение, уравнение третьей степени</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brisk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> можжевельник, ветки можжевельника
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>можжевельник, ветки можжевельника</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-нары (в тюрьме, казармах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нары (в тюрьме, казармах)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> упорная подушка, платформа (для орудия)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упорная подушка, платформа (для орудия)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +28,7 @@
 <form>
 <orth type="lemma">brisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-упрямый, несговорчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямый, несговорчивый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">andsjø</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-встречная волна, встречный вал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встречная волна, встречный вал</text></cit>
 </sense>
 <sense>
-встречное (обратное) течение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встречное (обратное) течение</text></cit>
 </sense>
 </entry>
 </superEntry>

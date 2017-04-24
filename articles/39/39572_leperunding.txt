@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">leperunding</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>фон.</u> огубление, лабиализация
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огубление, лабиализация</text></cit>
 </sense>
 </entry>
 </superEntry>

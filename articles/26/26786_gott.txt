@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gott</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-метание икры, нерест
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метание икры, нерест</text></cit>
 </sense>
 <sense>
-выметанная икра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выметанная икра</text></cit>
 </sense>
 </entry>
 </superEntry>

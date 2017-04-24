@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">halvgammel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-среднего возраста
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>среднего возраста</text></cit>
 </sense>
 </entry>
 </superEntry>

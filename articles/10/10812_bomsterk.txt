@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bomsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-крепкий, прочный, сильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий, прочный, сильный</text></cit>
 </sense>
 </entry>
 </superEntry>

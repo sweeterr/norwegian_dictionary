@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-дюйм (норвежский = 2,6145 см, английский = 2,54 см)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дюйм (норвежский = 2,6145 см, английский = 2,54 см)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> большой палец
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой палец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-ощупывать пальцами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощупывать пальцами</text></cit>
 </sense>
 <sense>
-мерить (измерять) что-л. большим пальцем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерить (измерять) что-л. большим пальцем</text></cit>
 </sense>
 </entry>
 </superEntry>

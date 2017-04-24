@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enstyding</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> слово, сходное по значению; синоним
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слово, сходное по значению; синоним</text></cit>
 </sense>
 </entry>
 </superEntry>

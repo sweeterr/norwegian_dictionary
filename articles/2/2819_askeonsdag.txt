@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">askeonsdag</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>церк.</u> среда первой недели великого поста
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>среда первой недели великого поста</text></cit>
 </sense>
 </entry>
 </superEntry>

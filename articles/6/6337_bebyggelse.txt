@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -r</orth></inflection>
 </form>
 <sense>
-застройка (участка), строительство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застройка (участка), строительство</text></cit>
 </sense>
 <sense>
-постройки, здания, дома (в каком-л. районе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постройки, здания, дома (в каком-л. районе)</text></cit>
 <сit type = "example"><text>villamessig bebyggelse :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> район, застроенный виллами</text></cit></cit>
 <сit type = "example"><text>villamessig bebyggelse :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> район строительства вилл</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> заселение, колонизация
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заселение, колонизация</text></cit>
 </sense>
 </entry>
 </superEntry>

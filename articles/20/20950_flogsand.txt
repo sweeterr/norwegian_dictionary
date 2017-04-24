@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flogsand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> сыпучие пески
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыпучие пески</text></cit>
 </sense>
 </entry>
 </superEntry>

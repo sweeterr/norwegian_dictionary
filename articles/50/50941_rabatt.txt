@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-грядка, рабатка, удлинённая клумба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грядка, рабатка, удлинённая клумба</text></cit>
 </sense>
 <sense>
-<u>уст.</u> отворот, лацкан
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отворот, лацкан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">rabatt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-скидка (в цене), уступка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скидка (в цене), уступка</text></cit>
 </sense>
 </entry>
 </superEntry>

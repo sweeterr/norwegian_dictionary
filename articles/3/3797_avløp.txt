@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-сток (для воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сток (для воды)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> выход
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выход</text></cit>
 <сit type="example"><text>få avløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находить выход (своим чувствам)</text></cit></cit>
 </sense>
 <sense>
-исток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исток</text></cit>
 <сit type="example"><text>la opp avløpet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начинаться, брать начало (о реке)</text></cit></cit>
 </sense>
 </entry>

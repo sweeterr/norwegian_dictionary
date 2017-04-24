@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">soneild</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> стрельба по площадям
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрельба по площадям</text></cit>
 </sense>
 </entry>
 </superEntry>

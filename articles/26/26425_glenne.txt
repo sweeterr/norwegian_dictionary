@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">glenne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-лесная поляна, прогалина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лесная поляна, прогалина</text></cit>
 </sense>
 <sense>
-лужайка среди скал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лужайка среди скал</text></cit>
 </sense>
 </entry>
 </superEntry>

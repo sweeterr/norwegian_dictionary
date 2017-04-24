@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">karttegn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> топографический (тактический) знак
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топографический (тактический) знак</text></cit>
 </sense>
 </entry>
 </superEntry>

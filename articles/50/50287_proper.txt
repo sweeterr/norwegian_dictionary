@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">proper</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-чистый, опрятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, опрятный</text></cit>
 </sense>
 <sense>
-аккуратный, точно выполненный (о работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аккуратный, точно выполненный (о работе)</text></cit>
 </sense>
 </entry>
 </superEntry>

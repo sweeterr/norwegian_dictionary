@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hvorledes</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-как?, каким образом?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как?, каким образом?</text></cit>
 <сit type="example"><text>hvorledes har du det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ты поживаешь?</text></cit></cit>
 </sense>
 </entry>

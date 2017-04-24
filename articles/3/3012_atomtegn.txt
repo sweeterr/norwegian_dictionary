@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">atomtegn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>физ.</u> знак атома, атомное число, атомный номер
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знак атома, атомное число, атомный номер</text></cit>
 </sense>
 </entry>
 </superEntry>

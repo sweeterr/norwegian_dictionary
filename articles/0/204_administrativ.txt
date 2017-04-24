@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">administrativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-административный, управленческий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>административный, управленческий</text></cit>
 </sense>
 </entry>
 </superEntry>

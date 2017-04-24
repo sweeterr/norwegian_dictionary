@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bedriftsintern</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не выходящий за рамки организации, внутриучрежденческий, внутрифирменный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не выходящий за рамки организации, внутриучрежденческий, внутрифирменный</text></cit>
 </sense>
 </entry>
 </superEntry>

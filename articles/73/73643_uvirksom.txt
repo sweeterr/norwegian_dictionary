@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">uvirksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-праздный, незанятый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>праздный, незанятый</text></cit>
 </sense>
 <sense>
-инертный, пассивный, бездеятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инертный, пассивный, бездеятельный</text></cit>
 </sense>
 <sense>
-недействующий, неэффективный, безрезультатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недействующий, неэффективный, безрезультатный</text></cit>
 </sense>
 </entry>
 </superEntry>

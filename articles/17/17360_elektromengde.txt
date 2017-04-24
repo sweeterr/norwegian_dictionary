@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elektromengde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>физ.</u> количество электричества (в кулонах или ампер-часах)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>количество электричества (в кулонах или ампер-часах)</text></cit>
 </sense>
 </entry>
 </superEntry>

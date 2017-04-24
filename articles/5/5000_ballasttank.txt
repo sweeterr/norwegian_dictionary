@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ballasttank</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> балластная цистерна
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балластная цистерна</text></cit>
 </sense>
 </entry>
 </superEntry>

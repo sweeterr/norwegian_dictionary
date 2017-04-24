@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">månesyk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страдающий сомнамбулизмом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страдающий сомнамбулизмом</text></cit>
 </sense>
 </entry>
 </superEntry>

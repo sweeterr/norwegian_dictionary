@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-транзитный грузооборот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транзитный грузооборот</text></cit>
 </sense>
 <sense>
-<u>телеф.</u> телефонная связь через промежуточную станцию
+<usg>телеф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телефонная связь через промежуточную станцию</text></cit>
 </sense>
 </entry>
 </superEntry>

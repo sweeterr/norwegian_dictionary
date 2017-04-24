@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gytjeomslag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u> грязевая аппликация
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязевая аппликация</text></cit>
 </sense>
 </entry>
 </superEntry>

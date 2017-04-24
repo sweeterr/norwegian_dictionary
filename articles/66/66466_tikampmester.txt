@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tikampmester</orth>
 <inflection><orth extent="part">-eren, -ere (-rer)</orth></inflection>
-<u>спорт.</u> чемпион по десятиборью
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чемпион по десятиборью</text></cit>
 </sense>
 </entry>
 </superEntry>

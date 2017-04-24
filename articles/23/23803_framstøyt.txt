@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-толчок, импульс, порыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчок, импульс, порыв</text></cit>
 </sense>
 <sense>
-прорыв, внезапная атака, штурм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорыв, внезапная атака, штурм</text></cit>
 </sense>
 <sense>
-<u>воен.</u> удар (операция)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар (операция)</text></cit>
 </sense>
 </entry>
 </superEntry>

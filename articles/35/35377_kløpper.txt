@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kløpper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-проворный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проворный человек</text></cit>
 </sense>
 <sense>
-умелец, мастер своего дела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умелец, мастер своего дела</text></cit>
 </sense>
 </entry>
 </superEntry>

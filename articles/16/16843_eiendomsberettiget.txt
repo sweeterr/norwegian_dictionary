@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eiendomsberettiget</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>юр.</u> имеющий право собственности
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий право собственности</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trøst</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-утешение, поддержка, успокоение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утешение, поддержка, успокоение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">trøst</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-надёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надёжный</text></cit>
 </sense>
 <sense>
-сильный, крепкий (здоровьем)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, крепкий (здоровьем)</text></cit>
 </sense>
 </entry>
 </superEntry>

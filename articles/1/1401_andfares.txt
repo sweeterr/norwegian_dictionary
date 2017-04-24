@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">andfares</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-непрерывно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрерывно</text></cit>
 </sense>
 <sense>
-везде, повсюду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везде, повсюду</text></cit>
 </sense>
 <sense>
-поочерёдно, попеременно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поочерёдно, попеременно</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">trille</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-коляска, фаэтон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коляска, фаэтон</text></cit>
 <сit type="example"><text>sorgens trille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> полицейская повозка</text></cit></cit>
-<сit type = "example"><text>det spiller ingen trille :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> это ничего не значит, это не играет никакой роли</text></cit></cit>
-<сit type = "example"><text>det spiller ingen trille :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> ничего, сойдёт</text></cit></cit>
+<сit type = "example"><text>det spiller ingen trille :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> это ничего не значит, это не играет никакой роли</text></cit></cit>
+<сit type = "example"><text>det spiller ingen trille :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> ничего, сойдёт</text></cit></cit>
 </sense>
 </entry>
 <entry>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">trille</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-трель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трель</text></cit>
 <сit type="example"><text>slå triller</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выводить трели</text></cit></cit>
 </sense>
 </entry>
@@ -27,22 +27,23 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-крутиться, вертеться, вращаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутиться, вертеться, вращаться</text></cit>
 </sense>
 <sense>
-катать, катить, скатывать (шарики)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катать, катить, скатывать (шарики)</text></cit>
 </sense>
 <sense>
-везти, перевозить (вручную)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везти, перевозить (вручную)</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> катиться (о толстом человеке)
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>катиться (о толстом человеке)</text></cit>
 </sense>
 <sense>
-литься, разливаться, раскатываться (о звуках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>литься, разливаться, раскатываться (о звуках)</text></cit>
 </sense>
 <sense>
-быстро лететь (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстро лететь (о времени)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -50,7 +51,7 @@
 <form>
 <orth type="lemma">trille</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-выводить трели, заливаться трелями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выводить трели, заливаться трелями</text></cit>
 </sense>
 </entry>
 </superEntry>

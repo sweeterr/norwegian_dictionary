@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-беспокойство, смятение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойство, смятение</text></cit>
 </sense>
 <sense>
-помеха, радиопомеха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помеха, радиопомеха</text></cit>
 <сit type="example"><text>atmosfæriske forstyrrelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>атмосферные помехи</text></cit></cit>
 </sense>
 <sense>
-нарушение, срыв (планов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарушение, срыв (планов)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> разрушение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрушение</text></cit>
 </sense>
 </entry>
 </superEntry>

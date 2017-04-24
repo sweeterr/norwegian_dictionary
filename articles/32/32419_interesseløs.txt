@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">interesseløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неинтересный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неинтересный</text></cit>
 </sense>
 <sense>
-незаинтересованный; равнодушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незаинтересованный; равнодушный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skyggefri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-незатенённый, не дающий тени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незатенённый, не дающий тени</text></cit>
 </sense>
 <sense>
-ничем не омрачённый, беззаботный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ничем не омрачённый, беззаботный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">debet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ком.</u> дебет
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дебет</text></cit>
 <сit type="example"><text>anføre noe til ens debet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>записать на чей-л. дебет (счёт)</text></cit></cit>
 <сit type="example"><text>debet er stor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>долг велик</text></cit></cit>
 </sense>

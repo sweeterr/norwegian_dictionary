@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">nattverd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ужин, вечерняя трапеза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужин, вечерняя трапеза</text></cit>
 </sense>
 <sense>
-<u>церк.</u> причастие
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причастие</text></cit>
 </sense>
 </entry>
 </superEntry>

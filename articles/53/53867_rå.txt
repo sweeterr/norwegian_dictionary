@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rå</orth>
 <inflection><orth>råen (råa), rær</orth></inflection>
-<u>мор.</u> рея
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рея</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,33 +14,32 @@
 <form>
 <orth type="lemma">rå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-сырой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сырой</text></cit>
 <сit type="example"><text>sluke noe rått</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> <lbl>разг.</lbl> принять что-л. за чистую монету, отнестись некритически</text></cit></cit>
 </sense>
 <sense>
-недоваренный, недожаренный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недоваренный, недожаренный</text></cit>
 </sense>
 <sense>
-непропечённый (о хлебе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непропечённый (о хлебе)</text></cit>
 </sense>
 <sense>
-некультурный, малокультурный, примитивный (о людях, обычаях, нравах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некультурный, малокультурный, примитивный (о людях, обычаях, нравах)</text></cit>
 </sense>
 <sense>
-грубый, неэстетичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, неэстетичный</text></cit>
 </sense>
 <sense>
-необработанный, неочищенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необработанный, неочищенный</text></cit>
 </sense>
 <sense>
-хриплый, грубый (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хриплый, грубый (о голосе)</text></cit>
 </sense>
 <sense>
-промозглый, сырой (о погоде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промозглый, сырой (о погоде</text></cit>
 </sense>
 </entry>
 <entry>
@@ -49,12 +49,13 @@
 <inflection><orth>rådde(rådet), rådd (rådet)</orth></inflection>
 </form>
 <sense>
-советовать, рекомендовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>советовать, рекомендовать</text></cit>
 <сit type="example"><text>rå fra noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отсоветовать</text></cit></cit>
 <сit type="example"><text>rå til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посоветовать</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> читать, расшифровывать (руны), толковать, разгадывать (смысл, значение)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читать, расшифровывать (руны), толковать, разгадывать (смысл, значение)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -64,20 +65,20 @@
 <inflection><orth>rådde, rådd</orth></inflection>
 </form>
 <sense>
-господствовать (о порядке, дисциплине), царить (о тишине, молчании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>господствовать (о порядке, дисциплине), царить (о тишине, молчании)</text></cit>
 </sense>
 <sense>
-распоряжаться (чем-л. - over), иметь в своём распоряжении, располагать (чем-л. - over)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распоряжаться (чем-л. - over), иметь в своём распоряжении, располагать (чем-л. - over)</text></cit>
 </sense>
 <sense>
-быть действительным, действовать (для чего-л. - for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть действительным, действовать (для чего-л. - for)</text></cit>
 </sense>
 <sense>
-управлять, править (чем-л. - for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управлять, править (чем-л. - for)</text></cit>
 <сit type="example"><text>rå med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>справляться с кем-л., находить управу на кого-л.</text></cit></cit>
 </sense>
 <sense>
-решать, принимать решение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решать, принимать решение</text></cit>
 </sense>
 </entry>
 </superEntry>

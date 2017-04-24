@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">inntektsordre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бухг.</u> приходный ордер
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приходный ордер</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">beskuelighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-созерцание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>созерцание</text></cit>
 </sense>
 <sense>
-раздумье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздумье</text></cit>
 </sense>
 </entry>
 </superEntry>

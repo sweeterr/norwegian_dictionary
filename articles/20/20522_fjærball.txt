@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fjærball</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-бадминтон (игра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бадминтон (игра)</text></cit>
 </sense>
 <sense>
-шарик (для игры в бадминтон)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шарик (для игры в бадминтон)</text></cit>
 <сit type="example"><text>spille fjærball</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спорить (пререкаться) впустую</text></cit></cit>
 </sense>
 </entry>

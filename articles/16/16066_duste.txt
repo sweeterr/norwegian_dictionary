@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">duste</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> слабоумная, помешанная женщина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабоумная, помешанная женщина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">duste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-рассыпать, сыпать (муку, пудру и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассыпать, сыпать (муку, пудру и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">duste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-годиться, подходить; быть полезным (подходящим)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годиться, подходить; быть полезным (подходящим)</text></cit>
 </sense>
 </entry>
 </superEntry>

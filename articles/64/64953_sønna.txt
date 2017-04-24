@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">sønna</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> <u>диал.</u> с юга
+<usg>разг.</usg>
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с юга</text></cit>
 </sense>
 </entry>
 </superEntry>

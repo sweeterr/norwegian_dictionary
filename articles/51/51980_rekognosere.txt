@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-обследовать, разузнавать, производить изыскания (на местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обследовать, разузнавать, производить изыскания (на местности)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> разведывать местность, рекогносцировать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывать местность, рекогносцировать</text></cit>
 <сit type="example"><text>være ute for å rekognosere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проводить рекогносцировку</text></cit></cit>
 </sense>
 </entry>

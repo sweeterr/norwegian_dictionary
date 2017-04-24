@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">fotfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> <u>уст.</u>
+<usg>собир.</usg>
+<usg>уст.</usg>
 </form>
 <sense>
-пехота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пехота</text></cit>
 </sense>
 <sense>
-пехотинцы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пехотинцы</text></cit>
 </sense>
 </entry>
 </superEntry>

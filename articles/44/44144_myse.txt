@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">myse</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-сыворотка (молочная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыворотка (молочная)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">myse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-щурить глаза, щуриться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щурить глаза, щуриться</text></cit>
 </sense>
 </entry>
 </superEntry>

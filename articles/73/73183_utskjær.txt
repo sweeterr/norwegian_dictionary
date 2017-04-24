@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utskjær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> внешние шхеры
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешние шхеры</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">utskjær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-вырез
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырез</text></cit>
 </sense>
 </entry>
 </superEntry>

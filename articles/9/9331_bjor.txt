@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bjor</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-чёрное пиво
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрное пиво</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">bjor</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> бобёр
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бобёр</text></cit>
 </sense>
 </entry>
 </superEntry>

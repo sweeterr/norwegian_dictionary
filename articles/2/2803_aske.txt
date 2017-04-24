@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-пепел, зола
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пепел, зола</text></cit>
 <сit type="example"><text>vulkanisk aske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вулканический пепел</text></cit></cit>
 <сit type="example"><text>brenne til aske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгореть (сжечь дотла)</text></cit></cit>
 <сit type="example"><text>legge i aske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сжечь дотла</text></cit></cit>
@@ -16,7 +16,8 @@
 <сit type="example"><text>kle seg i sekk og aske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> проявлять внешние признаки горя (раскаяния, печали)</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> прах (человека)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прах (человека)</text></cit>
 </sense>
 </entry>
 </superEntry>

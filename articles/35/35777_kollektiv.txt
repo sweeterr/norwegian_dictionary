@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-коллектив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коллектив</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> имя существительное собирательное
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имя существительное собирательное</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,14 +19,14 @@
 <form>
 <orth type="lemma">kollektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-коллективный, общий, совместный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коллективный, общий, совместный</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> собирательный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирательный</text></cit>
 </sense>
 </entry>
 </superEntry>

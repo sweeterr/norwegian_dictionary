@@ -9,10 +9,10 @@
 <сit type="example"><text>vide ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расширять</text></cit></cit>
 </form>
 <sense>
-расширяться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расширяться</text></cit>
 </sense>
 <sense>
-разнашиваться (об обуви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разнашиваться (об обуви)</text></cit>
 <сit type="example"><text>vide seg ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переходить в равнину</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +22,8 @@
 <orth type="lemma">vide</orth>
 <phon>|'vi:də|</phon>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u> далеко кругом (вокруг)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>далеко кругом (вокруг)</text></cit>
 <сit type="example"><text>vide fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>издалека</text></cit></cit>
 </sense>
 </entry>

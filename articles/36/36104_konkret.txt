@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">konkret</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-бетон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бетон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">konkret</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> имя существительное конкретное
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имя существительное конкретное</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">konkret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-конкретный, реальный, фактический, наглядный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конкретный, реальный, фактический, наглядный</text></cit>
 </sense>
 </entry>
 </superEntry>

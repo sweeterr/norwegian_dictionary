@@ -7,37 +7,41 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-(круглый) ломоть (хлеба, сыра и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(круглый) ломоть (хлеба, сыра и т. п.)</text></cit>
 </sense>
 <sense>
-диск, круг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диск, круг</text></cit>
 </sense>
 <sense>
-мишень, цель (для стрельбы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мишень, цель (для стрельбы)</text></cit>
 </sense>
 <sense>
-циферблат (часов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>циферблат (часов)</text></cit>
 </sense>
 <sense>
-номеронабиратель (телефона)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>номеронабиратель (телефона)</text></cit>
 </sense>
 <sense>
-гончарный круг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гончарный круг</text></cit>
 </sense>
 <sense>
-плоская круглая галька, кругляш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоская круглая галька, кругляш</text></cit>
 </sense>
 <sense>
-<u>тех.</u> блок, шкив, ролик
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блок, шкив, ролик</text></cit>
 </sense>
 <sense>
-<u>тех.</u> шайба, прокладка, подкладка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шайба, прокладка, подкладка</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бухта троса
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухта троса</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> шайба (в хоккее)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шайба (в хоккее)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +49,7 @@
 <form>
 <orth type="lemma">skive</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-резать ломтиками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резать ломтиками</text></cit>
 </sense>
 </entry>
 </superEntry>

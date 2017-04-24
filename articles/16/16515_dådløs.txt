@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">dådløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бездеятельный, пассивный, неэнергичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездеятельный, пассивный, неэнергичный</text></cit>
 </sense>
 </entry>
 </superEntry>

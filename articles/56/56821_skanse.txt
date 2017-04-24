@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>воен.</u> полевое укрепление, окоп
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полевое укрепление, окоп</text></cit>
 <сit type="example"><text>bli alene på skansen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>остаться одиноким</text></cit></cit>
 <сit type = "example"><text>være den siste på skansen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сопротивляться дольше всех</text></cit></cit>
 <сit type = "example"><text>være den siste på skansen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пережить всех, остаться последним</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> ют и шканцы
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ют и шканцы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">skanse</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-<u>воен.</u> сооружать полевые укрепления, окапываться
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сооружать полевые укрепления, окапываться</text></cit>
 </sense>
 </entry>
 </superEntry>

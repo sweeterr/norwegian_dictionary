@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lydlengde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>фон.</u> долгота звука
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долгота звука</text></cit>
 </sense>
 </entry>
 </superEntry>

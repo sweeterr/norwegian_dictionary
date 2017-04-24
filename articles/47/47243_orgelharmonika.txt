@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">orgelharmonika</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-гармоника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гармоника</text></cit>
 </sense>
 <sense>
-аккордеон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аккордеон</text></cit>
 </sense>
 </entry>
 </superEntry>

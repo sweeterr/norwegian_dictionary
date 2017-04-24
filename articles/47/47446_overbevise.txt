@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-убедить (в чём-л. - om)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убедить (в чём-л. - om)</text></cit>
 <сit type="example"><text>være (bli) overbevist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть убеждённым (в чём-л. - om)</text></cit></cit>
 </sense>
 <sense>
-<u>юр.</u> доказать виновность
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доказать виновность</text></cit>
 </sense>
 </entry>
 </superEntry>

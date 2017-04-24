@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balansert modulasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>телеком.</u> балансная модуляция
+<usg>телеком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балансная модуляция</text></cit>
 </sense>
 </entry>
 </superEntry>

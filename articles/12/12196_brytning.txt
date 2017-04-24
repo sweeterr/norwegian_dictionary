@@ -7,27 +7,30 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-ломка, поломка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломка, поломка</text></cit>
 </sense>
 <sense>
-взрыв, разрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв, разрыв</text></cit>
 </sense>
 <sense>
-дрожь, содрогание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожь, содрогание</text></cit>
 <сit type="example"><text>det gikk noen brytninger gjennom kroppen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по телу пробежала дрожь</text></cit></cit>
 </sense>
 <sense>
-кризис, потрясение, волнение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кризис, потрясение, волнение</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> борьба
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борьба</text></cit>
 <сit type="example"><text>klassisk brytning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>классическая борьба</text></cit></cit>
 </sense>
 <sense>
-<u>лингв.</u> преломление (звука)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преломление (звука)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> преломление (лучей)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преломление (лучей)</text></cit>
 </sense>
 </entry>
 </superEntry>

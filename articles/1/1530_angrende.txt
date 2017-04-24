@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-раскаивающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскаивающийся</text></cit>
 </sense>
 <sense>
-<u>рел.</u> кающийся (о грешнике)
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кающийся (о грешнике)</text></cit>
 <сit type="example"><text>en angrende synder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кающийся грешник</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pipeverk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>муз.</u> набор органных труб
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набор органных труб</text></cit>
 </sense>
 </entry>
 </superEntry>

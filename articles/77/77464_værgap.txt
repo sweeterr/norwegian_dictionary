@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">værgap</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-отверстие для подачи воздуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отверстие для подачи воздуха</text></cit>
 </sense>
 <sense>
-открытый со всех сторон участок берега
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытый со всех сторон участок берега</text></cit>
 </sense>
 </entry>
 </superEntry>

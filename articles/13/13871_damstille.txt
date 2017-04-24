@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">damstille</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>диал.</u> мёртвая тишина, мёртвый штиль
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мёртвая тишина, мёртвый штиль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">damstille</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-без малейшего ветерка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без малейшего ветерка</text></cit>
 </sense>
 </entry>
 </superEntry>

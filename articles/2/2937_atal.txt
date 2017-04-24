@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">atal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-раздражающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раздражающий</text></cit>
 </sense>
 <sense>
-мучительный, нетерпимый, невыносимый (морально)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мучительный, нетерпимый, невыносимый (морально)</text></cit>
 </sense>
 </entry>
 </superEntry>

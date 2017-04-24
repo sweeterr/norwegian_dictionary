@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">bokkjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-интересующийся книгами, любящий книги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интересующийся книгами, любящий книги</text></cit>
 </sense>
 </entry>
 </superEntry>

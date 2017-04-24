@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-получатель (товаров, корреспонденции)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получатель (товаров, корреспонденции)</text></cit>
 </sense>
 <sense>
-приёмная станция, <u>ж.-д.</u> станция назначения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приёмная станция, <lbl>ж.-д.</lbl> станция назначения</text></cit>
 </sense>
 <sense>
-<u>радио</u> радиоприёмник
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радиоприёмник</text></cit>
 </sense>
 </entry>
 </superEntry>

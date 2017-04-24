@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-te (-set), -t (-set)</orth></inflection>
 </form>
 <sense>
-прилипать, налипать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилипать, налипать</text></cit>
 </sense>
 <sense>
-пришепётывать; сюсюкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пришепётывать; сюсюкать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,11 @@
 <inflection><orth extent="part">-te (-set), -t (-set)</orth></inflection>
 </form>
 <sense>
-разбить вдребезги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбить вдребезги</text></cit>
 </sense>
 <sense>
-<u>разг.</u> шлёпнуть, хлопнуть (рукой)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёпнуть, хлопнуть (рукой)</text></cit>
 <сit type="example"><text>klisse til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать тумака кому-л.</text></cit></cit>
 </sense>
 </entry>

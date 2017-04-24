@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">tunen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-в недоумении, сбитый с толку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в недоумении, сбитый с толку</text></cit>
 </sense>
 <sense>
-пьяный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пьяный</text></cit>
 </sense>
 </entry>
 </superEntry>

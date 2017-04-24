@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">reve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-пеленать, завёртывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеленать, завёртывать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">reve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-<u>мор.</u> брать риф, (за)рифить парус
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брать риф, (за)рифить парус</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rørkjele</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> водотрубный котёл, жаротрубный котёл
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водотрубный котёл, жаротрубный котёл</text></cit>
 </sense>
 </entry>
 </superEntry>

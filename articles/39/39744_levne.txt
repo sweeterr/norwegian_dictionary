@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">levne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-оставлять (после себя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оставлять (после себя)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">levne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-оживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживать</text></cit>
 <сit type="example"><text>levne opp, levne til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оживать, чувствовать себя лучше</text></cit></cit>
 </sense>
 </entry>

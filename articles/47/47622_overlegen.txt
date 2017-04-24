@@ -5,20 +5,21 @@
 <form>
 <orth type="lemma">overlegen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-превосходящий, высший (по качеству)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходящий, высший (по качеству)</text></cit>
 </sense>
 <sense>
-превосходный, выдающийся (о художнике, специалисте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходный, выдающийся (о художнике, специалисте)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> высокомерный, надменный, напыщенный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокомерный, надменный, напыщенный</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> лидирующий, ведущий
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лидирующий, ведущий</text></cit>
 </sense>
 </entry>
 </superEntry>

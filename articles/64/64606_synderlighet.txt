@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">synderlighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-особенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>особенность</text></cit>
 <сit type="example"><text>i synderlighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в особенности</text></cit></cit>
 </sense>
 </entry>

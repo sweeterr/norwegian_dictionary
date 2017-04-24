@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">engleaktig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>прям.</u> <u>перен.</u> ангельский
+<usg>прям.</usg>
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ангельский</text></cit>
 </sense>
 </entry>
 </superEntry>

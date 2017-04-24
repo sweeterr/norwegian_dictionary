@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lisse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-шнур, шнурок, тесьма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шнур, шнурок, тесьма</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-связать шнуром, зашнуровать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связать шнуром, зашнуровать</text></cit>
 </sense>
 <sense>
-<u>мор.</u> крепить (паруса)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепить (паруса)</text></cit>
 </sense>
 </entry>
 </superEntry>

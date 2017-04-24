@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kokke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-кухарка, повариха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кухарка, повариха</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-кухарничать, работать кухаркой (поваром)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кухарничать, работать кухаркой (поваром)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> разводить грязь, пачкать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разводить грязь, пачкать</text></cit>
 </sense>
 </entry>
 </superEntry>

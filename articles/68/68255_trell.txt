@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-раб, невольник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раб, невольник</text></cit>
 </sense>
 <sense>
-зависимый (несвободный) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зависимый (несвободный) человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">trell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-трудовые мозоли (на руках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудовые мозоли (на руках)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,7 @@
 <form>
 <orth type="lemma">trell</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-поплавок (для сетей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок (для сетей)</text></cit>
 </sense>
 </entry>
 </superEntry>

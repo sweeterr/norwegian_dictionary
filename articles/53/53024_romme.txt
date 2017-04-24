@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-вмещать, иметь достаточно места для ...
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вмещать, иметь достаточно места для ...</text></cit>
 </sense>
 <sense>
-содержать, заключать в себе, быть наполненным (чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>содержать, заключать в себе, быть наполненным (чем-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">romme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> изменять направление (о ветре)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изменять направление (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

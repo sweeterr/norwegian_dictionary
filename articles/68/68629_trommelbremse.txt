@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trommelbremse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>авт.</u> тормоз с тормозным барабаном
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормоз с тормозным барабаном</text></cit>
 </sense>
 </entry>
 </superEntry>

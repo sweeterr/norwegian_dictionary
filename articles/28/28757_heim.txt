@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">heim</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. hjem I
+<ref>hjem I</ref>
 <сit type="example"><text>få hus og heim</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обзавестись семьёй и домом</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">heim</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-см. hjem II
+<ref>hjem II</ref>
 </sense>
 </entry>
 </superEntry>

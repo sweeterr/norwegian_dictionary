@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-черта, линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черта, линия</text></cit>
 <сit type="example"><text>buktet (brutt) linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извилистая (ломаная) линия</text></cit></cit>
 <сit type="example"><text>en krum linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кривая, изогнутая линия</text></cit></cit>
 <сit type="example"><text>parallelle linjer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>параллельные линии</text></cit></cit>
@@ -17,47 +17,49 @@
 <сit type="example"><text>trekke en linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провести линию (черту)</text></cit></cit>
 </sense>
 <sense>
-строка, строчка, линейка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строка, строчка, линейка</text></cit>
 <сit type="example"><text>en ny linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>новая (красная) строка</text></cit></cit>
 <сit type="example"><text>lese mellom linjene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать между строк</text></cit></cit>
 </sense>
 <sense>
-контур, очертания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контур, очертания</text></cit>
 <сit type="example"><text>bløte linjer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мягкие очертания</text></cit></cit>
 </sense>
 <sense>
-шеренга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шеренга</text></cit>
 <сit type="example"><text>i første linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в первом ряду</text></cit></cit>
 <сit type="example"><text>linjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> линейные войска (12 контингентов призывников)</text></cit></cit>
 </sense>
 <sense>
-железнодорожный путь, трамвайный маршрут, пароходная линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>железнодорожный путь, трамвайный маршрут, пароходная линия</text></cit>
 </sense>
 <sense>
-телеграфная (телефонная) линия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телеграфная (телефонная) линия</text></cit>
 </sense>
 <sense>
-линия поведения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия поведения</text></cit>
 </sense>
 <sense>
-линия родства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия родства</text></cit>
 <сit type="example"><text>i en rett linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по прямой линии</text></cit></cit>
 </sense>
 <sense>
-экватор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экватор</text></cit>
 <сit type="example"><text>under linjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на экваторе</text></cit></cit>
 <сit type="example"><text>passere linjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересечь экватор</text></cit></cit>
 </sense>
 <sense>
-линия (мера длины = 0,1 дюйма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия (мера длины = 0,1 дюйма)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> линия обороны
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>линия обороны</text></cit>
 <сit type="example"><text>fremste linje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передний край (обороны); первый (атакующий) эшелон, штурмовой эшелон</text></cit></cit>
 <сit type="example"><text>bak fiendens linjer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тылу врага</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> строй фронта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строй фронта</text></cit>
 </sense>
 </entry>
 </superEntry>

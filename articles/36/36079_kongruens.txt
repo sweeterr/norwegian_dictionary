@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-соответствие, совпадение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соответствие, совпадение</text></cit>
 </sense>
 <sense>
-<u>мат.</u> конгруэнтность
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конгруэнтность</text></cit>
 </sense>
 <sense>
-<u>грам.</u> согласование (в роде, числе, падеже)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>согласование (в роде, числе, падеже)</text></cit>
 </sense>
 </entry>
 </superEntry>

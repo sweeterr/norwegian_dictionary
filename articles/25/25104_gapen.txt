@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">gapen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-любопытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любопытный</text></cit>
 </sense>
 <sense>
-глупый, дурашливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый, дурашливый</text></cit>
 </sense>
 </entry>
 </superEntry>

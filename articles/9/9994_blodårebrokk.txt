@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">blodårebrokk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>мед.</u> гематоцеле:
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гематоцеле:</text></cit>
 </form>
 <sense>
-кровяная опухоль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровяная опухоль</text></cit>
 </sense>
 <sense>
-скопление крови в тканях яичка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скопление крови в тканях яичка</text></cit>
 </sense>
 </entry>
 </superEntry>

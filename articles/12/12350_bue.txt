@@ -7,22 +7,26 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-дуга, дужка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуга, дужка</text></cit>
 </sense>
 <sense>
-<u>стр.</u> арка, свод
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арка, свод</text></cit>
 <сit type="example"><text>himlens bue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небесный свод</text></cit></cit>
 </sense>
 <sense>
-<u>мат.</u> дуга
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуга</text></cit>
 </sense>
 <sense>
-<u>уст.</u> лук (для стрельбы)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лук (для стрельбы)</text></cit>
 <сit type="example"><text>spenne buen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натягивать лук</text></cit></cit>
 <сit type="example"><text>spenne buen for høyt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> перегнуть палку</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> смычок
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смычок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,16 +36,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-огибать (холм, мыс)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огибать (холм, мыс)</text></cit>
 </sense>
 <sense>
-описывать дугу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>описывать дугу</text></cit>
 </sense>
 <sense>
-сгибать, гнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгибать, гнуть</text></cit>
 </sense>
 <sense>
-вклиниваться дугой (тж. bue inn), образовывать свод, принимать форму дуги (свода)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вклиниваться дугой (тж. bue inn), образовывать свод, принимать форму дуги (свода)</text></cit>
 </sense>
 </entry>
 </superEntry>

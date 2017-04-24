@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-совместная работа, сотрудничество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совместная работа, сотрудничество</text></cit>
 <сit type="example"><text>internasjonalt samarbeid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>международное сотрудничество</text></cit></cit>
 <сit type="example"><text>kulturelt samarbeid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>культурное сотрудничество</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> взаимодействие
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимодействие</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> см. sparkstøtting
+<usg>разг.</usg>
+<ref>sparkstøtting</ref>
 </sense>
 </entry>
 <entry>
@@ -15,12 +16,13 @@
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
-удар ногой (копытом), пинок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар ногой (копытом), пинок</text></cit>
 <сit type="example"><text>få sparken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть уволенным (выгнанным), получить отставку</text></cit></cit>
 <сit type="example"><text>gi sparken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уволить с работы, выгнать</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> удар по мячу (в футболе)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар по мячу (в футболе)</text></cit>
 </sense>
 </entry>
 </superEntry>

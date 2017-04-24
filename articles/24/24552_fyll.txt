@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-начинка (пирога)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начинка (пирога)</text></cit>
 </sense>
 <sense>
-набивка (матраца, подушки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набивка (матраца, подушки)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">fyll</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-опьянение, пьянство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опьянение, пьянство</text></cit>
 <сit type="example"><text>i fyllen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в пьяном виде</text></cit></cit>
 </sense>
 </entry>

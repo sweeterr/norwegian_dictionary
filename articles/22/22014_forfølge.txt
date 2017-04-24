@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-fulgte, -fulgt</orth></inflection>
 </form>
 <sense>
-преследовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преследовать</text></cit>
 <сit type="example"><text>forfølge med ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> преследовать огнём</text></cit></cit>
 <сit type="example"><text>forfølge sin plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следовать своему плану</text></cit></cit>
 </sense>
 <sense>
-следить (глазами, взглядом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следить (глазами, взглядом)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> преследовать, возбуждать следствие
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преследовать, возбуждать следствие</text></cit>
 <сit type="example"><text>forfølge en sak for domstolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возбудить судебное дело</text></cit></cit>
 </sense>
 </entry>

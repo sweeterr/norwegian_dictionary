@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тупик (улицы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупик (улицы)</text></cit>
 </sense>
 <sense>
-теснина, ущелье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теснина, ущелье</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,15 +21,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-нужда, тяжёлое материальное положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нужда, тяжёлое материальное положение</text></cit>
 <сit type="example"><text>komme i trang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказаться в нужде</text></cit></cit>
 </sense>
 <sense>
-недостаток, нехватка, отсутствие (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недостаток, нехватка, отсутствие (чего-л.)</text></cit>
 <сit type="example"><text>være i trang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться, испытывать нужду (в чём-л. - om)</text></cit></cit>
 </sense>
 <sense>
-влечение, стремление, желание, тяга (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>влечение, стремление, желание, тяга (к чему-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,24 +37,24 @@
 <form>
 <orth type="lemma">trang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-узкий, тесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, тесный</text></cit>
 </sense>
 <sense>
-ограниченный, малый (о круге лиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченный, малый (о круге лиц)</text></cit>
 </sense>
 <sense>
-трудный, затруднённый (напр. о дыхании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный, затруднённый (напр. о дыхании)</text></cit>
 </sense>
 <sense>
-затруднительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительный</text></cit>
 <сit type="example"><text>ha det trangt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать материальные (экономические) трудности</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> слабый (о ветре)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 <сit type="example"><text>trang i nøtta (fletta)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> придурковатый</text></cit></cit>
 </sense>
 </entry>

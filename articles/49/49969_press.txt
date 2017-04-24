@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-давление, сжатие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давление, сжатие</text></cit>
 </sense>
 <sense>
-<u>перен.</u> нажим
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нажим</text></cit>
 <сit type="example"><text>bli utsatt for et press fra ens side</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться нажиму с чьей-л. стороны</text></cit></cit>
 <сit type="example"><text>sette press på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать нажим на кого-л.</text></cit></cit>
 <сit type="example"><text>øve moralsk press</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать моральное воздействие (давление)</text></cit></cit>
 </sense>
 <sense>
-складка (заглаженная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складка (заглаженная)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> форсирование работы двигателя
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форсирование работы двигателя</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +29,8 @@
 <form>
 <orth type="lemma">press</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>спорт.</u> жим
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жим</text></cit>
 </sense>
 </entry>
 </superEntry>

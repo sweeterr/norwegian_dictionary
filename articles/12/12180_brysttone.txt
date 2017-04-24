@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brysttone</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>перен.</u> созвучный тон (мотив)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>созвучный тон (мотив)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mulle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> барбулька
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барбулька</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-бормотать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бормотать</text></cit>
 </sense>
 <sense>
-напевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напевать</text></cit>
 </sense>
 </entry>
 </superEntry>

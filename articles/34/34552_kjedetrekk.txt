@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjedetrekk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> цепная тяга (передача)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепная тяга (передача)</text></cit>
 </sense>
 </entry>
 </superEntry>

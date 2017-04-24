@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-telen, -ler</orth></inflection>
 </form>
 <sense>
-заголовок, заглавие (книги, рассказа), название (газеты, журнала)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заголовок, заглавие (книги, рассказа), название (газеты, журнала)</text></cit>
 </sense>
 <sense>
-титульный лист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>титульный лист</text></cit>
 </sense>
 <sense>
-титул, звание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>титул, звание</text></cit>
 <сit type="example"><text>bære en tittel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь звание</text></cit></cit>
 <сit type="example"><text>legge bort titlene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>называть друг друга запросто, перейти на «ты»</text></cit></cit>
 </sense>

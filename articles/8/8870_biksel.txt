@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">biksel</orth>
 <inflection><orth extent="part">-elet, -ler</orth></inflection>
-<u>диал.</u> удила
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удила</text></cit>
 </sense>
 </entry>
 </superEntry>

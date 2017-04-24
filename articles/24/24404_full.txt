@@ -5,22 +5,21 @@
 <form>
 <orth type="lemma">full</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полный, наполненный (чем-л. - av noe)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный, наполненный (чем-л. - av noe)</text></cit>
 <сit type="example"><text>det er fullt av noe, det er fullt (opp) med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>множество, масса чего-л.</text></cit></cit>
 </sense>
 <sense>
-целый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целый</text></cit>
 <сit type="example"><text>fulle ti mil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целых десять миль</text></cit></cit>
 </sense>
 <sense>
-преисполненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преисполненный</text></cit>
 </sense>
 <sense>
-пьяный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пьяный</text></cit>
 <сit type="example"><text>full som et egg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> пьян как стелька</text></cit></cit>
 <сit type="example"><text>drikke seg full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напиваться пьяным</text></cit></cit>
 <сit type="example"><text>han er full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пьян, он напился пьяным</text></cit></cit>

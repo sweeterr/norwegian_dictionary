@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">slitbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-прочный, ноский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочный, ноский</text></cit>
 </sense>
 </entry>
 </superEntry>

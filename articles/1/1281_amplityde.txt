@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-величина колебания, амплитуда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>величина колебания, амплитуда</text></cit>
 <сit type="example"><text>lufttemperaturens årlige amplityde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>годовые колебания температуры воздуха</text></cit></cit>
 </sense>
 <sense>
-<u>физ.</u>, <u>астр.</u> амплитуда; размах(маятника)
+<usg>физ.</usg>
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амплитуда; размах(маятника)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">språkenhet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-языковая общность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>языковая общность</text></cit>
 </sense>
 </entry>
 </superEntry>

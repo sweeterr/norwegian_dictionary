@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bankbokholder</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-бухгалтер банка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухгалтер банка</text></cit>
 </sense>
 </entry>
 </superEntry>

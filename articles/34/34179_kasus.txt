@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, =</orth></inflection>
 </form>
 <sense>
-случай, обстоятельство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>случай, обстоятельство</text></cit>
 </sense>
 <sense>
-положение, ситуация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>положение, ситуация</text></cit>
 </sense>
 <sense>
-<u>мед.</u> заболевание
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заболевание</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> падеж
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падеж</text></cit>
 </sense>
 </entry>
 </superEntry>

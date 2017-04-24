@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">grunnspråk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>лингв.</u>
+<usg>лингв.</usg>
 </form>
 <sense>
-язык-основа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык-основа</text></cit>
 </sense>
 <sense>
-язык оригинала (произведения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык оригинала (произведения)</text></cit>
 </sense>
 </entry>
 </superEntry>

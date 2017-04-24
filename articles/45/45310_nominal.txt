@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">nominal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> именной
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>именной</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kakerlakk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-таракан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таракан</text></cit>
 <сit type="example"><text>som en kakerlakk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быстро, как испуганная лань (о движении)</text></cit></cit>
 </sense>
 </entry>

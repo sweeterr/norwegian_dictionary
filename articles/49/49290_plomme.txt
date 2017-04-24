@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">plomme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-слива (плод)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слива (плод)</text></cit>
 <сit type="example"><text>grønn plomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ренклод</text></cit></cit>
 <сit type="example"><text>gul plomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мирабель</text></cit></cit>
 </sense>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">plomme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-желток (яйца)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желток (яйца)</text></cit>
 </sense>
 </entry>
 </superEntry>

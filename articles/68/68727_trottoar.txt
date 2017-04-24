@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trottoar</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>уст.</u> тротуар
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тротуар</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">magnethjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эл.</u> ротор (мотора, генератора)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ротор (мотора, генератора)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">gesicht</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>разг.</u> <u>уст.</u> рожа, морда
+<usg>разг.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рожа, морда</text></cit>
 </sense>
 </entry>
 </superEntry>

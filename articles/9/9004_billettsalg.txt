@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">billettsalg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-продажа билетов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продажа билетов</text></cit>
 </sense>
 </entry>
 </superEntry>

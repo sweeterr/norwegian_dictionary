@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">landvern</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> <u>ист.</u> ландверн, войска местной обороны
+<usg>воен.</usg>
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ландверн, войска местной обороны</text></cit>
 </sense>
 </entry>
 </superEntry>

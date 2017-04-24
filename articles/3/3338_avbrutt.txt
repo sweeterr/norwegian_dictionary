@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">avbrutt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- крутой, обрывистый, отрывистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой, обрывистый, отрывистый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">avbrutt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- периодически, с перерывами, время от времени, урывками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>периодически, с перерывами, время от времени, урывками</text></cit>
 </sense>
 </entry>
 </superEntry>

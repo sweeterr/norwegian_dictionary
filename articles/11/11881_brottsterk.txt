@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">brottsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> очень сильный, могучий
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень сильный, могучий</text></cit>
 </sense>
 </entry>
 </superEntry>

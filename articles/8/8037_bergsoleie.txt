@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bergsoleie</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>бот.</u> лютик горный (Ranunculus montanus)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лютик горный (Ranunculus montanus)</text></cit>
 </sense>
 </entry>
 </superEntry>

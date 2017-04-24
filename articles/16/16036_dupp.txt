@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">dupp</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-кивок (головой), поклон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кивок (головой), поклон</text></cit>
 </sense>
 <sense>
-лёгкий сон, дремота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий сон, дремота</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">dupp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-поплавок (на удочке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок (на удочке)</text></cit>
 </sense>
 </entry>
 </superEntry>

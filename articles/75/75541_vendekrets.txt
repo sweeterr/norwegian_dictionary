@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vendekrets</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геогр.</u> тропик
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропик</text></cit>
 <сit type="example"><text>krepsens vendekrets</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тропик Рака</text></cit></cit>
 <сit type="example"><text>steinbukkens vendekrets</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тропик Козерога</text></cit></cit>
 </sense>

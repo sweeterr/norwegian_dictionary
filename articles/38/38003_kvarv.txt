@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kvarv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-круг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг</text></cit>
 </sense>
 <sense>
-оборот, период
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборот, период</text></cit>
 </sense>
 </entry><entry>
 <index></index>

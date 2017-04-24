@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balansestyring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>экон.</u> управление активами и пассивами
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление активами и пассивами</text></cit>
 </sense>
 </entry>
 </superEntry>

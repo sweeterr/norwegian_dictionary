@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">patrulje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-патруль, дозор, разъезд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>патруль, дозор, разъезд</text></cit>
 </sense>
 <sense>
-маршрут движения патруля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маршрут движения патруля</text></cit>
 </sense>
 </entry>
 </superEntry>

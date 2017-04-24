@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baisse tendens</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фин.</u> тенденция к понижению
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тенденция к понижению</text></cit>
 </sense>
 </entry>
 </superEntry>

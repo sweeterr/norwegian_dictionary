@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">panseravdeling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> танковое подразделение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>танковое подразделение</text></cit>
 </sense>
 </entry>
 </superEntry>

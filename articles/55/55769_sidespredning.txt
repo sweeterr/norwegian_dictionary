@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sidespredning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> боковое рассеивание (о снарядах)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковое рассеивание (о снарядах)</text></cit>
 </sense>
 </entry>
 </superEntry>

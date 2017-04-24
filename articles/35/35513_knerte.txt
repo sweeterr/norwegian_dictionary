@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">knerte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> пропустить стаканчик
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропустить стаканчик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-ударять, хлопать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударять, хлопать</text></cit>
 </sense>
 <sense>
-рубить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубить</text></cit>
 </sense>
 <sense>
-выстрелить из ружья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выстрелить из ружья</text></cit>
 </sense>
 </entry>
 </superEntry>

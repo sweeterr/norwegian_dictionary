@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">hyre</orth>
 <inflection><orth extent="part">-n (-t), -r (=)</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-служба на судне (по найму)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служба на судне (по найму)</text></cit>
 <сit type="example"><text>ta hyre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наниматься на судно</text></cit></cit>
 </sense>
 <sense>
-зарплата матроса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарплата матроса</text></cit>
 <сit type="example"><text>få (ha) sin fulle hyre med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>много возиться с кем», чем-л.</text></cit></cit>
 </sense>
 </entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">hyre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-нанимать (матросов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нанимать (матросов)</text></cit>
 <сit type="example"><text>hyre seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наниматься (на судно)</text></cit></cit>
 </sense>
 </entry>
@@ -30,7 +30,7 @@
 <form>
 <orth type="lemma">hyre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-снабжать спецодеждой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снабжать спецодеждой</text></cit>
 </sense>
 </entry>
 </superEntry>

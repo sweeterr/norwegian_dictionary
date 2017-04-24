@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">draft</orth>
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
-<u>мор.</u> частная карта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частная карта</text></cit>
 </sense>
 </entry>
 </superEntry>

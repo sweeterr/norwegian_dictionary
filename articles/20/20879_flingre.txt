@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-осколок (камня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осколок (камня)</text></cit>
 </sense>
 <sense>
-снежинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежинка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">flingre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> идти (валить) хлопьями (о снеге)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти (валить) хлопьями (о снеге)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">embryonal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>биол.</u> эмбриональный, зародышевый
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эмбриональный, зародышевый</text></cit>
 </sense>
 </entry>
 </superEntry>

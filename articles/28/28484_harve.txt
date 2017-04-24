@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">harve</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>с.-х.</u> боронить
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боронить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">harve</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-ловить (подцеплять) рыбу большим крючком с насадкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловить (подцеплять) рыбу большим крючком с насадкой</text></cit>
 </sense>
 </entry>
 </superEntry>

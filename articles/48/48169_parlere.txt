@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-говорить на языке высшего общества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить на языке высшего общества</text></cit>
 </sense>
 <sense>
-<u>уст.</u> вести светский разговор
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести светский разговор</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">prette</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> шутка, проделка, фокус, выходка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, проделка, фокус, выходка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">prette</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> устраивать проделки, дразнить
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать проделки, дразнить</text></cit>
 </sense>
 </entry>
 </superEntry>

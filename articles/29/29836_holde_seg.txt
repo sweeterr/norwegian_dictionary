@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">holde seg</orth>
 <inflection><orth>holdt, holdt</orth></inflection>
-продержаться (о крепости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продержаться (о крепости)</text></cit>
 <сit type="example"><text>holde seg flytende (over vannet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться на воде</text></cit></cit>
 <сit type="example"><text>holde seg godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо сохраниться, хорошо держаться (несмотря на возраст)</text></cit></cit>
 <сit type="example"><text>holde seg borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться на расстоянии</text></cit></cit>

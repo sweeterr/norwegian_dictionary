@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-остановка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остановка</text></cit>
 <сit type="example"><text>sette stopp for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>положить конец чему-л., прекратить что-л.</text></cit></cit>
 </sense>
 <sense>
-сигнал остановки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнал остановки</text></cit>
 <сit type="example"><text>slå stopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подать сигнал остановки</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> остановка (место)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остановка (место)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +24,7 @@
 <form>
 <orth type="lemma">stopp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-набивка, заполнитель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набивка, заполнитель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +32,7 @@
 <form>
 <orth type="lemma">stopp</orth>
 <gramGrp><pos>int</pos></gramGrp>
-стой, стоп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стой, стоп</text></cit>
 <сit type = "example"><text>si stopp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сказать «хватит», отказываться (от чего-л.)</text></cit></cit>
 <сit type = "example"><text>si stopp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> протестовать, возражать</text></cit></cit>
 </sense>

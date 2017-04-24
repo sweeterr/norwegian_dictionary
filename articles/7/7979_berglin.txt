@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">berglin</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>бот.</u> лён альпийский (Linum alpinum)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лён альпийский (Linum alpinum)</text></cit>
 </sense>
 </entry>
 </superEntry>

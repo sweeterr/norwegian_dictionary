@@ -5,36 +5,36 @@
 <form>
 <orth type="lemma">frisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-свежий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий</text></cit>
 <сit type="example"><text>friskt fra fatet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо из бочки (о пиве)</text></cit></cit>
 </sense>
 <sense>
-освежающий, бодрящий, укрепляющий (о воздухе, воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освежающий, бодрящий, укрепляющий (о воздухе, воде)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> свежий (о ветре)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (о ветре)</text></cit>
 <сit type="example"><text>han er frisk i dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> сегодня дует свежий ветер</text></cit></cit>
 </sense>
 <sense>
-новый (о месте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>новый (о месте)</text></cit>
 <сit type="example"><text>flytte til et friskt sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переехать на новое место</text></cit></cit>
 </sense>
 <sense>
-бодрый (о настроении, самочувствии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрый (о настроении, самочувствии)</text></cit>
 </sense>
 <sense>
-здоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый</text></cit>
 <сit type="example"><text>frisk og rask</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый и бодрый</text></cit></cit>
 <сit type="example"><text>være riktig frisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в здравом уме</text></cit></cit>
 <сit type="example"><text>frisk og sund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно здоровый</text></cit></cit>
 <сit type="example"><text>frisk som en fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> свеж как огурчик</text></cit></cit>
 </sense>
 <sense>
-сочный, яркий (о красках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочный, яркий (о красках)</text></cit>
 </sense>
 </entry>
 <entry>

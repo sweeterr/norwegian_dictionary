@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">annenhver</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-каждый второй
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каждый второй</text></cit>
 </sense>
 </entry>
 </superEntry>

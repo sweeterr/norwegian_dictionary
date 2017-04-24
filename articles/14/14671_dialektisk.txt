@@ -7,10 +7,12 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-<u>лингв.</u> диалектальный, диалектологический
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диалектальный, диалектологический</text></cit>
 </sense>
 <sense>
-<u>филос.</u> диалектический
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диалектический</text></cit>
 <сit type="example"><text>dialektisk materialisme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>диалектический материализм</text></cit></cit>
 </sense>
 </entry>

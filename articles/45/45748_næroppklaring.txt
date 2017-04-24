@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">næroppklaring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>воен.</u> ближняя (тактическая) разведка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближняя (тактическая) разведка</text></cit>
 </sense>
 </entry>
 </superEntry>

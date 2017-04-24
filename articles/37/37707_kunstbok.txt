@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kunstbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-книга по (изобразительному) искусству
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга по (изобразительному) искусству</text></cit>
 </sense>
 </entry>
 </superEntry>

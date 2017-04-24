@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ringing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-звон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ringing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-кольцевание (птиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцевание (птиц)</text></cit>
 </sense>
 </entry>
 </superEntry>

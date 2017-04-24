@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sisten</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-игра в салки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра в салки</text></cit>
 <сit type="example"><text>gi én sisten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осалить кого-л.</text></cit></cit>
 <сit type="example"><text>le(i)ke sisten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в салки</text></cit></cit>
 </sense>

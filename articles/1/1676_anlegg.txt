@@ -7,36 +7,39 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-стройка, строительство, сооружение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стройка, строительство, сооружение</text></cit>
 <сit type="example"><text>ute på anlegget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на стройке</text></cit></cit>
 </sense>
 <sense>
-постройка, сооружение (здание и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постройка, сооружение (здание и т. п.)</text></cit>
 </sense>
 <sense>
-предприятие, комбинат, учреждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предприятие, комбинат, учреждение</text></cit>
 </sense>
 <sense>
-закладка (здания), разбивка (сада)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закладка (здания), разбивка (сада)</text></cit>
 </sense>
 <sense>
-парк, сад, насаждения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парк, сад, насаждения</text></cit>
 </sense>
 <sense>
-способности, задатки, данные (к чему-л.— for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способности, задатки, данные (к чему-л.— for)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> возбуждение судебного дела (против кого-л.— mot)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждение судебного дела (против кого-л.— mot)</text></cit>
 </sense>
 <sense>
-<u>физиол.</u> зародыш
+<usg>физиол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зародыш</text></cit>
 </sense>
 <sense>
-<u>мед.</u> предрасположение, предрасположенность (к болезни)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предрасположение, предрасположенность (к болезни)</text></cit>
 <сit type="example"><text>ha anlegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь предрасположение (к чему-л.—for)</text></cit></cit>
 </sense>
 <sense>
-установка оружия на огневые позиции, принятие положения для стрельбы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>установка оружия на огневые позиции, принятие положения для стрельбы</text></cit>
 <сit type="example"><text>skyte i anlegg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять с упора</text></cit></cit>
 </sense>
 </entry>

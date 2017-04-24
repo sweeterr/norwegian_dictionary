@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gotlandsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-готландский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готландский</text></cit>
 </sense>
 </entry>
 </superEntry>

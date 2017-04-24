@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">negativ</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>фото</u> негатив
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негатив</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">negativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-отрицательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрицательный</text></cit>
 </sense>
 <sense>
-<u>фото</u> негативный
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негативный</text></cit>
 </sense>
 </entry>
 </superEntry>

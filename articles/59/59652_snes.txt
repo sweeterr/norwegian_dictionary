@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">snes</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-два десятка (как единица счёта штучных товаров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>два десятка (как единица счёта штучных товаров)</text></cit>
 <сit type="example"><text>for et (en) snes år siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лет двадцать тому назад</text></cit></cit>
 </sense>
 </entry>

@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-птица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>птица</text></cit>
 <сit type="example"><text>det er hverken fugl eller fisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> ни рыба, ни мясо</text></cit></cit>
 <сit type="example"><text>ha hørt en fugl synge om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слышать слухи (разговоры) о чём-л.</text></cit></cit>
 <сit type="example"><text>en fugl i hånden er bedre enn ti på taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> синица в руках лучше соловья в лесу</text></cit></cit>
 <сit type="example"><text>like fugler flyr best i flokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> одинаковые дети друг с другом лучше всего играют</text></cit></cit>
 </sense>
 <sense>
-дичь (птица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дичь (птица)</text></cit>
 <сit type="example"><text>en fattig fugl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бедняк, бедный человек</text></cit></cit>
 <сit type="example"><text>en fremmed fugl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чужак, чужой человек</text></cit></cit>
 <сit type="example"><text>han er en sjelden fugl på disse kanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он редкий гость в этих краях</text></cit></cit>
 <сit type="example"><text>løs fugl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> проститутка</text></cit></cit>
-<u>эвф.</u> ночная бабочка
+<usg>эвф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночная бабочка</text></cit>
 </sense>
 </entry>
 </superEntry>

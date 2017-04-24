@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lissing</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-крепление (парусов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепление (парусов)</text></cit>
 </sense>
 <sense>
-верёвка для крепления чего-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верёвка для крепления чего-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

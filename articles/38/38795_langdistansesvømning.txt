@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">langdistansesvømning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>спорт.</u> плавание (заплыв) на большие дистанции
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавание (заплыв) на большие дистанции</text></cit>
 </sense>
 </entry>
 </superEntry>

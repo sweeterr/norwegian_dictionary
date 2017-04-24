@@ -4,16 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">berøve</orth>
-<inflection><orth extent="part">-et</orth></inflection>
- (-de), 
-<inflection><orth extent="part">-et</orth></inflection>
-(-d)
+<inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-лишать (чего-л. - av), отнимать силой (что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лишать (чего-л. - av), отнимать силой (что-л.)</text></cit>
 </sense>
 <sense>
-(о)грабить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(о)грабить</text></cit>
 </sense>
 </entry>
 </superEntry>

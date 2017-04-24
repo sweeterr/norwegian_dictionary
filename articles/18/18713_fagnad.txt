@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fagnad</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> радость, веселье
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радость, веселье</text></cit>
 </sense>
 </entry>
 </superEntry>

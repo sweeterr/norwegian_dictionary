@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">abrasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геол.</u> абразия, истирание, разрушение суши морским прибоем
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абразия, истирание, разрушение суши морским прибоем</text></cit>
 </sense>
 </entry>
 </superEntry>

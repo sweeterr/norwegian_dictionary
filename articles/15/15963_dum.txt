@@ -5,32 +5,33 @@
 <form>
 <orth type="lemma">dum</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глупый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый</text></cit>
 <сit type="example"><text>dum som en stut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глуп как пробка</text></cit></cit>
 </sense>
 <sense>
-ограниченный, туповатый, неумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченный, туповатый, неумный</text></cit>
 </sense>
 <sense>
-неумелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неумелый</text></cit>
 <сit type="example"><text>være dum til (+ инфинитив)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не уметь (делать что-л.)</text></cit></cit>
 <сit type="example"><text>være dum i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не разбираться (в чем-л), не понимать (чего-л.)</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> противный, надоевший, негодный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противный, надоевший, негодный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> ничего не выражающий, ничего не видящий (о глазах)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ничего не выражающий, ничего не видящий (о глазах)</text></cit>
 </sense>
 <sense>
-мутный, непрозрачный, запотевший (о стёклах очков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мутный, непрозрачный, запотевший (о стёклах очков)</text></cit>
 </sense>
 <sense>
-глухой, глуховатый, плохо слышащий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой, глуховатый, плохо слышащий</text></cit>
 </sense>
 </entry>
 </superEntry>

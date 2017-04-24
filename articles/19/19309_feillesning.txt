@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">feillesning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-неправильное чтение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неправильное чтение</text></cit>
 </sense>
 </entry>
 </superEntry>

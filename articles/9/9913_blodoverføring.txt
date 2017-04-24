@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blodoverføring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мед.</u> переливание крови
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переливание крови</text></cit>
 </sense>
 </entry>
 </superEntry>

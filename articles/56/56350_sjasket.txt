@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sjasket</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-выцветший, блёклый, мятый, потрёпанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выцветший, блёклый, мятый, потрёпанный</text></cit>
 </sense>
 <sense>
-неопрятный, неряшливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопрятный, неряшливый</text></cit>
 </sense>
 <sense>
-обвислый, обвисший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвислый, обвисший</text></cit>
 </sense>
 </entry>
 </superEntry>

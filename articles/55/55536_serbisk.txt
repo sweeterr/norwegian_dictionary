@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">serbisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-сербский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сербский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">serbisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-сербский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сербский</text></cit>
 </sense>
 </entry>
 </superEntry>

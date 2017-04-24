@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-крутой склон, усыпанный камнями (галькой), каменная россыпь на склоне горы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой склон, усыпанный камнями (галькой), каменная россыпь на склоне горы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">ur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. uer
+<usg>диал.</usg>
+<ref>uer</ref>
 </sense>
 </entry>
 <entry>
@@ -21,13 +22,13 @@
 <form>
 <orth type="lemma">ur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ливень в горах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ливень в горах</text></cit>
 </sense>
 <sense>
-ложное солнце
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложное солнце</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +36,7 @@
 <form>
 <orth type="lemma">ur</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-часы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часы</text></cit>
 <сit type="example"><text>elektrisk ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>электрические часы</text></cit></cit>
 <сit type="example"><text>frøken Ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> «точное время» (автоматическая телефонная станция точного времени)</text></cit></cit>
 <сit type="example"><text>etter mitt ur</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по моим часам</text></cit></cit>
@@ -48,7 +49,8 @@
 <form>
 <orth type="lemma">ur</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> очень, чрезвычайно
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень, чрезвычайно</text></cit>
 <сit type="example"><text>ur liten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малюсенький</text></cit></cit>
 <сit type="example"><text>ur tynn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тонюсенький</text></cit></cit>
 </sense>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grunnkapital</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эк.</u> основной капитал
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основной капитал</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sekstiende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-
 <gramGrp><pos>num</pos></gramGrp>
- шестидесятый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шестидесятый</text></cit>
 </sense>
 </entry>
 </superEntry>

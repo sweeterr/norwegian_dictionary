@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ask</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-ясень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ясень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-коробка, шкатулка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коробка, шкатулка</text></cit>
 </sense>
 <sense>
-маслёнка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маслёнка</text></cit>
 </sense>
 <sense>
-кринка (для молока)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кринка (для молока)</text></cit>
 </sense>
 </entry>
 </superEntry>

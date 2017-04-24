@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-жалоба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалоба</text></cit>
 </sense>
 <sense>
-претензия (к кому-л.— mot), возражение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>претензия (к кому-л.— mot), возражение</text></cit>
 </sense>
 <sense>
-<u>юр.</u> апелляция
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>апелляция</text></cit>
 <сit type="example"><text>en anke over en dom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обжалование решения суда</text></cit></cit>
 <сit type="example"><text>avvise en anke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклонять - апелляцию</text></cit></cit>
 </sense>
@@ -25,13 +26,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-беспокоиться (о чём-л. — på), быть озабоченным (чём-л.—på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоиться (о чём-л. — på), быть озабоченным (чём-л.—på)</text></cit>
 </sense>
 <sense>
-жаловаться (на что-л. — over, for), выражать претензию (недовольство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаловаться (на что-л. — over, for), выражать претензию (недовольство)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> обжаловать, подавать обжалование
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжаловать, подавать обжалование</text></cit>
 <сit type="example"><text>anke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> выть, скулить, хныкать</text></cit></cit>
 </sense>
 </entry>
@@ -40,7 +42,7 @@
 <form>
 <orth type="lemma">anke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> 
+<usg>диал.</usg>
 <ref>ank 1)</ref>
 </sense>
 </entry>
@@ -49,7 +51,8 @@
 <form>
 <orth type="lemma">anke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> морянка, или аулейка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морянка, или аулейка</text></cit>
 </sense>
 </entry>
 </superEntry>

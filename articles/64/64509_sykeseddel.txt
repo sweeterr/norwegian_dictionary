@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-delen, -ler</orth></inflection>
 </form>
 <sense>
-записка о болезни учащегося
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записка о болезни учащегося</text></cit>
 </sense>
 <sense>
-<u>воен.</u> донесение о количестве больных
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>донесение о количестве больных</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">malmrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-рудоносный, богатый рудами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рудоносный, богатый рудами</text></cit>
 </sense>
 <sense>
-ядровый (о древесине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ядровый (о древесине)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> металлический (о звуке)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлический (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-мастерство, отличное умение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мастерство, отличное умение</text></cit>
 <сit type="example"><text>med mesterskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с блеском, мастерски</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> первенство, чемпионат
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первенство, чемпионат</text></cit>
 <сit type="example"><text>vinne mesterskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выиграть первенство</text></cit></cit>
 </sense>
 </entry>

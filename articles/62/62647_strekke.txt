@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>горн.</u> штрек
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штрек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth>strakk (strakte), strukket (strakt)</orth></inflection>
 </form>
 <sense>
-простираться, распространяться (на что-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простираться, распространяться (на что-л. - til)</text></cit>
 </sense>
 <sense>
-хватать, быть достаточным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватать, быть достаточным</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,22 +29,24 @@
 <inflection><orth>strakte (strekte), strakt (strekt)</orth></inflection>
 </form>
 <sense>
-натягивать (трос и т. п.), вытягивать, растягивать, тянуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натягивать (трос и т. п.), вытягивать, растягивать, тянуть</text></cit>
 </sense>
 <sense>
-протягивать (руку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протягивать (руку)</text></cit>
 <сit type="example"><text>strekke på årene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> выгребать, сильно грести</text></cit></cit>
 <сit type="example"><text>strekke til jorda</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свалить с ног кого-л.</text></cit></cit>
 <сit type="example"><text>strekke gevær (våpen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сложить оружие (в знак сдачи)</text></cit></cit>
 </sense>
 <sense>
-прокладывать (кабель), <u>ж.-д.</u> укладывать рельсы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать (кабель), <lbl>ж.-д.</lbl> укладывать рельсы</text></cit>
 </sense>
 <sense>
-<u>тех.</u> прокатывать, вальцевать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокатывать, вальцевать</text></cit>
 </sense>
 <sense>
-<u>мор.</u> прокладывать курс
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать курс</text></cit>
 </sense>
 </entry>
 </superEntry>

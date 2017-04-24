@@ -5,19 +5,20 @@
 <form>
 <orth type="lemma">tasse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-призрак, привидение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призрак, привидение</text></cit>
 </sense>
 <sense>
-карапуз, малыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карапуз, малыш</text></cit>
 </sense>
 <sense>
-<u>фольк.</u> гном
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гном</text></cit>
 </sense>
 <sense>
-лапа, лапка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лапа, лапка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,16 +26,16 @@
 <form>
 <orth type="lemma">tasse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неуклюже двигаться, ковылять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуклюже двигаться, ковылять</text></cit>
 </sense>
 <sense>
-толкаться, околачиваться (среди кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкаться, околачиваться (среди кого-л.)</text></cit>
 </sense>
 <sense>
-перебиваться, еле-еле сводить концы с концами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перебиваться, еле-еле сводить концы с концами</text></cit>
 </sense>
 </entry>
 </superEntry>

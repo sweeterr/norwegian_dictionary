@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">entallsform</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>грам.</u> форма единственного числа
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форма единственного числа</text></cit>
 </sense>
 </entry>
 </superEntry>

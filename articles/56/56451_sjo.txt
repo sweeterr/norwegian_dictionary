@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sjo</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> шум (ветра, воды)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум (ветра, воды)</text></cit>
 </sense>
 </entry>
 </superEntry>

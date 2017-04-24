@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">legehjelp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-медицинская (врачебная) помощь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медицинская (врачебная) помощь</text></cit>
 <сit type="example"><text>søke legehjelp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обращаться к врачам за помощью</text></cit></cit>
 </sense>
 </entry>

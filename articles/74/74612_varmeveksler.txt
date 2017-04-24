@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">varmeveksler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>тех.</u> теплообменник (в атомных реакторах)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплообменник (в атомных реакторах)</text></cit>
 </sense>
 </entry>
 </superEntry>

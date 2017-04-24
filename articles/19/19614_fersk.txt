@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">fersk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-свежий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий</text></cit>
 </sense>
 <sense>
-пресный, не солёный (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пресный, не солёный (о воде)</text></cit>
 </sense>
 <sense>
-только что испечённый, мягкий (о хлебе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>только что испечённый, мягкий (о хлебе)</text></cit>
 </sense>
 <sense>
-здоровый, бодрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый, бодрый</text></cit>
 </sense>
 <sense>
-последний (о новостях, газетах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>последний (о новостях, газетах)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fallrep</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-фалреп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фалреп</text></cit>
 </sense>
 <sense>
-забортный трап
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забортный трап</text></cit>
 <сit type="example"><text>på fallrepet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перед самым отъездом, в последнюю минуту</text></cit></cit>
 </sense>
 </entry>

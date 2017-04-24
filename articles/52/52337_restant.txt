@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">restant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-должник; человек, имеющий задолженность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должник; человек, имеющий задолженность</text></cit>
 <сit type="example"><text>avskrive restanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>бухг.</lbl> списать остатки (задолженность)</text></cit></cit>
 </sense>
 </entry>

@@ -5,19 +5,18 @@
 <form>
 <orth type="lemma">kjekk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-смелый, отважный, храбрый, мужественный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смелый, отважный, храбрый, мужественный</text></cit>
 <сit type="example"><text>han ser kjekk ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он выглядит молодцом</text></cit></cit>
 <сit type="example"><text>se kjekk ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держись, будь молодцом</text></cit></cit>
 </sense>
 <sense>
-привлекательный, симпатичный, общительный, приятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привлекательный, симпатичный, общительный, приятный</text></cit>
 </sense>
 <sense>
-дерзкий, несдержанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дерзкий, несдержанный</text></cit>
 4)бравый, здоровый, крепкий (о человеке)
 </sense>
 </entry>

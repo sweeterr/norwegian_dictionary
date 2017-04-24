@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ble</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-перелистывать (книгу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перелистывать (книгу)</text></cit>
 </sense>
 <sense>
-выбирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбирать</text></cit>
 </sense>
 </entry><entry>
 <index></index>

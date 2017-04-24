@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-горшок, чугунок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горшок, чугунок</text></cit>
 </sense>
 <sense>
-цветочный горшок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цветочный горшок</text></cit>
 </sense>
 <sense>
-ночной горшок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ночной горшок</text></cit>
 </sense>
 <sense>
-<u>тех.</u> тигель (для плавки стекла)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тигель (для плавки стекла)</text></cit>
 <сit type="example"><text>tett som en potte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непроницаемый для воды, не пропускающий воду (о лодке, судне)</text></cit></cit>
 <сit type="example"><text>komme (være) på potta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказаться (быть) в трудном положении, испытывать какие-л. затруднения</text></cit></cit>
 </sense>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">potte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сажать в горшок (цветок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сажать в горшок (цветок)</text></cit>
 <сit type="example"><text>potte om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживать (в горшок)</text></cit></cit>
 <сit type="example"><text>potte ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высаживать</text></cit></cit>
 </sense>

@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">naken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-голый, обнажённый, нагой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голый, обнажённый, нагой</text></cit>
 <сit type="example"><text>kle én naken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздеть догола</text></cit></cit>
 </sense>
 <sense>
-лишённый растительности (листвы), оголённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лишённый растительности (листвы), оголённый</text></cit>
 </sense>
 <sense>
-неприкрытый, неприкрашенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприкрытый, неприкрашенный</text></cit>
 <сit type="example"><text>den nakne sannhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистая правда</text></cit></cit>
 </sense>
 </entry>

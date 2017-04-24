@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sidetipper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ж.-д.</u> вагон, (само)разгружающийся в сторону
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вагон, (само)разгружающийся в сторону</text></cit>
 </sense>
 </entry>
 </superEntry>

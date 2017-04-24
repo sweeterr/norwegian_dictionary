@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">portvene</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> воротная вена
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воротная вена</text></cit>
 </sense>
 </entry>
 </superEntry>

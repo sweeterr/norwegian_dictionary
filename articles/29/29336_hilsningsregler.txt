@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hilsningsregler</orth>
 <inflection><orth extent="part">-ne</orth></inflection>
-<u>воен.</u> правила отдания чести
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правила отдания чести</text></cit>
 </sense>
 </entry>
 </superEntry>

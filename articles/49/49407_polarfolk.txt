@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">polarfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-жители полярных районов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жители полярных районов</text></cit>
 </sense>
 <sense>
-полярники
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полярники</text></cit>
 </sense>
 </entry>
 </superEntry>

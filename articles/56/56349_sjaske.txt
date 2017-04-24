@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">sjaske</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-чавкать, булькать (о грязи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чавкать, булькать (о грязи)</text></cit>
 </sense>
 <sense>
-идти (шлёпать) по грязи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти (шлёпать) по грязи</text></cit>
 </sense>
 <sense>
-делать что-л. наспех, халтурить (тж. sjaske av, sjaske unna)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать что-л. наспех, халтурить (тж. sjaske av, sjaske unna)</text></cit>
 </sense>
 </entry>
 </superEntry>

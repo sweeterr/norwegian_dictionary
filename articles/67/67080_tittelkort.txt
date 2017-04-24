@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tittelkort</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-каталожная карточка на заглавие книги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каталожная карточка на заглавие книги</text></cit>
 </sense>
 </entry>
 </superEntry>

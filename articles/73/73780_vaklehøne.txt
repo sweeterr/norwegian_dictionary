@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">vaklehøne</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>разг.</u> <u>презр.</u> неустойчивый, нерешительный человек, «флюгер»
+<usg>разг.</usg>
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неустойчивый, нерешительный человек, «флюгер»</text></cit>
 </sense>
 </entry>
 </superEntry>

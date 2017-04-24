@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">kontrær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-противный, встречный (с ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противный, встречный (с ветре)</text></cit>
 </sense>
 <sense>
-диаметрально противоположный (о взглядах, мнениях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диаметрально противоположный (о взглядах, мнениях)</text></cit>
 </sense>
 </entry>
 </superEntry>

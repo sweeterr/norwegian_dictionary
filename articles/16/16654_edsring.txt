@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">edsring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> кольцо, на котором клялись древние скандинавы
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо, на котором клялись древние скандинавы</text></cit>
 </sense>
 </entry>
 </superEntry>

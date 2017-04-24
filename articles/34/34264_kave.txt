@@ -4,9 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">kave</orth>
--n, 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-n,</text></cit>
 <inflection><orth extent="part">-t</orth></inflection>
-см. kav II 1)
+<ref>kav II 1)</ref>
 </sense>
 </entry>
 <entry>
@@ -16,16 +16,16 @@
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
 </form>
 <sense>
-барахтаться (в воде, снегу и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барахтаться (в воде, снегу и т. п.)</text></cit>
 </sense>
 <sense>
-размахивать руками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размахивать руками</text></cit>
 </sense>
 <sense>
-хватать (быстрым движением)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватать (быстрым движением)</text></cit>
 </sense>
 <sense>
-пробиваться (через лес, в снегу и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробиваться (через лес, в снегу и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

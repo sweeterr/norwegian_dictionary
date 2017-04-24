@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">atomfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-безъядерный (напр. безъядерная зона)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безъядерный (напр. безъядерная зона)</text></cit>
 </sense>
 </entry>
 </superEntry>

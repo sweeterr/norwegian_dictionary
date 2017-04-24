@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">masteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безмачтовый, лишённый мачт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безмачтовый, лишённый мачт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vevnad</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тканьё, ткачество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тканьё, ткачество</text></cit>
 </sense>
 <sense>
-кустарная ткань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кустарная ткань</text></cit>
 </sense>
 </entry>
 </superEntry>

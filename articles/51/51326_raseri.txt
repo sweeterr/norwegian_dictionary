@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">raseri</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-ярость, бешенство, гнев, злость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ярость, бешенство, гнев, злость</text></cit>
 <сit type="example"><text>i stigende raseri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>со всё возрастающей силой</text></cit></cit>
 </sense>
 </entry>

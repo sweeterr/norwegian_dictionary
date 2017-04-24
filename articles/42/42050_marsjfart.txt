@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">marsjfart</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u>, <u>ав.</u> крейсерская скорость
+<usg>мор.</usg>
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крейсерская скорость</text></cit>
 </sense>
 </entry>
 </superEntry>

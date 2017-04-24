@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kommerseråd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>уст.</u> коммерции советник (титул, присваиваемый купцам)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коммерции советник (титул, присваиваемый купцам)</text></cit>
 </sense>
 </entry>
 </superEntry>

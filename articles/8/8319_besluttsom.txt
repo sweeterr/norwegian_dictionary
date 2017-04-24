@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">besluttsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-решительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решительный</text></cit>
 </sense>
 </entry>
 </superEntry>

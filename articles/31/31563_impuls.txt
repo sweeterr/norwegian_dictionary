@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-порыв, побуждение, толчок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порыв, побуждение, толчок</text></cit>
 </sense>
 <sense>
-<u>эл.</u> импульс
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>импульс</text></cit>
 </sense>
 </entry>
 </superEntry>

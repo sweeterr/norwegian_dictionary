@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">materialprøve</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-испытание материалов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытание материалов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">materialprøve</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
- испытывать материалы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать материалы</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,28 +5,28 @@
 <form>
 <orth type="lemma">rinne</orth>
 <inflection><orth>rant, runnet</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-течь, протекать, хлынуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, протекать, хлынуть</text></cit>
 </sense>
 <sense>
-бесшумно скользить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесшумно скользить</text></cit>
 </sense>
 <sense>
-струиться (о свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струиться (о свете)</text></cit>
 </sense>
 <sense>
-плыть (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть (о звуке)</text></cit>
 </sense>
 <sense>
-всходить (о солнце, луне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всходить (о солнце, луне)</text></cit>
 </sense>
 <sense>
-наступать (об эпохе, периоде, времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наступать (об эпохе, периоде, времени)</text></cit>
 </sense>
 <sense>
-происходить (из чего-л. - av)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>происходить (из чего-л. - av)</text></cit>
 <сit type="example"><text>rinne én i minne (i hu, i sinne)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти кому-л. на память</text></cit></cit>
 <сit type="example"><text>rinne ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стекать</text></cit></cit>
 <сit type="example"><text>rinne sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сливаться в одно целое <lbl>тж. перен.</lbl></text></cit></cit>

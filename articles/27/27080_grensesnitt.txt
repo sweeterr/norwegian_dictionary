@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grensesnitt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> интерфейс, устройство сопряжения
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интерфейс, устройство сопряжения</text></cit>
 </sense>
 </entry>
 </superEntry>

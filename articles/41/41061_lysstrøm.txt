@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-поток света
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поток света</text></cit>
 </sense>
 <sense>
-<u>эл.</u> электроток
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электроток</text></cit>
 </sense>
 </entry>
 </superEntry>

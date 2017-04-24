@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gal</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-пение (крик) петуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пение (крик) петуха</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,38 +13,37 @@
 <form>
 <orth type="lemma">gal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-сумасшедший, умалишённый, рехнувшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший, умалишённый, рехнувшийся</text></cit>
 <сit type="example"><text>være splitter gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обезуметь, сойти с ума</text></cit></cit>
 <сit type="example"><text>er du gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты с ума сошёл</text></cit></cit>
 </sense>
 <sense>
-бешеный, взбесившийся (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бешеный, взбесившийся (о животных)</text></cit>
 </sense>
 <sense>
-сердитый, взбешённый, разъярённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердитый, взбешённый, разъярённый</text></cit>
 <сit type="example"><text>bli gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассердиться, разозлиться (на кого-л. - på noen, на что-л. - over noe)</text></cit></cit>
 <сit type="example"><text>slå seg gal</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассвирепеть</text></cit></cit>
 </sense>
 <sense>
-глупый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый</text></cit>
 </sense>
 <sense>
-необузданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необузданный</text></cit>
 <сit type="example"><text>bli gale etter hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>влюбиться друг в друга</text></cit></cit>
 <сit type="example"><text>være gal etter noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>безумно любить (делать что-л.)</text></cit></cit>
 </sense>
 <sense>
-неправильный, неверный, ошибочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неправильный, неверный, ошибочный</text></cit>
 <сit type="example"><text>det uret går galt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эти часы ходят неправильно</text></cit></cit>
 <сit type="example"><text>komme på gale veier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> вступить на ложный путь</text></cit></cit>
 <сit type="example"><text>være på gale veier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ложном пути</text></cit></cit>
 </sense>
 <sense>
-плохой, скверный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой, скверный</text></cit>
 <сit type="example"><text>det er galt fatt med ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с ним что-то произошло (случилось)</text></cit></cit>
 <сit type="example"><text>det er ikke så galt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не так плохо</text></cit></cit>
 <сit type="example"><text>komme galt avsted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо кончить, пасть (о женщине)</text></cit></cit>

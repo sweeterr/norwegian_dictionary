@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-реалист (писатель, композитор, художник)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реалист (писатель, композитор, художник)</text></cit>
 </sense>
 <sense>
-реалист (человек, трезво смотрящий на жизнь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реалист (человек, трезво смотрящий на жизнь)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">realist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-учащийся реального училища
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учащийся реального училища</text></cit>
 </sense>
 </entry>
 </superEntry>

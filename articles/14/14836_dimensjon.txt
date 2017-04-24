@@ -7,15 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>мат.</u>, <u>физ.</u> измерение
+<usg>мат.</usg>
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>измерение</text></cit>
 <сit type="example"><text>i tre dimensjoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в трёх измерениях</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-размеры, пропорции, величина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размеры, пропорции, величина</text></cit>
 </sense>
 <sense>
-значительная величина, большой объём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значительная величина, большой объём</text></cit>
 <сit type="example"><text>ha dimensjoner, være av dimensjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть большого размера</text></cit></cit>
 </sense>
 </entry>

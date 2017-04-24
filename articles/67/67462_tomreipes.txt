@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tomreipes</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-порожняком, без клади (пассажиров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порожняком, без клади (пассажиров)</text></cit>
 </sense>
 <sense>
-налегке (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>налегке (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

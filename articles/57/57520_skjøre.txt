@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skjøre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> кучка горящих углей (в печи, костре)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кучка горящих углей (в печи, костре)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">skjøre</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> трещина (в балке, бревне)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина (в балке, бревне)</text></cit>
 </sense>
 </entry>
 </superEntry>

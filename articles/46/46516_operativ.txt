@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">operativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-хирургический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хирургический</text></cit>
 </sense>
 <sense>
-<u>воен.</u> оперативный, действующий
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оперативный, действующий</text></cit>
 </sense>
 </entry>
 </superEntry>

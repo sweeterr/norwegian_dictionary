@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">delbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-делимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делимый</text></cit>
 </sense>
 </entry>
 </superEntry>

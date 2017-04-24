@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-мышечное волокно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мышечное волокно</text></cit>
 </sense>
 <sense>
-<u>разг.</u> клок волос
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клок волос</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-космы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>космы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +21,8 @@
 <form>
 <orth type="lemma">slintre</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> см. skjøge
+<usg>диал.</usg>
+<ref>skjøge</ref>
 </sense>
 </entry>
 </superEntry>

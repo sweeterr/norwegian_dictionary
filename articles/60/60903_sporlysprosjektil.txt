@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sporlysprosjektil</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> трассирующий снаряд, трассирующая пуля
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трассирующий снаряд, трассирующая пуля</text></cit>
 </sense>
 </entry>
 </superEntry>

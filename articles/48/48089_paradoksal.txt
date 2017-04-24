@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">paradoksal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-парадоксальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парадоксальный</text></cit>
 </sense>
 </entry>
 </superEntry>

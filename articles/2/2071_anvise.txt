@@ -7,23 +7,25 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-указывать, разъяснять, инструктировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывать, разъяснять, инструктировать</text></cit>
 </sense>
 <sense>
-отводить (место, квартиру, помещение, комнату)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отводить (место, квартиру, помещение, комнату)</text></cit>
 </sense>
 <sense>
-<u>бухг.</u> переводить (деньги) по почте
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переводить (деньги) по почте</text></cit>
 </sense>
 <sense>
-ассигновать, открывать кредит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ассигновать, открывать кредит</text></cit>
 <сit type="example"><text>anvise på en bank</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открыть кредит в банке</text></cit></cit>
 </sense>
 <sense>
-<u>лес.</u> клеймить (деревья для рубки)
+<usg>лес.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеймить (деревья для рубки)</text></cit>
 </sense>
 <sense>
-наводить на дичь (о собаках во время охоты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводить на дичь (о собаках во время охоты)</text></cit>
 </sense>
 </entry>
 </superEntry>

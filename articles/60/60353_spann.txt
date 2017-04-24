@@ -7,23 +7,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-бадья, ведро
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бадья, ведро</text></cit>
 </sense>
 <sense>
-спан (старинная мера сыпучих тел =9 кг)
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">spann</orth>
-<inflection><orth extent="part">-et, =</orth></inflection>
-</form>
-<sense>
-упряжка лошадей (собак, оленей)
-</sense>
-<sense>
-упряжь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спан (старинная мера сыпучих тел =9 кг)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,10 +20,23 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-пядь (мера длины, равная расстоянию между вытянутыми большим пальцем и мизинцем руки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упряжка лошадей (собак, оленей)</text></cit>
 </sense>
 <sense>
-короткий промежуток времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упряжь</text></cit>
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">spann</orth>
+<inflection><orth extent="part">-et, =</orth></inflection>
+</form>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пядь (мера длины, равная расстоянию между вытянутыми большим пальцем и мизинцем руки)</text></cit>
+</sense>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий промежуток времени</text></cit>
 </sense>
 </entry><entry>
 <index></index>

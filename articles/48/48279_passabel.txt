@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">passabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-терпимый, сносный, неплохой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терпимый, сносный, неплохой</text></cit>
 </sense>
 <sense>
-проезжий, проходимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проезжий, проходимый</text></cit>
 </sense>
 </entry>
 </superEntry>

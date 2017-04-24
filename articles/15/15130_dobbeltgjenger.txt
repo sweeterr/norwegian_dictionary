@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dobbeltgjenger</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-двойник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двойник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">dobbeltgjenger</orth>
 <gramGrp><num>pl</num></gramGrp>
-<u>тех.</u> двойная нарезка, резьба (на винтах)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двойная нарезка, резьба (на винтах)</text></cit>
 </sense>
 </entry>
 </superEntry>

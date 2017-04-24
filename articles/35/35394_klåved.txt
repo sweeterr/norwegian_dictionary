@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">klåved</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> мирикария германская
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мирикария германская</text></cit>
 </sense>
 </entry>
 </superEntry>

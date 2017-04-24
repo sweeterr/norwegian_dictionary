@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vegelsinn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> непостоянство, переменчивость
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непостоянство, переменчивость</text></cit>
 </sense>
 </entry>
 </superEntry>

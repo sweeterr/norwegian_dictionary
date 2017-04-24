@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">dimme</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-туман, дымка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туман, дымка</text></cit>
 </sense>
 <sense>
-полумрак, мгла
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полумрак, мгла</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">dimme</orth>
 <inflection><orth extent="part">-a (-met), -a (-met)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-затуманивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затуманивать</text></cit>
 </sense>
 <sense>
-делать тусклым (непрозрачным, плохо видимым)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать тусклым (непрозрачным, плохо видимым)</text></cit>
 </sense>
 </entry>
 </superEntry>

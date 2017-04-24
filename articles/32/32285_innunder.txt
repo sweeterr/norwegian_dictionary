@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">innunder</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-из-под(чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>из-под(чего-л.)</text></cit>
 </sense>
 <sense>
-под (чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>под (чем-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

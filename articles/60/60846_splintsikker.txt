@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">splintsikker</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-небьющийся (о стекле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небьющийся (о стекле)</text></cit>
 </sense>
 <sense>
-укрытый от осколков, непробиваемый осколками (<u>напр.</u> об убежище)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрытый от осколков, непробиваемый осколками (<lbl>напр.</lbl> об убежище)</text></cit>
 </sense>
 </entry>
 </superEntry>

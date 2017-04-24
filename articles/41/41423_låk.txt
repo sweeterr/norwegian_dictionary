@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">låk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плохой, слабый (о здоровье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой, слабый (о здоровье)</text></cit>
 </sense>
 <sense>
-хилый, болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, болезненный</text></cit>
 </sense>
 <sense>
-скверный, гадкий (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скверный, гадкий (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sanskrit</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>лингв.</u> санскрит, санскритский язык
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>санскрит, санскритский язык</text></cit>
 </sense>
 </entry>
 </superEntry>

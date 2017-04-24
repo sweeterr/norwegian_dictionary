@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-слегка пологая местность, неглубокая котловина, впадина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка пологая местность, неглубокая котловина, впадина</text></cit>
 </sense>
 <sense>
-полынья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полынья</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +20,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-провисать, отвисать (о тросе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провисать, отвисать (о тросе)</text></cit>
 </sense>
 <sense>
-расходиться, становиться рыхлым (о льдах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расходиться, становиться рыхлым (о льдах)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> травить (трос)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>травить (трос)</text></cit>
 <сit type="example"><text>slakke (på) farten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снижать скорость</text></cit></cit>
 <сit type="example"><text>slakke ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убавлять ход</text></cit></cit>
 <сit type="example"><text>slakke opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подтягивать, натягивать</text></cit></cit>

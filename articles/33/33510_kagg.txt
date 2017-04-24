@@ -5,16 +5,18 @@
 <form>
 <orth type="lemma">kagg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бочонок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бочонок</text></cit>
 </sense>
 <sense>
-<u>мор.</u> поплавок-бочонок
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок-бочонок</text></cit>
 </sense>
 <sense>
-<u>мор.</u> гичка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гичка</text></cit>
 </sense>
 </entry>
 </superEntry>

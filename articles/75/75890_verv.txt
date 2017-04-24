@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">verv</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u> см. verft
+<usg>диал.</usg>
+<ref>verft</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">verv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-задание, поручение, миссия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задание, поручение, миссия</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">verv</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-см. verve I
+<ref>verve I</ref>
 </sense>
 </entry>
 </superEntry>

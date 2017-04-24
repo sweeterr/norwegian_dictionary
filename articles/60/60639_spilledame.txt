@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">spilledame</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-учительница музыки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учительница музыки</text></cit>
 </sense>
 <sense>
-тапёрша
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тапёрша</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tusj</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-китайская тушь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>китайская тушь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">tusj</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> туш
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туш</text></cit>
 </sense>
 </entry>
 </superEntry>

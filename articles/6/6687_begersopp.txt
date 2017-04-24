@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begersopp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>биол.</u> плодовое тело сумчатого гриба
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плодовое тело сумчатого гриба</text></cit>
 </sense>
 </entry>
 </superEntry>

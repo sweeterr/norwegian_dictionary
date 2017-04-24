@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tår</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-глоток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток</text></cit>
 <сit type="example"><text>drikke (ta seg) en tår</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпить глоток вина</text></cit></cit>
 </sense>
 </entry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">alarmering</orth>
 <inflection><orth extent="part">-en</orth></inflection>
- <u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-тревога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тревога</text></cit>
 </sense>
 <sense>
-приведение в боевую готовность по тревоге
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приведение в боевую готовность по тревоге</text></cit>
 </sense>
 </entry>
 </superEntry>

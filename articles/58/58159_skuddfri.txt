@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skuddfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-не пробиваемый пулями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не пробиваемый пулями</text></cit>
 </sense>
 <sense>
-неуязвимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуязвимый</text></cit>
 <сit type="example"><text>gå skuddfri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оставаться невредимым (вне критики, неприятностей)</text></cit></cit>
 </sense>
 </entry>

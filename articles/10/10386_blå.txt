@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-синева (моря, неба)
-<сit type = "example"><text>det blå <u>перен.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небеса</text></cit></cit>
-<сit type = "example"><text>det blå <u>перен.</u></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синева (моря, неба)</text></cit>
+<сit type = "example"><text>det blå <lbl>перен.</lbl></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>небеса</text></cit></cit>
+<сit type = "example"><text>det blå <lbl>перен.</lbl></text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море</text></cit></cit>
 <сit type="example"><text>stirre speidende mot fjernets blå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всматриваться вдаль</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> горизонт
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горизонт</text></cit>
 <сit type="example"><text>fare fra blå til blå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ехать куда глаза глядят</text></cit></cit>
 </sense>
 </entry>
@@ -25,16 +26,16 @@
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-синий, голубой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синий, голубой</text></cit>
 </sense>
 <sense>
-синеющий на горизонте (о горах, лесах, далях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синеющий на горизонте (о горах, лесах, далях)</text></cit>
 </sense>
 <sense>
-благородный, аристократический, голубой крови (о происхождении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благородный, аристократический, голубой крови (о происхождении)</text></cit>
 </sense>
 <sense>
-багровый (от напряжения, от удара), посиневший (от холода)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багровый (от напряжения, от удара), посиневший (от холода)</text></cit>
 <сit type="example"><text>det skal du være blå for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> ты стараешься напрасно, у тебя ничего не получится</text></cit></cit>
 <сit type="example"><text>være blå for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть уверенным в чём-л</text></cit></cit>
 </sense>

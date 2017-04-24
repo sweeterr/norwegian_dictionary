@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">avrivning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-обтирание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обтирание</text></cit>
 <сit type="example"><text>kald avrivning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обтирание холодной водой</text></cit></cit>
 </sense>
 </entry>

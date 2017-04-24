@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et (-te), -er (-t)</orth></inflection>
 </form>
 <sense>
-возвышаться, выситься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвышаться, выситься</text></cit>
 </sense>
 <sense>
-вздыбиться, встать на дыбы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздыбиться, встать на дыбы</text></cit>
 </sense>
 <sense>
-артачиться, упорствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>артачиться, упорствовать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +29,8 @@
 <form>
 <orth type="lemma">steile</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-<u>ист.</u> подвергать колесованию
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подвергать колесованию</text></cit>
 </sense>
 </entry>
 </superEntry>

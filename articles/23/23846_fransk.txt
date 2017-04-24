@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fransk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-французский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>французский язык</text></cit>
 <сit type="example"><text>snakke (på) fransk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-французски</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">fransk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-французский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>французский</text></cit>
 <сit type="example"><text>i det franske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по-французски</text></cit></cit>
 <сit type="example"><text>en fransk kvinne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>француженка</text></cit></cit>
 </sense>

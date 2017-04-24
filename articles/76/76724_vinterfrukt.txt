@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vinterfrukt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>собир.</u> зимние сорта (яблок, груш)
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зимние сорта (яблок, груш)</text></cit>
 </sense>
 </entry>
 </superEntry>

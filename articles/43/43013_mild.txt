@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">mild</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий (о климате, погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий (о климате, погоде)</text></cit>
 <сit type="example"><text>det blir mildere i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погода становится теплее</text></cit></cit>
 </sense>
 <sense>
-мягкосердечный, кроткий, нежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкосердечный, кроткий, нежный</text></cit>
 </sense>
 <sense>
-лёгкий (о табаке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (о табаке)</text></cit>
 </sense>
 </entry>
 </superEntry>

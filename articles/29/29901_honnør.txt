@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>тк. sg</u> честь, уважение
+<usg>тк. sg</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честь, уважение</text></cit>
 </sense>
 <sense>
-<u>воен.</u> почести
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почести</text></cit>
 <сit type="example"><text>gi honnør</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавать честь, приветствовать</text></cit></cit>
 <сit type = "example"><text>gjøre honnør :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отдавать честь</text></cit></cit>
 <сit type = "example"><text>gjøre honnør :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отдавать честь с оружием на караул</text></cit></cit>

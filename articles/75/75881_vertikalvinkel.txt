@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>мат.</u> вертикальный угол
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертикальный угол</text></cit>
 </sense>
 <sense>
-<u>астр.</u> азимут
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>азимут</text></cit>
 </sense>
 </entry>
 </superEntry>

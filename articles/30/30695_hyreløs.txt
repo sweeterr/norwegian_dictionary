@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hyreløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безработный (только о моряках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безработный (только о моряках)</text></cit>
 </sense>
 </entry>
 </superEntry>

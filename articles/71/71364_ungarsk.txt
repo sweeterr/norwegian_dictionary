@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ungarsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-венгерский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>венгерский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ungarsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-венгерский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>венгерский</text></cit>
 </sense>
 </entry>
 </superEntry>

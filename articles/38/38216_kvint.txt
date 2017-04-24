@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kvint</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-квинта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квинта</text></cit>
 </sense>
 <sense>
-первая струна в скрипке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первая струна в скрипке</text></cit>
 </sense>
 </entry>
 </superEntry>

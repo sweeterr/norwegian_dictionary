@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avgangstillatelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> разрешение на выход из порта
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрешение на выход из порта</text></cit>
 </sense>
 </entry>
 </superEntry>

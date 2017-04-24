@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-медицина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медицина</text></cit>
 <сit type="example"><text>indre medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терапия</text></cit></cit>
 <сit type="example"><text>studere medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть студентом-медиком</text></cit></cit>
 </sense>
 <sense>
-лекарство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лекарство</text></cit>
 <сit type="example"><text>medisin til innvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лекарство для приёма внутрь</text></cit></cit>
 <сit type="example"><text>medisin til utvortes bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наружное лекарство</text></cit></cit>
 <сit type="example"><text>ta (inn) medisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать лекарство</text></cit></cit>

@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">gjerne</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp heller, superl helst)</orth></inflection>
+<inflection><orth>(komp heller, superl helst)</orth></inflection>
 </form>
 <sense>
-охотно, с удовольствием
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охотно, с удовольствием</text></cit>
 <сit type="example"><text>det kan gjerne være</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это вполне вероятно, возможно</text></cit></cit>
 <сit type="example"><text>det tror jeg gjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этому я охотно верю</text></cit></cit>
 <сit type="example"><text>rett gjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожалуйста</text></cit></cit>
@@ -17,11 +17,11 @@
 <сit type="example"><text>du kunne gjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты вполне мог</text></cit></cit>
 </sense>
 <sense>
-даже
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>даже</text></cit>
 <сit type="example"><text>jeg kan gjerne si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я даже могу сказать</text></cit></cit>
 </sense>
 <sense>
-вообще, как правило, часто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вообще, как правило, часто</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">ondskapsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-злобный, злой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злобный, злой</text></cit>
 </sense>
 <sense>
-злостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злостный</text></cit>
 </sense>
 </entry>
 </superEntry>

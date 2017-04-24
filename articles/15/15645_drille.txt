@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">drille</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сверлить, бурить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверлить, бурить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,23 +13,22 @@
 <form>
 <orth type="lemma">drille</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>с.-х.</u> сеять рядами
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеять рядами</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">drille</orth>
--te (-let), 
-<inflection><orth extent="part">-t</orth></inflection>
- (-let)
-<u>уст.</u>
+<inflection><orth extent="part">-te (-let),-t (-let)</orth></inflection>
+<usg>уст.</usg>
 </form>
 <sense>
-шутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутить</text></cit>
 </sense>
 <sense>
-дразнить, поддразнивать, задирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дразнить, поддразнивать, задирать</text></cit>
 </sense>
 </entry>
 </superEntry>

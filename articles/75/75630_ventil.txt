@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-отдушина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдушина</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бычий глаз (глухой иллюминатор)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бычий глаз (глухой иллюминатор)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> клапан, вентиль
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клапан, вентиль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-свечение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свечение</text></cit>
 </sense>
 <sense>
-отблеск, отсвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отблеск, отсвет</text></cit>
 </sense>
 <sense>
-сияние (луны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сияние (луны)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,16 +23,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-прояснение (погоды), просветление (в обстановке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прояснение (погоды), просветление (в обстановке)</text></cit>
 </sense>
 <sense>
-поляна, прогалина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поляна, прогалина</text></cit>
 </sense>
 <sense>
-амбразура (окна, двери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амбразура (окна, двери)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> диаметр трубы, просвет
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диаметр трубы, просвет</text></cit>
 </sense>
 </entry>
 <entry>
@@ -40,7 +41,7 @@
 <form>
 <orth type="lemma">lysning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-оглашение имён вступающих в брак (в церкви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оглашение имён вступающих в брак (в церкви)</text></cit>
 </sense>
 </entry>
 </superEntry>

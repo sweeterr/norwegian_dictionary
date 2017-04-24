@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mikrobiologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-микробиология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>микробиология</text></cit>
 </sense>
 </entry>
 </superEntry>

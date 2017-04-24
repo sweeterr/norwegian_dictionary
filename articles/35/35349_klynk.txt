@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">klynk</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>презр.</u>
+<usg>презр.</usg>
 </form>
 <sense>
-хныканье, всхлипывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хныканье, всхлипывание</text></cit>
 </sense>
 <sense>
-нытьё, постоянные жалобы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нытьё, постоянные жалобы</text></cit>
 </sense>
 </entry>
 </superEntry>

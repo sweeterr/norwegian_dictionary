@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rideinstruksjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> инструкция по верховой езде
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструкция по верховой езде</text></cit>
 </sense>
 </entry>
 </superEntry>

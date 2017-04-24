@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">virtuell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-возможный, допустимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возможный, допустимый</text></cit>
 </sense>
 </entry>
 </superEntry>

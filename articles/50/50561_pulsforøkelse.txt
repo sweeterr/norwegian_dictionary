@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pulsforøkelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> учащение пульса
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учащение пульса</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">blågrøn(n)</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-сине-зелёный, зеленовато-голубой, аквамариновый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сине-зелёный, зеленовато-голубой, аквамариновый</text></cit>
 </sense>
 </entry>
 </superEntry>

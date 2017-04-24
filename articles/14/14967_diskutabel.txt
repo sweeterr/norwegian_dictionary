@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">diskutabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-спорный, дискуссионный, сомнительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спорный, дискуссионный, сомнительный</text></cit>
 </sense>
 </entry>
 </superEntry>

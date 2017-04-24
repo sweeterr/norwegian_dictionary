@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">Internasjonale</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-Интернационал (союз)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Интернационал (союз)</text></cit>
 <сit type="example"><text>Internasjonalen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Интернационал (гимн)</text></cit></cit>
 </sense>
 </entry>

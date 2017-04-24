@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fortjent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-заслуженный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заслуженный</text></cit>
 <сit type="example"><text>gjøre seg fortjent av sitt land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь заслуги перед родиной</text></cit></cit>
 </sense>
 </entry>

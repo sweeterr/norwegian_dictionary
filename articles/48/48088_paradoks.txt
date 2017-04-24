@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">paradoks</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-парадокс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парадокс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">paradoks</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-парадоксальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парадоксальный</text></cit>
 </sense>
 </entry>
 </superEntry>

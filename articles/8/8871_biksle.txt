@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">biksle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-взнуздывать, обуздать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взнуздывать, обуздать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> держать в узде
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держать в узде</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tannhjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> зубчатое колесо, шестерня
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубчатое колесо, шестерня</text></cit>
 </sense>
 </entry>
 </superEntry>

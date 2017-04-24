@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">salongstykke</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>муз.</u> салонная вещь, салонное произведение
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>салонная вещь, салонное произведение</text></cit>
 </sense>
 </entry>
 </superEntry>

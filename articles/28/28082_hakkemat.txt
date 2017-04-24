@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hakkemat</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-рубленый шницель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубленый шницель</text></cit>
 <сit type="example"><text>gjøre hakkemat av en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильно избить кого-л.</text></cit></cit>
 </sense>
 </entry>

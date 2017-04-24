@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">trev</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-настил из жердей (досок) под крышей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настил из жердей (досок) под крышей</text></cit>
 </sense>
 <sense>
-надворная постройка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надворная постройка</text></cit>
 </sense>
 <sense>
-чердак, чердачное помещение (для сена)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чердак, чердачное помещение (для сена)</text></cit>
 </sense>
 </entry><entry>
 <index></index>

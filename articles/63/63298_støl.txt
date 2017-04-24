@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støl</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> высокогорное пастбище, сетер
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокогорное пастбище, сетер</text></cit>
 <сit type="example"><text>dra til støls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переезжать на сетер</text></cit></cit>
 <сit type="example"><text>ligge på stølen (til støls)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить на высокогорном пастбище</text></cit></cit>
 </sense>
@@ -15,18 +16,17 @@
 <form>
 <orth type="lemma">støl</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вялый, дряблый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый, дряблый</text></cit>
 </sense>
 <sense>
-утомлённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомлённый</text></cit>
 </sense>
 <sense>
-инертный, косный, медлительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инертный, косный, медлительный</text></cit>
 </sense>
 </entry>
 </superEntry>

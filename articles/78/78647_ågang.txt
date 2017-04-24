@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ågang</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> стечение, наплыв (народа и т. д.)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стечение, наплыв (народа и т. д.)</text></cit>
 </sense>
 </entry>
 </superEntry>

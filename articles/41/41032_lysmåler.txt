@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lysmåler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>физ.</u> фотометр
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фотометр</text></cit>
 </sense>
 </entry>
 </superEntry>

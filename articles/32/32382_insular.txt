@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">insular</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-островной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>островной</text></cit>
 </sense>
 </entry>
 </superEntry>

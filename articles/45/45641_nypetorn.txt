@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nypetorn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> шиповник (куст)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шиповник (куст)</text></cit>
 </sense>
 </entry>
 </superEntry>

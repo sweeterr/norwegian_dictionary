@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lauge seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> купаться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купаться</text></cit>
 </sense>
 </entry>
 </superEntry>

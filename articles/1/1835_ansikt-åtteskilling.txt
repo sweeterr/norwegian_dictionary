@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ansikt-åtteskilling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ист.</u> монета стоимостью в 8 шиллингов с изображением профиля норвежского короля
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>монета стоимостью в 8 шиллингов с изображением профиля норвежского короля</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>астр.</u> кольцо (вокруг Луны и Солнца), солнечная корона
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо (вокруг Луны и Солнца), солнечная корона</text></cit>
 </sense>
 <sense>
-<u>эл.</u> корона (свечение на проводах)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корона (свечение на проводах)</text></cit>
 </sense>
 </entry>
 </superEntry>

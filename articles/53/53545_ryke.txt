@@ -7,17 +7,18 @@
 <inflection><orth>røk (rauk), røket</orth></inflection>
 </form>
 <sense>
-дымить, дымиться, пропускать дым
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымить, дымиться, пропускать дым</text></cit>
 <сit type="example"><text>det ryker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идёт дым</text></cit></cit>
 </sense>
 <sense>
-коптить (о лампе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коптить (о лампе)</text></cit>
 </sense>
 <sense>
-парить (о земле), дымиться (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парить (о земле), дымиться (о воде)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> курить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курить</text></cit>
 <сit type="example"><text>ryke én ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкуривать кого-л.</text></cit></cit>
 </sense>
 </entry>
@@ -28,21 +29,24 @@
 <inflection><orth>rø(y)k (rauk), røket</orth></inflection>
 </form>
 <sense>
-нестись, проноситься, налетать (о шторме, буре); идти, падать (о снеге); лить (о дожде), опускаться (о тумане)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нестись, проноситься, налетать (о шторме, буре); идти, падать (о снеге); лить (о дожде), опускаться (о тумане)</text></cit>
 <сit type="example"><text>det fyker og ryker ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погода адская</text></cit></cit>
 </sense>
 <sense>
-броситься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>броситься</text></cit>
 <сit type="example"><text>ryke avsted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сорваться с места</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> ломаться, рваться, лопаться
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломаться, рваться, лопаться</text></cit>
 </sense>
 <sense>
-пропасть, пойти прахом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропасть, пойти прахом</text></cit>
 </sense>
 <sense>
-<u>школ.</u> <u>разг.</u> засыпаться на экзамене
+<usg>школ.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>засыпаться на экзамене</text></cit>
 <сit type="example"><text>ryke av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>срывать, сносить</text></cit></cit>
 <сit type="example"><text>ryke forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проноситься мимо</text></cit></cit>
 <сit type="example"><text>ryke ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сносить, сметать</text></cit></cit>

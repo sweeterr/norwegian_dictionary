@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">brødløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесхлебный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесхлебный</text></cit>
 </sense>
 <sense>
-бедный, неимущий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бедный, неимущий</text></cit>
 </sense>
 <sense>
-невыгодный, малооплачиваемый (о должности, работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыгодный, малооплачиваемый (о должности, работе)</text></cit>
 </sense>
 </entry>
 </superEntry>

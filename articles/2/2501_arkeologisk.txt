@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arkeologisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-археологический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>археологический</text></cit>
 </sense>
 </entry>
 </superEntry>

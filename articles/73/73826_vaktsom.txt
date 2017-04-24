@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">vaktsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бдительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бдительный</text></cit>
 </sense>
 <sense>
-неусыпный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неусыпный</text></cit>
 </sense>
 </entry>
 </superEntry>

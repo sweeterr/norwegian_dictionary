@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eftasverd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> послеполуденная еда, еда во второй половине дня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>послеполуденная еда, еда во второй половине дня</text></cit>
 </sense>
 </entry>
 </superEntry>

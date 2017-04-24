@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vinterlang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-длящийся целую зиму
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длящийся целую зиму</text></cit>
 </sense>
 </entry>
 </superEntry>

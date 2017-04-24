@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">urhistorie</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-древнейшая история
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древнейшая история</text></cit>
 </sense>
 </entry>
 </superEntry>

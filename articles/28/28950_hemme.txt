@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">hemme</orth>
-<inflection><orth extent="part">-et</orth></inflection>
-,
-<inflection><orth extent="part">-et</orth></inflection>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-задерживать, тормозить, сковывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задерживать, тормозить, сковывать</text></cit>
 </sense>
 <sense>
-сдерживать (слёзы и т п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдерживать (слёзы и т п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

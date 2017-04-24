@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lingvistikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-языковедение, языкознание, лингвистика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>языковедение, языкознание, лингвистика</text></cit>
 </sense>
 </entry>
 </superEntry>

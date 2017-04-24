@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">yren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-промозглый, с моросящим дождём (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промозглый, с моросящим дождём (о погоде)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-находящийся в бреду, бредящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находящийся в бреду, бредящий</text></cit>
 </sense>
 <sense>
-ошарашенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошарашенный</text></cit>
 </sense>
 </entry>
 </superEntry>

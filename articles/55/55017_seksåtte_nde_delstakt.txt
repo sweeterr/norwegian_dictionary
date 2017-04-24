@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">seksåtte(nde)delstakt</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>муз.</u> такт в шесть восьмых
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>такт в шесть восьмых</text></cit>
 </sense>
 </entry>
 </superEntry>

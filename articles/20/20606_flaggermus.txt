@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flaggermus</orth>
 <inflection><orth extent="part">-a (-en), =</orth></inflection>
-<u>зоол.</u> летучая мышь
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>летучая мышь</text></cit>
 </sense>
 </entry>
 </superEntry>

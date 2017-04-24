@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
 </form>
 <sense>
-показатель, признак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показатель, признак</text></cit>
 </sense>
 <sense>
-<u>тех.</u> индикатор (прибор)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индикатор (прибор)</text></cit>
 </sense>
 <sense>
-<u>хим.</u> индикатор
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>индикатор</text></cit>
 </sense>
 </entry>
 </superEntry>

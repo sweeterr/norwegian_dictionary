@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-посылать (объявлять) заказным (письмо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посылать (объявлять) заказным (письмо)</text></cit>
 <сit type="example"><text>rekommanderes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«заказное» (надпись на письме)</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> рекомендовать, расхваливать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рекомендовать, расхваливать</text></cit>
 </sense>
 </entry>
 </superEntry>

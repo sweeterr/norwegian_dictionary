@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">toppe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> петух
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петух</text></cit>
 <сit type="example"><text>arg (sint) som en toppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> злой как (бойцовый) петух</text></cit></cit>
 </sense>
 </entry>
@@ -16,16 +17,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-образовывать крону (о дереве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образовывать крону (о дереве)</text></cit>
 </sense>
 <sense>
-вздыматься, образовывать волны (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздыматься, образовывать волны (о море)</text></cit>
 </sense>
 <sense>
-обрезать верхушку дерева, прищипывать растения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрезать верхушку дерева, прищипывать растения</text></cit>
 </sense>
 <sense>
-возглавлять, быть во главе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возглавлять, быть во главе</text></cit>
 </sense>
 </entry>
 </superEntry>

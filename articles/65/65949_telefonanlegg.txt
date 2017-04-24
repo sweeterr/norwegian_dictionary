@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">telefonanlegg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-телефонная станция с сетью телефонов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телефонная станция с сетью телефонов</text></cit>
 </sense>
 </entry>
 </superEntry>

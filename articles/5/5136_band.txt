@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">band</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-см. bånd
+<ref>bånd</ref>
 </sense>
 <sense>
-цепь (для собаки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепь (для собаки)</text></cit>
 </sense>
 </entry>
 </superEntry>

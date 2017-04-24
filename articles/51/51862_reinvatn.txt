@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reinvatn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> чистая вода
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистая вода</text></cit>
 </sense>
 </entry>
 </superEntry>

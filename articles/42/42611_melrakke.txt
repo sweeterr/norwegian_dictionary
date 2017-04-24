@@ -4,10 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">melrakke</orth>
-<inflection><orth extent="part">-n</orth></inflection>
-, 
-<inflection><orth extent="part">-n</orth></inflection>
-<u>зоол.</u> песец
+<inflection><orth extent="part">-n, -n</orth></inflection>
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песец</text></cit>
 </sense>
 </entry>
 </superEntry>

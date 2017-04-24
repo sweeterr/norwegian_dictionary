@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">krakkemann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>презр.</u> канцелярская крыса
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>канцелярская крыса</text></cit>
 </sense>
 </entry>
 </superEntry>

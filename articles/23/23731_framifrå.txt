@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">framifrå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u> отличный, замечательный, превосходный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отличный, замечательный, превосходный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">framifrå</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-чрезвычайно, необычно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайно, необычно</text></cit>
 </sense>
 </entry>
 </superEntry>

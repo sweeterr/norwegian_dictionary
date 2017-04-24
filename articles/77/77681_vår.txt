@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vår</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-весна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весна</text></cit>
 <сit type="example"><text>i vår (våres)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этой (прошлой) весной</text></cit></cit>
 <сit type="example"><text>om våren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весной</text></cit></cit>
 </sense>
@@ -16,7 +16,7 @@
 <orth type="lemma">vår</orth>
 <gramGrp><pos>pron</pos></gramGrp>
 <inflection><orth>n vårt, pl våre</orth></inflection>
-наш, наша (наше, наши)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наш, наша (наше, наши)</text></cit>
 </sense>
 </entry>
 </superEntry>

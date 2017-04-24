@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">røynsle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> жизненный опыт
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизненный опыт</text></cit>
 </sense>
 </entry>
 </superEntry>

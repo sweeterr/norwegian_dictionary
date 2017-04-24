@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">centimeter</orth>
 <inflection><orth extent="part">-en, =</orth></inflection>
-сантиметр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сантиметр</text></cit>
 </sense>
 </entry>
 </superEntry>

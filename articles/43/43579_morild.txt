@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">morild</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-свечение моря, фосфорический свет воды в море
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свечение моря, фосфорический свет воды в море</text></cit>
 <сit type="example"><text>morilden brente</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море светилось</text></cit></cit>
 </sense>
 </entry>

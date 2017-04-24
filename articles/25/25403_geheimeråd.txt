@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">geheimeråd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ист.</u> тайный советник (титул)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайный советник (титул)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">geheimeråd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ист.</u> тайный совет
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайный совет</text></cit>
 </sense>
 </entry>
 </superEntry>

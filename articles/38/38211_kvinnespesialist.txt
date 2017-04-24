@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kvinnespesialist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-врач-гинеколог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач-гинеколог</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gestalt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-очертание, контур, форма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очертание, контур, форма</text></cit>
 </sense>
 <sense>
-фигура, образ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фигура, образ</text></cit>
 </sense>
 </entry>
 </superEntry>

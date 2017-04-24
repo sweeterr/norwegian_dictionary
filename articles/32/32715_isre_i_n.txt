@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">isre(i)n</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-чистый ото льда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый ото льда</text></cit>
 </sense>
 </entry>
 </superEntry>

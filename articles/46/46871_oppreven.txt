@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">oppreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-вырванный с корнем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вырванный с корнем</text></cit>
 </sense>
 <sense>
-расстроенный, взволнованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстроенный, взволнованный</text></cit>
 </sense>
 </entry>
 </superEntry>

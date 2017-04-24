@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стажёр, ученик (в учреждении, на предприятии, не получающий зарплаты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стажёр, ученик (в учреждении, на предприятии, не получающий зарплаты)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> доброволец
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доброволец</text></cit>
 </sense>
 </entry>
 </superEntry>

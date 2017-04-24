@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-meret, = (-re)</orth></inflection>
 </form>
 <sense>
-передняя (комната)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передняя (комната)</text></cit>
 </sense>
 <sense>
-<u>анат.</u> предсердие
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предсердие</text></cit>
 </sense>
 <sense>
-<u>тех.</u> форкамера
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форкамера</text></cit>
 </sense>
 </entry>
 </superEntry>

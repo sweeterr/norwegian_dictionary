@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spjelk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> шина, лубок
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шина, лубок</text></cit>
 </sense>
 </entry>
 </superEntry>

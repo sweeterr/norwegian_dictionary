@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">poetikk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-поэтика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэтика</text></cit>
 </sense>
 </entry>
 </superEntry>

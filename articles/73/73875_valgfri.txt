@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">valgfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-необязательный, факультативный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необязательный, факультативный</text></cit>
 </sense>
 <sense>
-имеющий право выбора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий право выбора</text></cit>
 </sense>
 </entry>
 </superEntry>

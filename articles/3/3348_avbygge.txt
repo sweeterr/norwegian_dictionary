@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avbygge</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-<u>горн.</u> устанавливать рудничную крепь
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать рудничную крепь</text></cit>
 </sense>
 </entry>
 </superEntry>

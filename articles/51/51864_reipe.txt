@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">reipe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-связывать, скреплять (верёвкой, канатом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывать, скреплять (верёвкой, канатом)</text></cit>
 <сit type="example"><text>reipe til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>привязывать</text></cit></cit>
 </sense>
 </entry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-дыхание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыхание</text></cit>
 <сit type="example"><text>dra (trekke) pusten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдыхать (вдохнуть)</text></cit></cit>
 <сit type="example"><text>ha en kort pust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>часто дышать</text></cit></cit>
 <сit type="example"><text>han mistet pusten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него захватило дыхание (от удивления, испуга и т. п.)</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>snappe etter pusten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задыхаться, хватать ртом воздух</text></cit></cit>
 </sense>
 <sense>
-перерыв, пауза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перерыв, пауза</text></cit>
 <сit type="example"><text>ta seg en pust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передохнуть</text></cit></cit>
 </sense>
 </entry>
@@ -29,13 +29,13 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-вдох, выдох
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вдох, выдох</text></cit>
 </sense>
 <sense>
-выхлоп (пара, дыма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выхлоп (пара, дыма)</text></cit>
 </sense>
 <sense>
-порыв ветра, дуновение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порыв ветра, дуновение</text></cit>
 <сit type="example"><text>det kom et pust</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потянуло ветерком</text></cit></cit>
 </sense>
 </entry>
@@ -44,7 +44,8 @@
 <form>
 <orth type="lemma">pust</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> пощёчина, затрещина
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пощёчина, затрещина</text></cit>
 </sense>
 </entry>
 </superEntry>

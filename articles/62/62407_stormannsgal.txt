@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">stormannsgal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страдающий манией величия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страдающий манией величия</text></cit>
 </sense>
 </entry>
 </superEntry>

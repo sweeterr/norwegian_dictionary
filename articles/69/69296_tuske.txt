@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tuske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-торговать в обмен, обмениваться товарами, вести меновую торговлю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торговать в обмен, обмениваться товарами, вести меновую торговлю</text></cit>
 <сit type="example"><text>tuske seg til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выменять</text></cit></cit>
 <сit type="example"><text>tuske bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>променять</text></cit></cit>
 </sense>
@@ -15,16 +15,16 @@
 <form>
 <orth type="lemma">tuske</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ходить, двигаться бесшумно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходить, двигаться бесшумно</text></cit>
 </sense>
 <sense>
-звать, манить тайком (украдкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звать, манить тайком (украдкой)</text></cit>
 </sense>
 <sense>
-шептать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шептать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,13 +32,13 @@
 <form>
 <orth type="lemma">tuske</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шуметь, галдеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, галдеть</text></cit>
 </sense>
 <sense>
-шутить, перешучиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутить, перешучиваться</text></cit>
 </sense>
 </entry>
 </superEntry>

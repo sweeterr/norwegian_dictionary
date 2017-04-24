@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dokker</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>диал.</u> Вы (форма вежливости)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Вы (форма вежливости)</text></cit>
 </sense>
 </entry>
 </superEntry>

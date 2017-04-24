@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lengdebetegnelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>фон.</u> обозначение долготы, знак долготы
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначение долготы, знак долготы</text></cit>
 </sense>
 </entry>
 </superEntry>

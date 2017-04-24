@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-шаблонный, рутинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаблонный, рутинный</text></cit>
 </sense>
 <sense>
-<u>тех.</u> сделанный по шаблону
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сделанный по шаблону</text></cit>
 </sense>
 </entry>
 </superEntry>

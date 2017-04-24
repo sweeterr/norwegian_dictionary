@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-туман
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туман</text></cit>
 </sense>
 <sense>
-густой дым, чад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густой дым, чад</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">skodde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> см. skåte I
+<usg>уст.</usg>
+<ref>skåte I</ref>
 </sense>
 </entry>
 </superEntry>

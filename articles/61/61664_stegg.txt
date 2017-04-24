@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stegg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> петух, самец (птицы)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петух, самец (птицы)</text></cit>
 </sense>
 </entry>
 </superEntry>

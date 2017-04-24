@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">tøv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-напрасный труд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напрасный труд</text></cit>
 </sense>
 <sense>
-пустое времяпрепровождение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустое времяпрепровождение</text></cit>
 </sense>
 <sense>
-пустые разговоры, пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустые разговоры, пустая болтовня</text></cit>
 </sense>
 <sense>
-вздор, чепуха, ерунда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздор, чепуха, ерунда</text></cit>
 </sense>
 </entry>
 </superEntry>

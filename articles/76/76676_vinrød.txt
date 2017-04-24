@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">vinrød</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> тёмно-красный, вишнёвый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмно-красный, вишнёвый</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> ярко-красный, алый
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ярко-красный, алый</text></cit>
 </sense>
 </entry>
 </superEntry>

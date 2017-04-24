@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">puppehylster</orth>
 <inflection><orth extent="part">-eret (-ret), = (-re)</orth></inflection>
-<u>зоол.</u> кокон
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кокон</text></cit>
 </sense>
 </entry>
 </superEntry>

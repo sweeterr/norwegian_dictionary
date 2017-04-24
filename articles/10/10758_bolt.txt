@@ -7,15 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>тех.</u> болт, засов
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болт, засов</text></cit>
 </sense>
 <sense>
-<u>ист.</u> ножные оковы
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ножные оковы</text></cit>
 <сit type="example"><text>bolt og jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оковы, кандалы</text></cit></cit>
 <сit type="example"><text>legge (slå) i bolt og jern</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заковать в кандалы</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> прутковый металл
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прутковый металл</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +26,7 @@
 <form>
 <orth type="lemma">bolt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-утолщённый рант, край паруса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утолщённый рант, край паруса</text></cit>
 </sense>
 </entry>
 </superEntry>

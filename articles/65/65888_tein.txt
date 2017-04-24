@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-веретено (ручное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>веретено (ручное)</text></cit>
 </sense>
 <sense>
-прут, лучинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прут, лучинка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">tein</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>хим.</u> теин, танин (в чае)
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теин, танин (в чае)</text></cit>
 </sense>
 </entry>
 </superEntry>

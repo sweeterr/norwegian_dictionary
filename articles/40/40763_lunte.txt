@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lunte</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-подрывной (бикфордов) шнур, фитиль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подрывной (бикфордов) шнур, фитиль</text></cit>
 <сit type="example"><text>han er en lang lunte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> до него не сразу доходит</text></cit></cit>
 <сit type="example"><text>lukte lunten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предчувствовать опасность, предвидеть надвигающуюся беду</text></cit></cit>
 <сit type="example"><text>passe på lunten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть начеку</text></cit></cit>
@@ -18,10 +18,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-бежать рысью, трусить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бежать рысью, трусить</text></cit>
 </sense>
 <sense>
-идти медленно (не торопясь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти медленно (не торопясь)</text></cit>
 </sense>
 </entry>
 </superEntry>

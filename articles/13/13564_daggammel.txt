@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">daggammel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-однодневный, существующий лишь один день
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однодневный, существующий лишь один день</text></cit>
 </sense>
 <sense>
-свежий (о могиле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (о могиле)</text></cit>
 </sense>
 </entry>
 </superEntry>

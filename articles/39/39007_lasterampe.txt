@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lasterampe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ж.-д.</u> товарная погрузочная платформа
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>товарная погрузочная платформа</text></cit>
 </sense>
 </entry>
 </superEntry>

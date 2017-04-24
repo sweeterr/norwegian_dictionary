@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">marin</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-морской
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морской</text></cit>
 </sense>
 </entry>
 </superEntry>

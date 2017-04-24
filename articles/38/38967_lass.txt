@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-груз, поклажа (на повозке, автомашине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>груз, поклажа (на повозке, автомашине)</text></cit>
 </sense>
 <sense>
-воз (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воз (чего-л.)</text></cit>
 <сit type="example"><text>liten tue velter stort lass</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> капля по капле и камень долбит ( <lbl>букв.</lbl> и маленькая кочка может опрокинуть большой воз)</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> ноша, бремя
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ноша, бремя</text></cit>
 <сit type="example"><text>trekke lasset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вынести на себе всю тяжесть</text></cit></cit>
 </sense>
 </entry>

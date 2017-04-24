@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">åre</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-весло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весло</text></cit>
 <сit type="example"><text>dra (legge seg, trekke) på årene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налечь на вёсла</text></cit></cit>
 <сit type="example"><text>legge årene inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> табанить</text></cit></cit>
 <сit type="example"><text>legge alle årer til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вложить все свой силы</text></cit></cit>
@@ -21,13 +21,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-кровеносный сосуд, вена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровеносный сосуд, вена</text></cit>
 </sense>
 <sense>
-жила, жилка, прожилка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жила, жилка, прожилка</text></cit>
 </sense>
 <sense>
-артерия <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>артерия <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,10 +37,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-место для костра в курной избе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место для костра в курной избе</text></cit>
 </sense>
 <sense>
-печка, очаг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печка, очаг</text></cit>
 </sense>
 </entry>
 </superEntry>

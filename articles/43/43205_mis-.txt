@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">mis-</orth>
 <gramGrp><pos>pref</pos></gramGrp>
- со значением:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>со значением:</text></cit>
 </form>
 <sense>
-неправильности, ошибочности:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неправильности, ошибочности:</text></cit>
 <сit type="example"><text>misforstå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неправильно понять</text></cit></cit>
 </sense>
 <sense>
-отрицания:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрицания:</text></cit>
 <сit type="example"><text>mistro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>недоверие</text></cit></cit>
 <сit type="example"><text>mislykkes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окончиться неудачей, не удаваться</text></cit></cit>
 </sense>
 <sense>
-отсутствия признака, выраженного основой слова:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отсутствия признака, выраженного основой слова:</text></cit>
 <сit type="example"><text>mismodig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>унылый</text></cit></cit>
 <сit type="example"><text>misstemning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохое настроение</text></cit></cit>
 </sense>

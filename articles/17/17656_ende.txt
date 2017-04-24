@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-конец, окончание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конец, окончание</text></cit>
 <сit type="example"><text>fra ende til annen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из конца в конец</text></cit></cit>
 <сit type="example"><text>på alle ender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>везде, повсюду</text></cit></cit>
 <сit type="example"><text>det led mot enden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело шло к концу</text></cit></cit>
@@ -19,23 +19,24 @@
 <сit type="example"><text>når enden er god, er allting godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> всё хорошо, что хорошо кончается</text></cit></cit>
 </sense>
 <sense>
-край, грань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край, грань</text></cit>
 <сit type="example"><text>sette noe på ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить на попа (на узкий край, на грань); <lbl>перен.</lbl> перевернуть вверх дном</text></cit></cit>
 </sense>
 <sense>
-зад, задняя часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зад, задняя часть</text></cit>
 <сit type="example"><text>få på enden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заработать розгу</text></cit></cit>
 </sense>
 <sense>
-смерть, кончина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смерть, кончина</text></cit>
 </sense>
 <sense>
-кончик, конец (верёвки, каната)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кончик, конец (верёвки, каната)</text></cit>
 <сit type="example"><text>gi en båt en ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> подать на судно конец</text></cit></cit>
 <сit type="example"><text>spinne en ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> <lbl>разг.</lbl> рассказывать небылицы, травить</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> цель, намерение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цель, намерение</text></cit>
 <сit type="example"><text>til den ende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с (этой) целью</text></cit></cit>
 </sense>
 </entry>
@@ -46,14 +47,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-кончить, окончить, закончить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кончить, окончить, закончить</text></cit>
 </sense>
 <sense>
-закончиться (чем-л. - med, i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закончиться (чем-л. - med, i)</text></cit>
 <сit type="example"><text>ende blindt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оканчиваться тупиком (об улице)</text></cit></cit>
 </sense>
 <sense>
-оканчиваться (о словах, на что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оканчиваться (о словах, на что-л. - på)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -61,7 +62,7 @@
 <form>
 <orth type="lemma">ende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-прямо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо</text></cit>
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо</text></cit></cit>
 <сit type = "example"><text>ende fram :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> откровенно</text></cit></cit>
 <сit type="example"><text>ende ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо вниз</text></cit></cit>

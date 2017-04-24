@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">moratorium</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>юр.</u>, <u>эк.</u> мораторий, отсрочка исполнения обязательства
+<usg>юр.</usg>
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мораторий, отсрочка исполнения обязательства</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">audkjent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u> легко узнаваемый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легко узнаваемый</text></cit>
 </sense>
 </entry>
 </superEntry>

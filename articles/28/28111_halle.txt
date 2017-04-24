@@ -13,19 +13,20 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-тянуть, тащить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть, тащить</text></cit>
 </sense>
 <sense>
-менять направление (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>менять направление (о ветре)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> травить
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>травить</text></cit>
 <сit type="example"><text>halle inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> выбирать канат, трос (якоря)</text></cit></cit>
 <сit type="example"><text>halle inn på en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>догонять, настигать кого-л.</text></cit></cit>
 <сit type = "example"><text>halle ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> растягивать</text></cit></cit>
 <сit type = "example"><text>halle ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> тянуть время, затягивать, медлить</text></cit></cit>
 <сit type = "example"><text>halle ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вытягивать (слова, ответы)</text></cit></cit>
-<сit type = "example"><text>halle ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> вытаскивать</text></cit></cit>
+<сit type = "example"><text>halle ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> вытаскивать</text></cit></cit>
 <сit type="example"><text>halle ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навались (команда)</text></cit></cit>
 </sense>
 </entry>

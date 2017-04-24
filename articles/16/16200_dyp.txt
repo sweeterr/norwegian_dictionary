@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-пропасть, бездна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропасть, бездна</text></cit>
 </sense>
 <sense>
-морская пучина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская пучина</text></cit>
 </sense>
 <sense>
-глубина <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубина <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-низина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низина</text></cit>
 </sense>
 <sense>
-пропасть, тьма, уйма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пропасть, тьма, уйма</text></cit>
 <сit type="example"><text>dyp av rikdom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огромное богатство</text></cit></cit>
 </sense>
 </entry>
@@ -28,33 +28,32 @@
 <form>
 <orth type="lemma">dyp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глубокий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубокий</text></cit>
 <сit type="example"><text>være fire meter dyp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь четыре метра в глубину</text></cit></cit>
 </sense>
 <sense>
-топкий, вязкий (о болоте, грязи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топкий, вязкий (о болоте, грязи)</text></cit>
 </sense>
 <sense>
-низкий (о поклоне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкий (о поклоне)</text></cit>
 </sense>
 <sense>
-густой, непроницаемый (о мраке, темноте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>густой, непроницаемый (о мраке, темноте)</text></cit>
 </sense>
 <sense>
-низкий (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкий (о голосе)</text></cit>
 </sense>
 <sense>
-тёмный, насыщенный (о красках, цветах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный, насыщенный (о красках, цветах)</text></cit>
 </sense>
 <sense>
-задумчивый (о глазах, взгляде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задумчивый (о глазах, взгляде)</text></cit>
 </sense>
 <sense>
-абсолютный, мёртвый (о тишине), полнейший (о молчании, покое)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абсолютный, мёртвый (о тишине), полнейший (о молчании, покое)</text></cit>
 </sense>
 </entry>
 </superEntry>

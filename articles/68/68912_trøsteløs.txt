@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">trøsteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неутешный, безутешный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неутешный, безутешный</text></cit>
 </sense>
 <sense>
-безнадёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безнадёжный</text></cit>
 </sense>
 <sense>
-унылый, серый (о местности, условиях, окружении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>унылый, серый (о местности, условиях, окружении)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-деревянная бадья, деревянный ушат (чан)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная бадья, деревянный ушат (чан)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-отруби
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отруби</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">så</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-такой, такая, такое, такие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>такой, такая, такое, такие</text></cit>
 <сit type="example"><text>i så fall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в таком случае</text></cit></cit>
 <сit type="example"><text>i så måte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в такой мере (степени)</text></cit></cit>
 <сit type="example"><text>i så tilfelle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в таком случае</text></cit></cit>
@@ -32,7 +32,7 @@
 <form>
 <orth type="lemma">så</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-сеять <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеять <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>så seg (selv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассеиваться</text></cit></cit>
 <сit type="example"><text>så til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>засевать</text></cit></cit>
 </sense>
@@ -50,7 +50,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-так, таким образом, столь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>так, таким образом, столь</text></cit>
 <сit type="example"><text>(enn) som så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот так</text></cit></cit>
 <сit type="example"><text>ikke større enn som så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не больше этого</text></cit></cit>
 <сit type="example"><text>ikke så</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не так</text></cit></cit>
@@ -71,15 +71,15 @@
 <сit type="example"><text>og hva så?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну и что же?</text></cit></cit>
 </sense>
 <sense>
-в начале главного предложения при наличии условного придаточного, то:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в начале главного предложения при наличии условного придаточного, то:</text></cit>
 <сit type="example"><text>hvis jeg ser ham igjen så skal jeg gi ham boka</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если я увижу его опять, то я передам ему книгу</text></cit></cit>
 </sense>
 <sense>
-в восклицательных предложениях, как:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в восклицательных предложениях, как:</text></cit>
 <сit type="example"><text>så trett du er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ты устал</text></cit></cit>
 </sense>
 <sense>
-итак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>итак</text></cit>
 <сit type="example"><text>så eida den sak avgjort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>итак, дело сделано</text></cit></cit>
 <сit type="example"><text>så at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, что ...; так, чтобы ...</text></cit></cit>
 </sense>

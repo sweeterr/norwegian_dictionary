@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-растение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растение</text></cit>
 <сit type="example"><text>bestemme en plante</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>определять вид растения</text></cit></cit>
 <сit type="example"><text>sette planter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сажать растения</text></cit></cit>
 </sense>
 <sense>
-<u>презр.</u> отпрыск, чадо, потомок
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпрыск, чадо, потомок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,19 +23,20 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-сажать (цветы, деревья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сажать (цветы, деревья)</text></cit>
 </sense>
 <sense>
-заложить, посадить (сад, парк)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заложить, посадить (сад, парк)</text></cit>
 </sense>
 <sense>
-водружать (знамя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водружать (знамя)</text></cit>
 </sense>
 <sense>
-поставить, воткнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поставить, воткнуть</text></cit>
 </sense>
 <sense>
-<u>разг.</u> швырнуть, бросить
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырнуть, бросить</text></cit>
 <сit type="example"><text>plante inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживать из леса</text></cit></cit>
 <сit type="example"><text>plante om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересаживать (растения)</text></cit></cit>
 <сit type="example"><text>plante ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высаживать (растения)</text></cit></cit>

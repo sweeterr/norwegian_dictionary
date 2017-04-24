@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">firetaktsmotor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>тех.</u> четырёхтактный двигатель внутреннего сгорания
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четырёхтактный двигатель внутреннего сгорания</text></cit>
 </sense>
 </entry>
 </superEntry>

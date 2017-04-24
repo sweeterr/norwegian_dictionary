@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kingel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-паук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паук</text></cit>
 </sense>
 <sense>
-паутина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паутина</text></cit>
 </sense>
 </entry>
 </superEntry>

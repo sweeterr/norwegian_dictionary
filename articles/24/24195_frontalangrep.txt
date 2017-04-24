@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">frontalangrep</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> фронтальный удар, фронтальное наступление, лобовая атака
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фронтальный удар, фронтальное наступление, лобовая атака</text></cit>
 </sense>
 </entry>
 </superEntry>

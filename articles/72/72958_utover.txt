@@ -7,13 +7,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-там впереди (на горизонте, вдали)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>там впереди (на горизонте, вдали)</text></cit>
 </sense>
 <sense>
-в будущем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в будущем</text></cit>
 </sense>
 <sense>
-в сторону, прочь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сторону, прочь</text></cit>
 <сit type="example"><text>utover i natta</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всю ночь напролёт</text></cit></cit>
 <сit type="example"><text>utover om kvelden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь вечер</text></cit></cit>
 </sense>
@@ -23,26 +23,26 @@
 <form>
 <orth type="lemma">utover</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на:</text></cit>
 </form>
 <sense>
-расположение, размещение по какой-л. поверхности по всему (всей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расположение, размещение по какой-л. поверхности по всему (всей)</text></cit>
 <сit type="example"><text>utover veggene (bygda, landet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по стенам (по всей местности, стране)</text></cit></cit>
 </sense>
 <sense>
-движение от центра, местожительства, из, с, от
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение от центра, местожительства, из, с, от</text></cit>
 <сit type="example"><text>utover Oslo(s)veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по дороге из Осло</text></cit></cit>
 </sense>
 <sense>
-направление от берега, побережья, от, по, на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направление от берега, побережья, от, по, на</text></cit>
 <сit type="example"><text>utover holmene (skjærene)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на острова (шхеры)</text></cit></cit>
 </sense>
 <sense>
-действие, происходившее в течение всего отрезка времени, указанного в тексте в течение всего (всей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действие, происходившее в течение всего отрезка времени, указанного в тексте в течение всего (всей)</text></cit>
 <сit type="example"><text>utover hele sommeren (vinteren)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в течение всего лета (всей зимы)</text></cit></cit>
 </sense>
 <sense>
-превышение какого-л. предела, меры, количества сверх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превышение какого-л. предела, меры, количества сверх</text></cit>
 <сit type="example"><text>utover alle grenser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сверх всяких границ</text></cit></cit>
 </sense>
 </entry>

@@ -7,23 +7,26 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-сокращать, уменьшать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать, уменьшать</text></cit>
 </sense>
 <sense>
-снижать (цены, стоимость)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снижать (цены, стоимость)</text></cit>
 </sense>
 <sense>
-доводить (до нищеты, до крайности - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доводить (до нищеты, до крайности - til)</text></cit>
 <сit type="example"><text>redusere noe til intet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свести что-л. к нулю</text></cit></cit>
 </sense>
 <sense>
-<u>мат.</u> сокращать (уравнение, дроби)
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокращать (уравнение, дроби)</text></cit>
 </sense>
 <sense>
-<u>хим.</u> раскислять
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскислять</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> ослаблять, редуцировать (окончания)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослаблять, редуцировать (окончания)</text></cit>
 </sense>
 </entry>
 </superEntry>

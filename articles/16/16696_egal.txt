@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">egal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-уравновешенный, спокойный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уравновешенный, спокойный</text></cit>
 </sense>
 <sense>
-<u>муз.</u> ровный, не имеющий модуляций (о голосе)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровный, не имеющий модуляций (о голосе)</text></cit>
 </sense>
 </entry>
 </superEntry>

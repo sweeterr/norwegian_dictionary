@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">eldgammel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-древний, старый как свет, ветхий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древний, старый как свет, ветхий</text></cit>
 </sense>
 </entry>
 </superEntry>

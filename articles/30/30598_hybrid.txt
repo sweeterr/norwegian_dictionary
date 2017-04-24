@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hybrid</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>биол.</u> гибрид
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибрид</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">hybrid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-гибридный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибридный</text></cit>
 </sense>
 </entry>
 </superEntry>

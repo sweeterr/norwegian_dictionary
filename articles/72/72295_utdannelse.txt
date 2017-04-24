@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-образование, квалификация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образование, квалификация</text></cit>
 <сit type="example"><text>høyere utdannelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высшее образование</text></cit></cit>
 <сit type="example"><text>journalistisk utdannelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подготовка корреспондента (журналиста)</text></cit></cit>
 <сit type="example"><text>kunstnerisk utdannelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>художественное образование</text></cit></cit>
 <сit type="example"><text>militær utdannelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>военное образование, совершенствование военных знаний</text></cit></cit>
 </sense>
 <sense>
-обучение, подготовка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обучение, подготовка</text></cit>
 </sense>
 </entry>
 </superEntry>

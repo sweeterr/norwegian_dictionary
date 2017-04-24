@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">metermål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-метр (инструмент для измерения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метр (инструмент для измерения)</text></cit>
 <сit type="example"><text>folde metermålet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>складывать метр</text></cit></cit>
 <сit type="example"><text>folde ut metermålet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>развёртывать метр</text></cit></cit>
 </sense>

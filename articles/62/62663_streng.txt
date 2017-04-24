@@ -7,23 +7,25 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-шнур, верёвка, бечёвка, проволока, трос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шнур, верёвка, бечёвка, проволока, трос</text></cit>
 </sense>
 <sense>
-тетива (лука для стрельбы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тетива (лука для стрельбы)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> струна
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струна</text></cit>
 <сit type="example"><text>anslå de patriotiske strenger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задеть чьи-л. патриотические чувства</text></cit></cit>
 </sense>
 <sense>
-оголённый электропровод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оголённый электропровод</text></cit>
 </sense>
 <sense>
-тонкая струя (жидкости)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкая струя (жидкости)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> стренга (каната)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стренга (каната)</text></cit>
 <сit type="example"><text>ha flere strenger på sin bue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь много планов (замыслов, намерений)</text></cit></cit>
 </sense>
 </entry>
@@ -32,20 +34,19 @@
 <form>
 <orth type="lemma">streng</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-строгий, суровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строгий, суровый</text></cit>
 </sense>
 <sense>
-холодный (о погоде), трескучий (о морозе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холодный (о погоде), трескучий (о морозе)</text></cit>
 </sense>
 <sense>
-точный, пунктуальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точный, пунктуальный</text></cit>
 </sense>
 <sense>
-требовательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>требовательный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">askelekter</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>мор.</u> лихтер для сбора золы и мусора с кораблей, стоящих в порту
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лихтер для сбора золы и мусора с кораблей, стоящих в порту</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hvirvelstorm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>метеор.</u> тропический циклон
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропический циклон</text></cit>
 </sense>
 </entry>
 </superEntry>

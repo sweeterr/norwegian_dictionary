@@ -7,7 +7,8 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> курс
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс</text></cit>
 <сit type="example"><text>anlagt kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проложенный курс</text></cit></cit>
 <сit type="example"><text>rettvisende kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>истинный курс</text></cit></cit>
 <сit type="example"><text>seilt kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>курс с учётом сноса на ветер</text></cit></cit>
@@ -19,12 +20,12 @@
 <сit type="example"><text>styre kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держаться курса</text></cit></cit>
 </sense>
 <sense>
-путь, маршрут, направление движения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путь, маршрут, направление движения</text></cit>
 <сit type="example"><text>komme ut av kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отклоняться в сторону (от намеченного плана)</text></cit></cit>
 <сit type="example"><text>sette ut av kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увести в сторону (от намеченного плана)</text></cit></cit>
 </sense>
 <sense>
-курс (денег, ценных бумаг)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс (денег, ценных бумаг)</text></cit>
 <сit type="example"><text>fast (fallende, stigende) kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый (падающий, поднимающийся) курс</text></cit></cit>
 <сit type="example"><text>falle (synke) i kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>падать в цене, котироваться низко</text></cit></cit>
 <сit type="example"><text>stå (være) i kurs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в цене, котироваться высоко</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rime</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> гребень горы (холма)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребень горы (холма)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +16,7 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-покрываться инеем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться инеем</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> det rimer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опускается (садится иней</text></cit></cit>
@@ -28,10 +29,10 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-слагать стихи, рифмовать слова, <u>презр.</u> заниматься стихоплётством
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слагать стихи, рифмовать слова, <lbl>презр.</lbl> заниматься стихоплётством</text></cit>
 </sense>
 <sense>
-являться рифмой к какому-л. слову (о другом слове)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>являться рифмой к какому-л. слову (о другом слове)</text></cit>
 <сit type="example"><text>rime noe (sammen) med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласовать что-л. с чем-л.</text></cit></cit>
 </sense>
 </entry>

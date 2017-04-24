@@ -6,13 +6,13 @@
 <orth type="lemma">sersjant</orth>
 <phon>|sεr'∫ant|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-сержант
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сержант</text></cit>
 </sense>
 <sense>
-старшина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старшина</text></cit>
 </sense>
 </entry>
 </superEntry>

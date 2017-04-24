@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">femkamp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> пятиборье
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятиборье</text></cit>
 </sense>
 </entry>
 </superEntry>

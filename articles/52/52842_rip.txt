@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rip</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> верхний край борта лодки, край обшивки лодки
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхний край борта лодки, край обшивки лодки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">rip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-хрип, хрипение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрип, хрипение</text></cit>
 </sense>
 </entry>
 </superEntry>

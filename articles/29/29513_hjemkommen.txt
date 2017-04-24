@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hjemkommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-прибывший (возвратившийся) домой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибывший (возвратившийся) домой</text></cit>
 <сit type="example"><text>være hjemkommen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернуться домой</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kamfer</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>хим.</u> камфара
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камфара</text></cit>
 </sense>
 </entry>
 </superEntry>

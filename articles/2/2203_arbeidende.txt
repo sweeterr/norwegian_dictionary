@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arbeidende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-работающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работающий</text></cit>
 <сit type="example"><text>de arbeidende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудящиеся</text></cit></cit>
 </sense>
 </entry>

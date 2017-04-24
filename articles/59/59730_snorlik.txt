@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">snorlik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-прямой как стрела, прямолинейный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой как стрела, прямолинейный</text></cit>
 </sense>
 </entry>
 </superEntry>

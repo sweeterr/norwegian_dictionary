@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">te</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-чай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чай</text></cit>
 <сit type="example"><text>sterk te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий чай</text></cit></cit>
 <сit type="example"><text>svak (tynn) te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий чай</text></cit></cit>
 <сit type="example"><text>en kopp te</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чашечка чаю</text></cit></cit>
@@ -19,13 +19,14 @@
 <form>
 <orth type="lemma">te</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> показывать, предъявлять
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показывать, предъявлять</text></cit>
 </form>
 <sense>
-появляться, показываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>появляться, показываться</text></cit>
 </sense>
 <sense>
-вести себя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести себя</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +34,8 @@
 <form>
 <orth type="lemma">te</orth>
 <gramGrp><pos>prep</pos></gramGrp>
- <u>диал.</u> см. til I
+<usg>диал.</usg>
+<ref>til I</ref>
 </sense>
 </entry>
 </superEntry>

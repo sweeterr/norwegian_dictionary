@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">uttrykksløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-невыразительный, ничего не выражающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыразительный, ничего не выражающий</text></cit>
 </sense>
 </entry>
 </superEntry>

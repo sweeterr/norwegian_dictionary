@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часть</text></cit>
 <сit type="example"><text>en del</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>некоторое число (количество)</text></cit></cit>
 <сit type="example"><text>for en del</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>частично</text></cit></cit>
 <сit type="example"><text>en hel (god) del</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сравнительно много, многие</text></cit></cit>
@@ -23,7 +23,7 @@
 <сit type="example"><text>ingen av delene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни то ни другое</text></cit></cit>
 </sense>
 <sense>
-доля, участие, пай, удел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доля, участие, пай, удел</text></cit>
 <сit type="example"><text>ha (få, gi) del i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь (получать, давать долю, пай; быть участником в чём-л.</text></cit></cit>
 <сit type="example"><text>ta del i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать участие в чём-л.</text></cit></cit>
 <сit type="example"><text>bli (en) til del</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>падать на чью-л. долю</text></cit></cit>
@@ -31,25 +31,25 @@
 <сit type="example"><text>(du) for din del</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что касается тебя</text></cit></cit>
 </sense>
 <sense>
-район, часть (города, страны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район, часть (города, страны)</text></cit>
 <сit type="example"><text>de indre deler av landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внутренние районы страны</text></cit></cit>
 </sense>
 <sense>
-часть, раздел (книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часть, раздел (книги)</text></cit>
 <сit type="example"><text>en roman i fire deler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>роман в четырёх частях</text></cit></cit>
 </sense>
 <sense>
-деталь, часть (машины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деталь, часть (машины)</text></cit>
 </sense>
 <sense>
-орган (тола)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орган (тола)</text></cit>
 <сit type="example"><text>de edlere (vitale) deler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жизненно важные органы</text></cit></cit>
 </sense>
 <sense>
-слой (населения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слой (населения)</text></cit>
 </sense>
 <sense>
-подразделение (войск)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подразделение (войск)</text></cit>
 </sense>
 </entry>
 </superEntry>

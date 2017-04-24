@@ -7,23 +7,26 @@
 <inflection><orth>svømte (svømmet, svam), svømt (svømmet)</orth></inflection>
 </form>
 <sense>
-плавать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавать</text></cit>
 <сit type="example"><text>svømme bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плавать на груди</text></cit></cit>
 <сit type="example"><text>svømme rygg (på ryggen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плавать на спине</text></cit></cit>
 <сit type="example"><text>han svømmer i penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него денег куры не клюют</text></cit></cit>
 <сit type="example"><text>svømme i bare velvære as</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как сыр в масле кататься</text></cit></cit>
 </sense>
 <sense>
-парить, плыть по воздуху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парить, плыть по воздуху</text></cit>
 </sense>
 <sense>
-<u>разг.</u> барахтаться (в снегу, грязи и т. п.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барахтаться (в снегу, грязи и т. п.)</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> течь, струиться
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, струиться</text></cit>
 </sense>
 <sense>
-<u>диал.</u> переправлять вплавь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переправлять вплавь</text></cit>
 </sense>
 </entry>
 </superEntry>

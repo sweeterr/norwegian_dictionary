@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vokalbortfall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>фон.</u> отпадение гласных
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпадение гласных</text></cit>
 </sense>
 </entry>
 </superEntry>

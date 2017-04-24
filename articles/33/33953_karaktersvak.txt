@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">karaktersvak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-слабохарактерный, слабовольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабохарактерный, слабовольный</text></cit>
 </sense>
 </entry>
 </superEntry>

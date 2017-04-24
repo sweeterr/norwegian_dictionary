@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-сопровождающее лицо, провожатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопровождающее лицо, провожатый</text></cit>
 </sense>
 <sense>
-спутник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутник</text></cit>
 </sense>
 <sense>
-конвойный, конвоир
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конвойный, конвоир</text></cit>
 </sense>
 <sense>
-<u>муз.</u> аккомпаниатор
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аккомпаниатор</text></cit>
 </sense>
 <sense>
-<u>астр.</u> спутник
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутник</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">opphalingsbedding</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> эллинг, стапель
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эллинг, стапель</text></cit>
 </sense>
 </entry>
 </superEntry>

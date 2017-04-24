@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-вечер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечер</text></cit>
 <сit type="example"><text>god kveld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добрый вечер</text></cit></cit>
 <сit type="example"><text>i kveld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня вечером</text></cit></cit>
 <сit type="example"><text>i går kveld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вчера вечером</text></cit></cit>
@@ -21,12 +21,13 @@
 <сit type="example"><text>det led til kvelds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело было к вечеру, вечерело, наступал вечер</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> ужин, вечерняя еда
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужин, вечерняя еда</text></cit>
 <сit type="example"><text>til kvelds</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на ужин</text></cit></cit>
 <сit type="example"><text>holde kveld</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить ужин</text></cit></cit>
 </sense>
 <sense>
-закат (жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закат (жизни)</text></cit>
 </sense>
 </entry>
 </superEntry>

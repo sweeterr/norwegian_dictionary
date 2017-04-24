@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">diminutiv</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>лингв.</u> уменьшительное слово
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшительное слово</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">diminutiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-маленький, крошечный, малюсенький
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маленький, крошечный, малюсенький</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> уменьшительный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уменьшительный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,65 +7,65 @@
 <gramGrp><pos>pref</pos></gramGrp>
 </form>
 <sense>
-(под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета или его части, находящейся впереди:
-<сit type="example"><text>forhall 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета или его части, находящейся впереди:</text></cit>
+<сit type="example"><text>forhall
 <inflection><orth extent="part">-en</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вестибюль</text></cit></cit>
-<сit type="example"><text>fordekk 
+<сit type="example"><text>fordekk
 <inflection><orth extent="part">-et</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> бак</text></cit></cit>
-<сit type="example"><text>forhjul 
+<сit type="example"><text>forhjul
 <inflection><orth extent="part">-et</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переднее колесо</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам существительных, образуя имена существительные со значением периода времени, предшествующего данному в основном слове:
-<сit type="example"><text>formiddag 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам существительных, образуя имена существительные со значением периода времени, предшествующего данному в основном слове:</text></cit>
+<сit type="example"><text>formiddag
 <inflection><orth extent="part">-en</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время до полудня</text></cit></cit>
-<сit type="example"><text>fortid 
+<сit type="example"><text>fortid
 <inflection><orth extent="part">-en</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прошлое, прошедшее время</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета, служащего для отделения, прикрытия чего-л.:
-<сit type="example"><text>forteppe 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам существительных, образуя имена существительные со значением предмета, служащего для отделения, прикрытия чего-л.:</text></cit>
+<сit type="example"><text>forteppe
 <inflection><orth extent="part">-t</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занавес</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам существительных, образуя имена существительные со значением более высокого чина, звания, степени, должности:
-<сit type="example"><text>formann 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам существительных, образуя имена существительные со значением более высокого чина, звания, степени, должности:</text></cit>
+<сit type="example"><text>formann
 <inflection><orth extent="part">-en</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>председатель</text></cit></cit>
-<сit type="example"><text>forstander 
+<сit type="example"><text>forstander
 <inflection><orth extent="part">-en</orth></inflection>
 </text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заведующий, настоятель</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на предшествование периоду времени, обозначаемому основным прилагательным:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на предшествование периоду времени, обозначаемому основным прилагательным:</text></cit>
 <сit type="example"><text>forhistorisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доисторический</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на признак, возникший ранее:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на признак, возникший ранее:</text></cit>
 <сit type="example"><text>forsulten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изголодавшийся</text></cit></cit>
 <сit type="example"><text>fortapt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>потерянный, утраченный</text></cit></cit>
 </sense>
 <sense>
-(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на высшую степень наличия признака, выраженного простым прилагательным:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(под ударением) присоединяется к основам прилагательных, образуя имена прилагательные со значением указания на высшую степень наличия признака, выраженного простым прилагательным:</text></cit>
 <сit type="example"><text>forhissig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рьяный</text></cit></cit>
 <сit type="example"><text>forsint</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страшно рассерженный</text></cit></cit>
 </sense>
 <sense>
-(без ударения) присоединяется к глагольным основам для образования глаголов со значением удаления или устранения:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(без ударения) присоединяется к глагольным основам для образования глаголов со значением удаления или устранения:</text></cit>
 <сit type="example"><text>forjage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изгнать</text></cit></cit>
 </sense>
 <sense>
-(без ударения) присоединяется к глагольным основам для образования глаголов со значением действия, противоположного основному значению:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(без ударения) присоединяется к глагольным основам для образования глаголов со значением действия, противоположного основному значению:</text></cit>
 <сit type="example"><text>forakte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>презирать (ср. akte — уважать)</text></cit></cit>
 </sense>
 <sense>
-(без ударения) присоединяется к глагольным основам для образования глаголов со значением действия, изменяющего предмет или качество в то, которое обозначено простым словом, образующим глагол:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(без ударения) присоединяется к глагольным основам для образования глаголов со значением действия, изменяющего предмет или качество в то, которое обозначено простым словом, образующим глагол:</text></cit>
 <сit type="example"><text>forbedre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>улучшать</text></cit></cit>
 <сit type="example"><text>forblinde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослеплять</text></cit></cit>
 <сit type="example"><text>forsteine</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окаменевать</text></cit></cit>

@@ -8,7 +8,7 @@
 </form>
 <sense>
 <gramGrp><pos>inter</pos></gramGrp>
-кто?, кого?, кому?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кто?, кого?, кому?</text></cit>
 <сit type="example"><text>hvem der?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто там?, кто идёт?</text></cit></cit>
 <сit type="example"><text>hvem vet?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто знает?</text></cit></cit>
 <сit type="example"><text>«Hvem er hvem?»</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>справочник «Знаменитые люди страны»</text></cit></cit>
@@ -17,7 +17,7 @@
 </sense>
 <sense>
 <gramGrp><pos>rel</pos></gramGrp>
-тот, который; та, которая; те, которые
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который; та, которая; те, которые</text></cit>
 <сit type="example"><text>hvem som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто угодно</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">omkostningskonto</orth>
 <inflection><orth extent="part">-oen, -oer (-i)</orth></inflection>
-<u>бухг.</u> расчётный счёт
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расчётный счёт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">blodvarm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тёплый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёплый</text></cit>
 </sense>
 <sense>
-<u>перен.</u> живой
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой</text></cit>
 </sense>
 </entry>
 </superEntry>

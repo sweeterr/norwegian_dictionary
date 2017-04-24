@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">splitternaken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-совершенно голый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно голый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trø</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> загон для скота (на сетере, пастбище)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загон для скота (на сетере, пастбище)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">trø</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. trøe II
+<ref>trøe II</ref>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">trø</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. trøe III
+<ref>trøe III</ref>
 </sense>
 </entry>
 <entry>
@@ -29,13 +30,13 @@
 <form>
 <orth type="lemma">trø</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ступать, наступать (на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ступать, наступать (на что-л.)</text></cit>
 </sense>
 <sense>
-см. tre III
+<ref>tre III</ref>
 <сit type="example"><text>trø dagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начинать трудовой день</text></cit></cit>
 </sense>
 </entry>

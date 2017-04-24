@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tilforlatelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-надёжный, заслуживающий доверия, вызывающий к себе доверие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надёжный, заслуживающий доверия, вызывающий к себе доверие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">tilforlatelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-действительно, в действительности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действительно, в действительности</text></cit>
 </sense>
 </entry>
 </superEntry>

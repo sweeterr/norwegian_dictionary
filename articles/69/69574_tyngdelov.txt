@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tyngdelov</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> закон всемирного тяготения
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закон всемирного тяготения</text></cit>
 </sense>
 </entry>
 </superEntry>

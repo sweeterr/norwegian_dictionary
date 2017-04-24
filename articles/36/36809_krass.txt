@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">krass</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-грубый, резкий (о выражении, высказывании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, резкий (о выражении, высказывании)</text></cit>
 </sense>
 <sense>
-суровый (о действительности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый (о действительности)</text></cit>
 </sense>
 <sense>
-яркий, разительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий, разительный</text></cit>
 </sense>
 <sense>
-вопиющий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вопиющий</text></cit>
 </sense>
 </entry>
 </superEntry>

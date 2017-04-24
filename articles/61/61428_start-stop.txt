@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">start-stop</orth>
-<inflection><orth extent="part">-en, -er</orth></inflection>
- (-s)
-телетайп
+<inflection><orth extent="part">-en, -er (-s)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телетайп</text></cit>
 </sense>
 </entry>
 </superEntry>

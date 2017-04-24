@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tviste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-спорить, пререкаться, ссориться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спорить, пререкаться, ссориться</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-вертеть, крутить, скручивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертеть, крутить, скручивать</text></cit>
 </sense>
 <sense>
-мотать, наматывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мотать, наматывать</text></cit>
 <сit type="example"><text>tviste opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>теребить, выдёргивать (нитки)</text></cit></cit>
 </sense>
 </entry>

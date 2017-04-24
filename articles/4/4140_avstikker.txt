@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-кратковременная поездка (в сторону от основного пути)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кратковременная поездка (в сторону от основного пути)</text></cit>
 <сit type = "example"><text>gjøre en avstikker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> забежать по пути куда-л., заехать (зайти, заглянуть) мимоходом</text></cit></cit>
-<сit type = "example"><text>gjøre en avstikker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> сделать крюк</text></cit></cit>
+<сit type = "example"><text>gjøre en avstikker :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> сделать крюк</text></cit></cit>
 </sense>
 <sense>
-окольные тропинки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окольные тропинки</text></cit>
 </sense>
 <sense>
-<u>тех.</u> отвод, ответвление (от трубы)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвод, ответвление (от трубы)</text></cit>
 </sense>
 </entry>
 </superEntry>

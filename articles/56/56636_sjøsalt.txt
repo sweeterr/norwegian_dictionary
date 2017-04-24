@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sjøsalt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-морская соль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская соль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">sjøsalt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-солёный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солёный</text></cit>
 </sense>
 </entry>
 </superEntry>

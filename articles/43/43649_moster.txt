@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">moster</orth>
 <inflection><orth extent="part">-eren (-ra), -re</orth></inflection>
-<u>разг.</u> тётка (со стороны матери), сестра матери
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тётка (со стороны матери), сестра матери</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,8 @@
 <orth type="lemma">moster</orth>
 <phon>|'mostər|</phon>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> горчица
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горчица</text></cit>
 </sense>
 </entry>
 </superEntry>

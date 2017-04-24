@@ -8,15 +8,15 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-ранний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ранний</text></cit>
 </sense>
 <sense>
-прежний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прежний</text></cit>
 <сit type = "example"><text>i tidligere dager :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в прежние годы</text></cit></cit>
 <сit type = "example"><text>i tidligere dager :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в юные годы</text></cit></cit>
 </sense>
 <sense>
-предыдущий, предшествующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предыдущий, предшествующий</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-рано
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рано</text></cit>
 <сit type="example"><text>fortidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слишком рано</text></cit></cit>
 <сit type="example"><text>i dag tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня рано утром</text></cit></cit>
 <сit type="example"><text>i morgen tidlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтра спозаранку</text></cit></cit>
@@ -36,7 +36,7 @@
 <сit type="example"><text>tidlig års</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в начале года</text></cit></cit>
 </sense>
 <sense>
-раньше, прежде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раньше, прежде</text></cit>
 </sense>
 </entry>
 </superEntry>

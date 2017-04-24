@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">godhug</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> склонность (расположение) к кому-л.
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>склонность (расположение) к кому-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

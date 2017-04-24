@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">angelegen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u> ответственный, важный, очень нужный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ответственный, важный, очень нужный</text></cit>
 </sense>
 </entry>
 </superEntry>

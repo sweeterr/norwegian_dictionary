@@ -7,43 +7,48 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-кольцо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо</text></cit>
 <сit type="example"><text>glatt ring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обручальное кольцо</text></cit></cit>
 <сit type="example"><text>sette en ring på fingeren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надевать кольцо на палец</text></cit></cit>
-«ta (d)en ring og la den vandre» или «la ringen gå» детская игра в колечко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«ta (d)en ring og la den vandre» или «la ringen gå» детская игра в колечко</text></cit>
 </sense>
 <sense>
-круг, окружность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг, окружность</text></cit>
 <сit type = "example"><text>gå i ring :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> кружить, бродить</text></cit></cit>
 <сit type = "example"><text>gå i ring :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заблудиться (в лесу)</text></cit></cit>
 <сit type="example"><text>slå ring om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окружить, образовать круг (вокруг кого-л.)</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-круги (на воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круги (на воде)</text></cit>
 <сit type="example"><text>bre seg i videre og videre ringer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> шириться, распространяться</text></cit></cit>
 </sense>
 <sense>
-колечки (табачного дыма)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колечки (табачного дыма)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> круг (лиц, знакомых и т. п.)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг (лиц, знакомых и т. п.)</text></cit>
 </sense>
 <sense>
-обод (колеса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обод (колеса)</text></cit>
 </sense>
 <sense>
-<u>авт.</u> камера
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камера</text></cit>
 <сit type="example"><text>pumpe opp ringen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>авт.</lbl> накачивать баллон</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> годичное кольцо
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>годичное кольцо</text></cit>
 </sense>
 <sense>
-<u>астр.</u> кольцо (вокруг планеты), гало (вокруг Луны или Солнца)
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольцо (вокруг планеты), гало (вокруг Луны или Солнца)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> ринг
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ринг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,7 +56,8 @@
 <form>
 <orth type="lemma">ring</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> см. ringe I
+<usg>диал.</usg>
+<ref>ringe I</ref>
 </sense>
 </entry>
 <entry>
@@ -59,9 +65,9 @@
 <form>
 <orth type="lemma">ring</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> см. ringe II
+<usg>диал.</usg>
+<ref>ringe II</ref>
 </sense>
 </entry>
 </superEntry>

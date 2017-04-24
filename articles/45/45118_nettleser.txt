@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nettleser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>комп.</u> браузер; обозреватель, веб-обозреватель, навигатор (программа просмотра веб-страниц)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>браузер; обозреватель, веб-обозреватель, навигатор (программа просмотра веб-страниц)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tårnkommandør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> командир башни
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командир башни</text></cit>
 </sense>
 </entry>
 </superEntry>

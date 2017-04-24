@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vite</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поплавок (невода, сети)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок (невода, сети)</text></cit>
 </sense>
 <sense>
-сигнальный костёр (огонь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сигнальный костёр (огонь)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <inflection><orth>pres ve(i)t, pret visste, p.p. visst</orth></inflection>
 </form>
 <sense>
-знать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знать</text></cit>
 <сit type="example"><text>få vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>узнать</text></cit></cit>
 <сit type="example"><text>la én vite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сообщить, дать знать, уведомить</text></cit></cit>
 <сit type="example"><text>vite av én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь представление о ком-л. (чём-л.)</text></cit></cit>
@@ -39,10 +39,10 @@
 <сit type="example"><text>før han visste (ordet) av det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не успел он оглянуться (моргнуть), как ...</text></cit></cit>
 </sense>
 <sense>
-уметь (делать что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уметь (делать что-л.)</text></cit>
 </sense>
 <sense>
-говорить о чём-л., выражать (о внешнем виде, выражении лица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить о чём-л., выражать (о внешнем виде, выражении лица)</text></cit>
 <сit type="example"><text>ikke vite av seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не владеть собой, быть вне себя (от волнения, горя)</text></cit></cit>
 <сit type="example"><text>nå vet du (De, dere) det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таковы дела, так обстоят дела</text></cit></cit>
 </sense>

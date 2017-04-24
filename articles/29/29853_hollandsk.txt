@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hollandsk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-голландский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голландский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">hollandsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-голландский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голландский</text></cit>
 </sense>
 </entry>
 </superEntry>

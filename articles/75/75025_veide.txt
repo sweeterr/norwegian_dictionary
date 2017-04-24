@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">veide</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-промышлять, охотиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промышлять, охотиться</text></cit>
 </sense>
 <sense>
-ловить (зверей, птиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловить (зверей, птиц)</text></cit>
 </sense>
 <sense>
-свежевать (зверя); потрошить (дичь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежевать (зверя); потрошить (дичь)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bringebær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>бот.</u> малина (обыкновенная)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малина (обыкновенная)</text></cit>
 <сit type="example"><text>syltede bringebær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>варенье из малины</text></cit></cit>
 </sense>
 </entry>

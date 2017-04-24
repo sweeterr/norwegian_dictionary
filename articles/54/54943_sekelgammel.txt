@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sekelgammel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-многовековой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многовековой</text></cit>
 </sense>
 <sense>
-вековой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вековой</text></cit>
 </sense>
 </entry>
 </superEntry>

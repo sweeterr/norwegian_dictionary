@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">kjønnsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неразвитый в половом отношении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразвитый в половом отношении</text></cit>
 </sense>
 <sense>
-бесполый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесполый</text></cit>
 </sense>
 <sense>
-лишённый полноты чувства, красок (об искусстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лишённый полноты чувства, красок (об искусстве)</text></cit>
 </sense>
 </entry>
 </superEntry>

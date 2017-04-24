@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">drog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-лощина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лощина</text></cit>
 </sense>
 <sense>
-оглобля (в санях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оглобля (в санях)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">drog</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>разг.</u> ленивый, бестолковый человек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ленивый, бестолковый человек</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">fløtt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-перевозка по воде (грузов, пассажиров)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевозка по воде (грузов, пассажиров)</text></cit>
 <сit type="example"><text>ta fløtt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проехаться на пароходе</text></cit></cit>
 </sense>
 <sense>
-плавающий предмет, поплавок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавающий предмет, поплавок</text></cit>
 </sense>
 </entry>
 </superEntry>

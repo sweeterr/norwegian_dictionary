@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">svarløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безответный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безответный</text></cit>
 </sense>
 </entry>
 </superEntry>

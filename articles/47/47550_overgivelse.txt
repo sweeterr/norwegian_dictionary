@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-передача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передача</text></cit>
 </sense>
 <sense>
-<u>воен.</u> сдача, капитуляция
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сдача, капитуляция</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-шлепок, хлопок, лёгкий удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлепок, хлопок, лёгкий удар</text></cit>
 <сit type="example"><text>slå to fluer i (med) ett smekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> а одним ударом двух зайцев убить</text></cit></cit>
 </sense>
 <sense>
-причмокивание, чмоканье, щелчок языком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причмокивание, чмоканье, щелчок языком</text></cit>
 </sense>
 <sense>
-<u>перен.</u> суровый урок
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый урок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +23,7 @@
 <form>
 <orth type="lemma">smekk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-клапан, разрез на брюках
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клапан, разрез на брюках</text></cit>
 </sense>
 </entry>
 </superEntry>

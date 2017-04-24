@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">djevel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-дьявол, сатана, чёрт, бес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дьявол, сатана, чёрт, бес</text></cit>
 <сit type="example"><text>en djevels fyr</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрт, а не парень</text></cit></cit>
 <сit type="example"><text>det var djevels vanskelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было чертовски трудно</text></cit></cit>
 <сit type="example"><text>ingen djevel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>груб.</lbl> ни души</text></cit></cit>

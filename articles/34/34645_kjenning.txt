@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-знакомый, приятель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знакомый, приятель</text></cit>
 </sense>
 <sense>
-ощущение, восприятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ощущение, восприятие</text></cit>
 <сit type="example"><text>få kjenning av land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> увидеть землю (на горизонте, в тумане)</text></cit></cit>
 <сit type="example"><text>holde kjenning med hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не упускать друг друга из виду</text></cit></cit>
 </sense>
@@ -20,7 +20,8 @@
 <form>
 <orth type="lemma">kjenning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лит.</u> кеннинг (перифраз, похожий на загадку - характерен для поэзии древнескандинавских скальдов)
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кеннинг (перифраз, похожий на загадку - характерен для поэзии древнескандинавских скальдов)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">modalitet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>филос</u>,<u>лингв.</u> модальность
+<usg>филос</usg>
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>модальность</text></cit>
 </sense>
 </entry>
 </superEntry>

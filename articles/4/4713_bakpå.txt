@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakpå</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-на задней стороне (части)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на задней стороне (части)</text></cit>
 <сit type="example"><text>henge bakpå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>висеть сзади (на буфере и т. п.)</text></cit></cit>
 <сit type="example"><text>sitte bakpå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть сзади (в трамвае, автобусе)</text></cit></cit>
 </sense>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">bakpå</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на местонахождение позади чего-л., позади, сзади, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на местонахождение позади чего-л., позади, сзади, за</text></cit>
 </sense>
 </entry>
 </superEntry>

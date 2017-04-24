@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elskhug</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> сильная любовь, страсть
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильная любовь, страсть</text></cit>
 </sense>
 </entry>
 </superEntry>

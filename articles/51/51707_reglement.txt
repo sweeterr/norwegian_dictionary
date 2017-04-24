@@ -8,10 +8,11 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-регламент, статут, свод правил
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регламент, статут, свод правил</text></cit>
 </sense>
 <sense>
-<u>воен.</u> устав
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устав</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fallkloss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> баба (при забивке свай)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баба (при забивке свай)</text></cit>
 </sense>
 </entry>
 </superEntry>

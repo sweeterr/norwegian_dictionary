@@ -5,30 +5,30 @@
 <form>
 <orth type="lemma">bra</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <inflection><orth>(komp bedre, supert best)</orth></inflection>
+<inflection><orth>(komp bedre, supert best)</orth></inflection>
 </form>
 <sense>
-хороший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хороший</text></cit>
 <сit type="example"><text>det er bra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо</text></cit></cit>
 <сit type="example"><text>det er jo bare bra, det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё в порядке</text></cit></cit>
 <сit type="example"><text>det er ikke bra med Dem?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вам нехорошо?</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><pos>predic</pos></gramGrp>
- здоровый, в хорошем состоянии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый, в хорошем состоянии</text></cit>
 <сit type="example"><text>jeg er helt bra nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я теперь совсем здоров</text></cit></cit>
 <сit type="example"><text>ha det bra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя хорошо (где-л.)</text></cit></cit>
 <сit type="example"><text>jeg synes bra om det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мне это нравится</text></cit></cit>
 </sense>
 <sense>
-порядочный, значительных размеров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядочный, значительных размеров</text></cit>
 <сit type="example"><text>bra med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порядочно, изрядно</text></cit></cit>
 </sense>
 <sense>
-честный, добропорядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честный, добропорядочный</text></cit>
 </sense>
 <sense>
-приличный, порядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приличный, порядочный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,16 +36,17 @@
 <form>
 <orth type="lemma">bra</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp bedre, superl best)</orth></inflection>
+<inflection><orth>(komp bedre, superl best)</orth></inflection>
 </form>
 <sense>
-хорошо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо</text></cit>
 </sense>
 <sense>
-очень, вполне, весьма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень, вполне, весьма</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> прекрасно
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прекрасно</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">familieliv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-семейная жизнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>семейная жизнь</text></cit>
 <сit type="example"><text>føre et lykkelig familieliv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть счастливым в семейной жизни</text></cit></cit>
 </sense>
 </entry>

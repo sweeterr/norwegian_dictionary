@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">stime</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-суетиться, толпиться, толкаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суетиться, толпиться, толкаться</text></cit>
 </sense>
 <sense>
-спешить, торопиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спешить, торопиться</text></cit>
 </sense>
 <sense>
-нищенствовать, побираться, бродяжничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нищенствовать, побираться, бродяжничать</text></cit>
 </sense>
 <sense>
-кутить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутить</text></cit>
 </sense>
 <sense>
-идти косяком (о рыбе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти косяком (о рыбе)</text></cit>
 </sense>
 </entry>
 </superEntry>

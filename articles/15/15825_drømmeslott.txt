@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drømmeslott</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>поэт.</u> воздушные замки
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздушные замки</text></cit>
 </sense>
 </entry>
 </superEntry>

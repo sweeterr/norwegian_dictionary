@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-перевозка, транспортирование (грузов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевозка, транспортирование (грузов)</text></cit>
 </sense>
 <sense>
-транспортируемые грузы (товары, пассажиры)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспортируемые грузы (товары, пассажиры)</text></cit>
 </sense>
 <sense>
-<u>бухг.</u> транспорт, перенос (суммы) на другую страницу
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспорт, перенос (суммы) на другую страницу</text></cit>
 </sense>
 </entry>
 </superEntry>

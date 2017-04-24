@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">spøkelse</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-привидение, призрак, фантом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привидение, призрак, фантом</text></cit>
 <сit type="example"><text>se spøkelser ved høylys dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть паникёром, легко поддаваться страху</text></cit></cit>
 </sense>
 </entry>

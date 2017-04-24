@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">franko</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>ком.</u>
+<usg>ком.</usg>
 </form>
 <sense>
-бесплатно, франко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесплатно, франко</text></cit>
 </sense>
 <sense>
-оплачено
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оплачено</text></cit>
 </sense>
 </entry>
 </superEntry>

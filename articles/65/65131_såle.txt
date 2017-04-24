@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-подошва (ноги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подошва (ноги)</text></cit>
 </sense>
 <sense>
-подошва (обуви), стелька
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подошва (обуви), стелька</text></cit>
 </sense>
 <sense>
-след (носка, чулка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>след (носка, чулка)</text></cit>
 </sense>
 <sense>
-скользящая плоскость лыжи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользящая плоскость лыжи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">såle</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-ставить новую подошву
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ставить новую подошву</text></cit>
 </sense>
 </entry>
 </superEntry>

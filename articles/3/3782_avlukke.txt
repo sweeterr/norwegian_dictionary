@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et (-a), =</orth></inflection>
 </form>
 <sense>
-отгороженное помещение, каморка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отгороженное помещение, каморка</text></cit>
 </sense>
 <sense>
-огороженное место (в комнате)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огороженное место (в комнате)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">avlukke</orth>
 <inflection><orth extent="part">-te (-ket), -t (-ket)</orth></inflection>
-загородить, отгородить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загородить, отгородить</text></cit>
 </sense>
 </entry>
 </superEntry>

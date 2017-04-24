@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-список, перечень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>список, перечень</text></cit>
 <сit type="example"><text>stryke seg av listen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вычеркнуть себя из списка</text></cit></cit>
 <сit type="example"><text>stå på listen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>значиться в списке</text></cit></cit>
 </sense>
 <sense>
-подписной лист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подписной лист</text></cit>
 <сit type="example"><text>tegne seg på en liste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подписаться по подписному листу</text></cit></cit>
 </sense>
 </entry>
@@ -23,11 +23,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-украсть, стащить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украсть, стащить</text></cit>
 <сit type="example"><text>liste fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выманить что-л. у кого-л. хитростью</text></cit></cit>
 </sense>
 <sense>
-красться, прокрадываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красться, прокрадываться</text></cit>
 </sense>
 </entry>
 </superEntry>

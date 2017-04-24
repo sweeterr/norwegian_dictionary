@@ -5,23 +5,23 @@
 <form>
 <orth type="lemma">tverr</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-поперечный, пересекающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поперечный, пересекающий</text></cit>
 </sense>
 <sense>
-крутой (о повороте, обрыве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой (о повороте, обрыве)</text></cit>
 </sense>
 <sense>
-строптивый, упрямый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строптивый, упрямый</text></cit>
 </sense>
 <sense>
-недружелюбный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недружелюбный</text></cit>
 </sense>
 <sense>
-<u>диал.</u> внезапный, неожиданный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внезапный, неожиданный</text></cit>
 </sense>
 </entry>
 </superEntry>

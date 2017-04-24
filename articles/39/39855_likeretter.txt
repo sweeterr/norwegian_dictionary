@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">likeretter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>эл.</u> выпрямитель (тока)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямитель (тока)</text></cit>
 </sense>
 </entry>
 </superEntry>

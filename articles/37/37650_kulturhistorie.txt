@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kulturhistorie</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-история культуры
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>история культуры</text></cit>
 </sense>
 </entry>
 </superEntry>

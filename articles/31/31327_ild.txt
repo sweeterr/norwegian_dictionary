@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-огонь, пламя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь, пламя</text></cit>
 <сit type="example"><text>bengalsk ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бенгальский огонь</text></cit></cit>
 <сit type="example"><text>ingen rø(y)k uten ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> нет дыма без огня</text></cit></cit>
 <сit type="example"><text>med ild og sverd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огнём и мечом</text></cit></cit>
@@ -19,7 +19,7 @@
 <сit type="example"><text>komme mellom dobbelt ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть между двух огней</text></cit></cit>
 <сit type="example"><text>le(i)ke med ilden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть с огнём</text></cit></cit>
 <сit type = "example"><text>puste til ilden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> раздувать огонь</text></cit></cit>
-<сit type = "example"><text>puste til ilden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> раздувать вражду</text></cit></cit>
+<сit type = "example"><text>puste til ilden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> раздувать вражду</text></cit></cit>
 <сit type="example"><text>sette (tenne) ild på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поджигать, зажигать что-л.</text></cit></cit>
 <сit type="example"><text>slå ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высекать огонь</text></cit></cit>
 <сit type="example"><text>sprute ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извергать огонь (о вулкане)</text></cit></cit>
@@ -27,18 +27,19 @@
 <сit type="example"><text>være så forskjellige som ildog vann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отличаться как небо от земли</text></cit></cit>
 </sense>
 <sense>
-пожар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожар</text></cit>
 <сit type="example"><text>ild brant ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожар вспыхнул</text></cit></cit>
 <сit type="example"><text>bli herre over ilden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>локализировать пожар</text></cit></cit>
 </sense>
 <sense>
-костёр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костёр</text></cit>
 </sense>
 <sense>
-блеск, огонёк (в глазах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блеск, огонёк (в глазах)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> орудийный огонь, стрельба
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орудийный огонь, стрельба</text></cit>
 <сit type="example"><text>direkte ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огонь прямой наводкой</text></cit></cit>
 <сit type="example"><text>forstyrrende ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоящий огонь на воспрещение</text></cit></cit>
 <сit type="example"><text>maskert ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрельба с закрытых позиций</text></cit></cit>
@@ -50,13 +51,15 @@
 <сit type="example"><text>åpne ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открыть огонь</text></cit></cit>
 </sense>
 <sense>
-жар, лихорадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жар, лихорадка</text></cit>
 </sense>
 <sense>
-<u>перен.</u> воодушевление, страсть, горение
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воодушевление, страсть, горение</text></cit>
 </sense>
 <sense>
-<u>перен.</u> пламя (любви, страсти)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пламя (любви, страсти)</text></cit>
 <сit type="example"><text>Sankt Antonius ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> антонов огонь</text></cit></cit>
 <сit type="example"><text>Sankt Elms ild</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огни святого Эльма (в горах и т. д.)</text></cit></cit>
 </sense>

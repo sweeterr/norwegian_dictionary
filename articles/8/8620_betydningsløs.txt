@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">betydningsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-маловажный, не имеющий значения, незначительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маловажный, не имеющий значения, незначительный</text></cit>
 </sense>
 </entry>
 </superEntry>

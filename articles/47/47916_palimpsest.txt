@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">palimpsest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>филол.</u> палимпсест (древняя рукопись на пергаменте, написанная по смытому или соскобленному тексту)
+<usg>филол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палимпсест (древняя рукопись на пергаменте, написанная по смытому или соскобленному тексту)</text></cit>
 </sense>
 </entry>
 </superEntry>

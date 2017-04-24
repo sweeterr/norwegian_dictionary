@@ -7,25 +7,25 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-план <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>план <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>arbeide (gå fram) etter en plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работать по плану</text></cit></cit>
 <сit type="example"><text>framlegge (utkaste) en plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намечать план</text></cit></cit>
 <сit type="example"><text>forfølge sin plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следовать своему плану</text></cit></cit>
 <сit type="example"><text>legge planer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>строить планы</text></cit></cit>
 </sense>
 <sense>
-замысел, проект, намерение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замысел, проект, намерение</text></cit>
 <сit type="example"><text>fatte en plan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>замыслить что-л.</text></cit></cit>
 <сit type="example"><text>krysse (kullkaste) ens planer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опрокинуть чьи-л. планы</text></cit></cit>
 </sense>
 <sense>
-чертёж, технический проект
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чертёж, технический проект</text></cit>
 </sense>
 <sense>
-план (местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>план (местности)</text></cit>
 </sense>
 <sense>
-расписание (поездов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расписание (поездов)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,23 +35,25 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-горизонтальная плоскость, <u>мат.</u> плоскость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горизонтальная плоскость, <lbl>мат.</lbl> плоскость</text></cit>
 </sense>
 <sense>
-уровень <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уровень <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>ligge (være) i plan med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) на одном уровне с кем, чем-л.</text></cit></cit>
 </sense>
 <sense>
-равнина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнина</text></cit>
 </sense>
 <sense>
-<u>ав.</u> крыло (плоскость) самолёта
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крыло (плоскость) самолёта</text></cit>
 </sense>
 <sense>
-<u>разг.</u> самолёт
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самолёт</text></cit>
 </sense>
 <sense>
-грузовая площадка (кузов) автомашины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузовая площадка (кузов) автомашины</text></cit>
 </sense>
 </entry>
 <entry>
@@ -59,9 +61,8 @@
 <form>
 <orth type="lemma">plan</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-плоский, ровный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоский, ровный</text></cit>
 </sense>
 </entry>
 </superEntry>

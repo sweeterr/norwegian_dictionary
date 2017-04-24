@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">blindtarm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>анат.</u>
+<usg>анат.</usg>
 </form>
 <sense>
-слепая кишка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слепая кишка</text></cit>
 </sense>
 <sense>
-отросток слепой кишки, аппендикс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отросток слепой кишки, аппендикс</text></cit>
 </sense>
 </entry>
 </superEntry>

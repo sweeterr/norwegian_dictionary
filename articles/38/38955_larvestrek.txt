@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">larvestrek</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> шутка, проказа, озорная выходка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, проказа, озорная выходка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
-мерцание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерцание</text></cit>
 </sense>
 <sense>
-отблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отблеск</text></cit>
 </sense>
 <sense>
-моргание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моргание</text></cit>
 </sense>
 <sense>
-мгновение; миг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мгновение; миг</text></cit>
 <сit type="example"><text>i et blink</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в одно мгновение, в один миг</text></cit></cit>
 </sense>
 </entry>
@@ -27,11 +27,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-клеймо, зарубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеймо, зарубка</text></cit>
 <сit type="example"><text>hugge blink i treet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>клеймить дерево (для валки), делать зарубку на дереве</text></cit></cit>
 </sense>
 <sense>
-яблоко (в мишени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яблоко (в мишени)</text></cit>
 <сit type="example"><text>skyte på blink</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелять в мишень</text></cit></cit>
 <сit type="example"><text>treffe (ramme) (mitt) i blinken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть прямо в цель</text></cit></cit>
 <сit type="example"><text>treffe (i) blinken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> найти удачное выражение</text></cit></cit>
@@ -42,7 +42,7 @@
 <form>
 <orth type="lemma">blink</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-шоры (на глазах у лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шоры (на глазах у лошади)</text></cit>
 </sense>
 </entry>
 </superEntry>

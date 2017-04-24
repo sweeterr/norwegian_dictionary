@@ -7,26 +7,26 @@
 <inflection><orth>gjaldt (galdt), gjeldt</orth></inflection>
 </form>
 <sense>
-касаться чего-л., затрагивать (вопрос, проблему)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться чего-л., затрагивать (вопрос, проблему)</text></cit>
 </sense>
 <sense>
-иметь силу, действовать (о законе; платёжном средстве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметь силу, действовать (о законе; платёжном средстве)</text></cit>
 </sense>
 <sense>
-быть в ходу, в обращении (о деньгах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть в ходу, в обращении (о деньгах)</text></cit>
 </sense>
 <sense>
-быть действительным (о документе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть действительным (о документе)</text></cit>
 </sense>
 <sense>
-иметь вес (о людях, мнениях), быть в силе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметь вес (о людях, мнениях), быть в силе</text></cit>
 <сit type="example"><text>gjøre seg gjeldende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить считаться с собой, проявить свою силу</text></cit></cit>
 </sense>
 <sense>
-слыть, считаться (кем-л. -for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слыть, считаться (кем-л. -for)</text></cit>
 </sense>
 <sense>
-в безличном обороте:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в безличном обороте:</text></cit>
 <сit type="example"><text>det gjelder, <lbl>разг.</lbl> det gjeldes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нужно, надлежит (сделать что-л.)</text></cit></cit>
 <сit type="example"><text>det gjelder ikke (<lbl>разг.</lbl> det gjeldes ikke)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нельзя, не разрешается</text></cit></cit>
 <сit type = "example"><text>det gjelder om :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> речь идёт о, дело идёт о</text></cit></cit>
@@ -44,7 +44,8 @@
 <form>
 <orth type="lemma">gjelde</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>уст.</u> платить, выплачивать
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платить, выплачивать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -52,7 +53,7 @@
 <form>
 <orth type="lemma">gjelde</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-кастрировать, холостить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кастрировать, холостить</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjørne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-повторно молотить, перемолачивать (зерно)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повторно молотить, перемолачивать (зерно)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">kjørne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> выбивать кернером знаки на металлических изделиях
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбивать кернером знаки на металлических изделиях</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skarp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> форпик, ахтерпик
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форпик, ахтерпик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,44 +14,43 @@
 <form>
 <orth type="lemma">skarp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-острый <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-резкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий</text></cit>
 </sense>
 <sense>
-чёткий, резко выраженный, отчётливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёткий, резко выраженный, отчётливый</text></cit>
 </sense>
 <sense>
-сильный, пронизывающий (о морозе, ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, пронизывающий (о морозе, ветре)</text></cit>
 </sense>
 <sense>
-пронзительный (о звуке), ослепительный (о свете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пронзительный (о звуке), ослепительный (о свете)</text></cit>
 </sense>
 <sense>
-чуткий (о слухе), проницательный (о взгляде, об уме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуткий (о слухе), проницательный (о взгляде, об уме)</text></cit>
 </sense>
 <sense>
-едкий, острый (о запахе, вкусе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>едкий, острый (о запахе, вкусе)</text></cit>
 </sense>
 <sense>
-крутой (об изгибе, о повороте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой (об изгибе, о повороте)</text></cit>
 </sense>
 <sense>
-напряжённый (о внимании), сильный (об ощущении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжённый (о внимании), сильный (об ощущении)</text></cit>
 </sense>
 <sense>
-быстрый, прыткий (о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, прыткий (о животных)</text></cit>
 </sense>
 <sense>
-шершавый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шершавый</text></cit>
 </sense>
 <sense>
-тощий (о почве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тощий (о почве)</text></cit>
 </sense>
 </entry>
 </superEntry>

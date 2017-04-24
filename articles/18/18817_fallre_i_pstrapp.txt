@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fallre(i)pstrapp</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> забортный трап
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забортный трап</text></cit>
 </sense>
 </entry>
 </superEntry>

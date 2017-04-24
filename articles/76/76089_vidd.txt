@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">vidd</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ширина, простор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина, простор</text></cit>
 </sense>
 <sense>
-вместительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вместительность</text></cit>
 </sense>
 <sense>
-широкий круг (знакомых и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широкий круг (знакомых и т. п.)</text></cit>
 </sense>
 <sense>
-горное плато, нагорье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горное плато, нагорье</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,13 +25,13 @@
 <form>
 <orth type="lemma">vidd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-остроумие, юмор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остроумие, юмор</text></cit>
 </sense>
 <sense>
-ум, разум
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ум, разум</text></cit>
 <сit type="example"><text>gå fra vidd og sans (forstand, samling)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рехнуться, спятить, лишиться разума</text></cit></cit>
 <сit type="example"><text>være fra viddet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть без ума (от чего-л.)</text></cit></cit>
 </sense>

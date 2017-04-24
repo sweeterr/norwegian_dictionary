@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skumring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-полумрак, сумерки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полумрак, сумерки</text></cit>
 <сit type="example"><text>holde skumring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сумерничать</text></cit></cit>
 </sense>
 </entry>

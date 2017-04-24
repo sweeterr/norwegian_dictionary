@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">undervannsfart</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> подводное плавание
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводное плавание</text></cit>
 </sense>
 </entry>
 </superEntry>

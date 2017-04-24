@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hjernenerve</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> головной (черепно-мозговой) нерв
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головной (черепно-мозговой) нерв</text></cit>
 </sense>
 </entry>
 </superEntry>

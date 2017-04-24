@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lesehest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>перен.</u> книжный червь
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книжный червь</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nyrebetennelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> воспаление почек
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воспаление почек</text></cit>
 </sense>
 </entry>
 </superEntry>

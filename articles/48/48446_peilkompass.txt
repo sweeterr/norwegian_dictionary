@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">peilkompass</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>мор.</u> пелькомпас
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пелькомпас</text></cit>
 </sense>
 </entry>
 </superEntry>

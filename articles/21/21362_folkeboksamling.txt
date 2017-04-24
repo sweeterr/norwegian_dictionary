@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkeboksamling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-небольшая общедоступная библиотека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая общедоступная библиотека</text></cit>
 </sense>
 </entry>
 </superEntry>

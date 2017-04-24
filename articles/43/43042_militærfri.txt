@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">militærfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-снятый с военного учёта, невоеннообязанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снятый с военного учёта, невоеннообязанный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avfyringsmekanisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> взрывное устройство (мины)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрывное устройство (мины)</text></cit>
 </sense>
 </entry>
 </superEntry>

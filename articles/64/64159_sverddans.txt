@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sverddans</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> танец с мечами (саблями)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>танец с мечами (саблями)</text></cit>
 </sense>
 </entry>
 </superEntry>

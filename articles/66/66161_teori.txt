@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">teori</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-теория
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теория</text></cit>
 <сit type="example"><text>sosialismens teori</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>теория социализма</text></cit></cit>
 <сit type="example"><text>i teorien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в теории</text></cit></cit>
 <сit type="example"><text>sette fram en teori</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдвинуть теорию</text></cit></cit>

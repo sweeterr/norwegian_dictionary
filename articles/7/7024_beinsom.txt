@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">beinsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-услужливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>услужливый</text></cit>
 </sense>
 </entry>
 </superEntry>

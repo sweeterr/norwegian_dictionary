@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">visjonær</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-провидец, ясновидец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провидец, ясновидец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,17 +13,16 @@
 <form>
 <orth type="lemma">visjonær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-провидящий, ясновидящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провидящий, ясновидящий</text></cit>
 </sense>
 <sense>
-мистический, призрачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мистический, призрачный</text></cit>
 </sense>
 <sense>
-фантастический, воображаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фантастический, воображаемый</text></cit>
 </sense>
 </entry>
 </superEntry>

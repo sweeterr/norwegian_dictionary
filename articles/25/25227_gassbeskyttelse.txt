@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gassbeskyttelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> противохимическая защита (ПХЗ)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противохимическая защита (ПХЗ)</text></cit>
 </sense>
 </entry>
 </superEntry>

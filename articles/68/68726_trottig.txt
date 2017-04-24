@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trottig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выносливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выносливый</text></cit>
 </sense>
 <sense>
-настойчивый, старательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настойчивый, старательный</text></cit>
 </sense>
 </entry>
 </superEntry>

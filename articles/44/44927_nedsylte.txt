@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nedsylte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-мариновать, солить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мариновать, солить</text></cit>
 <сit type="example"><text>være nedsyltet i arbeid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уйти с головой в работу</text></cit></cit>
 </sense>
 </entry>

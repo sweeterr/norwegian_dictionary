@@ -7,23 +7,25 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-голос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голос</text></cit>
 <сit type="example"><text>blodets røst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувство кровного родства</text></cit></cit>
 <сit type="example"><text>høy røst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>громкий голос</text></cit></cit>
 <сit type="example"><text>opplate sin røst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возвысить голос</text></cit></cit>
 <сit type="example"><text>utgi sin røst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подать голос</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> пение (птиц)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пение (птиц)</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> звук (рога)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звук (рога)</text></cit>
 </sense>
 <sense>
-гул (орудий), шум (прибоя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гул (орудий), шум (прибоя)</text></cit>
 </sense>
 <sense>
-призыв, воззвание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>призыв, воззвание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +33,8 @@
 <form>
 <orth type="lemma">røst</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>архит.</u> щипец крыши с коньком наверху
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щипец крыши с коньком наверху</text></cit>
 </sense>
 </entry>
 </superEntry>

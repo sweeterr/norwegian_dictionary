@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kode</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-код, шифр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>код, шифр</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kode</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-бабка (у лошадей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бабка (у лошадей)</text></cit>
 </sense>
 </entry>
 </superEntry>

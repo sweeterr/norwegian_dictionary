@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">vital</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-жизненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизненный</text></cit>
 </sense>
 <sense>
-насущный, существенный, жизненно важный <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насущный, существенный, жизненно важный <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-жизнерадостный, оживлённый, бодрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизнерадостный, оживлённый, бодрый</text></cit>
 </sense>
 </entry>
 </superEntry>

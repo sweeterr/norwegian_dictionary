@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">prekær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ненадёжный, непрочный, полный случайностей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный, непрочный, полный случайностей</text></cit>
 </sense>
 <sense>
-неприятный, мучительный, тяжёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятный, мучительный, тяжёлый</text></cit>
 </sense>
 </entry>
 </superEntry>

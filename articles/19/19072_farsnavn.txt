@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">farsnavn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-отчество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отчество</text></cit>
 </sense>
 </entry>
 </superEntry>

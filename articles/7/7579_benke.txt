@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-садиться, рассаживаться (на скамьях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>садиться, рассаживаться (на скамьях)</text></cit>
 </sense>
 <sense>
-посадить, усадить (на скамью)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посадить, усадить (на скамью)</text></cit>
 </sense>
 <sense>
-усаживаться (тж. benke seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усаживаться (тж. benke seg)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">benke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-выпрямлять, выравнивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямлять, выравнивать</text></cit>
 </sense>
 </entry>
 </superEntry>

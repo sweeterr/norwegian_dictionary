@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fordelingsledning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>эл.</u> провод (проводник) в распределительной сети
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провод (проводник) в распределительной сети</text></cit>
 </sense>
 </entry>
 </superEntry>

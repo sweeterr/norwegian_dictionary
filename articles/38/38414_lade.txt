@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lade</orth>
 <inflection><orth extent="part">-n (-t), -r</orth></inflection>
-амбар, рига, сарай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амбар, рига, сарай</text></cit>
 <сit type="example"><text>samle i lader</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>копить добро (имущество)</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +16,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-ящик, ларец, ларь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ящик, ларец, ларь</text></cit>
 </sense>
 <sense>
-<u>уст.</u> лавка (магазин)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лавка (магазин)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,7 @@
 <form>
 <orth type="lemma">lade</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
-см. la II
+<ref>la II</ref>
 </sense>
 </entry>
 </superEntry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">bunnløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бездонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездонный</text></cit>
 </sense>
 <sense>
-безграничный, бесконечный, бескрайний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безграничный, бесконечный, бескрайний</text></cit>
 </sense>
 <sense>
-не имеющий дна (о сосуде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий дна (о сосуде)</text></cit>
 </sense>
 </entry>
 </superEntry>

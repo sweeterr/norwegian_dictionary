@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">talefilm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> звуковой фильм, тонфильм
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звуковой фильм, тонфильм</text></cit>
 </sense>
 </entry>
 </superEntry>

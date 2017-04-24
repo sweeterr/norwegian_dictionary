@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>лингв.</u> специалист по романским языкам
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>специалист по романским языкам</text></cit>
 </sense>
 <sense>
-<u>юр.</u> специалист по римскому праву
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>специалист по римскому праву</text></cit>
 </sense>
 <sense>
-писатель-романист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писатель-романист</text></cit>
 </sense>
 </entry>
 </superEntry>

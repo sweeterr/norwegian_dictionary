@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skihopper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> лыжник-прыгун с трамплина
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжник-прыгун с трамплина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ottes</orth>
 <inflection><orth>ottes, ottes</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бояться, страшиться, испытывать страх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бояться, страшиться, испытывать страх</text></cit>
 </sense>
 <sense>
-тревожиться, беспокоиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тревожиться, беспокоиться</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-напряженность, интенсивность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряженность, интенсивность</text></cit>
 </sense>
 <sense>
-энергия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергия</text></cit>
 </sense>
 <sense>
-<u>физ.</u> сила (тока и т. п.)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила (тока и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-судьба, участь, жребий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судьба, участь, жребий</text></cit>
 <сit type="example"><text>en hard skjebne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлая доля (судьба, участь)</text></cit></cit>
 <сit type="example"><text>dele skjebne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделить участь, судьбу (с кем-л. - med)</text></cit></cit>
 <сit type="example"><text>takk skjebne!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> благодарю судьбу!</text></cit></cit>
 </sense>
 <sense>
-рок, предопределённость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рок, предопределённость</text></cit>
 <сit type="example"><text>den blinde skjebne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слепой рок</text></cit></cit>
 </sense>
 </entry>

@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">tøylesløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-необузданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необузданный</text></cit>
 </sense>
 <sense>
-распущенный, не считающийся ни с чем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распущенный, не считающийся ни с чем</text></cit>
 </sense>
 <sense>
-беспутный, распутный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспутный, распутный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forkrøppe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>стр.</u>
+<usg>стр.</usg>
 </form>
 <sense>
-изгибать, гнуть, сгибать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгибать, гнуть, сгибать</text></cit>
 </sense>
 <sense>
-выступать, выдаваться, вспучиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступать, выдаваться, вспучиваться</text></cit>
 </sense>
 </entry>
 </superEntry>

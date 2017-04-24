@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cyan</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> циан
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>циан</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skruetapp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-метчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метчик</text></cit>
 </sense>
 <sense>
-нарезка болта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарезка болта</text></cit>
 </sense>
 </entry>
 </superEntry>

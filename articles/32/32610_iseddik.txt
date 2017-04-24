@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">iseddik</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> безводный уксус
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безводный уксус</text></cit>
 </sense>
 </entry>
 </superEntry>

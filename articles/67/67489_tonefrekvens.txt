@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tonefrekvens</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-звуковая (тональная) частота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звуковая (тональная) частота</text></cit>
 </sense>
 </entry>
 </superEntry>

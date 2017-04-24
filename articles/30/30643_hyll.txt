@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hyll</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> бузина чёрная
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бузина чёрная</text></cit>
 </sense>
 </entry>
 </superEntry>

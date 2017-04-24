@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vinkeltann</orth>
 <inflection><orth extent="part">-tannen (-tanna), -tenner</orth></inflection>
-<u>тех.</u> угловой зуб, угольчатый зубец
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угловой зуб, угольчатый зубец</text></cit>
 </sense>
 </entry>
 </superEntry>

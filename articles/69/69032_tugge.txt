@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tugge</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-жевок (комок разжёванной пищи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жевок (комок разжёванной пищи)</text></cit>
 </sense>
 <sense>
-порция жевательного табаку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порция жевательного табаку</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bekjempelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-борьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борьба</text></cit>
 </sense>
 <sense>
-подавление, преодоление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавление, преодоление</text></cit>
 </sense>
 </entry>
 </superEntry>

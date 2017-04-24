@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">lykksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> удачный, успешный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удачный, успешный</text></cit>
 <сit type="example"><text>lykksom reise</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>счастливого пути</text></cit></cit>
 </sense>
 </entry>

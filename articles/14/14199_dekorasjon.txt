@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-украшение, декорирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украшение, декорирование</text></cit>
 </sense>
 <sense>
-лепная фигура, скульптура, цветы, украшения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лепная фигура, скульптура, цветы, украшения</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-<u>театр.</u> декорации
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>декорации</text></cit>
 </sense>
 </entry>
 </superEntry>

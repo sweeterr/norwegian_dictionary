@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, = (-er)</orth></inflection>
 </form>
 <sense>
-лыжа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжа</text></cit>
 <сit type="example"><text>gå (løpe, renne) på ski</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить (бегать) на лыжах</text></cit></cit>
 <сit type="example"><text>hoppe på ski</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прыгать на лыжах с трамплина</text></cit></cit>
 <сit type="example"><text>stå på ski</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(уметь) ходить на лыжах</text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> лыжное шасси (самолёта, буера)
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лыжное шасси (самолёта, буера)</text></cit>
 </sense>
 </entry>
 </superEntry>

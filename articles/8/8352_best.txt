@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-зверь, животное
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зверь, животное</text></cit>
 </sense>
 <sense>
-тварь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тварь</text></cit>
 </sense>
 <sense>
-<u>разг.</u> бестия, скотина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бестия, скотина</text></cit>
 <сit type="example"><text>ditt best!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ах ты скотина!</text></cit></cit>
 </sense>
 </entry>
@@ -25,29 +26,29 @@
 <gramGrp><note>superl. от god, bra I</note></gramGrp>
 </form>
 <sense>
-лучший, самый лучший, наилучший, отменный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучший, самый лучший, наилучший, отменный</text></cit>
 </sense>
 <sense>
-самый подходящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый подходящий</text></cit>
 </sense>
 <sense>
-самый искусный, самый ловкий, самый умелый, самый способный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый искусный, самый ловкий, самый умелый, самый способный</text></cit>
 </sense>
 <sense>
-самый настоящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый настоящий</text></cit>
 </sense>
 <sense>
-самый состоятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый состоятельный</text></cit>
 </sense>
 <sense>
-самый знатный (именитый), самый благородный, высший (о слоях общества)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самый знатный (именитый), самый благородный, высший (о слоях общества)</text></cit>
 </sense>
 <sense>
-перед прилагательными:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перед прилагательными:</text></cit>
 <сit type="example"><text>den best mulige</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самый возможный</text></cit></cit>
 </sense>
 <sense>
-дорогой (в обращениях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорогой (в обращениях)</text></cit>
 <сit type="example"><text>(min) beste fru Hansen!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дорогая госпожа Хансен!</text></cit></cit>
 </sense>
 </entry>
@@ -59,16 +60,16 @@
 <gramGrp><note>superl. от godt, bra II</note></gramGrp>
 </form>
 <sense>
-лучше всего, лучше всех
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучше всего, лучше всех</text></cit>
 </sense>
 <sense>
-легче всего, проще всего
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легче всего, проще всего</text></cit>
 </sense>
 <sense>
-точнее всего
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точнее всего</text></cit>
 </sense>
 <sense>
-с глаголами указывает на развитие действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с глаголами указывает на развитие действия:</text></cit>
 <сit type="example"><text>være best i gang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в полном разгаре</text></cit></cit>
 </sense>
 </entry>

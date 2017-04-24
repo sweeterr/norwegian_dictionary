@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">leirantrekk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> летняя (полевая) форма
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>летняя (полевая) форма</text></cit>
 </sense>
 </entry>
 </superEntry>

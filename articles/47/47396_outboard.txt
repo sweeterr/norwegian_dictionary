@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">outboard</orth>
 <phon>|autbord|</phon>
-<inflection><orth extent="part">-en, -s</orth></inflection>
- (-er)
-<u>мор.</u> лодка (шлюпка) с подвесным мотором
+<inflection><orth extent="part">-en, -s (-er)</orth></inflection>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лодка (шлюпка) с подвесным мотором</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kardinaltall</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мат.</u> количественное числительное
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>количественное числительное</text></cit>
 </sense>
 </entry>
 </superEntry>

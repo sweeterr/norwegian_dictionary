@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">alunmalm</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>мин.</u> боксит, алунит
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боксит, алунит</text></cit>
 </sense>
 </entry>
 </superEntry>

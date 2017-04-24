@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-отбросы, дребедень, хлам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбросы, дребедень, хлам</text></cit>
 </sense>
 <sense>
-барда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барда</text></cit>
 </sense>
 <sense>
-древесные отходы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древесные отходы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,8 @@
 <form>
 <orth type="lemma">mask</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> крик, шум
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, шум</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tåkeapparat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>воен.</u> дымовой прибор
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымовой прибор</text></cit>
 </sense>
 </entry>
 </superEntry>

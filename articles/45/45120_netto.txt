@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">netto</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ком.</u> чистый вес, вес нетто
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый вес, вес нетто</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">netto</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-без тары и упаковки, нетто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без тары и упаковки, нетто</text></cit>
 </sense>
 </entry>
 </superEntry>

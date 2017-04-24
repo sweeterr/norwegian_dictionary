@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">len</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> лен, ленное владение
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лен, ленное владение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">len</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> временное затишье (во время бури, шторма)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>временное затишье (во время бури, шторма)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,14 +23,13 @@
 <form>
 <orth type="lemma">len</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий (о поверхности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий (о поверхности)</text></cit>
 </sense>
 <sense>
-вялый, слабый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый, слабый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bråke</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-поднять шум (гам, скандал)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поднять шум (гам, скандал)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-ломать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломать</text></cit>
 </sense>
 <sense>
-трепать (лён)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трепать (лён)</text></cit>
 </sense>
 <sense>
-месить (тесто)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>месить (тесто)</text></cit>
 </sense>
 <sense>
-мять (кожу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мять (кожу)</text></cit>
 </sense>
 </entry>
 </superEntry>

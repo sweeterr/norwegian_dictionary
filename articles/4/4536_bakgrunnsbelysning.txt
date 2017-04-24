@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakgrunnsbelysning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>комп.</u> задняя подсветка ЖК-экрана (улучшает контрастность текста и изображений)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задняя подсветка ЖК-экрана (улучшает контрастность текста и изображений)</text></cit>
 </sense>
 </entry>
 </superEntry>

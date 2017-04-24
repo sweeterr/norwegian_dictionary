@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hov</orth>
 <inflection><orth>hoven, hover (høver)</orth></inflection>
-копыто
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копыто</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">hov</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> языческий храм (в древней Норвегии и Исландии)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>языческий храм (в древней Норвегии и Исландии)</text></cit>
 </sense>
 </entry>
 </superEntry>

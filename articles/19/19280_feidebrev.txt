@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">feidebrev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> письмо с объявлением вражды
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>письмо с объявлением вражды</text></cit>
 </sense>
 </entry>
 </superEntry>

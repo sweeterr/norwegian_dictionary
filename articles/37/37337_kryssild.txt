@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kryssild</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> перекрёстный огонь <u>тж. перен.</u>
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекрёстный огонь <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 </superEntry>

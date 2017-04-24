@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пожар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожар</text></cit>
 <сit type="example"><text>melde brann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сообщать о пожаре, бить тревогу в случае пожара</text></cit></cit>
 <сit type="example"><text>stikke i brann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поджечь</text></cit></cit>
 <сit type="example"><text>påsette brannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поджечь</text></cit></cit>
@@ -19,39 +19,43 @@
 <сit type="example"><text>slukke en brann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тушить пожар</text></cit></cit>
 </sense>
 <sense>
-красноватый отблеск (облаков), зарево
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красноватый отблеск (облаков), зарево</text></cit>
 </sense>
 <sense>
-румянец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румянец</text></cit>
 <сit type="example"><text>med brann på kinnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с румянцем на щеках, с раскрасневшимися щеками</text></cit></cit>
 </sense>
 <sense>
-головня, головешка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головня, головешка</text></cit>
 </sense>
 <sense>
-палящая жара, пекло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палящая жара, пекло</text></cit>
 <сit type = "example"><text>solens brann :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> зной</text></cit></cit>
 <сit type = "example"><text>solens brann :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> загар</text></cit></cit>
 </sense>
 <sense>
-<u>мед.</u> жар, высокая температура
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жар, высокая температура</text></cit>
 <сit type="example"><text>snart i brann snart i frysning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то в жар, то в холод</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> огонь (любви, страсти)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь (любви, страсти)</text></cit>
 </sense>
 <sense>
-<u>мед.</u> гангрена
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гангрена</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> головня, ржа (болезнь растений)
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головня, ржа (болезнь растений)</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">brann</orth>
-см. brand I
+<ref>brand I</ref>
 </sense>
 </entry>
 <entry>

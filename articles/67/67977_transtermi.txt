@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">transtermi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> диатермия
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диатермия</text></cit>
 </sense>
 </entry>
 </superEntry>

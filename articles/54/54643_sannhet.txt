@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-достоверность, истинность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достоверность, истинность</text></cit>
 </sense>
 <sense>
-правда, истина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правда, истина</text></cit>
 <сit type="example"><text>sannheten skal fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>правда восторжествует</text></cit></cit>
 <сit type="example"><text>en avgjort sannhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сущая правда</text></cit></cit>
 <сit type="example"><text>den re(i)ne (nakne) sannheten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистая (неприкрытая) правда</text></cit></cit>
@@ -20,7 +20,7 @@
 <сit type="example"><text>si sannhet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить правду</text></cit></cit>
 </sense>
 <sense>
-реальность, реальная действительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальность, реальная действительность</text></cit>
 <сit type="example"><text>forslitte sannheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избитые истины</text></cit></cit>
 </sense>
 </entry>

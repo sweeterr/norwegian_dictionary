@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">harsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-затхлый, прогорклый; залежавшийся (о продукте питания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затхлый, прогорклый; залежавшийся (о продукте питания)</text></cit>
 </sense>
 <sense>
-острый (о запахе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый (о запахе)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> суровый, резкий, грубый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суровый, резкий, грубый</text></cit>
 </sense>
 </entry>
 </superEntry>

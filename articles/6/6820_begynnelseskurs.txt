@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begynnelseskurs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>экон.</u> первоначальная стоимость, начальная цена, курс на момент открытия биржи
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первоначальная стоимость, начальная цена, курс на момент открытия биржи</text></cit>
 </sense>
 </entry>
 </superEntry>

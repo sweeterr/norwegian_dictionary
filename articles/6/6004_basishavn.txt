@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basishavn</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> базовый порт, порт назначения, указанный в коносаменте, порт перевозчика
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базовый порт, порт назначения, указанный в коносаменте, порт перевозчика</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blitzlampe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>фото</u> вспышка
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспышка</text></cit>
 </sense>
 </entry>
 </superEntry>

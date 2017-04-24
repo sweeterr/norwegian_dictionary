@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">tjenestefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-слуги, прислуга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуги, прислуга</text></cit>
 </sense>
 <sense>
-<u>ист.</u> дворовые слуги, челядь
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дворовые слуги, челядь</text></cit>
 </sense>
 </entry>
 </superEntry>

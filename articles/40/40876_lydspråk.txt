@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lydspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>лингв.</u> звуковой язык
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звуковой язык</text></cit>
 </sense>
 </entry>
 </superEntry>

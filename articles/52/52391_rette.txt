@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rette</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-правая сторона, лицевая сторона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правая сторона, лицевая сторона</text></cit>
 <сit type="example"><text>på retten (retta)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на лицевой стороне</text></cit></cit>
 </sense>
 </entry>
@@ -16,43 +16,46 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-выравнивать, делать прямым
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать, делать прямым</text></cit>
 </sense>
 <sense>
-поправлять, исправлять (на что-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поправлять, исправлять (на что-л. - til)</text></cit>
 <сit type = "example"><text>rette på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> поправить, исправить</text></cit></cit>
 <сit type = "example"><text>rette på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> возмещать (убытки, ущерб)</text></cit></cit>
 <сit type="example"><text>rette på feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправлять ошибки</text></cit></cit>
 </sense>
 <sense>
-бросать (обвинения, упрёки кому-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать (обвинения, упрёки кому-л. - mot)</text></cit>
 </sense>
 <sense>
-направлять (взгляд)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направлять (взгляд)</text></cit>
 </sense>
 <sense>
-адресовать (вопрос), передавать (благодарность)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>адресовать (вопрос), передавать (благодарность)</text></cit>
 </sense>
 <sense>
-проверять (задание)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проверять (задание)</text></cit>
 </sense>
 <sense>
-приспосабливать, прилаживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приспосабливать, прилаживать</text></cit>
 </sense>
 <sense>
-устранять, упразднять, отменять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устранять, упразднять, отменять</text></cit>
 </sense>
 <sense>
-выпрямлять, вытягивать (ноги, шею)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпрямлять, вытягивать (ноги, шею)</text></cit>
 </sense>
 <sense>
-<u>ав.</u> выравнивать (самолёт при полёте)
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать (самолёт при полёте)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> наводить (орудие на что-л. - mot)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводить (орудие на что-л. - mot)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> казнить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>казнить</text></cit>
 <сit type = "example"><text>rette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выправить</text></cit></cit>
 <сit type = "example"><text>rette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выровнять</text></cit></cit>
 <сit type = "example"><text>rette opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> восстанавливать</text></cit></cit>

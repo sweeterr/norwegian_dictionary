@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-мякоть плода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мякоть плода</text></cit>
 </sense>
 <sense>
-<u>анат.</u> пульпа
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульпа</text></cit>
 </sense>
 <sense>
-<u>тех.</u> пульпа
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульпа</text></cit>
 </sense>
 </entry>
 </superEntry>

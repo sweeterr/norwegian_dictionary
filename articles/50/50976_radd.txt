@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">radd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-озорник, сорванец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озорник, сорванец</text></cit>
 </sense>
 <sense>
-наглец, хам, грубиян
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наглец, хам, грубиян</text></cit>
 </sense>
 </entry>
 </superEntry>

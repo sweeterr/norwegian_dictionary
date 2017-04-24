@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">populær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-общедоступный, распространённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>общедоступный, распространённый</text></cit>
 </sense>
 <sense>
-популярный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>популярный</text></cit>
 </sense>
 </entry>
 </superEntry>

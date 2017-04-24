@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ordrekonnossement</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ком.</u> ордерный коносамент
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ордерный коносамент</text></cit>
 </sense>
 </entry>
 </superEntry>

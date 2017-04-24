@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">naturegen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-врождённый, свойственный натуре, склонностям (человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врождённый, свойственный натуре, склонностям (человека)</text></cit>
 </sense>
 </entry>
 </superEntry>

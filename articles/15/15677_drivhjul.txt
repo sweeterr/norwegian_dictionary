@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drivhjul</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> ведущее колесо
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ведущее колесо</text></cit>
 </sense>
 </entry>
 </superEntry>

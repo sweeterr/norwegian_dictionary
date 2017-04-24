@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">lealøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-разболтанный, расшатанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разболтанный, расшатанный</text></cit>
 </sense>
 <sense>
-шаткий, неустойчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаткий, неустойчивый</text></cit>
 </sense>
 <sense>
-легкомысленный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

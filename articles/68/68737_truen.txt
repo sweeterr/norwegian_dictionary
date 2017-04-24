@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">truen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-легковерный, доверчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легковерный, доверчивый</text></cit>
 </sense>
 <sense>
-преданный, надёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преданный, надёжный</text></cit>
 </sense>
 </entry>
 </superEntry>

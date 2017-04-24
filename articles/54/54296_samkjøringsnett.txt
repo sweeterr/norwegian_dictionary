@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">samkjøringsnett</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>эл.</u> единая высоковольтная сеть (система)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>единая высоковольтная сеть (система)</text></cit>
 </sense>
 </entry>
 </superEntry>

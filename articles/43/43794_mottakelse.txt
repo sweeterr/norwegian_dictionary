@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-приём, встреча
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приём, встреча</text></cit>
 <сit type="example"><text>gi én en varm mottakelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тепло встретить кого-л.</text></cit></cit>
 <сit type="example"><text>holde mottakelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать приём (гостей)</text></cit></cit>
 </sense>
 <sense>
-получение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получение</text></cit>
 <сit type="example"><text>etter mottakelsen av Deres brev</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по получении Вашего письма</text></cit></cit>
 </sense>
 </entry>

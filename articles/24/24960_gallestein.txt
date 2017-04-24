@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gallestein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> жёлчный камень
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёлчный камень</text></cit>
 </sense>
 </entry>
 </superEntry>

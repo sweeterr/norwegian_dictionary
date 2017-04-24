@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">isolator</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>эл.</u>
+<usg>эл.</usg>
 </form>
 <sense>
-изолятор, изоляционный материал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изолятор, изоляционный материал</text></cit>
 </sense>
 <sense>
-изолятор фарфоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изолятор фарфоровый</text></cit>
 </sense>
 </entry>
 </superEntry>

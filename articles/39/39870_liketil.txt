@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-прямой, открытый, правдивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой, открытый, правдивый</text></cit>
 </sense>
 <sense>
-простой, несложный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, несложный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">liketil</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-прямо, откровенно, без обиняков
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, откровенно, без обиняков</text></cit>
 </sense>
 </entry>
 </superEntry>

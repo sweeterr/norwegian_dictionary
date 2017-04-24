@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> одинокий, уединённый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одинокий, уединённый</text></cit>
 </sense>
 </entry>
 </superEntry>

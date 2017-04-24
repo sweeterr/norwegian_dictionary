@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">emmen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тяжёлый (о запахе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о запахе)</text></cit>
 </sense>
 <sense>
-безвкусный, пресный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвкусный, пресный</text></cit>
 </sense>
 </entry>
 </superEntry>

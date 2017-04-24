@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-блокада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блокада</text></cit>
 </sense>
 <sense>
-бойкотирование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бойкотирование</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> блокировка
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блокировка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">formening</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-мнение, суждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мнение, суждение</text></cit>
 <сit type="example"><text>etter min formening</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по моему мнению</text></cit></cit>
 <сit type="example"><text>stå (være) i den formening at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>считать, полагать, придерживаться того мнения, что ...</text></cit></cit>
 </sense>

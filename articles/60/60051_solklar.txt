@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">solklar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-освещенный солнцем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освещенный солнцем</text></cit>
 </sense>
 <sense>
-солнечный (об отрезке времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солнечный (об отрезке времени)</text></cit>
 </sense>
 </entry>
 </superEntry>

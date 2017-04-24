@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">partifarge</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>разг.</u> политическая линия партии
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>политическая линия партии</text></cit>
 </sense>
 </entry>
 </superEntry>

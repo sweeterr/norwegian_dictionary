@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">erfaren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-опытный, имеющий опыт, бывалый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опытный, имеющий опыт, бывалый</text></cit>
 </sense>
 </entry>
 </superEntry>

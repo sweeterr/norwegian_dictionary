@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-одновременный, совпадающий по времени (с чем-л. - med)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одновременный, совпадающий по времени (с чем-л. - med)</text></cit>
 </sense>
 <sense>
-одного возраста, одинаковый по возрасту
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одного возраста, одинаковый по возрасту</text></cit>
 </sense>
 <sense>
-<u>редко</u> современный
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>современный</text></cit>
 <сit type="example"><text>våre samtidige</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наши современники</text></cit></cit>
 </sense>
 </entry>

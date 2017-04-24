@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reglett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>полигр.</u> реглет
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реглет</text></cit>
 </sense>
 </entry>
 </superEntry>

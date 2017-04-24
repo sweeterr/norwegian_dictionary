@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">holdningsfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-устойчивый, корректный, держащийся с достоинством
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устойчивый, корректный, держащийся с достоинством</text></cit>
 </sense>
 </entry>
 </superEntry>

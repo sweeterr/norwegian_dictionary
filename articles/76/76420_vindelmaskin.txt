@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vindelmaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>текст.</u> шпульная (мотальная) машина
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпульная (мотальная) машина</text></cit>
 </sense>
 </entry>
 </superEntry>

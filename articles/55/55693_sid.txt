@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">sid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-длинный и широкий, свободный (о платье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинный и широкий, свободный (о платье)</text></cit>
 </sense>
 <sense>
-свисающий, нависающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свисающий, нависающий</text></cit>
 </sense>
 <sense>
-сырой, тяжёлый (о воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сырой, тяжёлый (о воздухе)</text></cit>
 </sense>
 <sense>
-низменный, сырой, болотистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низменный, сырой, болотистый</text></cit>
 </sense>
 </entry>
 </superEntry>

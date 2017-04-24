@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">taffelmusikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-музыка, исполняемая во время парадного обеда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыка, исполняемая во время парадного обеда</text></cit>
 </sense>
 </entry>
 </superEntry>

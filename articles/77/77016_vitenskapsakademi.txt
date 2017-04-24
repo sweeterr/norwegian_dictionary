@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vitenskapsakademi</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-академия наук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>академия наук</text></cit>
 </sense>
 </entry>
 </superEntry>

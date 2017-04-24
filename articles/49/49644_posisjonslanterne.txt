@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">posisjonslanterne</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u> судовые огни
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судовые огни</text></cit>
 </sense>
 </entry>
 </superEntry>

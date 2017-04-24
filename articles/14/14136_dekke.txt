@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-покрывало, покров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывало, покров</text></cit>
 <сit type = "example"><text>spille under dekke med en :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> находиться в тайном сговоре с кем-л., иметь тайную договорённость с кем-л.</text></cit></cit>
 <сit type = "example"><text>spille under dekke med en :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть заодно с кем-л.</text></cit></cit>
 </sense>
 <sense>
-прикрытие, укрытие, маскировка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикрытие, укрытие, маскировка</text></cit>
 <сit type="example"><text>under dekke av noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под прикрытием (маской, покровом) чего-л.</text></cit></cit>
 </sense>
 </entry>
@@ -23,16 +23,16 @@
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
 </form>
 <sense>
-покрывать, накрывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать, накрывать</text></cit>
 <сit type="example"><text>dekke et bord (bordet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрывать на стол</text></cit></cit>
 <сit type="example"><text>dekke av et bord (bordet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать со стола, убирать</text></cit></cit>
 </sense>
 <sense>
-прикрывать (войска)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикрывать (войска)</text></cit>
 <сit type="example"><text>dekke seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обезопасить (оградить) себя</text></cit></cit>
 </sense>
 <sense>
-покрывать (расходы, долги и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрывать (расходы, долги и т. п.)</text></cit>
 <сit type="example"><text>dekke hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> совпадать</text></cit></cit>
 <сit type="example"><text>uttrykkene dekker hverandre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выражения однозначны</text></cit></cit>
 <сit type = "example"><text>dekke over :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> накрыть, закрыть (кого-л.)</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dagbrekning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-рассвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассвет</text></cit>
 <сit type="example"><text>i dagbrekningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на рассвете (на заре)</text></cit></cit>
 </sense>
 </entry>

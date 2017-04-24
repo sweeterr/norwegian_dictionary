@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">drøftelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-обсуждение (вопроса), рассмотрение (проблемы), разбор (дела)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обсуждение (вопроса), рассмотрение (проблемы), разбор (дела)</text></cit>
 <сit type="example"><text>bli underkastet en drøftelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергнуться обсуждению (рассмотрению)</text></cit></cit>
 </sense>
 </entry>

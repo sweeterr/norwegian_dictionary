@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uløyves</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> тайком, без разрешения
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайком, без разрешения</text></cit>
 </sense>
 </entry>
 </superEntry>

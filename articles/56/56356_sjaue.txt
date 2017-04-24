@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sjaue</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-много работать; заниматься тяжёлой, изнурительной работой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>много работать; заниматься тяжёлой, изнурительной работой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">sjaue</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-кричать, шуметь, галдеть, скандалить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, шуметь, галдеть, скандалить</text></cit>
 </sense>
 </entry>
 </superEntry>

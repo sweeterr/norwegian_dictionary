@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">elementær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-элементарный, простой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элементарный, простой</text></cit>
 </sense>
 <sense>
-начальный, простейший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальный, простейший</text></cit>
 </sense>
 <sense>
-основной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основной</text></cit>
 </sense>
 </entry>
 </superEntry>

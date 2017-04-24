@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nippel</orth>
 <inflection><orth extent="part">-pelen, -ler</orth></inflection>
-<u>тех.</u> ниппель
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ниппель</text></cit>
 </sense>
 </entry>
 </superEntry>

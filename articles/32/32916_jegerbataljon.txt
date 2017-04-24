@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jegerbataljon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> егерский батальон, батальон егерей
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>егерский батальон, батальон егерей</text></cit>
 </sense>
 </entry>
 </superEntry>

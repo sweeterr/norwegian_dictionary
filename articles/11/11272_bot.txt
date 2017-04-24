@@ -7,15 +7,17 @@
 <inflection><orth>boten (bota), bøter</orth></inflection>
 </form>
 <sense>
-возмещение (убытков, ущерба), компенсация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмещение (убытков, ущерба), компенсация</text></cit>
 <сit type="example"><text>råde bot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уладить дело, договориться (о чём-л. -på)</text></cit></cit>
 <сit type="example"><text>til bot for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взамен (чего-л.), вместо (чего-л.)</text></cit></cit>
 </sense>
 <sense>
-штраф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штраф</text></cit>
 </sense>
 <sense>
-<u>тк. sg</u> <u>церк.</u> покаяние
+<usg>тк. sg</usg>
+<usg>церк./usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покаяние</text></cit>
 <сit type="example"><text>gjøre bot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>каяться</text></cit></cit>
 <сit type="example"><text>love bot og bedring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обещать исправиться</text></cit></cit>
 </sense>
@@ -27,14 +29,15 @@
 <inflection><orth>bota (boten), bøter (boter)</orth></inflection>
 </form>
 <sense>
-заплата
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплата</text></cit>
 <сit type="example"><text>sette bot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>класть (ставить) заплаты (на что-л. - på); латать</text></cit></cit>
 </sense>
 <sense>
-тряпка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тряпка</text></cit>
 </sense>
 <sense>
-<u>диал.</u> пятно (на шкуре животного)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятно (на шкуре животного)</text></cit>
 </sense>
 </entry>
 </superEntry>

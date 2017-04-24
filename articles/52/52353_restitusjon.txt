@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>лингв.</u> восстановление (текста), реконструирование (форм)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восстановление (текста), реконструирование (форм)</text></cit>
 </sense>
 <sense>
-<u>юр.</u> возмещение
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возмещение</text></cit>
 </sense>
 </entry>
 </superEntry>

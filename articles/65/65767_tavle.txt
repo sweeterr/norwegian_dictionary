@@ -7,24 +7,26 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-классная доска, грифельная доска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>классная доска, грифельная доска</text></cit>
 <сit type="example"><text>skrive på tavla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать на доске</text></cit></cit>
 <сit type="example"><text>tørke (stryke) av tavla</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стирать с доски</text></cit></cit>
 </sense>
 <sense>
-каменная плита, плитка, дощечка (медная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каменная плита, плитка, дощечка (медная)</text></cit>
 </sense>
 <sense>
-<u>редко</u> картина
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>картина</text></cit>
 </sense>
 <sense>
-таблица (генеалогическая и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таблица (генеалогическая и т. п.)</text></cit>
 </sense>
 <sense>
-гнездовая рамка (в улье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнездовая рамка (в улье)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> панель, планшет
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панель, планшет</text></cit>
 </sense>
 </entry>
 </superEntry>

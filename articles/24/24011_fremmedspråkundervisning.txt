@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fremmedspråkundervisning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-обучение иностранному языку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обучение иностранному языку</text></cit>
 </sense>
 </entry>
 </superEntry>

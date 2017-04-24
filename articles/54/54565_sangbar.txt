@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sangbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-певучий, мелодичный, напевный (о стихах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>певучий, мелодичный, напевный (о стихах)</text></cit>
 </sense>
 <sense>
-легко запоминающийся (о мелодии, мотиве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легко запоминающийся (о мелодии, мотиве)</text></cit>
 </sense>
 </entry>
 </superEntry>

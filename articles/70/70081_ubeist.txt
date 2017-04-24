@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ubeist</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-изверг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изверг</text></cit>
 </sense>
 <sense>
-идиот, дурак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идиот, дурак</text></cit>
 </sense>
 </entry>
 </superEntry>

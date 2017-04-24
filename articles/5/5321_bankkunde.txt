@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bankkunde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-клиент банка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клиент банка</text></cit>
 </sense>
 </entry>
 </superEntry>

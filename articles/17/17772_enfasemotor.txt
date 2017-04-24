@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">enfasemotor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>эл.</u> однофазный мотор
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>однофазный мотор</text></cit>
 </sense>
 </entry>
 </superEntry>

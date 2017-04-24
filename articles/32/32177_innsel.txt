@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innsel</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> внутреннее помещение (в домике на горном пастбище)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутреннее помещение (в домике на горном пастбище)</text></cit>
 </sense>
 </entry>
 </superEntry>

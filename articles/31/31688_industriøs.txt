@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">industriøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-прилежный, старательный, трудолюбивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилежный, старательный, трудолюбивый</text></cit>
 </sense>
 <sense>
-<u>редко</u> промышленный
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промышленный</text></cit>
 </sense>
 </entry>
 </superEntry>

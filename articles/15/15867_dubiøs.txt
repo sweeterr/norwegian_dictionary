@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">dubiøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ненадёжный (о людях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненадёжный (о людях)</text></cit>
 </sense>
 <sense>
-подозрительный, сомнительный, внушающий подозрения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подозрительный, сомнительный, внушающий подозрения</text></cit>
 </sense>
 <sense>
-нерешительный, неопределённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерешительный, неопределённый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">adipom</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u> жировик, жировая опухоль
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жировик, жировая опухоль</text></cit>
 </sense>
 </entry>
 </superEntry>

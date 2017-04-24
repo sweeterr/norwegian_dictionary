@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">åpenbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-явный, очевидный, ясный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>явный, очевидный, ясный</text></cit>
 </sense>
 <sense>
-открытый, общедоступный, несекретный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытый, общедоступный, несекретный</text></cit>
 </sense>
 </entry>
 </superEntry>

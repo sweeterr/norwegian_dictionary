@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gauv</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-мелкая пыль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкая пыль</text></cit>
 </sense>
 <sense>
-метель, пурга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метель, пурга</text></cit>
 </sense>
 </entry><entry>
 <index></index>

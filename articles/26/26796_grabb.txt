@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grabb</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> угольный ковш, двустворчатый грейфер
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угольный ковш, двустворчатый грейфер</text></cit>
 </sense>
 </entry>
 </superEntry>

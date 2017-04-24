@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">indisponibel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не имеющийся в наличии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющийся в наличии</text></cit>
 </sense>
 </entry>
 </superEntry>

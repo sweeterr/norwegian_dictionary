@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bevisgjenstand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-предмет (сущность) доказательства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предмет (сущность) доказательства</text></cit>
 </sense>
 <sense>
-материальная улика; предмет, служащий доказательством
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материальная улика; предмет, служащий доказательством</text></cit>
 </sense>
 </entry>
 </superEntry>

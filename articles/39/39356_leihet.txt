@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">leihet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-строптивость, несговорчивость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строптивость, несговорчивость</text></cit>
 </sense>
 <sense>
-подавленность, тоска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленность, тоска</text></cit>
 </sense>
 <sense>
-неприятность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятность</text></cit>
 </sense>
 </entry>
 </superEntry>

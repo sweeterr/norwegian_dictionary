@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flø</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> поплавок на леске удочки
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поплавок на леске удочки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">flø</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u> тепловатый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепловатый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,10 +26,10 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-выходить из берегов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выходить из берегов</text></cit>
 </sense>
 <sense>
-прибывать (о воде при приливе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибывать (о воде при приливе)</text></cit>
 </sense>
 </entry>
 </superEntry>

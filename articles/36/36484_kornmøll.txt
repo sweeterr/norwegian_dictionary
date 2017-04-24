@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kornmøll</orth>
 <inflection><orth extent="part">-en (-et), =</orth></inflection>
-<u>зоол.</u> моль амбарная
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моль амбарная</text></cit>
 </sense>
 </entry>
 </superEntry>

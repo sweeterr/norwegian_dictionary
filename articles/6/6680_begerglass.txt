@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begerglass</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>хим.</u> мензурка, лабораторный стакан
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мензурка, лабораторный стакан</text></cit>
 </sense>
 </entry>
 </superEntry>

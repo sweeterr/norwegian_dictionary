@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pakningsring</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> компрессионное кольцо
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компрессионное кольцо</text></cit>
 </sense>
 </entry>
 </superEntry>

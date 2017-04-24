@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">arbeidsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безработный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безработный</text></cit>
 </sense>
 </entry>
 </superEntry>

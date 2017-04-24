@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">attributiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> определительный
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>определительный</text></cit>
 </sense>
 </entry>
 </superEntry>

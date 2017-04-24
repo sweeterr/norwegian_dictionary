@@ -7,26 +7,29 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-девушка, девица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девушка, девица</text></cit>
 </sense>
 <sense>
-девственница
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девственница</text></cit>
 <сit type="example"><text>gammel jomfru</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старая дева</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> барышня
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барышня</text></cit>
 </sense>
 <sense>
-служанка, прислуга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служанка, прислуга</text></cit>
 </sense>
 <sense>
-продавщица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продавщица</text></cit>
 </sense>
 <sense>
-<u>астр.</u> Дева (созвездие),
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Дева (созвездие),</text></cit>
 </sense>
 <sense>
-<u>тех.</u> ручная трамбовка, баба
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручная трамбовка, баба</text></cit>
 </sense>
 </entry>
 </superEntry>

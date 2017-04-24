@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">repertoar</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>театр.</u> репертуар (театра, артиста)
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репертуар (театра, артиста)</text></cit>
 <сit type="example"><text>sette et repertoar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>составлять репертуар</text></cit></cit>
 </sense>
 </entry>

@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-основа, основание, предпосылка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основа, основание, предпосылка</text></cit>
 <сit type="example"><text>på en bred basis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на широкой основе</text></cit></cit>
 </sense>
 <sense>
-базис
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базис</text></cit>
 </sense>
 <sense>
-фундамент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фундамент</text></cit>
 </sense>
 <sense>
-<u>воен.</u> база
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>база</text></cit>
 </sense>
 <sense>
-<u>геод.</u> базис, базисная линия
+<usg>геод.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базис, базисная линия</text></cit>
 </sense>
 </entry>
 </superEntry>

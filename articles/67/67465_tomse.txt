@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tomse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-делать глупости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать глупости</text></cit>
 </sense>
 <sense>
-пустословить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустословить</text></cit>
 </sense>
 </entry>
 </superEntry>

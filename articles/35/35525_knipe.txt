@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knipe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-трудное (тяжёлое, опасное) положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудное (тяжёлое, опасное) положение</text></cit>
 <сit type="example"><text>komme i knipe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в оборот</text></cit></cit>
 </sense>
 </entry>
@@ -16,25 +16,25 @@
 <inflection><orth>kne(i)p, knepet</orth></inflection>
 </form>
 <sense>
-щипать, ущипнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щипать, ущипнуть</text></cit>
 <сit type="example"><text>knipe seg i armen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щипать себя за руку (чтобы не заснуть)</text></cit></cit>
 </sense>
 <sense>
-схватить, цапнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>схватить, цапнуть</text></cit>
 </sense>
 <sense>
-арестовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арестовать</text></cit>
 </sense>
 <sense>
-стащить, своровать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стащить, своровать</text></cit>
 </sense>
 <sense>
-защемить, прижимать, сжимать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защемить, прижимать, сжимать</text></cit>
 <сit type = "example"><text>det kniper :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приходится трудно, это представляет трудность</text></cit></cit>
 <сit type = "example"><text>det kniper :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> жмёт, узко, тесно (об обуви, одежде)</text></cit></cit>
 </sense>
 <sense>
-скупиться, жадничать, быть прижимистым
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скупиться, жадничать, быть прижимистым</text></cit>
 <сit type="example"><text>knipe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отщипнуть</text></cit></cit>
 <сit type="example"><text>knipe inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забрать, ушить (платье)</text></cit></cit>
 <сit type="example"><text>knipe seg gjennom noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>протиснуться через что-л.</text></cit></cit>

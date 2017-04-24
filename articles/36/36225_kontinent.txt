@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kontinent</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-материк, суша, континент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материк, суша, континент</text></cit>
 </sense>
 </entry>
 </superEntry>

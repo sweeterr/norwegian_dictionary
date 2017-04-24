@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">innpå</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-внутрь, внутри
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутрь, внутри</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,14 @@
 <form>
 <orth type="lemma">innpå</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на:</text></cit>
 </form>
 <sense>
-движение на поверхности предмета - на:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение на поверхности предмета - на:</text></cit>
 <сit type="example"><text>innpå veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на дорогу</text></cit></cit>
 </sense>
 <sense>
-нахождение в пределах ограниченного пространства - в; в глубине
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нахождение в пределах ограниченного пространства - в; в глубине</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-желудок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желудок</text></cit>
 <сit type="example"><text>arbeide på tom mage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работать на голодный желудок</text></cit></cit>
 </sense>
 <sense>
-живот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живот</text></cit>
 <сit type="example"><text>jeg har vondt i magen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня болит живот</text></cit></cit>
 <сit type="example"><text>ha hård (løs) mage</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь крепкий (жидкий) стул</text></cit></cit>
 <сit type="example"><text>ligge på magen for Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> пресмыкаться (лебезить) перед кем-л.</text></cit></cit>
@@ -27,10 +27,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> потрошить
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрошить</text></cit>
 </sense>
 <sense>
-<u>редко</u> ползти на животе
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ползти на животе</text></cit>
 </sense>
 </entry>
 </superEntry>

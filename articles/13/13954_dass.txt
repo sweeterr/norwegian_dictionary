@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dass</orth>
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
-<u>разг.</u> уборная
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уборная</text></cit>
 </sense>
 </entry>
 </superEntry>

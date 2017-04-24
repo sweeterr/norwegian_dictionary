@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">forfallen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ветхий, обветшавший, запущенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветхий, обветшавший, запущенный</text></cit>
 </sense>
 <sense>
-спившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спившийся</text></cit>
 </sense>
 <sense>
-просроченный (о векселе, платёжных документах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просроченный (о векселе, платёжных документах)</text></cit>
 </sense>
 </entry>
 </superEntry>

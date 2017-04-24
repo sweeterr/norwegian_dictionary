@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-правление, управление, руководство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правление, управление, руководство</text></cit>
 </sense>
 <sense>
-администрация, дирекция, комитет, президиум
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>администрация, дирекция, комитет, президиум</text></cit>
 </sense>
 <sense>
-<u>грам.</u> управление
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление</text></cit>
 </sense>
 </entry>
 </superEntry>

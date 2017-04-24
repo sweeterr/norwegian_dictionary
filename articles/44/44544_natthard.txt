@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">natthard</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-подмёрзший за ночь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подмёрзший за ночь</text></cit>
 </sense>
 </entry>
 </superEntry>

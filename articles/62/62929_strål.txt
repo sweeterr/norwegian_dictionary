@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strål</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> стайка рыбы (сельдей)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стайка рыбы (сельдей)</text></cit>
 </sense>
 </entry>
 </superEntry>

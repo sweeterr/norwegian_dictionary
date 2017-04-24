@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">blekblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-бледно-голубой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледно-голубой</text></cit>
 </sense>
 </entry>
 </superEntry>

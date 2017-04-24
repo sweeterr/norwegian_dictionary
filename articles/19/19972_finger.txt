@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">finger</orth>
 <inflection><orth extent="part">-eren, -re(r)</orth></inflection>
-палец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палец</text></cit>
 <сit type="example"><text>bruke fingrene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать что-л. руками</text></cit></cit>
 <сit type="example"><text>ha en finger med (i spillet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть замешанным в чём-л.</text></cit></cit>
 <сit type="example"><text>ha et øye på hver finger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проявлять осторожность (бдительность)</text></cit></cit>

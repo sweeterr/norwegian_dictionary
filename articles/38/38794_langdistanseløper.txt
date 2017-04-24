@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">langdistanseløper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> стайер, бегун (конькобежец) на большую дистанцию
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стайер, бегун (конькобежец) на большую дистанцию</text></cit>
 </sense>
 </entry>
 </superEntry>

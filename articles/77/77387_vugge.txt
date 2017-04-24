@@ -5,10 +5,10 @@
 <form>
 <orth type="lemma">vugge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-колыбель, люлька
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыбель, люлька</text></cit>
 <сit type="example"><text>synge for vuggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убаюкивать песней</text></cit></cit>
 <сit type="example"><text>fra vuggen til graven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в течение всей жизни</text></cit></cit>
-см. тж. vogge I
+<ref>тж. vogge I</ref>
 </sense>
 </entry>
 <entry>
@@ -18,14 +18,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-укачивать, убаюкивать, качать, баюкать (ребёнка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укачивать, убаюкивать, качать, баюкать (ребёнка)</text></cit>
 </sense>
 <sense>
-равномерно колебаться (раскачиваться), качаться (в качалке, тж. vugge seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равномерно колебаться (раскачиваться), качаться (в качалке, тж. vugge seg)</text></cit>
 </sense>
 <sense>
-колыхаться
-см. тж. vogge II
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыхаться</text></cit>
+<ref>тж. vogge II</ref>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-привратник, сторож
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привратник, сторож</text></cit>
 </sense>
 <sense>
-охрана у ворот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охрана у ворот</text></cit>
 </sense>
 <sense>
-<u>воен.</u> дежурный, часовой у контрольно-пропускного пункта
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дежурный, часовой у контрольно-пропускного пункта</text></cit>
 </sense>
 </entry>
 </superEntry>

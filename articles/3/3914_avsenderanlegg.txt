@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avsenderanlegg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>радио</u> беспроводная передающая станция, (радио)передатчик
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспроводная передающая станция, (радио)передатчик</text></cit>
 </sense>
 </entry>
 </superEntry>

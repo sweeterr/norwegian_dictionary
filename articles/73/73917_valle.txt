@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">valle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тюк, кипа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тюк, кипа</text></cit>
 </sense>
 <sense>
-клок, пучок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клок, пучок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">valle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пасти скот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пасти скот</text></cit>
 </sense>
 <sense>
-бродить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродить</text></cit>
 <сit type="example"><text>valle seg vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
 </sense>
 </entry>

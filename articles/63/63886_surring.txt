@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">surring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-гомон (голосов), гудение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гомон (голосов), гудение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">surring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-связывание, сдраивание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывание, сдраивание</text></cit>
 </sense>
 <sense>
-найтов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>найтов</text></cit>
 </sense>
 </entry>
 </superEntry>

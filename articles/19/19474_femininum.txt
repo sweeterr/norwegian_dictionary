@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">femininum</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-женский род
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>женский род</text></cit>
 </sense>
 <sense>
-существительное женского рода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>существительное женского рода</text></cit>
 </sense>
 </entry>
 </superEntry>

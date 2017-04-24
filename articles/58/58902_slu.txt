@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slu</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> подводные шхеры
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводные шхеры</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">slu</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-хитрый; коварный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый; коварный</text></cit>
 </sense>
 </entry>
 </superEntry>

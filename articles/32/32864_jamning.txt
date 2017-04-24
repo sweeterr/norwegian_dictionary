@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">jamning</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выравнивание, сглаживание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивание, сглаживание</text></cit>
 </sense>
 <sense>
-разглаживание, расправление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разглаживание, расправление</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">jamning</orth>
-см. jevning I
+<ref>jevning I</ref>
 </sense>
 </entry>
 </superEntry>

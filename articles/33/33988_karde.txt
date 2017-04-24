@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">karde</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>текст.</u> карда, кардолента
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карда, кардолента</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">karde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>текст.</u> чесать (шерсть, хлопок, штапель)
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чесать (шерсть, хлопок, штапель)</text></cit>
 </sense>
 </entry>
 </superEntry>

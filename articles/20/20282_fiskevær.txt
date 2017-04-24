@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fiskevær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-временный рыбацкий посёлок (на сезон рыбной ловли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>временный рыбацкий посёлок (на сезон рыбной ловли)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-погода, благоприятствующая рыбной ловле
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погода, благоприятствующая рыбной ловле</text></cit>
 </sense>
 <sense>
-хорошая погода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошая погода</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,13 +26,13 @@
 <form>
 <orth type="lemma">fiskevær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-рыбная ловля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбная ловля</text></cit>
 </sense>
 <sense>
-улов рыбы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>улов рыбы</text></cit>
 </sense>
 </entry>
 </superEntry>

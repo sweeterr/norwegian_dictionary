@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vanære</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-бесчестие, позор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесчестие, позор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -17,7 +17,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(о)позорить, (о)бесчестить</quote>
+<text>(о)позорить, (о)бесчестить</text>
 </cit>
 </sense>
 </entry>

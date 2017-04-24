@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ladekammer</orth>
 <inflection><orth extent="part">-meret, -re (=)</orth></inflection>
-<u>воен.</u> зарядная камера
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарядная камера</text></cit>
 </sense>
 </entry>
 </superEntry>

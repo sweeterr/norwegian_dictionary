@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bekjent</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-знакомый (человек)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знакомый (человек)</text></cit>
 <сit type="example"><text>en god bekjent av meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мой хороший знакомый</text></cit></cit>
 <сit type="example"><text>de er bekjente</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они знакомы (друг с другом)</text></cit></cit>
 </sense>
@@ -17,13 +17,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-знакомый (с кем, чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знакомый (с кем, чем-л.)</text></cit>
 <сit type="example"><text>bli bekjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>познакомиться (с чем-л. - med), узнать (что-л.)</text></cit></cit>
 <сit type="example"><text>være bekjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть знакомым (с чем-л. - med), знать</text></cit></cit>
 <сit type="example"><text>gjøre seg bekjent med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>познакомиться с чем-л.</text></cit></cit>
 </sense>
 <sense>
-известный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>известный</text></cit>
 <сit type="example"><text>som bekjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как известно</text></cit></cit>
 <сit type="example"><text>så vidt meg bekjent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насколько мне известно</text></cit></cit>
 </sense>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bry</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-беспокойство, неудобство, хлопоты, волнение (из-за чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойство, неудобство, хлопоты, волнение (из-за чего-л.)</text></cit>
 <сit type="example"><text>gjøre en bry</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоить кого-л.</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">bry</orth>
 <inflection><orth>brydde (brød), brydd</orth></inflection>
-беспокоить, тревожить, волновать, причинять беспокойство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокоить, тревожить, волновать, причинять беспокойство</text></cit>
 <сit type="example"><text>må jeg bry Dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разрешите вас побеспокоить (чем-л. - med)</text></cit></cit>
 <сit type = "example"><text>være brydd :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть обеспокоенным, встревоженным (чем-л. - med)</text></cit></cit>
 <сit type = "example"><text>være brydd :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> чувствовать себя неловко</text></cit></cit>

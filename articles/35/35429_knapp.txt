@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пуговица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пуговица</text></cit>
 <сit type="example"><text>blanke knapper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>блестящие пуговицы</text></cit></cit>
 <сit type="example"><text>telle på knappene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гадать на пуговицах</text></cit></cit>
 </sense>
 <sense>
-запонка (на манжете, воротнике)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запонка (на манжете, воротнике)</text></cit>
 </sense>
 <sense>
-бельевая кнопка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бельевая кнопка</text></cit>
 </sense>
 <sense>
-электрическая кнопка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электрическая кнопка</text></cit>
 </sense>
 <sense>
-<u>разг.</u> голова
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голова</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,29 +30,28 @@
 <form>
 <orth type="lemma">knapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-узкий, тесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, тесный</text></cit>
 <сit type="example"><text>det var knapt om plassen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>места было мало, было тесно</text></cit></cit>
 </sense>
 <sense>
-короткий (о промежутке времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий (о промежутке времени)</text></cit>
 </sense>
 <sense>
-ограниченный, недостаточный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченный, недостаточный</text></cit>
 <сit type="example"><text>knapt med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не хватает, мало</text></cit></cit>
 </sense>
 <sense>
-тяжёлый, трудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый, трудный</text></cit>
 <сit type="example"><text>i knappe tider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тяжёлые времена</text></cit></cit>
 </sense>
 <sense>
-краткий, односложный (об ответе), немногословный (о речи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краткий, односложный (об ответе), немногословный (о речи)</text></cit>
 </sense>
 <sense>
-слабый (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

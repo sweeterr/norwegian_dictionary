@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fuge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>муз.</u> фуга
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фуга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">fuge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-шов, стык, зазор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шов, стык, зазор</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-пригонять, прилаживать (доски, планки), фуговать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пригонять, прилаживать (доски, планки), фуговать</text></cit>
 </sense>
 <sense>
-цементовать, скреплять цементом (кирпичи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цементовать, скреплять цементом (кирпичи)</text></cit>
 </sense>
 </entry>
 </superEntry>

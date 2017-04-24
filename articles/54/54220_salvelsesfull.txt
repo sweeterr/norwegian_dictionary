@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">salvelsesfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-напыщенный, патетический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напыщенный, патетический</text></cit>
 </sense>
 <sense>
-слащавый, елейный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слащавый, елейный</text></cit>
 </sense>
 </entry>
 </superEntry>

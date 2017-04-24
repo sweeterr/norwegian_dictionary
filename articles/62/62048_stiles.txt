@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">stiles</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-непроходимый, не имеющий троп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непроходимый, не имеющий троп</text></cit>
 </sense>
 </entry>
 </superEntry>

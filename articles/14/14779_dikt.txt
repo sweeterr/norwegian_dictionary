@@ -7,18 +7,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-стихотворение, поэма, стихи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стихотворение, поэма, стихи</text></cit>
 </sense>
 <sense>
-поэзия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поэзия</text></cit>
 <сit type="example"><text>diktets sønn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поэт</text></cit></cit>
 </sense>
 <sense>
-вымысел, выдумка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вымысел, выдумка</text></cit>
 <сit type="example"><text>blande dikt og sannhet sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мешать правду с неправдой</text></cit></cit>
 </sense>
 <sense>
-сон, мечты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сон, мечты</text></cit>
 <сit type="example"><text>gå som et dikt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пролететь как сон</text></cit></cit>
 </sense>
 </entry>
@@ -27,7 +27,8 @@
 <form>
 <orth type="lemma">dikt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> близко, около, вплотную к (чему-л.)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>близко, около, вплотную к (чему-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

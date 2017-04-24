@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">grammatikalsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-грамматически правильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грамматически правильный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjakse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-разрезать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрезать</text></cit>
 </sense>
 <sense>
-разрубать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрубать</text></cit>
 </sense>
 </entry>
 </superEntry>

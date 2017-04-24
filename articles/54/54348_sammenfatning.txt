@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-конспект, сжатое изложение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конспект, сжатое изложение</text></cit>
 </sense>
 <sense>
-резюме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резюме</text></cit>
 </sense>
 <sense>
-<u>тех.</u> стык, место соединения, спайка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стык, место соединения, спайка</text></cit>
 </sense>
 </entry>
 </superEntry>

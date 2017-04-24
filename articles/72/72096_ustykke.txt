@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ustykke</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-плутовство, мошенничество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плутовство, мошенничество</text></cit>
 </sense>
 <sense>
-шутка, шалость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, шалость</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gruse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-засыпать гравием (галькой, крупным песком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>засыпать гравием (галькой, крупным песком)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">gruse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> транжирить деньги, сорить деньгами
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транжирить деньги, сорить деньгами</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">selvsagt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-самоочевидный, бесспорный, само собой разумеющийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самоочевидный, бесспорный, само собой разумеющийся</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">selvsagt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-само собой разумеется, очевидно, бесспорно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>само собой разумеется, очевидно, бесспорно</text></cit>
 </sense>
 </entry>
 </superEntry>

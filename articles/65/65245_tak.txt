@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-крыша, кровля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крыша, кровля</text></cit>
 <сit type="example"><text>flatt tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плоская крыша</text></cit></cit>
 <сit type="example"><text>taket drypper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крыша течёт</text></cit></cit>
 <сit type="example"><text>bo under tak med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить под одной крышей с кем-л.</text></cit></cit>
@@ -16,10 +16,10 @@
 <сit type="example"><text>vær hilset under mitt tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добро пожаловать в мой дом</text></cit></cit>
 </sense>
 <sense>
-потолок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потолок</text></cit>
 <сit type="example"><text>i taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на потолке</text></cit></cit>
 <сit type = "example"><text>det var lavt under taket i værelset :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> комната была с низким потолком</text></cit></cit>
-<сit type = "example"><text>det var lavt under taket i værelset :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> комната выглядела бедно</text></cit></cit>
+<сit type = "example"><text>det var lavt under taket i værelset :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> комната выглядела бедно</text></cit></cit>
 <сit type="example"><text>gleden sto høyt i taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в комнате стоял весёлый шум</text></cit></cit>
 </sense>
 </entry>
@@ -30,7 +30,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-хватка, схватывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватка, схватывание</text></cit>
 <сit type = "example"><text>få tak i (på) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> достать, раздобыть</text></cit></cit>
 <сit type = "example"><text>få tak i (på) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> схватить</text></cit></cit>
 <сit type = "example"><text>få tak i (på) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> повидаться, застать</text></cit></cit>
@@ -41,18 +41,18 @@
 <сit type="example"><text>ta et trofast tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко ухватиться (за что-л. - i)</text></cit></cit>
 </sense>
 <sense>
-взмах (рукой), удар (веслом, смычком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взмах (рукой), удар (веслом, смычком)</text></cit>
 <сit type="example"><text>gjøre et par tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взмахнуть несколько раз</text></cit></cit>
 <сit type="example"><text>tak om tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попеременно, посменно</text></cit></cit>
 </sense>
 <sense>
-ручка, рукоятка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручка, рукоятка</text></cit>
 </sense>
 <sense>
-приступ, припадок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приступ, припадок</text></cit>
 </sense>
 <sense>
-напряжение, силы, энергия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напряжение, силы, энергия</text></cit>
 <сit type="example"><text>i harde tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изо всех сил</text></cit></cit>
 <сit type="example"><text>ta et tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меряться силами (с кем-л. - med)</text></cit></cit>
 <сit type="example"><text>ta seg på tak</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напрячь все свои силы</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkekunst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-народное искусство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народное искусство</text></cit>
 </sense>
 </entry>
 </superEntry>

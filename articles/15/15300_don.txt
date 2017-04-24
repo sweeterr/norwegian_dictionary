@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">don</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-шум, гул, грохот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, гул, грохот</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> см. doning I 2)
+<usg>диал.</usg>
+<ref>doning I 2)</ref>
 </sense>
 <sense>
-прибор, инструменты, принадлежности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибор, инструменты, принадлежности</text></cit>
 </sense>
 </entry>
 </superEntry>

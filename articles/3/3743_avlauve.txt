@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avlauve</orth>
 <inflection><orth extent="part">-а, -а</orth></inflection>
-<u>диал.</u> терять листву
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терять листву</text></cit>
 </sense>
 </entry>
 </superEntry>

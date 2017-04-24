@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">løen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сомнительный, ненадёжный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сомнительный, ненадёжный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> опьянённый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опьянённый</text></cit>
 </sense>
 </entry>
 </superEntry>

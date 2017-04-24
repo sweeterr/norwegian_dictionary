@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-плавание (поездка) на север
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавание (поездка) на север</text></cit>
 </sense>
 <sense>
-поезд (пароход), идущий на север
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поезд (пароход), идущий на север</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">nordgående</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-идущий (направляющийся) на север
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идущий (направляющийся) на север</text></cit>
 </sense>
 </entry>
 </superEntry>

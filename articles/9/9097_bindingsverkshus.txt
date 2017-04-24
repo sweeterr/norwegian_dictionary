@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bindingsverkshus</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>стр.</u> дом из каркасных ферм
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дом из каркасных ферм</text></cit>
 </sense>
 </entry>
 </superEntry>

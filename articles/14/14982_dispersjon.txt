@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-рассеивание, разбрасывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассеивание, разбрасывание</text></cit>
 </sense>
 <sense>
-<u>физ.</u>, <u>хим.</u> дисперсия
+<usg>физ.</usg>
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дисперсия</text></cit>
 </sense>
 </entry>
 </superEntry>

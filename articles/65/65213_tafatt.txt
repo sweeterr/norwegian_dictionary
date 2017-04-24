@@ -12,13 +12,13 @@
 <form>
 <orth type="lemma">tafatt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-неловкий, неуклюжий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неловкий, неуклюжий</text></cit>
 </sense>
 <sense>
-беспомощный, растерявшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспомощный, растерявшийся</text></cit>
 </sense>
 </entry>
 </superEntry>

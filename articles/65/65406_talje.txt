@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-талия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>талия</text></cit>
 </sense>
 <sense>
-фигура (человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фигура (человека)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">talje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> тали
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тали</text></cit>
 <сit type="example"><text>enkelt (treskåren) talje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одношкивные (трёхшкивные) тали</text></cit></cit>
 </sense>
 </entry>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">talje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> talje inn (opp) поднять талями (груз)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>talje inn (opp) поднять талями (груз)</text></cit>
 </sense>
 </entry>
 </superEntry>

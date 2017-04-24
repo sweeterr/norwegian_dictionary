@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">utøy</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-остров, расположенный далеко в море (во внешнем районе шхер)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остров, расположенный далеко в море (во внешнем районе шхер)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-насекомые - вредители сельскохозяйственных растений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насекомые - вредители сельскохозяйственных растений</text></cit>
 </sense>
 <sense>
-насекомые-паразиты (вши, блохи и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насекомые-паразиты (вши, блохи и т. д.)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> грызуны (мыши, крысы)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грызуны (мыши, крысы)</text></cit>
 </sense>
 <sense>
-<u>презр.</u> нечисть, всякий сброд
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечисть, всякий сброд</text></cit>
 </sense>
 </entry>
 </superEntry>

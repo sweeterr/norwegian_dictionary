@@ -5,13 +5,15 @@
 <form>
 <orth type="lemma">idiotisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-<u>лингв.</u> идиом
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идиом</text></cit>
 </sense>
 <sense>
-<u>мед.</u> идиотия, идиотизм
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идиотия, идиотизм</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lidenskap</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-страсть, страстность, пристрастие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страсть, страстность, пристрастие</text></cit>
 <сit type="example"><text>med lidenskap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страстно</text></cit></cit>
 <сit type="example"><text>bekjempe sine lidenskaper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бороться со своими страстями</text></cit></cit>
 </sense>

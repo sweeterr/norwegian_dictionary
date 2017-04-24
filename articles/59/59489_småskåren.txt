@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">småskåren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-мелко нарезанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелко нарезанный</text></cit>
 </sense>
 <sense>
-мелочный, придирчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелочный, придирчивый</text></cit>
 </sense>
 <sense>
-ограниченный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограниченный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tjenerinne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-служащая, сотрудница (учреждения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>служащая, сотрудница (учреждения)</text></cit>
 </sense>
 <sense>
-горничная, служанка, прислуга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горничная, служанка, прислуга</text></cit>
 </sense>
 </entry>
 </superEntry>

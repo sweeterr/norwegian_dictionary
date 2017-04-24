@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tjære</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-смола, дёготь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смола, дёготь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">tjære</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-смолить, просмаливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смолить, просмаливать</text></cit>
 </sense>
 </entry>
 </superEntry>

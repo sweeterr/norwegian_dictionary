@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forblanding</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>с.-х.</u> комбикорм
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комбикорм</text></cit>
 </sense>
 </entry>
 </superEntry>

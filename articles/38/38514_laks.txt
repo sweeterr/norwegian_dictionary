@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">laks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-лосось, сёмга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лосось, сёмга</text></cit>
 <сit type="example"><text>du skal ha takk for laksen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тебя поблагодарят, тебе скажут спасибо</text></cit></cit>
 <сit type="example"><text>en glad laks</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> весёлый малый (парень), весельчак</text></cit></cit>
 <сit type="example"><text>kaste laksen i garnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>качать (подкидывать) кого-л. (в знак любви и уважения)</text></cit></cit>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">laks</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-свободный (о морали, нравах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный (о морали, нравах)</text></cit>
 </sense>
 </entry>
 </superEntry>

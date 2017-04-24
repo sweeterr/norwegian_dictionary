@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">geirløk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> чеснок
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чеснок</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,11 +5,10 @@
 <form>
 <orth type="lemma">hel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-целый, весь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целый, весь</text></cit>
 <сit type="example"><text>hel Norge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вся Норвегия</text></cit></cit>
 <сit type="example"><text>hele Russland</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вся Россия</text></cit></cit>
 <сit type="example"><text>det hele</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целое</text></cit></cit>
@@ -18,16 +17,16 @@
 <сit type="example"><text>danne et avsluttet hele</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>образовывать единое целое</text></cit></cit>
 </sense>
 <sense>
-целый, неразделённый (о числе, ноте, часе, неделе, месяце, годе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целый, неразделённый (о числе, ноте, часе, неделе, месяце, годе)</text></cit>
 <сit type="example"><text>hel og sæl</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будь цел и невредим, будь здоров и счастлив</text></cit></cit>
 <сit type="example"><text>i hele dag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целый день</text></cit></cit>
 <сit type="example"><text>i hele går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь вчерашний день</text></cit></cit>
 </sense>
 <sense>
-полный (о комплекте, сервизе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный (о комплекте, сервизе и т. п.)</text></cit>
 </sense>
 <sense>
-чистый, без примесей (о веществе, жидкости и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый, без примесей (о веществе, жидкости и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

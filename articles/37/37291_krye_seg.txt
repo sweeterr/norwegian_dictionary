@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">krye seg</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выздороветь, поправиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выздороветь, поправиться</text></cit>
 </sense>
 <sense>
-важничать, держать себя высокомерно, задаваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>важничать, держать себя высокомерно, задаваться</text></cit>
 </sense>
 </entry>
 </superEntry>

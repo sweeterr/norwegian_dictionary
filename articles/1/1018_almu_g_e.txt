@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-простой народ, народные массы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой народ, народные массы</text></cit>
 </sense>
 <sense>
-крестьянское население (района, области)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянское население (района, области)</text></cit>
 </sense>
 <sense>
-<u>церк.</u> прихожане
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прихожане</text></cit>
 </sense>
 <sense>
-<u>ист.</u> плебеи
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плебеи</text></cit>
 </sense>
 </entry>
 </superEntry>

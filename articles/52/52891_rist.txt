@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rist</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-отдых, передышка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдых, передышка</text></cit>
 <сit type="example"><text>uten ro og rist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всякого отдыха</text></cit></cit>
 <сit type="example"><text>hverken rist eller ro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни отдыха ни срока</text></cit></cit>
 </sense>
@@ -17,16 +17,16 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-решётка (оконная и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решётка (оконная и т. п.)</text></cit>
 </sense>
 <sense>
-прут (от решётки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прут (от решётки)</text></cit>
 </sense>
 <sense>
-решётка (для жарения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решётка (для жарения)</text></cit>
 </sense>
 <sense>
-подовая решётка (в печи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подовая решётка (в печи)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">rist</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-подъём (ноги, обуви)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подъём (ноги, обуви)</text></cit>
 <сit type="example"><text>høy rist</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокий подъём</text></cit></cit>
 </sense>
 </entry>
@@ -43,7 +43,8 @@
 <form>
 <orth type="lemma">rist</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>диал.</u> рыбья чешуя
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбья чешуя</text></cit>
 </sense>
 </entry>
 <entry>
@@ -51,13 +52,13 @@
 <form>
 <orth type="lemma">rist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-гребень горного хребта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребень горного хребта</text></cit>
 </sense>
 <sense>
-пригорок, склон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пригорок, склон</text></cit>
 </sense>
 </entry>
 </superEntry>

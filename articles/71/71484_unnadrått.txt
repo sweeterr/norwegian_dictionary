@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">unnadrått</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-прирост скота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прирост скота</text></cit>
 </sense>
 <sense>
-получение молочных продуктов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получение молочных продуктов</text></cit>
 </sense>
 </entry>
 </superEntry>

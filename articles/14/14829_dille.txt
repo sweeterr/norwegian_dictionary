@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dille</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>разг.</u> «конёк», сильное увлечение
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«конёк», сильное увлечение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">dille</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-висеть, болтаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>висеть, болтаться</text></cit>
 </sense>
 <sense>
-болтать, нести чушь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать, нести чушь</text></cit>
 </sense>
 </entry>
 </superEntry>

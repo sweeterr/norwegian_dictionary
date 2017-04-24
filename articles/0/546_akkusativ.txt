@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">akkusativ</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> винительный падеж
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винительный падеж</text></cit>
 <сit type="example"><text>sette i akkusativ</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить в винительном падеже</text></cit></cit>
 <сit type="example"><text>styre akkusativ</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>управлять винительным падежом, требовать винительного падежа</text></cit></cit>
 <сit type="example"><text>stå i akkusativ</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять в винительном падеже</text></cit></cit>

@@ -7,10 +7,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-классический, античный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>классический, античный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> первоклассный, отменный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первоклассный, отменный</text></cit>
 <сit type="example"><text>det var klassisk!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это было здорово (интересно)!</text></cit></cit>
 </sense>
 </entry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">nedadgående</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-снижающийся (о ценах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снижающийся (о ценах)</text></cit>
 </sense>
 <sense>
-идущий (вниз) по наклонной плоскости, уменьшающийся, сокращающийся (о масштабах производства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идущий (вниз) по наклонной плоскости, уменьшающийся, сокращающийся (о масштабах производства)</text></cit>
 </sense>
 </entry>
 </superEntry>

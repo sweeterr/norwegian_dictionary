@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pastorale</orth>
 <inflection><orth extent="part">-t (-n), -r</orth></inflection>
-<u>муз.</u> пастораль
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пастораль</text></cit>
 </sense>
 </entry>
 </superEntry>

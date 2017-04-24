@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frierbesøk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-визит с целью сватовства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>визит с целью сватовства</text></cit>
 <сit type="example"><text>gå på frierbesøk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойти посвататься</text></cit></cit>
 </sense>
 </entry>

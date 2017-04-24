@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-изыскания на местности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изыскания на местности</text></cit>
 </sense>
 <sense>
-<u>воен.</u> разведка местности, рекогносцировка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведка местности, рекогносцировка</text></cit>
 <сit type="example"><text>drive rekognosering</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проводить разведку</text></cit></cit>
 <сit type="example"><text>være ute på rekognosering</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в разведке (в разведывательном походе)</text></cit></cit>
 </sense>

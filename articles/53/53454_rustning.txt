@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-снаряжение, сборы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаряжение, сборы</text></cit>
 </sense>
 <sense>
-<u>воен.</u> вооружение, подготовка к войне
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вооружение, подготовка к войне</text></cit>
 <сit type="example"><text>foreta rustninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вооружать(ся)</text></cit></cit>
 </sense>
 <sense>
-оружие, вооружение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оружие, вооружение</text></cit>
 <сit type="example"><text>nedskjæring av rustning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сокращение вооружений</text></cit></cit>
 <сit type="example"><text>i full rustning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полной боевой готовности (о солдате, подразделении)</text></cit></cit>
 </sense>

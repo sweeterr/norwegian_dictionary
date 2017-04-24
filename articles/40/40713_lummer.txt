@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lummer</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-отходы (от) пиломатериалов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отходы (от) пиломатериалов</text></cit>
 </sense>
 <sense>
-хлам, рухлядь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлам, рухлядь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,17 +19,16 @@
 <form>
 <orth type="lemma">lummer</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-душный, спёртый, давящий, тяжёлый, тёплый и влажный (о воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душный, спёртый, давящий, тяжёлый, тёплый и влажный (о воздухе)</text></cit>
 </sense>
 <sense>
-гнетущий, тягостный (о молчании, тишине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнетущий, тягостный (о молчании, тишине)</text></cit>
 </sense>
 <sense>
-нездоровый (об интересе), морально испорченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нездоровый (об интересе), морально испорченный</text></cit>
 </sense>
 </entry>
 </superEntry>

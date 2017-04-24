@@ -7,18 +7,21 @@
 <inflection><orth>bonden, bønder</orth></inflection>
 </form>
 <sense>
-крестьянин, земледелец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянин, земледелец</text></cit>
 <сit type="example"><text>en fattig bonde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянин-бедняк</text></cit></cit>
 <сit type="example"><text>en mellomstor bonde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянин-середняк</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> муж, хозяин дома
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муж, хозяин дома</text></cit>
 </sense>
 <sense>
-<u>уст.</u> бонд (свободный крестьянин в Скандинавии эпохи феодализма)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бонд (свободный крестьянин в Скандинавии эпохи феодализма)</text></cit>
 </sense>
 <sense>
-<u>шахм.</u> пешка
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пешка</text></cit>
 </sense>
 </entry>
 </superEntry>

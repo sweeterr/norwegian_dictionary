@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">single</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>спорт.</u> одиночка (в гребле, теннисе и т. п.)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одиночка (в гребле, теннисе и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-простой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой</text></cit>
 </sense>
 <sense>
-единственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>единственный</text></cit>
 </sense>
 <sense>
-<u>редко</u> холостой
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холостой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +31,7 @@
 <form>
 <orth type="lemma">single</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-звякать, звенеть, дребезжать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звякать, звенеть, дребезжать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +39,7 @@
 <form>
 <orth type="lemma">single</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-посыпать щебнем (гравием)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посыпать щебнем (гравием)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">remittend</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фин.</u>
+<usg>фин.</usg>
 </form>
 <sense>
-лицо, посылающее деньги переводом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лицо, посылающее деньги переводом</text></cit>
 </sense>
 <sense>
-лицо, принимающее вексель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лицо, принимающее вексель</text></cit>
 </sense>
 </entry>
 </superEntry>

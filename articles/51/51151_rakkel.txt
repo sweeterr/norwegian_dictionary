@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rakkel</orth>
 <inflection><orth extent="part">-kelet (-let)</orth></inflection>
-<u>разг.</u> халтурная работа
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>халтурная работа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">rakkel</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>разг.</u> каланча (о высоком и тощем человеке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каланча (о высоком и тощем человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

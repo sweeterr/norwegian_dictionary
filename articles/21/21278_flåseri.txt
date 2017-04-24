@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">flåseri</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дерзость, наглость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дерзость, наглость</text></cit>
 </sense>
 <sense>
-дерзкое, нахальное поведение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дерзкое, нахальное поведение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skaut</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>диал.</u> см. skjøt III 2)
+<usg>диал.</usg>
+<ref>skjøt III 2)</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">skaut</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-головной платок, косынка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головной платок, косынка</text></cit>
 </sense>
 </entry>
 <entry>

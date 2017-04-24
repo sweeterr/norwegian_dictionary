@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">motspill</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-контригра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контригра</text></cit>
 </sense>
 <sense>
-игра против кого-л. (во время соревнования)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра против кого-л. (во время соревнования)</text></cit>
 </sense>
 </entry>
 </superEntry>

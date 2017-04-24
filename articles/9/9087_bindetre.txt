@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bindetre</orth>
 <inflection><orth extent="part">-treet, -trær</orth></inflection>
-<u>архит.</u> балка в решётчатой ферме; <u>стр.</u> перевязь
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балка в решётчатой ферме; <lbl>стр.</lbl> перевязь</text></cit>
 </sense>
 </entry>
 </superEntry>

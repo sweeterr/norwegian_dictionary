@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>зоол.</u> мойва (рыба)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мойва (рыба)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> носок (надеваемый поверх чулка)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носок (надеваемый поверх чулка)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +25,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-<u>мор.</u> измерять глубину моря
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>измерять глубину моря</text></cit>
 </sense>
 <sense>
-<u>стр.</u> провесить (стену)
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провесить (стену)</text></cit>
 <сit type="example"><text>lodde opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промерять глубину фарватера</text></cit></cit>
 <сit type="example"><text>lodde seg (fram)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, делая постоянно промеры глубины</text></cit></cit>
 </sense>
@@ -44,7 +48,7 @@
 <form>
 <orth type="lemma">lodde</orth>
 <inflection><orth extent="part">-te (-det), -t (-det)</orth></inflection>
-паять, запаивать, припаивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паять, запаивать, припаивать</text></cit>
 <сit type="example"><text>lodde sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спаивать (два куска металла)</text></cit></cit>
 </sense>
 </entry>

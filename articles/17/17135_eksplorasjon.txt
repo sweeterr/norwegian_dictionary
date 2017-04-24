@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eksplorasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> осмотр, обследование
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осмотр, обследование</text></cit>
 </sense>
 </entry>
 </superEntry>

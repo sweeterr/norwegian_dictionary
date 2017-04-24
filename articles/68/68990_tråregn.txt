@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tråregn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> продолжительный (обложной) дождь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продолжительный (обложной) дождь</text></cit>
 </sense>
 </entry>
 </superEntry>

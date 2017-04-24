@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blodtrykk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мед.</u> кровяное давление, давление крови
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровяное давление, давление крови</text></cit>
 </sense>
 </entry>
 </superEntry>

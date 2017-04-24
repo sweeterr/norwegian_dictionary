@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vulkan</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-вулкан <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вулкан <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>en virksom (utslukt) vulkan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>действующий (потухший) вулкан</text></cit></cit>
 <сit type="example"><text>en vulkan i utbrudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вулкан во время извержения</text></cit></cit>
 </sense>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grugg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> осадок, отстой, гуща (кофейная)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадок, отстой, гуща (кофейная)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">fargeblind</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не различающий цвета, страдающий дальтонизмом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не различающий цвета, страдающий дальтонизмом</text></cit>
 </sense>
 </entry>
 </superEntry>

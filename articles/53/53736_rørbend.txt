@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rørbend</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> колено, отвод (трубы)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено, отвод (трубы)</text></cit>
 </sense>
 </entry>
 </superEntry>

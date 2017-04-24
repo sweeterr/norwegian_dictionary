@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятно</text></cit>
 </sense>
 <sense>
-<u>разг.</u> клочок (земли)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клочок (земли)</text></cit>
 </sense>
 <sense>
-небольшое количество, чуточка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшое количество, чуточка</text></cit>
 </sense>
 <sense>
-<u>разг.</u> <u>уст.</u> малыш, крошка
+<usg>разг.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малыш, крошка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +27,8 @@
 <form>
 <orth type="lemma">klatt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> беспокойство, забота, хлопоты
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойство, забота, хлопоты</text></cit>
 </sense>
 </entry>
 </superEntry>

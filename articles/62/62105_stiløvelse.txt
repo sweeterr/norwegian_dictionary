@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">stiløvelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>школ.</u>, <u>разг.</u>
+<usg>школ.</usg>
+<usg>разг.</usg>
 </form>
 <sense>
-упражнение по переводу с родного языка на иностранный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упражнение по переводу с родного языка на иностранный</text></cit>
 </sense>
 <sense>
-книга с текстами для перевода с родного языка на иностранный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга с текстами для перевода с родного языка на иностранный</text></cit>
 </sense>
 </entry>
 </superEntry>

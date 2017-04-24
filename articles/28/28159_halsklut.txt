@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">halsklut</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> лёгкая косынка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкая косынка</text></cit>
 </sense>
 </entry>
 </superEntry>

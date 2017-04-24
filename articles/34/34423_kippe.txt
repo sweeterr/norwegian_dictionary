@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kippe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-шатёр (ветряной мельницы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шатёр (ветряной мельницы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">kippe</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>диал.</u> пучок, вязанка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пучок, вязанка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,28 +24,29 @@
 <inflection><orth extent="part">-te (-pet), -t (-pet)</orth></inflection>
 </form>
 <sense>
-толкать, подталкивать, двигать толчками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкать, подталкивать, двигать толчками</text></cit>
 </sense>
 <sense>
-натягивать на себя (туфли, ботинки), набрасывать на себя (одежду)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натягивать на себя (туфли, ботинки), набрасывать на себя (одежду)</text></cit>
 </sense>
 <sense>
-швырнуть, бросить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырнуть, бросить</text></cit>
 </sense>
 <sense>
-хлопать (о галошах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопать (о галошах)</text></cit>
 </sense>
 <sense>
-моргать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моргать</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бросать (якорь)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать (якорь)</text></cit>
 </sense>
 <sense>
-приспускать (флаг)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приспускать (флаг)</text></cit>
 </sense>
 <sense>
-хватать ртом воздух (о рыбах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватать ртом воздух (о рыбах)</text></cit>
 </sense>
 </entry>
 </superEntry>

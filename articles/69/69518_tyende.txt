@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">tyende</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-<u>собир.</u> челядь, слуги
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>челядь, слуги</text></cit>
 </sense>
 <sense>
-слуга, прислуга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуга, прислуга</text></cit>
 </sense>
 </entry>
 </superEntry>

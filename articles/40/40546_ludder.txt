@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">ludder</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>вульг.</u>, <u>презр.</u> шлюха, потаскуха
+<usg>вульг.</usg>
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлюха, потаскуха</text></cit>
 </sense>
 </entry>
 </superEntry>

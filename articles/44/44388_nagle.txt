@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-гвоздь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гвоздь</text></cit>
 <сit type="example"><text>slå inn nagler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забивать (вбивать) гвозди</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> заклёпка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заклёпка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,7 @@
 <form>
 <orth type="lemma">nagle</orth>
 <inflection><orth extent="part">-et (-ede), -et (-ed)</orth></inflection>
-прибивать (прикреплять) гвоздями
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибивать (прикреплять) гвоздями</text></cit>
 <сit type="example"><text>han sto som naglet fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он стоял как вкопанный</text></cit></cit>
 <сit type="example"><text>nagle øyne i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вперить взор во что-л.</text></cit></cit>
 </sense>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-местное объединение ремесленников
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местное объединение ремесленников</text></cit>
 </sense>
 <sense>
-<u>разг.</u> каста (ведущих художников, писателей и т.д.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каста (ведущих художников, писателей и т.д.)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> цех, корпорация (ремесленников)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цех, корпорация (ремесленников)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">laug</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> купание
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купание</text></cit>
 </sense>
 </entry>
 <entry>

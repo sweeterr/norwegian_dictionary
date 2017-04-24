@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pulpet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>церк.</u> кафедра (пульт) проповедника
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кафедра (пульт) проповедника</text></cit>
 </sense>
 </entry>
 </superEntry>

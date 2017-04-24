@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forsetning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>грам.</u> придаточное предложение, предшествующее главному
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придаточное предложение, предшествующее главному</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">forsetning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-головной осветительный заряд в ракете
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головной осветительный заряд в ракете</text></cit>
 </sense>
 </entry>
 </superEntry>

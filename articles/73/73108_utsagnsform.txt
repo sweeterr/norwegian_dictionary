@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utsagnsform</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>грам.</u> форма изъявительного наклонения
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>форма изъявительного наклонения</text></cit>
 </sense>
 </entry>
 </superEntry>

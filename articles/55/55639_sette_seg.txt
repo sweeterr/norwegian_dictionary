@@ -7,22 +7,23 @@
 <inflection><orth>satte, satt</orth></inflection>
 </form>
 <sense>
-садиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>садиться</text></cit>
 <сit type="example"><text>sette seg seg til bords</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться за стол</text></cit></cit>
 <сit type="example"><text>sette seg seg opp på natten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться на ночлег (о птицах)</text></cit></cit>
 <сit type="example"><text>sette seg seg på vagle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться на насест</text></cit></cit>
 </sense>
 <sense>
-оседать (о земле, почве, стене и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оседать (о земле, почве, стене и т. д.)</text></cit>
 </sense>
 <sense>
-успокоиться, угомониться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>успокоиться, угомониться</text></cit>
 </sense>
 <sense>
-<u>хим.</u> выпадать (об осадке)
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпадать (об осадке)</text></cit>
 <сit type = "example"><text>sette seg seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застрять</text></cit></cit>
 <сit type = "example"><text>sette seg seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> запутаться (в чём-л.)</text></cit></cit>
-<сit type = "example"><text>sette seg seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> занять боевую позицию, закрепиться</text></cit></cit>
+<сit type = "example"><text>sette seg seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> занять боевую позицию, закрепиться</text></cit></cit>
 <сit type="example"><text>sette seg seg inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>войти в курс дела, освоиться (с чем-л.)</text></cit></cit>
 <сit type="example"><text>sette seg seg innpå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>усесться (у чего-л.)</text></cit></cit>
 <сit type="example"><text>sette seg seg ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поселиться, обосноваться</text></cit></cit>

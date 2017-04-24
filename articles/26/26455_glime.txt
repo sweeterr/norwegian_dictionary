@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glime</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> ослепительный блеск
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослепительный блеск</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-мерцать, тускло светить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерцать, тускло светить</text></cit>
 </sense>
 <sense>
-<u>диал.</u> ослепительно блестеть, сиять
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослепительно блестеть, сиять</text></cit>
 </sense>
 </entry>
 </superEntry>

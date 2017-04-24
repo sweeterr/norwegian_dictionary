@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">dæme</orth>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-внешний вид, наружность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешний вид, наружность</text></cit>
 </sense>
 <sense>
-цвет, окраска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цвет, окраска</text></cit>
 </sense>
 <sense>
-вкус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкус</text></cit>
 </sense>
 </entry>
 </superEntry>

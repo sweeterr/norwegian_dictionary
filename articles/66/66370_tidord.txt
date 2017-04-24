@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tidord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-глагол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глагол</text></cit>
 </sense>
 <sense>
-наречие времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наречие времени</text></cit>
 </sense>
 </entry>
 </superEntry>

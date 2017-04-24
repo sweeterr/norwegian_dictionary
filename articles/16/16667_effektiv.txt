@@ -5,20 +5,21 @@
 <form>
 <orth type="lemma">effektiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-эффективный, действенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эффективный, действенный</text></cit>
 </sense>
 <sense>
-действительный, реальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действительный, реальный</text></cit>
 </sense>
 <sense>
-<u>тех.</u> полезный (о действии, механической силе и т п.)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полезный (о действии, механической силе и т п.)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> боеспособный
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боеспособный</text></cit>
 </sense>
 </entry>
 </superEntry>

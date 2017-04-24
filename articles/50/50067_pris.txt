@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-цена (на что-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цена (на что-л. - på)</text></cit>
 <сit type="example"><text>faste (stramme) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдые цены</text></cit></cit>
 <сit type="example"><text>høye (dyre) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высокие цены</text></cit></cit>
 <сit type="example"><text>lave (moderate, nedsatte) priser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низкие (умеренные, сниженные) цены</text></cit></cit>
@@ -26,7 +26,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-приз, премия, награда, вознаграждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приз, премия, награда, вознаграждение</text></cit>
 <сit type="example"><text>bære (vinne) prisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять (завоевать) приз</text></cit></cit>
 <сit type="example"><text>gå av med (vinne) prisen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять приз, получить награду (премию)</text></cit></cit>
 <сit type="example"><text>oppstille (utsette) en pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>назначать приз (премию)</text></cit></cit>
@@ -34,7 +34,7 @@
 <сit type="example"><text>ta første pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять первый приз</text></cit></cit>
 </sense>
 <sense>
-хвала, восхваление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвала, восхваление</text></cit>
 <сit type="example"><text>synge ens pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восхвалять кого-либо, воздавать хвалу кому-л.</text></cit></cit>
 </sense>
 </entry>
@@ -43,7 +43,8 @@
 <form>
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> добыча, улов, удача
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добыча, улов, удача</text></cit>
 <сit type="example"><text>gi til pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бросить на произвол судьбы</text></cit></cit>
 </sense>
 </entry>
@@ -52,7 +53,7 @@
 <form>
 <orth type="lemma">pris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-щепотка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щепотка</text></cit>
 <сit type="example"><text>ta seg en pris (tobakk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять понюшку табаку</text></cit></cit>
 </sense>
 </entry>

@@ -7,10 +7,11 @@
 <gramGrp><pos>inv</pos></gramGrp>
 </form>
 <sense>
-абак(а), счётный прибор (у древних греков и римлян)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абак(а), счётный прибор (у древних греков и римлян)</text></cit>
 </sense>
 <sense>
-<u>архит.</u> абак(а)
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абак(а)</text></cit>
 </sense>
 </entry>
 </superEntry>

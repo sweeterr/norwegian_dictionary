@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tullball</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-пустомеля, болтун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустомеля, болтун</text></cit>
 </sense>
 <sense>
-чепуха, ерунда, чушь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чепуха, ерунда, чушь</text></cit>
 </sense>
 </entry>
 </superEntry>

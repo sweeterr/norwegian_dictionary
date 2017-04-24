@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisk foring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>нефт.</u> основная футеровка
+<usg>нефт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основная футеровка</text></cit>
 </sense>
 </entry>
 </superEntry>

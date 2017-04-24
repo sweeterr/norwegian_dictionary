@@ -8,10 +8,11 @@
 <gramGrp><num>pl</num></gramGrp>
 </form>
 <sense>
-реликты, остатки (растительных и животных организмов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реликты, остатки (растительных и животных организмов)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> остаточные (пережиточные) явления
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остаточные (пережиточные) явления</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,9 @@
 <form>
 <orth type="lemma">relikt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>зоол.</u>, <u>бот.</u> реликтовый
+<usg>зоол.</usg>
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реликтовый</text></cit>
 </sense>
 </entry>
 </superEntry>

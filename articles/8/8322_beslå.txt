@@ -4,16 +4,17 @@
 <index></index>
 <form>
 <orth type="lemma">beslå</orth>
-<inflection><orth>beslo, beslått ( <u>уст.</u> beslagen)</orth></inflection>
+<inflection><orth>beslo, beslått ( <lbl>уст.</lbl> beslagen)</orth></inflection>
 </form>
 <sense>
-обшивать, обивать, оковывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обшивать, обивать, оковывать</text></cit>
 </sense>
 <sense>
-подковывать (лошадь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подковывать (лошадь)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> крепить (паруса)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепить (паруса)</text></cit>
 </sense>
 </entry>
 </superEntry>

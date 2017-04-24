@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjos</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> небольшой закрытый залив
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшой закрытый залив</text></cit>
 </sense>
 </entry>
 </superEntry>

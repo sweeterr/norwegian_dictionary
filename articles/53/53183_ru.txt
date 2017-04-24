@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ru</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> овечья шерсть (вычёсываемая в период линьки)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овечья шерсть (вычёсываемая в период линьки)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">ru</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> болячка (корочка) на заживающей ране
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болячка (корочка) на заживающей ране</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,20 +23,19 @@
 <form>
 <orth type="lemma">ru</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-шершавый, шероховатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шершавый, шероховатый</text></cit>
 </sense>
 <sense>
-хриплый (о голосе, звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хриплый (о голосе, звуке)</text></cit>
 </sense>
 <sense>
-резкий, грубый (об обращении с людьми)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, грубый (об обращении с людьми)</text></cit>
 </sense>
 <sense>
-приблизительный, примерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приблизительный, примерный</text></cit>
 </sense>
 </entry>
 </superEntry>

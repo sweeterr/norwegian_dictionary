@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">uholdbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-недолговечный, нестойкий, преходящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недолговечный, нестойкий, преходящий</text></cit>
 </sense>
 <sense>
-несостоятельный, не выдерживающий критики
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несостоятельный, не выдерживающий критики</text></cit>
 </sense>
 </entry>
 </superEntry>

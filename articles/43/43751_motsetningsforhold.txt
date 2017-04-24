@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">motsetningsforhold</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-антагонизм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антагонизм</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-антагонистические отношения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антагонистические отношения</text></cit>
 </sense>
 </entry>
 </superEntry>

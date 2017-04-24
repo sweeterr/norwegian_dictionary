@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">malmdamper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> рудовоз, судно, транспортирующее руду
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рудовоз, судно, транспортирующее руду</text></cit>
 </sense>
 </entry>
 </superEntry>

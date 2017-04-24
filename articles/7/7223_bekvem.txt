@@ -5,25 +5,25 @@
 <form>
 <orth type="lemma">bekvem</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-удобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удобный</text></cit>
 <сit type="example"><text>hvis det faller Dem bekvemt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если вам это удобно</text></cit></cit>
 </sense>
 <sense>
-уютный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уютный</text></cit>
 <сit type="example"><text>gjøre seg (det) bekvemt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уютно устроиться (усесться)</text></cit></cit>
 </sense>
 <sense>
-подходящий, благоприятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подходящий, благоприятный</text></cit>
 </sense>
 <sense>
-приемлемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приемлемый</text></cit>
 </sense>
 <sense>
-<u>уст.</u> сговорчивый, покладистый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сговорчивый, покладистый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">pressefolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u>
+<usg>собир.</usg>
 </form>
 <sense>
-работники печати
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работники печати</text></cit>
 </sense>
 <sense>
-журналисты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журналисты</text></cit>
 </sense>
 </entry>
 </superEntry>

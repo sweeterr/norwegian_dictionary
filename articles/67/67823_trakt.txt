@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trakt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-край, местность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>край, местность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-воронка; <u>тех.</u> засыпная (приёмная) воронка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воронка; <lbl>тех.</lbl> засыпная (приёмная) воронка</text></cit>
 </sense>
 <sense>
-<u>анат.</u> тракт
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тракт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">mullen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-заплесневелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплесневелый</text></cit>
 </sense>
 <sense>
-гнилой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнилой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gasse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-гусак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гусак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-выделять (выпускать) газ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделять (выпускать) газ</text></cit>
 </sense>
 <sense>
-образовывать газ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>образовывать газ</text></cit>
 </sense>
 </entry>
 </superEntry>

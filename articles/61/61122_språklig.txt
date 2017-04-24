@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">språklig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-языковой, речевой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>языковой, речевой</text></cit>
 </sense>
 </entry>
 </superEntry>

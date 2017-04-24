@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">infanterikanon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> орудие сопровождения пехоты; орудие непосредственной поддержки пехоты
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орудие сопровождения пехоты; орудие непосредственной поддержки пехоты</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-сгибание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгибание</text></cit>
 </sense>
 <sense>
-изгиб, выгиб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб, выгиб</text></cit>
 </sense>
 <sense>
-поворот, извилина (дороги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворот, извилина (дороги)</text></cit>
 </sense>
 <sense>
-<u>грам.</u> словоизменение, склонение, спряжение, система флексий
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словоизменение, склонение, спряжение, система флексий</text></cit>
 <сit type="example"><text>substantivenes sterke (svake) bøyning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильное (слабое) склонение существительных</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flette</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-коса (женская причёска)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коса (женская причёска)</text></cit>
 <сit type="example"><text>i fletter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заплетённые в косы (о волосах)</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +16,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-плести (корзину и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плести (корзину и т. п.)</text></cit>
 </sense>
 <sense>
-заплетать (волосы, гриву)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплетать (волосы, гриву)</text></cit>
 <сit type = "example"><text>flette inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вплетать</text></cit></cit>
 <сit type = "example"><text>flette inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вставлять (в рассказ)</text></cit></cit>
 <сit type="example"><text>flette sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плести, сплетать</text></cit></cit>

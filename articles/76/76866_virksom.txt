@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">virksom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-трудоспособный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудоспособный</text></cit>
 </sense>
 <sense>
-энергичный, деятельный, предприимчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>энергичный, деятельный, предприимчивый</text></cit>
 </sense>
 <sense>
-эффективный, действенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эффективный, действенный</text></cit>
 </sense>
 <sense>
-продуктивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продуктивный</text></cit>
 </sense>
 </entry>
 </superEntry>

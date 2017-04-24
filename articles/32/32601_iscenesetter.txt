@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">iscenesetter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>театр.</u> постановщик
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постановщик</text></cit>
 </sense>
 </entry>
 </superEntry>

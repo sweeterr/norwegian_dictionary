@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">instruktiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-инструктивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструктивный</text></cit>
 </sense>
 <sense>
-поучительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поучительный</text></cit>
 </sense>
 </entry>
 </superEntry>

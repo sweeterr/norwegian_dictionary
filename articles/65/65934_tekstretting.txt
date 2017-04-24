@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tekstretting</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-исправление текста
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исправление текста</text></cit>
 </sense>
 </entry>
 </superEntry>

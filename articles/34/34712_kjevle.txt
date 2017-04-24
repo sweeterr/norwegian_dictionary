@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjevle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-скалка (для раскатывания теста)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скалка (для раскатывания теста)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">kjevle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-раскатывать тесто скалкой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскатывать тесто скалкой</text></cit>
 </sense>
 </entry>
 </superEntry>

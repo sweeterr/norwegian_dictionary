@@ -7,24 +7,25 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-степень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степень</text></cit>
 <сit type="example"><text>i høy grad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в высокой степени</text></cit></cit>
 <сit type="example"><text>i høyeste grad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в высшей степени</text></cit></cit>
 <сit type="example"><text>til de grader</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> необыкновенно</text></cit></cit>
 <сit type="example"><text>til en viss grad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до некоторой степени</text></cit></cit>
 </sense>
 <sense>
-чин, звание, ранг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чин, звание, ранг</text></cit>
 </sense>
 <sense>
-учёная степень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учёная степень</text></cit>
 <сit type="example"><text>ta sin grad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить учёную степень</text></cit></cit>
 </sense>
 <sense>
-градус
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>градус</text></cit>
 </sense>
 <sense>
-<u>мат.</u> степень
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степень</text></cit>
 </sense>
 </entry>
 </superEntry>

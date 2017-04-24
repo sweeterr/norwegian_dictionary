@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">grunnløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-необоснованный, беспочвенный, ни на что не опирающийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необоснованный, беспочвенный, ни на что не опирающийся</text></cit>
 </sense>
 <sense>
-неосновательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неосновательный</text></cit>
 </sense>
 </entry>
 </superEntry>

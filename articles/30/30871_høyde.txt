@@ -7,36 +7,39 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-вышина, высота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вышина, высота</text></cit>
 <сit type="example"><text>av 20 meters høyde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высотой в 20 метров</text></cit></cit>
 <сit type = "example"><text>i høyden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в вышину</text></cit></cit>
 <сit type = "example"><text>i høyden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в крайнем случае</text></cit></cit>
 <сit type = "example"><text>i høyden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> максимально</text></cit></cit>
 <сit type="example"><text>det er i høyde to timer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>максимум два часа</text></cit></cit>
 <сit type = "example"><text>komme (være) på høyde med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> догнать кого-л. в чём-л.</text></cit></cit>
-<сit type = "example"><text>komme (være) på høyde med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>воен.</u> выровнять линию</text></cit></cit>
+<сit type = "example"><text>komme (være) på høyde med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>воен.</lbl> выровнять линию</text></cit></cit>
 <сit type="example"><text>vokse i høyden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расти в высоту</text></cit></cit>
 <сit type="example"><text>være på høyden med sin tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на уровне своего времени</text></cit></cit>
 </sense>
 <sense>
-возвышенность, пригорок, <u>воен.</u> высота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возвышенность, пригорок, <lbl>воен.</lbl> высота</text></cit>
 </sense>
 <sense>
-высшие круги общества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшие круги общества</text></cit>
 </sense>
 <sense>
-высшая точка, кульминационный пункт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшая точка, кульминационный пункт</text></cit>
 <сit type="example"><text>til ukjente høyder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> до небывалых высот</text></cit></cit>
 <сit type = "example"><text>være på høyden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть в расцвете, быть в зените</text></cit></cit>
 <сit type = "example"><text>være på høyden :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть на уровне чего-л.</text></cit></cit>
 </sense>
 <sense>
-<u>мат.</u>, <u>астр.</u> высота
+<usg>мат.</usg>
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высота</text></cit>
 <сit type="example"><text>rett(e) høyde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>истинная высота</text></cit></cit>
 <сit type="example"><text>ta en høyde (ta høyden)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>измерить высоту</text></cit></cit>
 </sense>
 <sense>
-<u>геогр.</u> широта
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>широта</text></cit>
 <сit type="example"><text>på høyden av ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на той же самой широте, что и …</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">slakk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-мор, отвисшая часть троса, ходовой (свободный) конец троса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мор, отвисшая часть троса, ходовой (свободный) конец троса</text></cit>
 <сit type="example"><text>ta (hale) inn slakken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбрать провисший трос, натянуть трос</text></cit></cit>
 </sense>
 </entry>
@@ -14,26 +14,25 @@
 <form>
 <orth type="lemma">slakk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-свободный, ненатянутый (о тросе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный, ненатянутый (о тросе)</text></cit>
 </sense>
 <sense>
-бездеятельный, мало энергичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездеятельный, мало энергичный</text></cit>
 </sense>
 <sense>
-слегка пологий (о местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка пологий (о местности)</text></cit>
 </sense>
 <sense>
-медленный, слабый (о течении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медленный, слабый (о течении)</text></cit>
 </sense>
 <sense>
-рыхлый, свободно плавающий (о льдах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыхлый, свободно плавающий (о льдах)</text></cit>
 </sense>
 <sense>
-частично свободный ото льдов (о фарватере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частично свободный ото льдов (о фарватере)</text></cit>
 </sense>
 </entry>
 </superEntry>

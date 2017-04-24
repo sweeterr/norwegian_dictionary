@@ -7,24 +7,24 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-стоить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоить</text></cit>
 <сit type="example"><text>hva (hvor meget) koster det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что (сколько) это стоит?</text></cit></cit>
 <сit type="example"><text>det koster ikke så mye</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это стоит недорого</text></cit></cit>
 <сit type="example"><text>koste hva det koste vil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чего бы это ни стоило, любой ценой</text></cit></cit>
 </sense>
 <sense>
-обходиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обходиться</text></cit>
 <сit type="example"><text>det koster deg bare et ord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоит тебе сказать лишь одно слово</text></cit></cit>
 </sense>
 <sense>
-тратить, расходовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тратить, расходовать</text></cit>
 <сit type="example"><text>koste noe på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приобрести (что-л.ибо)</text></cit></cit>
 </sense>
 <sense>
-нести расходы, платить за (что-л.ибо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нести расходы, платить за (что-л.ибо)</text></cit>
 </sense>
 <sense>
-уделять (время)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уделять (время)</text></cit>
 <сit type="example"><text>koste på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоить больших усилий</text></cit></cit>
 </sense>
 </entry>
@@ -35,10 +35,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-мести, подметать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мести, подметать</text></cit>
 </sense>
 <sense>
-чистить, отчищать (щёткой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистить, отчищать (щёткой)</text></cit>
 <сit type="example"><text>koste ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вымести</text></cit></cit>
 </sense>
 </entry>

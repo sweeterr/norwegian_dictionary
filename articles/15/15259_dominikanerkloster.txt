@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dominikanerkloster</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>рел.</u> доминиканский монастырь
+<usg>рел.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доминиканский монастырь</text></cit>
 </sense>
 </entry>
 </superEntry>

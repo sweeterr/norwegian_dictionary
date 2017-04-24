@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">åkersnerpe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> коростель
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коростель</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kontrakt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-контракт, письменное соглашение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контракт, письменное соглашение</text></cit>
 <сit type="example"><text>heve en kontrakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расторгнуть контракт</text></cit></cit>
 <сit type="example"><text>slutte en kontrakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключить контракт</text></cit></cit>
 </sense>

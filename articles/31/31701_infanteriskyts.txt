@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">infanteriskyts</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>воен.</u> пехотное орудие; орудие сопровождения пехоты
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пехотное орудие; орудие сопровождения пехоты</text></cit>
 </sense>
 </entry>
 </superEntry>

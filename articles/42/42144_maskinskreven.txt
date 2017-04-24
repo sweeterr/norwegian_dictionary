@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">maskinskreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-отпечатанный на машинке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпечатанный на машинке</text></cit>
 </sense>
 </entry>
 </superEntry>

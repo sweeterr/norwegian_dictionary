@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">losefisk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> лоцман (рыба)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоцман (рыба)</text></cit>
 </sense>
 </entry>
 </superEntry>

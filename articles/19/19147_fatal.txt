@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">fatal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-фатальный, роковой, неизбежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фатальный, роковой, неизбежный</text></cit>
 </sense>
 <sense>
-досадный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>досадный</text></cit>
 </sense>
 </entry>
 </superEntry>

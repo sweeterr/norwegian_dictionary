@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-реставрация, реставрирование (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реставрация, реставрирование (чего-л.)</text></cit>
 </sense>
 <sense>
-восстановление в правах, возвращение к власти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восстановление в правах, возвращение к власти</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">restaurasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-небольшой ресторан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшой ресторан</text></cit>
 </sense>
 </entry>
 </superEntry>

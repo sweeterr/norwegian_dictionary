@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">samlebånd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> сборочный конвейер
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сборочный конвейер</text></cit>
 </sense>
 </entry>
 </superEntry>

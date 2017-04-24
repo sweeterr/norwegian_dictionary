@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">veklage</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-сетование, причитание, громкие жалобы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сетование, причитание, громкие жалобы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">veklage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сетовать, причитать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сетовать, причитать</text></cit>
 <сit type="example"><text>veklage seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жаловаться, ныть</text></cit></cit>
 </sense>
 </entry>

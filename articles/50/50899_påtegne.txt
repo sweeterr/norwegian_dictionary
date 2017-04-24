@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">påtegne</orth>
-<inflection><orth extent="part">-et</orth></inflection>
-,
-<inflection><orth extent="part">-et</orth></inflection>
+<inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-подписывать (документ)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подписывать (документ)</text></cit>
 </sense>
 <sense>
-делать образец (рисунка, вышивки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать образец (рисунка, вышивки)</text></cit>
 </sense>
 </entry>
 </superEntry>

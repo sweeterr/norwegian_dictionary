@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-пир, празднество, кутёж, пирушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пир, празднество, кутёж, пирушка</text></cit>
 <сit type="example"><text>gildet var fyrstelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пир был пышным</text></cit></cit>
 <сit type="example"><text>gildet var feiret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пир пировали</text></cit></cit>
 <сit type="example"><text>betale gildet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оплачивать расходы на празднество</text></cit></cit>
 <сit type="example"><text>holde gilde på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наслаждаться (чем-л.), справлять праздник</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> гильдия, корпорация, цех
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гильдия, корпорация, цех</text></cit>
 </sense>
 </entry>
 </superEntry>

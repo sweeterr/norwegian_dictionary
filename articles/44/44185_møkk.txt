@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">møkk</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-навоз, нечистоты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навоз, нечистоты</text></cit>
 </sense>
 <sense>
-грязь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязь</text></cit>
 </sense>
 <sense>
-хлам, барахло, <u>перен.</u> дрянь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлам, барахло, <lbl>перен.</lbl> дрянь</text></cit>
 </sense>
 </entry>
 </superEntry>

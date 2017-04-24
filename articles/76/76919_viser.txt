@@ -7,26 +7,26 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-стрелка (часов, весов и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка (часов, весов и т. п.)</text></cit>
 <сit type="example"><text>viseren står på slaget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка показывает полный час</text></cit></cit>
 </sense>
 <sense>
-указатель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указатель</text></cit>
 </sense>
 <sense>
-предводитель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предводитель</text></cit>
 </sense>
 <sense>
-пчелиная матка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пчелиная матка</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">viser</orth>
-visér 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>visér</text></cit>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-стрелка, указатель, индикатор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка, указатель, индикатор</text></cit>
 </sense>
 </entry>
 </superEntry>

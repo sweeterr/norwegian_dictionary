@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">polyfon</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-многоголосый, полифонический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многоголосый, полифонический</text></cit>
 </sense>
 </entry>
 </superEntry>

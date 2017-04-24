@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">småsyre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>бот.</u> щавель малый
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щавель малый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-лагерь, бивак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лагерь, бивак</text></cit>
 <сit type="example"><text>en forskanset leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>укреплённый лагерь</text></cit></cit>
 <сit type="example"><text>bryte leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свернуть лагерь, сняться с лагеря</text></cit></cit>
 <сit type="example"><text>legge seg i leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расположиться лагерем</text></cit></cit>
@@ -15,7 +15,8 @@
 <сit type="example"><text>slå leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расположиться лагерем, разбить лагерь</text></cit></cit>
 </sense>
 <sense>
-<u>полит.</u> лагерь
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лагерь</text></cit>
 <сit type="example"><text>det ble liv i leiren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>случился (возник) переполох</text></cit></cit>
 </sense>
 </entry>
@@ -26,12 +27,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-глина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глина</text></cit>
 <сit type="example"><text>ildfast leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>огнеупорная глина</text></cit></cit>
 <сit type="example"><text>brenne leir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обжигать изделия из глины</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> прах, земля
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прах, земля</text></cit>
 </sense>
 </entry>
 </superEntry>

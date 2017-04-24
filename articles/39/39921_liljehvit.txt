@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">liljehvit</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-белый как лилия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белый как лилия</text></cit>
 </sense>
 </entry>
 </superEntry>

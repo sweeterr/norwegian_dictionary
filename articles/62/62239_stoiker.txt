@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stoiker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>филос.</u> стоик <u>тж. перен.</u>
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоик <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">harnisk</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ист.</u> кольчуга, броня, панцирь
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольчуга, броня, панцирь</text></cit>
 <сit type="example"><text>bringe (sette) i harnisk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассердить, настроить воинственно</text></cit></cit>
 <сit type = "example"><text>komme (være) i harnisk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> рассердиться</text></cit></cit>
 <сit type = "example"><text>komme (være) i harnisk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть в воинственном настроении</text></cit></cit>

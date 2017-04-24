@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bindeevne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> вяжущая способность
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вяжущая способность</text></cit>
 </sense>
 </entry>
 </superEntry>

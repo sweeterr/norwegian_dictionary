@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">skiple</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-создавать беспорядок, перевернуть вверх дном <u>тж. перен.</u>; причинять неудобство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>создавать беспорядок, перевернуть вверх дном <lbl>тж. перен.</lbl>; причинять неудобство</text></cit>
 </sense>
 <sense>
-повредить, испортить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повредить, испортить</text></cit>
 </sense>
 <sense>
-сбивать с толку, мешать, прерывать (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбивать с толку, мешать, прерывать (кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-бдение, бессонная ночь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бдение, бессонная ночь</text></cit>
 </sense>
 <sense>
-<u>церк.</u> вечерня
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечерня</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +21,13 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-бодрствовать, не спать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бодрствовать, не спать</text></cit>
 </sense>
 <sense>
-дежурить у постели больного ночью (тж. våke hos én)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дежурить у постели больного ночью (тж. våke hos én)</text></cit>
 </sense>
 <sense>
-следить (за кем, чем-л. - over)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следить (за кем, чем-л. - over)</text></cit>
 <сit type="example"><text>våke over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дежурить, охранять</text></cit></cit>
 </sense>
 </entry>

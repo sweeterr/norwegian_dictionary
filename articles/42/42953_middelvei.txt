@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">middelvei</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-средний путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>средний путь</text></cit>
 <сit type="example"><text>den gylne middelvei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>золотая середина</text></cit></cit>
 </sense>
 </entry>

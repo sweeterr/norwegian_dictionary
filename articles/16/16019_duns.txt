@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">duns</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-глухой звук (как при падении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой звук (как при падении)</text></cit>
 </sense>
 <sense>
-толчок, тумак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчок, тумак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">duns</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пар, испарение (от земли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пар, испарение (от земли)</text></cit>
 </sense>
 <sense>
-тяжесть в голове
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжесть в голове</text></cit>
 </sense>
 </entry>
 </superEntry>

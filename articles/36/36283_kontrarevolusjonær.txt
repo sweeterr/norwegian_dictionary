@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kontrarevolusjonær</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-контрреволюционер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контрреволюционер</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">kontrarevolusjonær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-контрреволюционный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контрреволюционный</text></cit>
 </sense>
 </entry>
 </superEntry>

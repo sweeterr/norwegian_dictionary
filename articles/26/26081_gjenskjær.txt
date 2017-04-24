@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gjenskjær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>поэт.</u> отражение
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отражение</text></cit>
 </sense>
 </entry>
 </superEntry>

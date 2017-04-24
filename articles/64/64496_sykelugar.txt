@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sykelugar</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-каюта для больных пассажиров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каюта для больных пассажиров</text></cit>
 </sense>
 <sense>
-корабельный лазарет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корабельный лазарет</text></cit>
 </sense>
 </entry>
 </superEntry>

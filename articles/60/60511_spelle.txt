@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">spelle</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-играть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть</text></cit>
 </sense>
 <sense>
-забавляться, веселиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забавляться, веселиться</text></cit>
 <сit type="example"><text>spelle opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проиграть, обанкротиться</text></cit></cit>
-см. тж. spille II
+<ref>тж. spille II</ref>
 </sense>
 </entry>
 </superEntry>

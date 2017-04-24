@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">pur</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-чистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чистый</text></cit>
 </sense>
 <sense>
-беспримесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспримесный</text></cit>
 </sense>
 <sense>
-неподдельный, настоящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподдельный, настоящий</text></cit>
 </sense>
 </entry>
 </superEntry>

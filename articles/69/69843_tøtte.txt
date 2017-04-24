@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tøtte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> баба, <u>собир.</u> бабы
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баба, <lbl>собир.</lbl> бабы</text></cit>
 </sense>
 </entry>
 </superEntry>

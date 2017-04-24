@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">fegen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-весёлый, радостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый, радостный</text></cit>
 </sense>
 <sense>
-довольный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>довольный</text></cit>
 </sense>
 </entry>
 </superEntry>

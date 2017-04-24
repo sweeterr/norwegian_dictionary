@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sauet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-придурковатый, глуповатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придурковатый, глуповатый</text></cit>
 </sense>
 <sense>
-безвольный, трусливый, несамостоятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвольный, трусливый, несамостоятельный</text></cit>
 </sense>
 </entry>
 </superEntry>

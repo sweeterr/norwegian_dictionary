@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">rusken</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ненастный, дождливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненастный, дождливый</text></cit>
 </sense>
 <sense>
-взъерошенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взъерошенный</text></cit>
 </sense>
 <sense>
-хилый, слабый, жалкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, слабый, жалкий</text></cit>
 </sense>
 </entry>
 </superEntry>

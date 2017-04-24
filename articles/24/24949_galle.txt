@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-жёлчь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жёлчь</text></cit>
 <сit type="example"><text>spy edder og galle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рвать и метать</text></cit></cit>
 <сit type="example"><text>utøse sin galle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> изливать свою жёлчь</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> отрава, яд
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрава, яд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <orth type="lemma">galle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
-<u>бот.</u> галлы
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галлы</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-металлический ящик (сундучок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлический ящик (сундучок)</text></cit>
 </sense>
 <sense>
-сейф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сейф</text></cit>
 </sense>
 <sense>
-почтовый ящик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтовый ящик</text></cit>
 </sense>
 <sense>
-будка (телефона-автомата), небольшое помещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>будка (телефона-автомата), небольшое помещение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,8 @@
 <form>
 <orth type="lemma">boks</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>спорт.</u> бокс
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бокс</text></cit>
 </sense>
 </entry>
 </superEntry>

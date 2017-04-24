@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tidslitteratur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-современная (для кого-либо) литература
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>современная (для кого-либо) литература</text></cit>
 </sense>
 </entry>
 </superEntry>

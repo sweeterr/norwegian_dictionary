@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aluminotermi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> алюминотермия, термитная сварка
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>алюминотермия, термитная сварка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,22 +7,23 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-качаться, раскачиваться (на волнах, в воздухе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, раскачиваться (на волнах, в воздухе)</text></cit>
 </sense>
 <sense>
-волноваться, идти волнами (о море, ниве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волноваться, идти волнами (о море, ниве)</text></cit>
 </sense>
 <sense>
-колыхаться (от ветра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыхаться (от ветра)</text></cit>
 </sense>
 <sense>
-бросать из стороны в сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать из стороны в сторону</text></cit>
 </sense>
 <sense>
-идти пошатываясь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти пошатываясь</text></cit>
 </sense>
 <sense>
-<u>мор.</u> испытывать килевую качку
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать килевую качку</text></cit>
 </sense>
 </entry>
 <entry>
@@ -30,7 +31,7 @@
 <form>
 <orth type="lemma">duve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-<сit type="example"><text><lbl>уст.</lbl> <u>мор.</u> duve på land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс к суше, земле</text></cit></cit>
+<сit type="example"><text><lbl>уст.</lbl> <lbl>мор.</lbl> duve på land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс к суше, земле</text></cit></cit>
 <сit type="example"><text>duve opp for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс (на что-л.)</text></cit></cit>
 </sense>
 </entry>

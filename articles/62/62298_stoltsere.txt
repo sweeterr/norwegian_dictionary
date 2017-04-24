@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">stoltsere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-важно выступать, ходить с важным видом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>важно выступать, ходить с важным видом</text></cit>
 </sense>
 <sense>
-кичиться, важничать, «задаваться»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кичиться, важничать, «задаваться»</text></cit>
 </sense>
 </entry>
 </superEntry>

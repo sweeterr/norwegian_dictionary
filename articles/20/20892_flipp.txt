@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flipp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> воротничок
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воротничок</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">translatør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-дипломированный переводчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дипломированный переводчик</text></cit>
 </sense>
 </entry>
 </superEntry>

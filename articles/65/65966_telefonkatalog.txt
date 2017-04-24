@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">telefonkatalog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-телефонный справочник, список абонентов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>телефонный справочник, список абонентов</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">størrelsesklasse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>астр.</u> величина звезды
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>величина звезды</text></cit>
 </sense>
 </entry>
 </superEntry>

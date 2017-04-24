@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">facil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-покладистый, сговорчивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покладистый, сговорчивый</text></cit>
 </sense>
 <sense>
-<u>разг.</u> подлаживающийся, приспосабливающийся
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлаживающийся, приспосабливающийся</text></cit>
 </sense>
 </entry>
 </superEntry>

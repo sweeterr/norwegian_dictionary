@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">primitiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-примитивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивный</text></cit>
 </sense>
 <sense>
-первобытный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первобытный</text></cit>
 </sense>
 <sense>
-простой, несложный (об инструменте, утвари и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, несложный (об инструменте, утвари и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">frikadelle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>кул.</u> фрикаделька
+<usg>кул.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фрикаделька</text></cit>
 </sense>
 </entry>
 </superEntry>

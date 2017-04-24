@@ -8,10 +8,11 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-<u>дип.</u> верительные грамоты
+<usg>дип.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верительные грамоты</text></cit>
 </sense>
 <sense>
-аккредитив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аккредитив</text></cit>
 </sense>
 </entry>
 </superEntry>

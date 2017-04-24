@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vimle</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> тошнота
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тошнота</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">vimle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> чувствовать тошноту
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать тошноту</text></cit>
 </sense>
 </entry>
 </superEntry>

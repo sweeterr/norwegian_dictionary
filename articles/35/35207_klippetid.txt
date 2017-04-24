@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klippetid</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-время (период) стрижки овец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время (период) стрижки овец</text></cit>
 <сit type="example"><text>komme (til) i klippetiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прийти в нужный момент (вовремя)</text></cit></cit>
 </sense>
 </entry>

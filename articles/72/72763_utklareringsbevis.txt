@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utklareringsbevis</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мор.</u> документ (квитанция) об уплате пошлины перед выходом в море
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>документ (квитанция) об уплате пошлины перед выходом в море</text></cit>
 </sense>
 </entry>
 </superEntry>

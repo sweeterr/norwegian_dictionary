@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fjæregubbe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фольк.</u> водяной
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водяной</text></cit>
 </sense>
 </entry>
 </superEntry>

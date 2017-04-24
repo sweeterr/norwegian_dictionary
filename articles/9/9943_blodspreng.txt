@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blodspreng</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> прилив крови
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прилив крови</text></cit>
 </sense>
 </entry>
 </superEntry>

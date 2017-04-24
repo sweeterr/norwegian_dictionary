@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tsjekkisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-чешский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чешский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">tsjekkisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-чешский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чешский</text></cit>
 </sense>
 </entry>
 </superEntry>

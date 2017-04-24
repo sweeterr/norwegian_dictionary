@@ -6,7 +6,7 @@
 <orth type="lemma">bor</orth>
 <phon>|bor:|</phon>
 <inflection><orth extent="part">-et (-en), = (-er)</orth></inflection>
-бурав, сверло, бур
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурав, сверло, бур</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,8 @@
 <orth type="lemma">bor</orth>
 <phon>|bu:r|</phon>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> бор
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бор</text></cit>
 </sense>
 </entry>
 </superEntry>

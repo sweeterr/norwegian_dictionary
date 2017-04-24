@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-ремень, ремешок, подвязка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ремень, ремешок, подвязка</text></cit>
 <сit type="example"><text>stropp i taket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ручка-петля (в вагоне трамвая)</text></cit></cit>
 </sense>
 <sense>
-вешалка (на пальто), ушко (у сапога, ботинка для шнуровки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вешалка (на пальто), ушко (у сапога, ботинка для шнуровки)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> строп на блоках
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строп на блоках</text></cit>
 </sense>
 </entry>
 </superEntry>

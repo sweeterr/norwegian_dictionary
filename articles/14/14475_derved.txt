@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">derved</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-тем самым, при этом, таким образом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тем самым, при этом, таким образом</text></cit>
 <сit type="example"><text>derved er intet å gjøre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут уж ничего не поделаешь</text></cit></cit>
 </sense>
 </entry>

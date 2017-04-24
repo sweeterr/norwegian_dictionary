@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">plevritt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> плеврит
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плеврит</text></cit>
 <сit type="example"><text>fuktig (våt) plevritt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>серозный плеврит</text></cit></cit>
 <сit type="example"><text>tørr plevritt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сухой плеврит</text></cit></cit>
 </sense>

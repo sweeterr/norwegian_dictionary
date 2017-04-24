@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hatsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-злобный, озлобленный, неприязненный, враждебный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злобный, озлобленный, неприязненный, враждебный</text></cit>
 </sense>
 </entry>
 </superEntry>

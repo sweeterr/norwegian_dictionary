@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">løvvedborer</orth>
 <inflection><orth extent="part">-en, - e</orth></inflection>
-<u>зоол.</u> короед непарный
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короед непарный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">herskap</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-господа, хозяева
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>господа, хозяева</text></cit>
 <сit type="example"><text>mine herskaper</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>господа! (обращение)</text></cit></cit>
 </sense>
 </entry>

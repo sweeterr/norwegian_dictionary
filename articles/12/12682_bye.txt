@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bye</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ливень, сильный град
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ливень, сильный град</text></cit>
 </sense>
 <sense>
-шквал, порыв ветра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шквал, порыв ветра</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">bye</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>дет.</u> колыбель
+<usg>дет.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыбель</text></cit>
 <сit type="example"><text>i bya di</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в твоей колыбельке (кроватке)</text></cit></cit>
 </sense>
 </entry>
@@ -28,7 +29,8 @@
 <form>
 <orth type="lemma">bye</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> качать, укачивать, убаюкивать (ребёнка)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качать, укачивать, убаюкивать (ребёнка)</text></cit>
 </sense>
 </entry>
 </superEntry>

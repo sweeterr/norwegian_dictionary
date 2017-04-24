@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">vergeløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безоружный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безоружный</text></cit>
 </sense>
 <sense>
-незащищённый (о территории)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незащищённый (о территории)</text></cit>
 </sense>
 <sense>
-беззащитный, беспомощный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззащитный, беспомощный</text></cit>
 </sense>
 </entry>
 </superEntry>

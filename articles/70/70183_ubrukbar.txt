@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">ubrukbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не пригодный для употребления
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не пригодный для употребления</text></cit>
 </sense>
 </entry>
 </superEntry>

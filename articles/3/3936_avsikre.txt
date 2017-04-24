@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avsikre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>воен.</u> снимать с предохранителя
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать с предохранителя</text></cit>
 </sense>
 </entry>
 </superEntry>

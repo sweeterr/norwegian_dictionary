@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">napoleonssalve</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мед.</u> ртутная мазь
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ртутная мазь</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-te (-net), -t (-net)</orth></inflection>
 </form>
 <sense>
-хватать, быть достаточным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хватать, быть достаточным</text></cit>
 </sense>
 <sense>
-прибывать, увеличиваться, расти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибывать, увеличиваться, расти</text></cit>
 <сit type="example"><text>det monner lite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не поможет, в этом мало толку</text></cit></cit>
 <сit type="example"><text>det monnet lite</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не играло никакой роли, это не имело никакого значения</text></cit></cit>
 </sense>
@@ -19,22 +19,23 @@
 <index></index>
 <form>
 <orth type="lemma">monne</orth>
-вспомогательный глагол, употребляется только в pres mon — и pret monne <u>уст.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспомогательный глагол, употребляется только в pres mon — и pret monne <lbl>уст.</lbl></text></cit>
 </form>
 <sense>
-используется для образования форм будущего времени:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>используется для образования форм будущего времени:</text></cit>
 <сit type="example"><text>de som monne komme etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>те, которые придут после</text></cit></cit>
 </sense>
 <sense>
-в вопросительных предложениях для выражения неуверенности и сомнения:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в вопросительных предложениях для выражения неуверенности и сомнения:</text></cit>
 <сit type="example"><text>hva monne han kunne ha å gjøre der?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что бы он мог там делать?</text></cit></cit>
 </sense>
 <sense>
-в уступительных предложениях:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в уступительных предложениях:</text></cit>
 <сit type="example"><text>hvilke de enn monne være ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какие бы они там ни были ...</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> для выражения возможности, вероятности действия:
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>для выражения возможности, вероятности действия:</text></cit>
 <сit type="example"><text>han monne ha tjent atskillig på fiske</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он, вероятно, немало заработал на рыбной ловле</text></cit></cit>
 </sense>
 </entry>

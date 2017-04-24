@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brutto</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ком.</u> вес брутто
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вес брутто</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">brutto</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>ком.</u> брутто
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брутто</text></cit>
 </sense>
 </entry>
 </superEntry>

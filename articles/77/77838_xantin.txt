@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">xantin</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>текст.</u> нерастворимый растительный жёлтый пигмент
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерастворимый растительный жёлтый пигмент</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">atlas</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>анат.</u> атлант (первый шейный позвонок)
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атлант (первый шейный позвонок)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-атлас (географический)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атлас (географический)</text></cit>
 </sense>
 <sense>
-большой альбом репродукций с картин, книга с большим количеством иллюстраций
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой альбом репродукций с картин, книга с большим количеством иллюстраций</text></cit>
 <сit type="example"><text>kunsthistorisk atlas</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>альбом по истории искусства</text></cit></cit>
 </sense>
 </entry>

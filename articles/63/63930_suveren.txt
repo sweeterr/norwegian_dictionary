@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">suveren</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-суверен, монарх
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суверен, монарх</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,18 +13,17 @@
 <form>
 <orth type="lemma">suveren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-суверенный, независимый, самодержавный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суверенный, независимый, самодержавный</text></cit>
 <сit type="example"><text>være suveren over noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>господствовать над чем-л.</text></cit></cit>
 </sense>
 <sense>
-нерушимый, священный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерушимый, священный</text></cit>
 </sense>
 <sense>
-непревзойдённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непревзойдённый</text></cit>
 </sense>
 </entry>
 </superEntry>

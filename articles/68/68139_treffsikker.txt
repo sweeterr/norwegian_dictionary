@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">treffsikker</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-меткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меткий</text></cit>
 </sense>
 <sense>
-точный, аккуратный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>точный, аккуратный</text></cit>
 </sense>
 <sense>
-острый на язык, остроумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый на язык, остроумный</text></cit>
 </sense>
 </entry>
 </superEntry>

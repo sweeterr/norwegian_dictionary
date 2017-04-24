@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">yven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-распухший, разбухший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распухший, разбухший</text></cit>
 </sense>
 <sense>
-полный, дородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный, дородный</text></cit>
 </sense>
 <sense>
-взлохмаченный, взъерошенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взлохмаченный, взъерошенный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> важничающий, задающийся
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>важничающий, задающийся</text></cit>
 </sense>
 </entry>
 </superEntry>

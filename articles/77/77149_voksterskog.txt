@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">voksterskog</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> молодой лес
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодой лес</text></cit>
 </sense>
 </entry>
 </superEntry>

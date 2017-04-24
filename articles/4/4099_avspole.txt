@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avspole</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> разматывать катушки
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разматывать катушки</text></cit>
 </sense>
 </entry>
 </superEntry>

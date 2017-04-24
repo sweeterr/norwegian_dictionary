@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kolelampe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u> лампа, светильник, каганец (в которых использовался китовый или тресковый жир)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лампа, светильник, каганец (в которых использовался китовый или тресковый жир)</text></cit>
 </sense>
 </entry>
 </superEntry>

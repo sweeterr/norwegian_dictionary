@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">marm</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>диал.</u> рокот, шум моря
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рокот, шум моря</text></cit>
 </sense>
 </entry>
 </superEntry>

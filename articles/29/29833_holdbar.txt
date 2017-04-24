@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">holdbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прочный, выносливый, крепкий (о товарах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочный, выносливый, крепкий (о товарах)</text></cit>
 </sense>
 <sense>
-непортящийся (о продуктах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непортящийся (о продуктах)</text></cit>
 </sense>
 <sense>
-солидный, обоснованный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солидный, обоснованный</text></cit>
 </sense>
 </entry>
 </superEntry>

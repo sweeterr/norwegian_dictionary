@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lettisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-латышский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латышский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">lettisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- латышский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латышский</text></cit>
 </sense>
 </entry>
 </superEntry>

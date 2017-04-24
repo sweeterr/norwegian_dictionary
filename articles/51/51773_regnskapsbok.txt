@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">regnskapsbok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-<u>бухг.</u> приходо-расходная книга
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приходо-расходная книга</text></cit>
 </sense>
 </entry>
 </superEntry>

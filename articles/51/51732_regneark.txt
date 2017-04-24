@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">regneark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> крупноформатная (электронная) таблица
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крупноформатная (электронная) таблица</text></cit>
 </sense>
 </entry>
 </superEntry>

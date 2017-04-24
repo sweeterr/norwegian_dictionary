@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>лит.</u> стихосложение, просодия
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стихосложение, просодия</text></cit>
 </sense>
 <sense>
-переложение в стихотворную форму
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переложение в стихотворную форму</text></cit>
 </sense>
 <sense>
-размер стиха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размер стиха</text></cit>
 </sense>
 </entry>
 </superEntry>

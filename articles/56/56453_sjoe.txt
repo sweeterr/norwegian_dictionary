@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">sjoe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-клокотать, бурлить (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клокотать, бурлить (о воде)</text></cit>
 </sense>
 <sense>
-шуметь, свистеть (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, свистеть (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

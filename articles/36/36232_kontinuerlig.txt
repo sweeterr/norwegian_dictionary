@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kontinuerlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-непрерывный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрерывный</text></cit>
 </sense>
 </entry>
 </superEntry>

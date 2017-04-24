@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">antennekapacitet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>радио</u> излучаемая мощность передающей антенны; ёмкость приёмной антенны
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>излучаемая мощность передающей антенны; ёмкость приёмной антенны</text></cit>
 </sense>
 </entry>
 </superEntry>

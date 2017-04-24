@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spillkraft</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>эл.</u> избыточная электроэнергия; энергия, не поглощаемая потребительской сетью
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>избыточная электроэнергия; энергия, не поглощаемая потребительской сетью</text></cit>
 </sense>
 </entry>
 </superEntry>

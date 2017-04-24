@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dagpost</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-дневная почта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дневная почта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-должность (место) с работой днём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность (место) с работой днём</text></cit>
 </sense>
 <sense>
-должность (место) приходящей прислуги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность (место) приходящей прислуги</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">bengel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-верзила, дылда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верзила, дылда</text></cit>
 </sense>
 <sense>
-озорник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озорник</text></cit>
 </sense>
 <sense>
-увалень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увалень</text></cit>
 </sense>
 </entry>
 </superEntry>

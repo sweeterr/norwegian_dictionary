@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lam</orth>
 <inflection><orth extent="part">-met, =</orth></inflection>
-ягнёнок, молодой барашек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ягнёнок, молодой барашек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">lam</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-парализованный <u>тж. перен.</u>; параличный, разбитый параличом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парализованный <lbl>тж. перен.</lbl>; параличный, разбитый параличом</text></cit>
 </sense>
 </entry>
 </superEntry>

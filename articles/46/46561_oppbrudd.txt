@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-отъезд, уход
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отъезд, уход</text></cit>
 </sense>
 <sense>
-<u>воен.</u> выступление войск
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступление войск</text></cit>
 <сit type="example"><text>blåse til oppbrudd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть сбор (к выступлению)</text></cit></cit>
 </sense>
 </entry>

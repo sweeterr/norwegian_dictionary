@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">aterman</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>физ.</u> теплоизоляционный, нетеплопроводный
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплоизоляционный, нетеплопроводный</text></cit>
 </sense>
 </entry>
 </superEntry>

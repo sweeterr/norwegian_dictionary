@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">smeikeblid</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> вкрадчиво ласковый, льстивый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вкрадчиво ласковый, льстивый</text></cit>
 </sense>
 </entry>
 </superEntry>

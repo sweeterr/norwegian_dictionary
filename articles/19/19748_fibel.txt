@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fibel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>уст.</u> букварь
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>букварь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">fibel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-глупый, недоразвитый человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый, недоразвитый человек</text></cit>
 </sense>
 <sense>
-халтурщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>халтурщик</text></cit>
 </sense>
 </entry>
 </superEntry>

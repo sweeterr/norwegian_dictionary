@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flaggaffel</orth>
 <inflection><orth extent="part">-felen, -ler</orth></inflection>
-<u>мор.</u> гафель
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гафель</text></cit>
 </sense>
 </entry>
 </superEntry>

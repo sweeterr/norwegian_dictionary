@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">industriell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-промышленный, индустриальный, производственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промышленный, индустриальный, производственный</text></cit>
 </sense>
 </entry>
 </superEntry>

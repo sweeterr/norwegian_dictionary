@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">førstemaskinist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> командир электромеханической боевой части
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командир электромеханической боевой части</text></cit>
 </sense>
 </entry>
 </superEntry>

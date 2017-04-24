@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">gode</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-добро, благо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добро, благо</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">gode</orth>
-в сочетаниях с предлогом til:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетаниях с предлогом til:</text></cit>
 <сit type="example"><text>gjøre seg til gode med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довольствоваться чем-л.</text></cit></cit>
 <сit type="example"><text>ha noe til gode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь право на что-л.</text></cit></cit>
 <сit type="example"><text>komme en til gode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (пойти) кому-л. на пользу</text></cit></cit>

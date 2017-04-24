@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">statsråd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-министр, член Государственного совета (в Норвегии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>министр, член Государственного совета (в Норвегии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-Государственный совет, кабинет министров, совет министров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Государственный совет, кабинет министров, совет министров</text></cit>
 </sense>
 <sense>
-заседание совета министров
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заседание совета министров</text></cit>
 </sense>
 </entry>
 </superEntry>

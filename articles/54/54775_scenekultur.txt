@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">scenekultur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>театр.</u> сценическая культура
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сценическая культура</text></cit>
 </sense>
 </entry>
 </superEntry>

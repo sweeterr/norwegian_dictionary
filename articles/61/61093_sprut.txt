@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-струя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струя</text></cit>
 </sense>
 <sense>
-взрыв (смеха)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв (смеха)</text></cit>
 </sense>
 <sense>
-брызги, мелкая пыль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брызги, мелкая пыль</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> спрут
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спрут</text></cit>
 </sense>
 <sense>
-<u>тех.</u> угольный люк, угольная шахта (для спуска угля в подвал)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угольный люк, угольная шахта (для спуска угля в подвал)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +29,7 @@
 <form>
 <orth type="lemma">sprut</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-шпрот(а)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпрот(а)</text></cit>
 </sense>
 </entry>
 <entry>

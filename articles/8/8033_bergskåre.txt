@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bergskåre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-уступ (в горах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уступ (в горах)</text></cit>
 </sense>
 <sense>
-выемка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выемка</text></cit>
 </sense>
 </entry>
 </superEntry>

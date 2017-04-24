@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-робот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>робот</text></cit>
 </sense>
 <sense>
-автомат, автоматическое устройство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автомат, автоматическое устройство</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> человек-машина
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек-машина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basisbredde</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>тех.</u> ширина в основании, ширина базы
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина в основании, ширина базы</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utleggstaker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>юр.</u> уполномоченный по описи имущества
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уполномоченный по описи имущества</text></cit>
 </sense>
 </entry>
 </superEntry>

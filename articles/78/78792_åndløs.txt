@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">åndløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бездарный, малоразвитый, ограниченный, тупой (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездарный, малоразвитый, ограниченный, тупой (о человеке)</text></cit>
 </sense>
 <sense>
-бездушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездушный</text></cit>
 </sense>
 <sense>
-тривиалъный, рутинный, банальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тривиалъный, рутинный, банальный</text></cit>
 </sense>
 </entry>
 </superEntry>

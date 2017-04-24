@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">avrydde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-расчистить, убрать что-л. с пути
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расчистить, убрать что-л. с пути</text></cit>
 </sense>
 <sense>
-разобрать (завалы), навести порядок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разобрать (завалы), навести порядок</text></cit>
 </sense>
 </entry>
 </superEntry>

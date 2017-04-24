@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-игра, забава
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра, забава</text></cit>
 <сit type="example"><text>den som vil være med i leken, får også noe av ste(i)ken (får også tåle sme(i)ken)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> любишь кататься - люби и саночки возить</text></cit></cit>
 <сit type="example"><text>holde opp (slutte) mens leken er god</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> кончить вовремя ( <lbl>букв.</lbl> кончить, пока игра идёт хорошо)</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> игра, спортивное состязание
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра, спортивное состязание</text></cit>
 <сit type="example"><text>de olympiske leker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>олимпийские игры</text></cit></cit>
 <сit type="example"><text>være ute av leken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне игры, выйти из игры <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> игра (света, красок и т. д.)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра (света, красок и т. д.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,9 +27,8 @@
 <form>
 <orth type="lemma">lek</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-мирской, светский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мирской, светский</text></cit>
 </sense>
 </entry>
 </superEntry>

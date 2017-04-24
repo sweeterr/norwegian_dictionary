@@ -7,12 +7,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-сзади, позади
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сзади, позади</text></cit>
 <сit type="example"><text>til akters</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>назад</text></cit></cit>
 <сit type="example"><text>det går til akter med ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он отстаёт, у него дела плохи</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> на корме
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на корме</text></cit>
 <сit type="example"><text>fra for til akter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от носа до кормы</text></cit></cit>
 </sense>
 </entry>

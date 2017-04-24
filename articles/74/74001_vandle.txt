@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">vandle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> собирать сено в охапку
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собирать сено в охапку</text></cit>
 </sense>
 </entry>
 </superEntry>

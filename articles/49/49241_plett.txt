@@ -7,19 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятно</text></cit>
 <сit type="example"><text>hvit plett på kartet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>белое пятно на карте</text></cit></cit>
 <сit type="example"><text>den blinde plett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>анат.</lbl> слепое пятно</text></cit></cit>
 </sense>
 <sense>
-синяк, покраснение (на коже)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синяк, покраснение (на коже)</text></cit>
 </sense>
 <sense>
-позорное пятно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позорное пятно</text></cit>
 <сit type="example"><text>sette plett på sitt navn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запятнать своё имя</text></cit></cit>
 </sense>
 <sense>
-место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место</text></cit>
 <сit type = "example"><text>på pletten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> прямо на месте</text></cit></cit>
 <сit type = "example"><text>på pletten :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сразу, тут же, немедленно</text></cit></cit>
 <сit type="example"><text>på en plett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>точка в точку</text></cit></cit>
@@ -27,7 +27,8 @@
 <сit type="example"><text>komme først på pletten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>явиться первым</text></cit></cit>
 </sense>
 <sense>
-<u>астр.</u> пятно на Солнце
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятно на Солнце</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,17 +38,18 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-накладное серебро
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накладное серебро</text></cit>
 </sense>
 <sense>
-вещи из накладного серебра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещи из накладного серебра</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">plett</orth>
-<u>мор.</u> тарелка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тарелка</text></cit>
 </sense>
 </entry>
 </superEntry>

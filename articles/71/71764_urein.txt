@@ -5,26 +5,27 @@
 <form>
 <orth type="lemma">urein</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-грязный, загрязнённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязный, загрязнённый</text></cit>
 </sense>
 <sense>
-бесчестный, нравственно испорченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесчестный, нравственно испорченный</text></cit>
 </sense>
 <sense>
-смешанный, с примесью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смешанный, с примесью</text></cit>
 </sense>
 <sense>
-нечёткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечёткий</text></cit>
 </sense>
 <sense>
-<u>муз.</u> неправильный, фальшивый
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неправильный, фальшивый</text></cit>
 </sense>
 <sense>
-<u>мор.</u> изобилующий рифами (подводными камнями)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изобилующий рифами (подводными камнями)</text></cit>
 </sense>
 </entry>
 </superEntry>

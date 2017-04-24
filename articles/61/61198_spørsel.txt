@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spørsel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>диал.</u> вопрос
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вопрос</text></cit>
 </sense>
 </entry>
 </superEntry>

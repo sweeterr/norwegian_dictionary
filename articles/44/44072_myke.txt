@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">myke</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> хлебный мякиш
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлебный мякиш</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,11 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-смягчать, делать мягким
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смягчать, делать мягким</text></cit>
 </sense>
 <sense>
-<u>разг.</u> вздуть, отлупить, избить (кого-л.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздуть, отлупить, избить (кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lire</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> буревестник северный или малый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буревестник северный или малый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">lire</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-лира
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лира</text></cit>
 </sense>
 <sense>
-шарманка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шарманка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,10 +30,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-играть на шарманке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть на шарманке</text></cit>
 </sense>
 <sense>
-играть без души (на пианино и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть без души (на пианино и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

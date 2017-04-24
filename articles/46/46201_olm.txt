@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">olm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> протей европейский
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протей европейский</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,13 @@
 <form>
 <orth type="lemma">olm</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-злой, свирепый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злой, свирепый</text></cit>
 </sense>
 <sense>
-разъярённый, взбешённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разъярённый, взбешённый</text></cit>
 </sense>
 </entry>
 </superEntry>

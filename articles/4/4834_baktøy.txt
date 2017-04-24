@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">baktøy</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>авт.</u> задний мост в сборе
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задний мост в сборе</text></cit>
 </sense>
 </entry>
 </superEntry>

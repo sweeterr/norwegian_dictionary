@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">serum</orth>
 <inflection><orth extent="part">-umet, -а</orth></inflection>
-<u>мед.</u> лечебная сыворотка, вакцина
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечебная сыворотка, вакцина</text></cit>
 </sense>
 </entry>
 </superEntry>

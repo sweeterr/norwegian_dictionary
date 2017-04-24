@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-винт, шуруп, болт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винт, шуруп, болт</text></cit>
 <сit type="example"><text>dobbeltgjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с двухходовой нарезкой</text></cit></cit>
 <сit type="example"><text>endeløs skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесконечный винт, шнек</text></cit></cit>
 <сit type="example"><text>flergjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многониточный (многооборотный) винт</text></cit></cit>
@@ -19,19 +19,21 @@
 <сit type="example"><text>venstregjenget skrue</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>винт с левой нарезкой</text></cit></cit>
 </sense>
 <sense>
-регулировочный (установочный) винт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регулировочный (установочный) винт</text></cit>
 </sense>
 <sense>
-винтовой стул, стул на винте
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винтовой стул, стул на винте</text></cit>
 </sense>
 <sense>
-движение по спирали
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение по спирали</text></cit>
 </sense>
 <sense>
-<u>разг.</u> оригинал, чудак, человек со странностями
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оригинал, чудак, человек со странностями</text></cit>
 </sense>
 <sense>
-<u>мор.</u> гребной винт, <u>ав.</u> пропеллер
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гребной винт, <lbl>ав.</lbl> пропеллер</text></cit>
 <сit type="example"><text>han har en skrue løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> у него не хватает винтика в голове</text></cit></cit>
 <сit type="example"><text>sette sine ord på skruer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выражаться витиевато (двусмысленно)</text></cit></cit>
 </sense>
@@ -43,17 +45,17 @@
 <inflection><orth extent="part">-dde (-et), -dd (-et)</orth></inflection>
 </form>
 <sense>
-привинчивать, завинчивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привинчивать, завинчивать</text></cit>
 отвинчивать (от чего-л. - fra)
 </sense>
 <sense>
-устанавливать (подкручивать) регулировочный винт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать (подкручивать) регулировочный винт</text></cit>
 </sense>
 <sense>
-сообщать вращательное движение (пуле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообщать вращательное движение (пуле)</text></cit>
 </sense>
 <sense>
-(тж. skrue opp) громоздиться, нагромождаться (о льдинах, айсбергах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(тж. skrue opp) громоздиться, нагромождаться (о льдинах, айсбергах)</text></cit>
 <сit type = "example"><text>skrue av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отвинчивать</text></cit></cit>
 <сit type = "example"><text>skrue av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выключать (радио)</text></cit></cit>
 <сit type="example"><text>skrue fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко привинтить</text></cit></cit>

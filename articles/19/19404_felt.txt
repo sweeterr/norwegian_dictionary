@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">felt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-поход, кампания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поход, кампания</text></cit>
 <сit type="example"><text>dra i felten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать в поход, идти на войну</text></cit></cit>
 <сit type="example"><text>dra til felts mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступить против (кого-л.), начать полемику</text></cit></cit>
 <сit type="example"><text>ligge (være) i felten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в походе</text></cit></cit>
@@ -18,25 +18,25 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-поле, пашня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле, пашня</text></cit>
 </sense>
 <sense>
-равнина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнина</text></cit>
 </sense>
 <sense>
-поле, квадрат (на игральной доске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле, квадрат (на игральной доске)</text></cit>
 </sense>
 <sense>
-область, местность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>область, местность</text></cit>
 </sense>
 <sense>
-поприще, область знания
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поприще, область знания</text></cit>
 </sense>
 <sense>
-поле (на гербах), <u>физ.</u> поле (магнитное, электрическое, тяготения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле (на гербах), <lbl>физ.</lbl> поле (магнитное, электрическое, тяготения)</text></cit>
 </sense>
 <sense>
-заезд (в скачках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заезд (в скачках)</text></cit>
 </sense>
 </entry>
 </superEntry>

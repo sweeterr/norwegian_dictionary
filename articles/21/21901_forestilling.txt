@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-представление, понятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>представление, понятие</text></cit>
 </sense>
 <sense>
-<u>театр.</u> спектакль, сеанс (в кино)
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спектакль, сеанс (в кино)</text></cit>
 <сit type="example"><text>forestillingen er utsolgt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все билеты на спектакль распроданы</text></cit></cit>
 </sense>
 <sense>
-<u>шутл.</u> комедия, церемония
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комедия, церемония</text></cit>
 </sense>
 <sense>
-предостережение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предостережение</text></cit>
 </sense>
 </entry>
 </superEntry>

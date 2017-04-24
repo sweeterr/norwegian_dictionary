@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">inegal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неравный, неодинаковый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неравный, неодинаковый</text></cit>
 </sense>
 </entry>
 </superEntry>

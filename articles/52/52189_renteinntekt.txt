@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">renteinntekt</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>фин.</u> доход в виде процентов с капитала
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доход в виде процентов с капитала</text></cit>
 </sense>
 </entry>
 </superEntry>

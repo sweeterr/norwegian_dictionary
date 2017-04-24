@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vanrådd</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-необеспеченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необеспеченный</text></cit>
 </sense>
 <sense>
-находящийся в затруднительном положении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находящийся в затруднительном положении</text></cit>
 </sense>
 </entry>
 </superEntry>

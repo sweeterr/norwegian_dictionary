@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">borgerskole</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>ист.</u>
+<usg>ист.</usg>
 </form>
 <sense>
-коммерческое училище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коммерческое училище</text></cit>
 </sense>
 <sense>
-городская школа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городская школа</text></cit>
 </sense>
 </entry>
 </superEntry>

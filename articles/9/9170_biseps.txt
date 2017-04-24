@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">biseps</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>анат.</u> бицепс, двуглавая мышца
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бицепс, двуглавая мышца</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utviklingslære</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>биол.</u> теория эволюции
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теория эволюции</text></cit>
 </sense>
 </entry>
 </superEntry>

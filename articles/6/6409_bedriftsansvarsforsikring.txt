@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bedriftsansvarsforsikring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>экон.</u> ответственность за убытки потребителей
+<usg>экон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ответственность за убытки потребителей</text></cit>
 </sense>
 </entry>
 </superEntry>

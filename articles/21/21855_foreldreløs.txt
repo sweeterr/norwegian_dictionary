@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">foreldreløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-без родителей, сирота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без родителей, сирота</text></cit>
 </sense>
 </entry>
 </superEntry>

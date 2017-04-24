@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">jovial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-весёлый, жизнерадостный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый, жизнерадостный</text></cit>
 </sense>
 <sense>
-приветливый, дружелюбный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приветливый, дружелюбный</text></cit>
 </sense>
 </entry>
 </superEntry>

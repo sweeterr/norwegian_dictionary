@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aerodrom</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>редко</u> аэродром
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аэродром</text></cit>
 </sense>
 </entry>
 </superEntry>

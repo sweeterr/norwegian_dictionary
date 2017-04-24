@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tine</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-деревянная коробочка (круглая или овальная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная коробочка (круглая или овальная)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-таять, стаивать (о снеге, льде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таять, стаивать (о снеге, льде)</text></cit>
 </sense>
 <sense>
-оттаивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оттаивать</text></cit>
 </sense>
 <sense>
-растапливать (снег, лёд)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растапливать (снег, лёд)</text></cit>
 </sense>
 <sense>
-отогревать (замёрзшие трубы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отогревать (замёрзшие трубы)</text></cit>
 <сit type="example"><text>tine av, tine bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стаять</text></cit></cit>
 <сit type="example"><text>tine opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оттаять <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
@@ -34,7 +34,7 @@
 <form>
 <orth type="lemma">tine</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-выбирать рыбу из сети
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбирать рыбу из сети</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-первоначальная форма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первоначальная форма</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> исходная (реконструируемая) форма
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исходная (реконструируемая) форма</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> простая форма (в отличие от производных и составных слов)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простая форма (в отличие от производных и составных слов)</text></cit>
 </sense>
 </entry>
 </superEntry>

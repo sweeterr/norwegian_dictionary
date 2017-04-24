@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vårstemt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-весенний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весенний</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vårstemt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-по-весеннему
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>по-весеннему</text></cit>
 </sense>
 </entry>
 </superEntry>

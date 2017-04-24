@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mannhaftighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> мужественность
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мужественность</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">følgekompass</orth>
 <inflection><orth extent="part">-et (-en), -er</orth></inflection>
-<u>мор.</u> репитер компаса
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>репитер компаса</text></cit>
 </sense>
 </entry>
 </superEntry>

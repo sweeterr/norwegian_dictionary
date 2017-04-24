@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skruegjenge</orth>
 <inflection><orth extent="part">-n (-t), -r</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-винтовая нарезка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винтовая нарезка</text></cit>
 </sense>
 <sense>
-шаг винта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаг винта</text></cit>
 </sense>
 </entry>
 </superEntry>

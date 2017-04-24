@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fiolett</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-фиолетовый цвет, фиолетовая краска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фиолетовый цвет, фиолетовая краска</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">fiolett</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-фиолетовый, сиреневый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фиолетовый, сиреневый</text></cit>
 </sense>
 </entry>
 </superEntry>

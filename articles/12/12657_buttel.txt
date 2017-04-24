@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">buttel</orth>
 <inflection><orth extent="part">-telen, -ler</orth></inflection>
-<u>разг.</u> бутылка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутылка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-извне, снаружи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извне, снаружи</text></cit>
 </sense>
 <sense>
-из-за границы (рубежа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>из-за границы (рубежа)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">utefra</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-со стороны, с, из
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>со стороны, с, из</text></cit>
 </sense>
 </entry>
 </superEntry>

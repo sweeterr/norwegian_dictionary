@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">brudefart</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>этн.</u> <u>уст.</u> переезд невесты в дом жениха
+<usg>этн.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переезд невесты в дом жениха</text></cit>
 </sense>
 </entry>
 </superEntry>

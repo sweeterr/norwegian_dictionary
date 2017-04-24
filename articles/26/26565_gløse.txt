@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">gløse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-освещать, светить красным светом, давать красноватый отблеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>освещать, светить красным светом, давать красноватый отблеск</text></cit>
 </sense>
 <sense>
-уставиться, глазеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уставиться, глазеть</text></cit>
 </sense>
 </entry>
 </superEntry>

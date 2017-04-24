@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vase</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-ваза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ваза</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,18 +15,18 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-путаница, неразбериха, беспорядок, мешанина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путаница, неразбериха, беспорядок, мешанина</text></cit>
 <сit type="example"><text>komme i vase</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спутаться, запутаться, приходить в беспорядок, смешаться</text></cit></cit>
 </sense>
 <sense>
-куча, масса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча, масса</text></cit>
 <сit type="example"><text>hele vasen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> всё «хозяйство»</text></cit></cit>
 </sense>
 <sense>
-нагромождение, затор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагромождение, затор</text></cit>
 </sense>
 <sense>
-столпотворение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столпотворение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,21 +36,21 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-спутывать, перепутывать (нитки, сеть и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутывать, перепутывать (нитки, сеть и т. п.)</text></cit>
 <сit type = "example"><text>vase seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> застрять</text></cit></cit>
 <сit type = "example"><text>vase seg fast :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> попасть в неприятности</text></cit></cit>
 </sense>
 <sense>
-метаться взад и вперёд, бросаться из стороны в сторону
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метаться взад и вперёд, бросаться из стороны в сторону</text></cit>
 </sense>
 <sense>
-толпиться, собраться, сбиваться в кучу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпиться, собраться, сбиваться в кучу</text></cit>
 </sense>
 <sense>
-брести, плестись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брести, плестись</text></cit>
 </sense>
 <sense>
-болтать вздор, говорить глупости, нести чепуху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтать вздор, говорить глупости, нести чепуху</text></cit>
 </sense>
 </entry>
 </superEntry>

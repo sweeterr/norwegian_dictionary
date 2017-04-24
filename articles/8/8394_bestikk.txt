@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-набор, комплект (чертёжных, медицинских инструментов и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набор, комплект (чертёжных, медицинских инструментов и т. п.)</text></cit>
 </sense>
 <sense>
-столовый прибор (комплект ножей, вилок и ложек)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>столовый прибор (комплект ножей, вилок и ложек)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">bestikk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> счисление, определение места корабля
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>счисление, определение места корабля</text></cit>
 <сit type="example"><text>gjøre opp bestikket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устанавливать координаты</text></cit></cit>
 <сit type="example"><text>gjøre opp sitt bestikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взвесить все за и против</text></cit></cit>
 </sense>

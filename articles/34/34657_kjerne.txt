@@ -7,29 +7,32 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-зерно, зёрнышко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зерно, зёрнышко</text></cit>
 </sense>
 <sense>
-ядро, ядрышко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ядро, ядрышко</text></cit>
 </sense>
 <sense>
-сущность, существо вопроса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сущность, существо вопроса</text></cit>
 <сit type="example"><text>den rasjonelle kjerne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рациональное зерно</text></cit></cit>
 </sense>
 <sense>
-сердцевина (дерева)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердцевина (дерева)</text></cit>
 </sense>
 <sense>
-костяк, ядро (партии, организации и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костяк, ядро (партии, организации и т. п.)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> стержень (при отливке); сердечник (магнита)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стержень (при отливке); сердечник (магнита)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> ядро (атома)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ядро (атома)</text></cit>
 </sense>
 <sense>
-<u>астр.</u> голова кометы
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голова кометы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +40,7 @@
 <form>
 <orth type="lemma">kjerne</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-маслобойка (сосуд)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маслобойка (сосуд)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -45,7 +48,7 @@
 <form>
 <orth type="lemma">kjerne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-сбивать масло
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сбивать масло</text></cit>
 </sense>
 </entry>
 </superEntry>

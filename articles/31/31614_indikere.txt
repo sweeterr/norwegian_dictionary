@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">indikere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-показывать, указывать (мощность машины на приборе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>показывать, указывать (мощность машины на приборе)</text></cit>
 </sense>
 <sense>
-развивать (какую-л. мощность)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развивать (какую-л. мощность)</text></cit>
 </sense>
 </entry>
 </superEntry>

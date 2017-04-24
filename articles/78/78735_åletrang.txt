@@ -5,13 +5,12 @@
 <form>
 <orth type="lemma">åletrang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(об одежде) облегающий</quote>
+<text>(об одежде) облегающий</text>
 </cit>
 </sense>
 </entry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">manuell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-ручной, обслуживаемый вручную
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручной, обслуживаемый вручную</text></cit>
 </sense>
 </entry>
 </superEntry>

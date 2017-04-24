@@ -7,7 +7,7 @@
 <inflection><orth>rota (roten), røtter</orth></inflection>
 </form>
 <sense>
-корень, корешок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корень, корешок</text></cit>
 <сit type="example"><text>fra rot til topp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снизу доверху</text></cit></cit>
 <сit type="example"><text>fra topp til rot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сверху донизу</text></cit></cit>
 <сit type="example"><text>på rot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на корню</text></cit></cit>
@@ -19,19 +19,22 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-клубни, коренья (некоторых корнеплодов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клубни, коренья (некоторых корнеплодов)</text></cit>
 </sense>
 <sense>
-причина, источник, исходный пункт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причина, источник, исходный пункт</text></cit>
 </sense>
 <sense>
-<u>редко</u> подножие горы, основание (мачты, столба)
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подножие горы, основание (мачты, столба)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> корень (слова)
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корень (слова)</text></cit>
 </sense>
 <sense>
-<u>мат.</u> корень
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корень</text></cit>
 <сit type="example"><text>utdra (kvadrat) roten av et tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извлекать (квадратный) корень из числа</text></cit></cit>
 </sense>
 </entry>
@@ -40,13 +43,13 @@
 <form>
 <orth type="lemma">rot</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-чердак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чердак</text></cit>
 </sense>
 <sense>
-запас продовольствия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запас продовольствия</text></cit>
 </sense>
 </entry>
 <entry>
@@ -54,7 +57,7 @@
 <form>
 <orth type="lemma">rot</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-беспорядок, путаница, сумятица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, путаница, сумятица</text></cit>
 </sense>
 </entry>
 </superEntry>

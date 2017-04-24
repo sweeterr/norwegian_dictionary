@@ -7,20 +7,20 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-кормить, питать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормить, питать</text></cit>
 <сit type="example"><text>nære seg av (på) noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питаться чем-л., жить чем-л., существовать на что-л.</text></cit></cit>
 </sense>
 <sense>
-прокормить (о земле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокормить (о земле)</text></cit>
 </sense>
 <sense>
-питать (злобу, ненависть, вражду, надежду и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питать (злобу, ненависть, вражду, надежду и т. п.)</text></cit>
 </sense>
 <sense>
-давать пищу (фантазии, слухам, злобе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать пищу (фантазии, слухам, злобе и т. п.)</text></cit>
 </sense>
 <sense>
-поддерживать (горение, тепло)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддерживать (горение, тепло)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +28,9 @@
 <form>
 <orth type="lemma">nære</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> <u>диал.</u> поблизости, неподалёку
+<usg>разг.</usg>
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поблизости, неподалёку</text></cit>
 <сit type="example"><text>nære på (ved)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чуть не, почти что</text></cit></cit>
 </sense>
 </entry>

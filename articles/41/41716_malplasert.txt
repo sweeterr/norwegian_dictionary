@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">malplasert</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u> неуместный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуместный</text></cit>
 </sense>
 </entry>
 </superEntry>

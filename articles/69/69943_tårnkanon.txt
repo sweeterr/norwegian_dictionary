@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tårnkanon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> башенная артиллерийская установка
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>башенная артиллерийская установка</text></cit>
 </sense>
 </entry>
 </superEntry>

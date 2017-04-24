@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">strevsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-старательный, прилежный, усердный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старательный, прилежный, усердный</text></cit>
 </sense>
 <sense>
-работящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работящий</text></cit>
 </sense>
 <sense>
-изнурительный, утомительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изнурительный, утомительный</text></cit>
 </sense>
 </entry>
 </superEntry>

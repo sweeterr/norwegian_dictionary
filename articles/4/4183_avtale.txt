@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">avtale</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-договор; договорённость, соглашение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>договор; договорённость, соглашение</text></cit>
 <сit type="example"><text>bryte en avtale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нарушить договор</text></cit></cit>
 <сit type="example"><text>slutte en avtale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключить договор (соглашение)</text></cit></cit>
 <сit type="example"><text>treffe en avtale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключить договор</text></cit></cit>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">avtale</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-договориться, прийти к соглашению; сговориться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>договориться, прийти к соглашению; сговориться</text></cit>
 </sense>
 </entry>
 </superEntry>

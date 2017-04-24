@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">amortisasjonsfond</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>бухг.</u> амортизационный фонд
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амортизационный фонд</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-теряться, исчезать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теряться, исчезать</text></cit>
 </sense>
 <sense>
-<u>уст.</u> <u>поэт.</u> неясно вырисовываться (виднеться)
+<usg>уст.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неясно вырисовываться (виднеться)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +20,7 @@
 <form>
 <orth type="lemma">fortone</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-перекладывать на музыку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекладывать на музыку</text></cit>
 </sense>
 </entry>
 </superEntry>

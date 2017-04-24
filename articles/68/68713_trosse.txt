@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trosse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-трос, канат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трос, канат</text></cit>
 <сit type="example"><text>la gå en trosse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> отдать (отпустить) трос</text></cit></cit>
 </sense>
 </entry>
@@ -16,13 +16,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-противиться, упорствовать, не слушаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противиться, упорствовать, не слушаться</text></cit>
 </sense>
 <sense>
-пренебрегать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пренебрегать</text></cit>
 </sense>
 <sense>
-не поддаваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не поддаваться</text></cit>
 <сit type="example"><text>trosse enhver beskrivelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не поддаваться никакому описанию</text></cit></cit>
 </sense>
 </entry>

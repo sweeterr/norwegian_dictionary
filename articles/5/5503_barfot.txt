@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">barfot</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-(тк. 
-<gramGrp><pos>predic</pos></gramGrp>
- ) см. barfotet
+<gramGrp><pos>predic</pos><note>тк.</note></gramGrp>
+<ref>barfotet</ref>
 </sense>
 </entry>
 </superEntry>

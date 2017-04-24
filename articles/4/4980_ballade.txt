@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ballade</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-баллада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баллада</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">ballade</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> скандал, шум, гам
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скандал, шум, гам</text></cit>
 <сit type="example"><text>lage ballade</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скандалить</text></cit></cit>
 </sense>
 </entry>

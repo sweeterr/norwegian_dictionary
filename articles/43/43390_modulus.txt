@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">modulus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мат.</u> модуль
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>модуль</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dragemåned</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>астр.</u> лунный месяц (= 27,21 дня)
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лунный месяц (= 27,21 дня)</text></cit>
 </sense>
 </entry>
 </superEntry>

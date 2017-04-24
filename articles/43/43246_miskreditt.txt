@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">miskreditt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-недоверие, компрометация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недоверие, компрометация</text></cit>
 <сit type="example"><text>bringe i miskreditt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скомпрометировать</text></cit></cit>
 <сit type="example"><text>komme(være) i miskreditt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказаться (быть)скомпрометированным</text></cit></cit>
 </sense>

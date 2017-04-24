@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">døv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глухой, оглохший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глухой, оглохший</text></cit>
 </sense>
 <sense>
-нечувствительный, невосприимчивый (к чему-л. - for); неподдающийся (на уговоры)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечувствительный, невосприимчивый (к чему-л. - for); неподдающийся (на уговоры)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> тупой (о лезвии, игле)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупой (о лезвии, игле)</text></cit>
 </sense>
 </entry>
 </superEntry>

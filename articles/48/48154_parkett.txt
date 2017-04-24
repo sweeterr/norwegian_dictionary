@@ -7,12 +7,14 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-паркет, паркетный пол
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паркет, паркетный пол</text></cit>
 <сit type="example"><text>bone parkettet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>натирать паркет</text></cit></cit>
 </sense>
 <sense>
-<u>театр.</u> партер (средние ряды)
-<u>собир.</u> зрители средних рядов партера
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партер (средние ряды)</text></cit>
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрители средних рядов партера</text></cit>
 </sense>
 </entry>
 </superEntry>

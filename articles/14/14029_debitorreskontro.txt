@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">debitorreskontro</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бухг.</u> книга дебиторов (продаж) (бухгалтерская книга, в которой содержатся счета клиентов организации)
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга дебиторов (продаж) (бухгалтерская книга, в которой содержатся счета клиентов организации)</text></cit>
 </sense>
 </entry>
 </superEntry>

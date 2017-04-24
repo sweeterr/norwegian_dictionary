@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dialektforskning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-диалектология
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диалектология</text></cit>
 </sense>
 </entry>
 </superEntry>

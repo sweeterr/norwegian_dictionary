@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-народ, народные массы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народ, народные массы</text></cit>
 <сit type="example"><text>det arbeidende folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трудящиеся</text></cit></cit>
 <сit type="example"><text>bedre folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знатные люди</text></cit></cit>
 <сit type="example"><text>farende(s) folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>едущие, путешественники, странники</text></cit></cit>
@@ -18,11 +18,11 @@
 <сit type="example"><text>komme av folket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выйти из народа</text></cit></cit>
 </sense>
 <sense>
-нация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нация</text></cit>
 <сit type="example"><text>det norske folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская нация, норвежцы</text></cit></cit>
 </sense>
 <sense>
-люди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>люди</text></cit>
 <сit type="example"><text>godt folk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>люди добрые (обращение)</text></cit></cit>
 <сit type="example"><text>folk sier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорят</text></cit></cit>
 <сit type="example"><text>hilse på folk i huset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(по)здороваться с домашними</text></cit></cit>

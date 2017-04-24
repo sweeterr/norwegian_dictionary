@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tutle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-копаться, рыться, шарить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копаться, рыться, шарить</text></cit>
 </sense>
 <sense>
-семенить, трусить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>семенить, трусить</text></cit>
 <сit type="example"><text>tutle inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>входить мелкими шагами</text></cit></cit>
 <сit type="example"><text>tutle ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выходить мелкими шагами</text></cit></cit>
 </sense>

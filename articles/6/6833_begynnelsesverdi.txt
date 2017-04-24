@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">begynnelsesverdi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>матем.</u> начальное значение, начальная величина
+<usg>матем.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальное значение, начальная величина</text></cit>
 </sense>
 </entry>
 </superEntry>

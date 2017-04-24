@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">åremål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-известное количество лет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>известное количество лет</text></cit>
 <сit type="example"><text>på åremål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по соглашению на определённое число лет</text></cit></cit>
 </sense>
 </entry>

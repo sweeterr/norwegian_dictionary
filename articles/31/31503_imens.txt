@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">imens</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-тем временем, между тем, пока что
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тем временем, между тем, пока что</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">imens</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-в то время как
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в то время как</text></cit>
 </sense>
 </entry>
 </superEntry>

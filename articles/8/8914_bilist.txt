@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-автомобилист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автомобилист</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> автогонщик
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автогонщик</text></cit>
 </sense>
 </entry>
 </superEntry>

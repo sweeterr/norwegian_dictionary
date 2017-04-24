@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-отведение, отвод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отведение, отвод</text></cit>
 </sense>
 <sense>
-<u>эл.</u> утечка тока
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утечка тока</text></cit>
 </sense>
 <sense>
-<u>эл.</u> заземление
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заземление</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> производное слово
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производное слово</text></cit>
 </sense>
 </entry>
 </superEntry>

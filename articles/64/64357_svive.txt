@@ -13,15 +13,15 @@
 <form>
 <orth type="lemma">svive</orth>
 <inflection><orth>sve(i)v, svivd</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вертеться, кружиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертеться, кружиться</text></cit>
 <сit type="example"><text>det sviver og går</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дела идут</text></cit></cit>
 <сit type="example"><text>svive om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>касаться чего-л. (о разговоре)</text></cit></cit>
 </sense>
 <sense>
-плыть, проплывать по воздуху
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, проплывать по воздуху</text></cit>
 <сit type="example"><text>svive for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смутно представляться</text></cit></cit>
 <сit type="example"><text>svive én i hugen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приходить кому-л. на ум (на память)</text></cit></cit>
 </sense>

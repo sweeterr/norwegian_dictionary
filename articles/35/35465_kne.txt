@@ -7,20 +7,21 @@
 <inflection><orth>kneet, knær</orth></inflection>
 </form>
 <sense>
-колено
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено</text></cit>
 <сit type="example"><text>i kne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на коленях, на колени</text></cit></cit>
-<сit type = "example"><text>bøye kne for Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> преклонить колени перед кем-л.</text></cit></cit>
-<сit type = "example"><text>bøye kne for Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> унижаться перед кем-л.</text></cit></cit>
+<сit type = "example"><text>bøye kne for Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> преклонить колени перед кем-л.</text></cit></cit>
+<сit type = "example"><text>bøye kne for Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> унижаться перед кем-л.</text></cit></cit>
 <сit type="example"><text>alle på kne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть на колени</text></cit></cit>
 </sense>
 <sense>
-изгиб (фиорда, реки, ложбины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изгиб (фиорда, реки, ложбины)</text></cit>
 </sense>
 <sense>
-колено (трубы, дымохода)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колено (трубы, дымохода)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> кривошип, коленчатое соединение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кривошип, коленчатое соединение</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vannblande</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-напиток с водой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напиток с водой</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">vannblande</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-смешивать с водой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смешивать с водой</text></cit>
 </sense>
 </entry>
 </superEntry>

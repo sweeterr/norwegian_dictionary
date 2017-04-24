@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ekstrakter</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>воен.</u> экстрактор, выбрасыватель
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экстрактор, выбрасыватель</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ballastmotstand</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эл.</u> балластное сопротивление
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балластное сопротивление</text></cit>
 </sense>
 </entry>
 </superEntry>

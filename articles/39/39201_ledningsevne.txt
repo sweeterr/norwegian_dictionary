@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-проводимость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводимость</text></cit>
 </sense>
 <sense>
-<u>физ.</u> электропроводность
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электропроводность</text></cit>
 </sense>
 <sense>
-<u>физ.</u> теплопроводность
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплопроводность</text></cit>
 </sense>
 </entry>
 </superEntry>

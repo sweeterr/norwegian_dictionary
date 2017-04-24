@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">åtte</orth>
 <gramGrp><pos>num</pos></gramGrp>
- восемь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>восемь</text></cit>
 <сit type="example"><text>om åtte dager</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через неделю</text></cit></cit>
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <index></index>
 <form>
 <orth type="lemma">åtte</orth>
-<u>диал.</u> 
+<usg>диал.</usg>
 <gramGrp><tns>pret</tns><note>от eie II</note></gramGrp>
 </sense>
 </entry>

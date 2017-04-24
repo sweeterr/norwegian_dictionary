@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">krus</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-кружка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кружка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-завивка (причёска), кудри, локоны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завивка (причёска), кудри, локоны</text></cit>
 </sense>
 <sense>
-льстивые слова, комплименты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льстивые слова, комплименты</text></cit>
 <сit type="example"><text>gjøre krus for (av) én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>восхвалять кого-л.</text></cit></cit>
 </sense>
 </entry>

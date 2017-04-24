@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-желобок, канавка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желобок, канавка</text></cit>
 </sense>
 <sense>
-сток (с крыши), водосточная труба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сток (с крыши), водосточная труба</text></cit>
 </sense>
 <sense>
-подземный сток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подземный сток</text></cit>
 </sense>
 <sense>
-<u>мор.</u> фарватер
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фарватер</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,30 +27,30 @@
 <inflection><orth>rant (rann), rent (runnet)</orth></inflection>
 </form>
 <sense>
-течь, протекать (мимо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, протекать (мимо)</text></cit>
 <сit type="example"><text>renne full</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наполниться</text></cit></cit>
 <сit type="example"><text>renne tom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>опоражниваться</text></cit></cit>
 </sense>
 <sense>
-протекать, течь (о сосуде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протекать, течь (о сосуде)</text></cit>
 </sense>
 <sense>
-лить в три ручья (о поте), струиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лить в три ручья (о поте), струиться</text></cit>
 </sense>
 <sense>
-бегать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бегать</text></cit>
 <сit type="example"><text>renne etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бегать за кем-л., гоняться за кем, чем-л.</text></cit></cit>
 <сit type="example"><text>komme rennende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прибежать</text></cit></cit>
 <сit type="example"><text>renne sin vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>улизнуть</text></cit></cit>
 </sense>
 <sense>
-кататься (на санках, коньках), ходить (на лыжах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кататься (на санках, коньках), ходить (на лыжах)</text></cit>
 </sense>
 <sense>
-мчаться, лететь, катиться (о средствах передвижения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мчаться, лететь, катиться (о средствах передвижения)</text></cit>
 </sense>
 <sense>
-renne i senk <u>мор.</u> пустить ко дну
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>renne i senk <lbl>мор.</lbl> пустить ко дну</text></cit>
 <сit type="example"><text>renneover</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>течь через край</text></cit></cit>
 <сit type = "example"><text>renne ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вытекать</text></cit></cit>
 <сit type = "example"><text>renne ut :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> выбежать</text></cit></cit>
@@ -62,28 +63,28 @@ renne i senk <u>мор.</u> пустить ко дну
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-лить, выливать, наливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лить, выливать, наливать</text></cit>
 </sense>
 <sense>
-наматывать (нитки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наматывать (нитки)</text></cit>
 </sense>
 <sense>
-вонзить, всадить (нож, саблю)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вонзить, всадить (нож, саблю)</text></cit>
 </sense>
 <sense>
-налететь (на что-л.), удариться (обо что-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>налететь (на что-л.), удариться (обо что-л. - mot)</text></cit>
 </sense>
 <sense>
-транспортировать по канатной дороге, спускать по канату (с гор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>транспортировать по канатной дороге, спускать по канату (с гор)</text></cit>
 </sense>
 <sense>
-слезиться (о глазах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слезиться (о глазах)</text></cit>
 </sense>
 <sense>
-охватывать (о чувстве, настроении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охватывать (о чувстве, настроении)</text></cit>
 </sense>
 <sense>
-прорастать, расти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорастать, расти</text></cit>
 <сit type="example"><text>renne opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подняться над горизонтом (о солнце)</text></cit></cit>
 </sense>
 </entry>

@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-браковать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>браковать</text></cit>
 </sense>
 <sense>
-сортировать (рыбу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сортировать (рыбу)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> вылавливать (собирать) плавник (древесину, обломки крушения)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вылавливать (собирать) плавник (древесину, обломки крушения)</text></cit>
 </sense>
 <sense>
-отвергать, отказываться (от приглашения, подарков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвергать, отказываться (от приглашения, подарков)</text></cit>
 </sense>
 <sense>
-отказывать (жениху)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отказывать (жениху)</text></cit>
 <сit type = "example"><text>vrake unna :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> устранять</text></cit></cit>
 <сit type = "example"><text>vrake unna :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отбрасывать в сторону (как бракованное)</text></cit></cit>
 </sense>

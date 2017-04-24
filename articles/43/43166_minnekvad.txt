@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">minnekvad</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u> песнь, посвященная памяти события (человека)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>песнь, посвященная памяти события (человека)</text></cit>
 </sense>
 </entry>
 </superEntry>

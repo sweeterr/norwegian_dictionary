@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">middagsbord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-стол, накрытый к обеду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стол, накрытый к обеду</text></cit>
 <сit type="example"><text>sitte ved middagsbordet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обедать</text></cit></cit>
 </sense>
 </entry>

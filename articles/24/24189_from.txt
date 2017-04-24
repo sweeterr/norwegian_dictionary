@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">from</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-кроткий, мягкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кроткий, мягкий</text></cit>
 </sense>
 <sense>
-богобоязненный, покорный, смиренный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богобоязненный, покорный, смиренный</text></cit>
 </sense>
 <sense>
-смирный (о лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смирный (о лошади)</text></cit>
 </sense>
 </entry>
 </superEntry>

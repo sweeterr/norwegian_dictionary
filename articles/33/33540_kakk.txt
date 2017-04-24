@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kakk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> деревянная бадейка, деревянное ведёрко
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная бадейка, деревянное ведёрко</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">kakk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-стук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стук</text></cit>
 </sense>
 </entry>
 </superEntry>

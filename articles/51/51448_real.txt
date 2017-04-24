@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">real</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>школ.</u> <u>разг.</u> реальный класс (в гимназии
+<usg>школ.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальный класс (в гимназии</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,26 +15,25 @@
 <form>
 <orth type="lemma">real</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-реальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальный</text></cit>
 </sense>
 <sense>
-фактический, действительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фактический, действительный</text></cit>
 </sense>
 <sense>
-вещественный (о смысле, значении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вещественный (о смысле, значении)</text></cit>
 </sense>
 <sense>
-деловой, трезво-практический (о взгляде на жизнь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деловой, трезво-практический (о взгляде на жизнь)</text></cit>
 </sense>
 <sense>
-жизненный, действенный, сильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизненный, действенный, сильный</text></cit>
 </sense>
 <sense>
-естественный (о науке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>естественный (о науке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -42,10 +43,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-настоящий, пригодный, подходящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий, пригодный, подходящий</text></cit>
 </sense>
 <sense>
-честный, порядочный (о людях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>честный, порядочный (о людях)</text></cit>
 </sense>
 </entry>
 </superEntry>

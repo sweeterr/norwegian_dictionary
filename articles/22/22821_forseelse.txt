@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-проступок, провинность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проступок, провинность</text></cit>
 <сit type="example"><text>begå en forseelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провиниться (перед кем-л. - mot), совершить ошибку (проступок)</text></cit></cit>
 <сit type="example"><text>gjøre en forseelse god igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправить ошибку</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> нарушение правил, ошибка (в игре)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарушение правил, ошибка (в игре)</text></cit>
 </sense>
 </entry>
 </superEntry>

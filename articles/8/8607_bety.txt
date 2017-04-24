@@ -4,19 +4,19 @@
 <index></index>
 <form>
 <orth type="lemma">bety</orth>
-<inflection><orth extent="part">-dde, -dd (<u>уст.</u> -dt)</orth></inflection>
+<inflection><orth extent="part">-dde, -dd (<lbl>уст.</lbl> -dt)</orth></inflection>
 </form>
 <sense>
-значить, означать, иметь значение, обозначать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значить, означать, иметь значение, обозначать</text></cit>
 <сit type="example"><text>hva skal dette bety?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что это значит?</text></cit></cit>
 <сit type="example"><text>det har ikke noe å bety</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не имеет никакого значения, это не важно</text></cit></cit>
 </sense>
 <sense>
-предвещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвещать</text></cit>
 <сit type="example"><text>det betyr ikke noe godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это не предвещает ничего хорошего</text></cit></cit>
 </sense>
 <sense>
-играть роль, иметь значение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть роль, иметь значение</text></cit>
 </sense>
 </entry>
 </superEntry>

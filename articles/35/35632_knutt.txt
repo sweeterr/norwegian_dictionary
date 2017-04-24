@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кнут
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кнут</text></cit>
 <сit type="example"><text>få knutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить удар кнутом</text></cit></cit>
 <сit type="example"><text>gi knutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бить кнутом</text></cit></cit>
 </sense>

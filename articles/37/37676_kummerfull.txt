@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">kummerfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тягостный, грустный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тягостный, грустный</text></cit>
 </sense>
 <sense>
-жалкий, нищенский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалкий, нищенский</text></cit>
 </sense>
 <sense>
-печальный, унылый (о выражении лица)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печальный, унылый (о выражении лица)</text></cit>
 </sense>
 </entry>
 </superEntry>

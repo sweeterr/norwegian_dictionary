@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">banzai</orth>
 <gramGrp><pos>int</pos></gramGrp>
-банзай! ура!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банзай! ура!</text></cit>
 </sense>
 </entry>
 </superEntry>

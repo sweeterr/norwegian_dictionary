@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">persok</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> Петров день (29 июня)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Петров день (29 июня)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bibelord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-библейское слово
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>библейское слово</text></cit>
 </sense>
 </entry>
 </superEntry>

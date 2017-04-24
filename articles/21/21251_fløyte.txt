@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>муз.</u> флейта
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флейта</text></cit>
 <сit type="example"><text>blåse fløyte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на флейте</text></cit></cit>
 </sense>
 <sense>
-свисток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свисток</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,8 @@
 <form>
 <orth type="lemma">fløyte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> снимать сливки с молока
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимать сливки с молока</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +29,7 @@
 <form>
 <orth type="lemma">fløyte</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-сплавлять лес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплавлять лес</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,10 +39,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-свистеть в свисток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свистеть в свисток</text></cit>
 </sense>
 <sense>
-насвистывать, свистеть (о птице, человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насвистывать, свистеть (о птице, человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

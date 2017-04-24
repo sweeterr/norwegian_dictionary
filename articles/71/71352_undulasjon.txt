@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">undulasjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> волнообразное движение (колебание)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнообразное движение (колебание)</text></cit>
 </sense>
 </entry>
 </superEntry>

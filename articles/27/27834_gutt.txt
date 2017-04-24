@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-мальчик, подросток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мальчик, подросток</text></cit>
 </sense>
 <sense>
-<u>разг.</u> сын
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сын</text></cit>
 </sense>
 <sense>
-молодой человек (тж. в обращении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодой человек (тж. в обращении)</text></cit>
 <сit type="example"><text>han er gutten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он ловкий парень</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> холостяк
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холостяк</text></cit>
 </sense>
 </entry>
 </superEntry>

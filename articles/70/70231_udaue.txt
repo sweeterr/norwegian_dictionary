@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">udaue</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-насильственная смерть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насильственная смерть</text></cit>
 </sense>
 <sense>
-<u>мор.</u> поветрие
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поветрие</text></cit>
 </sense>
 </entry>
 </superEntry>

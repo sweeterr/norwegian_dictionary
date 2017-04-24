@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mager</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-маг, волшебник, звездочёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маг, волшебник, звездочёт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,20 +13,20 @@
 <form>
 <orth type="lemma">mager</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-худой, тощий, костлявый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>худой, тощий, костлявый</text></cit>
 </sense>
 <sense>
-постный, нежирный (о мясе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постный, нежирный (о мясе)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> невыгодный (о деле, предприятии)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыгодный (о деле, предприятии)</text></cit>
 </sense>
 <sense>
-неплодородный (о земле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неплодородный (о земле)</text></cit>
 </sense>
 </entry>
 </superEntry>

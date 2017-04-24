@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skruetvinge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> струбцинка, винтовой зажим
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струбцинка, винтовой зажим</text></cit>
 </sense>
 </entry>
 </superEntry>

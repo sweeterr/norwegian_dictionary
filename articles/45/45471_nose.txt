@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">nose</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-обнюхивать (о животном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обнюхивать (о животном)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> разнюхивать, разузнавать
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разнюхивать, разузнавать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pelsmøll</orth>
 <inflection><orth extent="part">-en (-et), =</orth></inflection>
-<u>зоол.</u> моль шубная
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моль шубная</text></cit>
 </sense>
 </entry>
 </superEntry>

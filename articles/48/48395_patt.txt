@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">patt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>шахм.</u> пат
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пат</text></cit>
 <сit type="example"><text>gjøre (sette) kongen patt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать пат</text></cit></cit>
 </sense>
 </entry>

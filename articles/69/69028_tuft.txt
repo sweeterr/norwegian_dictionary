@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-участок, площадка (для строительства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участок, площадка (для строительства)</text></cit>
 </sense>
 <sense>
-помещение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,8 @@
 <form>
 <orth type="lemma">tuft</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> гном, карлик
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гном, карлик</text></cit>
 </sense>
 </entry>
 </superEntry>

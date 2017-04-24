@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jordfræser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>с.-х.</u> самоходный рыхлитель
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самоходный рыхлитель</text></cit>
 </sense>
 </entry>
 </superEntry>

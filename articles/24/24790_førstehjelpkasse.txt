@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">førstehjelpkasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мед.</u> аптечка первой помощи
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аптечка первой помощи</text></cit>
 </sense>
 </entry>
 </superEntry>

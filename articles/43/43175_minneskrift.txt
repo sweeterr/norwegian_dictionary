@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">minneskrift</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-надгробная надпись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надгробная надпись</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">minneskrift</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-юбилейный сборник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юбилейный сборник</text></cit>
 </sense>
 </entry>
 </superEntry>

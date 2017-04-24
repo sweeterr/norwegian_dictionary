@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">spette</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u>
+<usg>зоол.</usg>
 </form>
 <sense>
-дятел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дятел</text></cit>
 </sense>
 <sense>
-камбала морская
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камбала морская</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">spette</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-см. spett II
+<ref>spett II</ref>
 </sense>
 </entry>
 <entry>
@@ -29,10 +29,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-пользоваться ломом (как рычагом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пользоваться ломом (как рычагом)</text></cit>
 </sense>
 <sense>
-ломать, дробить (ломом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломать, дробить (ломом)</text></cit>
 </sense>
 </entry>
 </superEntry>

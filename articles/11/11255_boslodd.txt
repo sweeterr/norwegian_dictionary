@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">boslodd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-<u>уст.</u> всё имущество (данного лица)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всё имущество (данного лица)</text></cit>
 </sense>
 <sense>
-имущественная доля каждого из супругов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имущественная доля каждого из супругов</text></cit>
 </sense>
 </entry>
 </superEntry>

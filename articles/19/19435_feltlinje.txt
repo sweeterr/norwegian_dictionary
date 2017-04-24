@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">feltlinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> полевая линия связи
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полевая линия связи</text></cit>
 </sense>
 </entry>
 </superEntry>

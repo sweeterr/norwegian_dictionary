@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-игла, иголка, булавка (тж. как украшение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игла, иголка, булавка (тж. как украшение)</text></cit>
 <сit type="example"><text>tre (i) nålen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдевать нитку в иголку</text></cit></cit>
 <сit type="example"><text>lete(som) etter en nål i et høylass (i en høystakk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> искать иголку в стоге сена</text></cit></cit>
 <сit type="example"><text>sitte, stå (som) på nåler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сидеть как на иголках</text></cit></cit>
 <сit type="example"><text>ikke ha (eie) nålen i veggen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> не иметь ломаного гроша за душой</text></cit></cit>
 </sense>
 <sense>
-стрелка (прибора)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелка (прибора)</text></cit>
 </sense>
 <sense>
-шип (на растении), игла (хвойного дерева), хвоя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шип (на растении), игла (хвойного дерева), хвоя</text></cit>
 </sense>
 <sense>
-<u>разг.</u> высокий обелиск
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий обелиск</text></cit>
 </sense>
 <sense>
-острый горный пик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острый горный пик</text></cit>
 </sense>
 </entry>
 </superEntry>

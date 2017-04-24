@@ -7,21 +7,23 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-фюльке (одна из двадцати административных единиц, на которые делится Норвегия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фюльке (одна из двадцати административных единиц, на которые делится Норвегия)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> область
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>область</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">fylke</orth>
-te (
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>te (</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
-), 
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>),</text></cit>
 <inflection><orth extent="part">-t (-et)</orth></inflection>
-<u>ист.</u> расставлять в боевом порядке (дружины, полки)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расставлять в боевом порядке (дружины, полки)</text></cit>
 </sense>
 </entry>
 </superEntry>

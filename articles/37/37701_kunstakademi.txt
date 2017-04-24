@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kunstakademi</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-академия художеств
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>академия художеств</text></cit>
 </sense>
 </entry>
 </superEntry>

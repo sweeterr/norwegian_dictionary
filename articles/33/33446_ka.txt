@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ka</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>горн.</u> стволовая; здание (постройка) над шахтным стволом
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стволовая; здание (постройка) над шахтным стволом</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">ka</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>диал.</u> см. hva
+<usg>диал.</usg>
+<ref>hva</ref>
 </sense>
 </entry>
 </superEntry>

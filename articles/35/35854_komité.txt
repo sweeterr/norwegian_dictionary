@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">komité</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-комитет, комиссия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комитет, комиссия</text></cit>
 <сit type="example"><text>eksekutiv komité</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исполнительный комитет</text></cit></cit>
 <сit type="example"><text>nedsette (velge) en komité</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создать (избрать) комитет, комиссию</text></cit></cit>
 </sense>

@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">leggers</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> <u>уст.</u> большая деревянная бочка для воды
+<usg>мор.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большая деревянная бочка для воды</text></cit>
 </sense>
 </entry>
 </superEntry>

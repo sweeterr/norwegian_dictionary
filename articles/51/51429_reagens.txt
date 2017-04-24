@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reagens</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>хим.</u> реагент, реактив
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реагент, реактив</text></cit>
 </sense>
 </entry>
 </superEntry>

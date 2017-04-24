@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sjelven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-дрожащий, трясущийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожащий, трясущийся</text></cit>
 </sense>
 <sense>
-волнующийся (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волнующийся (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

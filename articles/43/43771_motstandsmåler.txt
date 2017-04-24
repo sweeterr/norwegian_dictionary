@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">motstandsmåler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>эл.</u> омметр
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>омметр</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beregnbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>матем.</u> поддающийся вычислению, вычисляемый
+<usg>матем.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддающийся вычислению, вычисляемый</text></cit>
 </sense>
 </entry>
 </superEntry>

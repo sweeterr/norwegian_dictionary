@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aurplog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>с.-х.</u> плуг для глубокой вспашки
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плуг для глубокой вспашки</text></cit>
 </sense>
 </entry>
 </superEntry>

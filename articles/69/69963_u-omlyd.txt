@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">u-omlyd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лингв.</u> заднеязычная перегласовка
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заднеязычная перегласовка</text></cit>
 </sense>
 </entry>
 </superEntry>

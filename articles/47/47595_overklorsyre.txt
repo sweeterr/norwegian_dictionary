@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">overklorsyre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>хим.</u> хлорная кислота
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлорная кислота</text></cit>
 </sense>
 </entry>
 </superEntry>

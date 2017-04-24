@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">hunlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>зоол.</u>, <u>бот.</u> женский, относящийся к женскому полу
+<usg>зоол.</usg>
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>женский, относящийся к женскому полу</text></cit>
 </sense>
 </entry>
 </superEntry>

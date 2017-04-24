@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">glup</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замечательный</text></cit>
 </sense>
 <sense>
-быстрый, ловкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, ловкий</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">smertefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болезненный</text></cit>
 </sense>
 <sense>
-тяжёлый (о болезни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (о болезни)</text></cit>
 </sense>
 </entry>
 </superEntry>

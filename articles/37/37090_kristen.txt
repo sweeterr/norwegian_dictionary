@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">kristen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-христианский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>христианский</text></cit>
 </sense>
 <sense>
-крещёный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крещёный</text></cit>
 </sense>
 <sense>
-человечный, порядочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человечный, порядочный</text></cit>
 </sense>
 </entry>
 </superEntry>

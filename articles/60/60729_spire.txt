@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-побег, росток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>побег, росток</text></cit>
 </sense>
 <sense>
-начинание, почин, начало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начинание, почин, начало</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> юнец
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юнец</text></cit>
 <сit type="example"><text>kvele i spiren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожить в зародыше</text></cit></cit>
 </sense>
 </entry>
@@ -24,10 +25,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-мачтовое дерево (сосна, ель)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мачтовое дерево (сосна, ель)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> балка квадратного сечения
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>балка квадратного сечения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,13 +39,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-прорастать, давать побеги (ростки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорастать, давать побеги (ростки)</text></cit>
 </sense>
 <sense>
-пробиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробиваться</text></cit>
 </sense>
 <sense>
-<u>перен.</u> зарождаться, постепенно проявляться (о чём-л. новом)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарождаться, постепенно проявляться (о чём-л. новом)</text></cit>
 </sense>
 </entry>
 </superEntry>

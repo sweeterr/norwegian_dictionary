@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">landkar</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-малоквалифицированный сплавщик леса, работающий не берегу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>малоквалифицированный сплавщик леса, работающий не берегу</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">landkar</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-мостовая опора, стоящая на берегу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мостовая опора, стоящая на берегу</text></cit>
 </sense>
 </entry>
 </superEntry>

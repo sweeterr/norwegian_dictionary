@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hegre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> цапля серая
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цапля серая</text></cit>
 <сit type="example"><text>hvit hegre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>цапля белая</text></cit></cit>
 </sense>
 </entry>

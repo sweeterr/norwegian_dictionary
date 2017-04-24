@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-поворот, изгиб (дороги, реки), извилина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворот, изгиб (дороги, реки), извилина</text></cit>
 </sense>
 <sense>
-извилина, борозда (в мозгу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извилина, борозда (в мозгу)</text></cit>
 </sense>
 <sense>
-<u>эл.</u> обмотка, виток
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмотка, виток</text></cit>
 </sense>
 </entry>
 </superEntry>

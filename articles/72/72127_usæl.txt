@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">usæl</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подавленный, отчаявшийся, убитый горем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавленный, отчаявшийся, убитый горем</text></cit>
 </sense>
 <sense>
-несчастный, бедный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несчастный, бедный</text></cit>
 </sense>
 <sense>
-злосчастный, приносящий несчастье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злосчастный, приносящий несчастье</text></cit>
 </sense>
 </entry>
 </superEntry>

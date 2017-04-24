@@ -6,7 +6,8 @@
 <orth type="lemma">esjelon</orth>
 <phon>|e∫ə'loŋ|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> эшелон
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эшелон</text></cit>
 <сit type="example"><text>oppstille en esjelons</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эшелонировать, строить поэшелонно</text></cit></cit>
 </sense>
 </entry>

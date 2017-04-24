@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakteriestamme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-штамм бактерий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штамм бактерий</text></cit>
 </sense>
 </entry>
 </superEntry>

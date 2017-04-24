@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-красный сигнал светофора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красный сигнал светофора</text></cit>
 </sense>
 <sense>
-<u>авт.</u> стоп-сигнал
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоп-сигнал</text></cit>
 </sense>
 </entry>
 </superEntry>

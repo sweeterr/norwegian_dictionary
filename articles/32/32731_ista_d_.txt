@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">ista(d)</orth>
-<u>тж. раздельно</u> 
+<usg>тж. раздельно</usg>
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-только что, совсем недавно (о прошлом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>только что, совсем недавно (о прошлом)</text></cit>
 </sense>
 <sense>
-совсем скоро, через мгновение (о будущем)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совсем скоро, через мгновение (о будущем)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svarteliste</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-чёрный список
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный список</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">svarteliste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> заносить в чёрный список
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заносить в чёрный список</text></cit>
 </sense>
 </entry>
 </superEntry>

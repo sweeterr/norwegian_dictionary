@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">intravenøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>мед.</u> внутривенный
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутривенный</text></cit>
 </sense>
 </entry>
 </superEntry>

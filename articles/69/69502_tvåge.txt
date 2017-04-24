@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tvåge</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> (половая) тряпка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(половая) тряпка</text></cit>
 </sense>
 </entry>
 </superEntry>

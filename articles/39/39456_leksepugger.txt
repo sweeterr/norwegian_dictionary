@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">leksepugger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u> зубрила
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубрила</text></cit>
 </sense>
 </entry>
 </superEntry>

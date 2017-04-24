@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> человек, дядя
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, дядя</text></cit>
 </sense>
 <sense>
-<u>разг.</u> приятель
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приятель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +20,8 @@
 <form>
 <orth type="lemma">busse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> ехать на автобусе ( <u>уст.</u> на конке)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать на автобусе ( <lbl>уст.</lbl> на конке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +29,7 @@
 <form>
 <orth type="lemma">busse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-прикреплять колышком (клином), заклинивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прикреплять колышком (клином), заклинивать</text></cit>
 </sense>
 </entry>
 </superEntry>

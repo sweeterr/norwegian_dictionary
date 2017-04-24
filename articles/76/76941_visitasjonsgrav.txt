@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">visitasjonsgrav</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ж.-д.</u> смотровая канава
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смотровая канава</text></cit>
 </sense>
 </entry>
 </superEntry>

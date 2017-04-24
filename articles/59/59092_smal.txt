@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smal</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> охапка (вязанка) дров
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охапка (вязанка) дров</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,20 +14,19 @@
 <form>
 <orth type="lemma">smal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-узкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий</text></cit>
 </sense>
 <sense>
-тонкий, тщедушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий, тщедушный</text></cit>
 </sense>
 <sense>
-скудный, ограниченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скудный, ограниченный</text></cit>
 </sense>
 <sense>
-незначительный, пустяковый, ничтожный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незначительный, пустяковый, ничтожный</text></cit>
 </sense>
 </entry>
 </superEntry>

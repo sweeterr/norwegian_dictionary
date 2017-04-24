@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">telgje</orth>
 <inflection><orth extent="part">-de (-jet), -d (-jet)</orth></inflection>
-строгать, тесать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>строгать, тесать</text></cit>
 <сit type="example"><text>telgje på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обтёсывать</text></cit></cit>
 </sense>
 </entry>

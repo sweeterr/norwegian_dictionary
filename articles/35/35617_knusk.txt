@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">knusk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-трутовик настоящий (гриб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трутовик настоящий (гриб)</text></cit>
 <сit type="example"><text>brenne som knusk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гореть как свечка</text></cit></cit>
 <сit type="example"><text>tørr som knusk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сухой как солома</text></cit></cit>
 </sense>

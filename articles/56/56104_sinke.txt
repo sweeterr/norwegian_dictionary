@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-умственно отсталый (дефективный) ребёнок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умственно отсталый (дефективный) ребёнок</text></cit>
 </sense>
 <sense>
-тяжелодум (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжелодум (о человеке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">sinke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-замедлять, сдерживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замедлять, сдерживать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +26,8 @@
 <form>
 <orth type="lemma">sinke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>стр.</u> вязать в лапу
+<usg>стр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вязать в лапу</text></cit>
 </sense>
 </entry>
 </superEntry>

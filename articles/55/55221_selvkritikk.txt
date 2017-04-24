@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">selvkritikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-самокритика, самокритичность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самокритика, самокритичность</text></cit>
 <сit type="example"><text>mangle selvkritikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не обладать самокритичностью</text></cit></cit>
 </sense>
 </entry>

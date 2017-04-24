@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">flagrant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-отчётливый, явный, бросающийся в глаза, очевидный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отчётливый, явный, бросающийся в глаза, очевидный</text></cit>
 <сit type="example"><text>in flagranti</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на месте преступления</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forskrekkelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-страшный, ужасный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшный, ужасный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">forskrekkelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-страшно, ужасно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшно, ужасно</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
-ось (колеса, воздушного винта и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ось (колеса, воздушного винта и т. п.)</text></cit>
 </sense>
 <sense>
-вал, стержень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вал, стержень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">aksel</orth>
 <inflection><orth extent="part">-a(-elen), -ler</orth></inflection>
-плечо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плечо</text></cit>
 <сit type="example"><text>på aksel gevær!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> на плечо!</text></cit></cit>
 <сit type="example"><text>rykke aksler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожимать плечами</text></cit></cit>
 </sense>
@@ -28,7 +28,8 @@
 <form>
 <orth type="lemma">aksel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>бот.</u> пазуха (листа)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пазуха (листа)</text></cit>
 </sense>
 </entry>
 </superEntry>

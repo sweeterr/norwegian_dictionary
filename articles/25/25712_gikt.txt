@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-ревматизм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ревматизм</text></cit>
 </sense>
 <sense>
-<u>редко</u> подагра
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подагра</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">gikt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> загрузочное окно, колошник
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загрузочное окно, колошник</text></cit>
 </sense>
 </entry>
 </superEntry>

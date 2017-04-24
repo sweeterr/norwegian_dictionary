@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-лис
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лис</text></cit>
 </sense>
 <sense>
-<u>разг.</u> собака
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собака</text></cit>
 </sense>
 <sense>
-<u>вульг.</u> собака (о человеке)
+<usg>вульг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собака (о человеке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +25,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-грязнить, пачкать (til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязнить, пачкать (til)</text></cit>
 </sense>
 <sense>
-чернить, хулить, ругать; запятнать чьё-л. имя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чернить, хулить, ругать; запятнать чьё-л. имя</text></cit>
 <сit type="example"><text>rakke ned på noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо отзываться о ком-л.</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slurv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> неряха, разгильдяй
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряха, разгильдяй</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-неряшливость, разгильдяйство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряшливость, разгильдяйство</text></cit>
 </sense>
 <sense>
-небрежно выполненная работа, <u>разг.</u> халтура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небрежно выполненная работа, <lbl>разг.</lbl> халтура</text></cit>
 </sense>
 </entry>
 </superEntry>

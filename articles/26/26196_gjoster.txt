@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gjoster</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> дуновение (ветра)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуновение (ветра)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hos</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- около, поблизости, рядом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>около, поблизости, рядом</text></cit>
 <сit type="example"><text>være hos</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>присутствовать</text></cit></cit>
 </sense>
 </entry>
@@ -16,11 +16,11 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении употребляется для обозначения местонахождения поблизости от предмета, около, у
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении употребляется для обозначения местонахождения поблизости от предмета, около, у</text></cit>
 <сit type="example"><text>stå hos én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять около кого-л.</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении употребляется для обозначения лица, как хозяина жилища, дома, предприятия, у, в
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении употребляется для обозначения лица, как хозяина жилища, дома, предприятия, у, в</text></cit>
 <сit type="example"><text>hos meg (deg, ham, henne, oss, dem)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня (тебя, него, неё, нас, них)</text></cit></cit>
 <сit type="example"><text>hos min far</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у моего отца</text></cit></cit>
 <сit type="example"><text>hos folket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в народе</text></cit></cit>
@@ -28,7 +28,7 @@
 <сit type="example"><text>tjene hos én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить у кого-л.</text></cit></cit>
 </sense>
 <sense>
-для обозначения объектных отношений, выражающих лицо, от которого кто-л. получает что-л., у, от
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>для обозначения объектных отношений, выражающих лицо, от которого кто-л. получает что-л., у, от</text></cit>
 <сit type="example"><text>låne noe hos én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>занять что-л. у кого-л.</text></cit></cit>
 <сit type="example"><text>søke hjelp (opplysning, råd) hos én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>искать помощи (разъяснения, совета) у кого-л.</text></cit></cit>
 </sense>

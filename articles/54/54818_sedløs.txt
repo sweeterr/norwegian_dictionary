@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sedløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-безнравственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безнравственный</text></cit>
 </sense>
 <sense>
-грубый, неотесанный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, неотесанный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">realisabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-реальный, осуществимый, могущий быть выполненным (реализованным)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реальный, осуществимый, могущий быть выполненным (реализованным)</text></cit>
 </sense>
 <sense>
-ходовой, легко реализуемый (о товаре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходовой, легко реализуемый (о товаре)</text></cit>
 </sense>
 </entry>
 </superEntry>

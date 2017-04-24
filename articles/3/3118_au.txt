@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">au</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <u>диал.</u>
+<usg>диал.</usg>
 <ref>også</ref>
 </sense>
 </entry>
@@ -14,13 +14,13 @@
 <form>
 <orth type="lemma">au</orth>
 <gramGrp><pos>int</pos></gramGrp>
-обозначает:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначает:</text></cit>
 </form>
 <sense>
-физическую боль - ай!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>физическую боль - ай!</text></cit>
 </sense>
 <sense>
-неприятную неожиданность, разочарование - ой!, ах!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприятную неожиданность, разочарование - ой!, ах!</text></cit>
 </sense>
 </entry>
 </superEntry>

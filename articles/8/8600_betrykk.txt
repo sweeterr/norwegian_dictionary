@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">betrykk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-затруднение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднение</text></cit>
 </sense>
 <sense>
-затруднительное положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительное положение</text></cit>
 </sense>
 </entry>
 </superEntry>

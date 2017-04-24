@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bosskasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> мусорный ящик
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мусорный ящик</text></cit>
 </sense>
 </entry>
 </superEntry>

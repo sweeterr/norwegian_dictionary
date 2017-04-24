@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">ageløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неуважительный, непочтительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуважительный, непочтительный</text></cit>
 </sense>
 <sense>
-недисциплинированный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недисциплинированный</text></cit>
 </sense>
 </entry>
 </superEntry>

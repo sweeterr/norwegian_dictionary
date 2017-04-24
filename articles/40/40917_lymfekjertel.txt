@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lymfekjertel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>анат.</u> лимфатическая железа
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лимфатическая железа</text></cit>
 </sense>
 </entry>
 </superEntry>

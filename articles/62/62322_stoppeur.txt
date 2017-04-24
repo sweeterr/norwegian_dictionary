@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stoppeur</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> секундомер
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секундомер</text></cit>
 </sense>
 </entry>
 </superEntry>

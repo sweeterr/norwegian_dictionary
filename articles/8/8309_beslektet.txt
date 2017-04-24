@@ -7,18 +7,19 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-находящийся в родстве
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>находящийся в родстве</text></cit>
 <сit type="example"><text>være beslektet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в родстве (с кем-л. - med)</text></cit></cit>
 <сit type="example"><text>de er beslektet langt ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они находятся в дальнем родстве</text></cit></cit>
 </sense>
 <sense>
-имеющий общее происхождение с кем, чем-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий общее происхождение с кем, чем-л.</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> родственный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родственный</text></cit>
 </sense>
 <sense>
-близкий по духу (по образу мышления)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>близкий по духу (по образу мышления)</text></cit>
 </sense>
 </entry>
 </superEntry>

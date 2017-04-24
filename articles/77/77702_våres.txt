@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">våres</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <u>разг.</u> наш
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наш</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-ступенчатый, уступчатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ступенчатый, уступчатый</text></cit>
 </sense>
 <sense>
-постепенный, стадиальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постепенный, стадиальный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">trinnvis</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-постепенно, шаг за шагом, мало-помалу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постепенно, шаг за шагом, мало-помалу</text></cit>
 </sense>
 </entry>
 </superEntry>

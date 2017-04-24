@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forsoffelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-опьянение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опьянение</text></cit>
 </sense>
 <sense>
-пьянство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пьянство</text></cit>
 </sense>
 </entry>
 </superEntry>

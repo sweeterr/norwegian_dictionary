@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">betyde</orth>
-<u>уст.</u> см. bety
+<usg>уст.</usg>
+<ref>bety</ref>
 </sense>
 </entry>
 <entry>
@@ -12,7 +13,7 @@
 <form>
 <orth type="lemma">betyde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-дать понять, намекнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дать понять, намекнуть</text></cit>
 </sense>
 </entry>
 </superEntry>

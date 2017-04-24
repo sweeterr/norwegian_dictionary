@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forrykt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-сумасшедший, тронувшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший, тронувшийся</text></cit>
 <сit type="example"><text>er De forrykt?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вы с ума сошли?</text></cit></cit>
 </sense>
 </entry>

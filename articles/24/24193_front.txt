@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-фронт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фронт</text></cit>
 <сit type="example"><text>bak fronten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тылу</text></cit></cit>
 <сit type="example"><text>ved fronten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на фронте</text></cit></cit>
 <сit type="example"><text>langs hele fronten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по всему фронту, на протяжении всего фронта</text></cit></cit>
@@ -15,10 +15,11 @@
 <сit type="example"><text>gjøre front imot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать сопротивление кому-л.</text></cit></cit>
 </sense>
 <sense>
-фасад (здания), лицевая сторона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фасад (здания), лицевая сторона</text></cit>
 </sense>
 <sense>
-<u>метеор.</u> фронт (грозовой и т. п.)
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фронт (грозовой и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

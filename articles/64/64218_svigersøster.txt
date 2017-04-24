@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svigersøster</orth>
 <inflection><orth extent="part">-eren (-era), -re(r)</orth></inflection>
-<u>диал.</u> золовка, невестка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>золовка, невестка</text></cit>
 </sense>
 </entry>
 </superEntry>

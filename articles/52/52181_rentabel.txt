@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">rentabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-рентабельный, выгодный, доходный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рентабельный, выгодный, доходный</text></cit>
 </sense>
 </entry>
 </superEntry>

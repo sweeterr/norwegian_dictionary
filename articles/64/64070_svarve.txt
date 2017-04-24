@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">svarve</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поворачивать, загибать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поворачивать, загибать</text></cit>
 </sense>
 <sense>
-вращать, крутить, вертеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращать, крутить, вертеть</text></cit>
 </sense>
 <sense>
-обтачивать, обрабатывать на токарном станке
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обтачивать, обрабатывать на токарном станке</text></cit>
 </sense>
 </entry>
 </superEntry>

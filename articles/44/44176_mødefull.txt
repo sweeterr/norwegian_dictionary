@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">mødefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-утомительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утомительный</text></cit>
 </sense>
 <sense>
-мучительный, трудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мучительный, трудный</text></cit>
 </sense>
 </entry>
 </superEntry>

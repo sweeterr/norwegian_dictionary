@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">portalkran</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> портальный кран
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>портальный кран</text></cit>
 </sense>
 </entry>
 </superEntry>

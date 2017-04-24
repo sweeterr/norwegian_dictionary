@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">korvett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> корвет
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корвет</text></cit>
 </sense>
 </entry>
 </superEntry>

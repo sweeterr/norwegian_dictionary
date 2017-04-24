@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-пошлина, пограничный (таможенный) сбор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пошлина, пограничный (таможенный) сбор</text></cit>
 <сit type="example"><text>betale toll</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>платить таможенный сбор (за что-л. - for)</text></cit></cit>
 <сit type="example"><text>legge toll på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налагать пошлину, облагать пошлиной</text></cit></cit>
 <сit type="example"><text>svare toll</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>платить пошлину</text></cit></cit>
 </sense>
 <sense>
-таможенная служба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таможенная служба</text></cit>
 </sense>
 <sense>
-таможенный досмотр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таможенный досмотр</text></cit>
 <сit type="example"><text>passere tollen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройти таможенный досмотр</text></cit></cit>
 </sense>
 </entry>
@@ -25,7 +25,8 @@
 <form>
 <orth type="lemma">toll</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> уключина (на лодке)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уключина (на лодке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,7 +34,8 @@
 <form>
 <orth type="lemma">toll</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> молодая сосенка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодая сосенка</text></cit>
 </sense>
 </entry>
 </superEntry>

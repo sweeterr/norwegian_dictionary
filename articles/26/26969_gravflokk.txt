@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gravflokk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>археол.</u> группа курганов
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа курганов</text></cit>
 </sense>
 </entry>
 </superEntry>

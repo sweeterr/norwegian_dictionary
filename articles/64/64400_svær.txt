@@ -5,27 +5,26 @@
 <form>
 <orth type="lemma">svær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тяжёлый <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый <lbl>в разн. знач.</lbl></text></cit>
 </sense>
 <sense>
-прочный, крепкий, солидный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прочный, крепкий, солидный</text></cit>
 <сit type="example"><text>være svær til å ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очень прилежным в чём-л.</text></cit></cit>
 </sense>
 <sense>
-тучный, дородный, грузный, плотный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тучный, дородный, грузный, плотный</text></cit>
 </sense>
 <sense>
-богатый (о растительности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый (о растительности)</text></cit>
 </sense>
 <sense>
-бурный (о море), сильный (о буре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурный (о море), сильный (о буре)</text></cit>
 </sense>
 <sense>
-большой (о сумме денег)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>большой (о сумме денег)</text></cit>
 <сit type="example"><text>svært med penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>масса денег</text></cit></cit>
 </sense>
 </entry>

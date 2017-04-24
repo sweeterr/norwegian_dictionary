@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">vågsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-смелый, дерзкий, отчаянный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смелый, дерзкий, отчаянный</text></cit>
 </sense>
 <sense>
-рискованный, требующий смелости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рискованный, требующий смелости</text></cit>
 </sense>
 </entry>
 </superEntry>

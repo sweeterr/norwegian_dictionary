@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">geidstokk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> шток поршня
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шток поршня</text></cit>
 </sense>
 </entry>
 </superEntry>

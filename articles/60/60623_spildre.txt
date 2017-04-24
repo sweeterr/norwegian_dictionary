@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-рейка, планка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рейка, планка</text></cit>
 </sense>
 <sense>
-шест, жердь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шест, жердь</text></cit>
 </sense>
 <sense>
-спица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">spildre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-колоть, раскалывать, расщеплять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колоть, раскалывать, расщеплять</text></cit>
 </sense>
 </entry>
 </superEntry>

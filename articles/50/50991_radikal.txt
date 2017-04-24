@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">radikal</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> радикал
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радикал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">radikal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-радикальный, коренной, решительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радикальный, коренной, решительный</text></cit>
 </sense>
 <sense>
-<u>полит.</u> радикальный
+<usg>полит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радикальный</text></cit>
 <сit type="example"><text>de radikale</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>полит.</lbl> радикалы</text></cit></cit>
 </sense>
 </entry>

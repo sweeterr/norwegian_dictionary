@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">femårsplan</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-пятилетний план, пятилетка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятилетний план, пятилетка</text></cit>
 <сit type="example"><text>til utgangen av femårsplan</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к концу пятилетки</text></cit></cit>
 </sense>
 </entry>

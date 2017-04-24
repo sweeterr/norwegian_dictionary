@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">varsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-осторожный, осмотрительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожный, осмотрительный</text></cit>
 <сit type="example"><text>fare (være) varsomt med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть осторожным (с кем-л.)</text></cit></cit>
 </sense>
 <sense>
-тихий, приглушённый (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тихий, приглушённый (о голосе)</text></cit>
 </sense>
 </entry>
 </superEntry>

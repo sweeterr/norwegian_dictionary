@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningslinje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>эл.</u> нагрузочная прямая, прямая нагрузки
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузочная прямая, прямая нагрузки</text></cit>
 </sense>
 </entry>
 </superEntry>

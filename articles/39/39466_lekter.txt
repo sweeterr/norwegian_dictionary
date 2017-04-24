@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lekter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> лихтер, шаланда
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лихтер, шаланда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">lekter</orth>
 <inflection><orth extent="part">-eret, -rer</orth></inflection>
-хоры (в церкви, кирке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хоры (в церкви, кирке)</text></cit>
 </sense>
 </entry>
 </superEntry>

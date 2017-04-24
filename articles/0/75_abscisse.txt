@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">abscisse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мат.</u> абсцисса
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абсцисса</text></cit>
 </sense>
 </entry>
 </superEntry>

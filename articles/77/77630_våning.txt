@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">våning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-жилище, жильё, дом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жилище, жильё, дом</text></cit>
 </sense>
 <sense>
-логово (нора и т. п.) зверя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>логово (нора и т. п.) зверя</text></cit>
 </sense>
 </entry>
 </superEntry>

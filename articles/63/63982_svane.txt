@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-лебедь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лебедь</text></cit>
 </sense>
 <sense>
-<u>астр.</u> Лебедь (созвездие)
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Лебедь (созвездие)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">svane</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> сморщиться, ссохнуться, стать тоньше
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сморщиться, ссохнуться, стать тоньше</text></cit>
 </sense>
 </entry>
 </superEntry>

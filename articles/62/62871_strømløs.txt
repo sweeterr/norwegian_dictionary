@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">strømløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-<u>эл.</u> выключенный, не находящийся под напряжением
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выключенный, не находящийся под напряжением</text></cit>
 </sense>
 <sense>
-не обеспеченный электроэнергией (о районе, доме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не обеспеченный электроэнергией (о районе, доме)</text></cit>
 </sense>
 </entry>
 </superEntry>

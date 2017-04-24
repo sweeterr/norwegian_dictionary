@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gullgul</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-золотисто-желтый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>золотисто-желтый</text></cit>
 </sense>
 </entry>
 </superEntry>

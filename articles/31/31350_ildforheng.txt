@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ildforheng</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> огневая завеса; заградительный огонь
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огневая завеса; заградительный огонь</text></cit>
 </sense>
 </entry>
 </superEntry>

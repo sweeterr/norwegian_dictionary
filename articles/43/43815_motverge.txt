@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">motverge</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-сопротивление, отпор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сопротивление, отпор</text></cit>
 <сit type="example"><text>sette seg til motverge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>оказывать сопротивление, давать отпор</text></cit></cit>
 </sense>
 </entry>

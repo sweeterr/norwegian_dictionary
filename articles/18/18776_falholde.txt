@@ -4,10 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">falholde</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
-<u>юр.</u> предлагать для продажи
+<inflection><orth extent="part">-t, -t</orth></inflection>
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предлагать для продажи</text></cit>
 </sense>
 </entry>
 </superEntry>

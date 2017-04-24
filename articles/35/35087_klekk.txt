@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">klekk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-хрупкий, тщедушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрупкий, тщедушный</text></cit>
 </sense>
 <sense>
-ломкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломкий</text></cit>
 </sense>
 <sense>
-слабохарактерный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабохарактерный</text></cit>
 </sense>
 <sense>
-робкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>робкий</text></cit>
 </sense>
 </entry>
 </superEntry>

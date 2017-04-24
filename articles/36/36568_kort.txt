@@ -7,21 +7,21 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-открытка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>открытка</text></cit>
 </sense>
 <sense>
-входной билет, пропуск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>входной билет, пропуск</text></cit>
 </sense>
 <sense>
-удостоверение; карточка (членская, корреспондентская)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удостоверение; карточка (членская, корреспондентская)</text></cit>
 </sense>
 <sense>
-визитная карточка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>визитная карточка</text></cit>
 </sense>
 <sense>
-(игральная) карта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(игральная) карта</text></cit>
 <сit type = "example"><text>blande kortene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> тасовать карты</text></cit></cit>
-<сit type = "example"><text>blande kortene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> смешать все карты</text></cit></cit>
+<сit type = "example"><text>blande kortene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> смешать все карты</text></cit></cit>
 <сit type="example"><text>fuske i kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жульничать при игре в карты</text></cit></cit>
 <сit type="example"><text>spille sine kort godt (fint, dumt,slett)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> разыгрывать свой карты хорошо (тонко, глупо, плохо)</text></cit></cit>
 <сit type="example"><text>sette (våge, risikere) alt på ett kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить всё на карту (рисковать всем)</text></cit></cit>
@@ -36,16 +36,16 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-короткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короткий</text></cit>
 <сit type="example"><text>gjøre kortere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>укорачивать</text></cit></cit>
 <сit type="example"><text>gjøre et hode kortere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрубить голову</text></cit></cit>
 </sense>
 <sense>
-непродолжительный (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непродолжительный (о времени)</text></cit>
 <сit type="example"><text>innen kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вскоре, в скором времени</text></cit></cit>
 </sense>
 <sense>
-сжатый, немногословный, краткий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сжатый, немногословный, краткий</text></cit>
 <сit type="example"><text>kort og fyndig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коротко и ясно</text></cit></cit>
 <сit type="example"><text>kort sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коротко говоря, вкратце</text></cit></cit>
 <сit type="example"><text>komme til kort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>терпеть недостаток</text></cit></cit>

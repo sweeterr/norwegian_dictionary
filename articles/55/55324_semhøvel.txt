@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">semhøvel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> профильный (фасонный) рубанок
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>профильный (фасонный) рубанок</text></cit>
 </sense>
 </entry>
 </superEntry>

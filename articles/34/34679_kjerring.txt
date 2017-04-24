@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-пожилая женщина, баба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожилая женщина, баба</text></cit>
 </sense>
 <sense>
-старуха, <u>разг.</u> хозяйка, жена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старуха, <lbl>разг.</lbl> хозяйка, жена</text></cit>
 <сit type="example"><text>kjerringa mot strømmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>строптивая женщина</text></cit></cit>
 <сit type="example"><text>kjerringa med staven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>народная хороводная игра</text></cit></cit>
 </sense>
 <sense>
-трус, <u>ирон.</u> баба (о мужчине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трус, <lbl>ирон.</lbl> баба (о мужчине)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> падение во время прыжка на лыжах
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падение во время прыжка на лыжах</text></cit>
 </sense>
 </entry>
 </superEntry>

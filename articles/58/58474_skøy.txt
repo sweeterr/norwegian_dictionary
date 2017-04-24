@@ -4,9 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">skøy</orth>
-<inflection><orth extent="part">-en</orth></inflection>
- (-er)
-шутка, проказа, забава
+<inflection><orth extent="part">-en (-er)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутка, проказа, забава</text></cit>
 <сit type="example"><text>på skøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в шутку, шутки ради</text></cit></cit>
 <сit type="example"><text>drive skøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шутить</text></cit></cit>
 </sense>

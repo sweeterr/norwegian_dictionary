@@ -4,13 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">kvie</orth>
-<inflection><orth extent="part">-dde (-et, <u>уст.</u> kved), -dd (-et)</orth></inflection>
+<inflection><orth extent="part">-dde (-et, <lbl>уст.</lbl> kved), -dd (-et)</orth></inflection>
 </form>
 <sense>
-ныть, хныкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ныть, хныкать</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> скорбеть
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скорбеть</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,8 @@
 <form>
 <orth type="lemma">kvie</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> загонять скот в загон
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загонять скот в загон</text></cit>
 </sense>
 </entry>
 </superEntry>

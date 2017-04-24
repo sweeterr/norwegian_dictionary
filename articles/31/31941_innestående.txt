@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">innestående</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фин.</u> капитал (вложенный в банк)
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитал (вложенный в банк)</text></cit>
 </sense>
 </entry>
 </superEntry>

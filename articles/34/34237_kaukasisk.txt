@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kaukasisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-кавказский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кавказский</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">overlang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-очень длинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень длинный</text></cit>
 </sense>
 <sense>
-<u>фон.</u> сверхдолгий
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверхдолгий</text></cit>
 </sense>
 </entry>
 </superEntry>

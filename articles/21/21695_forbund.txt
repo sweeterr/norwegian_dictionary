@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forbund</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-союз, федерация, конфедерация, лига
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>союз, федерация, конфедерация, лига</text></cit>
 <сit type="example"><text>forbund mellom arbeiderklassen og bøndene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>союз рабочих и крестьян</text></cit></cit>
 <сit type="example"><text>Folkenes forbund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ист.</lbl> Лига наций</text></cit></cit>
 <сit type="example"><text>inngå (slutte) forbund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вступать в союз (заключать союз)</text></cit></cit>

@@ -7,29 +7,30 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-тепло, жара, зной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепло, жара, зной</text></cit>
 </sense>
 <sense>
-<u>физ.</u> тепло, теплота
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепло, теплота</text></cit>
 <сit type="example"><text>spesifikk varme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>физ.</lbl> удельная теплоёмкость</text></cit></cit>
 </sense>
 <sense>
-жар, высокая температура (у человека)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жар, высокая температура (у человека)</text></cit>
 </sense>
 <sense>
-воодушевление, пыл, энтузиазм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воодушевление, пыл, энтузиазм</text></cit>
 </sense>
 <sense>
-горячность, страстность (чувств)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горячность, страстность (чувств)</text></cit>
 </sense>
 <sense>
-огонь, костёр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огонь, костёр</text></cit>
 <сit type="example"><text>gjøre opp varme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>развести огонь</text></cit></cit>
 <сit type="example"><text>sette (tenne) varme på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зажечь, поджечь</text></cit></cit>
 <сit type="example"><text>ta varme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>загореться</text></cit></cit>
 </sense>
 <sense>
-отопление (жилища)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отопление (жилища)</text></cit>
 <сit type="example"><text>slå av (på) varmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выключать (включать) отопление</text></cit></cit>
 <сit type="example"><text>gå i varmen for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пойти в огонь и воду за кого-л.</text></cit></cit>
 <сit type="example"><text>le(i)ke med varmen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть с огнём</text></cit></cit>
@@ -42,16 +43,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-разогревать, подогревать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разогревать, подогревать</text></cit>
 </sense>
 <sense>
-нагревать, согревать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагревать, согревать</text></cit>
 </sense>
 <sense>
-воодушевлять, разгорячать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воодушевлять, разгорячать</text></cit>
 </sense>
 <sense>
-придавать сочные тона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придавать сочные тона</text></cit>
 <сit type="example"><text>varme ens rygg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко ударить по спине (кого-л.)</text></cit></cit>
 <сit type="example"><text>varme ørene på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> надрать кому-л. уши, дать затрещину кому-л.</text></cit></cit>
 </sense>

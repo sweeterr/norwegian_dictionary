@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kromoksyd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> окись хрома
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окись хрома</text></cit>
 </sense>
 </entry>
 </superEntry>

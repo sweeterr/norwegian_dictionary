@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">røverspråk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-воровской жаргон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воровской жаргон</text></cit>
 </sense>
 </entry>
 </superEntry>

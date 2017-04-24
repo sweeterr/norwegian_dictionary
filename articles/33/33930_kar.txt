@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kar</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-мужчина, молодой человек, парень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мужчина, молодой человек, парень</text></cit>
 <сit type="example"><text>bra (grei, hyggelig) kar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хороший (расторопный, приятный) человек</text></cit></cit>
 </sense>
 </entry>
@@ -16,16 +16,16 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-чан, лохань, ушат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чан, лохань, ушат</text></cit>
 </sense>
 <sense>
-запруда (для ловли лососей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запруда (для ловли лососей)</text></cit>
 </sense>
 <sense>
-мостовая опора, бык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мостовая опора, бык</text></cit>
 </sense>
 <sense>
-сосуд (тж. кровеносный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сосуд (тж. кровеносный)</text></cit>
 </sense>
 </entry>
 </superEntry>

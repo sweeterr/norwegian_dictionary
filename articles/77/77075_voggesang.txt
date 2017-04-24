@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">voggesang</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>см.</u>vuggevise
+<ref>vuggevise</ref>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-колыбельная песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыбельная песня</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">alt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> альт (голос)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>альт (голос)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">alt</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-вселенная
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вселенная</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,7 +40,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-уже
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уже</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> alt etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полной зависимости от, по мере того как</text></cit></cit>

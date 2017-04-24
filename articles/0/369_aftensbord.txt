@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">aftensbord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-стол, накрытый к ужину
-<u>поэт.</u> вечерняя трапеза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стол, накрытый к ужину</text></cit>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечерняя трапеза</text></cit>
 </sense>
 </entry>
 </superEntry>

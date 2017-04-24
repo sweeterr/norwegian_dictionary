@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-нос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нос</text></cit>
 <сit type="example"><text>en butt nese</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>курносый нос</text></cit></cit>
 <сit type="example"><text>en fin nese</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тонкий красивый нос</text></cit></cit>
 <сit type="example"><text>en krum nese</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нос с горбинкой</text></cit></cit>
 <сit type="example"><text>dra (trekke) én etter nesa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> водить кого-л. за нос</text></cit></cit>
 <сit type="example"><text>gi én på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>nesa:</text></cit></cit>
 <сit type = "example"><text>gi én på — nesa:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> дать в нос, ударить по носу</text></cit></cit>
-<сit type = "example"><text>gi én på — nesa:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> всыпать, задать жару (кому-л.)</text></cit></cit>
+<сit type = "example"><text>gi én på — nesa:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> всыпать, задать жару (кому-л.)</text></cit></cit>
 <сit type="example"><text>gjøre lange neser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>показывать нос кому-л.</text></cit></cit>
 <сit type="example"><text>gå (falle) på nesa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упасть лицом вниз, пахать носом</text></cit></cit>
 <сit type="example"><text>holde sin nese for seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не совать свой нос в чужие дела</text></cit></cit>
@@ -29,12 +29,13 @@
 <сit type="example"><text>stikke sin nese opp i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совать свой нос во что-л.</text></cit></cit>
 </sense>
 <sense>
-нюх, обоняние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нюх, обоняние</text></cit>
 <сit type = "example"><text>med en fin nese :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> с тонким обонянием</text></cit></cit>
-<сit type = "example"><text>med en fin nese :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> с тонким нюхом</text></cit></cit>
+<сit type = "example"><text>med en fin nese :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> с тонким нюхом</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> нос, носовая часть (корабля)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нос, носовая часть (корабля)</text></cit>
 <сit type="example"><text>ligge på nesa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>зарываться носом в волны (о судне)</text></cit></cit>
 <сit type="example"><text>bryne nesa</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> избить, отдубасить</text></cit></cit>
 <сit type="example"><text>bære (gå med) nesa i (en) klut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть крайне смущённым</text></cit></cit>

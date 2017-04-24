@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
 </form>
 <sense>
-дыра, дырка, отверстие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыра, дырка, отверстие</text></cit>
 <сit type="example"><text>bryte hull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проделать отверстие</text></cit></cit>
 <сit type="example"><text>(ha) hull i en tann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(иметь) испорченный (кариозный) зуб</text></cit></cit>
 <сit type="example"><text>klippe huller i ørene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прокалывать уши под серьги</text></cit></cit>
@@ -16,19 +16,21 @@
 <сit type="example"><text>stoppe et hull</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заштопать дыру</text></cit></cit>
 </sense>
 <sense>
-яма, ямка, рытвина, углубление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яма, ямка, рытвина, углубление</text></cit>
 <сit type="example"><text>hogge hull på isen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать прорубь во льду</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> каморка, комнатёнка, дыра
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>каморка, комнатёнка, дыра</text></cit>
 </sense>
 <sense>
-<u>разг.</u> кутузка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутузка</text></cit>
 <сit type="example"><text>putte (sette) én i hullet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>посадить кого-л. в кутузку</text></cit></cit>
 <сit type="example"><text>komme i hullet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в кутузку</text></cit></cit>
 </sense>
 <sense>
-пробел (в знаниях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробел (в знаниях)</text></cit>
 <сit type="example"><text>få hull på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить кого-л. разговориться</text></cit></cit>
 <сit type="example"><text>plutselig gikk det hull på ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неожиданно он разговорился</text></cit></cit>
 </sense>
@@ -38,14 +40,14 @@
 <form>
 <orth type="lemma">hull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-<u>поэт.</u> прелестный, милый
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прелестный, милый</text></cit>
 </sense>
 <sense>
-преданный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преданный</text></cit>
 <сit type="example"><text>være hull og tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть преданным и верным</text></cit></cit>
 </sense>
 </entry>

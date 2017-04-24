@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">morskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> плавучая база
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавучая база</text></cit>
 </sense>
 </entry>
 </superEntry>

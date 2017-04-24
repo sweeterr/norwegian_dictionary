@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jetmotor</orth>
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
-<u>ав.</u> реактивный двигатель
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реактивный двигатель</text></cit>
 </sense>
 </entry>
 </superEntry>

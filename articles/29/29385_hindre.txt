@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hindre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-мешать, препятствовать, создавать препятствия (помехи, затруднения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешать, препятствовать, создавать препятствия (помехи, затруднения)</text></cit>
 <сit type="example"><text>hindre én i (fra) noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не допустить сделать что-л.</text></cit></cit>
 </sense>
 </entry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-да (согласие)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>да (согласие)</text></cit>
 </sense>
 <sense>
-согласие на брак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>согласие на брак</text></cit>
 <сit type="example"><text>få ens ja</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить согласие (на брак)</text></cit></cit>
 <сit type="example"><text>gi én sitt ja</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать кому-л. своё согласие (на брак), сказать «да»</text></cit></cit>
 <сit type="example"><text>stemme ja</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>голосовать за (кого, что-л.)</text></cit></cit>
@@ -23,7 +23,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-да
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>да</text></cit>
 <сit type="example"><text>ja så?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот как?, разве?</text></cit></cit>
 <сit type="example"><text>ja takk!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, спасибо!</text></cit></cit>
 <сit type="example"><text>ja vel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо, ладно</text></cit></cit>
@@ -33,7 +33,7 @@
 <сit type="example"><text>å ja!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, конечно!</text></cit></cit>
 </sense>
 <sense>
-даже, и даже
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>даже, и даже</text></cit>
 </sense>
 </entry>
 </superEntry>

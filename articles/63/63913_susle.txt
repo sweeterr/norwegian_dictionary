@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">susle</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шлёпать (по воде), плескаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёпать (по воде), плескаться</text></cit>
 </sense>
 <sense>
-течь, струиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, струиться</text></cit>
 <сit type="example"><text>susle vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растрачивать, транжирить</text></cit></cit>
 </sense>
 </entry>

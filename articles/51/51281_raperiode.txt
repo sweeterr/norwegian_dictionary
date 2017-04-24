@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">raperiode</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>геол.</u> позднеледниковый период (когда образовались морены)
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позднеледниковый период (когда образовались морены)</text></cit>
 </sense>
 </entry>
 </superEntry>

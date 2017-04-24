@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">stemple</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-штемпелевать, ставить печать (клеймо, пробу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штемпелевать, ставить печать (клеймо, пробу)</text></cit>
 <сit type="example"><text>stemple som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> заклеймить (кого-л.)</text></cit></cit>
 <сit type="example"><text>stemple opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить стойки (шахтные подпорки)</text></cit></cit>
 </sense>

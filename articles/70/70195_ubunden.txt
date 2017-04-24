@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">ubunden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-свободный, ничем не связанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свободный, ничем не связанный</text></cit>
 </sense>
 <sense>
-неограниченный, не имеющий ограничений, несдерживаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неограниченный, не имеющий ограничений, несдерживаемый</text></cit>
 </sense>
 <sense>
-непереплетённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непереплетённый</text></cit>
 </sense>
 <sense>
-<u>грам.</u> неопределённый
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопределённый</text></cit>
 </sense>
 </entry>
 </superEntry>

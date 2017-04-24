@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fôrgulrot</orth>
 <inflection><orth extent="part">-roten, -røtter</orth></inflection>
-<u>с.-х.</u> кормовая морковь
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормовая морковь</text></cit>
 </sense>
 </entry>
 </superEntry>

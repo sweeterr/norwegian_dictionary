@@ -7,20 +7,21 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-нескончаемый, бесконечный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нескончаемый, бесконечный</text></cit>
 </sense>
 <sense>
-вечный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечный</text></cit>
 </sense>
 <sense>
-беспредельный, безграничный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспредельный, безграничный</text></cit>
 <сit type="example"><text>i det uendelige</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до бесконечности</text></cit></cit>
 </sense>
 <sense>
-неиссякаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неиссякаемый</text></cit>
 </sense>
 <sense>
-<u>тех.</u> замкнутый, бесконечный (о цепи)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замкнутый, бесконечный (о цепи)</text></cit>
 </sense>
 </entry>
 </superEntry>

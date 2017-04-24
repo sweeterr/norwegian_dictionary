@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nordnordost</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-на северо-северо-восток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на северо-северо-восток</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">nordnordost</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> норд-норд-ост (румб и ветер)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норд-норд-ост (румб и ветер)</text></cit>
 </sense>
 </entry>
 </superEntry>

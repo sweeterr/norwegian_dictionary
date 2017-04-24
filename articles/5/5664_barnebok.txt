@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barnebok</orth>
 <inflection><orth extent="part">-boka (-boken), -bøker</orth></inflection>
-книга для детей, детская книжка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга для детей, детская книжка</text></cit>
 </sense>
 </entry>
 </superEntry>

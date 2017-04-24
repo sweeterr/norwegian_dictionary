@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">røntgenbehandle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мед.</u>
+<usg>мед.</usg>
 </form>
 <sense>
-облучать лучами рентгена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облучать лучами рентгена</text></cit>
 </sense>
 <sense>
-см. røntgenbestråle
+<ref>røntgenbestråle</ref>
 </sense>
 </entry>
 </superEntry>

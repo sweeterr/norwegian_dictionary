@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">opposisjonell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-оппозиционный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оппозиционный</text></cit>
 </sense>
 </entry>
 </superEntry>

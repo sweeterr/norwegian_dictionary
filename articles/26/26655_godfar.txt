@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">godfar</orth>
 <inflection><orth extent="part">-faren, -fedre</orth></inflection>
-<u>диал.</u> дедушка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дедушка</text></cit>
 </sense>
 </entry>
 </superEntry>

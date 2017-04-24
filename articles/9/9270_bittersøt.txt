@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">bittersøt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-горько-сладкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горько-сладкий</text></cit>
 </sense>
 <sense>
-брюзгливый, угрюмый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брюзгливый, угрюмый</text></cit>
 </sense>
 </entry>
 </superEntry>

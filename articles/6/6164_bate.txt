@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bate</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u> польза, выгода
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>польза, выгода</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">bate</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> помогать, приносить пользу
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помогать, приносить пользу</text></cit>
 </sense>
 </entry>
 </superEntry>

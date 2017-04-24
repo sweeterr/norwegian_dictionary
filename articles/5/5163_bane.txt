@@ -7,24 +7,24 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-дорога, путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорога, путь</text></cit>
 <сit type="example"><text>bryte bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать путь</text></cit></cit>
 </sense>
 <sense>
-железная дорога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>железная дорога</text></cit>
 <сit type="example"><text>enskinnet bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>однорельсовая железная дорога</text></cit></cit>
 <сit type="example"><text>fri bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ж. -д.</lbl> путь свободен</text></cit></cit>
 </sense>
 <sense>
-стадион, спортивная площадка, беговая дорожка, трек, велодром, ипподром
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стадион, спортивная площадка, беговая дорожка, трек, велодром, ипподром</text></cit>
 </sense>
 <sense>
-курс, направление (движения), траектория
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс, направление (движения), траектория</text></cit>
 <сit type="example"><text>gå i sin bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти (течь) своим путём</text></cit></cit>
 <сit type="example"><text>raserende bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>настильная траектория</text></cit></cit>
 </sense>
 <sense>
-жизненный путь, поприще
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жизненный путь, поприще</text></cit>
 <сit type="example"><text>bryte seg en bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать себе путь в жизни, делать карьеру</text></cit></cit>
 <сit type="example"><text>kaste seg inn på en bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встать на путь, избрать себе путь</text></cit></cit>
 <сit type="example"><text>bringe på bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затронуть в разговоре, упомянуть, вынести на обсуждение</text></cit></cit>
@@ -39,15 +39,15 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-насильственная смерть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насильственная смерть</text></cit>
 <сit type="example"><text>få bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть убитым</text></cit></cit>
 </sense>
 <sense>
-причина смерти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>причина смерти</text></cit>
 <сit type="example"><text>dette sår blev hans bane</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>эта рана оказалась смертельной</text></cit></cit>
 </sense>
 <sense>
-убийца
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убийца</text></cit>
 </sense>
 </entry>
 <entry>
@@ -57,12 +57,12 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-прокладывать путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать путь</text></cit>
 <сit type="example"><text>bane seg vei fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пробраться, пробиться (к кому-л. - til)</text></cit></cit>
 <сit type="example"><text>bane vei for en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подготовить почву для кого-л.</text></cit></cit>
 </sense>
 <sense>
-выравнивать дорогу (площадку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать дорогу (площадку)</text></cit>
 </sense>
 </entry>
 </superEntry>

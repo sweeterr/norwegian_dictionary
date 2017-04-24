@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">adsorpsjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> адсорбция
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>адсорбция</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jagegarn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>рыб.</u> невод-загон
+<usg>рыб.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невод-загон</text></cit>
 </sense>
 </entry>
 </superEntry>

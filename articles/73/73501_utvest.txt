@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utvest</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> северо-северо-западный ветер
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северо-северо-западный ветер</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">utvest</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> на северо-северо-запад
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на северо-северо-запад</text></cit>
 </sense>
 </entry>
 </superEntry>

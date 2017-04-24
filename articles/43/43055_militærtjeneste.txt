@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">militærtjeneste</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-военная служба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>военная служба</text></cit>
 <сit type="example"><text>gjøre militærtjeneste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться на военной службе</text></cit></cit>
 <сit type="example"><text>fri for militærtjeneste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>освобождённый от военной службы</text></cit></cit>
 </sense>

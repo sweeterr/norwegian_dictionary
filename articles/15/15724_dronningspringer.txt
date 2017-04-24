@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dronningspringer</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>шахм.</u> конь на ферзевом фланге
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конь на ферзевом фланге</text></cit>
 </sense>
 </entry>
 </superEntry>

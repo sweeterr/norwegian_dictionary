@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skadefri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-не потерпевший ущерба (убытка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не потерпевший ущерба (убытка)</text></cit>
 </sense>
 <sense>
-невредимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невредимый</text></cit>
 </sense>
 </entry>
 </superEntry>

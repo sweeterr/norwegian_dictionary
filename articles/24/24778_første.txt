@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">første</orth>
 <gramGrp><pos>num</pos></gramGrp>
-первый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">beleven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-вежливый, воспитанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вежливый, воспитанный</text></cit>
 </sense>
 <sense>
-обходительный, учтивый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обходительный, учтивый</text></cit>
 </sense>
 </entry>
 </superEntry>

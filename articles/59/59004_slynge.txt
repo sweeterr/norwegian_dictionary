@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-аркан, лассо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аркан, лассо</text></cit>
 </sense>
 <sense>
-<u>ист.</u> праща
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>праща</text></cit>
 </sense>
 <sense>
-<u>мед.</u> поддерживающая повязка
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддерживающая повязка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +25,13 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-обвивать(ся), обматывать(ся)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвивать(ся), обматывать(ся)</text></cit>
 </sense>
 <sense>
-плести
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плести</text></cit>
 </sense>
 <sense>
-бросать, швырять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросать, швырять</text></cit>
 <сit type="example"><text>slynge ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извергать (проклятия, ругательства)</text></cit></cit>
 </sense>
 </entry>

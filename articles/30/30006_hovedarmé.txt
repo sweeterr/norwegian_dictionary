@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hovedarmé</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> главные силы
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главные силы</text></cit>
 </sense>
 </entry>
 </superEntry>

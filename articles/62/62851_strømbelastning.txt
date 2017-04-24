@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strømbelastning</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эл.</u> нагрузка в электросети
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузка в электросети</text></cit>
 </sense>
 </entry>
 </superEntry>

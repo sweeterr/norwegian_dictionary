@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grasrust</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> чёрная ржавчина злаков
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрная ржавчина злаков</text></cit>
 </sense>
 </entry>
 </superEntry>

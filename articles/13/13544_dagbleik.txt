@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagbleik</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>разг.</u> рассвет, утренняя заря
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассвет, утренняя заря</text></cit>
 </sense>
 </entry>
 </superEntry>

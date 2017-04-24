@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">velarlyd</orth>
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
-<u>фон.</u> заднеязычный согласный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заднеязычный согласный</text></cit>
 </sense>
 </entry>
 </superEntry>

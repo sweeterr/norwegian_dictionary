@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tradisjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-традиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>традиция</text></cit>
 <сit type="example"><text>leve opp til beste tradisjoner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воскресить лучшие традиции</text></cit></cit>
 <сit type="example"><text>tradisjonen tro</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>согласно традиции, по традиции</text></cit></cit>
 </sense>

@@ -5,8 +5,10 @@
 <form>
 <orth type="lemma">dividende</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> делимое
-<u>фин.</u> дивиденд, прибыль
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делимое</text></cit>
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дивиденд, прибыль</text></cit>
 </sense>
 </entry>
 </superEntry>

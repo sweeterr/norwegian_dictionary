@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пол в хлеву
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пол в хлеву</text></cit>
 </sense>
 <sense>
-сточный жёлоб в хлеву
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сточный жёлоб в хлеву</text></cit>
 </sense>
 <sense>
-хлев, коровник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлев, коровник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,11 +23,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-цветение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цветение</text></cit>
 <сit type="example"><text>i flor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в цвету</text></cit></cit>
 </sense>
 <sense>
-расцвет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расцвет</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +35,7 @@
 <form>
 <orth type="lemma">flor</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-чёрный креп, чёрный флёр (траур)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный креп, чёрный флёр (траур)</text></cit>
 </sense>
 </entry>
 </superEntry>

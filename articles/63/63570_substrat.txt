@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-субстрат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>субстрат</text></cit>
 </sense>
 <sense>
-<u>биол.</u> питательная среда
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питательная среда</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">konsonantfordobling</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>фон.</u> удвоение согласных
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удвоение согласных</text></cit>
 </sense>
 </entry>
 </superEntry>

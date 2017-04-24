@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">roste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-размолотый солод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размолотый солод</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">roste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>тех.</u> шихта
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шихта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">roste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-размалывать солод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размалывать солод</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,8 @@
 <form>
 <orth type="lemma">roste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> обжигать, выжигать, кальцинировать
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжигать, выжигать, кальцинировать</text></cit>
 </sense>
 </entry>
 </superEntry>

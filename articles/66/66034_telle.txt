@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">telle</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> молодая ёлочка (сосенка)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молодая ёлочка (сосенка)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,19 +16,19 @@
 <inflection><orth>talte (telte), talt (telt)</orth></inflection>
 </form>
 <sense>
-считать, сосчитывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>считать, сосчитывать</text></cit>
 </sense>
 <sense>
-насчитывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насчитывать</text></cit>
 </sense>
 <sense>
-отсчитывать (такт)
-<сit type="example"><text>telle av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. telle fra</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отсчитывать (такт)</text></cit>
+<сit type="example"><text>telle av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>telle fra</ref></text></cit></cit>
 <сit type="example"><text>telle etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подсчитывать, пересчитывать</text></cit></cit>
 <сit type="example"><text>telle fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отговаривать, отсоветовать</text></cit></cit>
 <сit type="example"><text>telle igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пересчитывать, считать снова</text></cit></cit>
 <сit type="example"><text>telle opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подсчитывать</text></cit></cit>
-<сit type="example"><text>telle over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. telle igjennom</text></cit></cit>
+<сit type="example"><text>telle over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>telle igjennom</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

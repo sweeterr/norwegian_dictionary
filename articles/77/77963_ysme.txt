@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ysme</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> дымка, мгла, туман
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дымка, мгла, туман</text></cit>
 </sense>
 </entry>
 </superEntry>

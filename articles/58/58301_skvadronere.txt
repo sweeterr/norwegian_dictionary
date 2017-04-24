@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skvadronere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-хвастаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвастаться</text></cit>
 </sense>
 <sense>
-стрекотать (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрекотать (о птицах)</text></cit>
 </sense>
 </entry>
 </superEntry>

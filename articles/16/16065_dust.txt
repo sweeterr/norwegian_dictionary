@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dust</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-пыль, прах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пыль, прах</text></cit>
 <сit type="example"><text>ikke en dust, ikke dusten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничего, нисколько</text></cit></cit>
 </sense>
 </entry>

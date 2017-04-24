@@ -5,24 +5,23 @@
 <form>
 <orth type="lemma">klok</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-умный, сообразительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умный, сообразительный</text></cit>
 </sense>
 <sense>
-хитрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый</text></cit>
 </sense>
 <sense>
-разумный, толковый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разумный, толковый</text></cit>
 <сit type="example"><text>bli klok på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>понять что-л.</text></cit></cit>
 <сit type="example"><text>gjøre klok på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>знакомить с чем-л.</text></cit></cit>
 <сit type="example"><text>ikke bli klokere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не стать (не сделаться) умнее</text></cit></cit>
 <сit type="example"><text>ikke være riktig klok</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть не в своём уме, рехнуться</text></cit></cit>
 </sense>
 <sense>
-мудрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мудрый</text></cit>
 </sense>
 </entry>
 </superEntry>

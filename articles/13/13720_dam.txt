@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-плотина, запруда, дамба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плотина, запруда, дамба</text></cit>
 </sense>
 <sense>
-пруд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пруд</text></cit>
 </sense>
 <sense>
-лужа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лужа</text></cit>
 </sense>
 <sense>
-садок (для рыб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>садок (для рыб)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,12 +26,12 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-дамка (в шашечной игре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дамка (в шашечной игре)</text></cit>
 <сit type="example"><text>bli dam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стать дамкой</text></cit></cit>
 <сit type="example"><text>gjøre til dam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провести в дамки</text></cit></cit>
 </sense>
 <sense>
-игра в шашки, шашечная игра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>игра в шашки, шашечная игра</text></cit>
 <сit type="example"><text>spille dam</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в шашки</text></cit></cit>
 </sense>
 </entry>
@@ -40,7 +40,7 @@
 <form>
 <orth type="lemma">dam</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<сit type="example"><text><lbl>разг.</lbl> det var død dam stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стояла мёртвая тишина, <u>мор.</u> был мёртвый штиль</text></cit></cit>
+<сit type="example"><text><lbl>разг.</lbl> det var død dam stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стояла мёртвая тишина, <lbl>мор.</lbl> был мёртвый штиль</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

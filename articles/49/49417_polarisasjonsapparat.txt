@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">polarisasjonsapparat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>физ.</u> поляризационный аппарат, поляризатор
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поляризационный аппарат, поляризатор</text></cit>
 </sense>
 </entry>
 </superEntry>

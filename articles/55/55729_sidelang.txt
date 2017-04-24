@@ -5,13 +5,12 @@
 <form>
 <orth type="lemma">sidelang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 <cit type="translation">
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(длиной) в целую страницу</quote>
+<text>(длиной) в целую страницу</text>
 </cit>
 </sense>
 </entry>

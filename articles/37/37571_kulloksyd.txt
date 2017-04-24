@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kulloksyd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> окись углерода; угарный газ
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окись углерода; угарный газ</text></cit>
 </sense>
 </entry>
 </superEntry>

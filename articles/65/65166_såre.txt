@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-ранить, поранить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ранить, поранить</text></cit>
 </sense>
 <sense>
-уязвить (самолюбие и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уязвить (самолюбие и т. п.)</text></cit>
 </sense>
 <sense>
-оскорбить (чувство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оскорбить (чувство)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">såre</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-весьма, очень, в большой степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весьма, очень, в большой степени</text></cit>
 <сit type="example"><text>aldri så såre ... før ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не успело ..., как ...</text></cit></cit>
 <сit type="example"><text>gråte så såre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горько плакать</text></cit></cit>
 </sense>

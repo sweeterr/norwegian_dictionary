@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forn</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-подношение (по случаю свадьбы, рождения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подношение (по случаю свадьбы, рождения)</text></cit>
 </sense>
 <sense>
-кутья (по случаю похорон)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутья (по случаю похорон)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,16 +19,15 @@
 <form>
 <orth type="lemma">forn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-древний, старый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древний, старый</text></cit>
 <сit type="example"><text>i forn tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в древности</text></cit></cit>
 </sense>
 <sense>
-древнескандинавский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древнескандинавский</text></cit>
 </sense>
 </entry>
 </superEntry>

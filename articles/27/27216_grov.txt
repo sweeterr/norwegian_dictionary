@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grov</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> низина, ложбина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низина, ложбина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">grov</orth>
 <inflection><orth>groven (grova), grover (grever)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-лог с ручьём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лог с ручьём</text></cit>
 </sense>
 <sense>
-русло ручья
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>русло ручья</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,34 +28,34 @@
 <form>
 <orth type="lemma">grov</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<inflection><orth>(komp grovere, <u>диал.</u> grøvre, supert grovest, <u>диал.</u> grøvst)</orth></inflection>
+<inflection><orth>(komp grovere, <lbl>диал.</lbl> grøvre, supert grovest, <lbl>диал.</lbl> grøvst)</orth></inflection>
 </form>
 <sense>
-грубый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый</text></cit>
 <сit type="example"><text>være grov i munnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ругаться</text></cit></cit>
 </sense>
 <sense>
-необработанный, неотделанный, грубый (о поверхностях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необработанный, неотделанный, грубый (о поверхностях)</text></cit>
 </sense>
 <sense>
-толстый (о нитках, проволоке, брёвнах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстый (о нитках, проволоке, брёвнах)</text></cit>
 </sense>
 <sense>
-крупный (о песке), крупного помола (о муке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крупный (о песке), крупного помола (о муке)</text></cit>
 </sense>
 <sense>
-дюжий, крупного сложения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дюжий, крупного сложения</text></cit>
 </sense>
 <sense>
-тяжёлый, физический (о труде, работе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый, физический (о труде, работе)</text></cit>
 </sense>
 <sense>
-плохой, ненастный (о погоде), сильный (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой, ненастный (о погоде), сильный (о ветре)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> тяжёлый (об орудии)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлый (об орудии)</text></cit>
 </sense>
 </entry><entry>
 <index></index>

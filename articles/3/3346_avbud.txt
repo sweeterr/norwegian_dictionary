@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">avbud</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-отказ (от приглашения и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отказ (от приглашения и т. п.)</text></cit>
 <сit type="example"><text>sende avbud</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказаться от приглашения</text></cit></cit>
 </sense>
 </entry>

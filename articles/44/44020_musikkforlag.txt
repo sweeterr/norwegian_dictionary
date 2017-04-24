@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">musikkforlag</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-издательство музыкальной литературы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>издательство музыкальной литературы</text></cit>
 </sense>
 </entry>
 </superEntry>

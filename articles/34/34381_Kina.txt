@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">Kina</orth>
-Китай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Китай</text></cit>
 <сit type="example"><text>Den kinesiske folkerepublikk (Folkerepublikken Kina)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Китайская Народная Республика</text></cit></cit>
 </sense>
 </entry>

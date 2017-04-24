@@ -7,23 +7,26 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-шлагбаум, застава
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлагбаум, застава</text></cit>
 </sense>
 <sense>
-барьер, засов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барьер, засов</text></cit>
 </sense>
 <sense>
-преграда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преграда</text></cit>
 <сit type="example"><text>sette bom for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ставить преграды (препоны)</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> гик, грузовая стрела
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гик, грузовая стрела</text></cit>
 </sense>
 <sense>
-<u>мор.</u> бон, боновое заграждение
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бон, боновое заграждение</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> бум (гимнастический снаряд)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бум (гимнастический снаряд)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +34,7 @@
 <form>
 <orth type="lemma">bom</orth>
 <inflection><orth extent="part">-men, -mer</orth></inflection>
-промах <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промах <lbl>тж. перен.</lbl></text></cit>
 <сit type = "example"><text>kyte bom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> промахнуться, не попасть в цель</text></cit></cit>
 <сit type = "example"><text>kyte bom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> просчитаться, дать промах</text></cit></cit>
 <сit type="example"><text>bom i bom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промах за промахом</text></cit></cit>
@@ -51,7 +54,8 @@
 <form>
 <orth type="lemma">bom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> совершенно, полностью, целиком
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, полностью, целиком</text></cit>
 <сit type="example"><text>bom fast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крепко-накрепко</text></cit></cit>
 <сit type="example"><text>bom stille</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно тихо</text></cit></cit>
 </sense>
@@ -61,7 +65,7 @@
 <form>
 <orth type="lemma">bom</orth>
 <gramGrp><pos>int</pos></gramGrp>
-шлёп!, бух!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлёп!, бух!</text></cit>
 </sense>
 </entry>
 </superEntry>

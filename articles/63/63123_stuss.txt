@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">stuss</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-стрижка, подравнивание (волос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрижка, подравнивание (волос)</text></cit>
 </sense>
 <sense>
-наведение лоска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наведение лоска</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">stuss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-суматоха, суета, сумятица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суматоха, суета, сумятица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +27,8 @@
 <form>
 <orth type="lemma">stuss</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> соединительная муфта
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединительная муфта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,14 +36,13 @@
 <form>
 <orth type="lemma">stuss</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-хмурый, мрачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хмурый, мрачный</text></cit>
 </sense>
 <sense>
-неразговорчивый, немногословный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразговорчивый, немногословный</text></cit>
 </sense>
 </entry>
 </superEntry>

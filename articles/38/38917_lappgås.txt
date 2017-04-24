@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lappgås</orth>
 <inflection><orth extent="part">-gåsa, -gjess (-gjæser)</orth></inflection>
-<u>зоол.</u> пискулька
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пискулька</text></cit>
 </sense>
 </entry>
 </superEntry>

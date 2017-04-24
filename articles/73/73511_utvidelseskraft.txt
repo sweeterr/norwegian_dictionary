@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utvidelseskraft</orth>
 <inflection><orth extent="part">-kraften (-krafta), -krefter</orth></inflection>
-<u>физ.</u> сила расширения (растяжения)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сила расширения (растяжения)</text></cit>
 </sense>
 </entry>
 </superEntry>

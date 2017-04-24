@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">amfibrachys</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лит.</u> амфибрахий
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амфибрахий</text></cit>
 </sense>
 </entry>
 </superEntry>

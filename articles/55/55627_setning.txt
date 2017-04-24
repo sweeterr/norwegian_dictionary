@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>грам.</u> предложение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предложение</text></cit>
 <сit type="example"><text>en fortellende (befallende, innskutt) setning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повествовательное (повелительное, вводное) предложение</text></cit></cit>
 </sense>
 <sense>
-<u>филос.</u> тезис, положение
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тезис, положение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,16 +23,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-оседание, опускание, смещение (почвы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оседание, опускание, смещение (почвы)</text></cit>
 </sense>
 <sense>
-установка (рыболовных снастей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>установка (рыболовных снастей)</text></cit>
 </sense>
 <sense>
-<u>собир.</u> рыболовные снасти, орудия лова
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовные снасти, орудия лова</text></cit>
 </sense>
 <sense>
-<u>диал.</u> куча, груда
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча, груда</text></cit>
 </sense>
 </entry>
 </superEntry>

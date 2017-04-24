@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ulikesidet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мат.</u> разносторонний
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разносторонний</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,28 +5,27 @@
 <form>
 <orth type="lemma">het</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-жаркий (о воздухе, погоде), знойный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаркий (о воздухе, погоде), знойный</text></cit>
 </sense>
 <sense>
-горячий, раскалённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горячий, раскалённый</text></cit>
 </sense>
 <sense>
-разгорячённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разгорячённый</text></cit>
 <сit type="example"><text>bli het i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разгорячиться</text></cit></cit>
 </sense>
 <sense>
-пылкий, страстный, пламенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пылкий, страстный, пламенный</text></cit>
 <сit type="example"><text>det er hett mellom dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они большие друзья</text></cit></cit>
 </sense>
 <sense>
-сильный, горячий (о споре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный, горячий (о споре)</text></cit>
 </sense>
 <sense>
-крепкий (о вине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепкий (о вине)</text></cit>
 </sense>
 </entry><entry>
 <index></index>

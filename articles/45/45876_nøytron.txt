@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nøytron</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>физ.</u> нейтрон
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нейтрон</text></cit>
 </sense>
 </entry>
 </superEntry>

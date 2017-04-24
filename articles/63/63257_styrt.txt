@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-стремительный поток, морская волна, водяной вал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стремительный поток, морская волна, водяной вал</text></cit>
 </sense>
 <sense>
-душ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душ</text></cit>
 </sense>
 <sense>
-поток, лавина (ругательств)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поток, лавина (ругательств)</text></cit>
 </sense>
 <sense>
-обрыв, крутизна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрыв, крутизна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,8 @@
 <form>
 <orth type="lemma">styrt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>ав.</u> управляемый (о ракетах и т. п.)
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управляемый (о ракетах и т. п.)</text></cit>
 </sense>
 </entry>
 <entry>

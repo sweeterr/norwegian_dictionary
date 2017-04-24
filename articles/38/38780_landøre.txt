@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landøre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>ист.</u> вывозная (пристанная) пошлина
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывозная (пристанная) пошлина</text></cit>
 </sense>
 </entry>
 </superEntry>

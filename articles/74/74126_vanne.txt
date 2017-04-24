@@ -18,7 +18,7 @@
 <сit type = "example"><text>holde seg oven vanne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> так или иначе существовать</text></cit></cit>
 </sense>
 <sense>
-уровень воды (в водоёме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уровень воды (в водоёме)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,25 +28,26 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-поливать, орошать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поливать, орошать</text></cit>
 </sense>
 <sense>
-смачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смачивать</text></cit>
 </sense>
 <sense>
-поить (животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поить (животных)</text></cit>
 </sense>
 <sense>
-купать (животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>купать (животных)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> покрываться талой водой (о льде)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться талой водой (о льде)</text></cit>
 </sense>
 <sense>
-сделать посадку на воду (о гидросамолёте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сделать посадку на воду (о гидросамолёте)</text></cit>
 </sense>
 <sense>
-упасть в воду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упасть в воду</text></cit>
 </sense>
 </entry>
 </superEntry>

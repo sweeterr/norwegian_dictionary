@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">selvutløser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>фото</u> автоматический спуск
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автоматический спуск</text></cit>
 </sense>
 </entry>
 </superEntry>

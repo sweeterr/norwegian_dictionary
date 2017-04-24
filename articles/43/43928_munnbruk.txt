@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">munnbruk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>разг.</u> сквернословие
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сквернословие</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sudre</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> сапожник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сапожник</text></cit>
 </sense>
 </entry>
 </superEntry>

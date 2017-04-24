@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">kjøve</orth>
 <inflection><orth extent="part">-de, -d</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-душить, задушить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>душить, задушить</text></cit>
 </sense>
 <sense>
-гасить, тушить (пламя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гасить, тушить (пламя)</text></cit>
 </sense>
 <sense>
-глушить (звук)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глушить (звук)</text></cit>
 </sense>
 <sense>
-запруживать, забивать (льдом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запруживать, забивать (льдом)</text></cit>
 </sense>
 </entry>
 </superEntry>

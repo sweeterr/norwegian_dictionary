@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">allenfals</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-во всяком случае
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во всяком случае</text></cit>
 </sense>
 <sense>
-в крайнем случае
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в крайнем случае</text></cit>
 </sense>
 </entry>
 </superEntry>

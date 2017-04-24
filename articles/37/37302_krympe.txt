@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-садиться (о ткани, одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>садиться (о ткани, одежде)</text></cit>
 </sense>
 <sense>
-декатировать (ткань)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>декатировать (ткань)</text></cit>
 </sense>
 <sense>
-сжиматься, уменьшаться в объёме (при охлаждении), <u>тех.</u> давать усадку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сжиматься, уменьшаться в объёме (при охлаждении), <lbl>тех.</lbl> давать усадку</text></cit>
 </sense>
 <sense>
-<u>разг.</u> спрыснуть (назначение, приобретение)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спрыснуть (назначение, приобретение)</text></cit>
 <сit type="example"><text>krympe på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>тех.</lbl> насадить в горячем состоянии (о металлической детали)</text></cit></cit>
 </sense>
 </entry>

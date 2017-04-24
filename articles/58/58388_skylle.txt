@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skylle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-поток (жидкости, тж. <u>перен.</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поток (жидкости, тж. <lbl>перен.</lbl> )</text></cit>
 <сit type="example"><text>en skylle av bifall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гром аплодисментов</text></cit></cit>
 </sense>
 </entry>
@@ -16,19 +16,19 @@
 <inflection><orth extent="part">-te (-let), -t (-let)</orth></inflection>
 </form>
 <sense>
-течь (сильным, большим) потоком, заливать, затапливать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь (сильным, большим) потоком, заливать, затапливать</text></cit>
 </sense>
 <sense>
-смывать, уносить с собой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смывать, уносить с собой</text></cit>
 <сit type="example"><text>skylle i land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прибивать к берегу</text></cit></cit>
 <сit type="example"><text>skylle overbord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смыть за борт</text></cit></cit>
 </sense>
 <sense>
-полоскать, прополаскивать, промывать (рану)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоскать, прополаскивать, промывать (рану)</text></cit>
 <сit type="example"><text>skylle i seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> опрокидывать (рюмку)</text></cit></cit>
 </sense>
 <sense>
-забрасывать (куда-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забрасывать (куда-л.)</text></cit>
 <сit type="example"><text>skylle av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смывать, споласкивать</text></cit></cit>
 <сit type = "example"><text>skylle ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> лить ливнем, низвергаться (о массе воды)</text></cit></cit>
 <сit type = "example"><text>skylle ned :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> опрокидывать (рюмку)</text></cit></cit>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">favnbred</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-шириной примерно в полтора метра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шириной примерно в полтора метра</text></cit>
 </sense>
 <sense>
-шириной в морскую сажень (182 см)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шириной в морскую сажень (182 см)</text></cit>
 </sense>
 </entry>
 </superEntry>

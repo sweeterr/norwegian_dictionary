@@ -4,18 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">forfalle</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-распадаться, разрушаться, приходить в упадок, гибнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распадаться, разрушаться, приходить в упадок, гибнуть</text></cit>
 </sense>
 <sense>
-истекать (о сроке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>истекать (о сроке)</text></cit>
 </sense>
 <sense>
-погрязнуть (в чём-л. - til), пристраститься (к азартным играм - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погрязнуть (в чём-л. - til), пристраститься (к азартным играм - til)</text></cit>
 </sense>
 </entry>
 </superEntry>

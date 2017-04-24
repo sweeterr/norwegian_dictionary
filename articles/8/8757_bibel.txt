@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bibel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-библия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>библия</text></cit>
 </sense>
 </entry>
 </superEntry>

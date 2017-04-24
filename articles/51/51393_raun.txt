@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">raun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> рябина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рябина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">raun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> груда камней
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>груда камней</text></cit>
 </sense>
 </entry>
 </superEntry>

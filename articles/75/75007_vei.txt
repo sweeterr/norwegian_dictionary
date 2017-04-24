@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-дорога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорога</text></cit>
 <сit type="example"><text>bakket (glatt, hullet, asfaltert) vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холмистая (ровная, изрытая, асфальтированная) дорога</text></cit></cit>
 <сit type="example"><text>lite beferdet vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дорога с небольшим движением</text></cit></cit>
 <сit type = "example"><text>den slagne vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> наезженная дорога</text></cit></cit>
-<сit type = "example"><text>den slagne vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> избитый путь</text></cit></cit>
+<сit type = "example"><text>den slagne vei :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> избитый путь</text></cit></cit>
 <сit type="example"><text>sterkt traffikert vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дорога с большим (оживлённым) движением</text></cit></cit>
 <сit type="example"><text>den våte vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море</text></cit></cit>
 <сit type="example"><text>av veien!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прочь с дороги!</text></cit></cit>
@@ -26,7 +26,7 @@
 <сit type="example"><text>alle veier fører til Roma</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> все дороги ведут в Рим</text></cit></cit>
 </sense>
 <sense>
-путь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путь</text></cit>
 <сit type="example"><text>hele veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>весь путь, всю дорогу</text></cit></cit>
 <сit type="example"><text>begi seg på vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправляться в путь-дорогу</text></cit></cit>
 <сit type="example"><text>være på veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в пути (в дороге)</text></cit></cit>

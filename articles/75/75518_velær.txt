@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">velær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> велярный
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>велярный</text></cit>
 </sense>
 </entry>
 </superEntry>

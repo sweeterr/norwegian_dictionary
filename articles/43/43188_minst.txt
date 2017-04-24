@@ -8,14 +8,14 @@
 <gramGrp><note>superl от liten</note></gramGrp>
 </form>
 <sense>
-наименьший, самый маленький, минимальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наименьший, самый маленький, минимальный</text></cit>
 <сit type="example"><text>aller minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меньше всего, самый маленький</text></cit></cit>
 <сit type="example"><text>ikke minst, ikke den minste, ikke den aller minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ни малейший, ни малейшего</text></cit></cit>
 <сit type="example"><text>minst mulig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по возможности наименьший</text></cit></cit>
 <сit type="example"><text>uten minst interesse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без малейшего интереса</text></cit></cit>
 </sense>
 <sense>
-перед числительными по меньшей мере
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перед числительными по меньшей мере</text></cit>
 <сit type="example"><text>i det minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во всяком случае, при любых условиях</text></cit></cit>
 <сit type="example"><text>ikke det (aller) minste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ничуть, ни капельки, нисколько</text></cit></cit>
 <сit type="example"><text>sist, men ikke minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>последнее по порядку, но важное по значению</text></cit></cit>
@@ -26,8 +26,8 @@
 <form>
 <orth type="lemma">minst</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <gramGrp><note>superl от lite III, litt</note></gramGrp>
-по меньшей мере, меньше всего, в наименьшей степени
+<gramGrp><note>superl от lite III, litt</note></gramGrp>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>по меньшей мере, меньше всего, в наименьшей степени</text></cit>
 <сit type="example"><text>ikke minst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в неменьшей степени</text></cit></cit>
 </sense>
 </entry>

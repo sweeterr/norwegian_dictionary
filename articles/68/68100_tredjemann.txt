@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
 </form>
 <sense>
-третий участник (компаньон)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>третий участник (компаньон)</text></cit>
 <сit type="example"><text>tredjemann i vinden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«третий лишний» (игра)</text></cit></cit>
 </sense>
 <sense>
-посредник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>посредник</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> участник, занявший третье место в соревнованиях
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участник, занявший третье место в соревнованиях</text></cit>
 </sense>
 </entry>
 </superEntry>

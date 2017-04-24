@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">ordbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> отчётливый (о слове)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отчётливый (о слове)</text></cit>
 </sense>
 </entry>
 </superEntry>

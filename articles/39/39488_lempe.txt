@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lempe</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-осторожность, мягкость, такт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожность, мягкость, такт</text></cit>
 <сit type="example"><text>med lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осторожно, мягко</text></cit></cit>
 <сit type="example"><text>med (ved) list og lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хитро и осторожно</text></cit></cit>
 <сit type="example"><text>med råd og lempe kommer en kryp så langt som en kjempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> советом да осторожностью и слабый может добиться того же, что и силач</text></cit></cit>
@@ -18,13 +18,15 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-приспосабливать, подгонять, прилаживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приспосабливать, подгонять, прилаживать</text></cit>
 </sense>
 <sense>
-передвигать, сдвигать (что-л. тяжёлое), <u>разг.</u> подталкивать, толкать (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передвигать, сдвигать (что-л. тяжёлое), <lbl>разг.</lbl> подталкивать, толкать (кого-л.)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> <u>разг.</u> швырять, бросать
+<usg>мор.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырять, бросать</text></cit>
 <сit type="example"><text>lempe dekkslast</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбросить палубный груз за борт</text></cit></cit>
 <сit type="example"><text>lempe på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смягчать, облегчать, ослаблять</text></cit></cit>
 <сit type="example"><text>lempe én ut (lempe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>én på dør) вытолкать, выставить кого-л. за дверь</text></cit></cit>

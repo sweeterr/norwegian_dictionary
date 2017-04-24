@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">setre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вести молочное хозяйство (на сетере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести молочное хозяйство (на сетере)</text></cit>
 </sense>
 <sense>
-жить на горном пастбище (для ухода за скотом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жить на горном пастбище (для ухода за скотом)</text></cit>
 </sense>
 </entry>
 </superEntry>

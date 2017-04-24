@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rumensk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-румынский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румынский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">rumensk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-румынский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румынский</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">metrikk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лит.</u> метрика
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метрика</text></cit>
 </sense>
 </entry>
 </superEntry>

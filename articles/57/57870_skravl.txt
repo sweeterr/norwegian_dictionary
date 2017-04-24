@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skravl</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u> hold skravla på deg <u>разг.</u> замолчи, перестань болтать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>hold skravla på deg <lbl>разг.</lbl> замолчи, перестань болтать</text></cit>
 <сit type="example"><text>la skravla gå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> болтать без умолку</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +17,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустая болтовня</text></cit>
 </sense>
 <sense>
-<u>разг.</u> болтливая женщина, болтушка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтливая женщина, болтушка</text></cit>
 </sense>
 </entry>
 </superEntry>

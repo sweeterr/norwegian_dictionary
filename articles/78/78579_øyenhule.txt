@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">øyenhule</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> глазная впадина
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глазная впадина</text></cit>
 </sense>
 </entry>
 </superEntry>

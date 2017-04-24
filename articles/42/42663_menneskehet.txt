@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">menneskehet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-человечество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человечество</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-голень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голень</text></cit>
 </sense>
 <sense>
-<u>разг.</u> нога (человека)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нога (человека)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> мороженая рыба
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мороженая рыба</text></cit>
 </sense>
 </entry>
 </superEntry>

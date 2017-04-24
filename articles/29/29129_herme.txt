@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">herme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-бюст на постаменте (памятник)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бюст на постаменте (памятник)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">herme</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>разг.</u> анекдот, побасёнка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анекдот, побасёнка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">herme</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-поддразнивать, обезьянничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддразнивать, обезьянничать</text></cit>
 <сit type="example"><text>herme etter noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дразнить кого-л.</text></cit></cit>
 </sense>
 </entry>

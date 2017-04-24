@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-расхождение, отклонение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расхождение, отклонение</text></cit>
 </sense>
 <sense>
-различие во мнениях, разногласие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>различие во мнениях, разногласие</text></cit>
 </sense>
 <sense>
-<u>мат.</u> дивергенция
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дивергенция</text></cit>
 </sense>
 </entry>
 </superEntry>

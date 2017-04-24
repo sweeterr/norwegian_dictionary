@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-foten, -føtter</orth></inflection>
 </form>
 <sense>
-кошачья лапа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кошачья лапа</text></cit>
 <сit type="example"><text>gå på kattefot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>красться как кошка</text></cit></cit>
 </sense>
 <sense>
-<u>бот.</u> кошачья лапка двудомная
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кошачья лапка двудомная</text></cit>
 </sense>
 </entry>
 </superEntry>

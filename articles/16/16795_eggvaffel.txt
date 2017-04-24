@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eggvaffel</orth>
 <inflection><orth extent="part">-felen, -ler</orth></inflection>
-<u>кул.</u> вафля (из теста с яйцами)
+<usg>кул.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вафля (из теста с яйцами)</text></cit>
 </sense>
 </entry>
 </superEntry>

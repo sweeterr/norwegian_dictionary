@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-поганка (гриб)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поганка (гриб)</text></cit>
 <сit type="example"><text>skyte opp (i været) som paddehatter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> расти как грибы</text></cit></cit>
 </sense>
 <sense>
-<u>презр.</u> выскочка
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выскочка</text></cit>
 </sense>
 </entry>
 </superEntry>

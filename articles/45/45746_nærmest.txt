@@ -13,19 +13,19 @@
 <form>
 <orth type="lemma">nærmest</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <gramGrp><note>superl от nær II</note></gramGrp>
+<gramGrp><note>superl от nær II</note></gramGrp>
 </form>
 <sense>
-ближе всего
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ближе всего</text></cit>
 <сit type="example"><text>nærmest etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>следующий по чину (рангу, достоинству)</text></cit></cit>
 <сit type="example"><text>være nærmest til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь наибольшее касательство к чему-л., быть связанным больше других с чем-л.</text></cit></cit>
 <сit type="example"><text>enhver er seg selv nærmest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> своя рубашка ближе к телу</text></cit></cit>
 </sense>
 <sense>
-в значительной степени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в значительной степени</text></cit>
 </sense>
 <sense>
-главным образом, по преимуществу, прежде всего
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>главным образом, по преимуществу, прежде всего</text></cit>
 </sense>
 </entry>
 </superEntry>

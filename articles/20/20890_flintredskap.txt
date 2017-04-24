@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">flintredskap</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>археол.</u> кремнёвые орудия, изделия из кремня
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кремнёвые орудия, изделия из кремня</text></cit>
 </sense>
 </entry>
 </superEntry>

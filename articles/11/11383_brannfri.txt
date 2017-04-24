@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">brannfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-несгораемый, огнеупорный, огнестойкий, негорючий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несгораемый, огнеупорный, огнестойкий, негорючий</text></cit>
 </sense>
 <sense>
-<u>с.-х.</u> не поражённый головнёй, годный к посеву (о зерне)
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не поражённый головнёй, годный к посеву (о зерне)</text></cit>
 </sense>
 </entry>
 </superEntry>

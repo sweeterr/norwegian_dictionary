@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bisk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-глоток, кусок (во рту)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток, кусок (во рту)</text></cit>
 </sense>
 <sense>
-еда (наспех, наскоро)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>еда (наспех, наскоро)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">bisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>дет.</u> собачка, пёсик
+<usg>дет.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собачка, пёсик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,17 +28,16 @@
 <form>
 <orth type="lemma">bisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-кусачий (о собаках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусачий (о собаках)</text></cit>
 </sense>
 <sense>
-резкий, грубый, неприветливый (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий, грубый, неприветливый (о человеке)</text></cit>
 </sense>
 <sense>
-пронизывающий, резкий (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пронизывающий, резкий (о ветре)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">snære</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-лёгкий ветер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий ветер</text></cit>
 </sense>
 <sense>
-рябь (на воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рябь (на воде)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">snære</orth>
 <inflection><orth extent="part">-t (-n)</orth></inflection>
-чаща, густой кустарник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чаща, густой кустарник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,19 +27,19 @@
 <form>
 <orth type="lemma">snære</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бродить, скитаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродить, скитаться</text></cit>
 </sense>
 <sense>
-дуть (о холодном ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дуть (о холодном ветре)</text></cit>
 </sense>
 <sense>
-рябить воду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рябить воду</text></cit>
 </sense>
 <sense>
-резко раздаваться (о звуке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резко раздаваться (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">smette</orth>
 <inflection><orth extent="part">-a (-et), -er</orth></inflection>
-<u>диал.</u> дыра, отверстие, щель
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыра, отверстие, щель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">smette</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>разг.</u> убежище, укрытие
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убежище, укрытие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,12 +25,12 @@
 <inflection><orth>smatt, smettet</orth></inflection>
 </form>
 <sense>
-прошмыгнуть, проскользнуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прошмыгнуть, проскользнуть</text></cit>
 <сit type="example"><text>smette forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проскользнуть мимо</text></cit></cit>
 <сit type="example"><text>smette fra én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ускользнуть от кого-л.</text></cit></cit>
 </sense>
 <sense>
-проходить через ворота (о коровах, овцах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проходить через ворота (о коровах, овцах)</text></cit>
 <сit type="example"><text>smette inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(про)скользнуть куда-л.</text></cit></cit>
 <сit type="example"><text>smette unna</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ускользнуть, выскользнуть</text></cit></cit>
 </sense>
@@ -38,7 +40,7 @@
 <form>
 <orth type="lemma">smette</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-просовывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просовывать</text></cit>
 <сit type="example"><text>smette av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скинуть, сбросить (одежду, обувь)</text></cit></cit>
 <сit type="example"><text>smette på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накинуть (одежду), быстро надеть (обувь)</text></cit></cit>
 <сit type="example"><text>smette seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрятаться, скрыться, укрыться, избежать неприятностей</text></cit></cit>

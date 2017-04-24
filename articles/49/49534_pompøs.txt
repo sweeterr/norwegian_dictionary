@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">pompøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пышный, помпезный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пышный, помпезный</text></cit>
 </sense>
 <sense>
-эффектный, великолепный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эффектный, великолепный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ess</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>карт.</u> туз
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туз</text></cit>
 <сit type="example"><text>hjerter (ruter, kløver, spar) ess</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>туз червей (бубен, треф, пик)</text></cit></cit>
 </sense>
 </entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">ess</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> ми бемоль
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ми бемоль</text></cit>
 </sense>
 </entry>
 </superEntry>

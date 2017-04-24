@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">umake</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-непарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непарный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">umake</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-затруднять, беспокоить, утруждать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднять, беспокоить, утруждать</text></cit>
 </sense>
 </entry>
 </superEntry>

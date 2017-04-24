@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">provent</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>ист.</u> пожизненное содержание монастырём дарителя
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожизненное содержание монастырём дарителя</text></cit>
 </sense>
 </entry>
 </superEntry>

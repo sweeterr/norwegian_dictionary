@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødalge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>бот.</u> красные водоросли
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красные водоросли</text></cit>
 </sense>
 </entry>
 </superEntry>

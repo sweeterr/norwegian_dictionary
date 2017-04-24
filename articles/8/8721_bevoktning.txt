@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-охрана, караул
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охрана, караул</text></cit>
 <сit type="example"><text>ligge på bevoktning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в карауле</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> караул, сторожевое охранение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>караул, сторожевое охранение</text></cit>
 <сit type="example"><text>utsette bevoktning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выставлять караул, высылать охранение</text></cit></cit>
 </sense>
 </entry>

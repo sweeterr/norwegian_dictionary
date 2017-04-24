@@ -7,27 +7,30 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-кран (для бочки), пробка, затычка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кран (для бочки), пробка, затычка</text></cit>
 <сit type="example"><text>sette (slå) tappen i tønnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прекратить словоизлияние, замолчать</text></cit></cit>
 <сit type="example"><text>ta tappen av tønnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начать словесные излияния</text></cit></cit>
 </sense>
 <sense>
-болт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болт</text></cit>
 </sense>
 <sense>
-шип, тычок, остриё (шлема)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шип, тычок, остриё (шлема)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> крепыш
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крепыш</text></cit>
 </sense>
 <sense>
-задвижка, щеколда (на двери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задвижка, щеколда (на двери)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> втулка (оси, вала)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>втулка (оси, вала)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> метчик (для внутренней нарезки)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метчик (для внутренней нарезки)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sollys</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-солнечный свет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солнечный свет</text></cit>
 <сit type="example"><text>kaste sollyset tilbake</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отражать солнечные лучи</text></cit></cit>
 </sense>
 </entry>
@@ -14,14 +14,13 @@
 <form>
 <orth type="lemma">sollys</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-солнечный, освещенный (залитый) солнцем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солнечный, освещенный (залитый) солнцем</text></cit>
 </sense>
 <sense>
-яркий, безоблачный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий, безоблачный</text></cit>
 </sense>
 </entry>
 </superEntry>

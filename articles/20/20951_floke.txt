@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-спутанная верёвка, нить и т. п., клубок, клок (спутанных волос)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутанная верёвка, нить и т. п., клубок, клок (спутанных волос)</text></cit>
 <сit type="example"><text>komme i floke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>создать пробку (в уличном движении)</text></cit></cit>
 </sense>
 <sense>
-запутанное (затруднительное) положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запутанное (затруднительное) положение</text></cit>
 </sense>
 <sense>
-путаное высказывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>путаное высказывание</text></cit>
 <сit type="example"><text>slå floke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>похлопывать себя по плечам руками (от холода)</text></cit></cit>
 </sense>
 </entry>
@@ -23,7 +23,8 @@
 <form>
 <orth type="lemma">floke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> снежинка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежинка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +32,7 @@
 <form>
 <orth type="lemma">floke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-спутывать, запутывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутывать, запутывать</text></cit>
 <сit type="example"><text>floke seg sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запутаться перепутаться</text></cit></cit>
 </sense>
 </entry>

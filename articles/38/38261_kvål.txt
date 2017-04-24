@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvål</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> отдельная возвышенность
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдельная возвышенность</text></cit>
 </sense>
 </entry>
 </superEntry>

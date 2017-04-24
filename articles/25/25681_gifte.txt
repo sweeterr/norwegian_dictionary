@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-брак, замужество, женитьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брак, замужество, женитьба</text></cit>
 <сit type="example"><text>et godt gifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>удачный (счастливый) брак</text></cit></cit>
 </sense>
 <sense>
-партия (о женитьбе или замужестве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>партия (о женитьбе или замужестве)</text></cit>
 <сit type="example"><text>det beste gifte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выгодная партия</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> пара (о муже, жене)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пара (о муже, жене)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +24,8 @@
 <form>
 <orth type="lemma">gifte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> супруга, жена
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>супруга, жена</text></cit>
 </sense>
 </entry>
 <entry>
@@ -33,10 +35,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-выдавать замуж (за кого-л. - med), женить (на ком-л. - med)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдавать замуж (за кого-л. - med), женить (на ком-л. - med)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> просватать (за кого-л. - med)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просватать (за кого-л. - med)</text></cit>
 <сit type="example"><text>gifte bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдать замуж</text></cit></cit>
 <сit type="example"><text>gifte seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жениться, выйти замуж, пожениться</text></cit></cit>
 <сit type="example"><text>vi vil gifteoss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мы хотим пожениться</text></cit></cit>

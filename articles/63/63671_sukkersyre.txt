@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sukkersyre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>хим.</u> сахарная кислота
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сахарная кислота</text></cit>
 </sense>
 </entry>
 </superEntry>

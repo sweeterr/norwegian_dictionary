@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">steinknusning</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u> камнедробление
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камнедробление</text></cit>
 </sense>
 </entry>
 </superEntry>

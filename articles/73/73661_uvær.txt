@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-ненастье, непогода, буря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненастье, непогода, буря</text></cit>
 <сit type="example"><text>magnetisk uvær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>магнитная буря</text></cit></cit>
 <сit type="example"><text>et overhengende uvær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надвигающаяся буря (ливень с ветром)</text></cit></cit>
 <сit type="example"><text>det blir uvær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наступает ненастье, будет буря (ливень, град, снег)</text></cit></cit>
 <сit type="example"><text>det trakk opp til uvær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>начиналась буря</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> море (огня, искр)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>море (огня, искр)</text></cit>
 </sense>
 <sense>
-взрыв негодования (возмущения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взрыв негодования (возмущения)</text></cit>
 </sense>
 </entry>
 </superEntry>

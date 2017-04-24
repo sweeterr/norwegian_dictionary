@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">skuddfelt</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-зона (сектор) обстрела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зона (сектор) обстрела</text></cit>
 </sense>
 <sense>
-полигон, стрельбище
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полигон, стрельбище</text></cit>
 </sense>
 </entry>
 </superEntry>

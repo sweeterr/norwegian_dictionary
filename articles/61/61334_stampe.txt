@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stampe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> толчея, толчейная мельница
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толчея, толчейная мельница</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,22 +27,23 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-трамбовать, утрамбовывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамбовать, утрамбовывать</text></cit>
 </sense>
 <sense>
-толочь (в ступе), дробить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толочь (в ступе), дробить</text></cit>
 </sense>
 <sense>
-топать ногами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топать ногами</text></cit>
 </sense>
 <sense>
-тиснить кожу
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тиснить кожу</text></cit>
 </sense>
 <sense>
-идти увязая (в снегу, грязи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти увязая (в снегу, грязи)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> зарываться носом
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарываться носом</text></cit>
 <сit type="example"><text>stampe fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти топая ногами</text></cit></cit>
 </sense>
 </entry>
@@ -50,7 +52,8 @@
 <form>
 <orth type="lemma">stampe</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u> закладывать, отдавать в залог под ссуду
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закладывать, отдавать в залог под ссуду</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,9 +7,9 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-применение, употребление, использование
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>применение, употребление, использование</text></cit>
 <сit type = "example"><text>det blir bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> это будет применяться (употребляться, использоваться)</text></cit></cit>
-<сit type = "example"><text>det blir bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>эк.</u> имеется</text></cit></cit>
+<сit type = "example"><text>det blir bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>эк.</lbl> имеется</text></cit></cit>
 <сit type="example"><text>finne bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти применение (чему-л. - for), использовать</text></cit></cit>
 <сit type = "example"><text>få bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> нуждаться (в чём-л. - for)</text></cit></cit>
 <сit type = "example"><text>få bruk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> употреблять, использовать, применять</text></cit></cit>
@@ -25,14 +25,16 @@
 <сit type="example"><text>til utvendig bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>«наружное» (этикетка на лекарстве)</text></cit></cit>
 </sense>
 <sense>
-обычай, привычка, обряд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обычай, привычка, обряд</text></cit>
 <сit type="example"><text>det er bruk her</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>здесь так водится, здесь так принято</text></cit></cit>
 </sense>
 <sense>
-<u>эк.</u> потребление, расход
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потребление, расход</text></cit>
 </sense>
 <sense>
-<u>юр.</u> право использования (чего-л.), право распоряжаться (чем-л.)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право использования (чего-л.), право распоряжаться (чем-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -42,14 +44,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-хозяйство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хозяйство</text></cit>
 <сit type="example"><text>et kollektivt bruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коллективное хозяйство, колхоз</text></cit></cit>
 </sense>
 <sense>
-промышленное предприятие, фабрика, завод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промышленное предприятие, фабрика, завод</text></cit>
 </sense>
 <sense>
-рыболовные принадлежности (снаряжение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовные принадлежности (снаряжение)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -57,7 +59,8 @@
 <form>
 <orth type="lemma">bruk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> сплавной лес, сплав
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплавной лес, сплав</text></cit>
 </sense>
 </entry>
 </superEntry>

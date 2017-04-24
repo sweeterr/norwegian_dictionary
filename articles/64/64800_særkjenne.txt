@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">særkjenne</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-отличительный (особый, характерный) признак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отличительный (особый, характерный) признак</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-характеризовать особо, быть типичным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>характеризовать особо, быть типичным</text></cit>
 </sense>
 <sense>
-отличать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отличать</text></cit>
 </sense>
 </entry>
 </superEntry>

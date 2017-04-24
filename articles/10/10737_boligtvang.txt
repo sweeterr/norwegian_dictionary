@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">boligtvang</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> ограничение (лишение) права выезда (в качестве наказания)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ограничение (лишение) права выезда (в качестве наказания)</text></cit>
 </sense>
 </entry>
 </superEntry>

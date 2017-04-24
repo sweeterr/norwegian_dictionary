@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ordforklaring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-толкование слов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толкование слов</text></cit>
 </sense>
 </entry>
 </superEntry>

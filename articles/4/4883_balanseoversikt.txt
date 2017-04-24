@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">balanseoversikt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бизн.</u> сводный балансовый отчёт
+<usg>бизн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сводный балансовый отчёт</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ankermekanisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> якорное устройство мины
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>якорное устройство мины</text></cit>
 </sense>
 </entry>
 </superEntry>

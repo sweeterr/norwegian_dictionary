@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pendelsvingning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> амплитуда колебаний маятника
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амплитуда колебаний маятника</text></cit>
 </sense>
 </entry>
 </superEntry>

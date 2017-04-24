@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">empirisme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>филос.</u> эмпиризм
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эмпиризм</text></cit>
 </sense>
 </entry>
 </superEntry>

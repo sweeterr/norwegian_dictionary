@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-боль, ломота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боль, ломота</text></cit>
 </sense>
 <sense>
-беспокойство (на душе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойство (на душе)</text></cit>
 </sense>
 <sense>
-опухоль, нарыв, гнойник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опухоль, нарыв, гнойник</text></cit>
 <сit type="example"><text>det hadde satt seg verk i såret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рана распухла</text></cit></cit>
 </sense>
 </entry>
@@ -24,30 +24,31 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-труд, работа, дело
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труд, работа, дело</text></cit>
 <сit type="example"><text>(ens) henders verk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело рук (кого-л.)</text></cit></cit>
 <сit type="example"><text>gå i verk med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приняться за работу</text></cit></cit>
 <сit type="example"><text>gå (skride) til verket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приступить к работе</text></cit></cit>
 </sense>
 <sense>
-фабрика, завод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фабрика, завод</text></cit>
 </sense>
 <sense>
-фабричное (кустарное) изделие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фабричное (кустарное) изделие</text></cit>
 </sense>
 <sense>
-произведение, сочинение, труд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произведение, сочинение, труд</text></cit>
 <сit type="example"><text>et verk i tre bind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сочинение в трёх томах</text></cit></cit>
 <сit type="example"><text>samlede verker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собрание сочинений</text></cit></cit>
 </sense>
 <sense>
-подвиг, героический поступок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подвиг, героический поступок</text></cit>
 </sense>
 <sense>
-сложная машина, агрегат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сложная машина, агрегат</text></cit>
 </sense>
 <sense>
-<u>воен.</u> укрепление, форт
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрепление, форт</text></cit>
 <сit type="example"><text>sette (få) i verk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>провести в жизнь, осуществить</text></cit></cit>
 </sense>
 </entry>

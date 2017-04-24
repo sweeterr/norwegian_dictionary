@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
-вращение, вращательное движение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращение, вращательное движение</text></cit>
 </sense>
 <sense>
-искажение (лица), гримаса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искажение (лица), гримаса</text></cit>
 </sense>
 <sense>
-острая боль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острая боль</text></cit>
 </sense>
 <sense>
-<u>мед.</u> вывих
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывих</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,13 +27,13 @@
 <inflection><orth>vridde (vred), vridd (vredet)</orth></inflection>
 </form>
 <sense>
-крутить, вертеть, вращать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутить, вертеть, вращать</text></cit>
 </sense>
 <sense>
-повёртывать (голову, ключ)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повёртывать (голову, ключ)</text></cit>
 </sense>
 <sense>
-выжимать, выкручивать (бельё)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выжимать, выкручивать (бельё)</text></cit>
 <сit type="example"><text>vri igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повернуть ключ (в замке)</text></cit></cit>
 <сit type="example"><text>vri om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повёртывать ключ (в замке)</text></cit></cit>
 <сit type = "example"><text>vri opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отомкнуть ключом</text></cit></cit>
@@ -40,10 +41,10 @@
 <сit type="example"><text>vri på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крутиться, вертеться (о человеке)</text></cit></cit>
 </form>
 <sense>
-корчиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корчиться</text></cit>
 </sense>
 <sense>
-извиваться, виться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извиваться, виться</text></cit>
 <сit type="example"><text>vri seg fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпутаться, отвертеться</text></cit></cit>
 <сit type="example"><text>vri seg unna</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вырваться (из объятий и т. д.)</text></cit></cit>
 <сit type="example"><text>vri og vende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уводить разговор в сторону</text></cit></cit>

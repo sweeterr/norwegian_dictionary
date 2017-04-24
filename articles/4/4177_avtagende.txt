@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">avtagende</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-убывание, уменьшение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убывание, уменьшение</text></cit>
 <сit type="example"><text>være i avtagende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ущербе (о луне)</text></cit></cit>
 </sense>
 </entry>

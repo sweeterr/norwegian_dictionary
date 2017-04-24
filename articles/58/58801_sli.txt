@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sli</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> слизь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слизь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">sli</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u> жадный, завистливый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жадный, завистливый</text></cit>
 </sense>
 </entry>
 </superEntry>

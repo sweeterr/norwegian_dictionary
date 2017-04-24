@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">eggehvitestoff</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>хим.</u> белковое вещество, белок
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белковое вещество, белок</text></cit>
 </sense>
 </entry>
 </superEntry>

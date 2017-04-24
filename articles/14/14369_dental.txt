@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dental</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> зубной (дентальный) звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубной (дентальный) звук</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">dental</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>фон.</u> зубной, дентальный (о звуке)
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубной, дентальный (о звуке)</text></cit>
 </sense>
 </entry>
 </superEntry>

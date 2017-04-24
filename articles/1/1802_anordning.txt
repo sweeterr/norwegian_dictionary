@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-предписание, приказание, распоряжение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предписание, приказание, распоряжение</text></cit>
 </sense>
 <sense>
-статья закона (временного характера), узаконение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>статья закона (временного характера), узаконение</text></cit>
 </sense>
 <sense>
-<u>тех.</u> устройство, приспособление
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устройство, приспособление</text></cit>
 </sense>
 </entry>
 </superEntry>

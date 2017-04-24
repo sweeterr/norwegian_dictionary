@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oksygen</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> кислород
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кислород</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">jamne</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выравнивать, сглаживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выравнивать, сглаживать</text></cit>
 </sense>
 <sense>
-разглаживать, расправлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разглаживать, расправлять</text></cit>
 </sense>
 </entry>
 </superEntry>

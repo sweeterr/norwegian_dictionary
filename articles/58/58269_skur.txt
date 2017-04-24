@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-непродолжительный ливень (снегопад, град)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непродолжительный ливень (снегопад, град)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">skur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. spurv
+<usg>диал.</usg>
+<ref>spurv</ref>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">skur</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-навес, сарай, пристройка с односкатной крышей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навес, сарай, пристройка с односкатной крышей</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +30,7 @@
 <form>
 <orth type="lemma">skur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-скрип
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрип</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,13 +40,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-жатва, сбор урожая, уборка хлебов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жатва, сбор урожая, уборка хлебов</text></cit>
 </sense>
 <sense>
-распиловка (брёвен)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распиловка (брёвен)</text></cit>
 </sense>
 <sense>
-резьба (по дереву); деревянная скульптура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резьба (по дереву); деревянная скульптура</text></cit>
 </sense>
 </entry>
 </superEntry>

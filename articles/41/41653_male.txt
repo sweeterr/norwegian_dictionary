@@ -4,22 +4,22 @@
 <index></index>
 <form>
 <orth type="lemma">male</orth>
-<inflection><orth>malte (<u>уст.</u> mol), malt</orth></inflection>
+<inflection><orth>malte (<lbl>уст.</lbl> mol), malt</orth></inflection>
 </form>
 <sense>
-молоть, перемалывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молоть, перемалывать</text></cit>
 </sense>
 <sense>
-провёртывать мясо через мясорубку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провёртывать мясо через мясорубку</text></cit>
 </sense>
 <sense>
-бурлить, кипеть (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурлить, кипеть (о море)</text></cit>
 </sense>
 <sense>
-мурлыкать (о кошке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мурлыкать (о кошке)</text></cit>
 </sense>
 <sense>
-долбить, повторять одно и то же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долбить, повторять одно и то же</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,11 +29,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-красить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красить</text></cit>
 <сit type="example"><text>hun maler seg (i ansiktet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она красится, она подкрашивается</text></cit></cit>
 </sense>
 <sense>
-рисовать, писать (красками)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рисовать, писать (красками)</text></cit>
 <сit type="example"><text>male etter naturen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать с натуры</text></cit></cit>
 <сit type="example"><text>male i olje (i pastell)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать маслом (пастелью)</text></cit></cit>
 <сit type="example"><text>male med vannfarger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рисовать акварелью</text></cit></cit>

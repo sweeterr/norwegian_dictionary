@@ -7,19 +7,22 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-детские качели (из доски)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детские качели (из доски)</text></cit>
 </sense>
 <sense>
-колодезный «журавль»
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колодезный «журавль»</text></cit>
 </sense>
 <sense>
-<u>эл.</u> прерыватель тока
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прерыватель тока</text></cit>
 </sense>
 <sense>
-<u>эл.</u> автоматический выключатель тока при перегрузках
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автоматический выключатель тока при перегрузках</text></cit>
 </sense>
 <sense>
-<u>мор.</u> гордень
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гордень</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,25 +32,26 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-качать, покачивать, раскачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качать, покачивать, раскачивать</text></cit>
 </sense>
 <sense>
-качаться, покачиваться, раскачиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, покачиваться, раскачиваться</text></cit>
 </sense>
 <sense>
-перепрыгивать (перескакивать) с ветки на ветку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перепрыгивать (перескакивать) с ветки на ветку</text></cit>
 </sense>
 <sense>
-потерять равновесие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потерять равновесие</text></cit>
 </sense>
 <sense>
-выводить из равновесия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выводить из равновесия</text></cit>
 </sense>
 <sense>
-дёргать (дрыгать) ногой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дёргать (дрыгать) ногой</text></cit>
 </sense>
 <sense>
-<u>эл.</u> мигать, периодически выключаться (при перегрузках)
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мигать, периодически выключаться (при перегрузках)</text></cit>
 </sense>
 </entry>
 </superEntry>

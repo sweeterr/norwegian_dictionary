@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trollkonge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фольк.</u> король троллей (гномов)
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>король троллей (гномов)</text></cit>
 </sense>
 </entry>
 </superEntry>

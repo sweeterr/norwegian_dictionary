@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rekordholderske</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> рекордсменка
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рекордсменка</text></cit>
 </sense>
 </entry>
 </superEntry>

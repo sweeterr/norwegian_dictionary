@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">timevis</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-в течение многих часов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в течение многих часов</text></cit>
 <сit type = "example"><text>i timevis :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> целыми часами</text></cit></cit>
 <сit type = "example"><text>i timevis :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> час за часом</text></cit></cit>
 </sense>

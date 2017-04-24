@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">svelg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-глоток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глоток</text></cit>
 <сit type="example"><text>i en svelg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>залпом</text></cit></cit>
 </sense>
 </entry>
@@ -16,10 +16,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-зев, глотка, гортань
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зев, глотка, гортань</text></cit>
 </sense>
 <sense>
-бездна, пропасть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездна, пропасть</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slagmark</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u> поле боя
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поле боя</text></cit>
 </sense>
 </entry>
 </superEntry>

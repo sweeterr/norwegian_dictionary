@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">uforlikelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-непримиримость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непримиримость</text></cit>
 </sense>
 <sense>
-разлад, размолвка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разлад, размолвка</text></cit>
 </sense>
 <sense>
-неприязнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприязнь</text></cit>
 </sense>
 </entry>
 </superEntry>

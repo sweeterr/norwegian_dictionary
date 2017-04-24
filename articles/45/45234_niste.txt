@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">niste</orth>
 <inflection><orth extent="part">-a</orth></inflection>
-съестные припасы, сухой завтрак, дорожная снедь (то, что берут с собой на работу, прогулку, в поездку и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>съестные припасы, сухой завтрак, дорожная снедь (то, что берут с собой на работу, прогулку, в поездку и т. п.)</text></cit>
 <сit type="example"><text>tære minnets niste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить одними воспоминаниями</text></cit></cit>
 </sense>
 </entry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">klerikal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-духовный, клерикальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>духовный, клерикальный</text></cit>
 </sense>
 </entry>
 </superEntry>

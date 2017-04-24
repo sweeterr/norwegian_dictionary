@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-овца, баран
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овца, баран</text></cit>
 <сit type="example"><text>sort får</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> паршивая овца</text></cit></cit>
 </sense>
 <sense>
-тупица, баран (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупица, баран (о человеке)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">får</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> борозда
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борозда</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sober</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-трезвый, воздержанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трезвый, воздержанный</text></cit>
 </sense>
 <sense>
-корректный, безупречный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корректный, безупречный</text></cit>
 </sense>
 </entry>
 </superEntry>

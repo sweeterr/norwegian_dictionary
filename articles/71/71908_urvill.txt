@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">urvill</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-примитивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>примитивный</text></cit>
 </sense>
 <sense>
-дикий (о природе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дикий (о природе)</text></cit>
 </sense>
 </entry>
 </superEntry>

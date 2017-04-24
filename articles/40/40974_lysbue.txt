@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-северное сияние (дугообразное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северное сияние (дугообразное)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> электрическая (вольтова) дуга
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электрическая (вольтова) дуга</text></cit>
 </sense>
 </entry>
 </superEntry>

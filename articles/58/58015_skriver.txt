@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-писарь, переписчик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писарь, переписчик</text></cit>
 </sense>
 <sense>
-конторщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конторщик</text></cit>
 </sense>
 <sense>
-<u>диал.</u> судья первой инстанции
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судья первой инстанции</text></cit>
 </sense>
 <sense>
-<u>комп.</u> принтер
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принтер</text></cit>
 </sense>
 </entry>
 </superEntry>

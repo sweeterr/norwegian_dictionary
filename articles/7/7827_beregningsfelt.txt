@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beregningsfelt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> итоговое поле
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>итоговое поле</text></cit>
 </sense>
 </entry>
 </superEntry>

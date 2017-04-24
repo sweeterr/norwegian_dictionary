@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">siranker</orth>
 <inflection><orth extent="part">-eret, -rer</orth></inflection>
-<u>тех.</u> якорная оттяжка, растяжка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>якорная оттяжка, растяжка</text></cit>
 </sense>
 </entry>
 </superEntry>

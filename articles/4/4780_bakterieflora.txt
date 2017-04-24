@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakterieflora</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-бактериальная микрофлора, бактериальная флора
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бактериальная микрофлора, бактериальная флора</text></cit>
 </sense>
 </entry>
 </superEntry>

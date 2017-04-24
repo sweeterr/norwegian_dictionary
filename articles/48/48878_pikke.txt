@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pikke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-небольшая кирка, мотыга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшая кирка, мотыга</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-долбить носом (клювом), продалбливать (отверстие)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долбить носом (клювом), продалбливать (отверстие)</text></cit>
 </sense>
 <sense>
-клевать (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клевать (о птицах)</text></cit>
 </sense>
 <sense>
-барабанить (пальцами), постукивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барабанить (пальцами), постукивать</text></cit>
 </sense>
 <sense>
-тикать (о часах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тикать (о часах)</text></cit>
 <сit type = "example"><text>pikke opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> склёвывать (о птице)</text></cit></cit>
 <сit type = "example"><text>pikke opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> собирать людей</text></cit></cit>
 <сit type = "example"><text>pikke opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> накапливать знания</text></cit></cit>

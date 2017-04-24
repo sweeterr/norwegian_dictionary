@@ -7,23 +7,25 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-обращение, обхождение (с кем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обращение, обхождение (с кем-л.)</text></cit>
 </sense>
 <sense>
-лечение, уход (за больным)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечение, уход (за больным)</text></cit>
 </sense>
 <sense>
-рассмотрение (вопроса, проблемы), обсуждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассмотрение (вопроса, проблемы), обсуждение</text></cit>
 <сit type="example"><text>ta under behandling</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить на рассмотрение (вопрос, проблему, судебное дело)</text></cit></cit>
 </sense>
 <sense>
-управление (машинами, станками)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управление (машинами, станками)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> обработка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обработка</text></cit>
 </sense>
 <sense>
-<u>юр.</u> разбор (дела)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбор (дела)</text></cit>
 </sense>
 </entry>
 </superEntry>

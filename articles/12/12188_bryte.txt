@@ -7,7 +7,7 @@
 <inflection><orth>brøt (braut), brutt</orth></inflection>
 </form>
 <sense>
-ломать(ся), сломать(ся), разбить(ся), порвать(ся)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломать(ся), сломать(ся), разбить(ся), порвать(ся)</text></cit>
 <сit type="example"><text>bryte i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбить(ся) вдребезги, разломать на куски</text></cit></cit>
 <сit type="example"><text>bryte med en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>порвать с кем-л.</text></cit></cit>
 <сit type="example"><text>bryte med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отказаться от чего-л., противодействовать чему-л.</text></cit></cit>
@@ -16,49 +16,51 @@
 <сit type="example"><text>det bryter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шумит, трещит</text></cit></cit>
 </sense>
 <sense>
-прервать (телефонную связь, железнодорожное сообщение)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прервать (телефонную связь, железнодорожное сообщение)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> преломляться
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преломляться</text></cit>
 </sense>
 <sense>
-вскрыть, распечатать (письмо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вскрыть, распечатать (письмо)</text></cit>
 </sense>
 <sense>
-добывать (руду, камень)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добывать (руду, камень)</text></cit>
 </sense>
 <sense>
-обрабатывать (землю), поднимать (целину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрабатывать (землю), поднимать (целину)</text></cit>
 </sense>
 <sense>
-прокладывать (дорогу, путь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прокладывать (дорогу, путь)</text></cit>
 </sense>
 <sense>
-прорубать (прорубь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорубать (прорубь)</text></cit>
 </sense>
 <sense>
-<u>физ.</u> преломлять (свет)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преломлять (свет)</text></cit>
 </sense>
 <sense>
-пробиваться (о траве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пробиваться (о траве)</text></cit>
 </sense>
 <sense>
-нарушать (тишину, однообразие, гамму цветов, тж. обещание, обязательство)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарушать (тишину, однообразие, гамму цветов, тж. обещание, обязательство)</text></cit>
 </sense>
 <sense>
-грянуть (о песне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грянуть (о песне)</text></cit>
 </sense>
 <sense>
-бороться (тж. brytes)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бороться (тж. brytes)</text></cit>
 </sense>
 <sense>
-дрогнуть (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрогнуть (о голосе)</text></cit>
 </sense>
 <sense>
-провиниться (перед кем-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провиниться (перед кем-л. - mot)</text></cit>
 </sense>
 <sense>
-трепать (лён)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трепать (лён)</text></cit>
 <сit type="example"><text>bryte av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отломать, отбить</text></cit></cit>
 <сit type="example"><text>bryte en av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прерывать кого-л.</text></cit></cit>
 <сit type="example"><text>bryte fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выглянуть из-за облаков (о солнце)</text></cit></cit>

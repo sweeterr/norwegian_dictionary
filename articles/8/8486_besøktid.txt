@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">besøktid</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-время посещения (врача, больного, арестованного)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время посещения (врача, больного, арестованного)</text></cit>
 <сit type="example"><text>i besøktiden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в часы посещения (врача, больного, арестованного)</text></cit></cit>
 </sense>
 </entry>

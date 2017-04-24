@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-падение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падение</text></cit>
 </sense>
 <sense>
-валежник, опавшие ветви
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>валежник, опавшие ветви</text></cit>
 </sense>
 <sense>
-<u>уст.</u> поражение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поражение</text></cit>
 <сit type="example"><text>stå til nedfalls</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грозить падением (от ветхости, о постройке)</text></cit></cit>
 </sense>
 </entry>

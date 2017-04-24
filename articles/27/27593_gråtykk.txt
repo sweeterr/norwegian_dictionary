@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gråtykk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-хмурый (о погоде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хмурый (о погоде)</text></cit>
 </sense>
 </entry>
 </superEntry>

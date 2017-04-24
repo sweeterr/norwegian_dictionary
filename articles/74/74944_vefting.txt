@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vefting</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>текст.</u>
+<usg>текст.</usg>
 </form>
 <sense>
-прибивание уткá
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибивание уткá</text></cit>
 </sense>
 <sense>
-утóк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утóк</text></cit>
 </sense>
 </entry>
 </superEntry>

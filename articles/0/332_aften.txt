@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-enen, -(е)ner</orth></inflection>
 </form>
 <sense>
-вечер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечер</text></cit>
 <сit type="example"><text>det blir aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вечереет</text></cit></cit>
 <сit type="example"><text>god aften!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добрый вечер!</text></cit></cit>
 <сit type="example"><text>en aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>однажды вечером</text></cit></cit>
@@ -23,23 +23,24 @@
 <сit type="example"><text>imorgen aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завтра вечером</text></cit></cit>
 <сit type="example"><text>fra morgen til aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с утра до вечера</text></cit></cit>
 <сit type="example"><text>langt ut på aftenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до позднего вечера</text></cit></cit>
-<сit type="example"><text>i aftes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. aftes</text></cit></cit>
+<сit type="example"><text>i aftes</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>aftes</ref></text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> закат жизни (тж. livets aften)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закат жизни (тж. livets aften)</text></cit>
 </sense>
 <sense>
-канун праздника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>канун праздника</text></cit>
 </sense>
 <sense>
-ужин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ужин</text></cit>
 <сit type="example"><text>spise (til) aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ужинать</text></cit></cit>
 <сit type="example"><text>innby til aftens</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пригласить на ужин</text></cit></cit>
 <сit type="example"><text>spise aftens ute</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ужинать вне дома</text></cit></cit>
 <сit type="example"><text>stelle aftens</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накрыть стол к ужину, собрать ужинать</text></cit></cit>
 </sense>
 <sense>
-вечер, вечеринка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вечер, вечеринка</text></cit>
 <сit type="example"><text>litterær aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>литературный вечер</text></cit></cit>
 <сit type="example"><text>musikalsk aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>музыкальный вечер</text></cit></cit>
 </sense>

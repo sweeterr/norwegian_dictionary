@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">logikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-логика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>логика</text></cit>
 </sense>
 </entry>
 </superEntry>

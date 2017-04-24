@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">flofri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>диал.</u> незатапливаемый (о районе, месте)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>незатапливаемый (о районе, месте)</text></cit>
 </sense>
 </entry>
 </superEntry>

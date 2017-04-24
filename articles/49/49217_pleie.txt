@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pleie</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-уход (за больными, за детьми), забота, присмотр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уход (за больными, за детьми), забота, присмотр</text></cit>
 <сit type="example"><text>bli gitt (satt) i pleie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть отданным на воспитание</text></cit></cit>
 <сit type="example"><text>være i pleie</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться на воспитании</text></cit></cit>
 </sense>
@@ -17,16 +17,16 @@
 <inflection><orth extent="part">-(d)de (-et), -(d)d (-et)</orth></inflection>
 </form>
 <sense>
-ухаживать, присматривать (за больным ребёнком)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухаживать, присматривать (за больным ребёнком)</text></cit>
 </sense>
 <sense>
-заботиться (о здоровье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заботиться (о здоровье)</text></cit>
 </sense>
 <sense>
-развивать (качества)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>развивать (качества)</text></cit>
 </sense>
 <sense>
-с последующей формой инфинитива иметь обыкновение (делать что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с последующей формой инфинитива иметь обыкновение (делать что-л.)</text></cit>
 <сit type="example"><text>som det pleier</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как обычно, как принято</text></cit></cit>
 <сit type="example"><text>som man pleier å si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как обычно говорят</text></cit></cit>
 </sense>

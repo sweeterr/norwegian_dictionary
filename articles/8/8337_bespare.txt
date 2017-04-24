@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bespare</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-сохранять, беречь, щадить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сохранять, беречь, щадить</text></cit>
 </sense>
 <sense>
-экономить, выгадывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экономить, выгадывать</text></cit>
 </sense>
 </entry>
 </superEntry>

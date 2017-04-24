@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ante</orth>
 <gramGrp><pos>pref</pos></gramGrp>
-указывает на событие, предшествовавшее данному – до
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на событие, предшествовавшее данному – до</text></cit>
 </sense>
 </entry>
 </superEntry>

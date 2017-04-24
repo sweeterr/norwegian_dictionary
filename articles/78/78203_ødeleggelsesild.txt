@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ødeleggelsesild</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> (артиллерийский) огонь на разрушение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(артиллерийский) огонь на разрушение</text></cit>
 </sense>
 </entry>
 </superEntry>

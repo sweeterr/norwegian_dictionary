@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-воздух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздух</text></cit>
 <сit type="example"><text>frisk (fuktig, flytende, komprimert) luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свежий (сырой, жидкий, сжатый) воздух</text></cit></cit>
 <сit type="example"><text>i fri luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на открытом (на вольном) воздухе</text></cit></cit>
 <сit type="example"><text>i fykende luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в метель</text></cit></cit>
@@ -15,16 +15,16 @@
 <сit type="example"><text>fylle noe med luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надуть воздухом</text></cit></cit>
 <сit type="example"><text>pumpe luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>накачивать воздух</text></cit></cit>
 <сit type = "example"><text>rense luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> очищать (освежать) воздух</text></cit></cit>
-<сit type = "example"><text>rense luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> разряжать атмосферу</text></cit></cit>
+<сit type = "example"><text>rense luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> разряжать атмосферу</text></cit></cit>
 <сit type="example"><text>se ut i luften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смотреть куда-то вдаль</text></cit></cit>
 <сit type="example"><text>ta luften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подняться в воздух, взмыть (о самолёте)</text></cit></cit>
 <сit type="example"><text>luften er ladet med elektrisitet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воздух наэлектризован</text></cit></cit>
 </sense>
 <sense>
-настроение; <u>перен.</u> атмосфера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настроение; <lbl>перен.</lbl> атмосфера</text></cit>
 </sense>
 <sense>
-выражение чувств
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выражение чувств</text></cit>
 <сit type="example"><text>gi sin harme luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать волю своим чувствам</text></cit></cit>
 <сit type="example"><text>i luft i luka</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> <lbl>перен.</lbl> свежая струя, оживление</text></cit></cit>
 <сit type="example"><text>det ligger i luften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> это носится в воздухе</text></cit></cit>
@@ -35,7 +35,7 @@
 <сit type = "example"><text>sprenge i luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> взорваться, взлететь на воздух</text></cit></cit>
 <сit type = "example"><text>sprenge i luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> испортить, разломать на куски</text></cit></cit>
 <сit type = "example"><text>sveve i luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> витать в воздухе</text></cit></cit>
-<сit type = "example"><text>sveve i luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> носиться в воздухе</text></cit></cit>
+<сit type = "example"><text>sveve i luften :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> носиться в воздухе</text></cit></cit>
 <сit type="example"><text>til den tomme luft</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>впустую</text></cit></cit>
 </sense>
 </entry>

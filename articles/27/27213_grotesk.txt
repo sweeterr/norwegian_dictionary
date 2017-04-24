@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">grotesk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-гротеск, гротескная скульптура
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гротеск, гротескная скульптура</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">grotesk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-гротескный, уродливо-комический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гротескный, уродливо-комический</text></cit>
 </sense>
 </entry>
 </superEntry>

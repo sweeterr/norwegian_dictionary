@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">weltervekter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> боксёр (борец) полусреднего веса
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боксёр (борец) полусреднего веса</text></cit>
 </sense>
 </entry>
 </superEntry>

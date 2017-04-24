@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fjed</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>поэт.</u>
+<usg>поэт.</usg>
 </form>
 <sense>
-след (ноги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>след (ноги)</text></cit>
 </sense>
 <sense>
-шаг, поступь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаг, поступь</text></cit>
 </sense>
 </entry>
 </superEntry>

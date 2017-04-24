@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">stummørk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> тёмный-претёмный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный-претёмный</text></cit>
 </sense>
 </entry>
 </superEntry>

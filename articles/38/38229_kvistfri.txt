@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">kvistfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-лишённый веток (о дереве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лишённый веток (о дереве)</text></cit>
 </sense>
 <sense>
-не имеющий свилей, сучков (о доске)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий свилей, сучков (о доске)</text></cit>
 </sense>
 </entry>
 </superEntry>

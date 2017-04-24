@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">byrek</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> <u>разг.</u> городское хулиганьё, подонки городского населения
+<usg>собир.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городское хулиганьё, подонки городского населения</text></cit>
 </sense>
 </entry>
 </superEntry>

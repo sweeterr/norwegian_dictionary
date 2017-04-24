@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trase</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> неряха, неаккуратный человек
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряха, неаккуратный человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-лоскут, тряпка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лоскут, тряпка</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-лохмотья, отрепье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лохмотья, отрепье</text></cit>
 </sense>
 </entry>
 </superEntry>

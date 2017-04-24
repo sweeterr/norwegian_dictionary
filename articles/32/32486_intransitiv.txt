@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">intransitiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> непереходный (о глаголе)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непереходный (о глаголе)</text></cit>
 </sense>
 </entry>
 </superEntry>

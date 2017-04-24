@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tvag</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-тёплая вода (для полоскания белья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёплая вода (для полоскания белья)</text></cit>
 </sense>
 <sense>
-навозная жижа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навозная жижа</text></cit>
 </sense>
 </entry>
 </superEntry>

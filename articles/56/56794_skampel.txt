@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skampel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>ист.</u> позорный столб
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>позорный столб</text></cit>
 </sense>
 </entry>
 </superEntry>

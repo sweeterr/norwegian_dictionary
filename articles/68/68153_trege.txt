@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trege</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-досада, неприятность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>досада, неприятность</text></cit>
 </sense>
 <sense>
-огорчение, печаль, скорбь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огорчение, печаль, скорбь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,16 +19,16 @@
 <form>
 <orth type="lemma">trege</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сердить, раздражать, докучать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердить, раздражать, докучать</text></cit>
 </sense>
 <sense>
-сердиться, досадовать (на что-л. - over, på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердиться, досадовать (на что-л. - over, på)</text></cit>
 </sense>
 <sense>
-сокрушаться, раскаиваться (в чём-л. - på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сокрушаться, раскаиваться (в чём-л. - på)</text></cit>
 </sense>
 </entry>
 </superEntry>

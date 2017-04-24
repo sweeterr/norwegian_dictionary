@@ -7,14 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-раненый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раненый</text></cit>
 <сit type="example"><text>hardt såret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тяжело раненный</text></cit></cit>
 <сit type="example"><text>lett såret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко раненный</text></cit></cit>
 <сit type="example"><text>såret i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раненный в голову</text></cit></cit>
 <сit type="example"><text>såret av en kule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ранен выстрелом из винтовки</text></cit></cit>
 </sense>
 <sense>
-уязвлённый, оскорблённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уязвлённый, оскорблённый</text></cit>
 </sense>
 </entry>
 </superEntry>

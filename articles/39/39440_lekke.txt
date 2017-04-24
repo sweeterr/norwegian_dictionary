@@ -4,14 +4,14 @@
 <index></index>
 <form>
 <orth type="lemma">lekke</orth>
-см. lenke I
+<ref>lenke I</ref>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">lekke</orth>
-см. lenke II
+<ref>lenke II</ref>
 </sense>
 </entry>
 <entry>
@@ -21,13 +21,15 @@
 <inflection><orth>lekket (lekte, lakk), lek(ke)t</orth></inflection>
 </form>
 <sense>
-протекать, просачиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протекать, просачиваться</text></cit>
 </sense>
 <sense>
-<u>перен.</u> раскрываться (о секрете, тайне)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскрываться (о секрете, тайне)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> течь, давать течь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>течь, давать течь</text></cit>
 <сit type="example"><text>lekke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>давать утечку (о жидкости, газе)</text></cit></cit>
 </sense>
 </entry>

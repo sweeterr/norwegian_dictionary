@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bisn</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> удивительная вещь, диво
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удивительная вещь, диво</text></cit>
 </sense>
 </entry>
 </superEntry>

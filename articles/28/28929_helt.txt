@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-герой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>герой</text></cit>
 <сit type="example"><text>hverdagens helter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>незаметные герои</text></cit></cit>
 <сit type="example"><text>være dagens helt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть героем дня</text></cit></cit>
 </sense>
 <sense>
-герой произведения, исполнитель главной мужской роли (в пьесе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>герой произведения, исполнитель главной мужской роли (в пьесе)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,13 +22,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-целиком, полностью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целиком, полностью</text></cit>
 <сit type="example"><text>helt annet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто совершенно иное</text></cit></cit>
 <сit type="example"><text>helt og fullt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>целиком и полностью</text></cit></cit>
 <сit type="example"><text>helt og holdent</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всецело</text></cit></cit>
 </sense>
 <sense>
-вполне, совершенно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вполне, совершенно</text></cit>
 <сit type="example"><text>helt igjennom (ut)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, абсолютно</text></cit></cit>
 <сit type="example"><text>helt om!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>воен.</lbl> кругом! (команда)</text></cit></cit>
 </sense>

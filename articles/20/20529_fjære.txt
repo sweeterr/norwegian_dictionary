@@ -7,17 +7,17 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-отлив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отлив</text></cit>
 <сit type="example"><text>flo og fjære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прилив и отлив</text></cit></cit>
 <сit type="example"><text>det er fjære</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низкая вода</text></cit></cit>
 <сit type="example"><text>fjære sjø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отлив, малая вода</text></cit></cit>
 <сit type="example"><text>i fjære sjø</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во время отлива</text></cit></cit>
 </sense>
 <sense>
-заливаемая часть берега (во время прилива)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заливаемая часть берега (во время прилива)</text></cit>
 </sense>
 <sense>
-пологая песчаная отмель, пологий песчаный берег
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пологая песчаная отмель, пологий песчаный берег</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,7 +25,7 @@
 <form>
 <orth type="lemma">fjære</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-убывать (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убывать (о воде)</text></cit>
 <сit type="example"><text>det fjærer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вода убывает</text></cit></cit>
 </sense>
 </entry>
@@ -36,13 +36,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-подрессоривать, ставить пружины (рессоры)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подрессоривать, ставить пружины (рессоры)</text></cit>
 </sense>
 <sense>
-пружинить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пружинить</text></cit>
 </sense>
 <sense>
-соединять доски в паз (с помощью шипов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединять доски в паз (с помощью шипов)</text></cit>
 </sense>
 </entry>
 </superEntry>

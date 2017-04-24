@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frisersalong</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-парикмахерская
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парикмахерская</text></cit>
 </sense>
 </entry>
 </superEntry>

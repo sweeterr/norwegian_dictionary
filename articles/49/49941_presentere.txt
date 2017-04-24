@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-представлять, знакомить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>представлять, знакомить</text></cit>
 <сit type="example"><text>må jeg presentere herrene for hinannen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>позвольте мне познакомить вас (двух мужчин) друг с другом; tillat meg a presentere hr. N. for Dem - разрешите мне представить вам господина N.</text></cit></cit>
 </sense>
 <sense>
-предъявлять документ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предъявлять документ</text></cit>
 </sense>
 <sense>
-играть (роль), ставить (пьесу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (роль), ставить (пьесу)</text></cit>
 </sense>
 <sense>
-представить (показать) что-л. неожиданно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>представить (показать) что-л. неожиданно</text></cit>
 </sense>
 <sense>
-<u>воен.</u> presentere gevær! на караул! (команда)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>presentere gevær! на караул! (команда)</text></cit>
 </sense>
 </entry>
 </superEntry>

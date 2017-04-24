@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">slektstor</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-знатный, родовитый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знатный, родовитый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-комплект, набор, ассортимент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплект, набор, ассортимент</text></cit>
 </sense>
 <sense>
-сервиз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сервиз</text></cit>
 </sense>
 <sense>
-компания (сидящих за столом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компания (сидящих за столом)</text></cit>
 </sense>
 <sense>
-ряд, серия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряд, серия</text></cit>
 <сit type="example"><text>i ett sett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все вместе</text></cit></cit>
 </sense>
 </entry>
@@ -27,13 +27,13 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-установка (рыболовных снастей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>установка (рыболовных снастей)</text></cit>
 </sense>
 <sense>
-комплект сетей, выставляемых за один раз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комплект сетей, выставляемых за один раз</text></cit>
 </sense>
 <sense>
-рыболовная зона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовная зона</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,7 +41,7 @@
 <form>
 <orth type="lemma">sett</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-способ, манера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>способ, манера</text></cit>
 <сit type="example"><text>på sett og vis</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тем или иным способом, так или иначе</text></cit></cit>
 <сit type="example"><text>på mange sett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>многими способами</text></cit></cit>
 </sense>
@@ -53,10 +53,10 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-скачок, прыжок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скачок, прыжок</text></cit>
 </sense>
 <sense>
-вздрагивание, толчок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздрагивание, толчок</text></cit>
 <сit type="example"><text>med ett sett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вдруг, сразу</text></cit></cit>
 </sense>
 </entry>

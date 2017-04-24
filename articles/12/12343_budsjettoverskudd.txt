@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">budsjettoverskudd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эк.</u> профицит бюджета
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>профицит бюджета</text></cit>
 </sense>
 </entry>
 </superEntry>

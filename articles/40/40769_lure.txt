@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-подслушивать, подглядывать, выслеживать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подслушивать, подглядывать, выслеживать</text></cit>
 </sense>
 <sense>
-сидеть в засаде, подстерегать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в засаде, подстерегать</text></cit>
 <сit type="example"><text>lure på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>размышлять, раздумывать над чем-л.</text></cit></cit>
 </sense>
 <sense>
-перехитрить, одурачить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перехитрить, одурачить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,13 +22,13 @@
 <form>
 <orth type="lemma">lure</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-вздремнуть, соснуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздремнуть, соснуть</text></cit>
 </sense>
 <sense>
-отлынивать от работы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отлынивать от работы</text></cit>
 </sense>
 </entry>
 </superEntry>

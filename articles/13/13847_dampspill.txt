@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dampspill</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>мор.</u> паровой брашпиль
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паровой брашпиль</text></cit>
 </sense>
 </entry>
 </superEntry>

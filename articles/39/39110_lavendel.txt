@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lavendel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> лаванда аптечная
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лаванда аптечная</text></cit>
 </sense>
 </entry>
 </superEntry>

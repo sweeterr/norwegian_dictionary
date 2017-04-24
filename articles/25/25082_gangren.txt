@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gangren</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мед.</u> гангрена, антонов огонь
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гангрена, антонов огонь</text></cit>
 </sense>
 </entry>
 </superEntry>

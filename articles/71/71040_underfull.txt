@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">underfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-удивительный, замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удивительный, замечательный</text></cit>
 </sense>
 <sense>
-чудесный, восхитительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чудесный, восхитительный</text></cit>
 </sense>
 <sense>
-загадочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загадочный</text></cit>
 </sense>
 </entry>
 </superEntry>

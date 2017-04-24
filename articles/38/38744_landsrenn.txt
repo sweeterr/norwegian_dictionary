@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landsrenn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>спорт.</u> соревнование по лыжам с участием лыжников всей страны
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соревнование по лыжам с участием лыжников всей страны</text></cit>
 </sense>
 </entry>
 </superEntry>

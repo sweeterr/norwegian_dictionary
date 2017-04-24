@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skogmarimjelle</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>бот.</u> марьянник лесной
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>марьянник лесной</text></cit>
 </sense>
 </entry>
 </superEntry>

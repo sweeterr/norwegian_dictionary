@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vårfrudag</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>церк.</u> благовещение (праздник)
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благовещение (праздник)</text></cit>
 </sense>
 </entry>
 </superEntry>

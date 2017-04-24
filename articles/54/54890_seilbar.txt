@@ -5,17 +5,18 @@
 <form>
 <orth type="lemma">seilbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-судоходный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судоходный</text></cit>
 </sense>
 <sense>
-<u>мор.</u> в исправном состоянии (для плавания)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в исправном состоянии (для плавания)</text></cit>
 </sense>
 <sense>
-<u>ком.</u> выгодный, доходный (о фрахтовых сделках)
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выгодный, доходный (о фрахтовых сделках)</text></cit>
 </sense>
 </entry>
 </superEntry>

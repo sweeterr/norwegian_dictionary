@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">egenskapsord</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>грам.</u> имя прилагательное
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имя прилагательное</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tingstue</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>ист.</u>
+<usg>ист.</usg>
 </form>
 <sense>
-помещение суда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение суда</text></cit>
 </sense>
 <sense>
-народ, собравшийся на суд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народ, собравшийся на суд</text></cit>
 </sense>
 </entry>
 </superEntry>

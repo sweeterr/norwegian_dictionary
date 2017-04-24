@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bestevenn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-лучший друг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лучший друг</text></cit>
 <сit type="example"><text>være bestevenner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дружить, быть в дружеских отношениях (с кем-л. - med)</text></cit></cit>
 </sense>
 </entry>

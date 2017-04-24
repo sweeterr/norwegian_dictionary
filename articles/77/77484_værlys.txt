@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">værlys</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-молния
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молния</text></cit>
 </sense>
 <sense>
-северное сияние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>северное сияние</text></cit>
 </sense>
 </entry>
 </superEntry>

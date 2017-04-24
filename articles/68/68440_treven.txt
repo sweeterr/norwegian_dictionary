@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">treven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-медлительный, ленивый, инертный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлительный, ленивый, инертный</text></cit>
 </sense>
 <sense>
-медленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медленный</text></cit>
 </sense>
 <sense>
-скучный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скучный</text></cit>
 </sense>
 <sense>
-тусклый (об освещении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тусклый (об освещении)</text></cit>
 </sense>
 </entry>
 </superEntry>

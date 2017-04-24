@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arbeidsspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-рабочий язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий язык</text></cit>
 </sense>
 </entry>
 </superEntry>

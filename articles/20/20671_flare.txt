@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">flare</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-просвет, прогалина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просвет, прогалина</text></cit>
 </sense>
 <sense>
-щель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">flare</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u> вспыхнуть (тж. flare opp)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспыхнуть (тж. flare opp)</text></cit>
 </sense>
 </entry>
 </superEntry>

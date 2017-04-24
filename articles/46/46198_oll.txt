@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oll</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> крик, гам
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, гам</text></cit>
 </sense>
 </entry>
 </superEntry>

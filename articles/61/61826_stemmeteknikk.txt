@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stemmeteknikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> техника пения
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>техника пения</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-впереди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впереди</text></cit>
 </sense>
 <sense>
-прежде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прежде</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,11 +20,11 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-указывает на положение впереди другого предмета, перед
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на положение впереди другого предмета, перед</text></cit>
 <сit type="example"><text>framfor huset</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перед домом</text></cit></cit>
 </sense>
 <sense>
-указывает на предпочтение одного предмета перед другим, перед, из, по сравнению с
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на предпочтение одного предмета перед другим, перед, из, по сравнению с</text></cit>
 <сit type="example"><text>framfor alt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в первую очередь, прежде всего</text></cit></cit>
 <сit type="example"><text>ha et fortrin(n) framfor en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь преимущество перед кем-л.</text></cit></cit>
 </sense>

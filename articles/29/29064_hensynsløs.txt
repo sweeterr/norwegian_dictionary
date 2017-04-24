@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">hensynsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-грубый, не считающийся ни с чем, бесцеремонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, не считающийся ни с чем, бесцеремонный</text></cit>
 </sense>
 <sense>
-беспощадный, хищнический, жестокий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспощадный, хищнический, жестокий</text></cit>
 </sense>
 </entry>
 </superEntry>

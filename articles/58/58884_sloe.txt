@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sloe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> потрошить (рыбу)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрошить (рыбу)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">sloe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> волочить, тащить волоком
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волочить, тащить волоком</text></cit>
 </sense>
 </entry>
 </superEntry>

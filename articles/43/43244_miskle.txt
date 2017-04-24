@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">miskle</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-не быть к лицу, не идти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не быть к лицу, не идти</text></cit>
 <сit type="example"><text>hatten miskler henne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шляпа не идёт к ней</text></cit></cit>
 </sense>
 </entry>

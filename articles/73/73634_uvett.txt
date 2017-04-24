@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">uvett</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неблагоразумие, глупость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неблагоразумие, глупость</text></cit>
 </sense>
 <sense>
-бессознательное состояние, обморок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бессознательное состояние, обморок</text></cit>
 </sense>
 <sense>
-бред
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бред</text></cit>
 </sense>
 <sense>
-глупец, дурак, простофиля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупец, дурак, простофиля</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vinkelskriver</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-крючкотвор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крючкотвор</text></cit>
 </sense>
 <sense>
-плохой адвокат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой адвокат</text></cit>
 </sense>
 <sense>
-плохой писатель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плохой писатель</text></cit>
 </sense>
 </entry>
 </superEntry>

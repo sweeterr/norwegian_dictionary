@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lyrikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лит.</u>
+<usg>лит.</usg>
 </form>
 <sense>
-лирика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лирика</text></cit>
 </sense>
 <sense>
-лирическое настроение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лирическое настроение</text></cit>
 </sense>
 </entry>
 </superEntry>

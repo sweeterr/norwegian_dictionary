@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">der</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
 <gramGrp><pos>rel</pos></gramGrp>
-который, которая, которое, которые
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>который, которая, которое, которые</text></cit>
 <сit type="example"><text>hvem der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который</text></cit></cit>
 <сit type="example"><text>hva der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>то, что</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><pos>indef</pos></gramGrp>
- как грамматическое подлежащее, ударения не несёт и не переводится:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как грамматическое подлежащее, ударения не несёт и не переводится:</text></cit>
 <сit type="example"><text>der var engang en gammel fisker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жил-был старый рыбак</text></cit></cit>
 <сit type="example"><text>der er ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>есть, имеется</text></cit></cit>
 </sense>
@@ -27,7 +27,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-там
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>там</text></cit>
 <сit type="example"><text>her og der</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут и там</text></cit></cit>
 <сit type="example"><text>der bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(вон) туда</text></cit></cit>
 <сit type="example"><text>der borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(вон) там</text></cit></cit>
@@ -48,7 +48,7 @@
 <сit type="example"><text>der er han</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот и он</text></cit></cit>
 </sense>
 <sense>
-с глаголами gå, ligge, sitte, stå не переводится:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с глаголами gå, ligge, sitte, stå не переводится:</text></cit>
 <сit type="example"><text>stå nå ikke der som en ste(i)nstøtte!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не стой же как истукан!</text></cit></cit>
 </sense>
 </entry>
@@ -57,7 +57,7 @@
 <form>
 <orth type="lemma">der</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-там где
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>там где</text></cit>
 </sense>
 </entry>
 </superEntry>

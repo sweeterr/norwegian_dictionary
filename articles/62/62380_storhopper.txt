@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">storhopper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u> прыгун высокого класса (на лыжах)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыгун высокого класса (на лыжах)</text></cit>
 </sense>
 </entry>
 </superEntry>

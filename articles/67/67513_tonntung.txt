@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">tonntung</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-весом в одну тонну
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весом в одну тонну</text></cit>
 </sense>
 <sense>
-многотонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>многотонный</text></cit>
 </sense>
 </entry>
 </superEntry>

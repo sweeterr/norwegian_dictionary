@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sendetid</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>радио</u> часы радиопередач
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>часы радиопередач</text></cit>
 </sense>
 </entry>
 </superEntry>

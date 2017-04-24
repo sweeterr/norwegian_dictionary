@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gladiolus</orth>
 <inflection><orth extent="part">-en, -er (gladioler)</orth></inflection>
-<u>бот.</u> гладиолус, шпажник
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гладиолус, шпажник</text></cit>
 </sense>
 </entry>
 </superEntry>

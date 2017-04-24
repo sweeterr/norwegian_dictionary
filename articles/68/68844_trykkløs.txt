@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">trykkløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-безударный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безударный</text></cit>
 </sense>
 </entry>
 </superEntry>

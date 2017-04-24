@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-насилие, принуждение, нажим
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насилие, принуждение, нажим</text></cit>
 <сit type="example"><text>av tvang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по принуждению</text></cit></cit>
 <сit type="example"><text>under tvang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>под давлением (нажимом)</text></cit></cit>
 <сit type="example"><text>ved tvang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насильственным путём</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> исправительный дом
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исправительный дом</text></cit>
 </sense>
 </entry><entry>
 <index></index>

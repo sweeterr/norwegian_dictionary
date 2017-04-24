@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sort</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-сорт, род, тип
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорт, род, тип</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-чёрный цвет, чёрная краска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный цвет, чёрная краска</text></cit>
 <сit type="example"><text>få (ha) sort på hvitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь убедительное доказательство</text></cit></cit>
 <сit type="example"><text>gi (vise) sort på hvitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убедительно доказать</text></cit></cit>
 <сit type="example"><text>gjøre sort til hvitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извращать истину, превращать чёрное в белое</text></cit></cit>
 </sense>
 <sense>
-чёрная ткань, чёрная одежда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрная ткань, чёрная одежда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,14 +31,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-чёрный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный</text></cit>
 </sense>
 <sense>
-тёмный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный</text></cit>
 <сit type="example"><text>det ble sort i øyene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в глазах потемнело</text></cit></cit>
 </sense>
 <sense>
-мрачный, хмурый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мрачный, хмурый</text></cit>
 <сit type="example"><text>ergre (gruble) seg sort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильно рассердиться (глубоко задуматься)</text></cit></cit>
 <ref>svart</ref>
 </sense>

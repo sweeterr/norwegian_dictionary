@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hornmusikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-духовая музыка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>духовая музыка</text></cit>
 </sense>
 </entry>
 </superEntry>

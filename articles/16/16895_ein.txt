@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">ein</orth>
-<u>диал.</u> неопределённый артикль м. р. ед. ч.
-см. en III
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопределённый артикль м. р. ед. ч.</text></cit>
+<ref>en III</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">ein</orth>
 <gramGrp><pos>num</pos></gramGrp>
- один
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>один</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stemmenøkkel</orth>
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
-<u>муз.</u> ключ для настройки (инструмента)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ключ для настройки (инструмента)</text></cit>
 </sense>
 </entry>
 </superEntry>

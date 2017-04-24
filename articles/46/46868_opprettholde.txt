@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">opprettholde</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-поддерживать (в каком-л. состоянии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поддерживать (в каком-л. состоянии)</text></cit>
 </sense>
 <sense>
-соблюдать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соблюдать</text></cit>
 </sense>
 </entry>
 </superEntry>

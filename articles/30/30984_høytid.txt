@@ -7,14 +7,16 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-праздник, празднество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>праздник, празднество</text></cit>
 <сit type="example"><text>til høytids</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в праздник</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> свадьба
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свадьба</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> приподнятое настроение
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приподнятое настроение</text></cit>
 </sense>
 </entry>
 </superEntry>

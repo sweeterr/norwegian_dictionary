@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kommandobru</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-командирский (капитанский) мостик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командирский (капитанский) мостик</text></cit>
 </sense>
 <sense>
-ходовая рубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходовая рубка</text></cit>
 </sense>
 </entry>
 </superEntry>

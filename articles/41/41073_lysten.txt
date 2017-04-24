@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">lysten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-страстно желающий, жаждущий (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страстно желающий, жаждущий (чего-л.)</text></cit>
 <сit type="example"><text>være lysten etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь желание (охоту)</text></cit></cit>
 <сit type="example"><text>være lysten på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть склонным (делать что-л. )</text></cit></cit>
 </sense>

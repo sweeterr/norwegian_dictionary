@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-топот, тяжёлая поступь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топот, тяжёлая поступь</text></cit>
 </sense>
 <sense>
-<u>разг.</u> стоячие места на галёрке (в театре)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоячие места на галёрке (в театре)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,16 +21,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-бродяга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродяга</text></cit>
 </sense>
 <sense>
-пеший турист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеший турист</text></cit>
 </sense>
 <sense>
-<u>мор.</u> грузовой (трамповый) пароход
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грузовой (трамповый) пароход</text></cit>
 </sense>
 <sense>
-<u>мор.</u> трамповое плавание
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трамповое плавание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -37,7 +40,8 @@
 <form>
 <orth type="lemma">tramp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> пеший туризм
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеший туризм</text></cit>
 <сit type="example"><text>ta trampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить из гавани в гавань в поисках работы (о безработных матросах)</text></cit></cit>
 </sense>
 </entry>

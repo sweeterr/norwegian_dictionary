@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-<u>грам.</u> повелительное наклонение
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повелительное наклонение</text></cit>
 </sense>
 <sense>
-<u>филос.</u> императив
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>императив</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,9 +20,8 @@
 <form>
 <orth type="lemma">imperativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-императивный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>императивный</text></cit>
 </sense>
 </entry>
 </superEntry>

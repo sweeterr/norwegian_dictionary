@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-квадрат
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квадрат</text></cit>
 </sense>
 <sense>
-<u>мат.</u> квадрат числа
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квадрат числа</text></cit>
 </sense>
 <sense>
-<u>муз.</u> бекар
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бекар</text></cit>
 </sense>
 </entry>
 </superEntry>

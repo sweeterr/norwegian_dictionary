@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">kirsebærrød</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вишнёвый, вишнёво-красный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вишнёвый, вишнёво-красный</text></cit>
 </sense>
 </entry>
 </superEntry>

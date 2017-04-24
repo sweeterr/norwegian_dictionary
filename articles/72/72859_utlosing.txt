@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utlosing</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> вывод судна лоцманом
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывод судна лоцманом</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">purpurgyllen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-пурпурно-золотистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пурпурно-золотистый</text></cit>
 </sense>
 </entry>
 </superEntry>

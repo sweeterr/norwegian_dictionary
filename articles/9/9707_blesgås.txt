@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blesgås</orth>
 <inflection><orth extent="part">-gåsen (-gåsa), -gjess</orth></inflection>
-<u>зоол.</u> гусь белолобый, или казарка белолобая
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гусь белолобый, или казарка белолобая</text></cit>
 </sense>
 </entry>
 </superEntry>

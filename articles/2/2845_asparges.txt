@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">asparges</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>бот.</u> спаржа (огородная)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спаржа (огородная)</text></cit>
 <сit type="example"><text>stikke asparges</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>срезать спаржу</text></cit></cit>
 </sense>
 </entry>

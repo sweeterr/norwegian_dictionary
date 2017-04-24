@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">farmer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-фермер
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фермер</text></cit>
 </sense>
 </entry>
 </superEntry>

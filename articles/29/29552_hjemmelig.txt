@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">hjemmelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-домашний, уютный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домашний, уютный</text></cit>
 <сit type="example"><text>ha det hjemmelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя как дома</text></cit></cit>
 </sense>
 <sense>
-привязанный к дому
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привязанный к дому</text></cit>
 <сit type="example"><text>han er hjemmelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он домосед</text></cit></cit>
 <сit type="example"><text>holde seg hjemmelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не высовывать носа из дому</text></cit></cit>
 </sense>

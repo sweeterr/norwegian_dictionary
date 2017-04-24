@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tropeegn</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геогр.</u> тропический пояс, тропические страны
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тропический пояс, тропические страны</text></cit>
 </sense>
 </entry>
 </superEntry>

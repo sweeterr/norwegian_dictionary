@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">halvtredje</orth>
 <gramGrp><pos>num</pos></gramGrp>
-два с половиной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>два с половиной</text></cit>
 </sense>
 </entry>
 </superEntry>

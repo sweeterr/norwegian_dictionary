@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">purgativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-слабительное средство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабительное средство</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">purgativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-слабительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабительный</text></cit>
 </sense>
 </entry>
 </superEntry>

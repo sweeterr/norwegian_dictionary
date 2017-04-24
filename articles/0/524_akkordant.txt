@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">akkordant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> лицо, ведущее переговоры об отсрочке в платежах
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лицо, ведущее переговоры об отсрочке в платежах</text></cit>
 </sense>
 </entry>
 </superEntry>

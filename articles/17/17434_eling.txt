@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">eling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шквальный дождь (град, снег)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шквальный дождь (град, снег)</text></cit>
 </sense>
 <sense>
-дрожь по телу, судорога
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожь по телу, судорога</text></cit>
 </sense>
 </entry>
 </superEntry>

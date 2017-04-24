@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-укол, укус (насекомого), покалывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укол, укус (насекомого), покалывание</text></cit>
 <сit type="example"><text>holde stikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдержать испытание (проверку)</text></cit></cit>
 </sense>
 <sense>
-колкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колкость</text></cit>
 </sense>
 <sense>
-след укола, заметка, зарубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>след укола, заметка, зарубка</text></cit>
 </sense>
 <sense>
-гравюра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гравюра</text></cit>
 </sense>
 <sense>
-копка (копание) лопатой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копка (копание) лопатой</text></cit>
 </sense>
 <sense>
-<u>карт.</u> взятка
+<usg>карт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взятка</text></cit>
 <сit type="example"><text>gjøre stikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>брать взятку</text></cit></cit>
 <сit type="example"><text>ta inn (heim, hjem) et stikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять взятку</text></cit></cit>
 <inflection><orth extent="part">-en</orth></inflection>
@@ -37,7 +38,7 @@
 <form>
 <orth type="lemma">stikk</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-прямо, как раз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, как раз</text></cit>
 <сit type="example"><text>stikk mot oss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо на нас</text></cit></cit>
 <сit type="example"><text>i stikk motsatt retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в (прямо) противоположном направлении</text></cit></cit>
 <сit type="example"><text>stikk imot loven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в нарушение закона</text></cit></cit>

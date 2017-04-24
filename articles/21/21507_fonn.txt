@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-снежный сугроб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежный сугроб</text></cit>
 </sense>
 <sense>
-лёд (засыпанный снегом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёд (засыпанный снегом)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> снежный обвал, лавина
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снежный обвал, лавина</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fjernfotografi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-фототелеграф, передача фототелеграмм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фототелеграф, передача фототелеграмм</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">fjernfotografi</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-снимок, переданный или полученный по радио
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снимок, переданный или полученный по радио</text></cit>
 </sense>
 </entry>
 </superEntry>

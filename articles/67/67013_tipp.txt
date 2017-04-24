@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tipp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-кончик (носа, пальца)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кончик (носа, пальца)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">tipp</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>авт.</u> опрокидывающийся (самосвальный) кузов
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опрокидывающийся (самосвальный) кузов</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +29,7 @@
 <index></index>
 <form>
 <orth type="lemma">tipp</orth>
-tipp topp <u>разг.</u> первоклассный, первосортный; отборный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>tipp topp <lbl>разг.</lbl> первоклассный, первосортный; отборный</text></cit>
 </sense>
 </entry>
 </superEntry>

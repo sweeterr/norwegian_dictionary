@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">love</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> ладонь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ладонь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,14 +23,15 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-обещать, давать обещание, сулить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обещать, давать обещание, сулить</text></cit>
 </sense>
 <sense>
-<u>разг.</u> гарантировать, заверять (кого-л.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гарантировать, заверять (кого-л.)</text></cit>
 <сit type="example"><text>love for én (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ручаться за кого-л. (что-л.)</text></cit></cit>
 </sense>
 <sense>
-предвещать что-л. хорошее (приятное)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предвещать что-л. хорошее (приятное)</text></cit>
 <сit type="example"><text>love på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> уверять</text></cit></cit>
 </sense>
 </entry>
@@ -38,7 +40,7 @@
 <form>
 <orth type="lemma">love</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-хвалить, восхвалять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвалить, восхвалять</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">preferanseaksje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фин.</u> привилегированная акция
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привилегированная акция</text></cit>
 </sense>
 </entry>
 </superEntry>

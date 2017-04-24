@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">halloi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> крик, шум, гам, суматоха
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крик, шум, гам, суматоха</text></cit>
 <сit type="example"><text>det ble en ordentlig halloi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднялся невероятный шум</text></cit></cit>
 <сit type="example"><text>lage halloi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять шум</text></cit></cit>
 </sense>
@@ -14,9 +15,10 @@
 <index></index>
 <form>
 <orth type="lemma">halloi</orth>
-halloi!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>halloi!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-<u>редко</u> allo!, эй!
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>allo!, эй!</text></cit>
 </sense>
 </entry>
 </superEntry>

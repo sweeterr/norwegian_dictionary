@@ -7,7 +7,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-обозначает удаление, движение от данного предмета прочь, в сторону, переводится иногда глаголами совершенного вида с префиксами у-, от-
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначает удаление, движение от данного предмета прочь, в сторону, переводится иногда глаголами совершенного вида с префиксами у-, от-</text></cit>
 <сit type="example"><text>gå nå vekk!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уходи(те)!</text></cit></cit>
 <сit type="example"><text>vekk med deg!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>убирайся прочь!</text></cit></cit>
 <сit type="example"><text>kjøre vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уехать</text></cit></cit>
@@ -16,13 +16,13 @@
 <сit type="example"><text>vise noen vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выпроводить кого-л.</text></cit></cit>
 </sense>
 <sense>
-обозначает исчезновение, распад, уничтожение чего-л.:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначает исчезновение, распад, уничтожение чего-л.:</text></cit>
 <сit type="example"><text>bli vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погибнуть, пропасть (особенно в море)</text></cit></cit>
 <сit type="example"><text>komme vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>израсходоваться, кончиться</text></cit></cit>
 <сit type="example"><text>være vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройти, исчезнуть</text></cit></cit>
 </sense>
 <sense>
-обозначает непрерывно продолжающееся действие, переводится глаголом продолжать с инфинитивом основного глагола:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначает непрерывно продолжающееся действие, переводится глаголом продолжать с инфинитивом основного глагола:</text></cit>
 <сit type="example"><text>snakke vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить без устали, продолжать говорить</text></cit></cit>
 <сit type="example"><text>bli vekk i noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>влюбиться в кого-л.</text></cit></cit>
 </sense>

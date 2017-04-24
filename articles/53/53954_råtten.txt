@@ -5,29 +5,28 @@
 <form>
 <orth type="lemma">råtten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-гнилой, сгнивший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнилой, сгнивший</text></cit>
 </sense>
 <sense>
-гнойный, гноящийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнойный, гноящийся</text></cit>
 </sense>
 <sense>
-заплесневелый, покрытый плесенью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заплесневелый, покрытый плесенью</text></cit>
 </sense>
 <sense>
-талый (о снеге, льде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>талый (о снеге, льде)</text></cit>
 </sense>
 <sense>
-выветрившийся (о горных породах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выветрившийся (о горных породах)</text></cit>
 </sense>
 <sense>
-стоячий, застойный (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стоячий, застойный (о воде)</text></cit>
 </sense>
 <sense>
-испорченный, морально разложившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испорченный, морально разложившийся</text></cit>
 </sense>
 </entry>
 </superEntry>

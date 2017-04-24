@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utgiftsføre</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>бухг.</u> записать в дебет, дебетовать
+<usg>бухг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>записать в дебет, дебетовать</text></cit>
 </sense>
 </entry>
 </superEntry>

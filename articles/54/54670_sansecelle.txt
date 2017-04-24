@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sansecelle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>анат.</u> нервная клетка
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нервная клетка</text></cit>
 </sense>
 </entry>
 </superEntry>

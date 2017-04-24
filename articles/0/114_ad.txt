@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ad</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- (только в устойчивых сочетаниях) указывает на распространение действия в различных направлениях раз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(только в устойчивых сочетаниях) указывает на распространение действия в различных направлениях раз</text></cit>
 <сit type="example"><text>splitte ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разлететься, расколоться</text></cit></cit>
 </sense>
 </entry>
@@ -14,28 +14,28 @@
 <form>
 <orth type="lemma">ad</orth>
 <gramGrp><pos>prep</pos></gramGrp>
- <u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-указывает на направление движения к определённому предмету,
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на направление движения к определённому предмету,</text></cit>
 по направлению к, к:
 <сit type="example"><text>de gikk ad elven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>они шли к реке</text></cit></cit>
 </sense>
 <sense>
-указывает на движение по поверхности предмета в одном направлении, по:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на движение по поверхности предмета в одном направлении, по:</text></cit>
 <сit type="example"><text>hen ad veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по дороге</text></cit></cit>
 <сit type="example"><text>ad den veien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>этой дорогой</text></cit></cit>
 </sense>
 <sense>
-указывает на приближение к определённой точке во времени, к:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на приближение к определённой точке во времени, к:</text></cit>
 <сit type="example"><text>det lider ad aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дело идёт к вечеру, вечереет</text></cit></cit>
 </sense>
 <sense>
-с некоторыми глаголами, выражающими душевное состояние, настроение, над:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с некоторыми глаголами, выражающими душевное состояние, настроение, над:</text></cit>
 <сit type="example"><text>le (vrenge) ad noen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смеяться (издеваться) над кем-л.</text></cit></cit>
 </sense>
 <sense>
-в сочетании с наречиями:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с наречиями:</text></cit>
 <сit type="example"><text>ad inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в, через</text></cit></cit>
 <сit type="example"><text>inn ad vinduet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>через окно</text></cit></cit>
 <сit type="example"><text>ned ad</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вниз, вниз по</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">åbry</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> ревность
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ревность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">åbry</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-<u>диал.</u> ревновать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ревновать</text></cit>
 </sense>
 </entry>
 </superEntry>

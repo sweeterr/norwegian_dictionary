@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-сутки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сутки</text></cit>
 <сit type="example"><text>døgnet rundt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>круглые сутки</text></cit></cit>
 <сit type="example"><text>i døgnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в сутки</text></cit></cit>
 </sense>
 <sense>
-с определённым постпозитивным артиклем настоящее время, наша современность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с определённым постпозитивным артиклем настоящее время, наша современность</text></cit>
 </sense>
 <sense>
-<u>астр.</u> период обращения (планеты) вокруг своей оси
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>период обращения (планеты) вокруг своей оси</text></cit>
 </sense>
 </entry>
 </superEntry>

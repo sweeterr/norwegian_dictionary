@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">sjelfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-оживлённый, выразительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживлённый, выразительный</text></cit>
 </sense>
 <sense>
-духовно богатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>духовно богатый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gaupe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> рысь
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рысь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">gaupe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> ловелас
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловелас</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +25,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-косяк (двери, окна)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косяк (двери, окна)</text></cit>
 </sense>
 <sense>
-накладка (на пробой замка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накладка (на пробой замка)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +36,8 @@
 <form>
 <orth type="lemma">gaupe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> черпать, зачерпывать руками (воду)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>черпать, зачерпывать руками (воду)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forbete</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>бот.</u> кормовая свёкла
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кормовая свёкла</text></cit>
 </sense>
 </entry>
 </superEntry>

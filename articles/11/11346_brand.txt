@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brand</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u> см. brann I
+<usg>уст.</usg>
+<ref>brann I</ref>
 </sense>
 </entry>
 <entry>
@@ -15,17 +16,19 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> стойка, столб
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стойка, столб</text></cit>
 </sense>
 <sense>
-палка, дубинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палка, дубинка</text></cit>
 </sense>
 <sense>
-<u>фольк.</u> меч
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меч</text></cit>
 <сit type="example"><text>den brune brand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сверкающий меч</text></cit></cit>
 </sense>
 <sense>
-решительный, бесстрашный человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>решительный, бесстрашный человек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +37,7 @@
 <orth type="lemma">brand</orth>
 <phon>|brænd|</phon>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-клеймо, фабричная марка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеймо, фабричная марка</text></cit>
 </sense>
 </entry>
 </superEntry>

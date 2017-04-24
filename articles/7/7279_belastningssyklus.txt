@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">belastningssyklus</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>авт.</u> нагрузочный цикл (при испытании на усталость)
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нагрузочный цикл (при испытании на усталость)</text></cit>
 </sense>
 </entry>
 </superEntry>

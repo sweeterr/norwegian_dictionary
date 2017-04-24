@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">frami</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-впереди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>впереди</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">frami</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-возле, рядом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возле, рядом</text></cit>
 </sense>
 </entry>
 </superEntry>

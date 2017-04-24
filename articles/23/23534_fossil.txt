@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fossil</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-ископаемое, окаменелость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ископаемое, окаменелость</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,14 @@
 <form>
 <orth type="lemma">fossil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ископаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ископаемый</text></cit>
 </sense>
 <sense>
-<u>перен.</u> устарелый, допотопный
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устарелый, допотопный</text></cit>
 </sense>
 </entry>
 </superEntry>

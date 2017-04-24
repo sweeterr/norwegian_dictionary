@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">omkved</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-рефрен, припев, присказка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рефрен, припев, присказка</text></cit>
 <сit type="example"><text>det gamle omkved</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> старая песня</text></cit></cit>
 </sense>
 </entry>

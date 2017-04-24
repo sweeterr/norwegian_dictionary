@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tåse</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> шуршать (сеном, соломой)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуршать (сеном, соломой)</text></cit>
 </sense>
 </entry>
 </superEntry>

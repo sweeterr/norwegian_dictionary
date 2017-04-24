@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">skitten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-грязный, запачканный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязный, запачканный</text></cit>
 </sense>
 <sense>
-неочищенный, сырой (о нефти)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неочищенный, сырой (о нефти)</text></cit>
 </sense>
 <sense>
-поганый, мерзкий, дрянной, отвратительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поганый, мерзкий, дрянной, отвратительный</text></cit>
 </sense>
 <sense>
-подлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подлый</text></cit>
 </sense>
 </entry>
 </superEntry>

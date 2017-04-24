@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ordlån</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>лингв.</u>
+<usg>лингв.</usg>
 </form>
 <sense>
-заимствование слов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заимствование слов</text></cit>
 </sense>
 <sense>
-заимствованное слово
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заимствованное слово</text></cit>
 </sense>
 </entry>
 </superEntry>

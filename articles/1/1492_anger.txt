@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">anger</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-раскаяние (в чём-л.— over)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскаяние (в чём-л.— over)</text></cit>
 <сit type="example"><text>føle anger over noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскаиваться в чём-либо</text></cit></cit>
 </sense>
 </entry>

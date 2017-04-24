@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">acetylengass</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> ацетиленовый газ
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ацетиленовый газ</text></cit>
 </sense>
 </entry>
 </superEntry>

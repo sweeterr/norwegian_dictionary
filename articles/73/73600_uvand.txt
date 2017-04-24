@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">uvand</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-нетрудный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нетрудный</text></cit>
 </sense>
 <sense>
-простой, скромный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, скромный</text></cit>
 </sense>
 <sense>
-неразборчивый, неприхотливый, невзыскательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неразборчивый, неприхотливый, невзыскательный</text></cit>
 </sense>
 </entry>
 </superEntry>

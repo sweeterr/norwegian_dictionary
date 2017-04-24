@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brissel</orth>
 <inflection><orth extent="part">-selen, -ler</orth></inflection>
-<u>анат.</u> вилочковая железа
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вилочковая железа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">brissel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-красная краска (из дерева, произрастающего в Бразилии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красная краска (из дерева, произрастающего в Бразилии)</text></cit>
 </sense>
 </entry>
 </superEntry>

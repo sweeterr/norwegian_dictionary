@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> червяк, бесконечный винт, шнек
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>червяк, бесконечный винт, шнек</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,15 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-шлюпка, моторная лодка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шлюпка, моторная лодка</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> ладья
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ладья</text></cit>
 </sense>
 <sense>
-<u>мор.</u> шнека
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шнека</text></cit>
 </sense>
 </entry>
 </superEntry>

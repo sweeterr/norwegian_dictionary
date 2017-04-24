@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">lasurblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-лазурный, светло-синий, ультрамариновый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лазурный, светло-синий, ультрамариновый</text></cit>
 </sense>
 </entry>
 </superEntry>

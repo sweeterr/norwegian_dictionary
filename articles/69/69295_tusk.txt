@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tusk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шум, гам, возня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, гам, возня</text></cit>
 </sense>
 <sense>
-шутки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шутки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">tusk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u> шёпот, перешёптывание
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шёпот, перешёптывание</text></cit>
 </sense>
 </entry>
 </superEntry>

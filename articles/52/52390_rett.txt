@@ -7,7 +7,8 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>юр.</u> право, закон
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право, закон</text></cit>
 <сit type="example"><text>offentlig rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общественное право</text></cit></cit>
 <сit type="example"><text>romersk rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>римское право</text></cit></cit>
 <сit type="example"><text>etter norsk rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по норвежским законам</text></cit></cit>
@@ -16,17 +17,17 @@
 <сit type="example"><text>gå rettens vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обратиться к закону (правосудию)</text></cit></cit>
 </sense>
 <sense>
-суд, заседание суда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суд, заседание суда</text></cit>
 <сit type="example"><text>en militær rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>военный трибунал</text></cit></cit>
 <сit type="example"><text>gå i rette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упрекать, осуждать кого-л.</text></cit></cit>
 <сit type="example"><text>komme for retten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в суд, быть переданным в суд (о деле)</text></cit></cit>
 <сit type="example"><text>sitte i retten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заседать в суде, быть судьёй</text></cit></cit>
 <сit type="example"><text>stå til rette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предстать перед судом</text></cit></cit>
-<сit type = "example"><text>vise én til rette:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> поставить кого-л. на место</text></cit></cit>
+<сit type = "example"><text>vise én til rette:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> поставить кого-л. на место</text></cit></cit>
 <сit type = "example"><text>vise én til rette:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> привлекать кого-л. к ответу, наказывать</text></cit></cit>
 </sense>
 <sense>
-право (на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право (на что-л.)</text></cit>
 <сit type="example"><text>rett til arbeid (til hvile, til utdannelse)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>право на труд (на отдых, на образование)</text></cit></cit>
 <сit type="example"><text>med rette</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по закону, по праву, с полным правом</text></cit></cit>
 <сit type="example"><text>med full rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с полным правом</text></cit></cit>
@@ -40,10 +41,10 @@
 <сit type="example"><text>ta ut sin rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отстаивать свой права</text></cit></cit>
 </sense>
 <sense>
-документ (дающий право на что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>документ (дающий право на что-л.)</text></cit>
 </sense>
 <sense>
-правосудие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правосудие</text></cit>
 <сit type="example"><text>få rett på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти управу на кого-л.</text></cit></cit>
 <сit type="example"><text>gjøre rett og skjell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>судить по всей справедливости</text></cit></cit>
 <сit type="example"><text>øve rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>осуществлять правосудие</text></cit></cit>
@@ -68,12 +69,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-кушанье, блюдо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кушанье, блюдо</text></cit>
 <сit type="example"><text>kalde retter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодные блюда</text></cit></cit>
 <сit type="example"><text>varme retter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горячие блюда</text></cit></cit>
 </sense>
 <sense>
-порция (кушанья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порция (кушанья)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -83,23 +84,23 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-прямой, выпрямленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой, выпрямленный</text></cit>
 </sense>
 <sense>
-правильный, верный, соответствующий норме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правильный, верный, соответствующий норме</text></cit>
 <сit type="example"><text>ikke rettere enn jeg forstår (husker, vet)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насколько я понимаю (помню, знаю)</text></cit></cit>
 <сit type="example"><text>rettere sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вернее (точнее) говоря</text></cit></cit>
 <сit type="example"><text>den rette mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подходящий человек, как раз тот человек, который нужен</text></cit></cit>
 <сit type="example"><text>i rette tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вовремя, в своё время</text></cit></cit>
 </sense>
 <sense>
-настоящий, подлинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий, подлинный</text></cit>
 </sense>
 <sense>
-лицевой (о стороне материи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лицевой (о стороне материи)</text></cit>
 </sense>
 <sense>
-законный, узаконенный, справедливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законный, узаконенный, справедливый</text></cit>
 <сit type="example"><text>holde tungen rett i munnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сохранять спокойствие, проявить хладнокровие</text></cit></cit>
 </sense>
 </entry>
@@ -110,7 +111,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-прямо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо</text></cit>
 <сit type="example"><text>rett!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>смирно! (команда)</text></cit></cit>
 <сit type="example"><text>rett fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо (команда)</text></cit></cit>
 <сit type="example"><text>høyre rett</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>равнение направо (команда)</text></cit></cit>
@@ -119,27 +120,27 @@
 <сit type="example"><text>stå rett opp og ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять прямо</text></cit></cit>
 </sense>
 <sense>
-сразу, непосредственно (за чем-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сразу, непосредственно (за чем-л.)</text></cit>
 <сit type="example"><text>rett i ansiktet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо в лицо</text></cit></cit>
 <сit type="example"><text>rett ut av livet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо из жизни</text></cit></cit>
 <сit type="example"><text>rett utenfor noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прямо перед чем-л.</text></cit></cit>
 <сit type="example"><text>rett ved siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>около, возле</text></cit></cit>
 </sense>
 <sense>
-как раз
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как раз</text></cit>
 <сit type="example"><text>rett nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как раз, вот сейчас</text></cit></cit>
 <сit type="example"><text>rett som</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как раз когда, как только</text></cit></cit>
 <сit type="example"><text>rett som det var</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внезапно, вдруг</text></cit></cit>
 </sense>
 <sense>
-действительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>действительно</text></cit>
 </sense>
 <sense>
-целиком, полностью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целиком, полностью</text></cit>
 <сit type="example"><text>rett aldri</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никогда</text></cit></cit>
 </sense>
 <sense>
-в большой степени, очень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в большой степени, очень</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ettermiddag</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-время после полудня, вторая половина дня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время после полудня, вторая половина дня</text></cit>
 <сit type="example"><text>i ettermiddags</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня после обеда</text></cit></cit>
 <сit type="example"><text>i går ettermiddag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вчера во второй половине дня</text></cit></cit>
 <сit type="example"><text>om ettermiddagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>после обеда, во второй половине дня</text></cit></cit>

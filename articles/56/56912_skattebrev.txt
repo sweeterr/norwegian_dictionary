@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skattebrev</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>ист.</u> королевский указ об установлении новых налогов
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>королевский указ об установлении новых налогов</text></cit>
 </sense>
 </entry>
 </superEntry>

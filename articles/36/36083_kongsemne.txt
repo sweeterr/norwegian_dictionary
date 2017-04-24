@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kongsemne</orth>
 <inflection><orth extent="part">-t, =</orth></inflection>
-<u>уст.</u> претендент на престол
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>претендент на престол</text></cit>
 </sense>
 </entry>
 </superEntry>

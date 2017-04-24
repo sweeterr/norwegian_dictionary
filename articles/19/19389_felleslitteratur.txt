@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">felleslitteratur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-норвежская литература эпохи датского господства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норвежская литература эпохи датского господства</text></cit>
 </sense>
 </entry>
 </superEntry>

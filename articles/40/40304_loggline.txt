@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">loggline</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> лаглинь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лаглинь</text></cit>
 </sense>
 </entry>
 </superEntry>

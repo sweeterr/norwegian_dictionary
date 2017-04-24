@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">utbytteløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-бесприбыльный, не дающий прибылей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесприбыльный, не дающий прибылей</text></cit>
 </sense>
 </entry>
 </superEntry>

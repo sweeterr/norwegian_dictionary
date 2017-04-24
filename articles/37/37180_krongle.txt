@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">krongle</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-коряга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коряга</text></cit>
 </sense>
 <sense>
-ухаб, рытвина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухаб, рытвина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">krongle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> выполнять тяжёлую работу
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выполнять тяжёлую работу</text></cit>
 </sense>
 </entry>
 </superEntry>

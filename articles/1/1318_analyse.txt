@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">analyse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-анализ; аналитический метод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анализ; аналитический метод</text></cit>
 <сit type="example"><text>kvalitativ analyse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>хим.</lbl> качественный анализ</text></cit></cit>
 <сit type="example"><text>kvantitativ analyse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>хим.</lbl> количественный анализ</text></cit></cit>
 </sense>

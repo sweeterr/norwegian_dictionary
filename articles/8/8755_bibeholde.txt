@@ -4,15 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">bibeholde</orth>
-<inflection><orth extent="part">-t</orth></inflection>
-, 
-<inflection><orth extent="part">-t</orth></inflection>
+<inflection><orth extent="part">-t, -t</orth></inflection>
 </form>
 <sense>
-сохранять, получать сполна (жалованье, зарплату)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сохранять, получать сполна (жалованье, зарплату)</text></cit>
 </sense>
 <sense>
-придерживать, оставлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придерживать, оставлять</text></cit>
 </sense>
 </entry>
 </superEntry>

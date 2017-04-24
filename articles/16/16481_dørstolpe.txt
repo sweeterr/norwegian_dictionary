@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">dørstolpe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-дверной косяк
-<u>авт.</u> дверная стойка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дверной косяк</text></cit>
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дверная стойка</text></cit>
 </sense>
 </entry>
 </superEntry>

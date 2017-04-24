@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">snitt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>редко</u>
+<usg>редко</usg>
 </form>
 <sense>
-бутерброд, ломтик хлеба с маслом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутерброд, ломтик хлеба с маслом</text></cit>
 </sense>
 <sense>
-<u>разг.</u> стакан пива:
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стакан пива:</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,38 +22,40 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-разрез, надрез, насечка, срез, полоска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрез, надрез, насечка, срез, полоска</text></cit>
 </sense>
 <sense>
-зарубка, прорез, пропил
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарубка, прорез, пропил</text></cit>
 </sense>
 <sense>
-ломоть, кусок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ломоть, кусок</text></cit>
 </sense>
 <sense>
-фасон, покрой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фасон, покрой</text></cit>
 </sense>
 <sense>
-выправка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выправка</text></cit>
 </sense>
 <sense>
-гравюра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гравюра</text></cit>
 </sense>
 <sense>
-обрез (книги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрез (книги)</text></cit>
 </sense>
 <sense>
-выдумка, измышление, уловка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдумка, измышление, уловка</text></cit>
 </sense>
 <sense>
-ловкость, сноровка, умение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловкость, сноровка, умение</text></cit>
 <сit type="example"><text>se (passe) sitt snitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться случаем</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> плашка (для нарезки резьбы)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плашка (для нарезки резьбы)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> профиль, сечение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>профиль, сечение</text></cit>
 <сit type="example"><text>det gylne snitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мат.</lbl> деление прямой в пропорциональном отношении</text></cit></cit>
 </sense>
 </entry>

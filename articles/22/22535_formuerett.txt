@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">formuerett</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u>
+<usg>юр.</usg>
 </form>
 <sense>
-имущественное право
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имущественное право</text></cit>
 </sense>
 <sense>
-имущественное законодательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имущественное законодательство</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">inhabil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-негодный, непригодный (к тому или этому виду работы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негодный, непригодный (к тому или этому виду работы)</text></cit>
 </sense>
 <sense>
-некомпетентный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некомпетентный</text></cit>
 </sense>
 </entry>
 </superEntry>

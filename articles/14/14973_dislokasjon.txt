@@ -7,13 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>геол.</u> смещение (гор-ной породы)
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смещение (гор-ной породы)</text></cit>
 </sense>
 <sense>
-<u>мед.</u> вывих
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывих</text></cit>
 </sense>
 <sense>
-<u>воен.</u> дислокация, размещение войск
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дислокация, размещение войск</text></cit>
 </sense>
 </entry>
 </superEntry>

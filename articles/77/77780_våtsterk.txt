@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">våtsterk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-водоупорный, непромокаемый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водоупорный, непромокаемый</text></cit>
 </sense>
 </entry>
 </superEntry>

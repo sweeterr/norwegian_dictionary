@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-пост, должность, место
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пост, должность, место</text></cit>
 <сit type="example"><text>fjerne fra posten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снять с должности</text></cit></cit>
 </sense>
 <sense>
-отделение госпиталя (больницы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отделение госпиталя (больницы)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> пост, секрет
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пост, секрет</text></cit>
 <сit type="example"><text>forlate sin post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>покинуть пост</text></cit></cit>
 <сit type="example"><text>stille ut en post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выставить пост</text></cit></cit>
 <сit type="example"><text>stå på post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на посту</text></cit></cit>
@@ -28,17 +29,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-почта, почтовое отделение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почта, почтовое отделение</text></cit>
 <сit type="example"><text>innenbys post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>местная (внутригородская) почта</text></cit></cit>
 <сit type="example"><text>utenbys post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иногородняя почта</text></cit></cit>
 <сit type = "example"><text>med omgående post :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спешной почтой</text></cit></cit>
 <сit type = "example"><text>med omgående post :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> с обратной почтой</text></cit></cit>
 </sense>
 <sense>
-почтальон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтальон</text></cit>
 </sense>
 <sense>
-почтовое отправление, письмо, корреспонденция, почта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>почтовое отправление, письмо, корреспонденция, почта</text></cit>
 <сit type="example"><text>med siste post</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с последней почтой</text></cit></cit>
 </sense>
 </entry>
@@ -49,10 +50,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-косяк (двери, окна)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косяк (двери, окна)</text></cit>
 </sense>
 <sense>
-колонка, насос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колонка, насос</text></cit>
 </sense>
 </entry>
 <entry>
@@ -62,10 +63,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-статья расхода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>статья расхода</text></cit>
 </sense>
 <sense>
-параграф, пункт, раздел, статья (документа)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>параграф, пункт, раздел, статья (документа)</text></cit>
 </sense>
 </entry>
 </superEntry>

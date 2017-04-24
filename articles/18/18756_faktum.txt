@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">faktum</orth>
 <inflection><orth>faktumet, fakta</orth></inflection>
-факт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>факт</text></cit>
 <сit type="example"><text>faktum er at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>факт, что ...</text></cit></cit>
 </sense>
 </entry>

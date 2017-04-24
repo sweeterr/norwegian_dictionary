@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkevandring</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-миграция, переезд, переселение (людей, народов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>миграция, переезд, переселение (людей, народов)</text></cit>
 <сit type="example"><text>den store folkevandring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Великое переселение народов</text></cit></cit>
 </sense>
 </entry>

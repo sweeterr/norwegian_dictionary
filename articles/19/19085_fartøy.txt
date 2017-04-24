@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fartøy</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-судно, корабль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судно, корабль</text></cit>
 <сit type="example"><text>bringe fartøyet til bidevinden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> лечь в бейдевинд</text></cit></cit>
 <сit type="example"><text>heve et sunket fartøy</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять затонувшее судно</text></cit></cit>
 </sense>

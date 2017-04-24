@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">næringsrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-плодородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плодородный</text></cit>
 </sense>
 <sense>
-питательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питательный</text></cit>
 </sense>
 </entry>
 </superEntry>

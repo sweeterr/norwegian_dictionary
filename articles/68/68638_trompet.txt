@@ -5,15 +5,15 @@
 <form>
 <orth type="lemma">trompet</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u>
+<usg>муз.</usg>
 </form>
 <sense>
-труба, горн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труба, горн</text></cit>
 <сit type="example"><text>blåse på trompet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трубить, горнить</text></cit></cit>
 <сit type="example"><text>blåse (støte) i trompet for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расхваливать (превозносить) кого-л.</text></cit></cit>
 </sense>
 <sense>
-звук трубы (горна)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звук трубы (горна)</text></cit>
 </sense>
 </entry>
 </superEntry>

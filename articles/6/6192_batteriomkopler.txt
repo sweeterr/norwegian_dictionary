@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">batteriomkopler</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u>, <u>эл.</u> переключатель батареи
+<usg>тех.</usg>
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переключатель батареи</text></cit>
 </sense>
 </entry>
 </superEntry>

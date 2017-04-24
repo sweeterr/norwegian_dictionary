@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">treseters</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <gramGrp><pos>inv</pos></gramGrp>
-трёхместный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трёхместный</text></cit>
 </sense>
 </entry>
 </superEntry>

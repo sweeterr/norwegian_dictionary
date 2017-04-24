@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forvitring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>геол.</u> выветривание
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выветривание</text></cit>
 </sense>
 </entry>
 </superEntry>

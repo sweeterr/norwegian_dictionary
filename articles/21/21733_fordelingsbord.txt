@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fordelingsbord</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>эл.</u>
+<usg>эл.</usg>
 </form>
 <sense>
-распределительная доска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распределительная доска</text></cit>
 </sense>
 <sense>
-коммутатор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коммутатор</text></cit>
 </sense>
 </entry>
 </superEntry>

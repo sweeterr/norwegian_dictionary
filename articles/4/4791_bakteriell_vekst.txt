@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakteriell vekst</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-рост бактерий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рост бактерий</text></cit>
 </sense>
 </entry>
 </superEntry>

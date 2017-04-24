@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">raujord</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>диал.</u> краснозём
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краснозём</text></cit>
 </sense>
 </entry>
 </superEntry>

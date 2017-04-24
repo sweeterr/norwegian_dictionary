@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">syssel</orth>
 <inflection><orth extent="part">-selen, -ler</orth></inflection>
-дело, занятие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дело, занятие</text></cit>
 <сit type="example"><text>de huslige (landlige) sysler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>домашние (сельскохозяйственные) работы</text></cit></cit>
 </sense>
 </entry>
@@ -14,13 +14,13 @@
 <form>
 <orth type="lemma">syssel</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u>
+<usg>ист.</usg>
 </form>
 <sense>
-район, округ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>район, округ</text></cit>
 </sense>
 <sense>
-должность окружного начальника
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>должность окружного начальника</text></cit>
 </sense>
 </entry>
 </superEntry>

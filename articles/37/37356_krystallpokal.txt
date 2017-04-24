@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">krystallpokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> хрустальный кубок
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хрустальный кубок</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,19 +7,21 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-безупречный, корректный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безупречный, корректный</text></cit>
 </sense>
 <sense>
-неопровержимый, не вызывающий сомнений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неопровержимый, не вызывающий сомнений</text></cit>
 </sense>
 <sense>
-<u>воен.</u> неприступный
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприступный</text></cit>
 </sense>
 <sense>
-нержавеющий (о металле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нержавеющий (о металле)</text></cit>
 </sense>
 <sense>
-<u>эк.</u> неприкосновенный (о капитале)
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неприкосновенный (о капитале)</text></cit>
 </sense>
 </entry>
 </superEntry>

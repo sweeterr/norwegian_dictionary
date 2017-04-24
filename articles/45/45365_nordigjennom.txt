@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nordigjennom</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-по всему северу, на всём севере
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>по всему северу, на всём севере</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">nordigjennom</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-на север через (что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на север через (что-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

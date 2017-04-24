@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kupolovn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-круглая печь (для обжига кирпича)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглая печь (для обжига кирпича)</text></cit>
 </sense>
 <sense>
-вагранка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вагранка</text></cit>
 </sense>
 </entry>
 </superEntry>

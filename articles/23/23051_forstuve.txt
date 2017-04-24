@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forstuve</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>мор.</u> перераспределять трюмный груз
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перераспределять трюмный груз</text></cit>
 <сit type="example"><text>forstuve foten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вывихнуть себе ногу</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">berbisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-берберский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>берберский</text></cit>
 </sense>
 </entry>
 </superEntry>

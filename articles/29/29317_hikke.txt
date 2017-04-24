@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hikke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-икание, икота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>икание, икота</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-икать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>икать</text></cit>
 </sense>
 <sense>
-тяжело дышать, хватать ртом воздух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжело дышать, хватать ртом воздух</text></cit>
 </sense>
 <sense>
-всхлипывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всхлипывать</text></cit>
 </sense>
 </entry>
 </superEntry>

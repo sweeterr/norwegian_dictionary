@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tjeld</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> кулик-сорока
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кулик-сорока</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +16,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-шаль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаль</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> ковёр (из цветов), сень (листвы)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковёр (из цветов), сень (листвы)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> драпировка, занавес, настенный ковёр
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>драпировка, занавес, настенный ковёр</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lampeskinn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-свет от лампы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свет от лампы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">lampeskinn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-ёрш (для чистки ламповых стёкол)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ёрш (для чистки ламповых стёкол)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">reddsom</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-страшный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшный</text></cit>
 </sense>
 <sense>
-жуткий, кошмарный, ужасный (о пожаре, преступлении, несчастье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жуткий, кошмарный, ужасный (о пожаре, преступлении, несчастье)</text></cit>
 </sense>
 <sense>
-невыносимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невыносимый</text></cit>
 </sense>
 <sense>
-противный, отвратительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противный, отвратительный</text></cit>
 </sense>
 </entry>
 </superEntry>

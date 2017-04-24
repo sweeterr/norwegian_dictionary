@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spydøks</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>ист.</u> алебарда
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>алебарда</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bryllup</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-свадьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свадьба</text></cit>
 <сit type="example"><text>ha (holde, <lbl>редко</lbl> ture) bryllup</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устраивать свадьбу</text></cit></cit>
 <сit type="example"><text>bryllupet skal stå i morgen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свадьба будет завтра</text></cit></cit>
 <сit type="example"><text>be til bryllups</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приглашать на свадьбу</text></cit></cit>

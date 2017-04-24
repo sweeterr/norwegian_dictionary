@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-отвращение, омерзение, неприязнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвращение, омерзение, неприязнь</text></cit>
 <сit type="example"><text>føle (ha, nære) avsky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>питать отвращение (к чему-л. - for)</text></cit></cit>
 <сit type="example"><text>være til avsky for alle</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вызывать отвращение у всех</text></cit></cit>
 <сit type="example"><text>med avsky</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с омерзением</text></cit></cit>
 </sense>
 <sense>
-то, что вызывает отвращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>то, что вызывает отвращение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">avsky</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-чувствовать (питать) отвращение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать (питать) отвращение</text></cit>
 <сit type="example"><text>avsky ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать к нему отвращение</text></cit></cit>
 </sense>
 </entry>

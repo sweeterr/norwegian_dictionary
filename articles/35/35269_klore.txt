@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-(о)царапать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(о)царапать</text></cit>
 </sense>
 <sense>
-зацепить (что-л. чем-л.); вцепиться, впиться когтями; ухватиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зацепить (что-л. чем-л.); вцепиться, впиться когтями; ухватиться</text></cit>
 <сit type="example"><text>klore til seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подтянуть к себе когтями</text></cit></cit>
 </sense>
 <sense>
-ковырять (чем-л. острым)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковырять (чем-л. острым)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> царапать (пером)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царапать (пером)</text></cit>
 <сit type="example"><text>klore sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наскрести, скопить с трудом</text></cit></cit>
 </sense>
 </entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">klore</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-хлорировать, дезинфицировать хлором, отбеливать хлорной известью
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлорировать, дезинфицировать хлором, отбеливать хлорной известью</text></cit>
 </sense>
 </entry>
 </superEntry>

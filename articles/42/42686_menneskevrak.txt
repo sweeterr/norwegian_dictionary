@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">menneskevrak</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> немощный человек, развалина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немощный человек, развалина</text></cit>
 </sense>
 </entry>
 </superEntry>

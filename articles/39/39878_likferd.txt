@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-похороны, захоронение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похороны, захоронение</text></cit>
 </sense>
 <sense>
-похоронная процессия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похоронная процессия</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">likferd</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-привидение, призрак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>привидение, призрак</text></cit>
 </sense>
 </entry>
 </superEntry>

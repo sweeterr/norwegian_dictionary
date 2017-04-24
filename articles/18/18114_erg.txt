@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">erg</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>физ.</u> эрг
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эрг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,6 @@
 <form>
 <orth type="lemma">erg</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 <ref>arg</ref>
 </sense>

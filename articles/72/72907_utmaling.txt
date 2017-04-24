@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">utmaling</orth>
--en
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-en</text></cit>
 размол, размалывание
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">utmaling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-расписывание, разрисовывание, разрисовка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расписывание, разрисовывание, разрисовка</text></cit>
 </sense>
 </entry>
 </superEntry>

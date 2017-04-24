@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ortogonal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мат.</u> ортогональный
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ортогональный</text></cit>
 </sense>
 </entry>
 </superEntry>

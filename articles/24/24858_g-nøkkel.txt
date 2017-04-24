@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">g-nøkkel</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> ключ соль, скрипичный ключ, дискантовый ключ
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ключ соль, скрипичный ключ, дискантовый ключ</text></cit>
 </sense>
 </entry>
 </superEntry>

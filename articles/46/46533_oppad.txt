@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppad</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u> вверх, наверх, кверху
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вверх, наверх, кверху</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">oppad</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на</text></cit>
 </sense>
 </entry>
 </superEntry>

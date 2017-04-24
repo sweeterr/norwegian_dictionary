@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-хвост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвост</text></cit>
 <сit type="example"><text>logre (vifte) med halen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вилять хвостом <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>stikke halen mellom be(i)nene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поджать хвост <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> хвостовое оперение
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хвостовое оперение</text></cit>
 </sense>
 </entry>
 </superEntry>

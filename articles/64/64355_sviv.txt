@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sviv</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> вращение, поворачивание
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вращение, поворачивание</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lite</orth>
 <inflection><orth>litte (le(i)t), litt</orth></inflection>
-полагаться (на кого-л. - på); доверять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полагаться (на кого-л. - på); доверять</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <orth type="lemma">lite</orth>
 <gramGrp><pos>adv</pos></gramGrp>
 <inflection><orth>komp mindre</orth></inflection>
-немного, мало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немного, мало</text></cit>
 <сit type="example"><text>bry seg liteom noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не обращать внимания на что-л., относиться к чему-л. равнодушно</text></cit></cit>
 </sense>
 </entry>

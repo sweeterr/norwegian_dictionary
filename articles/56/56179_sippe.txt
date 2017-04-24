@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sippe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u> плакса
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плакса</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">sippe</orth>
 <inflection><orth extent="part">-pet (-te, -pa), -pet (-t, -pa)</orth></inflection>
-<u>разг.</u> плакать, хныкать, капризничать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плакать, хныкать, капризничать</text></cit>
 </sense>
 </entry>
 </superEntry>

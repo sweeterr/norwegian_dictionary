@@ -7,24 +7,24 @@
 <inflection><orth extent="part">-et (-en), =</orth></inflection>
 </form>
 <sense>
-давление, вес, сжатие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давление, вес, сжатие</text></cit>
 </sense>
 <sense>
-напор, нажим
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напор, нажим</text></cit>
 <сit type="example"><text>stå imot trykket fra fienden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устоять против напора врага</text></cit></cit>
 </sense>
 <sense>
-резкий удар, толчок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкий удар, толчок</text></cit>
 <сit type="example"><text>stå (for) trykken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выдержать удар</text></cit></cit>
 </sense>
 <sense>
-гнёт, угнетение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнёт, угнетение</text></cit>
 </sense>
 <sense>
-тяжесть (в груди, на сердце)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжесть (в груди, на сердце)</text></cit>
 </sense>
 <sense>
-печать, печатание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печать, печатание</text></cit>
 <сit type = "example"><text>på trykk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в печатном виде</text></cit></cit>
 <сit type = "example"><text>på trykk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> в печати</text></cit></cit>
 <сit type="example"><text>gå i trykken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть сданным в печать</text></cit></cit>
@@ -32,10 +32,12 @@
 <сit type="example"><text>sette på trykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>напечатать</text></cit></cit>
 </sense>
 <sense>
-<u>фон.</u> ударение
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударение</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> шрифт
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шрифт</text></cit>
 <сit type="example"><text>fin trykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий шрифт</text></cit></cit>
 <сit type="example"><text>skarp trykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёткий шрифт</text></cit></cit>
 <сit type="example"><text>smått trykk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петит</text></cit></cit>

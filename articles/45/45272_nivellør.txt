@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nivellør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>геод.</u> нивелировщик
+<usg>геод.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нивелировщик</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">avbryterfjær</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>эл.</u> пружина (прерывателя) выключателя
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пружина (прерывателя) выключателя</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-скамья, скамейка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скамья, скамейка</text></cit>
 <сit type="example"><text>fast benk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скамья, прикреплённая к полу (стене) или врытая в землю</text></cit></cit>
 </sense>
 <sense>
-ряд (в театре, классе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряд (в театре, классе и т. п.)</text></cit>
 <сit type="example"><text>spille (tale) for tomme benker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть (выступать) перед пустым залом</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> бруствер, земляной вал
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бруствер, земляной вал</text></cit>
 </sense>
 </entry>
 </superEntry>

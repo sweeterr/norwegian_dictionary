@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sval</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-крытая галерея (вокруг дома)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крытая галерея (вокруг дома)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,17 +13,16 @@
 <form>
 <orth type="lemma">sval</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прохладный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прохладный</text></cit>
 </sense>
 <sense>
-свежий, освежающий, успокаивающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свежий, освежающий, успокаивающий</text></cit>
 </sense>
 <sense>
-хладнокровный, спокойный, бесстрастный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хладнокровный, спокойный, бесстрастный</text></cit>
 </sense>
 </entry>
 </superEntry>

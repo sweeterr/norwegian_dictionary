@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-законтрактовать (при передаче своего имущества другим)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>законтрактовать (при передаче своего имущества другим)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> помолвить, объявить невестой
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помолвить, объявить невестой</text></cit>
 <сit type="example"><text>bortfeste seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>законтрактоваться, завербоваться</text></cit></cit>
 </sense>
 </entry>

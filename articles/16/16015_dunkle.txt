@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">dunkle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-затемнять, затенять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затемнять, затенять</text></cit>
 </sense>
 <sense>
-вуалировать, вносить неясность, темнить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вуалировать, вносить неясность, темнить</text></cit>
 </sense>
 <sense>
-ослеплять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ослеплять</text></cit>
 </sense>
 </entry>
 </superEntry>

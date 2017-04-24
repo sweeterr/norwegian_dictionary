@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">maltesisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-мальтийский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мальтийский</text></cit>
 </sense>
 </entry>
 </superEntry>

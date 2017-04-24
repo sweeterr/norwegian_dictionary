@@ -5,20 +5,19 @@
 <form>
 <orth type="lemma">rusten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ржавый, заржавевший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржавый, заржавевший</text></cit>
 </sense>
 <sense>
-ржаво-красный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ржаво-красный</text></cit>
 </sense>
 <sense>
-хриплый, сиплый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хриплый, сиплый</text></cit>
 </sense>
 <sense>
-простуженный, хриплый (о голосе); охрипший, простуженный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простуженный, хриплый (о голосе); охрипший, простуженный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

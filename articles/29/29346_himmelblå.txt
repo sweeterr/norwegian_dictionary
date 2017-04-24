@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">himmelblå</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-синее небо, небесный свод
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синее небо, небесный свод</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">himmelblå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-небесно-голубой, лазурный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небесно-голубой, лазурный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utskottfisk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> бросовая рыба, рыбьи отбросы (отходы)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросовая рыба, рыбьи отбросы (отходы)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">imbesill</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-глупый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый</text></cit>
 </sense>
 <sense>
-<u>мед.</u> слабоумный, психически неполноценный
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабоумный, психически неполноценный</text></cit>
 </sense>
 </entry>
 </superEntry>

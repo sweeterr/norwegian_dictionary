@@ -7,22 +7,23 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-мешок, мешочек, куль, кулёк, пакет (бумажный)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешок, мешочек, куль, кулёк, пакет (бумажный)</text></cit>
 <сit type="example"><text>han har både i pose og sekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него всего вдоволь</text></cit></cit>
 <сit type="example"><text>man kan ikke ha både i sekk og pose</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> двумя зайцами погонишься, ни одного не поймаешь</text></cit></cit>
 </sense>
 <sense>
-сумка, кошелёк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумка, кошелёк</text></cit>
 </sense>
 <sense>
-<u>разг.</u> живот, желудок
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живот, желудок</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-мешки под глазами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешки под глазами</text></cit>
 </sense>
 <sense>
-складка на одежде
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>складка на одежде</text></cit>
 <сit type="example"><text>snakke (tale) re(i)nt ut av posen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить откровенно (без обиняков)</text></cit></cit>
 </sense>
 </entry>
@@ -31,7 +32,7 @@
 <form>
 <orth type="lemma">pose</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-поза, притворство, погоня за эффектом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поза, притворство, погоня за эффектом</text></cit>
 </sense>
 </entry>
 <entry>
@@ -41,10 +42,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-висеть, образовывать складки (о плохо сидящей одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>висеть, образовывать складки (о плохо сидящей одежде)</text></cit>
 </sense>
 <sense>
-распухать, опухать (тж. pose seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распухать, опухать (тж. pose seg)</text></cit>
 <сit type="example"><text>pose ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раздувать</text></cit></cit>
 </sense>
 </entry>

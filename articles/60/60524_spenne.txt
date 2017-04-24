@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">spenne</orth>
 <inflection><orth extent="part">-en (-et, -a), -er</orth></inflection>
-пряжка, застёжка (на ремне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пряжка, застёжка (на ремне)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,25 +15,25 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-натягивать, протягивать, растягивать, <u>перен.</u> вызывать напряжённость (в отношениях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>натягивать, протягивать, растягивать, <lbl>перен.</lbl> вызывать напряжённость (в отношениях)</text></cit>
 </sense>
 <sense>
-напрягать (мышцы, мускулы, зрение), сжимать (пружину)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напрягать (мышцы, мускулы, зрение), сжимать (пружину)</text></cit>
 </sense>
 <sense>
-взводить (курок)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взводить (курок)</text></cit>
 </sense>
 <sense>
-пристёгивать, застёгивать (ремень, застёжки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пристёгивать, застёгивать (ремень, застёжки)</text></cit>
 </sense>
 <sense>
-запрягать (лошадь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрягать (лошадь)</text></cit>
 <сit type="example"><text>spenne hesten for sleden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запрячь лошадь в сани</text></cit></cit>
 <сit type="example"><text>spenne i åket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>надевать ярмо</text></cit></cit>
 <сit type="example"><text>spenne i tjeneste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заставить служить себе, поставить себе на службу</text></cit></cit>
 </sense>
 <sense>
-возбуждать (пробуждать) интерес, захватывать внимание, разжигать любопытство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбуждать (пробуждать) интерес, захватывать внимание, разжигать любопытство</text></cit>
 <сit type = "example"><text>spenne av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отстёгивать</text></cit></cit>
 <сit type = "example"><text>spenne av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> ослаблять (ремень, застёжку)</text></cit></cit>
 <сit type = "example"><text>spenne av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> снижать напряжённость (напряжение)</text></cit></cit>
@@ -55,10 +55,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-ударять ногой, давать пинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударять ногой, давать пинка</text></cit>
 </sense>
 <sense>
-лягаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лягаться</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-рыбак, ставящий сети
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбак, ставящий сети</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> наборщик
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наборщик</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">setter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-сеттер (порода собак)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеттер (порода собак)</text></cit>
 </sense>
 </entry>
 </superEntry>

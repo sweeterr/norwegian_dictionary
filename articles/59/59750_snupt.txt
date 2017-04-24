@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">snupt</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-внезапно, вдруг, неожиданно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внезапно, вдруг, неожиданно</text></cit>
 </sense>
 <sense>
-прямо, полностью, целиком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямо, полностью, целиком</text></cit>
 </sense>
 </entry>
 </superEntry>

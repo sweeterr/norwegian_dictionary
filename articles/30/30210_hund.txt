@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-собака, пёс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собака, пёс</text></cit>
 <сit type="example"><text>en feig hund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>трусливая собака</text></cit></cit>
 <сit type="example"><text>en herreløs hund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бездомная собака</text></cit></cit>
 <сit type="example"><text>den store (lille) hund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>астр.</lbl> созвездие Большого (Малого) Пса</text></cit></cit>
@@ -20,10 +20,11 @@
 <сit type="example"><text>de hunder som gjør biter ikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> бойся не той собаки, которая лает, а бойся той, которая молча кусает</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> собака, скотина (ругательство)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>собака, скотина (ругательство)</text></cit>
 </sense>
 <sense>
-røde hunder <u>мед.</u> краснуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>røde hunder <lbl>мед.</lbl> краснуха</text></cit>
 <сit type="example"><text>gå i hundene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> опуститься, пропасть, погибнуть (о человеке)</text></cit></cit>
 <сit type="example"><text>være en hund etter noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть страстным любителем чего-л., быть охотником до чего-л.</text></cit></cit>
 </sense>

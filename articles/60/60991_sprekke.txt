@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sprekke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-трещина, щель, щёлка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещина, щель, щёлка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth>sprakk, sprukket</orth></inflection>
 </form>
 <sense>
-треснуть, растрескаться, лопнуть, расколоться <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треснуть, растрескаться, лопнуть, расколоться <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-докричаться до хрипоты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>докричаться до хрипоты</text></cit>
 </sense>
 <sense>
-пустить петуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустить петуха</text></cit>
 </sense>
 <sense>
-сочиться (о воде, крови)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сочиться (о воде, крови)</text></cit>
 </sense>
 </entry>
 </superEntry>

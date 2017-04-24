@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakoverkjeding</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> обратное построение цепочки (<u>напр.</u> рассуждений от целевой гипотезы к исходным посылкам); обратный (логический) вывод (в экспертных системах)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратное построение цепочки (<lbl>напр.</lbl> рассуждений от целевой гипотезы к исходным посылкам); обратный (логический) вывод (в экспертных системах)</text></cit>
 </sense>
 </entry>
 </superEntry>

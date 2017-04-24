@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">embryo</orth>
 <inflection><orth extent="part">-oet, -о(n)er</orth></inflection>
-<u>биол.</u> эмбрион, зародыш
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эмбрион, зародыш</text></cit>
 </sense>
 </entry>
 </superEntry>

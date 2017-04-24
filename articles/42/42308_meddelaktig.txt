@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">meddelaktig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>юр.</u> соучаствующий в преступлении
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соучаствующий в преступлении</text></cit>
 <сit type="example"><text>gjøre én (være) meddelaktig i forbrytelsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать кого-л. (быть) соучастником преступления</text></cit></cit>
 </sense>
 </entry>

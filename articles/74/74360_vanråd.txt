@@ -5,22 +5,22 @@
 <form>
 <orth type="lemma">vanråd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-небрежность, халатность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небрежность, халатность</text></cit>
 </sense>
 <sense>
-нерассудительность, опрометчивость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нерассудительность, опрометчивость</text></cit>
 </sense>
 <sense>
-непредусмотрительность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непредусмотрительность</text></cit>
 </sense>
 <sense>
-необеспеченность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>необеспеченность</text></cit>
 </sense>
 <sense>
-затруднительное положение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительное положение</text></cit>
 </sense>
 </entry>
 </superEntry>

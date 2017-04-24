@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">invariabel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неизменяемый, постоянный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неизменяемый, постоянный</text></cit>
 </sense>
 </entry>
 </superEntry>

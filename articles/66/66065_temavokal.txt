@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">temavokal</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лингв.</u> тематический гласный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тематический гласный</text></cit>
 </sense>
 </entry>
 </superEntry>

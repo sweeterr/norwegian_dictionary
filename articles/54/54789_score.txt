@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">score</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>спорт.</u> забивать гол
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>забивать гол</text></cit>
 </sense>
 </entry>
 </superEntry>

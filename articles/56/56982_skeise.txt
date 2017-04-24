@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skeise</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>диал.</u> см. skøyte II
+<usg>диал.</usg>
+<ref>skøyte II</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">skeise</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> кататься на коньках
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кататься на коньках</text></cit>
 </sense>
 </entry>
 </superEntry>

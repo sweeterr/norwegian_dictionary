@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">dundersnorkle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>редко</u> <u>разг.</u> громко храпеть
+<usg>редко</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>громко храпеть</text></cit>
 </sense>
 </entry>
 </superEntry>

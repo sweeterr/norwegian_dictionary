@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skamrose</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-льстить, захваливать, расточать похвалы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льстить, захваливать, расточать похвалы</text></cit>
 <сit type="example"><text>han ble skamrost</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его захвалили</text></cit></cit>
 </sense>
 </entry>

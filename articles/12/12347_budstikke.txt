@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">budstikke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>ист.</u> эстафета, эстафетная палочка
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эстафета, эстафетная палочка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-глава, руководитель, заведующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глава, руководитель, заведующий</text></cit>
 </sense>
 <sense>
-хозяин, патрон, шеф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хозяин, патрон, шеф</text></cit>
 </sense>
 <sense>
-<u>воен.</u> командир, начальник
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>командир, начальник</text></cit>
 </sense>
 <sense>
-<u>мор.</u> капитан, командир корабля
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитан, командир корабля</text></cit>
 <сit type="example"><text>sjefen for flåten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>командующий флотом</text></cit></cit>
 </sense>
 </entry>

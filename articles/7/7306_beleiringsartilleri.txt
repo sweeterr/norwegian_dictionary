@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">beleiringsartilleri</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> <u>воен.</u> осадная артиллерия
+<usg>уст.</usg>
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осадная артиллерия</text></cit>
 </sense>
 </entry>
 </superEntry>

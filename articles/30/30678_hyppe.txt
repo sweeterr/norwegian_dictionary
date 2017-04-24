@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hyppe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-подгонять лошадь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подгонять лошадь</text></cit>
 <сit type="example"><text>hyppe på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подгонять, понукать (кого-л.)</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">hyppe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-окучивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окучивать</text></cit>
 </sense>
 </entry>
 </superEntry>

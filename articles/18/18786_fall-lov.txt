@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fall-lov</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> закон падения
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закон падения</text></cit>
 </sense>
 </entry>
 </superEntry>

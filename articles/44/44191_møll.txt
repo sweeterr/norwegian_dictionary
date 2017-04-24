@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">møll</orth>
 <inflection><orth extent="part">-en (-et), =</orth></inflection>
-моль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моль</text></cit>
 <сit type="example"><text>var spist opp av møll</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>был съеден молью</text></cit></cit>
 </sense>
 </entry>

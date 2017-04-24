@@ -7,19 +7,21 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-отскок, отдача
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отскок, отдача</text></cit>
 </sense>
 <sense>
-реакция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реакция</text></cit>
 </sense>
 <sense>
-обратный удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратный удар</text></cit>
 </sense>
 <sense>
-<u>тех.</u> обратная вспышка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратная вспышка</text></cit>
 </sense>
 <sense>
-<u>биол.</u> атавизм
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атавизм</text></cit>
 </sense>
 </entry>
 </superEntry>

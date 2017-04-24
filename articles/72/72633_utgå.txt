@@ -4,20 +4,20 @@
 <index></index>
 <form>
 <orth type="lemma">utgå</orth>
-<inflection><orth>utgikk, utgått (<u>уст.</u> utgangen)</orth></inflection>
+<inflection><orth>utgikk, utgått (<lbl>уст.</lbl> utgangen)</orth></inflection>
 </form>
 <sense>
-выходить (о постановлении, приказе, книге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выходить (о постановлении, приказе, книге)</text></cit>
 <сit type="example"><text>la ... utgå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>издавать (постановление, приказ)</text></cit></cit>
 </sense>
 <sense>
-вытекать, проистекать, исходить (откуда-либо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытекать, проистекать, исходить (откуда-либо)</text></cit>
 </sense>
 <sense>
-струиться, излучаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>струиться, излучаться</text></cit>
 </sense>
 <sense>
-быть родом, происходить (из какого-л. места - fra)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть родом, происходить (из какого-л. места - fra)</text></cit>
 </sense>
 </entry>
 </superEntry>

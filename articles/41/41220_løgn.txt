@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">løgn</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-ложь, враньё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложь, враньё</text></cit>
 <сit type="example"><text>bevisst løgn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сознательное враньё</text></cit></cit>
 <сit type="example"><text>blank løgn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистейшая ложь</text></cit></cit>
 <сit type="example"><text>fare med løgn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лгать</text></cit></cit>

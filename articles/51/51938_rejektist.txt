@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">rejektist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>школ.</u> <u>уст.</u> провалившийся на экзамене (ученик)
+<usg>школ.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провалившийся на экзамене (ученик)</text></cit>
 </sense>
 </entry>
 </superEntry>

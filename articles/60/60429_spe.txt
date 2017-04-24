@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">spe</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-насмешка, издёвка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насмешка, издёвка</text></cit>
 <сit type="example"><text>spe og spott</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>насмешки и издевательства</text></cit></cit>
 <сit type="example"><text>gjøre én spe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать кого-л. посмешищем</text></cit></cit>
 </sense>
@@ -15,20 +15,19 @@
 <form>
 <orth type="lemma">spe</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-слабый, хилый, тщедушный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый, хилый, тщедушный</text></cit>
 </sense>
 <sense>
-нежного сложения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нежного сложения</text></cit>
 </sense>
 <sense>
-тоненький, еле слышный (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тоненький, еле слышный (о голосе)</text></cit>
 </sense>
 <sense>
-только что родившийся, новорождённый (о человеке, животном)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>только что родившийся, новорождённый (о человеке, животном)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,7 +35,7 @@
 <form>
 <orth type="lemma">spe</orth>
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
-разбавлять, разжижать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбавлять, разжижать</text></cit>
 <сit type="example"><text>spe opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добавлять, доливать, разбавлять</text></cit></cit>
 <сit type = "example"><text>spe til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> добавлять</text></cit></cit>
 <сit type = "example"><text>spe til :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> вносить свой вклад во что-л.</text></cit></cit>

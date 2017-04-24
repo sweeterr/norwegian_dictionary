@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">innfrede</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-огораживать, обносить забором
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огораживать, обносить забором</text></cit>
 </sense>
 <sense>
-объявлять заповедным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>объявлять заповедным</text></cit>
 </sense>
 </entry>
 </superEntry>

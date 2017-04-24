@@ -7,29 +7,29 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-приближаться, подходить, подъезжать, подплывать (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приближаться, подходить, подъезжать, подплывать (к чему-л.)</text></cit>
 </sense>
 <sense>
-доходить, докатываться (об общественном движении, слухах, известии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходить, докатываться (об общественном движении, слухах, известии)</text></cit>
 </sense>
 <sense>
-достигать (возраста, цели)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>достигать (возраста, цели)</text></cit>
 <сit type="example"><text>nå langt i verden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>достигнуть высокого положения в обществе</text></cit></cit>
 </sense>
 <sense>
-успевать, попадать (на поезд, автобус)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>успевать, попадать (на поезд, автобус)</text></cit>
 </sense>
 <sense>
-тянуться, простираться (до чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тянуться, простираться (до чего-л.)</text></cit>
 </sense>
 <sense>
-доходить, добираться (до чего-л. - over til, inn i)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходить, добираться (до чего-л. - over til, inn i)</text></cit>
 </sense>
 <sense>
-иметь длину до чего-л. (об одежде), доставать (до чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметь длину до чего-л. (об одежде), доставать (до чего-л.)</text></cit>
 </sense>
 <sense>
-заполучить, достать (что-л.), добиться (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заполучить, достать (что-л.), добиться (чего-л.)</text></cit>
 <сit type="example"><text>nå fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добраться, доехать (до чего-л. - til)</text></cit></cit>
 </sense>
 </entry>
@@ -40,7 +40,7 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-теперь, сейчас
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теперь, сейчас</text></cit>
 <сit type="example"><text>fra nå av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с этого времени</text></cit></cit>
 <сit type="example"><text>først nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>только теперь, только сейчас</text></cit></cit>
 <сit type="example"><text>hva nå!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ну что ещё!, а что ещё теперь?</text></cit></cit>
@@ -55,20 +55,20 @@
 <сit type="example"><text>til nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до сих пор</text></cit></cit>
 </sense>
 <sense>
-после форм повелительного наклонения служит для усиления просьбы, приказания:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>после форм повелительного наклонения служит для усиления просьбы, приказания:</text></cit>
 <сit type="example"><text>nå skal du bare høre!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты послушай только!</text></cit></cit>
 <сit type="example"><text>hør nå!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>послушай-ка!, послушай же!</text></cit></cit>
 </sense>
 <sense>
-в безударном положении употребляется в качестве вводного слова значит
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в безударном положении употребляется в качестве вводного слова значит</text></cit>
 <сit type="example"><text>det var nå det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, значит, это было так</text></cit></cit>
 <сit type="example"><text>det er nå sant da!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, значит, это правда!</text></cit></cit>
 </sense>
 <sense>
-с вопросительной интонацией в виде отдельно стоящего слова ну и что?
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с вопросительной интонацией в виде отдельно стоящего слова ну и что?</text></cit>
 </sense>
 <sense>
-передаёт значение частицы же в высказываниях, выражающих раздражение, нетерпение:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передаёт значение частицы же в высказываниях, выражающих раздражение, нетерпение:</text></cit>
 <сit type="example"><text>men du, vent nå da!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да подожди же ты!</text></cit></cit>
 <сit type="example"><text>hva fanden heter hun nå?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как же, чёрт возьми, её зовут?</text></cit></cit>
 <сit type="example"><text>hva det nå kunne være de hadde sagt!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>что же это такое они могли сказать!</text></cit></cit>

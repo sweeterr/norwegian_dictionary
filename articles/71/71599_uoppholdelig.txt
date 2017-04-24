@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-беспрестанный, непрерывный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспрестанный, непрерывный</text></cit>
 </sense>
 <sense>
-немедленный, безотлагательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немедленный, безотлагательный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">uoppholdelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-немедленно, тут же, незамедлительно; безотлагательно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немедленно, тут же, незамедлительно; безотлагательно</text></cit>
 </sense>
 </entry>
 </superEntry>

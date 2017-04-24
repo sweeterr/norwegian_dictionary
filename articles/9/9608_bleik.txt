@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-беление, отбелка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беление, отбелка</text></cit>
 <сit type="example"><text>legge tøy på bleik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отбеливать бельё, белить ткань</text></cit></cit>
 </sense>
 <sense>
-бельё (предназначенное для отбелки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бельё (предназначенное для отбелки)</text></cit>
 </sense>
 <sense>
-место для отбелки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место для отбелки</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,19 +22,18 @@
 <form>
 <orth type="lemma">bleik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бледный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бледный</text></cit>
 <сit type="example"><text>han ble bleik som et lik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он побледнел как полотно</text></cit></cit>
 <сit type="example"><text>være bleik om nebbet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плохо выглядеть</text></cit></cit>
 </sense>
 <sense>
-слабый (о свете), белый (о ночах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о свете), белый (о ночах)</text></cit>
 </sense>
 <sense>
-блёклый, потерявший свежесть (о красках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блёклый, потерявший свежесть (о красках)</text></cit>
 </sense>
 </entry>
 </superEntry>

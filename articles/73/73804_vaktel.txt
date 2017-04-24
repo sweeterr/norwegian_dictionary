@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vaktel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>зоол.</u> перепел
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перепел</text></cit>
 </sense>
 </entry>
 </superEntry>

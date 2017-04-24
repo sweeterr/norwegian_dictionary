@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sarkom</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мед.</u> саркома, злокачественная опухоль
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>саркома, злокачественная опухоль</text></cit>
 </sense>
 </entry>
 </superEntry>

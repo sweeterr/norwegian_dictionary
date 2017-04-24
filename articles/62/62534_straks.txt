@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">straks</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-немедленный, моментальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немедленный, моментальный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +15,11 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-непосредственно рядом, тут же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непосредственно рядом, тут же</text></cit>
 <сit type="example"><text>straks på stedet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут же на месте</text></cit></cit>
 </sense>
 <sense>
-тотчас, сейчас же, немедленно, моментально
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тотчас, сейчас же, немедленно, моментально</text></cit>
 <сit type="example"><text>straks etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сразу после этого</text></cit></cit>
 <сit type="example"><text>straks med det samme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же момент, в то же мгновение</text></cit></cit>
 <сit type="example"><text>straks på timen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же момент</text></cit></cit>
@@ -35,7 +35,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(сразу) как только ..., (непосредственно) после того как ...</quote>
+<text>(сразу) как только ..., (непосредственно) после того как ...</text>
 </cit>
 </sense>
 </entry>

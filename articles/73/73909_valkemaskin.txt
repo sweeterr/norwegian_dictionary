@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">valkemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>текст.</u> сукновальная машина
+<usg>текст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сукновальная машина</text></cit>
 </sense>
 </entry>
 </superEntry>

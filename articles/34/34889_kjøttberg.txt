@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjøttberg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>шутл.</u> туша (о грузном человеке)
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>туша (о грузном человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

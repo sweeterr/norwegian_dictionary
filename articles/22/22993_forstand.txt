@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-ум, разум, рассудок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ум, разум, рассудок</text></cit>
 <сit type="example"><text>klar (praktisk, sunn) forstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ясный (практический, трезвый) ум</text></cit></cit>
 <сit type="example"><text>det går over min forstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это выше моего понимания</text></cit></cit>
 <сit type="example"><text>er du ved full forstand?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты в своём уме?</text></cit></cit>
@@ -16,11 +16,11 @@
 <сit type="example"><text>være fra forstanden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне себя, потерять контроль над собой</text></cit></cit>
 </sense>
 <sense>
-понимание дела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>понимание дела</text></cit>
 <сit type="example"><text>med forstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с умом, толково</text></cit></cit>
 </sense>
 <sense>
-смысл, значение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смысл, значение</text></cit>
 <сit type="example"><text>i figurlig forstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в переносном смысле, в фигуральном значении</text></cit></cit>
 <сit type="example"><text>i strengeste (videste) forstand</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в самом узком (широком) смысле</text></cit></cit>
 </sense>

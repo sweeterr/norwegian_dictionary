@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-разница, различие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разница, различие</text></cit>
 <сit type="example"><text>en monn bedre (verre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чуточку лучше (хуже)</text></cit></cit>
 <сit type="example"><text>ta sin (sitt) monn igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навёрстывать упущенное</text></cit></cit>
 </sense>
 <sense>
-прибавка, прирост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибавка, прирост</text></cit>
 <сit type="example"><text>alle monner drar</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> любая прибавка, даже самая малая, лучше, чем ничего</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> преимущество, выгода
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преимущество, выгода</text></cit>
 </sense>
 <sense>
-степень, мера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>степень, мера</text></cit>
 <сit type="example"><text>i fullt monn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полной мере</text></cit></cit>
 <сit type="example"><text>i noen monn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в какой-л. степени</text></cit></cit>
 <сit type="example"><text>i rikt (i ringe) monn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в большой (в малой) степени</text></cit></cit>

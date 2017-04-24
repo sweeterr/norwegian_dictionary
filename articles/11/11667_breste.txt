@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">breste</orth>
-<u>диал.</u>
+<usg>диал.</usg>
 <ref>briste</ref>
 </sense>
 </entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">breste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-квасить (молоко)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квасить (молоко)</text></cit>
 </sense>
 </entry>
 </superEntry>

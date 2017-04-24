@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">følelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-чувство, ощущение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувство, ощущение</text></cit>
 <сit type="example"><text>en intens følelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сильное чувство</text></cit></cit>
 <сit type="example"><text>dele noens følelser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разделять чьи-л. чувства</text></cit></cit>
 <сit type="example"><text>ha noe på følelsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предчувствовать что-л.</text></cit></cit>

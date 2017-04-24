@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">jura</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>юр.</u> <u>уст.</u> юридические науки, право
+<usg>юр.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юридические науки, право</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +15,8 @@
 <form>
 <orth type="lemma">jura</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>геол.</u> юрский
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>юрский</text></cit>
 </sense>
 </entry>
 </superEntry>

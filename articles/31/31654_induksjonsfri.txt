@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">induksjonsfri</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
-<u>физ.</u> не имеющий поля, не вызывающий индукции (о проводнике)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий поля, не вызывающий индукции (о проводнике)</text></cit>
 </sense>
 </entry>
 </superEntry>

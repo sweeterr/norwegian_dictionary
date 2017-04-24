@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-еда, пища, кушанье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>еда, пища, кушанье</text></cit>
 <сit type="example"><text>kald (varm) mat</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодное (горячее) блюдо</text></cit></cit>
 <сit type="example"><text>mat og drikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пища и питьё</text></cit></cit>
 <сit type="example"><text>mat og losji</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>квартира и стол, полный пансион</text></cit></cit>
@@ -17,13 +17,14 @@
 <сit type="example"><text>takk for maten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>благодарю за угощение</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> бутерброд
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бутерброд</text></cit>
 </sense>
 <sense>
-питательность, питание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питательность, питание</text></cit>
 </sense>
 <sense>
-продукты питания, продовольствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продукты питания, продовольствие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +32,8 @@
 <form>
 <orth type="lemma">mat</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> помощник (боцмана, кока, капитана)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помощник (боцмана, кока, капитана)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">uten</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u> снаружи
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаружи</text></cit>
 <сit type="example"><text>fra uten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>извне</text></cit></cit>
 </sense>
 </entry>
@@ -16,13 +17,13 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-без
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без</text></cit>
 </sense>
 <sense>
-вне, снаружи (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вне, снаружи (чего-л.)</text></cit>
 </sense>
 <sense>
-исключая (что-л.), кроме
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исключая (что-л.), кроме</text></cit>
 <сit type="example"><text>uten å (+ infinitiv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не делая (чего-л.)</text></cit></cit>
 <сit type="example"><text>uten at ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без того, чтобы ...</text></cit></cit>
 <сit type="example"><text>ingen uten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>никто кроме</text></cit></cit>

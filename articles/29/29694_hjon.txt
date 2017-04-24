@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">hjon</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-чета, супруги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чета, супруги</text></cit>
 </sense>
 <sense>
-слуга, раб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слуга, раб</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-округ, район (города)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>округ, район (города)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> ряд
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряд</text></cit>
 <сit type="example"><text>like (ulike) rote</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чётные (нечётные) ряды</text></cit></cit>
 </sense>
 </entry>
@@ -21,10 +22,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-рыться, копаться, копошиться (в чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыться, копаться, копошиться (в чём-л.)</text></cit>
 </sense>
 <sense>
-наводить беспорядок, разыскивая что-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводить беспорядок, разыскивая что-л.</text></cit>
 <сit type="example"><text>rote gjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переворошить, раскидать (вещи)</text></cit></cit>
 <сit type="example"><text>rote opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вырыть, выкопать, откопать (что-л.)</text></cit></cit>
 </sense>

@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">trøyte</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-закончить, завершить (работу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>закончить, завершить (работу)</text></cit>
 </sense>
 <sense>
-проводить (убивать) время
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить (убивать) время</text></cit>
 </sense>
 <sense>
-напрягаться (чтобы закончить), спешить кончить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>напрягаться (чтобы закончить), спешить кончить</text></cit>
 </sense>
 <sense>
-выдержать, выжить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выдержать, выжить</text></cit>
 </sense>
 </entry>
 </superEntry>

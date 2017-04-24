@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">latingymnasium</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-классическая гимназия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>классическая гимназия</text></cit>
 </sense>
 </entry>
 </superEntry>

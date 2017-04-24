@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forflate</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-фасад, лицевая сторона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фасад, лицевая сторона</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-делать плоским, выравнивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делать плоским, выравнивать</text></cit>
 </sense>
 <sense>
-опошлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опошлять</text></cit>
 </sense>
 </entry>
 </superEntry>

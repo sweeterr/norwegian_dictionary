@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">drible</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>спорт.</u> вести мяч мелкими бросками, обводить
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести мяч мелкими бросками, обводить</text></cit>
 <сit type="example"><text>drible seg gjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пройти с мячом до ворот (в футболе)</text></cit></cit>
 </sense>
 </entry>

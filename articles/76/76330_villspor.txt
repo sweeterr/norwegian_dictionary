@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">villspor</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-ложный след
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ложный след</text></cit>
 <сit type="example"><text>føre (lede, sette) én på villspor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навести на ложный след (путь), сбить с толку</text></cit></cit>
 <сit type="example"><text>være på villspor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблуждаться, быть на ложном пути</text></cit></cit>
 </sense>

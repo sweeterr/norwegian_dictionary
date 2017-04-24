@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gjesteopptreden</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>театр.</u> выступление гастролёра (гастрольной труппы)
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступление гастролёра (гастрольной труппы)</text></cit>
 </sense>
 </entry>
 </superEntry>

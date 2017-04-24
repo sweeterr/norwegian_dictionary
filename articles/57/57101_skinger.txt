@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skinger</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-пронзительный (о звуке, голосе), резкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пронзительный (о звуке, голосе), резкий</text></cit>
 </sense>
 <sense>
-яркий (о красках), бросающийся в глаза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий (о красках), бросающийся в глаза</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">meget</orth>
 <inflection><orth extent="part">-en, =</orth></inflection>
-<u>школ.</u> «весьма» (весьма удовлетворительно, об оценке знаний)
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>«весьма» (весьма удовлетворительно, об оценке знаний)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">meget</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp mer, mere, superl mest)</orth></inflection>
+<inflection><orth>(komp mer, mere, superl mest)</orth></inflection>
 </form>
 <sense>
-очень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень</text></cit>
 </sense>
 <sense>
-много (перед именами вещественными, абстрактными)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>много (перед именами вещественными, абстрактными)</text></cit>
 <сit type="example"><text>meget brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>много хлеба</text></cit></cit>
 <сit type="example"><text>alt for meget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слишком много</text></cit></cit>
 <сit type="example"><text>hvor meget?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как много?, сколько?</text></cit></cit>
@@ -29,7 +30,7 @@
 <сit type="example"><text>meget vil ha mer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> аппетит приходит во время еды</text></cit></cit>
 </sense>
 <sense>
-с прилагательными в форме сравнительной степени гораздо, значительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с прилагательными в форме сравнительной степени гораздо, значительно</text></cit>
 <сit type="example"><text>meget mere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>гораздо больше</text></cit></cit>
 <сit type="example"><text>det var meget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вот здорово</text></cit></cit>
 </sense>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">tidig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-встающий рано
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>встающий рано</text></cit>
 </sense>
 <sense>
-живой, бодрый, подвижной
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой, бодрый, подвижной</text></cit>
 </sense>
 <sense>
-весёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>весёлый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klopp</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-мостки, лавы (через речку, топкое место)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мостки, лавы (через речку, топкое место)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">klopp</orth>
 <gramGrp><pos>int</pos></gramGrp>
-стук-стук
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стук-стук</text></cit>
 </sense>
 </entry>
 </superEntry>

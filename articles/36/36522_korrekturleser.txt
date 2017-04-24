@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">korrekturleser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-корректор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корректор</text></cit>
 </sense>
 </entry>
 </superEntry>

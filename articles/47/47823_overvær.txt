@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">overvær</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-присутствие (на церемонии, спектакле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>присутствие (на церемонии, спектакле)</text></cit>
 <сit type="example"><text>i mitt overvær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в моём присутствии</text></cit></cit>
 <сit type="example"><text>i overvær av kongen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в присутствии короля</text></cit></cit>
 </sense>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">knaber</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> хорошенькая (о девушке)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошенькая (о девушке)</text></cit>
 </sense>
 </entry>
 </superEntry>

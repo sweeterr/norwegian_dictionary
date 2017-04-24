@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dansesteg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> шаг в танце
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шаг в танце</text></cit>
 </sense>
 </entry>
 </superEntry>

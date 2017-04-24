@@ -7,10 +7,12 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> камбала речная
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камбала речная</text></cit>
 </sense>
 <sense>
-<u>диал.</u> волчица
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волчица</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,16 +22,16 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-скоблить, тереть, чистить щёткой (скребком), <u>мор.</u> драить (палубу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скоблить, тереть, чистить щёткой (скребком), <lbl>мор.</lbl> драить (палубу)</text></cit>
 </sense>
 <sense>
-тормозить (ногой, палкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормозить (ногой, палкой)</text></cit>
 </sense>
 <sense>
-ссадить, поранить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ссадить, поранить</text></cit>
 </sense>
 <sense>
-дать нагоняй, задать головомойку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дать нагоняй, задать головомойку</text></cit>
 <сit type="example"><text>skrubbe av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соскабливать, оттирать (пятна)</text></cit></cit>
 </sense>
 </entry>

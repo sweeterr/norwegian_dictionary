@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">springmarsj</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> движение бегом
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движение бегом</text></cit>
 </sense>
 </entry>
 </superEntry>

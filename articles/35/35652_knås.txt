@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">knås</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шелест, шуршание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелест, шуршание</text></cit>
 </sense>
 <sense>
-шёпот, перешёптывание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шёпот, перешёптывание</text></cit>
 </sense>
 </entry>
 </superEntry>

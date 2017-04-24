@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hekte</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-застёжка, крючок (на платье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застёжка, крючок (на платье)</text></cit>
 <сit type="example"><text>hekte og malje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>крючок с петелькой</text></cit></cit>
 <сit type="example"><text>komme til hekteene (igjen)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вновь встать на ноги, поправиться</text></cit></cit>
 </sense>
@@ -17,11 +17,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-застёгивать (на застёжки, крючки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>застёгивать (на застёжки, крючки)</text></cit>
 <сit type="example"><text>hekte seg på Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> прицепиться к кому-л.; увязаться с кем-л.</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> задержать, арестовать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задержать, арестовать</text></cit>
 </sense>
 </entry>
 </superEntry>

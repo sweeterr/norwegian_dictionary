@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">nattmørk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-тёмный как ночь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный как ночь</text></cit>
 </sense>
 </entry>
 </superEntry>

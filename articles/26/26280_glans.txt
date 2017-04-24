@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-блеск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блеск</text></cit>
 <сit type="example"><text>med glans</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> с блеском, блестяще</text></cit></cit>
 </sense>
 <sense>
-сияние (солнца, звёзд), свет (луны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сияние (солнца, звёзд), свет (луны)</text></cit>
 </sense>
 <sense>
-великолепие, пышность, яркость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>великолепие, пышность, яркость</text></cit>
 </sense>
 <sense>
-глянец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глянец</text></cit>
 <сit type="example"><text>presse glans</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наводить глянец</text></cit></cit>
 </sense>
 <sense>
-<u>мин.</u> блеск (свинцовый, серебряный и т. п.)
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блеск (свинцовый, серебряный и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

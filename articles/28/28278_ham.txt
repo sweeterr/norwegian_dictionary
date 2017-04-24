@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-men, -mer</orth></inflection>
 </form>
 <sense>
-шкура, кожа (животных), оперение (птиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шкура, кожа (животных), оперение (птиц)</text></cit>
 <сit type = "example"><text>skifte ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> менять кожу</text></cit></cit>
-<сit type = "example"><text>skifte ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> менять свой взгляды</text></cit></cit>
+<сit type = "example"><text>skifte ham :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> менять свой взгляды</text></cit></cit>
 <сit type="example"><text>skyte ham, kaste hammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сбрасывать с себя кожу, линять</text></cit></cit>
 </sense>
 <sense>
-оболочка, внешняя форма
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оболочка, внешняя форма</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">ham</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- (объектн. п. от han I1) его, ему, им, (о) нём
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(объектн. п. от han I1) его, ему, им, (о) нём</text></cit>
 </sense>
 </entry>
 </superEntry>

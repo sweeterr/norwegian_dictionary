@@ -7,10 +7,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-кругом, вокруг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кругом, вокруг</text></cit>
 </sense>
 <sense>
-повсюду, и там и сям
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повсюду, и там и сям</text></cit>
 <сit type="example"><text>rundt i rommene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по комнатам</text></cit></cit>
 <сit type="example"><text>rundt (omkring) i landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по (всей) стране</text></cit></cit>
 <сit type="example"><text>løpe rundt med ærender</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бегать по поручениям</text></cit></cit>
@@ -23,7 +23,7 @@
 <form>
 <orth type="lemma">rundt</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-вокруг
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вокруг</text></cit>
 <сit type="example"><text>stikke rundt hjørnet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завернуть за угол</text></cit></cit>
 <сit type="example"><text>seile rundt Nordkapp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обогнуть мыс Нордкап</text></cit></cit>
 </sense>

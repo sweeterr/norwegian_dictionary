@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gjenge</orth>
 <inflection><orth extent="part">-n (-t)</orth></inflection>
-ход, течение (дел, событий)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ход, течение (дел, событий)</text></cit>
 <сit type="example"><text>være i gjenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти своим ходом</text></cit></cit>
 <сit type="example"><text>komme i den gamle (rette, vante) gjenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наладиться, войти в свою прежнюю (в обычную, в привычную) колею</text></cit></cit>
 </sense>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">gjenge</orth>
 <inflection><orth extent="part">-t, -r (=)</orth></inflection>
-резьба, винтовая нарезка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резьба, винтовая нарезка</text></cit>
 <сit type="example"><text>enkelt (høyre) gjenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>одно-ходовая (правая) резьба</text></cit></cit>
 <сit type="example"><text>innvendig gjenge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внутренняя нарезка</text></cit></cit>
 <сit type="example"><text>dreie gjenger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вытачивать резьбу на токарном станке</text></cit></cit>
@@ -28,7 +28,7 @@
 <form>
 <orth type="lemma">gjenge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-нарезать резьбу, делать нарезку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарезать резьбу, делать нарезку</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-шея
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шея</text></cit>
 <сit type="example"><text>brekke (knekke) halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сломать шею <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type="example"><text>falle (kaste seg) om halsen på én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>броситься на шею кому-л.</text></cit></cit>
 <сit type="example"><text>gjøre lang hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вытянуть шею</text></cit></cit>
 <сit type="example"><text>ta én om halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обнять кого-л. за шею</text></cit></cit>
 </sense>
 <sense>
-горло, гортань, глотка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горло, гортань, глотка</text></cit>
 <сit type="example"><text>av full hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во всё горло</text></cit></cit>
 <сit type="example"><text>jeg har vondt i halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня болит горло</text></cit></cit>
 <сit type="example"><text>halsen brente av tørst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в горле пересохло от жажды</text></cit></cit>
@@ -25,19 +25,22 @@
 <сit type="example"><text>gurgle halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полоскать горло</text></cit></cit>
 </sense>
 <sense>
-ворот (у платья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворот (у платья)</text></cit>
 </sense>
 <sense>
-горлышко (бутылки и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горлышко (бутылки и т. д.)</text></cit>
 </sense>
 <sense>
-<u>муз.</u> гриф, шейка (скрипки, гитары)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гриф, шейка (скрипки, гитары)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> горловина
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горловина</text></cit>
 </sense>
 <sense>
-<u>мор.</u> галс
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галс</text></cit>
 <сit type="example"><text>en hård hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>упрямый, твердолобый человек</text></cit></cit>
 <сit type="example"><text>det kan koste ham hans hals</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это может ему стоить жизни</text></cit></cit>
 <сit type="example"><text>over hals og hode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сломя голову, стремглав</text></cit></cit>

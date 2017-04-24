@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sjakkturnering</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-шахматный турнир
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шахматный турнир</text></cit>
 <сit type="example"><text>sjakkturnering for kvinner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>женский шахматный турнир</text></cit></cit>
 </sense>
 </entry>

@@ -7,14 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-безвредный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвредный</text></cit>
 </sense>
 <sense>
-не приносящий ущерба, неопасный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не приносящий ущерба, неопасный</text></cit>
 </sense>
 <sense>
-обезвреженный
-<сit type="example"><text>gjøre én uskadelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. uskadeliggjøre</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обезвреженный</text></cit>
+<сit type="example"><text>gjøre én uskadelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>uskadeliggjøre</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

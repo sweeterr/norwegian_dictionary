@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lasteavgift</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> расходы по погрузке
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расходы по погрузке</text></cit>
 </sense>
 </entry>
 </superEntry>

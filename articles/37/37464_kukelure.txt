@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kukelure</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-шишка (еловая)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шишка (еловая)</text></cit>
 </sense>
 <sense>
-раковина (улитки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раковина (улитки)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">kukelure</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>разг.</u> сидеть в раздумье, пригорюниться
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в раздумье, пригорюниться</text></cit>
 <сit type="example"><text>sitte og kukelure</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть в грустном раздумье</text></cit></cit>
 </sense>
 </entry>

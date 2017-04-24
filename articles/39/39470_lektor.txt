@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-oren, -orer</orth></inflection>
 </form>
 <sense>
-преподаватель высшей школы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преподаватель высшей школы</text></cit>
 </sense>
 <sense>
-преподаватель (лектор) по иностранным (новым) языкам в университете
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преподаватель (лектор) по иностранным (новым) языкам в университете</text></cit>
 </sense>
 <sense>
-лектор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лектор</text></cit>
 </sense>
 <sense>
-<u>уст.</u> доцент
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доцент</text></cit>
 </sense>
 </entry>
 </superEntry>

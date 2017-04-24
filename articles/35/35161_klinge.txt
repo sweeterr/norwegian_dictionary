@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klinge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-клинок, лезвие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клинок, лезвие</text></cit>
 <сit type="example"><text>gå én (hårdt) på klingen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прижать кого-л. к стене, поставить в тупик</text></cit></cit>
 <сit type="example"><text>krysse klinger med én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>скрестить шпаги с кем-л. <lbl>тж. перен.</lbl></text></cit></cit>
 </sense>
@@ -17,16 +17,17 @@
 <inflection><orth>klang, klinget (klunget)</orth></inflection>
 </form>
 <sense>
-звенеть, звучать, раздаваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звенеть, звучать, раздаваться</text></cit>
 </sense>
 <sense>
-бить (о часах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить (о часах)</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> журчать (о воде), шуметь (о деревьях)
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>журчать (о воде), шуметь (о деревьях)</text></cit>
 </sense>
 <sense>
-скрипеть (о полозьях), хрустеть (о снеге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрипеть (о полозьях), хрустеть (о снеге)</text></cit>
 </sense>
 </entry>
 </superEntry>

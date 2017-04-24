@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">røyker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-курильщик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курильщик</text></cit>
 <сit type="example"><text>en sterk (lidenskapelig) røyker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заядлый курильщик</text></cit></cit>
 </sense>
 </entry>

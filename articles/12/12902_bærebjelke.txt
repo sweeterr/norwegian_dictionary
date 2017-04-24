@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bærebjelke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> опорная балка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опорная балка</text></cit>
 </sense>
 </entry>
 </superEntry>

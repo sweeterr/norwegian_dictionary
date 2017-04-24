@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-выручка, прибыль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выручка, прибыль</text></cit>
 <сit type="example"><text>ren gevinst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чистая прибыль</text></cit></cit>
 <сit type="example"><text>gevinst og tap</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>бухг.</lbl> приход и расход</text></cit></cit>
 </sense>
 <sense>
-выигрыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выигрыш</text></cit>
 <сit type="example"><text>den største gevinst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>самый крупный выигрыш</text></cit></cit>
 </sense>
 </entry>

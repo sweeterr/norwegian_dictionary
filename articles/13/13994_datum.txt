@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-en (-et), -er (data)</orth></inflection>
 </form>
 <sense>
-дата, число
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дата, число</text></cit>
 <сit type="example"><text>sette datum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поставить число</text></cit></cit>
 </sense>
 <sense>
-время, период времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время, период времени</text></cit>
 <сit type="example"><text>av gammel (av ny) datum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старинный, давнишний (недавний, происшедший недавно)</text></cit></cit>
 </sense>
 </entry>

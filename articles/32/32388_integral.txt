@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">integral</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>мат.</u> интеграл
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интеграл</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +14,14 @@
 <form>
 <orth type="lemma">integral</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неделимый, нечленимый, целый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неделимый, нечленимый, целый</text></cit>
 </sense>
 <sense>
-<u>мат.</u> интегральный
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интегральный</text></cit>
 </sense>
 </entry>
 </superEntry>

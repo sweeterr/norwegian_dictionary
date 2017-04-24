@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en (-et)</orth></inflection>
 </form>
 <sense>
-очередь, черёд, <u>мор.</u> (вахтенная) смена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очередь, черёд, <lbl>мор.</lbl> (вахтенная) смена</text></cit>
 <сit type="example"><text>spille tørn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сменяться</text></cit></cit>
 </sense>
 <sense>
-виток, петля (троса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виток, петля (троса)</text></cit>
 </sense>
 <sense>
-тяжёлое испытание, проба сил
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тяжёлое испытание, проба сил</text></cit>
 </sense>
 <sense>
-<u>ав.</u> вираж, разворот
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вираж, разворот</text></cit>
 </sense>
 </entry>
 </superEntry>

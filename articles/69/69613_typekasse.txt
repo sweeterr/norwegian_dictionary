@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">typekasse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>полигр.</u> наборная касса
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наборная касса</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">krysantem</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> хризантема
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хризантема</text></cit>
 </sense>
 </entry>
 </superEntry>

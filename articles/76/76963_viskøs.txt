@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">viskøs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вязкий, тягучий, густой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вязкий, тягучий, густой</text></cit>
 </sense>
 </entry>
 </superEntry>

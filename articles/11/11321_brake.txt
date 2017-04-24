@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brake</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>диал.</u> можжевельник
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>можжевельник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +16,16 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-грохотать, греметь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грохотать, греметь</text></cit>
 </sense>
 <sense>
-трещать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трещать</text></cit>
 </sense>
 <sense>
-потрескивать (о льде, огне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потрескивать (о льде, огне)</text></cit>
 </sense>
 <sense>
-появиться с грохотом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>появиться с грохотом</text></cit>
 <сit type="example"><text>brake opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распахнуться с шумом (о двери)</text></cit></cit>
 </sense>
 </entry>

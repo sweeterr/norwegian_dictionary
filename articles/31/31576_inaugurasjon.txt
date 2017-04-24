@@ -5,16 +5,17 @@
 <form>
 <orth type="lemma">inaugurasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-торжественное открытие (памятника, выставки):
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торжественное открытие (памятника, выставки):</text></cit>
 </sense>
 <sense>
-начало, наступление (эры, эпохи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начало, наступление (эры, эпохи)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> торжественное избрание (на высокий пост)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>торжественное избрание (на высокий пост)</text></cit>
 </sense>
 </entry>
 </superEntry>

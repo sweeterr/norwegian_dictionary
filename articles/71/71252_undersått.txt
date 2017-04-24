@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-подданный (государства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подданный (государства)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> вассал
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вассал</text></cit>
 </sense>
 <sense>
-<u>разг.</u> <lbl>pl</lbl> ноги
+<usg>разг.</usg>
+<lbl>pl</lbl> ноги
 </sense>
 </entry>
 </superEntry>

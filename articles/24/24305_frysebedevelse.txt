@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">frysebedevelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мед.</u> искусственное охлаждение (человека), гипотермия, гипернация
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>искусственное охлаждение (человека), гипотермия, гипернация</text></cit>
 </sense>
 </entry>
 </superEntry>

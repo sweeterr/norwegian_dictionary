@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">floghavre</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>бот.</u> овёс пустой, или овсюг
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>овёс пустой, или овсюг</text></cit>
 </sense>
 </entry>
 </superEntry>

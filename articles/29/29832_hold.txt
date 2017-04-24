@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hold</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-дородность, полнота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дородность, полнота</text></cit>
 <сit type="example"><text>være i dårlig hold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в плохом состоянии</text></cit></cit>
 <сit type="example"><text>være i godt hold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в хорошем состоянии, быть в теле</text></cit></cit>
 </sense>
@@ -17,17 +17,17 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-опора, упор, <u>текст.</u> основа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>опора, упор, <lbl>текст.</lbl> основа</text></cit>
 </sense>
 <sense>
-колотье, удушье, ломота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колотье, удушье, ломота</text></cit>
 </sense>
 <sense>
-расстояние, дистанция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расстояние, дистанция</text></cit>
 <сit type="example"><text>på nært (kloss) hold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на близком расстоянии</text></cit></cit>
 </sense>
 <sense>
-группа, партия (людей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа, партия (людей)</text></cit>
 <сit type="example"><text>informerte hold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>информированные круги</text></cit></cit>
 <сit type="example"><text>på høyeste hold</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в высших кругах</text></cit></cit>
 </sense>

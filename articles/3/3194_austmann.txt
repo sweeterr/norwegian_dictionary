@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">austmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-человек, живущий к востоку (от места жительства кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, живущий к востоку (от места жительства кого-л.)</text></cit>
 </sense>
 <sense>
-норвежец (в языке жителей Исландии и островов в Норвежском море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норвежец (в языке жителей Исландии и островов в Норвежском море)</text></cit>
 </sense>
 </entry>
 </superEntry>

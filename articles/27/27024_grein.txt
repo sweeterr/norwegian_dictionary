@@ -7,33 +7,35 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-ветвь, ветка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветвь, ветка</text></cit>
 <сit type="example"><text>komme på den grønne grein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> разбогатеть</text></cit></cit>
 </sense>
 <sense>
-зубец (вилки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубец (вилки)</text></cit>
 </sense>
 <sense>
-рукав (реки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукав (реки)</text></cit>
 </sense>
 <sense>
-<u>горн.</u> жила
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жила</text></cit>
 </sense>
 <sense>
-боковая линия (родства)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>боковая линия (родства)</text></cit>
 </sense>
 <sense>
-отрасль (науки, знания)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отрасль (науки, знания)</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> ветвь, ответвление
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветвь, ответвление</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">grein</orth>
-ha grein på <u>диал.</u> знать, иметь представление (о чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ha grein på <lbl>диал.</lbl> знать, иметь представление (о чём-л.)</text></cit>
 </sense>
 </entry>
 <entry>

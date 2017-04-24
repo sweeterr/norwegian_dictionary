@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kaveringsmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-поручитель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поручитель</text></cit>
 </sense>
 <sense>
-жених, обручённый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жених, обручённый</text></cit>
 </sense>
 </entry>
 </superEntry>

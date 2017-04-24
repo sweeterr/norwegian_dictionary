@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">elevert</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-высоко лежащий, расположенный высоко
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высоко лежащий, расположенный высоко</text></cit>
 </sense>
 <sense>
-культурный, образованный, высоконравственный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>культурный, образованный, высоконравственный</text></cit>
 </sense>
 </entry>
 </superEntry>

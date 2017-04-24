@@ -5,29 +5,28 @@
 <form>
 <orth type="lemma">gild</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-отличный, чудный, прекрасный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отличный, чудный, прекрасный</text></cit>
 </sense>
 <sense>
-замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замечательный</text></cit>
 </sense>
 <sense>
-грандиозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грандиозный</text></cit>
 </sense>
 <sense>
-ценный, дорогой (об одежде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ценный, дорогой (об одежде)</text></cit>
 </sense>
 <sense>
-нарядный, пышный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарядный, пышный</text></cit>
 </sense>
 <sense>
-высокопарный (о речи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокопарный (о речи)</text></cit>
 </sense>
 <sense>
-радостный, весёлый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радостный, весёлый</text></cit>
 <сit type="example"><text>leve gildt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить припеваючи</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nyssnevnt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> только что упомянутый
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>только что упомянутый</text></cit>
 </sense>
 </entry>
 </superEntry>

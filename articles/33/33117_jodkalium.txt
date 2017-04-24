@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jodkalium</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> йодистый калий
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>йодистый калий</text></cit>
 </sense>
 </entry>
 </superEntry>

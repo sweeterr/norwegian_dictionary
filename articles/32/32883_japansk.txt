@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">japansk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-японский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>японский язык</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">japansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-японский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>японский</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">emje</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>разг.</u> кричать, вопить
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кричать, вопить</text></cit>
 </sense>
 </entry>
 </superEntry>

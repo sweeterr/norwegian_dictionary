@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tjuge</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u> вилы
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вилы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">tjuge</orth>
 <gramGrp><pos>num</pos></gramGrp>
-<u>диал.</u> см. tjue
+<usg>диал.</usg>
+<ref>tjue</ref>
 </sense>
 </entry>
 </superEntry>

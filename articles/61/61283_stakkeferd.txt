@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stakkeferd</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> torsdagsferd er stakkeferd <u>посл.</u> если выедешь в четверг, удачи не будет
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>torsdagsferd er stakkeferd <lbl>посл.</lbl> если выедешь в четверг, удачи не будет</text></cit>
 </sense>
 </entry>
 </superEntry>

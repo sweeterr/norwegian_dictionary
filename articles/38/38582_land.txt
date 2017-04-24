@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-страна, государство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страна, государство</text></cit>
 <сit type="example"><text>et folkestyrt land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страна, управляемая народом</text></cit></cit>
 <сit type="example"><text>her til lands</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у нас в стране, в нашей стране</text></cit></cit>
 <сit type="example"><text>i eventyrets land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в стране чудес</text></cit></cit>
@@ -17,12 +17,12 @@
 <сit type="example"><text>flykte fra (av) landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бежать из страны</text></cit></cit>
 </sense>
 <sense>
-местность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>местность</text></cit>
 <сit type="example"><text>bakket (flatt, åpent) land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холмистая (равнинная, открытая) местность</text></cit></cit>
 <сit type="example"><text>oppe i landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в горных районах, в гористой местности</text></cit></cit>
 </sense>
 <sense>
-суша, земля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суша, земля</text></cit>
 <сit type="example"><text>fast land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>суша</text></cit></cit>
 <сit type="example"><text>land forut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>земля впереди</text></cit></cit>
 <сit type="example"><text>anduve land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обнаружить (увидеть) землю, берег</text></cit></cit>
@@ -39,22 +39,24 @@
 <сit type="example"><text>stevne inn mot land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс к берегу</text></cit></cit>
 </sense>
 <sense>
-провинция, периферия, деревня (в противоположность городу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провинция, периферия, деревня (в противоположность городу)</text></cit>
 <сit type="example"><text>bo på landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жить в сельской местности (на даче, в деревне)</text></cit></cit>
 <сit type="example"><text>flytte på landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переезжать за город (на дачу, в деревню)</text></cit></cit>
 <сit type="example"><text>ligge på landet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>находиться за городом (в деревне)</text></cit></cit>
 </sense>
 <sense>
-земля, почва
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>земля, почва</text></cit>
 <сit type="example"><text>jomfruelig (nytt) land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нетронутая земля, целина</text></cit></cit>
 <сit type="example"><text>legge nytt land under plogen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать целину</text></cit></cit>
 <сit type="example"><text>rydde land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>корчевать, расчищать землю (под пашню)</text></cit></cit>
 </sense>
 <sense>
-область (знаний деятельности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>область (знаний деятельности)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> <u>поэт.</u> царство
+<usg>перен.</usg>
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>царство</text></cit>
 <сit type="example"><text>mørkets land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>царство тьмы</text></cit></cit>
 <сit type="example"><text>i drømmenes land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в царстве грёз</text></cit></cit>
 <сit type="example"><text>i de dødes land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в царстве мёртвых</text></cit></cit>
@@ -68,7 +70,8 @@
 <form>
 <orth type="lemma">land</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> навозная жижа
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>навозная жижа</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,10 @@
 <form>
 <orth type="lemma">amfiteater</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ист.</u>, <u>архит.</u>, <u>театр.</u> амфитеатр
+<usg>ист.</usg>
+<usg>архит.</usg>
+<usg>театр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амфитеатр</text></cit>
 </sense>
 </entry>
 </superEntry>

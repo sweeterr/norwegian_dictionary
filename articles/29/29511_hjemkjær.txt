@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">hjemkjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-любящий дом (семью)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любящий дом (семью)</text></cit>
 </sense>
 </entry>
 </superEntry>

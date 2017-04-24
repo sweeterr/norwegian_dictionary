@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ha</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-га, гектар (мера земли)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>га, гектар (мера земли)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,7 +15,7 @@
 <inflection><orth>hadde, hatt</orth></inflection>
 </form>
 <sense>
-иметь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иметь</text></cit>
 <сit type="example"><text>hvordan har De det?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как вы поживаете?</text></cit></cit>
 <сit type="example"><text>han har det godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его дела идут хорошо</text></cit></cit>
 <сit type="example"><text>han har det dårlig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>его дела плохи, ему живётся трудно</text></cit></cit>
@@ -35,42 +35,42 @@
 <сit type="example"><text>hvorledes (hvordan) har det seg med ...?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как обстоит дело с ...?</text></cit></cit>
 </sense>
 <sense>
-носить, быть одетым (во что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>носить, быть одетым (во что-л.)</text></cit>
 <сit type="example"><text>ha klær på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть одетым</text></cit></cit>
 <сit type="example"><text>ha lite på seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть легко одетым</text></cit></cit>
 </sense>
 <sense>
-питать, чувствовать (уважение, отвращение, симпатию)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>питать, чувствовать (уважение, отвращение, симпатию)</text></cit>
 </sense>
 <sense>
-с последующим прямым дополнением + причастие II — образует словосочетание, соответствующее простому глаголу по-русски:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с последующим прямым дополнением + причастие II — образует словосочетание, соответствующее простому глаголу по-русски:</text></cit>
 <сit type="example"><text>ha en unnskyldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>простить кого-л.</text></cit></cit>
 <сit type="example"><text>ha en mistenkt for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подозревать кого-л. в чём-л.</text></cit></cit>
 <сit type="example"><text>ha noe nødig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нуждаться в чём-л.</text></cit></cit>
 </sense>
 <sense>
-с последующим причастием II — образует перфектные формы глагола - перфект, будущее совершенное:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с последующим причастием II — образует перфектные формы глагола - перфект, будущее совершенное:</text></cit>
 <сit type="example"><text>jeg har skrevet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я написал</text></cit></cit>
 <сit type="example"><text>jeg trodde De hadde vært syk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я думал, что вы болели тогда</text></cit></cit>
 </sense>
 <sense>
-с последующим инфинитивом выражает модальность быть должным (обязанным) что-л. делать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с последующим инфинитивом выражает модальность быть должным (обязанным) что-л. делать</text></cit>
 <сit type="example"><text>han har å takke Dem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он должен благодарить вас</text></cit></cit>
 </sense>
 <sense>
-с предшествующим модальным глаголом и последующим определением указывает на переход в состояние, обозначенное определением:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>с предшествующим модальным глаголом и последующим определением указывает на переход в состояние, обозначенное определением:</text></cit>
 <сit type="example"><text>jeg ville ha ham avsted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я хотел, чтобы он ушёл отсюда</text></cit></cit>
-<сit type = "example"><text>ha inne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>мор.</u> иметь на борту (груз)</text></cit></cit>
-<сit type = "example"><text>ha inne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>уст.</u> <u>воен.</u> взять (город)</text></cit></cit>
+<сit type = "example"><text>ha inne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>мор.</lbl> иметь на борту (груз)</text></cit></cit>
+<сit type = "example"><text>ha inne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>уст.</lbl> <lbl>воен.</lbl> взять (город)</text></cit></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">ha</orth>
-ha!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ha!</text></cit>
 <gramGrp><pos>int</pos></gramGrp>
-ах!, а-а! (выражение досады, горечи, удивления, презрения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ах!, а-а! (выражение досады, горечи, удивления, презрения)</text></cit>
 <сit type="example"><text>si (svare) ja og ha</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соглашаться на что-л., ответить согласием</text></cit></cit>
 </sense>
 </entry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">vribar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вертящийся, вращающийся, поворотный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вертящийся, вращающийся, поворотный</text></cit>
 </sense>
 </entry>
 </superEntry>

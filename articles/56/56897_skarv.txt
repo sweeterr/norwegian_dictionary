@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skarv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> баклан
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баклан</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-босяк, оборванец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>босяк, оборванец</text></cit>
 </sense>
 <sense>
-негодяй
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>негодяй</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">skarv</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-голая скала
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голая скала</text></cit>
 </sense>
 </entry>
 </superEntry>

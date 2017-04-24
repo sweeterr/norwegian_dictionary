@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">seremoniell</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-церемониал, обряд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церемониал, обряд</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,14 +13,13 @@
 <form>
 <orth type="lemma">seremoniell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-церемониальный, обрядовый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церемониальный, обрядовый</text></cit>
 </sense>
 <sense>
-церемонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>церемонный</text></cit>
 </sense>
 </entry>
 </superEntry>

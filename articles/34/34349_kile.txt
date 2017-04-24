@@ -7,12 +7,13 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-клин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клин</text></cit>
 <сit type="example"><text>drive inn en kile</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>загнать клин</text></cit></cit>
 <сit type="example"><text>slå kiler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вбивать клинья</text></cit></cit>
 </sense>
 <sense>
-<u>тех.</u> шпонка, клиновидная распорка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпонка, клиновидная распорка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,10 +23,10 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-вбивать (вколачивать) клин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вбивать (вколачивать) клин</text></cit>
 </sense>
 <sense>
-колоть (раскалывать) с помощью клина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колоть (раскалывать) с помощью клина</text></cit>
 <сit type="example"><text>kile av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать судно со стапелей</text></cit></cit>
 <сit type="example"><text>kile avsted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сорваться с места, удрать, сбежать</text></cit></cit>
 <сit type="example"><text>kile inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заклинивать</text></cit></cit>
@@ -39,7 +40,7 @@
 <form>
 <orth type="lemma">kile</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-щекотать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щекотать</text></cit>
 </sense>
 </entry>
 </superEntry>

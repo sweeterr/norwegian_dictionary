@@ -7,23 +7,23 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-земля, почва, грунт, подпочвенный слой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>земля, почва, грунт, подпочвенный слой</text></cit>
 <сit type="example"><text>fast grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдая почва</text></cit></cit>
-<сit type = "example"><text>få fast grunn under føttene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> почувствовать твёрдую почву под ногами <u>тж. перен.</u></text></cit></cit>
+<сit type = "example"><text>få fast grunn under føttene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> почувствовать твёрдую почву под ногами <lbl>тж. перен.</lbl></text></cit></cit>
 <сit type = "example"><text>få fast grunn under føttene :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> высадиться на сушу</text></cit></cit>
 <сit type="example"><text>grunnen gynget under oss</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>почва уходила у нас из-под ног</text></cit></cit>
 </sense>
 <sense>
-территория
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>территория</text></cit>
 <сit type="example"><text>på norsk grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на норвежской земле</text></cit></cit>
 <сit type="example"><text>råde grunnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>царить, господствовать</text></cit></cit>
 </sense>
 <sense>
-недра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недра</text></cit>
 <сit type="example"><text>av hjertens grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от всей души</text></cit></cit>
 </sense>
 <sense>
-дно, мель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дно, мель</text></cit>
 <сit type="example"><text>bringe (hjelpe, trekke) et skip av grunnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать корабль с мели</text></cit></cit>
 <сit type = "example"><text>gå til grunne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пойти ко дну</text></cit></cit>
 <сit type = "example"><text>gå til grunne :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> погибнуть, опуститься</text></cit></cit>
@@ -33,10 +33,10 @@
 <сit type="example"><text>ta grunnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>достичь дна, войти в грунт (о якоре)</text></cit></cit>
 </sense>
 <sense>
-низина, лощина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низина, лощина</text></cit>
 </sense>
 <sense>
-основание, фундамент
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>основание, фундамент</text></cit>
 <сit type="example"><text>i grunnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по сути дела, по существу</text></cit></cit>
 <сit type="example"><text>i grunn og grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в своей основе</text></cit></cit>
 <сit type="example"><text>ned til grunnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до самого основания</text></cit></cit>
@@ -44,16 +44,16 @@
 <сit type = "example"><text>legge grunnen til noe :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> заложить основы</text></cit></cit>
 </sense>
 <sense>
-повод, причина, основание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повод, причина, основание</text></cit>
 <сit type="example"><text>på grunn av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по причине, из-за (чего-л.)</text></cit></cit>
 <сit type="example"><text>angi som grunn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в качестве основания</text></cit></cit>
 <сit type="example"><text>finne grunn til å gjøre noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>найти повод сделать что-л.</text></cit></cit>
 </sense>
 <sense>
-грунтовка (холста)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грунтовка (холста)</text></cit>
 </sense>
 <sense>
-фон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -61,17 +61,16 @@
 <form>
 <orth type="lemma">grunn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мелкий, неглубокий (о водоёме)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкий, неглубокий (о водоёме)</text></cit>
 </sense>
 <sense>
-мелкосидящий (о судне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкосидящий (о судне)</text></cit>
 </sense>
 <sense>
-неглубокий, поверхностный (о человеке, речи, выступлении и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неглубокий, поверхностный (о человеке, речи, выступлении и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

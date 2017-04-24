@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bakerovn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-печь (для печения, выпечки хлеба)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печь (для печения, выпечки хлеба)</text></cit>
 <сit type="example"><text>det er varmt som i en bakerovn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жарко как в печке</text></cit></cit>
 </sense>
 </entry>

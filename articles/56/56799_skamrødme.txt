@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skamrødme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-краска стыда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краска стыда</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skamrødme</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-покраснеть от стыда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покраснеть от стыда</text></cit>
 </sense>
 </entry>
 </superEntry>

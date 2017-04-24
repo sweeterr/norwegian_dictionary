@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">platthammer</orth>
 <inflection><orth extent="part">-meren, -mere (-rer)</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-листоштамповочный молот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>листоштамповочный молот</text></cit>
 </sense>
 <sense>
-молоток с широким бойком
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>молоток с широким бойком</text></cit>
 </sense>
 </entry>
 </superEntry>

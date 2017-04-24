@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ilddrake</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>миф.</u> огнедышащий дракон
+<usg>миф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огнедышащий дракон</text></cit>
 </sense>
 </entry>
 </superEntry>

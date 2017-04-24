@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">gendarmblå</orth>
 <phon>|∫aŋ -|</phon>
-<u>a -tt</u>
-синий (с зеленоватым оттенком)
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><orth extent="part">-tt</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синий (с зеленоватым оттенком)</text></cit>
 </sense>
 </entry>
 </superEntry>

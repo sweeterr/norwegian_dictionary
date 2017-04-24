@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trias</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u>
+<usg>геол.</usg>
 </form>
 <sense>
-триасовый период, триасовая система
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>триасовый период, триасовая система</text></cit>
 </sense>
 <sense>
-триасовые отложения
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>триасовые отложения</text></cit>
 </sense>
 </entry>
 </superEntry>

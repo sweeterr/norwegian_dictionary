@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-прыжок, скачок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыжок, скачок</text></cit>
 </sense>
 <sense>
-бег, разбег (для прыжка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бег, разбег (для прыжка)</text></cit>
 <сit type="example"><text>sette i sprang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пускаться вскачь</text></cit></cit>
 <сit type = "example"><text>stå på sprang :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> приготовиться к прыжку (бегу)</text></cit></cit>
 <сit type = "example"><text>stå på sprang :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть наготове</text></cit></cit>
 <сit type="example"><text>ta én på spranget</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>догнать кого-л. на бегу</text></cit></cit>
 </sense>
 <sense>
-неожиданная перемена, изменение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неожиданная перемена, изменение</text></cit>
 </sense>
 <sense>
-<u>воен.</u> перебежка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перебежка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +29,7 @@
 <form>
 <orth type="lemma">sprang</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-кружева для отделки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кружева для отделки</text></cit>
 </sense>
 </entry>
 <entry>

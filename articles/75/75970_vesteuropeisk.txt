@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vesteuropeisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-западноевропейский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>западноевропейский</text></cit>
 </sense>
 </entry>
 </superEntry>

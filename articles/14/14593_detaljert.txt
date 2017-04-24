@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">detaljert</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- детальный, подробный, обстоятельный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детальный, подробный, обстоятельный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">detaljert</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- детально, подробно, обстоятельно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>детально, подробно, обстоятельно</text></cit>
 </sense>
 </entry>
 </superEntry>

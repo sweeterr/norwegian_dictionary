@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">klangrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-звучный, звонкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звучный, звонкий</text></cit>
 </sense>
 </entry>
 </superEntry>

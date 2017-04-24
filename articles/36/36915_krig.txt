@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-война
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>война</text></cit>
 <сit type="example"><text>blodig (borgerlig, hellig, kald, kjemisk, rettferdig, urettferdig) krig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кровопролитная (гражданская, священная, холодная, химическая,справедливая, несправедливая) война</text></cit></cit>
 <сit type="example"><text>den lille krig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>малая (локальная, партизанская) война</text></cit></cit>
 <сit type="example"><text>krig på kniven</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>истребительная война</text></cit></cit>
@@ -22,7 +22,7 @@
 <сit type="example"><text>ligge i krig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть в состоянии войны, воевать</text></cit></cit>
 </sense>
 <sense>
-борьба, кампания (против чего-л. - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>борьба, кампания (против чего-л. - mot)</text></cit>
 </sense>
 </entry>
 </superEntry>

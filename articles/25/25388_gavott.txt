@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gavott</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>муз.</u> гавот (танец)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гавот (танец)</text></cit>
 </sense>
 </entry>
 </superEntry>

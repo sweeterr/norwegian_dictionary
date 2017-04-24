@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">asfalttraver</orth>
 <inflection><orth extent="part">-en, -е</orth></inflection>
-<u>ирон.</u> житель большого города
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>житель большого города</text></cit>
 </sense>
 </entry>
 </superEntry>

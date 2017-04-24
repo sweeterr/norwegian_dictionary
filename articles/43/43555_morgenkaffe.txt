@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">morgenkaffe</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-утренний кофе
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утренний кофе</text></cit>
 </sense>
 </entry>
 </superEntry>

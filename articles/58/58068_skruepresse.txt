@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">skruepresse</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> винтовой (маховичный) пресс
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>винтовой (маховичный) пресс</text></cit>
 </sense>
 </entry>
 </superEntry>

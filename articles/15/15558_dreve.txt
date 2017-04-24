@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">dreve</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-медлить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>медлить</text></cit>
 </sense>
 <sense>
-растягивать (слова, речь)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растягивать (слова, речь)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">bløyte</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-сырость, мокрота, мокропогодица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сырость, мокрота, мокропогодица</text></cit>
 </sense>
 <sense>
-ливень, проливень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ливень, проливень</text></cit>
 </sense>
 <sense>
-размокшая земля, грязь (на дороге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размокшая земля, грязь (на дороге)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">bløyte</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-смачивать, размачивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смачивать, размачивать</text></cit>
 <сit type="example"><text>bløyte opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>растворять</text></cit></cit>
 </sense>
 </entry>

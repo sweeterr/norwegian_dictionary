@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">frontal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-фронтовой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фронтовой</text></cit>
 </sense>
 <sense>
-фронтальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фронтальный</text></cit>
 </sense>
 </entry>
 </superEntry>

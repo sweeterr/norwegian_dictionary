@@ -7,16 +7,17 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-жгучий, палящий, горящий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жгучий, палящий, горящий</text></cit>
 </sense>
 <sense>
-<u>перен.</u> пылающий, горячий
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пылающий, горячий</text></cit>
 </sense>
 <sense>
-животрепещущий, злободневный, актуальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>животрепещущий, злободневный, актуальный</text></cit>
 </sense>
 <sense>
-насущный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>насущный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +25,7 @@
 <form>
 <orth type="lemma">brennende</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-страшно, сильно, очень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страшно, сильно, очень</text></cit>
 </sense>
 </entry>
 </superEntry>

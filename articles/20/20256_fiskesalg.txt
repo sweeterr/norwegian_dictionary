@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fiskesalg</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-продажа рыбы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>продажа рыбы</text></cit>
 </sense>
 </entry>
 </superEntry>

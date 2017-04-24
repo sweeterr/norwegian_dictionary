@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lydbetegnelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>лингв.</u>
+<usg>лингв.</usg>
 </form>
 <sense>
-обозначение звука
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обозначение звука</text></cit>
 </sense>
 <sense>
-фонетический (транскрипционный) знак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фонетический (транскрипционный) знак</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">nordsjøfisk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-рыба, вылавливаемая в Северном море
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыба, вылавливаемая в Северном море</text></cit>
 </sense>
 </entry>
 </superEntry>

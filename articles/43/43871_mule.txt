@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-морда, рыло, пятачок (у свиньи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морда, рыло, пятачок (у свиньи)</text></cit>
 </sense>
 <sense>
-<u>диал.</u> отверстие (трубы, мешка, пакета)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отверстие (трубы, мешка, пакета)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">mule</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-мул
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мул</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">mule</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-мюль-машина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мюль-машина</text></cit>
 </sense>
 </entry>
 </superEntry>

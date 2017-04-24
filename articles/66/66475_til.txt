@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">til</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-ещё
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ещё</text></cit>
 <сit type="example"><text>av og til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время от времени; иногда</text></cit></cit>
 <сit type="example"><text>fra og til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>туда и сюда, взад и вперёд</text></cit></cit>
 <сit type="example"><text>en til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ещё один</text></cit></cit>
@@ -19,7 +19,7 @@
 <gramGrp><pos>prep</pos></gramGrp>
 </form>
 <sense>
-в пространственном значении указывает на направление движения к предмету, в, к, на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на направление движения к предмету, в, к, на</text></cit>
 <сit type="example"><text>til høyre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>направо</text></cit></cit>
 <сit type="example"><text>til venstre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налево</text></cit></cit>
 <сit type="example"><text>til siden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в сторону</text></cit></cit>
@@ -28,66 +28,66 @@
 <сit type="example"><text>fra sted til sted</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с места на место</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на предел движения на, до
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на предел движения на, до</text></cit>
 <сit type="example"><text>følge til døra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проводить до дверей</text></cit></cit>
 <сit type="example"><text>dalen strekker seg fram til fjorden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>долина тянется до самого фиорда</text></cit></cit>
 <сit type="example"><text>fra fot til isse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с ног до головы</text></cit></cit>
 <сit type="example"><text>fra topp til tå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с головы до пят</text></cit></cit>
 </sense>
 <sense>
-в пространственном значении указывает на прикосновение к какому-л. предмету, к, с
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в пространственном значении указывает на прикосновение к какому-л. предмету, к, с</text></cit>
 <сit type="example"><text>grense til (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>граничить с (чем-л.)</text></cit></cit>
 <сit type="example"><text>legge til kaien</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>причаливать к пристани</text></cit></cit>
 <сit type="example"><text>ta til lua</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прикоснуться рукой к фуражке, шапке (в знак приветствия)</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на приближение к определённой точке во времени, к
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на приближение к определённой точке во времени, к</text></cit>
 <сit type="example"><text>klokka gikk til ni</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>время шло к девяти часам</text></cit></cit>
 </sense>
 <sense>
-во временном значении указывает на направленность к какому-л. моменту времени, на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>во временном значении указывает на направленность к какому-л. моменту времени, на</text></cit>
 <сit type="example"><text>han innbød meg til onsdag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пригласил меня на среду</text></cit></cit>
 </sense>
 <sense>
-указывает на лицо, по отношению к которому что-л. совершается, по-русски передаётся формой дательного падежа:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на лицо, по отношению к которому что-л. совершается, по-русски передаётся формой дательного падежа:</text></cit>
 <сit type="example"><text>skrive (sende) til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>писать (посылать) кому-л.</text></cit></cit>
 </sense>
 <sense>
-указывает на предел, границу действия во времени, количестве, числе, до
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на предел, границу действия во времени, количестве, числе, до</text></cit>
 <сit type="example"><text>fra morgen til aften (kveld)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с утра до вечера</text></cit></cit>
 <сit type="example"><text>fra to til fem</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от двух до пяти</text></cit></cit>
 <сit type="example"><text>til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>1963 до 1963 г.</text></cit></cit>
 <сit type="example"><text>til siste mann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>до последнего человека</text></cit></cit>
 </sense>
 <sense>
-указывает на цель, назначение действия к, для или же передаётся по-русски придаточным предложением цели:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на цель, назначение действия к, для или же передаётся по-русски придаточным предложением цели:</text></cit>
 <сit type="example"><text>ha tid til å lese (sove, hvile и т. д.)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь время для чтения (сна, отдыха и т. д.) или для того, чтобы читать (спать, отдыхать и т. д.)</text></cit></cit>
 <сit type="example"><text>tøy til en kjole</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>материя (ткань) на платье</text></cit></cit>
 <сit type="example"><text>vann til å drikke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вода для питья</text></cit></cit>
 <сit type="example"><text>lese til artium</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>готовиться к вступительному экзамену</text></cit></cit>
 </sense>
 <sense>
-указывает на пост, должность, на которую кто-л. избран; передаётся по-русски творительным падежом:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на пост, должность, на которую кто-л. избран; передаётся по-русски творительным падежом:</text></cit>
 <сit type="example"><text>utnevne én til statsråd (guvernør)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>назначить кого-л. министром (губернатором)</text></cit></cit>
 <сit type="example"><text>velge én til president (formann)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>избрать кого-л. президентом (председателем)</text></cit></cit>
 </sense>
 <sense>
-указывает на принадлежность лицу или предмету, переводится по-русски формой родительного падежа:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на принадлежность лицу или предмету, переводится по-русски формой родительного падежа:</text></cit>
 <сit type="example"><text>far (mor) til disse barn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отец (мать) этих детей</text></cit></cit>
 <сit type="example"><text>lua til Tor</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фуражка Тура</text></cit></cit>
 </sense>
 <sense>
-указывает на стоимость, цену, по, за
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на стоимость, цену, по, за</text></cit>
 <сit type="example"><text>en billett til 3 kroner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>билет за три кроны</text></cit></cit>
 <сit type="example"><text>til lav pris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>за дешёвую цену, по дешёвой цене</text></cit></cit>
 </sense>
 <sense>
-в сочетании с формой существительного на -s указывает на движение или местонахождение предмета:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с формой существительного на -s указывает на движение или местонахождение предмета:</text></cit>
 <сit type="example"><text>dra til bygds (bys , fjells, skogs)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться в провинцию (город, горы, лес)</text></cit></cit>
 <сit type="example"><text>sitte til bords (ilds)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть за столом (у огня)</text></cit></cit>
 </sense>
 <sense>
-в сочетании с формой существительного на -s указывает на способ, средство совершения действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в сочетании с формой существительного на -s указывает на способ, средство совершения действия:</text></cit>
 <сit type="example"><text>til fots</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пешком</text></cit></cit>
 <сit type="example"><text>til lands (sjøs, vanns)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>по суше (морю, воде)</text></cit></cit>
 <сit type="example"><text>ligge til ankers</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять на якоре</text></cit></cit>
@@ -101,7 +101,7 @@
 <form>
 <orth type="lemma">til</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-пока (не), до тех пор пока (не)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пока (не), до тех пор пока (не)</text></cit>
 </sense>
 </entry>
 </superEntry>

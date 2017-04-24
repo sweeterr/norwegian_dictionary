@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">omgivelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
- 
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
 </form>
 <sense>
-окружение, среда, окружающие кого-л. люди
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окружение, среда, окружающие кого-л. люди</text></cit>
 </sense>
 <sense>
-окрестности, округа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>окрестности, округа</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-известия, сведения, информация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>известия, сведения, информация</text></cit>
 <сit type="example"><text>til etterretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к сведению</text></cit></cit>
 <сit type="example"><text>ta (seg) noe til etterretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять к сведению</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> разведка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведка</text></cit>
 <сit type="example"><text>etterretning i hæren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>войсковая разведка</text></cit></cit>
 <сit type="example"><text>etterretning av alle arter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разведка всех видов</text></cit></cit>
 </sense>
 <sense>
-разведывательные сведения (данные)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывательные сведения (данные)</text></cit>
 </sense>
 </entry>
 </superEntry>

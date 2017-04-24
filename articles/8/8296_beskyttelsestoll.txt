@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beskyttelsestoll</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>эк.</u> покровительственная пошлина
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покровительственная пошлина</text></cit>
 </sense>
 </entry>
 </superEntry>

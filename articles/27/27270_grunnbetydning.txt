@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grunnbetydning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>лингв.</u> первоначальное (основное) значение
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первоначальное (основное) значение</text></cit>
 </sense>
 </entry>
 </superEntry>

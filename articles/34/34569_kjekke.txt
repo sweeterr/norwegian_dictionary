@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjekke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> идти галсами против ветра (тж. kjekke opp i vinden)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти галсами против ветра (тж. kjekke opp i vinden)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">kjekke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> травить понемножку (о тросе)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>травить понемножку (о тросе)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kommandørkaptein</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> коммандёркаптейн (капитан второго ранга)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коммандёркаптейн (капитан второго ранга)</text></cit>
 </sense>
 </entry>
 </superEntry>

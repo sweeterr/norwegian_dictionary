@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">årvak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бдительный, бодрствующий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бдительный, бодрствующий</text></cit>
 </sense>
 <sense>
-чуткий (о собаке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуткий (о собаке)</text></cit>
 </sense>
 </entry>
 </superEntry>

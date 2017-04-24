@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">lavfrekvent</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>радио</u>, <u>физ.</u> низкочастотный, имеющий низкую частоту
+<usg>радио</usg>
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>низкочастотный, имеющий низкую частоту</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-внешность, внешний вид, облик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешность, внешний вид, облик</text></cit>
 </sense>
 <sense>
-внешняя сторона (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешняя сторона (чего-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,15 +20,15 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-внешний <u>в разн. знач.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внешний <lbl>в разн. знач.</lbl></text></cit>
 <сit type="example"><text>i det ytre</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>внешне</text></cit></cit>
 </sense>
 <sense>
-крайний
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крайний</text></cit>
 <сit type="example"><text>ytre høyre (venstre)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>спорт.</lbl> правый (левый) крайний нападения</text></cit></cit>
 </sense>
 <sense>
-наружный, находящийся снаружи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наружный, находящийся снаружи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -36,13 +36,13 @@
 <form>
 <orth type="lemma">ytre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-высказывать, выражать, проявлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высказывать, выражать, проявлять</text></cit>
 </form>
 <sense>
-высказываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высказываться</text></cit>
 </sense>
 <sense>
-проявляться, проступать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проявляться, проступать</text></cit>
 </sense>
 </entry>
 </superEntry>

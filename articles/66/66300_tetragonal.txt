@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">tetragonal</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-четырехугольный, тетрагональный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четырехугольный, тетрагональный</text></cit>
 </sense>
 </entry>
 </superEntry>

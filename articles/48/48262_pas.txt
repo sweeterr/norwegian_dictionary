@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pas</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> хворост
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хворост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,7 @@
 <orth type="lemma">pas</orth>
 <phon>|pa|</phon>
 <inflection><orth extent="part">-et, =</orth></inflection>
-па (в танцах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>па (в танцах)</text></cit>
 </sense>
 </entry>
 </superEntry>

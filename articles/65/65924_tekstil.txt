@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tekstil</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>собир.</u> текстиль, текстильные изделия, ткани
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>текстиль, текстильные изделия, ткани</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">tekstil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-текстильный, тканый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>текстильный, тканый</text></cit>
 </sense>
 </entry>
 </superEntry>

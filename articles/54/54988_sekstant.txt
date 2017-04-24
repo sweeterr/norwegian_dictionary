@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sekstant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> секстан(т)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секстан(т)</text></cit>
 </sense>
 </entry>
 </superEntry>

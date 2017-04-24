@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">borgermestermine</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>шутл.</u> важное выражение лица
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>важное выражение лица</text></cit>
 </sense>
 </entry>
 </superEntry>

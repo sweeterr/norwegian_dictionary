@@ -7,33 +7,36 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-бросок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросок</text></cit>
 </sense>
 <sense>
-резкое движение, рывок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>резкое движение, рывок</text></cit>
 </sense>
 <sense>
-порыв (ветра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порыв (ветра)</text></cit>
 </sense>
 <sense>
-взгляд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взгляд</text></cit>
 </sense>
 <sense>
-заброс, постановка (рыболовных сетей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заброс, постановка (рыболовных сетей)</text></cit>
 </sense>
 <sense>
-платок, косынка, шаль, накидка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платок, косынка, шаль, накидка</text></cit>
 </sense>
 <sense>
-<u>диал.</u> стычка, столкновение
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стычка, столкновение</text></cit>
 <сit type="example"><text>gi seg i kast med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>схватиться с кем-л.</text></cit></cit>
 <сit type="example"><text>komme i kast med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подраться (помериться силами) с кем-л.</text></cit></cit>
 </sense>
 <sense>
-<u>диал.</u> куча (хвороста, камней и т. п.)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куча (хвороста, камней и т. п.)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> метание, бросок
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>метание, бросок</text></cit>
 </sense>
 </entry>
 </superEntry>

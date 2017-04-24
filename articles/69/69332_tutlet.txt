@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">tutlet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-хилый, болезненный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хилый, болезненный</text></cit>
 </sense>
 <sense>
-придурковатый, ошалелый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придурковатый, ошалелый</text></cit>
 </sense>
 <sense>
-неуклюжий, неловкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неуклюжий, неловкий</text></cit>
 </sense>
 </entry>
 </superEntry>

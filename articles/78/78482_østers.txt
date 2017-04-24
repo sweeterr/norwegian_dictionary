@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">østers</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-устрица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>устрица</text></cit>
 <сit type="example"><text>så dura som en østers</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глуп как пробка</text></cit></cit>
 </sense>
 </entry>

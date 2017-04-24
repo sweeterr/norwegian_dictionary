@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barnedeie</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u> девочка-служанка
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>девочка-служанка</text></cit>
 </sense>
 </entry>
 </superEntry>

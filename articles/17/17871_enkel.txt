@@ -5,20 +5,20 @@
 <form>
 <orth type="lemma">enkel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-простой, несложный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>простой, несложный</text></cit>
 </sense>
 <sense>
-скромный, без претензий на роскошь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скромный, без претензий на роскошь</text></cit>
 </sense>
 <sense>
-чёткий, ясный (о формах, линиях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чёткий, ясный (о формах, линиях)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> отдельный, одинокий
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдельный, одинокий</text></cit>
 </sense>
 </entry>
 </superEntry>

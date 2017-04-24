@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bankobligasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фин.</u> банковская облигация (облигация, выпущенная банком)
+<usg>фин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банковская облигация (облигация, выпущенная банком)</text></cit>
 </sense>
 </entry>
 </superEntry>

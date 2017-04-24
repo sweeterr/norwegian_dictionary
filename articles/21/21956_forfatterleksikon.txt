@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">forfatterleksikon</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-биобиблиографический словарь писателей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>биобиблиографический словарь писателей</text></cit>
 </sense>
 </entry>
 </superEntry>

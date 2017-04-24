@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">prateprogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>комп.</u> программа диалогового общения по Интернету, ретрансляции разговоров в Интернет например "IRC"
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>программа диалогового общения по Интернету, ретрансляции разговоров в Интернет например "IRC"</text></cit>
 </sense>
 </entry>
 </superEntry>

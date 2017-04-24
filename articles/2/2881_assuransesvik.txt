@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">assuransesvik</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-мошенничество при страховании
-<u>мор.</u> баратрия (вред, причинённый судну или грузу капитаном или командой умышленно или по преступной небрежности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мошенничество при страховании</text></cit>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баратрия (вред, причинённый судну или грузу капитаном или командой умышленно или по преступной небрежности)</text></cit>
 </sense>
 </entry>
 </superEntry>

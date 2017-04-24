@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blomsterskrud</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>поэт.</u> убранство из цветов
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убранство из цветов</text></cit>
 </sense>
 </entry>
 </superEntry>

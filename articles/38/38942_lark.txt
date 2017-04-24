@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lark</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> увалень, лентяй, лежебока
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увалень, лентяй, лежебока</text></cit>
 </sense>
 </entry>
 </superEntry>

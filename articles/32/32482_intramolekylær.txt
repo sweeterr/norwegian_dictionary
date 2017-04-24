@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">intramolekylær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>физ.</u> внутримолекулярный
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внутримолекулярный</text></cit>
 </sense>
 </entry>
 </superEntry>

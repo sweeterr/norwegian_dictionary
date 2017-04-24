@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">næringsløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-непитательный (о продукте)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непитательный (о продукте)</text></cit>
 </sense>
 <sense>
-безработный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безработный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">terrorisme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-терроризм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>терроризм</text></cit>
 </sense>
 </entry>
 </superEntry>

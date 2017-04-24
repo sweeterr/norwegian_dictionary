@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">blage</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-болтаться (по ветру), развеваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтаться (по ветру), развеваться</text></cit>
 </sense>
 <sense>
-блестеть, светиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестеть, светиться</text></cit>
 </sense>
 </entry>
 </superEntry>

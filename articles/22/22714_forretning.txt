@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-предприятие, фирма, торговый дом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предприятие, фирма, торговый дом</text></cit>
 <сit type="example"><text>de løpende forretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>текущие дела</text></cit></cit>
 <сit type="example"><text>en innbringende forretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доходное дело (предприятие)</text></cit></cit>
 <сit type="example"><text>en utmerket forretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>доходное дело</text></cit></cit>
@@ -16,23 +16,23 @@
 <сit type="example"><text>lede en forretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>руководить предприятием</text></cit></cit>
 </sense>
 <sense>
-магазин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магазин</text></cit>
 <сit type="example"><text>begynne en forretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>открывать магазин</text></cit></cit>
 <сit type="example"><text>forretningen er lukket om søndagen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в воскресенье магазин закрыт</text></cit></cit>
 </sense>
 <sense>
-сделка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сделка</text></cit>
 <сit type="example"><text>gjøre gode forretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заключать выгодные сделки</text></cit></cit>
 <сit type="example"><text>forretning er forretning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> дело есть дело</text></cit></cit>
 <сit type="example"><text>snakke forretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить о делах, говорить на узкопрофессиональные темы</text></cit></cit>
 </sense>
 <sense>
-ремесло, профессия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ремесло, профессия</text></cit>
 <сit type="example"><text>besørge forretningene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выполнять поручения, исполнять функции</text></cit></cit>
 <сit type="example"><text>være ute i forretninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить по делам</text></cit></cit>
 </sense>
 <sense>
-процедура, ритуал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>процедура, ритуал</text></cit>
 </sense>
 </entry>
 </superEntry>

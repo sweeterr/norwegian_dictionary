@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-сеть (схема) маршрутов движения (транспорта)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сеть (схема) маршрутов движения (транспорта)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> координатная сетка (на карте)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>координатная сетка (на карте)</text></cit>
 </sense>
 </entry>
 </superEntry>

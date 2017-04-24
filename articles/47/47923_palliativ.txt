@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">palliativ</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-паллиатив, полумера
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паллиатив, полумера</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">palliativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-паллиативный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паллиативный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beånden</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> вдохновение, воодушевление
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вдохновение, воодушевление</text></cit>
 </sense>
 </entry>
 </superEntry>

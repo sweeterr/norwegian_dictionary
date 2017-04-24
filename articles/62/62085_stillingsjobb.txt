@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stillingsjobb</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> отбывание военной службы за другого человека
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбывание военной службы за другого человека</text></cit>
 </sense>
 </entry>
 </superEntry>

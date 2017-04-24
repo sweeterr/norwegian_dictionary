@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gåte</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-загадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загадка</text></cit>
 <сit type="example"><text>gjette gåter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разгадывать загадки</text></cit></cit>
 <сit type="example"><text>løse en gåte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разрешить загадку</text></cit></cit>
 <сit type="example"><text>tale i gåter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить загадками</text></cit></cit>

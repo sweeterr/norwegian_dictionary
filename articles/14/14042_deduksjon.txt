@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-вывод, заключение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывод, заключение</text></cit>
 </sense>
 <sense>
-<u>филос.</u> дедукция
+<usg>филос.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дедукция</text></cit>
 </sense>
 </entry>
 </superEntry>

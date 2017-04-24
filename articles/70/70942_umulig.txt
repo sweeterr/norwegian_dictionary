@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">umulig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-невозможный, неосуществимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невозможный, неосуществимый</text></cit>
 <сit type="example"><text>alle mulige og umulige ting</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё возможное и невозможное</text></cit></cit>
 </sense>
 </entry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">åndssvak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-слабоумный, умственно отсталый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабоумный, умственно отсталый</text></cit>
 </sense>
 <sense>
-глупый, идиотский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупый, идиотский</text></cit>
 </sense>
 </entry>
 </superEntry>

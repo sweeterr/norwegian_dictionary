@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">dun</orth>
--a (
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-a (</text></cit>
 <inflection><orth extent="part">-et</orth></inflection>
 )
 </form>
 <sense>
-пух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пух</text></cit>
 <сit type="example"><text>fylle en pute med dun</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>набивать подушку пухом</text></cit></cit>
 </sense>
 <sense>
-пушок (на теле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пушок (на теле)</text></cit>
 <сit type="example"><text>ha dun på haken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь первый пушок на подбородке</text></cit></cit>
 </sense>
 </entry>
@@ -22,7 +22,7 @@
 <form>
 <orth type="lemma">dun</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-шум, гул
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, гул</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">trankoker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-рабочий, занятый выпаркой ворвани (рыбьего жира)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий, занятый выпаркой ворвани (рыбьего жира)</text></cit>
 </sense>
 <sense>
-(плавучий) завод по выпарке ворвани (рыбьего жира)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(плавучий) завод по выпарке ворвани (рыбьего жира)</text></cit>
 </sense>
 </entry>
 </superEntry>

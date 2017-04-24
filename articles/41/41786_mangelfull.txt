@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">mangelfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-несовершенный, имеющий недостатки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несовершенный, имеющий недостатки</text></cit>
 </sense>
 </entry>
 </superEntry>

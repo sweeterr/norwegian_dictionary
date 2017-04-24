@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-t, =</orth></inflection>
 </form>
 <sense>
-доходы, материальная обеспеченность, средства к жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>доходы, материальная обеспеченность, средства к жизни</text></cit>
 <сit type="example"><text>et rikelig (rundelig) utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хороший заработок, большие доходы</text></cit></cit>
 <сit type="example"><text>ha sitt gode (knappe) utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть хорошо (плохо) обеспеченным материально</text></cit></cit>
 </sense>
 <sense>
-возможность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возможность</text></cit>
 <сit type="example"><text>vite utkomme med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уметь обращаться с (кем, чем-л.)</text></cit></cit>
 <сit type="example"><text>det er ikke utkomme med ham (henne, dem)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>невозможно иметь дело с ним (ней, ними)</text></cit></cit>
 <сit type="example"><text>(her er) intet utkomme</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тут (здесь) нет выхода</text></cit></cit>
@@ -25,14 +25,14 @@
 <inflection><orth>utkom, utkommet</orth></inflection>
 </form>
 <sense>
-выходить из печати (об издании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выходить из печати (об издании)</text></cit>
 <сit type="example"><text>utkommet hos ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изданный (таким-то)</text></cit></cit>
 </sense>
 <sense>
-появляться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>появляться</text></cit>
 </sense>
 <sense>
-падать (о жребии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>падать (о жребии)</text></cit>
 </sense>
 </entry>
 </superEntry>

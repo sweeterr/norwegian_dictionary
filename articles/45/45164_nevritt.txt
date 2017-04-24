@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">nevritt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> неврит
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неврит</text></cit>
 </sense>
 </entry>
 </superEntry>

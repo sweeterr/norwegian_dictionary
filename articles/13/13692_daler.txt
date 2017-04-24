@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">daler</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-талер (старинная серебряная норвежская монета = 4 кронам)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>талер (старинная серебряная норвежская монета = 4 кронам)</text></cit>
 <сit type="example"><text>den som er slått (eslet) til skilling, blir aldri en daler</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> каждому своё</text></cit></cit>
 <сit type="example"><text>spare på skillingen og la daleren gå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> быть экономным в мелочах и расточительным в крупном</text></cit></cit>
 </sense>

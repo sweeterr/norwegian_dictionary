@@ -7,16 +7,18 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-начало
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начало</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> старт
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>старт</text></cit>
 <сit type="example"><text>ved starten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на старте</text></cit></cit>
 <сit type="example"><text>stille start</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старт с места (в велоспорте)</text></cit></cit>
 <сit type="example"><text>stille til start</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>становиться на старт</text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> взлёт
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взлёт</text></cit>
 </sense>
 </entry>
 </superEntry>

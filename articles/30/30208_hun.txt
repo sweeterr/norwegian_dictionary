@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hun</orth>
 <inflection><orth extent="part">-(n)en, -(n)er</orth></inflection>
-самка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>самка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +14,7 @@
 <orth type="lemma">hun</orth>
 <gramGrp><pos>pron</pos></gramGrp>
 <inflection><orth>объекн. п. henne, род. п. hennes</orth></inflection>
-она (только об одушевлённых существах ж. р.) (редко о кораблях, лодках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>она (только об одушевлённых существах ж. р.) (редко о кораблях, лодках)</text></cit>
 </sense>
 </entry>
 </superEntry>

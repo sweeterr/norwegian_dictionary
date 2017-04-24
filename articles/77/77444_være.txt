@@ -7,14 +7,14 @@
 <inflection><orth>pres er, pret var, p.p. vært</orth></inflection>
 </form>
 <sense>
-быть, существовать, жить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быть, существовать, жить</text></cit>
 <сit type="example"><text>det (der) er</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>имеется, есть, существует</text></cit></cit>
 <сit type="example"><text>det (der) var engang ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жил-был, жили-были</text></cit></cit>
 <сit type="example"><text>han var ikke mer ...</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>и его не стало</text></cit></cit>
 <сit type="example"><text>være og bli</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продолжать оставаться</text></cit></cit>
 </sense>
 <sense>
-бывать, находиться, присутствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бывать, находиться, присутствовать</text></cit>
 <сit type="example"><text>han har vært hos meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он был у меня</text></cit></cit>
 <сit type="example"><text>forrige år var jeg ofte på Lofoten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в прошлом году я часто бывал на Лофотенских островах</text></cit></cit>
 <сit type="example"><text>være på be(i)nene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встать, быть на ногах</text></cit></cit>
@@ -22,18 +22,18 @@
 <сit type="example"><text>være til tjeneste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в распоряжении (чьём-л.)</text></cit></cit>
 </sense>
 <sense>
-чувствовать себя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чувствовать себя</text></cit>
 <сit type="example"><text>hvorledes er det med deg?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как ты живёшь (поживаешь)?</text></cit></cit>
 </sense>
 <sense>
-в качестве глагола-связки употребляется в сочетании с предикативами, выраженными существительными, прилагательными, местоимениями:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве глагола-связки употребляется в сочетании с предикативами, выраженными существительными, прилагательными, местоимениями:</text></cit>
 <сit type="example"><text>han er lege</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он врач</text></cit></cit>
 <сit type="example"><text>hun er syk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она больна</text></cit></cit>
 <сit type="example"><text>hva er han?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кто он? (по специальности)</text></cit></cit>
 <сit type="example"><text>han er fra seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он невменяем</text></cit></cit>
 </sense>
 <sense>
-в качестве глагола-связки употребляется в восклицательных и вопросительных выражениях:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве глагола-связки употребляется в восклицательных и вопросительных выражениях:</text></cit>
 <сit type="example"><text>det var så det!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, хорошо!</text></cit></cit>
 <сit type="example"><text>vær så god!</text><note>|væ:∫'gu:|</note><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пожалуйста! (при ответе)</text></cit></cit>
 <сit type="example"><text>vær så snill!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>будьте так любезны!, будьте добры!</text></cit></cit>
@@ -44,20 +44,20 @@
 <сit type="example"><text>skal det være ...?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не угодно ли..?, не подать ли вам ...?</text></cit></cit>
 </sense>
 <sense>
-в качестве глагола-связки употребляется с причастием II — переходных глаголов для выражения пассива состояния:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве глагола-связки употребляется с причастием II — переходных глаголов для выражения пассива состояния:</text></cit>
 <сit type="example"><text>han er kledd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он одет</text></cit></cit>
 <сit type="example"><text>vinduet er lukket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окно закрыто</text></cit></cit>
 </sense>
 <sense>
-в качестве глагола-связки употребляется с причастием II — непереходных глаголов для выражения состояния - результата предшествующего действия:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве глагола-связки употребляется с причастием II — непереходных глаголов для выражения состояния - результата предшествующего действия:</text></cit>
 <сit type="example"><text>vår siste stund var kommet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наш последний час пришёл</text></cit></cit>
 </sense>
 <sense>
-в качестве вспомогательного глагола употребляется для образования форм страдательного залога:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в качестве вспомогательного глагола употребляется для образования форм страдательного залога:</text></cit>
 <сit type="example"><text>det var sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>было сказано</text></cit></cit>
 </sense>
 <sense>
-в конструкциях:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в конструкциях:</text></cit>
 <сit type="example"><text>være på (+ infinitiv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собираться, намереваться (сделать кто-л.)</text></cit></cit>
 <сit type="example"><text>være ved (+ infinitiv)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>намереваться</text></cit></cit>
 <сit type = "example"><text>være av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> обходиться без (чего-л. - med)</text></cit></cit>
@@ -66,7 +66,7 @@
 <сit type = "example"><text>være borte :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отсутствовать</text></cit></cit>
 <сit type="example"><text>hun er borte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>её нет, она в отъезде</text></cit></cit>
 <сit type="example"><text>være borte i én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>увлечься кем-л.</text></cit></cit>
-<сit type = "example"><text>være borte vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> быть влюблённым</text></cit></cit>
+<сit type = "example"><text>være borte vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> быть влюблённым</text></cit></cit>
 <сit type = "example"><text>være borte vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> исчезнуть, сгинуть</text></cit></cit>
 <сit type = "example"><text>være borte vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пройти, уйти (о времени)</text></cit></cit>
 <сit type = "example"><text>være borte vekk :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> (по)терять сознание, упасть в обморок</text></cit></cit>
@@ -87,8 +87,8 @@
 <сit type = "example"><text>være inne på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> напасть на мысль, найти путь</text></cit></cit>
 <сit type = "example"><text>være inne på :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> попасть в газету</text></cit></cit>
 <сit type="example"><text>være med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять участие, участвовать (в чём-л. - på)</text></cit></cit>
-<сit type = "example"><text>være med Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сопровождать кого-л.</text></cit></cit>
-<сit type = "example"><text>være med Enenen  :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть вместе с кем-л.</text></cit></cit>
+<сit type = "example"><text>være med Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> сопровождать кого-л.</text></cit></cit>
+<сit type = "example"><text>være med Enenen :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть вместе с кем-л.</text></cit></cit>
 <сit type="example"><text>være oppe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ногах, встать, подняться</text></cit></cit>
 <сit type="example"><text>være oppe i det</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очень занятым (работой)</text></cit></cit>
 <сit type="example"><text>være oppe i det med en</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть запанибрата с кем-л.</text></cit></cit>
@@ -115,19 +115,19 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-чуять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чуять</text></cit>
 </sense>
 <sense>
-нюхать, обнюхивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нюхать, обнюхивать</text></cit>
 </sense>
 <sense>
-разузнать, разнюхать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разузнать, разнюхать</text></cit>
 </sense>
 <sense>
-предчувствовать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предчувствовать</text></cit>
 </sense>
 <sense>
-разметать по ветру, развеять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разметать по ветру, развеять</text></cit>
 </sense>
 </entry>
 </superEntry>

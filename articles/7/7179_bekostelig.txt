@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bekostelig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>уст.</u> дорогостоящий, дорогой
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дорогостоящий, дорогой</text></cit>
 <сit type="example"><text>det blir bekostelig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это накладно</text></cit></cit>
 </sense>
 </entry>

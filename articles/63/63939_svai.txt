@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-гибкость, мягкость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибкость, мягкость</text></cit>
 </sense>
 <sense>
-раскачивание, качание, колебание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>раскачивание, качание, колебание</text></cit>
 <сit type="example"><text>sette i svai</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>раскачивать</text></cit></cit>
 <сit type="example"><text>i svai og sving</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кривой, изогнутый (об улицах)</text></cit></cit>
 </sense>
@@ -25,10 +25,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-гибкий, стройный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибкий, стройный</text></cit>
 </sense>
 <sense>
-слегка изогнутый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слегка изогнутый</text></cit>
 </sense>
 </entry>
 </superEntry>

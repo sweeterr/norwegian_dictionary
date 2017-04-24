@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hallo</orth>
 <inflection><orth extent="part">-oen, -oner</orth></inflection>
-<u>астр.</u> лунное (солнечное) гало
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лунное (солнечное) гало</text></cit>
 </sense>
 </entry>
 </superEntry>

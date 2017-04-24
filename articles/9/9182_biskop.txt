@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">biskop</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-епископ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>епископ</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">smule</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-частица, крупица, пылинка; крошка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частица, крупица, пылинка; крошка</text></cit>
 <сit type="example"><text>en liten smule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чуточка, немножко</text></cit></cit>
 <сit type="example"><text>ikke en smule</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нисколько, ни капли</text></cit></cit>
 <сit type="example"><text>smuler er også brød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> лучше мало, чем вообще ничего; ( <lbl>букв.</lbl> крошки - тоже хлеб)</text></cit></cit>
@@ -16,7 +16,7 @@
 <form>
 <orth type="lemma">smule</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-крошить, размельчать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крошить, размельчать</text></cit>
 </sense>
 </entry>
 </superEntry>

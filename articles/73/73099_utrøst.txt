@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utrøst</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>фольк.</u> сказочная страна, невидимый остров, населённый духами
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сказочная страна, невидимый остров, населённый духами</text></cit>
 </sense>
 </entry>
 </superEntry>

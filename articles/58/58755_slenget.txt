@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slenget</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-вихляющий (о походке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вихляющий (о походке)</text></cit>
 </sense>
 <sense>
-разболтанный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разболтанный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

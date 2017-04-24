@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">glimmerfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u> блестящий, полный блеска
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестящий, полный блеска</text></cit>
 </sense>
 </entry>
 </superEntry>

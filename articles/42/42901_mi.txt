@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>муз.</u> ми (нота)
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ми (нота)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +15,7 @@
 <orth type="lemma">mi</orth>
 <gramGrp><pos>pron</pos></gramGrp>
 <gramGrp><gender>f</gender><note>om min, обычно стоит после сущ.</note></gramGrp>
-моя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моя</text></cit>
 </sense>
 </entry>
 </superEntry>

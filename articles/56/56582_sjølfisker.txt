@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sjølfisker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>диал.</u> рыбак, ведущий ловлю рыбы в одиночку
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбак, ведущий ловлю рыбы в одиночку</text></cit>
 </sense>
 </entry>
 </superEntry>

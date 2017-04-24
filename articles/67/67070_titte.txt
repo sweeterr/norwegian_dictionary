@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-глядеть, подглядывать, подсматривать, заглядывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глядеть, подглядывать, подсматривать, заглядывать</text></cit>
 </sense>
 <sense>
-взглянуть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взглянуть</text></cit>
 <сit type="example"><text>titte inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заглядывать (о солнце, луне)</text></cit></cit>
 <сit type="example"><text>titte innom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> заглянуть, забежать</text></cit></cit>
 <сit type="example"><text>titte ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взглянуть вниз</text></cit></cit>
-<сit type="example"><text>titte oppom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. titte innom</text></cit></cit>
+<сit type="example"><text>titte oppom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>titte innom</ref></text></cit></cit>
 <сit type="example"><text>titte over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>глядеть поверх чего-л.</text></cit></cit>
 <сit type="example"><text>titte ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выглядывать</text></cit></cit>
 </sense>

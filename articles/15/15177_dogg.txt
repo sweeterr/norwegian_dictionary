@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dogg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-дог (порода собак)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дог (порода собак)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-багор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багор</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> костыль
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костыль</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">dogg</orth>
 <inflection><orth extent="part">-а</orth></inflection>
- см. dugg I
+<ref>dugg I</ref>
 </sense>
 </entry>
 </superEntry>

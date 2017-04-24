@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">behringsgås</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>зоол.</u> гусь белый (северный)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гусь белый (северный)</text></cit>
 </sense>
 </entry>
 </superEntry>

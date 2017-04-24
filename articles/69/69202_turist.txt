@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">turist</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-турист
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>турист</text></cit>
 </sense>
 </entry>
 </superEntry>

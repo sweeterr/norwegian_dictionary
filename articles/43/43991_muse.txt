@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">muse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-муза
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>муза</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">muse</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>мор.</u> накладывать найтов, закаболивать
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накладывать найтов, закаболивать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">duktil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>тех.</u> ковкий (о металле)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковкий (о металле)</text></cit>
 </sense>
 </entry>
 </superEntry>

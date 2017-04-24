@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-локон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>локон</text></cit>
 </sense>
 <sense>
-<u>поэт.</u> <lbl>pl</lbl> курчавые (вьющиеся) волосы, кудри
+<usg>поэт.</usg>
+<lbl>pl</lbl> курчавые (вьющиеся) волосы, кудри
 </sense>
 </entry>
 <entry>
@@ -20,10 +21,10 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-завлекательная песня (мелодия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завлекательная песня (мелодия)</text></cit>
 </sense>
 <sense>
-зазывание, заманивание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зазывание, заманивание</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,7 +32,7 @@
 <form>
 <orth type="lemma">lokk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-крышка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крышка</text></cit>
 <сit type="example"><text>få lokket igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>закрыть крышку (чемодана и т. п.)</text></cit></cit>
 <сit type="example"><text>lette på lokket lokk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приподнять завесу</text></cit></cit>
 </sense>

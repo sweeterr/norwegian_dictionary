@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-возбудитель, возбуждающее средство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возбудитель, возбуждающее средство</text></cit>
 </sense>
 <sense>
-глашатай, провозвестник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глашатай, провозвестник</text></cit>
 </sense>
 <sense>
-будильник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>будильник</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">vekker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-человек, прорубающий прорубь во льду
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, прорубающий прорубь во льду</text></cit>
 </sense>
 </entry>
 </superEntry>

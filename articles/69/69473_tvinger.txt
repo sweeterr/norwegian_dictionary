@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tvinger</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>тех.</u> зажим, держалка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажим, держалка</text></cit>
 </sense>
 </entry>
 </superEntry>

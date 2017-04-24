@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-вопрос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вопрос</text></cit>
 <сit type="example"><text>et brennende spørsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>злободневный, жгучий вопрос</text></cit></cit>
 <сit type="example"><text>spørsmålet er uttømt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вопрос исчерпан</text></cit></cit>
 <сit type="example"><text>det er spørsmålet (spørsmålet er om, spørsmålet dreier seg om)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вопрос заключается в том ..., дело в том ...</text></cit></cit>
@@ -15,10 +15,10 @@
 <сit type="example"><text>uten spørsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всякого сомнения, несомненно</text></cit></cit>
 </sense>
 <sense>
-проблема
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проблема</text></cit>
 </sense>
 <sense>
-запрос
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрос</text></cit>
 <сit type="example"><text>rette et spørsmål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать запрос</text></cit></cit>
 </sense>
 </entry>

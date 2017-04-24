@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bestie</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-животное, зверь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>животное, зверь</text></cit>
 </sense>
 </entry>
 </superEntry>

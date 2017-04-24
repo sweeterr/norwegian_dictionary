@@ -7,30 +7,33 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-направление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направление</text></cit>
 <сit type="example"><text>i alle retninger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во все стороны, во всех направлениях</text></cit></cit>
 <сit type="example"><text>i motsatt retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в обратном направлении</text></cit></cit>
 <сit type="example"><text>i pilens retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в направлении, указанном стрелкой</text></cit></cit>
 <сit type="example"><text>i retning mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в направлении чего-л.</text></cit></cit>
 </sense>
 <sense>
-курс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>курс</text></cit>
 <сit type="example"><text>slå inn på en retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять курс на (какое-л. направление)</text></cit></cit>
 <сit type="example"><text>ta feil av retningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять неправильный курс</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> направление, уклон, течение (в литературе, науке, искусстве)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>направление, уклон, течение (в литературе, науке, искусстве)</text></cit>
 </sense>
 <sense>
-тенденция, склонность (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тенденция, склонность (к чему-л.)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> равнение
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равнение</text></cit>
 <сit type="example"><text>retning høyre!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>равнение направо! (команда)</text></cit></cit>
 <сit type="example"><text>holde retningen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>держать равнение (на кого-л. - med noen)</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> наводка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводка</text></cit>
 <сit type="example"><text>i retning av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в отношении (чего-л.), что касается ...</text></cit></cit>
 <сit type="example"><text>noe i den retning</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто подобное</text></cit></cit>
 <сit type="example"><text>noe i retning av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нечто похожее (на что-л.)</text></cit></cit>

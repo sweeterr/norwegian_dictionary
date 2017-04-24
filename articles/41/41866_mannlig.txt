@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mannlig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-мужской
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мужской</text></cit>
 </sense>
 </entry>
 </superEntry>

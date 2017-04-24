@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sør</orth>
 <inflection><orth extent="part">-et</orth></inflection>
- см. syd I
+<ref>syd I</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">sør</orth>
 <gramGrp><pos>adv</pos></gramGrp>
- к югу, на юге)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>к югу, на юге)</text></cit>
 </sense>
 </entry>
 </superEntry>

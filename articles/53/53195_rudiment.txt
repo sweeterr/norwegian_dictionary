@@ -8,10 +8,11 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-элементы, основы (науки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элементы, основы (науки)</text></cit>
 </sense>
 <sense>
-<u>биол.</u> рудимент, рудиментарный орган
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рудимент, рудиментарный орган</text></cit>
 </sense>
 </entry>
 </superEntry>

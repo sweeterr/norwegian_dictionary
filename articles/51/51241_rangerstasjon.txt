@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rangerstasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> сортировочная станция
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сортировочная станция</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">magi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-магия, волшебство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магия, волшебство</text></cit>
 <сit type="example"><text>den sorte magi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрная магия</text></cit></cit>
 </sense>
 </entry>

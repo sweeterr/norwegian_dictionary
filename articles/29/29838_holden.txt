@@ -5,21 +5,21 @@
 <form>
 <orth type="lemma">holden</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-состоятельный, зажиточный, преуспевающий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состоятельный, зажиточный, преуспевающий</text></cit>
 </sense>
 <sense>
-в хорошем состоянии, цельный, невредимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в хорошем состоянии, цельный, невредимый</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">holden</orth>
-<u>уст.</u> loven er ærlig, men holden besværlig <u>посл.</u> не дав слова, крепись, а дав слово, держись ( <u>букв.</u> обещать легко, сдержать обещание трудно)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>loven er ærlig, men holden besværlig <lbl>посл.</lbl> не дав слова, крепись, а дав слово, держись ( <lbl>букв.</lbl> обещать легко, сдержать обещание трудно)</text></cit>
 </sense>
 </entry>
 </superEntry>

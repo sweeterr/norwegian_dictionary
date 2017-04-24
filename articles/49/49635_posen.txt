@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">posen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-распухший, вздувшийся, отёкший
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>распухший, вздувшийся, отёкший</text></cit>
 </sense>
 </entry>
 </superEntry>

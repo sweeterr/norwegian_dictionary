@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">salving</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>церк.</u> миропомазание, помазание на царство
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>миропомазание, помазание на царство</text></cit>
 </sense>
 </entry>
 </superEntry>

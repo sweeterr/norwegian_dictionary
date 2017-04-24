@@ -7,37 +7,40 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-прибой, бурун
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибой, бурун</text></cit>
 <сit type="example"><text>bær av for brottet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>берегись прибоя</text></cit></cit>
 <сit type="example"><text>det er brott og brann nå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>море бушует</text></cit></cit>
 </sense>
 <sense>
-всплеск волн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всплеск волн</text></cit>
 </sense>
 <sense>
-шум (воды, ветра)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум (воды, ветра)</text></cit>
 </sense>
 <sense>
-треск, грохот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треск, грохот</text></cit>
 </sense>
 <sense>
-осколок (стекла, камня)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осколок (стекла, камня)</text></cit>
 <сit type="example"><text>i brott og beter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрывочно, отрывками</text></cit></cit>
 </sense>
 <sense>
-перелом, разрыв, обрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перелом, разрыв, обрыв</text></cit>
 </sense>
 <sense>
-преступление, прегрешение, нарушение (законов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>преступление, прегрешение, нарушение (законов)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> карьер, разрез, открытый рудник
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>карьер, разрез, открытый рудник</text></cit>
 </sense>
 <sense>
-<u>диал.</u> подводный камень, риф
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подводный камень, риф</text></cit>
 </sense>
 <sense>
-<u>миф.</u> набегающая волна
+<usg>миф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>набегающая волна</text></cit>
 <ref>brudd</ref>
 </sense>
 </entry>

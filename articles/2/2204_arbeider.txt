@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-рабочий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий</text></cit>
 <сit type="example"><text>ufaglært arbeider</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>неквалифицированный рабочий, разнорабочий</text></cit></cit>
 </sense>
 <sense>
-работник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>работник</text></cit>
 <сit type="example"><text>åndens arbeidere</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работники умственного труда</text></cit></cit>
 </sense>
 <sense>
-<u>шутл.</u> труженик
+<usg>шутл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>труженик</text></cit>
 </sense>
 </entry>
 </superEntry>

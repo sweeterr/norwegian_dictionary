@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-бесцельное движение, шатание
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцельное движение, шатание</text></cit>
 <сit type="example"><text>på rek(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бесцельно</text></cit></cit>
 <сit type="example"><text>dra på rek(en)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отправиться бродяжничать</text></cit></cit>
 </sense>
 <sense>
-отбросы, хлам, мусор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбросы, хлам, мусор</text></cit>
 </sense>
 <sense>
-<u>разг.</u> мальчик на побегушках (о ком-л.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мальчик на побегушках (о ком-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

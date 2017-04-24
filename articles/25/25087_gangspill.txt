@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">gangspill</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> шпиль
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шпиль</text></cit>
 </sense>
 </entry>
 </superEntry>

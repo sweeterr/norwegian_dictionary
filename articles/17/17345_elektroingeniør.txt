@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">elektroingeniør</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-инженер-электрик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инженер-электрик</text></cit>
 </sense>
 </entry>
 </superEntry>

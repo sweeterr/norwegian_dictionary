@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppklaringstjeneste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> разведывательная служба, разведка
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывательная служба, разведка</text></cit>
 </sense>
 </entry>
 </superEntry>

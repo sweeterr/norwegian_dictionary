@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blyforbindelse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>хим.</u> соединение свинца
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединение свинца</text></cit>
 </sense>
 </entry>
 </superEntry>

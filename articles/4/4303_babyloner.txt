@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">babyloner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>истор.</u> вавилонянин
+<usg>истор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вавилонянин</text></cit>
 </sense>
 </entry>
 </superEntry>

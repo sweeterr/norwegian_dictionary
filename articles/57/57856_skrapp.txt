@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">skrapp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-быстрый, проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстрый, проворный</text></cit>
 </sense>
 <sense>
-милый, славный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>милый, славный</text></cit>
 </sense>
 </entry>
 </superEntry>

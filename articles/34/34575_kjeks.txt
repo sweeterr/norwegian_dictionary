@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjeks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> четырёхвёсельная лодка (на двух человек в Северной Норвегии)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четырёхвёсельная лодка (на двух человек в Северной Норвегии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">kjeks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-острога (для рыбы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>острога (для рыбы)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-галета, сухой хлебец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галета, сухой хлебец</text></cit>
 </sense>
 <sense>
-печенье, бисквит, кекс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печенье, бисквит, кекс</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,19 +35,19 @@
 <form>
 <orth type="lemma">kjeks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u>
+<usg>комп.</usg>
 </form>
 <sense>
-"выпечка" (произвольный индикатор процесса межзадачного взаимодействия, "выпекаемый" активной программой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>"выпечка" (произвольный индикатор процесса межзадачного взаимодействия, "выпекаемый" активной программой)</text></cit>
 </sense>
 <sense>
-рецепт, полезный совет
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рецепт, полезный совет</text></cit>
 </sense>
 <sense>
-в системах с удаленным доступом - пароль, порождаемый сервером при первом подключении и отсылаемый пользователю ("куки")
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в системах с удаленным доступом - пароль, порождаемый сервером при первом подключении и отсылаемый пользователю ("куки")</text></cit>
 </sense>
 <sense>
-в интернете - небольшой фрагмент данных о предыстории обращений данного пользователя к данному веб-серверу, автоматически создаваемый сервером на машине пользователя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в интернете - небольшой фрагмент данных о предыстории обращений данного пользователя к данному веб-серверу, автоматически создаваемый сервером на машине пользователя</text></cit>
 </sense>
 </entry>
 </superEntry>

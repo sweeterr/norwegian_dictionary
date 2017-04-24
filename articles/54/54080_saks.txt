@@ -7,15 +7,16 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-ножницы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ножницы</text></cit>
 </sense>
 <sense>
-капкан, ловушка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капкан, ловушка</text></cit>
 <сit type="example"><text>ha én i saksen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поймать кого-л. в западню</text></cit></cit>
 <сit type="example"><text>slippe ut av saksen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбраться из трудного положения</text></cit></cit>
 </sense>
 <sense>
-<u>зоол.</u> клешня
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клешня</text></cit>
 </sense>
 </entry>
 </superEntry>

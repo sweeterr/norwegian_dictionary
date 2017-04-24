@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">måke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> чайка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чайка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,10 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-движок (для уборки снега на улицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>движок (для уборки снега на улицах)</text></cit>
 </sense>
 <sense>
-лопата (для уборки навоза)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лопата (для уборки навоза)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -26,7 +27,7 @@
 <form>
 <orth type="lemma">måke</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-сгребать (снег), выгребать (навоз), разгребать, расчищать (дорогу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгребать (снег), выгребать (навоз), разгребать, расчищать (дорогу)</text></cit>
 </sense>
 </entry>
 </superEntry>

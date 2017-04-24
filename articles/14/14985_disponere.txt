@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-располагать (материал в докладе, статье)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>располагать (материал в докладе, статье)</text></cit>
 <сit type="example"><text>disponere for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> предрасполагать к (какой-л. болезни)</text></cit></cit>
 </sense>
 <sense>
-договариваться, заключать соглашение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>договариваться, заключать соглашение</text></cit>
 </sense>
 <sense>
-управлять, заведовать (чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управлять, заведовать (чём-л.)</text></cit>
 <сit type="example"><text>disponere over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>располагать чём-л., иметь в своём распоряжении</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> размещать (войска)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>размещать (войска)</text></cit>
 </sense>
 </entry>
 </superEntry>

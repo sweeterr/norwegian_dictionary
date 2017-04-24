@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">varsel</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-тюлень-сторож (в тюленьем стаде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тюлень-сторож (в тюленьем стаде)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,13 +15,13 @@
 <inflection><orth extent="part">-elet, -ler</orth></inflection>
 </form>
 <sense>
-предупреждение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предупреждение</text></cit>
 <сit type="example"><text>på korteste varsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тотчас же</text></cit></cit>
 <сit type="example"><text>på et øyeblikks varsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>немедленно</text></cit></cit>
 <сit type="example"><text>uten varsel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без предупреждения</text></cit></cit>
 </sense>
 <sense>
-предзнаменование, примета, знак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предзнаменование, примета, знак</text></cit>
 <сit type = "example"><text>et godt (ondt) varsel :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> доброе (недоброе) предзнаменование</text></cit></cit>
 <сit type = "example"><text>et godt (ondt) varsel :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> хорошая (плохая) примета</text></cit></cit>
 <сit type="example"><text>motta varslet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принимать что-л. как счастливое предзнаменование</text></cit></cit>
@@ -29,7 +29,7 @@
 <сit type = "example"><text>ta varsel av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стараться предугадать (предсказать)</text></cit></cit>
 </sense>
 <sense>
-предсказание погоды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предсказание погоды</text></cit>
 </sense>
 </entry>
 </superEntry>

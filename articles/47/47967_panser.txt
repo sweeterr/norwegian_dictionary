@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">panser</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>разг.</u> полицейский
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полицейский</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,17 +16,20 @@
 <inflection><orth extent="part">-et, = (-e)</orth></inflection>
 </form>
 <sense>
-панцирь (тж. <u>зоол.</u> )
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>панцирь (тж. <lbl>зоол.</lbl> )</text></cit>
 </sense>
 <sense>
-<u>перен.</u> защита, прикрытие
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>защита, прикрытие</text></cit>
 </sense>
 <sense>
-<u>воен.</u> броня
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>броня</text></cit>
 <сit type="example"><text>(be)kle med panser</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бронировать, обшивать бронёй</text></cit></cit>
 </sense>
 <sense>
-<u>авт.</u> капот
+<usg>авт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капот</text></cit>
 </sense>
 </entry>
 </superEntry>

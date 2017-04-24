@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">varmekjær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-теплолюбивый (о животном, растении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>теплолюбивый (о животном, растении)</text></cit>
 </sense>
 </entry>
 </superEntry>

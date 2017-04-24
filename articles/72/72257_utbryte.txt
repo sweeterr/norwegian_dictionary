@@ -7,13 +7,14 @@
 <inflection><orth>utbrøt, utbrutt</orth></inflection>
 </form>
 <sense>
-разражаться, вспыхивать (о войне, болезнях, кризисе, панике)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разражаться, вспыхивать (о войне, болезнях, кризисе, панике)</text></cit>
 </sense>
 <sense>
-выходить (из партии, общества), откалываться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выходить (из партии, общества), откалываться</text></cit>
 </sense>
 <sense>
-<u>уст.</u> давать волю (чувствам)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать волю (чувствам)</text></cit>
 <сit type="example"><text>utbryte i latter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>расхохотаться</text></cit></cit>
 <сit type="example"><text>utbryte i gråt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разреветься</text></cit></cit>
 </sense>

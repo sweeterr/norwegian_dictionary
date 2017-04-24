@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skove</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-накипь, налёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накипь, налёт</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">skove</orth>
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
-очищать от накипи, счищать накипь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очищать от накипи, счищать накипь</text></cit>
 </sense>
 </entry>
 </superEntry>

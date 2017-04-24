@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">koksframstilling</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>тех.</u> производство кокса
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>производство кокса</text></cit>
 </sense>
 </entry>
 </superEntry>

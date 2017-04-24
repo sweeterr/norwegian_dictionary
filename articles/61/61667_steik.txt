@@ -7,18 +7,19 @@
 <inflection><orth extent="part">-a (-en)</orth></inflection>
 </form>
 <sense>
-жаркое, бифштекс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаркое, бифштекс</text></cit>
 <сit type="example"><text>dumpe steik</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>а игра в «жука»</text></cit></cit>
 <сit type="example"><text>være rar som steik (midt i uken, til hverdags)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть необычным, странным, быть своеобразным</text></cit></cit>
 </sense>
 <sense>
-подрумянивание, подсушивание (хлеба)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подрумянивание, подсушивание (хлеба)</text></cit>
 </sense>
 <sense>
-солнцепёк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солнцепёк</text></cit>
 </sense>
 <sense>
-<u>разг.</u> лакомый кусочек
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лакомый кусочек</text></cit>
 </sense>
 </entry>
 </superEntry>

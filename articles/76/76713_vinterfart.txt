@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">vinterfart</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-судоходство зимой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>судоходство зимой</text></cit>
 </sense>
 <sense>
-зимний рейс
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зимний рейс</text></cit>
 </sense>
 </entry>
 </superEntry>

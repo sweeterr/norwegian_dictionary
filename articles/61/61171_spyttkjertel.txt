@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">spyttkjertel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>анат.</u> слюнная железа
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слюнная железа</text></cit>
 </sense>
 </entry>
 </superEntry>

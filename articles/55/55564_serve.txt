@@ -6,7 +6,7 @@
 <orth type="lemma">serve</orth>
 <phon>|sørv|</phon>
 <inflection><orth extent="part">-n</orth></inflection>
-подача мяча (в теннисе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подача мяча (в теннисе)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">serve</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>мор.</u> клетневать
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клетневать</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,7 +24,7 @@
 <orth type="lemma">serve</orth>
 <phon>|sørvә|</phon>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-подавать мяч (в теннисе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подавать мяч (в теннисе)</text></cit>
 </sense>
 </entry>
 </superEntry>

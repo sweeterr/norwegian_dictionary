@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bondegutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-крестьянский мальчик (парень)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крестьянский мальчик (парень)</text></cit>
 <сit type="example"><text>være bondegutt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть крестьянином по рождению, происходить из крестьян</text></cit></cit>
 </sense>
 </entry>

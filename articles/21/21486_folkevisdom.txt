@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">folkevisdom</orth>
 <inflection><orth extent="part">-men, =</orth></inflection>
-народная мудрость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народная мудрость</text></cit>
 </sense>
 </entry>
 </superEntry>

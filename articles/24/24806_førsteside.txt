@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">førsteside</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>комп.</u>
+<usg>комп.</usg>
 </form>
 <sense>
-начальная страница, головная (базовая) страница, локальный архив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>начальная страница, головная (базовая) страница, локальный архив</text></cit>
 </sense>
 <sense>
-информационная домашняя страница (в интернете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>информационная домашняя страница (в интернете)</text></cit>
 </sense>
 </entry>
 </superEntry>

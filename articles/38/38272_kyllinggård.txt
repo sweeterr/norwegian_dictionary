@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kyllinggård</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>с.-х.</u> помещение для цыплят
+<usg>с.-х.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помещение для цыплят</text></cit>
 </sense>
 </entry>
 </superEntry>

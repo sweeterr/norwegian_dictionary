@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">beiteskog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> лес, пригодный для пастьбы скота
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лес, пригодный для пастьбы скота</text></cit>
 </sense>
 </entry>
 </superEntry>

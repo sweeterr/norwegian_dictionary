@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">batteristrøm</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<u>эл.</u> ток аккумулятора, ток батареи
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ток аккумулятора, ток батареи</text></cit>
 </sense>
 </entry>
 </superEntry>

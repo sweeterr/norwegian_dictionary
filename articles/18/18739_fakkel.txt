@@ -7,14 +7,15 @@
 <inflection><orth extent="part">-kelen, -ler</orth></inflection>
 </form>
 <sense>
-факел
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>факел</text></cit>
 </sense>
 <sense>
-светоч
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светоч</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num><note>обычно</note></gramGrp>
- <u>астр.</u> протуберанец
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>протуберанец</text></cit>
 </sense>
 </entry>
 </superEntry>

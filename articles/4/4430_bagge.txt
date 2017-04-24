@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bagge</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-мешок, связка, узелок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешок, связка, узелок</text></cit>
 </sense>
 <sense>
-полный (неповоротливый) человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный (неповоротливый) человек</text></cit>
 </sense>
 </entry>
 </superEntry>

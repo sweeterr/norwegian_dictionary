@@ -7,29 +7,34 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-цепи, оковы, кандалы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепи, оковы, кандалы</text></cit>
 <сit type="example"><text>legge én i lenker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заковывать кого-л. в кандалы</text></cit></cit>
 </sense>
 <sense>
-цепочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепочка</text></cit>
 </sense>
 <sense>
-узы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узы</text></cit>
 </sense>
 <sense>
-<u>тех.</u> шарнир, шарнирное сочленение
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шарнир, шарнирное сочленение</text></cit>
 </sense>
 <sense>
-<u>комп.</u> ссылка - активное соединение с другой вэб-страницей, файлом, Интернет-ресурсом
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ссылка - активное соединение с другой вэб-страницей, файлом, Интернет-ресурсом</text></cit>
 </sense>
 <sense>
-<u>комп.</u> связь, канал связи, любой вид коммуникационного пути между двумя компьютерами (получателем и отправителем данных)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связь, канал связи, любой вид коммуникационного пути между двумя компьютерами (получателем и отправителем данных)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> компоновка, связывание (двух или более раздельно откомпилированных программных модулей)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>компоновка, связывание (двух или более раздельно откомпилированных программных модулей)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> ссылка, указатель в связанном списке или дереве
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ссылка, указатель в связанном списке или дереве</text></cit>
 </sense>
 </entry>
 <entry>
@@ -39,16 +44,17 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-заковывать в кандалы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заковывать в кандалы</text></cit>
 </sense>
 <sense>
-сцеплять, прицеплять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сцеплять, прицеплять</text></cit>
 </sense>
 <sense>
-сажать на цепь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сажать на цепь</text></cit>
 </sense>
 <sense>
-<u>перен.</u> связывать
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связывать</text></cit>
 </sense>
 </entry>
 </superEntry>

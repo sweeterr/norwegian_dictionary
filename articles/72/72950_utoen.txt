@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">utoen</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-грязный, неопрятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязный, неопрятный</text></cit>
 </sense>
 <sense>
-грубый, неотёсанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грубый, неотёсанный</text></cit>
 </sense>
 <sense>
-нездоровый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нездоровый</text></cit>
 </sense>
 <sense>
-не в настроении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не в настроении</text></cit>
 </sense>
 </entry>
 </superEntry>

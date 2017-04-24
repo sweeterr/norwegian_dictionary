@@ -4,8 +4,9 @@
 <index></index>
 <form>
 <orth type="lemma">bukseløs</orth>
-<u>adj -t</u>
-без штанов
+<gramGrp><pos>adj</pos></gramGrp>
+<inflection><orth extent="part”>-t</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>без штанов</text></cit>
 </sense>
 </entry>
 </superEntry>

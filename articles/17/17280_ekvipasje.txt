@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-экипаж, коляска
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экипаж, коляска</text></cit>
 </sense>
 <sense>
-<u>мор.</u> рабочий экипаж
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рабочий экипаж</text></cit>
 </sense>
 </entry>
 </superEntry>

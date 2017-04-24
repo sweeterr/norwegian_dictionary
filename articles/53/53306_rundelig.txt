@@ -7,13 +7,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-обильный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обильный</text></cit>
 </sense>
 <sense>
-солидный, «кругленький» (о сумме денег)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солидный, «кругленький» (о сумме денег)</text></cit>
 </sense>
 <sense>
-щедрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щедрый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">rundelig</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-по меньшей мере
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>по меньшей мере</text></cit>
 </sense>
 </entry>
 </superEntry>

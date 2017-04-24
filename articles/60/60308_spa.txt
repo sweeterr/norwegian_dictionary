@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-dde, -dd</orth></inflection>
 </form>
 <sense>
-копать лопатой (заступом), рыть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копать лопатой (заступом), рыть</text></cit>
 </sense>
 <sense>
-обрабатывать лопатой, перекапывать землю
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрабатывать лопатой, перекапывать землю</text></cit>
 </sense>
 <sense>
-разбрасывать лопатой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбрасывать лопатой</text></cit>
 <сit type="example"><text>spa om</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>окапывать</text></cit></cit>
 <сit type="example"><text>spa opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выкапывать, вырывать</text></cit></cit>
 <сit type="example"><text>spa vekk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>срывать (холм и т. п.)</text></cit></cit>
@@ -24,7 +24,7 @@
 <form>
 <orth type="lemma">spa</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-жидкий бульон (мясной отвар)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жидкий бульон (мясной отвар)</text></cit>
 </sense>
 </entry>
 </superEntry>

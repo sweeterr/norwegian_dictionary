@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">synshaug</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>анат.</u> зрительный бугор
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зрительный бугор</text></cit>
 </sense>
 </entry>
 </superEntry>

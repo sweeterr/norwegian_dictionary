@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">vå</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-сомнение, неуверенность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сомнение, неуверенность</text></cit>
 </sense>
 <sense>
-страх, боязнь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>страх, боязнь</text></cit>
 </sense>
 <sense>
-неудача, неприятность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неудача, неприятность</text></cit>
 </sense>
 </entry>
 <entry>
@@ -22,7 +22,8 @@
 <form>
 <orth type="lemma">vå</orth>
 <inflection><orth extent="part">-а</orth></inflection>
-<u>диал.</u> см. våd
+<usg>диал.</usg>
+<ref>våd</ref>
 </sense>
 </entry>
 </superEntry>

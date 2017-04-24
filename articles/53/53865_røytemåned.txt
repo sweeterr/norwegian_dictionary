@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">røytemåned</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> жаркий месяц
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жаркий месяц</text></cit>
 </sense>
 </entry>
 </superEntry>

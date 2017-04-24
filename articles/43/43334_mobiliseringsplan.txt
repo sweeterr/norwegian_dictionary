@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mobiliseringsplan</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> мобилизационный план
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мобилизационный план</text></cit>
 </sense>
 </entry>
 </superEntry>

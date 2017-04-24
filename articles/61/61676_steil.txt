@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">steil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-крутой, отвесный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>крутой, отвесный</text></cit>
 </sense>
 <sense>
-несговорчивый, неподатливый (о человеке), крутой (о характере)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>несговорчивый, неподатливый (о человеке), крутой (о характере)</text></cit>
 </sense>
 <sense>
-очень трудный, почти невыполнимый (о задании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень трудный, почти невыполнимый (о задании)</text></cit>
 </sense>
 </entry>
 </superEntry>

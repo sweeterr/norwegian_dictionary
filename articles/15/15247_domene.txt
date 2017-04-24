@@ -7,16 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-сфера (полномочий), область (деятельности, знаний)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сфера (полномочий), область (деятельности, знаний)</text></cit>
 </sense>
 <sense>
-<u>ист.</u> коронные землевладения, домен
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коронные землевладения, домен</text></cit>
 </sense>
 <sense>
-<u>комп.</u> домен, зона в интернете - часть иерархии имён, доменное имя представляет собой последовательность имён (меток), разделённых точками (.)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домен, зона в интернете - часть иерархии имён, доменное имя представляет собой последовательность имён (меток), разделённых точками (.)</text></cit>
 </sense>
 <sense>
-<u>комп.</u> домен, зона в сетях - группа компьютеров и пользователей, информация о которых хранится на контроллере домена
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>домен, зона в сетях - группа компьютеров и пользователей, информация о которых хранится на контроллере домена</text></cit>
 </sense>
 </entry>
 </superEntry>

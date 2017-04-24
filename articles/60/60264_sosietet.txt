@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-светское общество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>светское общество</text></cit>
 </sense>
 <sense>
-ассоциация, клуб, общество (как организация)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ассоциация, клуб, общество (как организация)</text></cit>
 </sense>
 <sense>
-<u>ком.</u> товарищество
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>товарищество</text></cit>
 </sense>
 </entry>
 </superEntry>

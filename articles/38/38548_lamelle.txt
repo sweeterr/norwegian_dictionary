@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lamelle</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>эл.</u>
+<usg>эл.</usg>
 </form>
 <sense>
-пластинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пластинка</text></cit>
 </sense>
 <sense>
-плавкий предохранитель (в штепселе, выключателе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плавкий предохранитель (в штепселе, выключателе)</text></cit>
 </sense>
 </entry>
 </superEntry>

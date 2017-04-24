@@ -9,11 +9,11 @@
 </form>
 <sense>
 <gramGrp><pos>inter</pos></gramGrp>
-какой?, какая? (какое?, какие?), который?, которая? (которое?, которые?)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>какой?, какая? (какое?, какие?), который?, которая? (которое?, которые?)</text></cit>
 </sense>
 <sense>
 <gramGrp><pos>rel</pos></gramGrp>
-тот, который; та, которая (то, которое; те, которые)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тот, который; та, которая (то, которое; те, которые)</text></cit>
 <сit type="example"><text>hvilken som helst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какой угодно</text></cit></cit>
 <сit type="example"><text>ikke vite hvilken er hvilken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не уметь отличить одно от другого</text></cit></cit>
 </sense>

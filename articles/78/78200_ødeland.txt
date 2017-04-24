@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ødeland</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> растратчик, мот
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растратчик, мот</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">ødeland</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-заброшенные пахотные земли, залежь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заброшенные пахотные земли, залежь</text></cit>
 </sense>
 </entry>
 </superEntry>

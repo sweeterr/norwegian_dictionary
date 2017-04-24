@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utant</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> снаружи, извне
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>снаружи, извне</text></cit>
 </sense>
 </entry>
 </superEntry>

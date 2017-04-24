@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">verfe</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-швырять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>швырять</text></cit>
 <сit type="example"><text>verfe ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выбросить за дверь</text></cit></cit>
 </sense>
 </entry>

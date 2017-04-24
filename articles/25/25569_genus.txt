@@ -4,16 +4,19 @@
 <index></index>
 <form>
 <orth type="lemma">genus</orth>
-<u>-usen (-uset), -era</u>
+<inflection><orth extent="part">-usen (-uset), -era</orth></inflection>
 </form>
 <sense>
-<u>биол.</u> род, класс
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>род, класс</text></cit>
 </sense>
 <sense>
-<u>грам.</u> род имён существительных
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>род имён существительных</text></cit>
 </sense>
 <sense>
-<u>грам.</u> залог
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>залог</text></cit>
 </sense>
 </entry>
 </superEntry>

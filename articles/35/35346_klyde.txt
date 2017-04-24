@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">klyde</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> шилоклювка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шилоклювка</text></cit>
 </sense>
 </entry>
 </superEntry>

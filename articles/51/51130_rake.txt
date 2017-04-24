@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-грабли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грабли</text></cit>
 </sense>
 <sense>
-кочерга
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кочерга</text></cit>
 </sense>
 <sense>
-фитиль свечи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фитиль свечи</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,13 +23,15 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-грести, сгребать (кочергой, граблями)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грести, сгребать (кочергой, граблями)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> ковыряться (в чём-л.)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ковыряться (в чём-л.)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> брить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брить</text></cit>
 <сit type="example"><text>rake seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бриться</text></cit></cit>
 <сit type="example"><text>rake kastanjene av ilden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>таскать каштаны из огня</text></cit></cit>
 </sense>
@@ -41,15 +43,15 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-касаться, относиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>касаться, относиться</text></cit>
 <сit type="example"><text>hva raker det meg?</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>какое мне дело до этого?</text></cit></cit>
 </sense>
 <sense>
-наткнуться, неожиданно встретиться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наткнуться, неожиданно встретиться</text></cit>
 <сit type="example"><text>rake bort (ombord) i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> столкнуться (с кем-л.), натолкнуться (на что-л.)</text></cit></cit>
 </sense>
 <sense>
-оказаться, очутиться (в каком-л. положении)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оказаться, очутиться (в каком-л. положении)</text></cit>
 <сit type="example"><text>rake i drift</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> лечь в дрейф, дрейфовать</text></cit></cit>
 <сit type="example"><text>rake opp i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>столкнуться (с чем-л.)</text></cit></cit>
 <сit type="example"><text>rake sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> вступить в ссору (драку)</text></cit></cit>

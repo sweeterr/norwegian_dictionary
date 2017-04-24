@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aliquot</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>мат.</u> делящийся без остатка
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>делящийся без остатка</text></cit>
 </sense>
 </entry>
 </superEntry>

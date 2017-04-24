@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rikte</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u> скрипеть
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрипеть</text></cit>
 <сit type="example"><text>det rikter i døra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дверь скрипит</text></cit></cit>
 </sense>
 </entry>

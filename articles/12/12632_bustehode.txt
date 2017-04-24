@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bustehode</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-взлохмаченные волосы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взлохмаченные волосы</text></cit>
 </sense>
 <sense>
-человек с взъерошенной шевелюрой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек с взъерошенной шевелюрой</text></cit>
 </sense>
 </entry>
 </superEntry>

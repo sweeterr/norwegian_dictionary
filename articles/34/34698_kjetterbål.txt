@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">kjetterbål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-костёр (на котором жгли еретиков)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>костёр (на котором жгли еретиков)</text></cit>
 <сit type="example"><text>tende kjetterbål</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>жестоко преследовать еретиков (вольнодумцев), вести жестокую борьбу с еретиками (вольнодумцами)</text></cit></cit>
 </sense>
 </entry>

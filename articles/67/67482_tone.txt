@@ -7,38 +7,19 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-тон, тональность, интонация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тон, тональность, интонация</text></cit>
 <сit type="example"><text>angi (gi, slå an) tonen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>муз.</lbl> давать тон</text></cit></cit>
 <сit type="example"><text>anslå en vis tone overfor Enenen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> взять определённый тон в отношении кого-л.</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-мелодия, песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелодия, песня</text></cit>
 </sense>
 <sense>
-звучание, нюанс, манера (петь, играть, говорить)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звучание, нюанс, манера (петь, играть, говорить)</text></cit>
 </sense>
 <sense>
-оттенок (цвета, краски), тон, колорит
-</sense>
-</entry>
-<entry>
-<index></index>
-<form>
-<orth type="lemma">tone</orth>
-<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-</form>
-<sense>
-звучать, звенеть, издавать звук
-</sense>
-<sense>
-петь, распевать, напевать
-</sense>
-<sense>
-толковать (музыкальное произведение)
-</sense>
-<sense>
-<u>фото</u> вирировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оттенок (цвета, краски), тон, колорит</text></cit>
 </sense>
 </entry>
 <entry>
@@ -48,13 +29,33 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-выступать, выделяться (на фоне - mot)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звучать, звенеть, издавать звук</text></cit>
 </sense>
 <sense>
-выбрасывать (флаг, вымпел)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь, распевать, напевать</text></cit>
+</sense>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толковать (музыкальное произведение)</text></cit>
+</sense>
+<sense>
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вирировать</text></cit>
+</sense>
+</entry>
+<entry>
+<index></index>
+<form>
+<orth type="lemma">tone</orth>
+<inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
+</form>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выступать, выделяться (на фоне - mot)</text></cit>
+</sense>
+<sense>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выбрасывать (флаг, вымпел)</text></cit>
 <сit type="example"><text>tone bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исчезать из виду</text></cit></cit>
 <сit type="example"><text>tone fram</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выступать, выделяться, виднеться</text></cit></cit>
-<сit type="example"><text>tone hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. tone bort</text></cit></cit>
+<сit type="example"><text>tone hen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>tone bort</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

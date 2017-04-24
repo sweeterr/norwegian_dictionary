@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">telefonabonnent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-абонент телефона
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>абонент телефона</text></cit>
 </sense>
 </entry>
 </superEntry>

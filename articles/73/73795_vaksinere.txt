@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vaksinere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>мед.</u> прививать (напр. оспу), вакцинировать
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прививать (напр. оспу), вакцинировать</text></cit>
 </sense>
 </entry>
 </superEntry>

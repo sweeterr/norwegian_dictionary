@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lege</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-врач, доктор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врач, доктор</text></cit>
 <сit type="example"><text>lege for indremedisin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>врач-терапевт</text></cit></cit>
 <сit type="example"><text>en kvinnelig lege</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>женщина-врач</text></cit></cit>
 <сit type="example"><text>bli undersøkt av en lege</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подвергаться врачебному осмотру</text></cit></cit>
@@ -20,13 +20,13 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-лечить, излечивать, залечить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечить, излечивать, залечить</text></cit>
 </sense>
 <sense>
-врачевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>врачевать</text></cit>
 </sense>
 <sense>
-сгладить (противоречия)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгладить (противоречия)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sorenskriver</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>юр.</u> помощник судьи, нотариус (в сельских районах Норвегии)
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>помощник судьи, нотариус (в сельских районах Норвегии)</text></cit>
 </sense>
 </entry>
 </superEntry>

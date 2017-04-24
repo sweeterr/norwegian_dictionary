@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sakne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> испытывать нужду (недостаток) в чём-л.
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать нужду (недостаток) в чём-л.</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">sakne</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> см. saktne
+<usg>диал.</usg>
+<ref>saktne</ref>
 </sense>
 </entry>
 </superEntry>

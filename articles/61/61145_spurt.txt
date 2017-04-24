@@ -5,14 +5,15 @@
 <form>
 <orth type="lemma">spurt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>спорт.</u> спурт
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спурт</text></cit>
 </sense>
 </entry>
 <entry>
 <index></index>
 <form>
 <orth type="lemma">spurt</orth>
-p.p. от spørre
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>p.p. от spørre</text></cit>
 </sense>
 </entry>
 </superEntry>

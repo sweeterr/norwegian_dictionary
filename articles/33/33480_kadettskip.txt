@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kadettskip</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> учебное судно, учебный корабль
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>учебное судно, учебный корабль</text></cit>
 </sense>
 </entry>
 </superEntry>

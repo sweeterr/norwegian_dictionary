@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">svinse</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ходить без дела, слоняться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ходить без дела, слоняться</text></cit>
 <сit type="example"><text>svinse og svanse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ходить взад и вперёд, бездельничать</text></cit></cit>
 </sense>
 <sense>
-вилять хвостом (задом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вилять хвостом (задом)</text></cit>
 </sense>
 </entry>
 </superEntry>

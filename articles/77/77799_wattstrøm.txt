@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">wattstrøm</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<u>эл.</u> активный ток
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>активный ток</text></cit>
 </sense>
 </entry>
 </superEntry>

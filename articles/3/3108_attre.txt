@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">attre</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>диал.</u> отступить (назад)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отступить (назад)</text></cit>
 </sense>
 </entry>
 </superEntry>

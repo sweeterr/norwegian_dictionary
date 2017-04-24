@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">blindtrykk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>полигр.</u> блинтовое тиснение
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блинтовое тиснение</text></cit>
 </sense>
 </entry>
 </superEntry>

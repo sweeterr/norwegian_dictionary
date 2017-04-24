@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødjord</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>геол.</u> краснозём
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>краснозём</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lykkebud</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>поэт.</u> вестник счастья
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вестник счастья</text></cit>
 </sense>
 </entry>
 </superEntry>

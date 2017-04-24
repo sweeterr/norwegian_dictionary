@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-блестеть, сверкать, сиять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блестеть, сверкать, сиять</text></cit>
 <сit type="example"><text>det er ikke gull alt som glimrer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> не всё то золото, что блестит</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> блистать (в обществе), выделяться (чем-л.), щеголять (чем-л.)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блистать (в обществе), выделяться (чем-л.), щеголять (чем-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

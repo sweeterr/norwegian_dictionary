@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">årelating</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>мед.</u> кровопускание
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кровопускание</text></cit>
 </sense>
 </entry>
 </superEntry>

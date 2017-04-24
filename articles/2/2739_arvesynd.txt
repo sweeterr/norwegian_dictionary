@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">arvesynd</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-первородный грех
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>первородный грех</text></cit>
 <сit type="example"><text>være stygg som arvesynden</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>страшен как смертный грех</text></cit></cit>
 </sense>
 </entry>

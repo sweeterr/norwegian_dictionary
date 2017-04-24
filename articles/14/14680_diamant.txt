@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-алмаз, брильянт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>алмаз, брильянт</text></cit>
 <сit type="example"><text>ettergjorte (falske, uekte) diamanter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поддельные (фальшивые, ненастоящие) брильянты</text></cit></cit>
 <сit type="example"><text>sort diamant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чёрный алмаз</text></cit></cit>
 <сit type="example"><text>av diamant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>алмазный, брильянтовый</text></cit></cit>
@@ -16,7 +16,8 @@
 <сit type="example"><text>en uslepen diamant</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> малокультурный, но хороший, честный человек</text></cit></cit>
 </sense>
 <sense>
-<u>полигр.</u> нонпарель
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нонпарель</text></cit>
 </sense>
 </entry>
 </superEntry>

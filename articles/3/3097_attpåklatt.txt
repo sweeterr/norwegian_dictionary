@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">attpåklatt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-человек, пришедший последним
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>человек, пришедший последним</text></cit>
 </sense>
 <sense>
-последыш (о ребёнке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>последыш (о ребёнке)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hele</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> иней
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иней</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">hele</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-целое
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>целое</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,10 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-исправлять, чинить, заделывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>исправлять, чинить, заделывать</text></cit>
 </sense>
 <sense>
-лечить, залечивать (рану)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечить, залечивать (рану)</text></cit>
 <сit type="example"><text>heles</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>затягиваться (о ране)</text></cit></cit>
 </sense>
 </entry>
@@ -43,7 +44,7 @@
 <form>
 <orth type="lemma">hele</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-укрывать краденое
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрывать краденое</text></cit>
 </sense>
 </entry>
 </superEntry>

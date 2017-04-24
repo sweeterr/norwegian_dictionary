@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">myret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-заболоченный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заболоченный</text></cit>
 </sense>
 </entry>
 </superEntry>

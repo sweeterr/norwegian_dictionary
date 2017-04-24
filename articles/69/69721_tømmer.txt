@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tømmer</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-круглый лес, брёвна, деловая древесина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглый лес, брёвна, деловая древесина</text></cit>
 <сit type="example"><text>drive (fløte) tømmer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сплавлять лес (брёвна)</text></cit></cit>
 <сit type="example"><text>gjøre opp tømmer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ошкурить брёвна</text></cit></cit>
 <сit type="example"><text>løype tømmer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спускать брёвна по снеговой дорожке</text></cit></cit>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">spikk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-проделка, (злая) шутка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проделка, (злая) шутка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">spikk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-обрезки, отходы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрезки, отходы</text></cit>
 </sense>
 </entry>
 </superEntry>

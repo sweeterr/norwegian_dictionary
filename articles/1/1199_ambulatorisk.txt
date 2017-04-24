@@ -7,13 +7,14 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-амбулаторный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>амбулаторный</text></cit>
 </sense>
 <sense>
-<u>воен.</u> санитарный
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>санитарный</text></cit>
 </sense>
 <sense>
-странствующий, меняющий местонахождение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>странствующий, меняющий местонахождение</text></cit>
 </sense>
 </entry>
 </superEntry>

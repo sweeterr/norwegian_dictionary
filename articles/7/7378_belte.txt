@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-пояс, кушак, ремень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пояс, кушак, ремень</text></cit>
 <сit type="example"><text>med sverd ved beltet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>шутл.</lbl> с ножом за поясом</text></cit></cit>
 <сit type="example"><text>bære barn under belte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть беременной</text></cit></cit>
 </sense>
 <sense>
-<u>геогр.</u> полоса, пояс, зона
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полоса, пояс, зона</text></cit>
 <сit type="example"><text>et belte av is</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>полоса льдов</text></cit></cit>
 <сit type="example"><text>et dødt og stille belte</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>мёртвое пространство</text></cit></cit>
 </sense>
 <sense>
-<u>мат.</u> сферический сегмент
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сферический сегмент</text></cit>
 </sense>
 <sense>
-(с определённым постпозитивным артиклем) <u>мор.</u> расстояние (полоса) между ватерлиниями максимальной и минимальной осадки, круг Плимсоля
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(с определённым постпозитивным артиклем) <lbl>мор.</lbl> расстояние (полоса) между ватерлиниями максимальной и минимальной осадки, круг Плимсоля</text></cit>
 </sense>
 </entry>
 </superEntry>

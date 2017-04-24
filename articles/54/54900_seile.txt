@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-идти под парусами
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти под парусами</text></cit>
 </sense>
 <sense>
-плыть, идти (о судне), совершать рейсы, курсировать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, идти (о судне), совершать рейсы, курсировать</text></cit>
 <сit type="example"><text>seile bidevind</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> идти бейдевинд</text></cit></cit>
 <сit type="example"><text>seile fordevind (for vinden)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> идти фордевинд</text></cit></cit>
 <сit type="example"><text>seile hardt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти под сильным ветром</text></cit></cit>
@@ -19,37 +19,40 @@
 <сit type="example"><text>seile under norsk flagg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>идти под норвежским флагом</text></cit></cit>
 </sense>
 <sense>
-отплывать, отходить, сниматься с якоря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отплывать, отходить, сниматься с якоря</text></cit>
 </sense>
 <sense>
-везти, перевозить (пассажиров, грузы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везти, перевозить (пассажиров, грузы)</text></cit>
 </sense>
 <sense>
-вести (судно), держать курс (по чему-л. - etter)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести (судно), держать курс (по чему-л. - etter)</text></cit>
 </sense>
 <sense>
-плыть, совершать плавание (о пассажирах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плыть, совершать плавание (о пассажирах)</text></cit>
 </sense>
 <sense>
-парить (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парить (о птицах)</text></cit>
 </sense>
 <sense>
-подниматься, плыть по небу (о луне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подниматься, плыть по небу (о луне)</text></cit>
 </sense>
 <sense>
-идти плавной походкой, плыть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>идти плавной походкой, плыть</text></cit>
 <сit type="example"><text>hun kom seilende inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>она плавко вошла (в комнату)</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> скончаться
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скончаться</text></cit>
 </sense>
 <sense>
-<u>разг.</u> проноситься мимо (о мыслях, образах)
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проноситься мимо (о мыслях, образах)</text></cit>
 <сit type="example"><text>det seiler for meg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>все плывет передо мной</text></cit></cit>
 <сit type="example"><text>seile forenom én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обгонять кого-л.</text></cit></cit>
 </sense>
 <sense>
-<u>ав.</u> лететь, летать (о дирижабле, воздушном шаре)
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лететь, летать (о дирижабле, воздушном шаре)</text></cit>
 <сit type="example"><text>seile av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>умереть</text></cit></cit>
 <сit type="example"><text>seile bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отплыть</text></cit></cit>
 <сit type="example"><text>seile seg bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погибнуть во время парусных гонок</text></cit></cit>

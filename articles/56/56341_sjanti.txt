@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sjanti</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-запев, песенный куплет (у моряков), морская песня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запев, песенный куплет (у моряков), морская песня</text></cit>
 <сit type="example"><text>gi én en sjanti</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> <lbl>разг.</lbl> задать головомойку кому-л.</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">drivstoff</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-моторное топливо, горючее для двигателей (ракет и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>моторное топливо, горючее для двигателей (ракет и т. п.)</text></cit>
 <сit type="example"><text>fast drivstoff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдое (ракетное) топливо</text></cit></cit>
 </sense>
 </entry>

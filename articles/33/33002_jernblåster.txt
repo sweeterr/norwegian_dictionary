@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">jernblåster</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-выплавка болотной руды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выплавка болотной руды</text></cit>
 </sense>
 <sense>
-место выплавки болотной руды
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место выплавки болотной руды</text></cit>
 </sense>
 </entry>
 </superEntry>

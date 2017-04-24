@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">potensial</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>физ.</u> потенциал
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потенциал</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,9 @@
 <form>
 <orth type="lemma">potensial</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u> предположительный (о наклонении)
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предположительный (о наклонении)</text></cit>
 </sense>
 </entry>
 </superEntry>

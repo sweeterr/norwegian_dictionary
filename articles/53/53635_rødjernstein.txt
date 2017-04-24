@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rødjernstein</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мин.</u> красный железняк
+<usg>мин.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красный железняк</text></cit>
 </sense>
 </entry>
 </superEntry>

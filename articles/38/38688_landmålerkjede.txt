@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landmålerkjede</orth>
 <inflection><orth extent="part">-n (-t)</orth></inflection>
-<u>топ.</u> мерная цепь
+<usg>топ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мерная цепь</text></cit>
 </sense>
 </entry>
 </superEntry>

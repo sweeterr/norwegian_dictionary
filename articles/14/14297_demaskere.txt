@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-разоблачать кого-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разоблачать кого-л.</text></cit>
 </sense>
 <sense>
-<u>воен.</u> демаскировать
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>демаскировать</text></cit>
 <сit type="example"><text>demaskere seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снимать маску (на маскараде)</text></cit></cit>
 </sense>
 </entry>

@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-eren, -ere (-rer)</orth></inflection>
 </form>
 <sense>
-мастер, специалист своего дела
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мастер, специалист своего дела</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> чемпион
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чемпион</text></cit>
 <сit type="example"><text>mester i skøyteløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чемпион по скоростному бегу на коньках</text></cit></cit>
 <сit type="example"><text>mester i spyd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чемпион по метанию копья</text></cit></cit>
 <сit type="example"><text>femdobbelt mester</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пятикратный чемпион</text></cit></cit>

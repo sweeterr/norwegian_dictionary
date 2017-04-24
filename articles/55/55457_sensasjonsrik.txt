@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sensasjonsrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-богатый сенсациями, сенсационный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>богатый сенсациями, сенсационный</text></cit>
 </sense>
 </entry>
 </superEntry>

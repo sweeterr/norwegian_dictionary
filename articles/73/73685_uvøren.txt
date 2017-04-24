@@ -5,23 +5,22 @@
 <form>
 <orth type="lemma">uvøren</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-небрежный, халатный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небрежный, халатный</text></cit>
 </sense>
 <sense>
-неряшливый, неопрятный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неряшливый, неопрятный</text></cit>
 </sense>
 <sense>
-непослушный, шаловливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непослушный, шаловливый</text></cit>
 </sense>
 <sense>
-легкомысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленный</text></cit>
 </sense>
 <sense>
-отчаянный, отважный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отчаянный, отважный</text></cit>
 </sense>
 </entry>
 </superEntry>

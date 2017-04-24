@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-голова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голова</text></cit>
 <сit type="example"><text>kronede hoder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>коронованные особы</text></cit></cit>
 <сit type="example"><text>per (pr.) hode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на душу, на человека</text></cit></cit>
 <сit type="example"><text>blotte sitt hode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обнажать голову</text></cit></cit>
@@ -37,7 +37,7 @@
 <сit type="example"><text>så mange hoder så mange sinn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> сколько голов, столько умов</text></cit></cit>
 </sense>
 <sense>
-ум, умственные способности, разум
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ум, умственные способности, разум</text></cit>
 <сit type="example"><text>anstrenge hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сосредоточенно думать над чем-л., напряжённо работать</text></cit></cit>
 <сit type="example"><text>arbeide med hodet, bruke hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>работать головой</text></cit></cit>
 <сit type="example"><text>bevare hodet kaldt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сохранять здравый ум</text></cit></cit>
@@ -50,25 +50,26 @@
 <сit type="example"><text>sette seg noe i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вбить себе что-л. в голову</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> умный человек, «голова»
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>умный человек, «голова»</text></cit>
 </sense>
 <sense>
-руководитель, глава, вождь, главарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руководитель, глава, вождь, главарь</text></cit>
 </sense>
 <sense>
-головка (цветка), кочан (капусты)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головка (цветка), кочан (капусты)</text></cit>
 </sense>
 <sense>
-головка (шпильки), шляпка (гвоздя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>головка (шпильки), шляпка (гвоздя)</text></cit>
 </sense>
 <sense>
-изголовье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изголовье</text></cit>
 </sense>
 <sense>
-капитель (колонны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>капитель (колонны)</text></cit>
 </sense>
 <sense>
-шапка (общий заголовок для нескольких статей в газете)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шапка (общий заголовок для нескольких статей в газете)</text></cit>
 <сit type="example"><text>bli het (rød) i hodet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разгорячиться, быть возбуждённым</text></cit></cit>
 <сit type="example"><text>bringe noe over ens hode</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>приносить несчастье, горе и т. д.</text></cit></cit>
 <сit type="example"><text>nå står det på hodet altsammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>всё идёт вверх дном</text></cit></cit>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veite</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-дренировать, осушать (с помощью осушительных каналов), отводить воду в канаву
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дренировать, осушать (с помощью осушительных каналов), отводить воду в канаву</text></cit>
 </sense>
 <sense>
-проводить воду (с помощью оросительных каналов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить воду (с помощью оросительных каналов)</text></cit>
 </sense>
 </entry>
 </superEntry>

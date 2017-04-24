@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">privat</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u> частный дом, частная квартира
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частный дом, частная квартира</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,17 +16,17 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-частный, личный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частный, личный</text></cit>
 «privat» «лично» (надпись на письме)
 </sense>
 <sense>
-интимный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>интимный</text></cit>
 </sense>
 <sense>
-узкий, ограниченный (о круге лиц)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий, ограниченный (о круге лиц)</text></cit>
 </sense>
 <sense>
-конфиденциальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конфиденциальный</text></cit>
 </sense>
 </entry>
 </superEntry>

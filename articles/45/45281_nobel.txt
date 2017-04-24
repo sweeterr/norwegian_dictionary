@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">nobel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-благородный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благородный</text></cit>
 </sense>
 <sense>
-порядочный, честный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядочный, честный</text></cit>
 </sense>
 </entry>
 </superEntry>

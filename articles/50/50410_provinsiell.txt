@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">provinsiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-провинциальный, мещанский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провинциальный, мещанский</text></cit>
 </sense>
 </entry>
 </superEntry>

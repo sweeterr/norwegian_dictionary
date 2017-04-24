@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-бумага
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумага</text></cit>
 <сit type="example"><text>et ark (stykke) papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лист бумаги</text></cit></cit>
 <сit type="example"><text>krittert papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>меловая бумага</text></cit></cit>
 <сit type="example"><text>linjert papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>линованная бумага</text></cit></cit>
@@ -16,12 +16,12 @@
 <сit type="example"><text>papiret er tålmodig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>погов.</lbl> бумага всё терпит</text></cit></cit>
 </sense>
 <sense>
-документ, бумага
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>документ, бумага</text></cit>
 <сit type="example"><text>kikke én i papirene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>совать свой нос в чужие дела</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-ценные бумаги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ценные бумаги</text></cit>
 <сit type="example"><text>han er et dårlig papir</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он скверный тип</text></cit></cit>
 </sense>
 </entry>

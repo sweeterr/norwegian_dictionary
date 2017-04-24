@@ -5,8 +5,8 @@
 <form>
 <orth type="lemma">vogge</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-колыбель, люлька
-см. тж. vugge I
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колыбель, люлька</text></cit>
+<ref>тж. vugge I</ref>
 </sense>
 </entry>
 <entry>
@@ -14,8 +14,8 @@
 <form>
 <orth type="lemma">vogge</orth>
 <inflection><orth extent="part">-get (-de), -get (-d)</orth></inflection>
-убаюкивать, укачивать, баюкать, качать (ребёнка)
-см. тж. vugge II
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убаюкивать, укачивать, баюкать, качать (ребёнка)</text></cit>
+<ref>тж. vugge II</ref>
 </sense>
 </entry>
 </superEntry>

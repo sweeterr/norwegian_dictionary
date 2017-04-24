@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">lettlending</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-латыш, латвиец
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>латыш, латвиец</text></cit>
 </sense>
 </entry>
 </superEntry>

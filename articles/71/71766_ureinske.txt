@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ureinske</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-нечистота, грязь, дрянь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нечистота, грязь, дрянь</text></cit>
 </sense>
 <sense>
-сорная трава, сорняк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сорная трава, сорняк</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">farbann</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ист.</u> запрещение на проезд (выезд)
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запрещение на проезд (выезд)</text></cit>
 </sense>
 </entry>
 </superEntry>

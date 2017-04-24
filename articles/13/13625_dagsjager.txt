@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dagsjager</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>ав.</u> дневной истребитель
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дневной истребитель</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kure</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> лечиться, проходить курс лечения
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лечиться, проходить курс лечения</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">kure</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> нахохлиться, съёжиться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нахохлиться, съёжиться</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,8 @@
 <form>
 <orth type="lemma">kure</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u> ухаживать (за кем-либо - til), строить куры (кому-л. - til)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ухаживать (за кем-либо - til), строить куры (кому-л. - til)</text></cit>
 </sense>
 </entry>
 </superEntry>

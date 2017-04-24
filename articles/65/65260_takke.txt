@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">takke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-круглый противень (для выпечки лепёшек)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круглый противень (для выпечки лепёшек)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">takke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-благодарить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благодарить</text></cit>
 <сit type="example"><text>ingen ting å takke for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не стоит благодарности</text></cit></cit>
 <сit type="example"><text>takke meg til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лучше бы</text></cit></cit>
 <сit type="example"><text>jo, jeg takker!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ирон.</lbl> не было печали!</text></cit></cit>

@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-змея
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>змея</text></cit>
 <сit type="example"><text>nære en slange ved sin barm</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> выкормить змейку на свою шейку</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> коварная женщина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коварная женщина</text></cit>
 </sense>
 <sense>
-шланг, кишка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шланг, кишка</text></cit>
 </sense>
 <sense>
-извилистая линия, змейка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извилистая линия, змейка</text></cit>
 </sense>
 <sense>
-камера (автомобильной) шины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камера (автомобильной) шины</text></cit>
 </sense>
 </entry>
 <entry>
@@ -28,7 +29,8 @@
 <form>
 <orth type="lemma">slange</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> перекачивать, перегонять по шлангу (жидкость)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перекачивать, перегонять по шлангу (жидкость)</text></cit>
 </sense>
 </entry>
 </superEntry>

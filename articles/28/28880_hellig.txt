@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hellig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-святой, священный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>святой, священный</text></cit>
 <сit type="example"><text>holde hellig</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свято чтить</text></cit></cit>
 </sense>
 </entry>

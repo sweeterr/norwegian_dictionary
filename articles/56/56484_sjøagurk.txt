@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sjøagurk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> голотурия, морская кубышка, морской огурец
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голотурия, морская кубышка, морской огурец</text></cit>
 </sense>
 </entry>
 </superEntry>

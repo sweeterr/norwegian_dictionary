@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-стекание, просачивание (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стекание, просачивание (воды)</text></cit>
 </sense>
 <sense>
-убывание (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>убывание (воды)</text></cit>
 </sense>
 <sense>
-просачивающаяся вода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>просачивающаяся вода</text></cit>
 </sense>
 <sense>
-оседание, осадка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оседание, осадка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -24,7 +24,8 @@
 <form>
 <orth type="lemma">sig</orth>
 <gramGrp><pos>pron</pos></gramGrp>
-<u>уст.</u> см. seg
+<usg>уст.</usg>
+<ref>seg</ref>
 </sense>
 </entry>
 </superEntry>

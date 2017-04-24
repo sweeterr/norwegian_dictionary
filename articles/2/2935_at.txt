@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">at</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-как компонент сложных глаголов:
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>как компонент сложных глаголов:</text></cit>
 <сit type="example"><text>bære seg at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вести себя, держаться</text></cit></cit>
 <сit type="example"><text>skille at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отделять, разъединять, разделять</text></cit></cit>
 <сit type="example"><text>hjelpes at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>помогать друг другу</text></cit></cit>
@@ -17,7 +17,7 @@
 <form>
 <orth type="lemma">at</orth>
 <gramGrp><pos>konj</pos></gramGrp>
-что, чтобы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>что, чтобы</text></cit>
 <сit type="example"><text>for at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чтобы</text></cit></cit>
 <сit type="example"><text>uten at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без того чтобы</text></cit></cit>
 <сit type="example"><text>som at</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>как будто</text></cit></cit>
@@ -29,7 +29,8 @@
 <index></index>
 <form>
 <orth type="lemma">at</orth>
-частица инфинитива, <u>уст.</u> см. å IV
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>частица инфинитива, <lbl>уст.</lbl></text></cit>
+<ref>å IV</ref>
 </sense>
 </entry>
 </superEntry>

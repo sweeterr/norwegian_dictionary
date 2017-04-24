@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gårdsdrift</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-ведение сельского хозяйства, фермерство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ведение сельского хозяйства, фермерство</text></cit>
 <сit type="example"><text>gårdsdrift for melkeproduksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>молочное хозяйство</text></cit></cit>
 </sense>
 </entry>

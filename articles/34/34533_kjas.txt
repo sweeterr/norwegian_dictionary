@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjas</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-хлопоты
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлопоты</text></cit>
 </sense>
 <sense>
-придирки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>придирки</text></cit>
 </sense>
 </entry>
 </superEntry>

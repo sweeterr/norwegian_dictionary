@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">byfolk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>собир.</u> жители города, горожане
+<usg>собир.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жители города, горожане</text></cit>
 </sense>
 </entry>
 </superEntry>

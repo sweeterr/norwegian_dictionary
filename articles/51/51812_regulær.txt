@@ -5,17 +5,18 @@
 <form>
 <orth type="lemma">regulær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-правильный, планомерный, регулярный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правильный, планомерный, регулярный</text></cit>
 </sense>
 <sense>
-<u>разг.</u> настоящий
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>настоящий</text></cit>
 </sense>
 <sense>
-<u>мат.</u> правильный
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>правильный</text></cit>
 </sense>
 </entry>
 </superEntry>

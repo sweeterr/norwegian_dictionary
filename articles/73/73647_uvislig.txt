@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">uvislig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-неумный, неблагоразумный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неумный, неблагоразумный</text></cit>
 </sense>
 <sense>
-легкомысленный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>легкомысленный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,13 +19,13 @@
 <form>
 <orth type="lemma">uvislig</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-невзрачный, неказистый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>невзрачный, неказистый</text></cit>
 </sense>
 <sense>
-жалкий, убогий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жалкий, убогий</text></cit>
 </sense>
 </entry>
 </superEntry>

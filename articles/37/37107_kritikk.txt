@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-критика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>критика</text></cit>
 <сit type="example"><text>en flengende (sterk) kritikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожающая (резкая) критика</text></cit></cit>
 <сit type="example"><text>en personlig kritikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>критика, направленная против определённого лица</text></cit></cit>
 <сit type="example"><text>være hevet over kritikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть вне всякой критики</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>øve kritikk overfor en (noe)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>критиковать кого-л. (что-л.)</text></cit></cit>
 </sense>
 <sense>
-рецензия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рецензия</text></cit>
 </sense>
 </entry>
 </superEntry>

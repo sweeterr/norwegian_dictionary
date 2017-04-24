@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">puppe</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> куколка, личинка (насекомого)
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>куколка, личинка (насекомого)</text></cit>
 </sense>
 </entry>
 </superEntry>

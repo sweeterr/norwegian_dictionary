@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-проводить линию (черту), чертить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проводить линию (черту), чертить</text></cit>
 </sense>
 <sense>
-тормозить веслом, табанить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормозить веслом, табанить</text></cit>
 </sense>
 <sense>
-тормозить палками при спуске на лыжах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тормозить палками при спуске на лыжах</text></cit>
 <сit type="example"><text>streke over</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вычеркнуть, перечеркнуть</text></cit></cit>
 <сit type="example"><text>streke under</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подчёркивать <lbl>тж. перен.</lbl></text></cit></cit>
-<сit type="example"><text>streke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>см. streke over</text></cit></cit>
+<сit type="example"><text>streke ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><ref>streke over</ref></text></cit></cit>
 </sense>
 </entry>
 </superEntry>

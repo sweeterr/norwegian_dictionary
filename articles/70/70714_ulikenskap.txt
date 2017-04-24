@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">ulikenskap</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-отвращение, омерзение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвращение, омерзение</text></cit>
 </sense>
 <sense>
-отвратительный поступок, мерзкая выходка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвратительный поступок, мерзкая выходка</text></cit>
 </sense>
 </entry>
 </superEntry>

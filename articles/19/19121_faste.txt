@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">faste</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>церк.</u> пост
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">faste</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-поститься, соблюдать пост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поститься, соблюдать пост</text></cit>
 </sense>
 </entry>
 </superEntry>

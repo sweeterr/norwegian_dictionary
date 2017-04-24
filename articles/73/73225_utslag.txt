@@ -7,27 +7,28 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-проявление, фактор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проявление, фактор</text></cit>
 <сit type="example"><text>gjøre utslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (стать) решающим фактором</text></cit></cit>
 <сit type="example"><text>gi seg utslag</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать себя почувствовать, проявиться</text></cit></cit>
 </sense>
 <sense>
-результат, последствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>результат, последствие</text></cit>
 </sense>
 <sense>
-выпад, удар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпад, удар</text></cit>
 </sense>
 <sense>
-отклонение стрелки, показание (прибора)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отклонение стрелки, показание (прибора)</text></cit>
 </sense>
 <sense>
-сток (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сток (воды)</text></cit>
 </sense>
 <sense>
-сплав (леса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сплав (леса)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> сыпь
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сыпь</text></cit>
 </sense>
 </entry>
 </superEntry>

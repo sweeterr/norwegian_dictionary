@@ -7,22 +7,27 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-группа, коллектив
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа, коллектив</text></cit>
 </sense>
 <sense>
-фракция (партийная, парламентская)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фракция (партийная, парламентская)</text></cit>
 </sense>
 <sense>
-<u>фото</u> групповой снимок
+<usg>фото</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>групповой снимок</text></cit>
 </sense>
 <sense>
-<u>ав.</u> звено
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звено</text></cit>
 </sense>
 <sense>
-<u>мор.</u> (полу)дивизион
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>(полу)дивизион</text></cit>
 </sense>
 <sense>
-<u>воен.</u> <u>уст.</u> группа; полувзвод
+<usg>воен.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>группа; полувзвод</text></cit>
 </sense>
 </entry>
 </superEntry>

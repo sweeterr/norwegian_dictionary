@@ -13,13 +13,13 @@
 <form>
 <orth type="lemma">mente</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-выделывать сыромятные кожи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выделывать сыромятные кожи</text></cit>
 </sense>
 <sense>
-мешать, размешивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешать, размешивать</text></cit>
 </sense>
 </entry>
 </superEntry>

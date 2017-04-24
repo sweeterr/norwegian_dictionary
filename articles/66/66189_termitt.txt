@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">termitt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> термит
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>термит</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">termitt</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> термит
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>термит</text></cit>
 </sense>
 </entry>
 </superEntry>

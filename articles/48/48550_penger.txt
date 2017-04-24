@@ -6,7 +6,7 @@
 <orth type="lemma">penger</orth>
 <inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
-деньги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деньги</text></cit>
 <сit type="example"><text>bortkastede penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выброшенные деньги</text></cit></cit>
 <сit type="example"><text>falske penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>фальшивые деньги</text></cit></cit>
 <сit type="example"><text>friske penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>свободные деньги</text></cit></cit>

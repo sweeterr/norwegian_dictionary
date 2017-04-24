@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fjeske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-ластиться, подхалимничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ластиться, подхалимничать</text></cit>
 </sense>
 <sense>
-льстить (кому-л. - for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>льстить (кому-л. - for)</text></cit>
 </sense>
 </entry>
 </superEntry>

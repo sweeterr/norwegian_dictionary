@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-недостаток, дефект, изъян, недочёт
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недостаток, дефект, изъян, недочёт</text></cit>
 </sense>
 <sense>
-<u>полигр.</u> пунсон
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пунсон</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,13 +21,13 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-неполный, имеющий пропуски, дефектный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неполный, имеющий пропуски, дефектный</text></cit>
 </sense>
 <sense>
-имеющий недостатки, изъяны
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имеющий недостатки, изъяны</text></cit>
 </sense>
 <sense>
-дефективный (о человеке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дефективный (о человеке)</text></cit>
 </sense>
 </entry>
 </superEntry>

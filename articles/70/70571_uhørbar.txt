@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">uhørbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неслышный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неслышный</text></cit>
 </sense>
 </entry>
 </superEntry>

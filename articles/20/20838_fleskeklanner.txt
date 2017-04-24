@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fleskeklanner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>зоол.</u> кожеед ветчинный
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кожеед ветчинный</text></cit>
 </sense>
 </entry>
 </superEntry>

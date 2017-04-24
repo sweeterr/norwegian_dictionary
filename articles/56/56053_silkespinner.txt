@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">silkespinner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>зоол.</u> шелкопряд тутовый
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелкопряд тутовый</text></cit>
 </sense>
 </entry>
 </superEntry>

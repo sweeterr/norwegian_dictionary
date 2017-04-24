@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sjøforklaring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-морская декларация, донесение о кораблекрушении
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морская декларация, донесение о кораблекрушении</text></cit>
 <сit type="example"><text>oppta sjøforklaring</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снять показания</text></cit></cit>
 </sense>
 </entry>

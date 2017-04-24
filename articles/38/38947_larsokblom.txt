@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">larsokblom</orth>
 <inflection><orth extent="part">-men</orth></inflection>
-<u>диал.</u> белозор болотный
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>белозор болотный</text></cit>
 </sense>
 </entry>
 </superEntry>

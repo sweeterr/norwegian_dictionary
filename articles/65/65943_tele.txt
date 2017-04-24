@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">tele</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-промёрзшая земля, слой промёрзшей земли, мерзлота
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промёрзшая земля, слой промёрзшей земли, мерзлота</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">tele</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-промерзать (о земле, слое снега и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промерзать (о земле, слое снега и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

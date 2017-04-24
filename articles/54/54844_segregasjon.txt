@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-отделение, выделение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отделение, выделение</text></cit>
 </sense>
 <sense>
-<u>тех.</u> сегрегация
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сегрегация</text></cit>
 </sense>
 </entry>
 </superEntry>

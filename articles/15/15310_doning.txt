@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">doning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>собир.</u> <u>разг.</u>
+<usg>собир.</usg>
+<usg>разг.</usg>
 </form>
 <sense>
-инструменты, орудия производства
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструменты, орудия производства</text></cit>
 </sense>
 <sense>
-повозка, телега, сани
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повозка, телега, сани</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +20,7 @@
 <form>
 <orth type="lemma">doning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-см. dovning II
+<ref>dovning II</ref>
 </sense>
 </entry>
 </superEntry>

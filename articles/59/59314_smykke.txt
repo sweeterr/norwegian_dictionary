@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-драгоценность, украшение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>драгоценность, украшение</text></cit>
 </sense>
 <sense>
-ценности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ценности</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +18,7 @@
 <form>
 <orth type="lemma">smykke</orth>
 <inflection><orth extent="part">-ket (-te), -ket (-t)</orth></inflection>
-украшать, наряжать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>украшать, наряжать</text></cit>
 </sense>
 </entry>
 </superEntry>

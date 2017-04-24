@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hardloper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> быстроходное парусное судно
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>быстроходное парусное судно</text></cit>
 </sense>
 </entry>
 </superEntry>

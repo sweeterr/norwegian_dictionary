@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">leug</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-гибкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гибкий</text></cit>
 </sense>
 <sense>
-проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проворный</text></cit>
 </sense>
 </entry>
 </superEntry>

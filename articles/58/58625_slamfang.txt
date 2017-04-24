@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">slamfang</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-водоотстойник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водоотстойник</text></cit>
 </sense>
 <sense>
-люк водосточного колодца
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>люк водосточного колодца</text></cit>
 </sense>
 </entry>
 </superEntry>

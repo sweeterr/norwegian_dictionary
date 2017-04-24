@@ -5,16 +5,18 @@
 <form>
 <orth type="lemma">kalun</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-потроха, требуха
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>потроха, требуха</text></cit>
 </sense>
 <sense>
-<u>анат.</u> сычуг
+<usg>анат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сычуг</text></cit>
 </sense>
 <sense>
-<u>кул.</u> рубец
+<usg>кул.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рубец</text></cit>
 </sense>
 </entry>
 </superEntry>

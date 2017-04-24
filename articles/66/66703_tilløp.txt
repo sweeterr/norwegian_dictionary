@@ -7,17 +7,18 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-попытка, усилие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>попытка, усилие</text></cit>
 <сit type="example"><text>gjøre tilløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>делать усилие</text></cit></cit>
 </sense>
 <sense>
-подъём, приток (воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подъём, приток (воды)</text></cit>
 </sense>
 <sense>
-наплыв (зрителей)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наплыв (зрителей)</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> разбег
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разбег</text></cit>
 <сit type="example"><text>ta et tilløp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбежаться, взять разбег</text></cit></cit>
 </sense>
 </entry>

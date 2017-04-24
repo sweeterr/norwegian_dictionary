@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">passasjertakst</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-плата за проезд
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плата за проезд</text></cit>
 </sense>
 </entry>
 </superEntry>

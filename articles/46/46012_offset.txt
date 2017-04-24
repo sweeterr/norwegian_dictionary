@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">offset</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>полигр.</u> офсетная печать
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>офсетная печать</text></cit>
 </sense>
 </entry>
 </superEntry>

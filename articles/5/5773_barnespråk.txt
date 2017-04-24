@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barnespråk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-язык ребёнка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык ребёнка</text></cit>
 </sense>
 </entry>
 </superEntry>

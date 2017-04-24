@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">timesirkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>астр.</u> небесный меридиан
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небесный меридиан</text></cit>
 </sense>
 </entry>
 </superEntry>

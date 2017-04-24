@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sluk</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-блесна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блесна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,19 +15,21 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-бездна, пропасть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бездна, пропасть</text></cit>
 </sense>
 <sense>
-ущелье
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ущелье</text></cit>
 </sense>
 <sense>
-<u>разг.</u> глотка; пасть
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глотка; пасть</text></cit>
 </sense>
 <sense>
-слив (для канализационной воды)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слив (для канализационной воды)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> приёмный люк, приёмное отверстие
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приёмный люк, приёмное отверстие</text></cit>
 </sense>
 </entry>
 </superEntry>

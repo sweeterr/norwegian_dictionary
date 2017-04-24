@@ -7,20 +7,23 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-кататься на санках с гор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кататься на санках с гор</text></cit>
 <сit type="example"><text>ake (i) kjelkebakke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кататься с горки (на санках)</text></cit></cit>
 <сit type="example"><text>ake på kjelke</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>кататься на санках, салазках</text></cit></cit>
 <сit type="example"><text>ake seg fordervet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разбиться, ушибиться (во время катания с гор)</text></cit></cit>
 </sense>
 <sense>
-скользить, съезжать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользить, съезжать</text></cit>
 <сit type="example"><text>ake ned på rekkverket</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>съезжать вниз по перилам (о детях)</text></cit></cit>
 </sense>
 <sense>
-<u>перен.</u> <u>разг.</u> проскальзывать, прокрадываться
+<usg>перен.</usg>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>проскальзывать, прокрадываться</text></cit>
 </sense>
 <sense>
-<u>уст.</u> ехать, ездить
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать, ездить</text></cit>
 <сit type="example"><text>ake seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>проскальзывать, прокрадываться</text></cit></cit>
 <сit type="example"><text>ake seg forbi</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>прокрасться (проскользнуть) мимо</text></cit></cit>
 </sense>

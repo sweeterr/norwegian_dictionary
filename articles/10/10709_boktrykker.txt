@@ -7,16 +7,17 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-печатник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>печатник</text></cit>
 </sense>
 <sense>
-типограф
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>типограф</text></cit>
 </sense>
 <sense>
-владелец типографии
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владелец типографии</text></cit>
 </sense>
 <sense>
-<u>зоол.</u> короед-типограф
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>короед-типограф</text></cit>
 </sense>
 </entry>
 </superEntry>

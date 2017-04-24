@@ -7,20 +7,21 @@
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
 </form>
 <sense>
-круг, окружность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круг, окружность</text></cit>
 <сit type="example"><text>slå en sirkel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>описывать (проводить) окружность</text></cit></cit>
 <сit type="example"><text>stille seg i sirkel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>встать в круг</text></cit></cit>
 </sense>
 <sense>
-кружок, учебная группа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кружок, учебная группа</text></cit>
 </sense>
 <sense>
-слой, класс (в обществе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слой, класс (в обществе)</text></cit>
 <gramGrp><num>pl</num></gramGrp>
-круги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>круги</text></cit>
 </sense>
 <sense>
-<u>астр.</u> орбита
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>орбита</text></cit>
 </sense>
 </entry>
 </superEntry>

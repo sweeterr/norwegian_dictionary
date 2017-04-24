@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">urgammel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-древний, доисторический, старинный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>древний, доисторический, старинный</text></cit>
 </sense>
 </entry>
 </superEntry>

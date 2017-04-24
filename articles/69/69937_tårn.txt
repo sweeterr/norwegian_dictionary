@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-башня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>башня</text></cit>
 </sense>
 <sense>
-<u>шахм.</u> ладья
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ладья</text></cit>
 </sense>
 <sense>
-<u>воен.</u> башня (на военном корабле, танке)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>башня (на военном корабле, танке)</text></cit>
 </sense>
 </entry>
 </superEntry>

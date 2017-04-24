@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">støvlett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-высокий дамский ботинок (со шнурками)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высокий дамский ботинок (со шнурками)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">støvlett</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-лёгкий как пылинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий как пылинка</text></cit>
 </sense>
 </entry>
 </superEntry>

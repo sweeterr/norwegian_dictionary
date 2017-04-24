@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bankett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-банкет, пиршество
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банкет, пиршество</text></cit>
 <сit type="example"><text>ved banketten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на банкете</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,8 @@
 <form>
 <orth type="lemma">bankett</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> стрелковая ступень (окопа), банкет, насыпь, дамба
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стрелковая ступень (окопа), банкет, насыпь, дамба</text></cit>
 </sense>
 </entry>
 </superEntry>

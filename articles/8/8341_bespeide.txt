@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bespeide</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-внимательно осматривать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внимательно осматривать</text></cit>
 </sense>
 <sense>
-подсматривать; шпионить (за кем-л.), выслеживать (кого-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подсматривать; шпионить (за кем-л.), выслеживать (кого-л.)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">spinnekjerring</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-прядильщица
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прядильщица</text></cit>
 </sense>
 <sense>
-<u>диал.</u> паук
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паук</text></cit>
 </sense>
 </entry>
 </superEntry>

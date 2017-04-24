@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">peile</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-брать (взять) пеленг, пеленговать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брать (взять) пеленг, пеленговать</text></cit>
 </sense>
 <sense>
-измерять глубину (шестом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>измерять глубину (шестом)</text></cit>
 </sense>
 </entry>
 </superEntry>

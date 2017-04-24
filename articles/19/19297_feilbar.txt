@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">feilbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-подверженный ошибкам, ошибочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подверженный ошибкам, ошибочный</text></cit>
 </sense>
 </entry>
 </superEntry>

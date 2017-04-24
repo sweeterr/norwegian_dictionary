@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gåteskrift</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-тайнопись
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайнопись</text></cit>
 </sense>
 </entry>
 </superEntry>

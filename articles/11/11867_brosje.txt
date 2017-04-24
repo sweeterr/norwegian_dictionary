@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">brosje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-брошь, брошка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брошь, брошка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">brosje</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> зенковать, расширять (развёртывать) отверстие с помощью развёртки (зенковки)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зенковать, расширять (развёртывать) отверстие с помощью развёртки (зенковки)</text></cit>
 </sense>
 </entry>
 </superEntry>

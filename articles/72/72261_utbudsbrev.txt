@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utbudsbrev</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>эк.</u> письмо с предложением товаров
+<usg>эк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>письмо с предложением товаров</text></cit>
 </sense>
 </entry>
 </superEntry>

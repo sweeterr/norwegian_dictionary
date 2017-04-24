@@ -7,18 +7,20 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-четверть, четвёртая часть (доля)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четверть, четвёртая часть (доля)</text></cit>
 <сit type="example"><text>fem og en kvart</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пять с четвертью</text></cit></cit>
 <сit type="example"><text>klokka er en kvart på ett (to, tre, fire ...)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без четверти час (два, три, четыре ...)</text></cit></cit>
 </sense>
 <sense>
-<u>муз.</u> кварта
+<usg>муз.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кварта</text></cit>
 </sense>
 <sense>
-<u>разг.</u> четвертинка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четвертинка</text></cit>
 </sense>
 <sense>
-четвёртка (бумаги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>четвёртка (бумаги)</text></cit>
 </sense>
 </entry>
 </superEntry>

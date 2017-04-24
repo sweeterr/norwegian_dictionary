@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">retroversjon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-обратный перевод (на язык, с которого сделан перевод)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обратный перевод (на язык, с которого сделан перевод)</text></cit>
 </sense>
 </entry>
 </superEntry>

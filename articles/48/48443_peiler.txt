@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">peiler</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>мор.</u> пеленгатор, радиопеленгатор
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеленгатор, радиопеленгатор</text></cit>
 </sense>
 </entry>
 </superEntry>

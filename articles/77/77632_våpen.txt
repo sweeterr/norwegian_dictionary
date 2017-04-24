@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-оружие, боевое средство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оружие, боевое средство</text></cit>
 <сit type="example"><text>bakteriologisk våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>бактериологическое оружие</text></cit></cit>
 <сit type="example"><text>blank våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>холодное оружие</text></cit></cit>
 <сit type="example"><text>styrte våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>управляемые снаряды</text></cit></cit>
@@ -24,10 +24,10 @@
 <сit type="example"><text>stå under våpen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>служить в вооружённых силах</text></cit></cit>
 </sense>
 <sense>
-род войск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>род войск</text></cit>
 </sense>
 <sense>
-герб
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>герб</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">medd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> колея, лыжня
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колея, лыжня</text></cit>
 </sense>
 </entry>
 </superEntry>

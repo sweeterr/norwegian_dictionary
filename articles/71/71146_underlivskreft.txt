@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">underlivskreft</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> рак матки
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рак матки</text></cit>
 </sense>
 </entry>
 </superEntry>

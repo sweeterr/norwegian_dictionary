@@ -7,7 +7,7 @@
 <inflection><orth>sang, sunget</orth></inflection>
 </form>
 <sense>
-петь, распевать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь, распевать</text></cit>
 <сit type="example"><text>synge av full bryst (hals)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь полной грудью, петь в полный голос</text></cit></cit>
 <сit type="example"><text>synge falsk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь неправильно, фальшивить</text></cit></cit>
 <сit type="example"><text>synge etter noter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь по нотам</text></cit></cit>
@@ -17,11 +17,11 @@
 <сit type="example"><text>være sunget sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спеться</text></cit></cit>
 </sense>
 <sense>
-звенеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звенеть</text></cit>
 <сit type="example"><text>så det sang</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>так, что в ушах зазвенело</text></cit></cit>
 </sense>
 <sense>
-петь о чём-л., складывать песни, воспевать (тж. synge om)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь о чём-л., складывать песни, воспевать (тж. synge om)</text></cit>
 <сit type="example"><text>synge fore</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запевать</text></cit></cit>
 <сit type="example"><text>synge opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>запеть</text></cit></cit>
 <сit type="example"><text>synge ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>петь во весь голос</text></cit></cit>

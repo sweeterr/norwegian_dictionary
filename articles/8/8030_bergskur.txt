@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bergskur</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>археол.</u>
+<usg>археол.</usg>
 </form>
 <sense>
-наскальные надписи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наскальные надписи</text></cit>
 </sense>
 <sense>
-надписи на камнях
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надписи на камнях</text></cit>
 </sense>
 </entry>
 </superEntry>

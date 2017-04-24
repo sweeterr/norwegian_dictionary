@@ -8,7 +8,7 @@
 </form>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-руны, рунические письмена
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руны, рунические письмена</text></cit>
 <сit type="example"><text>de eldre runer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>старшие руны, старший рунический алфавит (в составе 24 рун, был распространён в Скандинавии до начала IX в.)</text></cit></cit>
 <сit type="example"><text>de yngre runer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>младшие руны, младший рунический алфавит (в составе 16 рун, был распространён в Скандинавии после начала IX в.)</text></cit></cit>
 <сit type="example"><text>stungne (punkterte) runer</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пунктированные руны</text></cit></cit>
@@ -18,10 +18,10 @@
 <сit type="example"><text>kaste runer på (over) én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навлекать зло на кого-л., навести порчу на кого-л.</text></cit></cit>
 </sense>
 <sense>
-символ, таинственный знак
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>символ, таинственный знак</text></cit>
 </sense>
 <sense>
-тайна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тайна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,7 +29,8 @@
 <form>
 <orth type="lemma">rune</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>лит.</u> руна, финская эпическая песнь
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>руна, финская эпическая песнь</text></cit>
 </sense>
 </entry>
 </superEntry>

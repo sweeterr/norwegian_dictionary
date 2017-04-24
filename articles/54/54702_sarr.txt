@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sarr</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>диал.</u> шуга, мелкий рыхлый лед
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуга, мелкий рыхлый лед</text></cit>
 </sense>
 </entry>
 </superEntry>

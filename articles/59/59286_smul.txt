@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">smul</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-спокойный (о море)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спокойный (о море)</text></cit>
 </sense>
 <sense>
-укрытый, защищенный от волн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>укрытый, защищенный от волн</text></cit>
 </sense>
 </entry>
 </superEntry>

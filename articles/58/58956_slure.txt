@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">slure</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u> парень, малый
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парень, малый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +16,11 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-<u>разг.</u> скользить, соскальзывать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скользить, соскальзывать</text></cit>
 </sense>
 <sense>
-см. skli
+<ref>skli</ref>
 </sense>
 </entry>
 </superEntry>

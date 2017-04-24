@@ -5,26 +5,25 @@
 <form>
 <orth type="lemma">flau</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t(t)</orth></inflection>
 </form>
 <sense>
-вялый (о торговле, настроении),
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вялый (о торговле, настроении),</text></cit>
 </sense>
 <sense>
-безвкусный, пресный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безвкусный, пресный</text></cit>
 </sense>
 <sense>
-плоский, пошлый (о шутке, разговоре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоский, пошлый (о шутке, разговоре)</text></cit>
 </sense>
 <sense>
-слабый (о ветре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (о ветре)</text></cit>
 </sense>
 <sense>
-стыдливый, смущенный, чувствующий стеснение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стыдливый, смущенный, чувствующий стеснение</text></cit>
 </sense>
 <sense>
-мертвый (о сезоне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мертвый (о сезоне)</text></cit>
 </sense>
 </entry>
 </superEntry>

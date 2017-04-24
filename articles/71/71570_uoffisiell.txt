@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">uoffisiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-неофициальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неофициальный</text></cit>
 </sense>
 </entry>
 </superEntry>

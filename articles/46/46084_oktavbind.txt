@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oktavbind</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>полигр.</u> книга (форматом) ин-октаво
+<usg>полигр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>книга (форматом) ин-октаво</text></cit>
 </sense>
 </entry>
 </superEntry>

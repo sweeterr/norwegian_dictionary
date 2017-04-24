@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stikken</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>уст.</u> колотьё (в боку)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>колотьё (в боку)</text></cit>
 </sense>
 </entry>
 </superEntry>

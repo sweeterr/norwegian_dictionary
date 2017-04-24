@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-баран
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>баран</text></cit>
 <сit type="example"><text>væren</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>овен (созвездие)</text></cit></cit>
 </sense>
 <sense>
-<u>ист.</u> таран
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>таран</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-погода
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погода</text></cit>
 <сit type="example"><text>deilig (pent, vakkert) vær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>чудесная (прекрасная) погода</text></cit></cit>
 <сit type="example"><text>fykende vær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>метель, вьюга</text></cit></cit>
 <сit type="example"><text>godt (dårlig) vær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошая (плохая) погода</text></cit></cit>
@@ -31,21 +32,21 @@
 <сit type="example"><text>komme ut (være ute) i hardt vær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>попасть в непогоду</text></cit></cit>
 </sense>
 <sense>
-сильный ветер, буря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильный ветер, буря</text></cit>
 <сit type="example"><text>dreie (kaste, legge) på været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мор.</lbl> повернуть судно носом против ветра</text></cit></cit>
 </sense>
 <sense>
-дыхание, дух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дыхание, дух</text></cit>
 <сit type="example"><text>dra været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перевести дух</text></cit></cit>
 <сit type="example"><text>gispe (snappe) etter været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хватать ртом воздух, задыхаться</text></cit></cit>
 <сit type="example"><text>trekke været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вздохнуть</text></cit></cit>
 </sense>
 <sense>
-воздух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>воздух</text></cit>
 <сit type="example"><text>i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в воздухе</text></cit></cit>
 </sense>
 <sense>
-запах, дух
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>запах, дух</text></cit>
 <сit type="example"><text>dra vær</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>тянуть носом (о собаке), разнюхивать</text></cit></cit>
 <сit type="example"><text>komme under vær med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> разузнать, разведать</text></cit></cit>
 <сit type="example"><text>bort (hen) i været</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на ветер</text></cit></cit>
@@ -64,13 +65,13 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-рыболовный район (в шхерах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовный район (в шхерах)</text></cit>
 </sense>
 <sense>
-рыболовецкий посёлок на берегу моря
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыболовецкий посёлок на берегу моря</text></cit>
 </sense>
 <sense>
-птичий базар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>птичий базар</text></cit>
 </sense>
 </entry>
 </superEntry>

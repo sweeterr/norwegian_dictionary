@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">transittstasjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>телеф.</u> промежуточная станция
+<usg>телеф.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>промежуточная станция</text></cit>
 </sense>
 </entry>
 </superEntry>

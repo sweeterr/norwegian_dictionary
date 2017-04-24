@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">uverk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-злодеяние, преступление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>злодеяние, преступление</text></cit>
 </sense>
 <sense>
-изъян, порок, недостаток
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изъян, порок, недостаток</text></cit>
 </sense>
 </entry>
 </superEntry>

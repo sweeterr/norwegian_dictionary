@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">stift</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-гвоздь (без шляпки), штифтик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гвоздь (без шляпки), штифтик</text></cit>
 <сit type = "example"><text>slå stift(en) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> стоять (ходить) на руках</text></cit></cit>
 <сit type = "example"><text>slå stift(en) :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> делать сальто-мортале</text></cit></cit>
 </sense>
@@ -15,7 +15,8 @@
 <form>
 <orth type="lemma">stift</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>церк.</u> епархия
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>епархия</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tun</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u> тунец
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тунец</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">tun</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-двор (усадьбы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двор (усадьбы)</text></cit>
 </sense>
 <sense>
-надворные постройки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>надворные постройки</text></cit>
 </sense>
 </entry>
 </superEntry>

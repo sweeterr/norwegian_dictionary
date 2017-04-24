@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ø</orth>
 <inflection><orth extent="part">-'en, -'er</orth></inflection>
-двадцать восьмая буква норвежского алфавита
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двадцать восьмая буква норвежского алфавита</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">ø</orth>
 <inflection><orth>øen</orth></inflection>
-см. øy
+<ref>øy</ref>
 </sense>
 </entry>
 </superEntry>

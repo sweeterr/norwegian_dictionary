@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veddeløper</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>спорт.</u>
+<usg>спорт.</usg>
 </form>
 <sense>
-участник состязания в беге
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>участник состязания в беге</text></cit>
 </sense>
 <sense>
-лошадь, участвующая в бегах (скачках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лошадь, участвующая в бегах (скачках)</text></cit>
 </sense>
 </entry>
 </superEntry>

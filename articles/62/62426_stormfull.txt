@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">stormfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бурный, штормовой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бурный, штормовой</text></cit>
 </sense>
 <sense>
-подверженный бурям
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подверженный бурям</text></cit>
 </sense>
 <sense>
-беспокойный, бурный (о времени)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспокойный, бурный (о времени)</text></cit>
 </sense>
 </entry>
 </superEntry>

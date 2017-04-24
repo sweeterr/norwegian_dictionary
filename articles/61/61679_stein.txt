@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-камень, камешек, булыжник
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камень, камешек, булыжник</text></cit>
 <сit type="example"><text>litografisk stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>литографский камень</text></cit></cit>
 <сit type="example"><text>edle (ekte) steiner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>драгоценные камни</text></cit></cit>
 <сit type="example"><text>bryte stein</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>добывать (ломать) камень</text></cit></cit>
@@ -18,13 +18,14 @@
 <сit type="example"><text>det falt en stein fra mitt bryst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня словно гора упала с плеч</text></cit></cit>
 </sense>
 <sense>
-риф, подводный камень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риф, подводный камень</text></cit>
 </sense>
 <sense>
-косточка (в плодах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косточка (в плодах)</text></cit>
 </sense>
 <sense>
-<u>мед.</u> камень (в печени, в почках)
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>камень (в печени, в почках)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,7 +33,7 @@
 <form>
 <orth type="lemma">stein</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-совершенно, абсолютно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, абсолютно</text></cit>
 <сit type="example"><text>stein død</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>без всяких признаков жизни</text></cit></cit>
 </sense>
 </entry>

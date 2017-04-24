@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">stasjonær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неподвижный, стационарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неподвижный, стационарный</text></cit>
 </sense>
 <sense>
-постоянный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянный</text></cit>
 </sense>
 </entry>
 </superEntry>

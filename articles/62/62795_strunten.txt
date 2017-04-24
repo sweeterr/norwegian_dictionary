@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">strunten</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> ворчливый, недовольный, строптивый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворчливый, недовольный, строптивый</text></cit>
 </sense>
 </entry>
 </superEntry>

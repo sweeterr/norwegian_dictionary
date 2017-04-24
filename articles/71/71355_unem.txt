@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">unem</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-непрактичный, неудобный для пользования, неуклюжий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непрактичный, неудобный для пользования, неуклюжий</text></cit>
 </sense>
 <sense>
-затруднительный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>затруднительный</text></cit>
 </sense>
 </entry>
 </superEntry>

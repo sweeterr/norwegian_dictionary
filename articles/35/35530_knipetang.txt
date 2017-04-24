@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">knipetang</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> кусачки, щипцы
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кусачки, щипцы</text></cit>
 </sense>
 </entry>
 </superEntry>

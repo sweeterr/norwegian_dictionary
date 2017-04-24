@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">landsvern</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>уст.</u> оборона страны
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборона страны</text></cit>
 </sense>
 </entry>
 </superEntry>

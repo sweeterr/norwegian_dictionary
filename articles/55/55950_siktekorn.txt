@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">siktekorn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>воен.</u> мушка (прицела)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мушка (прицела)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vagn</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> зубастый кит-касатка
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубастый кит-касатка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">vagn</orth>
 <inflection><orth extent="part">-en (-et), -er</orth></inflection>
-<u>диал.</u> см. vogn
+<usg>диал.</usg>
+<ref>vogn</ref>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">jernbruk</orth>
 <inflection><orth extent="part">-en (-et)</orth></inflection>
-<u>археол.</u> получение и обработка железа
+<usg>археол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>получение и обработка железа</text></cit>
 </sense>
 </entry>
 </superEntry>

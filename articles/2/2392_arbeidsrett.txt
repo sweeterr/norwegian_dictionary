@@ -7,13 +7,17 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>тк. sg</u> право на труд
+<usg>тк. sg</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>право на труд</text></cit>
 </sense>
 <sense>
-<u>тк. sg</u> <u>юр.</u> трудовое законодательство, трудовое право
+<usg>тк. sg</usg>
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудовое законодательство, трудовое право</text></cit>
 </sense>
 <sense>
-<u>юр.</u> суд по рассмотрению трудовых конфликтов
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суд по рассмотрению трудовых конфликтов</text></cit>
 </sense>
 </entry>
 </superEntry>

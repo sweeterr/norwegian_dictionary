@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">betalingsbalanse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>ком.</u> платёжный баланс
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платёжный баланс</text></cit>
 </sense>
 </entry>
 </superEntry>

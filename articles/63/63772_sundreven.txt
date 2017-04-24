@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">sundreven</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> изодранный в клочья
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изодранный в клочья</text></cit>
 </sense>
 </entry>
 </superEntry>

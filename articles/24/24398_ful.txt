@@ -5,14 +5,14 @@
 <form>
 <orth type="lemma">ful</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-некрасивый (о поведении), гадкий, отвратительный, мерзкий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>некрасивый (о поведении), гадкий, отвратительный, мерзкий</text></cit>
 </sense>
 <sense>
-<u>диал.</u> хитрый, лукавый
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хитрый, лукавый</text></cit>
 </sense>
 </entry>
 </superEntry>

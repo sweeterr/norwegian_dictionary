@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">elektrokardiogram</orth>
 <inflection><orth extent="part">-met, -mer</orth></inflection>
-<u>мед.</u> электрокардиограмма
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электрокардиограмма</text></cit>
 </sense>
 </entry>
 </superEntry>

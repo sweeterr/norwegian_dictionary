@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bartholomeusnatten</orth>
 <gramGrp><pos>inv</pos></gramGrp>
-<u>ист.</u> Варфоломеевская ночь
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>Варфоломеевская ночь</text></cit>
 </sense>
 </entry>
 </superEntry>

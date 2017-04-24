@@ -5,21 +5,20 @@
 <form>
 <orth type="lemma">grå</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-tt</orth></inflection>
 </form>
 <sense>
-серый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>серый</text></cit>
 </sense>
 <sense>
-седой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>седой</text></cit>
 <сit type="example"><text>bli grå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поседеть</text></cit></cit>
 </sense>
 <sense>
-пасмурный, хмурый (о дне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пасмурный, хмурый (о дне)</text></cit>
 </sense>
 <sense>
-унылый, бесцветный, монотонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>унылый, бесцветный, монотонный</text></cit>
 </sense>
 </entry>
 </superEntry>

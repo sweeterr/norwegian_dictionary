@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tor</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-слабый (небольшой) огонь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабый (небольшой) огонь</text></cit>
 </sense>
 <sense>
-охапка дро
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>охапка дро</text></cit>
 </sense>
 </entry>
 </superEntry>

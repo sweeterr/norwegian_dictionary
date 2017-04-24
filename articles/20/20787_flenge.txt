@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-щель, трещина, разрыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щель, трещина, разрыв</text></cit>
 </sense>
 <sense>
-прогалина (между облаками)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прогалина (между облаками)</text></cit>
 </sense>
 <sense>
-глубокая царапина, рана
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубокая царапина, рана</text></cit>
 </sense>
 <sense>
-рваный кусок, полоска (материи, кожи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рваный кусок, полоска (материи, кожи)</text></cit>
 <сit type="example"><text>i flenger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в (на) клочки</text></cit></cit>
 </sense>
 </entry>
@@ -25,7 +25,7 @@
 <form>
 <orth type="lemma">flenge</orth>
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
-рвать в клочья, разрывать, раздирать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рвать в клочья, разрывать, раздирать</text></cit>
 <сit type="example"><text>en flengende kritikk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уничтожающая критика</text></cit></cit>
 <сit type="example"><text>flenge av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отрывать, отдирать, резко срывать что-л.</text></cit></cit>
 </sense>

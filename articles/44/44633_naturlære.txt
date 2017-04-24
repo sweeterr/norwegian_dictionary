@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">naturlære</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u> естественная наука (о физике, химии и т. п.)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>естественная наука (о физике, химии и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

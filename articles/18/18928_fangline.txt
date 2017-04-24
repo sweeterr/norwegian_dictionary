@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">fangline</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> фалинь
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фалинь</text></cit>
 </sense>
 </entry>
 </superEntry>

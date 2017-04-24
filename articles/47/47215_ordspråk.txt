@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ordspråk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-пословица, поговорка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пословица, поговорка</text></cit>
 </sense>
 </entry>
 </superEntry>

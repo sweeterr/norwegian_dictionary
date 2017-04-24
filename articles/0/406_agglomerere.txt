@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">agglomerere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>геол.</u>, <u>тех.</u> агломерировать
+<usg>геол.</usg>
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агломерировать</text></cit>
 </sense>
 </entry>
 </superEntry>

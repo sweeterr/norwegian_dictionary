@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bøyningslære</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>лингв.</u> морфология
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морфология</text></cit>
 </sense>
 </entry>
 </superEntry>

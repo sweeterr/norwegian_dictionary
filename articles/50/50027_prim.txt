@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">prim</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-козий сыр (из сыворотки, производится в Норвегии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козий сыр (из сыворотки, производится в Норвегии)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">prim</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>разг.</u> вздор, чепуха
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вздор, чепуха</text></cit>
 </sense>
 </entry>
 </superEntry>

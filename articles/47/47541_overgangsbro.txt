@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">overgangsbro</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ж.-д.</u> виадук
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виадук</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -9,7 +9,7 @@
 <language>
 <idno type="iso639-3">rus</idno>
 </language>
-<quote>(детская) игрушка</quote>
+<text>(детская) игрушка</text>
 </cit>
 </sense>
 </entry>
@@ -20,21 +20,22 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-играть (в игры, игрушки)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>играть (в игры, игрушки)</text></cit>
 <сit type="example"><text>leke med dukker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в куклы</text></cit></cit>
 <сit type="example"><text>leke med én som katten med musen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> играть с кем-л. как кошка с мышью</text></cit></cit>
 </sense>
 <sense>
-флиртовать, кокетничать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>флиртовать, кокетничать</text></cit>
 </sense>
 <sense>
-переливаться, сверкать, играть красками
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>переливаться, сверкать, играть красками</text></cit>
 </sense>
 <sense>
-нереститься (о рыбах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нереститься (о рыбах)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> состязаться в чём-л., танцевать, играть (на струнном инструменте)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>состязаться в чём-л., танцевать, играть (на струнном инструменте)</text></cit>
 </sense>
 </entry>
 </superEntry>

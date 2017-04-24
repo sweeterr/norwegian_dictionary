@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basunledd</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>тех.</u> тромбонная согласующая секция
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тромбонная согласующая секция</text></cit>
 </sense>
 </entry>
 </superEntry>

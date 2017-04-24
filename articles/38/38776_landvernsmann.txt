@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">landvernsmann</orth>
 <inflection><orth extent="part">-mannen, -menn</orth></inflection>
-<u>воен.</u> <u>ист.</u> солдат ландверна (войск местной обороны)
+<usg>воен.</usg>
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солдат ландверна (войск местной обороны)</text></cit>
 </sense>
 </entry>
 </superEntry>

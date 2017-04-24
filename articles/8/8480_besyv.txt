@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-козырь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козырь</text></cit>
 <сit type="example"><text>det er mitt siste besyv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это мой последний козырь</text></cit></cit>
 </sense>
 <sense>
 <сit type = "example"><text>gi sitt besyv med:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>изложить своё мнение</text></cit></cit>
-<сit type = "example"><text>gi sitt besyv med:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><u>разг.</u> вставить и своё словечко</text></cit></cit>
+<сit type = "example"><text>gi sitt besyv med:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> вставить и своё словечко</text></cit></cit>
 <сit type="example"><text>han fikk sitt besyv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему высказали всю правду</text></cit></cit>
 </sense>
 </entry>

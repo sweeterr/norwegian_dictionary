@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-диета
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>диета</text></cit>
 <сit type="example"><text>holde diet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>соблюдать диету</text></cit></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-суточные (о деньгах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>суточные (о деньгах)</text></cit>
 </sense>
 </entry>
 </superEntry>

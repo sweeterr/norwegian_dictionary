@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -e</orth></inflection>
 </form>
 <sense>
-писатель-прозаик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>писатель-прозаик</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> рутинёр
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рутинёр</text></cit>
 </sense>
 </entry>
 </superEntry>

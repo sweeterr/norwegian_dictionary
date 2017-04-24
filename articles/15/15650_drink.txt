@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">drink</orth>
 <inflection><orth extent="part">-en, -s</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-коктейль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коктейль</text></cit>
 </sense>
 <sense>
-виски с содой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виски с содой</text></cit>
 </sense>
 </entry>
 </superEntry>

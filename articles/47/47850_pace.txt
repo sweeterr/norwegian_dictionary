@@ -6,7 +6,8 @@
 <orth type="lemma">pace</orth>
 <phon>|pε(i)s|</phon>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>спорт.</u> темп, скорость
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>темп, скорость</text></cit>
 <сit type="example"><text>gi pace</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>задавать темп</text></cit></cit>
 </sense>
 </entry>
@@ -18,10 +19,12 @@
 <inflection><orth extent="part">-et (-te), -et (-t)</orth></inflection>
 </form>
 <sense>
-<u>спорт.</u> задавать темп
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задавать темп</text></cit>
 </sense>
 <sense>
-<u>разг.</u> подгонять, поторапливать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подгонять, поторапливать</text></cit>
 </sense>
 </entry>
 </superEntry>

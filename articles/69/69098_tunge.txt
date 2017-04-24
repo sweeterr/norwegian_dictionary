@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-язык (орган)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык (орган)</text></cit>
 <сit type="example"><text>tungen er belagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>мед.</lbl> язык обложен</text></cit></cit>
 <сit type="example"><text>med tungen av halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>высунув язык</text></cit></cit>
 <сit type="example"><text>ha en fin tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь тонкий вкус</text></cit></cit>
@@ -15,7 +15,8 @@
 <сit type="example"><text>smekke med tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>щёлкать языком</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> язык (как средство общения)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык (как средство общения)</text></cit>
 <сit type="example"><text>dansk tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>древненорвежский язык</text></cit></cit>
 <сit type="example"><text>en spiss tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>острый язык</text></cit></cit>
 <сit type="example"><text>en svikefull tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>лживый язык; неискренние слова</text></cit></cit>
@@ -25,19 +26,19 @@
 <сit type="example"><text>være på ens tunge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не сходить с языка</text></cit></cit>
 </sense>
 <sense>
-язык пламени (северного сияния)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язык пламени (северного сияния)</text></cit>
 </sense>
 <sense>
-мыс, коса
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мыс, коса</text></cit>
 </sense>
 <sense>
-язычок, клинышек (ремешка и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>язычок, клинышек (ремешка и т. п.)</text></cit>
 </sense>
 <sense>
-остриё (меча, копья)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остриё (меча, копья)</text></cit>
 </sense>
 <sense>
-косорот, морской язык (рыба)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>косорот, морской язык (рыба)</text></cit>
 <сit type="example"><text>få tunga på gli(d)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распустить свой язык</text></cit></cit>
 <сit type="example"><text>holde tungen rett i munnen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сохранять хладнокровие (самообладание), говорить спокойно</text></cit></cit>
 <сit type="example"><text>løsne tungen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>развязывать язык (о спиртных напитках)</text></cit></cit>

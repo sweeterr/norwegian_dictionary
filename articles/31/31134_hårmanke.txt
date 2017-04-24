@@ -5,8 +5,9 @@
 <form>
 <orth type="lemma">hårmanke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-копна волос, очень пышные волосы
-<u>разг.</u> грива
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>копна волос, очень пышные волосы</text></cit>
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грива</text></cit>
 </sense>
 </entry>
 </superEntry>

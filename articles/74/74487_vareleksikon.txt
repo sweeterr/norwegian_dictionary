@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">vareleksikon</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-словарь коммерческих терминов
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>словарь коммерческих терминов</text></cit>
 </sense>
 </entry>
 </superEntry>

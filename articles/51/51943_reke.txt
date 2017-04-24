@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>зоол.</u> креветка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>креветка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">reke</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-совок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совок</text></cit>
 </sense>
 <sense>
-деревянная широкая лопата (для разгребания снега)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>деревянная широкая лопата (для разгребания снега)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -29,13 +30,13 @@
 <inflection><orth>rekte (rak, reket), rekt (reket)</orth></inflection>
 </form>
 <sense>
-бродить, слоняться, шататься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродить, слоняться, шататься</text></cit>
 </sense>
 <sense>
-болтаться на поверхности воды, носиться (по воде, воздуху)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>болтаться на поверхности воды, носиться (по воде, воздуху)</text></cit>
 </sense>
 <sense>
-гнать, преследовать (зверя)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнать, преследовать (зверя)</text></cit>
 <сit type="example"><text>reke bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>забрести куда-л., отбиться от стада</text></cit></cit>
 </sense>
 </entry>

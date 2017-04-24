@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">barysfære</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>геол.</u> барисфера
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>барисфера</text></cit>
 </sense>
 </entry>
 </superEntry>

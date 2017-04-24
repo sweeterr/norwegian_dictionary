@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">vindavstivning</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> ветровая связь, ветровой раскос (на висячих мостах)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветровая связь, ветровой раскос (на висячих мостах)</text></cit>
 </sense>
 </entry>
 </superEntry>

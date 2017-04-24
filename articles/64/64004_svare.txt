@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">svare</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u> громадный, огромный
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>громадный, огромный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,19 +16,20 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-отвечать (на что-л. - på, til), откликаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать (на что-л. - på, til), откликаться</text></cit>
 </sense>
 <sense>
-отвечать, нести ответственность (за что-л. - for)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отвечать, нести ответственность (за что-л. - for)</text></cit>
 </sense>
 <sense>
-платить (налог, пошлину, арендную плату), оплачивать (счёт)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платить (налог, пошлину, арендную плату), оплачивать (счёт)</text></cit>
 </sense>
 <sense>
-соответствовать (чему-л. - til)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соответствовать (чему-л. - til)</text></cit>
 </sense>
 <sense>
-<u>мор.</u> слушаться (руля)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слушаться (руля)</text></cit>
 </sense>
 </entry>
 </superEntry>

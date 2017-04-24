@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">saltfisk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-солёная рыба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>солёная рыба</text></cit>
 </sense>
 </entry>
 </superEntry>

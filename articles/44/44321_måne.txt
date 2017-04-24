@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-луна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>луна</text></cit>
 <сit type="example"><text>månen er full i aften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сегодня вечером полнолуние</text></cit></cit>
 <сit type="example"><text>månen er stått opp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>луна взошла</text></cit></cit>
 <сit type="example"><text>månen går ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>луна заходит</text></cit></cit>
@@ -18,10 +18,12 @@
 <сit type="example"><text>ved minkende måne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>при ущербной луне</text></cit></cit>
 </sense>
 <sense>
-<u>астр.</u> спутник
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спутник</text></cit>
 </sense>
 <sense>
-<u>разг.</u> лысина
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лысина</text></cit>
 </sense>
 </entry>
 </superEntry>

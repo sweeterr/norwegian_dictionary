@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">forankring</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-анкеровка, закрепление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анкеровка, закрепление</text></cit>
 </sense>
 <sense>
-анкерные связи стен
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>анкерные связи стен</text></cit>
 </sense>
 </entry>
 </superEntry>

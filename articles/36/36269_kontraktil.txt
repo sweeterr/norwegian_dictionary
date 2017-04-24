@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">kontraktil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>физ.</u> сжимающийся, сужающийся, сокращающийся (в объёме)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сжимающийся, сужающийся, сокращающийся (в объёме)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,14 +7,14 @@
 <inflection><orth extent="part">-en, =</orth></inflection>
 </form>
 <sense>
-недостаток (моральный, физический), изъян, порок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>недостаток (моральный, физический), изъян, порок</text></cit>
 <сit type="example"><text>jeg har en feil i hoften</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у меня болит поясница (бедро)</text></cit></cit>
 </sense>
 <sense>
-поломка, неисправность (механизма, машины)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поломка, неисправность (механизма, машины)</text></cit>
 </sense>
 <sense>
-ошибка, погрешность, промах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибка, погрешность, промах</text></cit>
 <сit type="example"><text>alminnelig feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>общая ошибка</text></cit></cit>
 <сit type="example"><text>begå en feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сделать (допустить) ошибку</text></cit></cit>
 <сit type="example"><text>rette en feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>исправить ошибку</text></cit></cit>
@@ -26,9 +26,8 @@
 <form>
 <orth type="lemma">feil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-ошибочный, неправильный, неверный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибочный, неправильный, неверный</text></cit>
 <сit type="example"><text>en feil nøkkel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не тот ключ</text></cit></cit>
 <сit type="example"><text>han gikk en feil vei</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>он пошёл не по той дороге</text></cit></cit>
 </sense>
@@ -38,7 +37,7 @@
 <form>
 <orth type="lemma">feil</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-неверно, неправильно, ошибочно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неверно, неправильно, ошибочно</text></cit>
 <сit type="example"><text>gå feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заблудиться</text></cit></cit>
 <сit type="example"><text>hugge feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>промахнуться, ударить мимо</text></cit></cit>
 <сit type="example"><text>høre feil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ослышаться</text></cit></cit>

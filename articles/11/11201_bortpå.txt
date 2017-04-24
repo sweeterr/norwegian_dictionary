@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bortpå</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-указывает на местонахождение предмета на расстоянии и на поверхности другого предмета далеко (на чём-л., в чём-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на местонахождение предмета на расстоянии и на поверхности другого предмета далеко (на чём-л., в чём-л.)</text></cit>
 <сit type="example"><text>bortpå sjøen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>далеко в море</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +14,7 @@
 <form>
 <orth type="lemma">bortpå</orth>
 <gramGrp><pos>prep</pos></gramGrp>
-указывает на отдалённое положение на поверхности другого предмета там на
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>указывает на отдалённое положение на поверхности другого предмета там на</text></cit>
 <сit type="example"><text>bortpå stolen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>там на стуле</text></cit></cit>
 </sense>
 </entry>

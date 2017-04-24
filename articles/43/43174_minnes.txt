@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">minnes</orth>
 <inflection><orth extent="part">-tes, -tes</orth></inflection>
-вспоминать, помнить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспоминать, помнить</text></cit>
 <сit type="example"><text>jeg min(ne)s</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я помню</text></cit></cit>
 </sense>
 </entry>

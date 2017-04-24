@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakkekjeks</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>бот.</u> горичник горный (Peucedanum oreaselinum)
+<usg>бот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>горичник горный (Peucedanum oreaselinum)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">bibringelse</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-сообщение (мнения, знаний)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сообщение (мнения, знаний)</text></cit>
 </sense>
 <sense>
-внушение (страха)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>внушение (страха)</text></cit>
 </sense>
 <sense>
-нанесение (раны и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нанесение (раны и т. д.)</text></cit>
 </sense>
 </entry>
 </superEntry>

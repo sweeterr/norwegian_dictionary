@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sentrifugalpumpe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>тех.</u> центробежный насос
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>центробежный насос</text></cit>
 </sense>
 </entry>
 </superEntry>

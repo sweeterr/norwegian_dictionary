@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">grandios</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-замечательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>замечательный</text></cit>
 </sense>
 <sense>
-величественный, грандиозный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>величественный, грандиозный</text></cit>
 </sense>
 </entry>
 </superEntry>

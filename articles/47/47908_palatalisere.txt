@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">palatalisere</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>фон.</u> палатализировать
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>палатализировать</text></cit>
 </sense>
 </entry>
 </superEntry>

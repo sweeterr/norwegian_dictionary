@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kjettingstropp</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мор.</u> цепной строп
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>цепной строп</text></cit>
 </sense>
 </entry>
 </superEntry>

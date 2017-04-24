@@ -5,17 +5,17 @@
 <form>
 <orth type="lemma">formløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-бесформенный, лишённый формы, хаотичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесформенный, лишённый формы, хаотичный</text></cit>
 </sense>
 <sense>
-<u>лингв.</u> аморфный
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>аморфный</text></cit>
 </sense>
 <sense>
-бесцеремонный, не соблюдающий приличий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцеремонный, не соблюдающий приличий</text></cit>
 </sense>
 </entry>
 </superEntry>

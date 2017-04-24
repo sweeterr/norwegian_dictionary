@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reverseringsarm</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> рычаг перемены хода
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рычаг перемены хода</text></cit>
 </sense>
 </entry>
 </superEntry>

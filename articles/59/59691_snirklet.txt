@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">snirklet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-в завитках, в росчерках
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в завитках, в росчерках</text></cit>
 </sense>
 <sense>
-витиеватый, вычурный (о стиле)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>витиеватый, вычурный (о стиле)</text></cit>
 </sense>
 </entry>
 </superEntry>

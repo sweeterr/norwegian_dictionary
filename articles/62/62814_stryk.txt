@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et (-en)</orth></inflection>
 </form>
 <sense>
-взбучка, нагоняй; порка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взбучка, нагоняй; порка</text></cit>
 </sense>
 <sense>
-мазок, прикосновение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мазок, прикосновение</text></cit>
 </sense>
 <sense>
-<u>школ.</u> провал на экзамене
+<usg>школ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>провал на экзамене</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">stryk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-порог (на реке), стремнина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порог (на реке), стремнина</text></cit>
 </sense>
 </entry>
 </superEntry>

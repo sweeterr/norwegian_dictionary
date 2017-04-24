@@ -4,16 +4,16 @@
 <index></index>
 <form>
 <orth type="lemma">smyge seg</orth>
-<inflection><orth>smøg (<u>диал.</u> smaug), smøget (smygt)</orth></inflection>
+<inflection><orth>smøg (<lbl>диал.</lbl> smaug), smøget (smygt)</orth></inflection>
 </form>
 <sense>
-красться, пробираться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>красться, пробираться</text></cit>
 </sense>
 <sense>
-вывернуться, уклониться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вывернуться, уклониться</text></cit>
 </sense>
 <sense>
-прижиматься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прижиматься</text></cit>
 </sense>
 </entry>
 </superEntry>

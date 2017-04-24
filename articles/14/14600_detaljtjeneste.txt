@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">detaljtjeneste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>мор.</u> корабельная служба, боевая часть
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корабельная служба, боевая часть</text></cit>
 </sense>
 </entry>
 </superEntry>

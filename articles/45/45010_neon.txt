@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">neon</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>хим.</u> неон (газ)
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неон (газ)</text></cit>
 </sense>
 </entry>
 </superEntry>

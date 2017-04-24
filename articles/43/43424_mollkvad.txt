@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mollkvad</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>поэт.</u> меланхолическая (грустная) песня
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>меланхолическая (грустная) песня</text></cit>
 </sense>
 </entry>
 </superEntry>

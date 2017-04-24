@@ -8,10 +8,10 @@
 </form>
 <sense>
 <gramGrp><pos>predic</pos></gramGrp>
- превосходный, высшего качества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходный, высшего качества</text></cit>
 </sense>
 <sense>
-добавочный, дополнительный, сверхурочный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>добавочный, дополнительный, сверхурочный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-чрезвычайно, сверх меры, особо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чрезвычайно, сверх меры, особо</text></cit>
 </sense>
 <sense>
-в придачу, дополнительно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в придачу, дополнительно</text></cit>
 <сit type="example"><text>gå ekstra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>уст.</lbl> иметь внебрачную связь</text></cit></cit>
 </sense>
 </entry>

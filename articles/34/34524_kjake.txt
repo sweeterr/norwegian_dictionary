@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjake</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-челюсть, скула
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>челюсть, скула</text></cit>
 </sense>
 <sense>
-щека
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щека</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">kjake</orth>
 <inflection><orth extent="part">-a (-te), -a (-t)</orth></inflection>
-<u>диал.</u> ругаться, пререкаться, ссориться
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ругаться, пререкаться, ссориться</text></cit>
 </sense>
 </entry>
 </superEntry>

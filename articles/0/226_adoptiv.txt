@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">adoptiv</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-приёмыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приёмыш</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">adoptiv</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-приёмный (о сыне, дочери)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приёмный (о сыне, дочери)</text></cit>
 </sense>
 </entry>
 </superEntry>

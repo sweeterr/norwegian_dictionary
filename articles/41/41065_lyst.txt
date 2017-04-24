@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-желание, охота, стремление, склонность, тяга (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>желание, охота, стремление, склонность, тяга (к чему-л.)</text></cit>
 <сit type="example"><text>få lyst til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>захотеть (сделать что-л.)</text></cit></cit>
 <сit type="example"><text>ha lyst til boken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>любить читать</text></cit></cit>
 <сit type="example"><text>ha lyst til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь охоту, стремиться (к чему-л.)</text></cit></cit>
@@ -16,13 +16,13 @@
 <сit type="example"><text>hvis De har lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>если вам угодно, если вы хотите</text></cit></cit>
 </sense>
 <sense>
-радость, удовольствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>радость, удовольствие</text></cit>
 <сit type="example"><text>av hjertens lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>от всего сердца</text></cit></cit>
 <сit type="example"><text>ei blott til lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не только ради удовольствия</text></cit></cit>
 <сit type="example"><text>med liv og lyst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с радостью, с охотой</text></cit></cit>
 </sense>
 <sense>
-источник радости, удовольствия
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>источник радости, удовольствия</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,16 +7,16 @@
 <inflection><orth extent="part">-get (-de), -get (-d)</orth></inflection>
 </form>
 <sense>
-пятиться задом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятиться задом</text></cit>
 </sense>
 <sense>
-отпрянуть (тж. rygge tilbake)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отпрянуть (тж. rygge tilbake)</text></cit>
 </sense>
 <sense>
-ехать задним ходом (об автомашине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать задним ходом (об автомашине)</text></cit>
 </sense>
 <sense>
-осаживать назад (о лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осаживать назад (о лошади)</text></cit>
 <сit type="example"><text>rygge inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>въезжать задним ходом</text></cit></cit>
 <сit type="example"><text>rygge ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выезжать задним ходом</text></cit></cit>
 </sense>
@@ -26,7 +26,7 @@
 <form>
 <orth type="lemma">rygge</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-тащить, волочить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тащить, волочить</text></cit>
 </sense>
 </entry>
 </superEntry>

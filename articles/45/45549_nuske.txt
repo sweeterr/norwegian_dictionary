@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">nuske</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-вынюхивать, разнюхивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вынюхивать, разнюхивать</text></cit>
 </sense>
 <sense>
-выискивать, подкарауливать (кого-л. - о животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выискивать, подкарауливать (кого-л. - о животных)</text></cit>
 </sense>
 <sense>
-возиться с чем-л., трудиться над чем-л., быть занятым (какой-л. работой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возиться с чем-л., трудиться над чем-л., быть занятым (какой-л. работой)</text></cit>
 <сit type="example"><text>nuske unna</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спрятать, запрятать</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">huske</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-качели
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качели</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,10 @@
 <inflection><orth>husket (husk), husket</orth></inflection>
 </form>
 <sense>
-качать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качать</text></cit>
 </sense>
 <sense>
-качаться, раскачиваться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>качаться, раскачиваться</text></cit>
 <сit type="example"><text>så det husk etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вихрем</text></cit></cit>
 </sense>
 </entry>
@@ -27,7 +27,7 @@
 <form>
 <orth type="lemma">huske</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-вспоминать, помнить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вспоминать, помнить</text></cit>
 <сit type="example"><text>huske på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вспомнить о чём-л.</text></cit></cit>
 <сit type="example"><text>husk vel på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>помни хорошенько</text></cit></cit>
 <сit type="example"><text>huske én noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>припомнить кому-л. что-л.</text></cit></cit>

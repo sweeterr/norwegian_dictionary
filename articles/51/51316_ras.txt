@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-обвал, оползень, лавина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвал, оползень, лавина</text></cit>
 </sense>
 <sense>
-место (участок), где произошёл обвал и т. п.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место (участок), где произошёл обвал и т. п.</text></cit>
 </sense>
 <sense>
-водоворот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водоворот</text></cit>
 </sense>
 <sense>
-шквал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шквал</text></cit>
 </sense>
 <sense>
-<u>перен.</u> буйство, припадок
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буйство, припадок</text></cit>
 </sense>
 </entry>
 <entry>
@@ -27,7 +28,8 @@
 <form>
 <orth type="lemma">ras</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u> рыбья чешуя
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыбья чешуя</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cedent</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>юр.</u> передатчик; лицо, передающее права на что-л.
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передатчик; лицо, передающее права на что-л.</text></cit>
 </sense>
 </entry>
 </superEntry>

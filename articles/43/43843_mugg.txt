@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">mugg</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-пике, саржа, диагональ
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пике, саржа, диагональ</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">mugg</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-плесень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плесень</text></cit>
 <сit type="example"><text>sette mugg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>плесневеть</text></cit></cit>
 </sense>
 </entry>

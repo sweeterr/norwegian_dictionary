@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">selvlyd</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>фон.</u> гласный звук
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гласный звук</text></cit>
 </sense>
 </entry>
 </superEntry>

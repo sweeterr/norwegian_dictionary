@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">total</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полный, общий
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полный, общий</text></cit>
 </sense>
 <sense>
-тотальный (о войне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тотальный (о войне)</text></cit>
 </sense>
 <sense>
-тоталитарный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тоталитарный</text></cit>
 </sense>
 </entry>
 </superEntry>

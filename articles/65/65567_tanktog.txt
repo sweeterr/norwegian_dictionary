@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tanktog</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>ж.-д.</u> поезд с вагонами-цистернами
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поезд с вагонами-цистернами</text></cit>
 </sense>
 </entry>
 </superEntry>

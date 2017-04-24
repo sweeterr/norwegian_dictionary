@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">lufttrykk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>физ.</u>
+<usg>физ.</usg>
 </form>
 <sense>
-атмосферное давление
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атмосферное давление</text></cit>
 </sense>
 <sense>
-давление воздуха (в баллоне, приборе и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давление воздуха (в баллоне, приборе и т. п.)</text></cit>
 </sense>
 </entry>
 </superEntry>

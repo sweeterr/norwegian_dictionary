@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-миг, мгновение, момент, небольшой промежуток времени
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>миг, мгновение, момент, небольшой промежуток времени</text></cit>
 <сit type="example"><text>en god stund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>довольно долго</text></cit></cit>
 <сit type="example"><text>en liten stund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>минутка, мгновение</text></cit></cit>
 <сit type="example"><text>i (den) samme stund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в тот же миг, в то же мгновение</text></cit></cit>
@@ -20,7 +20,7 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-время, период (жизни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>время, период (жизни)</text></cit>
 <сit type="example"><text>mellom tid og stunder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иногда, временами</text></cit></cit>
 <сit type="example"><text>med tid og stunder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>постепенно, понемногу</text></cit></cit>
 <сit type="example"><text>gi seg stunder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать время прийти в себя</text></cit></cit>

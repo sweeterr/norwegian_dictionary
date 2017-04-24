@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">agglomerat</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-<u>геол.</u>, <u>тех.</u> агломерат
+<usg>геол.</usg>
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>агломерат</text></cit>
 </sense>
 </entry>
 </superEntry>

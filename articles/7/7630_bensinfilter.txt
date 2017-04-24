@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bensinfilter</orth>
 <inflection><orth extent="part">-(e)ret, -rer</orth></inflection>
-<u>тех.</u> бензиновый фильтр
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бензиновый фильтр</text></cit>
 </sense>
 </entry>
 </superEntry>

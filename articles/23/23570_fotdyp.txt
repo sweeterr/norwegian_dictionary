@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">fotdyp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-глубиной в один фут
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глубиной в один фут</text></cit>
 </sense>
 </entry>
 </superEntry>

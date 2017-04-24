@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veil</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-треснувший, потрескавшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>треснувший, потрескавшийся</text></cit>
 </sense>
 <sense>
-изрытый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>изрытый</text></cit>
 </sense>
 </entry>
 </superEntry>

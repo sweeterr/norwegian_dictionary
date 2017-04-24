@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">gullmedalje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-золотая медаль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>золотая медаль</text></cit>
 <сit type="example"><text>tildele en gullmedalje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наградить золотой медалью</text></cit></cit>
 <сit type="example"><text>til den store gullmedalje</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>непомерно</text></cit></cit>
 </sense>

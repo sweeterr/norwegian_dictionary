@@ -6,7 +6,7 @@
 <orth type="lemma">si</orth>
 <gramGrp><pos>pron</pos></gramGrp>
 <gramGrp><gender>f</gender><note>от sin, обычно стоит после сущ.</note></gramGrp>
-своя
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>своя</text></cit>
 </sense>
 </entry>
 <entry>
@@ -16,7 +16,7 @@
 <inflection><orth>sa, sagt</orth></inflection>
 </form>
 <sense>
-говорить, сказать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>говорить, сказать</text></cit>
 <сit type="example"><text>det er lett å si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>легко сказать</text></cit></cit>
 <сit type="example"><text>det sier seg (av seg) selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>это само собой разумеется</text></cit></cit>
 <сit type="example"><text>jeg har hørt si</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>я слышал, до меня дошли слухи</text></cit></cit>
@@ -36,13 +36,13 @@
 <сit type="example"><text>si til seg selv</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить (бормотать) про себя</text></cit></cit>
 </sense>
 <sense>
-произносить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произносить</text></cit>
 </sense>
 <sense>
-декламировать, рассказывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>декламировать, рассказывать</text></cit>
 </sense>
 <sense>
-утверждать, воздавать звуки, мяукать, блеять и т. п. (о различных животных)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утверждать, воздавать звуки, мяукать, блеять и т. п. (о различных животных)</text></cit>
 <сit type="example"><text>si noe bort</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассказывать, разбалтывать (что-л.)</text></cit></cit>
 <сit type="example"><text>si etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повторять</text></cit></cit>
 <сit type="example"><text>si fra</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выложить всю правду, высказать своё мнение</text></cit></cit>
@@ -51,7 +51,7 @@
 <сit type="example"><text>si (i)mot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>возражать</text></cit></cit>
 <сit type="example"><text>si om igjen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>повторять, говорить ещё раз</text></cit></cit>
 <сit type = "example"><text>si opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> отказаться от чего-л., прекратить</text></cit></cit>
-<сit type = "example"><text>si opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> увольнять</text></cit></cit>
+<сit type = "example"><text>si opp :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> увольнять</text></cit></cit>
 <сit type="example"><text>si én til</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предупреждать кого-л.</text></cit></cit>
 </sense>
 </entry>

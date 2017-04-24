@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sint</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-сердитый, злой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердитый, злой</text></cit>
 <сit type="example"><text>bli sint</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассердиться</text></cit></cit>
 <сit type="example"><text>bli flyende sint</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассвирепеть</text></cit></cit>
 </sense>

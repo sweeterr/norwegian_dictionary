@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">livfull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-живой, подвижный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>живой, подвижный</text></cit>
 </sense>
 <sense>
-оживлённый, полный жизни
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оживлённый, полный жизни</text></cit>
 </sense>
 <sense>
-яркий, красочный (о картине)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>яркий, красочный (о картине)</text></cit>
 </sense>
 </entry>
 </superEntry>

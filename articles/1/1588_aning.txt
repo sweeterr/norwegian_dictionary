@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">aning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-предчувствие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>предчувствие</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">aning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-лёгкий ветер, ветерок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий ветер, ветерок</text></cit>
 </sense>
 </entry>
 </superEntry>

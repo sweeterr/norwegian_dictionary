@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dulle</orth>
 <inflection><orth extent="part">-a, -er</orth></inflection>
-<u>разг.</u> толстуха
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толстуха</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,16 +14,16 @@
 <form>
 <orth type="lemma">dulle</orth>
 <inflection><orth extent="part">-a (-et), -a (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-бежать мелкой рысью, трусить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бежать мелкой рысью, трусить</text></cit>
 </sense>
 <sense>
-перебирать в пальцах что-л.
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перебирать в пальцах что-л.</text></cit>
 </sense>
 <sense>
-возиться, носиться (с чем-л. - med noe, с кем-л. - от én)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>возиться, носиться (с чем-л. - med noe, с кем-л. - от én)</text></cit>
 </sense>
 </entry>
 </superEntry>

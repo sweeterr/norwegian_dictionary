@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hymne</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-гимн
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гимн</text></cit>
 </sense>
 </entry>
 </superEntry>

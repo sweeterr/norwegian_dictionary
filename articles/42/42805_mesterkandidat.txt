@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mesterkandidat</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>шахм.</u> кандидат в мастера
+<usg>шахм.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кандидат в мастера</text></cit>
 </sense>
 </entry>
 </superEntry>

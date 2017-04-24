@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">neptunium</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>хим.</u> нептуний (радиоактивный элемент)
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нептуний (радиоактивный элемент)</text></cit>
 </sense>
 </entry>
 </superEntry>

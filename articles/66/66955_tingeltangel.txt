@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-шум, трезвон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, трезвон</text></cit>
 </sense>
 <sense>
-пустая болтовня
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пустая болтовня</text></cit>
 </sense>
 <sense>
-<u>уст.</u> кафешантан
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кафешантан</text></cit>
 </sense>
 </entry>
 </superEntry>

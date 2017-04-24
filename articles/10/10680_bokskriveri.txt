@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bokskriveri</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>презр.</u> бумагомарательство
+<usg>презр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бумагомарательство</text></cit>
 </sense>
 </entry>
 </superEntry>

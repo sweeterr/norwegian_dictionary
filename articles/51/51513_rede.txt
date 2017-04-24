@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-n</orth></inflection>
 </form>
 <sense>
-знакомство (с чем-л.), знание (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знакомство (с чем-л.), знание (чего-л.)</text></cit>
 <сit type="example"><text>få rede på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>(раз)узнать, разведать</text></cit></cit>
 <сit type="example"><text>få (finne) rede i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разобраться в чём-л., уяснить себе</text></cit></cit>
 </sense>
 <sense>
-отчёт, разъяснение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отчёт, разъяснение</text></cit>
 <сit type="example"><text>gjøre rede for</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отдавать отчёт</text></cit></cit>
 <сit type="example"><text>gjøre rede for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нести ответственность, держать ответ</text></cit></cit>
 <сit type="example"><text>gjøre rede og riktighet for seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>рассчитываться с кем-л.</text></cit></cit>
@@ -24,11 +24,12 @@
 <сit type="example"><text>vite rede på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь представление о чём-л., разбираться в чём-л.</text></cit></cit>
 </sense>
 <sense>
-порядок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порядок</text></cit>
 <сit type="example"><text>bringe rede i noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навести порядок в чём-л.</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> готовность, подготовленность
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готовность, подготовленность</text></cit>
 <сit type = "example"><text>stå (være) til rede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть готовым к чему-л.</text></cit></cit>
 <сit type = "example"><text>stå (være) til rede :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть в распоряжении кого-л.</text></cit></cit>
 </sense>
@@ -40,12 +41,14 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-<u>уст.</u> гнездо
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнездо</text></cit>
 <сit type="example"><text>bygge et rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вить гнездо</text></cit></cit>
 <сit type="example"><text>ligge på rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на яйцах, высиживать птенцов</text></cit></cit>
 </sense>
 <sense>
-<u>разг.</u> дом, домашний очаг
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дом, домашний очаг</text></cit>
 </sense>
 </entry>
 <entry>
@@ -53,7 +56,7 @@
 <form>
 <orth type="lemma">rede</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-готовый, подготовившийся (к чему-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>готовый, подготовившийся (к чему-л.)</text></cit>
 <сit type="example"><text>med rede penger</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наличными деньгами</text></cit></cit>
 <сit type="example"><text>ha noe på rede hånd</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь что-л. наготове (под рукой)</text></cit></cit>
 <сit type="example"><text>være rede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть готовым</text></cit></cit>
@@ -66,23 +69,25 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-стелить постель
-<сit type="example"><text>som man reder, så ligger man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> как постелешь, так и поспишь; что посеешь, то и пожнёшь (см. тж. re)</text></cit></cit>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>стелить постель</text></cit>
+<сit type="example"><text>som man reder, så ligger man</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>посл.</lbl> как постелешь, так и поспишь; что посеешь, то и пожнёшь (<ref>re</ref>)</text></cit></cit>
 </sense>
 <sense>
-выкапывать (о картофеле, овощах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выкапывать (о картофеле, овощах)</text></cit>
 </sense>
 <sense>
-уяснить, выяснить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уяснить, выяснить</text></cit>
 </sense>
 <sense>
-выпутаться (из затруднительного положения; тж. rede seg ut)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выпутаться (из затруднительного положения; тж. rede seg ut)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> расчёсывать (волосы, бороду)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>расчёсывать (волосы, бороду)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> платить (тж. rede ut)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>платить (тж. rede ut)</text></cit>
 <сit type="example"><text>rede ut</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объяснить</text></cit></cit>
 </sense>
 </entry>

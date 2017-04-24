@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">skrueblad</orth>
 <inflection><orth extent="part">-et, = (-er)</orth></inflection>
-<u>ав.</u>, <u>мор.</u> лопасть (воздушного, гребного) винта
+<usg>ав.</usg>
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лопасть (воздушного, гребного) винта</text></cit>
 </sense>
 </entry>
 </superEntry>

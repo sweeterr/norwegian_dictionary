@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">angerløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-не чувствующий раскаяния
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не чувствующий раскаяния</text></cit>
 </sense>
 <sense>
-беззаботный, спокойный, уверенный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беззаботный, спокойный, уверенный</text></cit>
 <сit type="example"><text>du kan være angerløs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ты можешь быть спокоен</text></cit></cit>
 </sense>
 </entry>

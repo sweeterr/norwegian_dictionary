@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">våg</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-небольшой залив, бухта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небольшой залив, бухта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">våg</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u> гной
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гной</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +24,12 @@
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
 </form>
 <sense>
-<u>диал.</u> <u>уст.</u> вог (единица веса = 18 кг)
+<usg>диал.</usg>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вог (единица веса = 18 кг)</text></cit>
 </sense>
 <sense>
-рычаг, вага
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рычаг, вага</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +37,7 @@
 <form>
 <orth type="lemma">våg</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-риск
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>риск</text></cit>
 <сit type="example"><text>på våg og vinne (von)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>на авось, наобум, наудачу</text></cit></cit>
 </sense>
 </entry>

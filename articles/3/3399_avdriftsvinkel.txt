@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">avdriftsvinkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>мор.</u>, <u>ав.</u> угол сноса
+<usg>мор.</usg>
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>угол сноса</text></cit>
 </sense>
 </entry>
 </superEntry>

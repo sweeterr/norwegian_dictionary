@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">tirle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-давать трели, смеяться переливчато
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>давать трели, смеяться переливчато</text></cit>
 </sense>
 <sense>
-звенеть, заливаться (о колокольчиках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звенеть, заливаться (о колокольчиках)</text></cit>
 </sense>
 </entry>
 </superEntry>

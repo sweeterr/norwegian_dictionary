@@ -7,19 +7,20 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-парта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>парта</text></cit>
 </sense>
 <sense>
-пульт, пюпитр
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пульт, пюпитр</text></cit>
 </sense>
 <sense>
-конторка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конторка</text></cit>
 </sense>
 <sense>
-бюро (с откидной крышкой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бюро (с откидной крышкой)</text></cit>
 </sense>
 <sense>
-<u>церк.</u> кафедра проповедника
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кафедра проповедника</text></cit>
 </sense>
 </entry>
 </superEntry>

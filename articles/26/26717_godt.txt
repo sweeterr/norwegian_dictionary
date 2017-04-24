@@ -6,13 +6,13 @@
 <orth type="lemma">godt</orth>
 <phon>|got:|</phon>
 <gramGrp><pos>adv</pos></gramGrp>
- <inflection><orth>(komp bedre, supert best)</orth></inflection>
-хорошо
+<inflection><orth>(komp bedre, supert best)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо</text></cit>
 <сit type = "example"><text>godt og vel :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> свыше</text></cit></cit>
 <сit type = "example"><text>godt og vel :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> по меньшей мере</text></cit></cit>
 <сit type="example"><text>det var godt og vel 40 elever til stede</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>налицо было свыше 40 учащихся</text></cit></cit>
 <сit type = "example"><text>det har han godt av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> это ему на пользу</text></cit></cit>
-<сit type = "example"><text>det har han godt av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>разг.</u> так ему и надо</text></cit></cit>
+<сit type = "example"><text>det har han godt av :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>разг.</lbl> так ему и надо</text></cit></cit>
 <сit type="example"><text>det var godt sagt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо сказано</text></cit></cit>
 <сit type="example"><text>for godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>навсегда, всерьёз и надолго</text></cit></cit>
 <сit type="example"><text>få godt av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>воспользоваться</text></cit></cit>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ramn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. ramloft
+<usg>диал.</usg>
+<ref>ramloft</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">ramn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> ворон
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ворон</text></cit>
 </sense>
 </entry>
 </superEntry>

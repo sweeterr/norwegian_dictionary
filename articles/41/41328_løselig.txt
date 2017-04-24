@@ -7,10 +7,10 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-растворимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растворимый</text></cit>
 </sense>
 <sense>
-разрешимый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разрешимый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,10 +20,11 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-небрежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>небрежный</text></cit>
 </sense>
 <sense>
-<u>уст.</u> поверхностный, мало обоснованный
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поверхностный, мало обоснованный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en (-a)</orth></inflection>
 </form>
 <sense>
-заграждение, преграда
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заграждение, преграда</text></cit>
 </sense>
 <sense>
-арест (на вклад в банке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>арест (на вклад в банке)</text></cit>
 </sense>
 <sense>
-<u>эл.</u> блокировка
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блокировка</text></cit>
 </sense>
 </entry>
 </superEntry>

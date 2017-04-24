@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">cellevev</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>биол.</u> клеточная ткань, клетчатка
+<usg>биол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клеточная ткань, клетчатка</text></cit>
 </sense>
 </entry>
 </superEntry>

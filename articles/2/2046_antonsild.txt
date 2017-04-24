@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">antonsild</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мед.</u> антонов огонь, гангрена
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>антонов огонь, гангрена</text></cit>
 </sense>
 </entry>
 </superEntry>

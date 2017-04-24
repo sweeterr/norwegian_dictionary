@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-благодарность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>благодарность</text></cit>
 <сit type="example"><text>takk!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>благодарю!, спасибо!</text></cit></cit>
 <сit type="example"><text>min forbindtligste takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>моя нижайшая благодарность</text></cit></cit>
 <сit type="example"><text>rette én varm takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передать сердечную благодарность</text></cit></cit>
@@ -15,11 +15,11 @@
 <сit type="example"><text>ta til takke med noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>принять с благодарностью что-л.</text></cit></cit>
 </sense>
 <sense>
-вознаграждение, <u>перен.</u> отплата (за что-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вознаграждение, <lbl>перен.</lbl> отплата (за что-л.)</text></cit>
 <сit type="example"><text>til takk for noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в отместку за что-л.</text></cit></cit>
 </sense>
 <sense>
-спасибо
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>спасибо</text></cit>
 <сit type="example"><text>jo, takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>да, спасибо</text></cit></cit>
 <сit type="example"><text>nei, takk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нет, спасибо</text></cit></cit>
 <сit type="example"><text>takk for i dag (i aften, sist)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>спасибо за всё</text></cit></cit>
@@ -39,13 +39,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-зубец, зазубрина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зубец, зазубрина</text></cit>
 </sense>
 <sense>
-ветвь (рогов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ветвь (рогов)</text></cit>
 </sense>
 <sense>
-остроконечный горный пик
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>остроконечный горный пик</text></cit>
 </sense>
 </entry>
 </superEntry>

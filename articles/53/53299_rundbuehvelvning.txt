@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rundbuehvelvning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>архит.</u> полукруглый свод
+<usg>архит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полукруглый свод</text></cit>
 </sense>
 </entry>
 </superEntry>

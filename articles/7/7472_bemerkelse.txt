@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-значение, вес, влияние
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>значение, вес, влияние</text></cit>
 </sense>
 <sense>
-<u>уст.</u> смысл, значение
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>смысл, значение</text></cit>
 </sense>
 </entry>
 </superEntry>

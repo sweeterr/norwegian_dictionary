@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ildebrann</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-пожар
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пожар</text></cit>
 <сit type="example"><text>anstifte ildebrann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>устроить пожар</text></cit></cit>
 <сit type="example"><text>i går hadde vi sånær fått en ildebrann</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вчера мы чуть было не сгорели</text></cit></cit>
 </sense>

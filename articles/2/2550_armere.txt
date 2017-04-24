@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-вооружать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вооружать</text></cit>
 </sense>
 <sense>
-<u>воен.</u> вставлять взрыватель (в мину, торпеду и т. д.)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вставлять взрыватель (в мину, торпеду и т. д.)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> усиливать, армировать (балки)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>усиливать, армировать (балки)</text></cit>
 </sense>
 </entry>
 </superEntry>

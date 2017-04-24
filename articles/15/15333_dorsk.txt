@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">dorsk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-тупой, глупый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тупой, глупый</text></cit>
 </sense>
 <sense>
-ленивый, инертный, апатичный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ленивый, инертный, апатичный</text></cit>
 </sense>
 </entry>
 </superEntry>

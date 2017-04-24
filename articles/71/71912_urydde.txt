@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">urydde</orth>
 <inflection><orth extent="part">-t (-n)</orth></inflection>
-<u>разг.</u> беспорядок, хаос, неразбериха, сумятица
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспорядок, хаос, неразбериха, сумятица</text></cit>
 <сit type="example"><text>være i et urydde</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть (находиться) в беспорядке</text></cit></cit>
 </sense>
 </entry>
@@ -14,7 +15,8 @@
 <form>
 <orth type="lemma">urydde</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> приводить в беспорядок
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>приводить в беспорядок</text></cit>
 </sense>
 </entry>
 </superEntry>

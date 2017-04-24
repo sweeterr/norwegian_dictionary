@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dønn</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-гул, шум
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гул, шум</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">dønn</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>разг.</u> совершенно, полностью, определённо, целиком
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершенно, полностью, определённо, целиком</text></cit>
 </sense>
 </entry>
 </superEntry>

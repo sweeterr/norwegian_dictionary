@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">skambite</orth>
 <inflection><orth extent="part">-be(i)t, -bitt</orth></inflection>
-сильно искусать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сильно искусать</text></cit>
 <сit type="example"><text>være skambitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть сильно искусанным</text></cit></cit>
 </sense>
 </entry>

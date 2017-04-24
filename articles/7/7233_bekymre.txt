@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bekymre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-огорчать, заботить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огорчать, заботить</text></cit>
 <сit type = "example"><text>være bekymret :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> беспокоиться (о ком, чём-л. - over)</text></cit></cit>
 <сit type = "example"><text>være bekymret :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть озабоченным (чем-л. - over)</text></cit></cit>
 <сit type="example"><text>vær ikke bekymret!</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>не беспокойся!</text></cit></cit>

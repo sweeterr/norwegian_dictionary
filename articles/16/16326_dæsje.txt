@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dæsje</orth>
 <inflection><orth extent="part">-er (-a), -et (-a)</orth></inflection>
-<u>разг.</u> бить кулаком
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить кулаком</text></cit>
 </sense>
 </entry>
 </superEntry>

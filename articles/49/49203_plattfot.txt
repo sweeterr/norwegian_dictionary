@@ -7,11 +7,13 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-<u>мед.</u> плоскостопие, плоская стопа
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плоскостопие, плоская стопа</text></cit>
 <сit type="example"><text>være plattfot</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь плоскую стопу (плоскостопие)</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> вахта (с 16 до 20 часов)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вахта (с 16 до 20 часов)</text></cit>
 </sense>
 </entry>
 </superEntry>

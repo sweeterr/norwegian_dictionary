@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forpostavdeling</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>воен.</u> передовое подразделение (передовая часть); подразделение охранения
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>передовое подразделение (передовая часть); подразделение охранения</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,21 +7,24 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-лампа, лампочка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лампа, лампочка</text></cit>
 <сit type="example"><text>skrue lampen ned</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завернуть фитиль (лампы)</text></cit></cit>
 <сit type="example"><text>slukke (tenne) lampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>погасить (зажечь) лампу</text></cit></cit>
 </sense>
 <sense>
-иллюминационный фонарь (из цветного стекла, бумаги и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иллюминационный фонарь (из цветного стекла, бумаги и т. п.)</text></cit>
 </sense>
 <sense>
-<u>радио</u> электронная лампа
+<usg>радио</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электронная лампа</text></cit>
 </sense>
 <sense>
-<u>тех.</u> паяльная лампа
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>паяльная лампа</text></cit>
 </sense>
 <sense>
-<u>эл.</u> электролампа, дуговая лампа
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электролампа, дуговая лампа</text></cit>
 <сit type="example"><text>ha bluss (olje) på lampen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> быть навеселе</text></cit></cit>
 </sense>
 </entry>

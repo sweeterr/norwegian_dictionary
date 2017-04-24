@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
 </form>
 <sense>
-ручная грузовая тележка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ручная грузовая тележка</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> багажная тележка, самоходная тележка, автокара, электрокара
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багажная тележка, самоходная тележка, автокара, электрокара</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> автодрезина, ручная дрезина
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>автодрезина, ручная дрезина</text></cit>
 </sense>
 </entry>
 <entry>
@@ -23,10 +25,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-петь, напевать без слов (тж. tralle på)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петь, напевать без слов (тж. tralle på)</text></cit>
 </sense>
 <sense>
-чирикать, щебетать (о птицах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чирикать, щебетать (о птицах)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -34,7 +36,8 @@
 <form>
 <orth type="lemma">tralle</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> везти (ехать) на грузовой тележке
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>везти (ехать) на грузовой тележке</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rost</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-трудный участок дороги
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудный участок дороги</text></cit>
 </sense>
 <sense>
-прибой, пенный гребень на волне
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибой, пенный гребень на волне</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">rost</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> конёк (крыши)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конёк (крыши)</text></cit>
 </sense>
 </entry>
 </superEntry>

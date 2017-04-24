@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-похороны, захоронение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>похороны, захоронение</text></cit>
 <сit type="example"><text>en stor begravelse</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>торжественные многолюдные похороны</text></cit></cit>
 </sense>
 <sense>
-<u>уст.</u> место захоронения, кладбище
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>место захоронения, кладбище</text></cit>
 </sense>
 </entry>
 </superEntry>

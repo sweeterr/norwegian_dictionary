@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">blåblek</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мертвенно-бледный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мертвенно-бледный</text></cit>
 </sense>
 <sense>
-бесцветный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бесцветный</text></cit>
 </sense>
 </entry>
 </superEntry>

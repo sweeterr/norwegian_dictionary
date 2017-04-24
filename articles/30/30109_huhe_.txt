@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">huhe!</orth>
 <gramGrp><pos>int</pos></gramGrp>
-скорей!
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скорей!</text></cit>
 </sense>
 </entry>
 </superEntry>

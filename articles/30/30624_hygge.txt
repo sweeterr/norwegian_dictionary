@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">hygge</orth>
 <inflection><orth extent="part">-en (-a)</orth></inflection>
-уют, удобство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уют, удобство</text></cit>
 <сit type="example"><text>ha hygge av én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>испытывать удовольствие, находясь в чьём-л. обществе</text></cit></cit>
 <сit type="example"><text>være til hygge</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вносить уют своим присутствием (о человеке)</text></cit></cit>
 </sense>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">hygge</orth>
 <inflection><orth extent="part">-de (-get), -d (-get)</orth></inflection>
-создавать уют
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>создавать уют</text></cit>
 <сit type="example"><text>hygge for én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заботиться о ком-л.</text></cit></cit>
 <сit type="example"><text>hygge om én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ухаживать за кем-л.</text></cit></cit>
 <сit type="example"><text>hygge seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>наслаждаться, чувствовать себя превосходно (где-л.)</text></cit></cit>

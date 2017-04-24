@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ekspansjonsbøyning</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> температурный компенсатор, дуговая расширительная труба (в паропроводе)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>температурный компенсатор, дуговая расширительная труба (в паропроводе)</text></cit>
 </sense>
 </entry>
 </superEntry>

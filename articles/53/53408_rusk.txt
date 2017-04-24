@@ -7,13 +7,13 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-озорник, мальчишка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>озорник, мальчишка</text></cit>
 </sense>
 <sense>
-верзила
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верзила</text></cit>
 </sense>
 <sense>
-экземпляр, представитель
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>экземпляр, представитель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +21,7 @@
 <form>
 <orth type="lemma">rusk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-дождливая и ветреная погода, изморось
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дождливая и ветреная погода, изморось</text></cit>
 </sense>
 </entry>
 <entry>
@@ -31,10 +31,10 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-отбросы, хлам, мусор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отбросы, хлам, мусор</text></cit>
 </sense>
 <sense>
-пылинка, крошка, частица (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пылинка, крошка, частица (чего-л.)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -42,9 +42,9 @@
 <form>
 <orth type="lemma">rusk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <gramGrp><pos>predic</pos></gramGrp>
-<u>разг.</u> сумасшедший, свихнувшийся, спятивший
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сумасшедший, свихнувшийся, спятивший</text></cit>
 </sense>
 </entry>
 </superEntry>

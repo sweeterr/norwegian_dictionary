@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">værkart</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>метеор.</u> синоптическая карта, карта погоды
+<usg>метеор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>синоптическая карта, карта погоды</text></cit>
 </sense>
 </entry>
 </superEntry>

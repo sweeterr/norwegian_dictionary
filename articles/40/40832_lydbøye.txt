@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lydbøye</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>мор.</u> буй-ревун
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>буй-ревун</text></cit>
 </sense>
 </entry>
 </superEntry>

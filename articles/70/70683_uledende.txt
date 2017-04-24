@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">uledende</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>физ.</u>
+<usg>физ.</usg>
 </form>
 <sense>
-нетеплопроводный, теплоизоляционный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нетеплопроводный, теплоизоляционный</text></cit>
 </sense>
 <sense>
-неэлектропроводный, электроизоляционный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неэлектропроводный, электроизоляционный</text></cit>
 </sense>
 </entry>
 </superEntry>

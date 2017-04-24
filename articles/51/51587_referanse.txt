@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">referanse</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-рекомендация, отзыв
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рекомендация, отзыв</text></cit>
 </sense>
 </entry>
 </superEntry>

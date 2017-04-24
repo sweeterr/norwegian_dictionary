@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">jeres</orth>
 <gramGrp><pos>pron</pos></gramGrp>
- <u>уст.</u> <u>род. п.</u> ваш
+<inflection><case>род. п.</case></inflection>
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ваш</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">konstant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мат.</u> постоянная величина, константа
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянная величина, константа</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">konstant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-постоянный, константный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянный, константный</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,7 @@
 <form>
 <orth type="lemma">konstant</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-постоянно
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>постоянно</text></cit>
 </sense>
 </entry>
 </superEntry>

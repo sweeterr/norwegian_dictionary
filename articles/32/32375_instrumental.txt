@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">instrumental</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>грам.</u> инструменталис, орудийный падеж
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструменталис, орудийный падеж</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +14,8 @@
 <form>
 <orth type="lemma">instrumental</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-инструментальный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>инструментальный</text></cit>
 </sense>
 </entry>
 </superEntry>

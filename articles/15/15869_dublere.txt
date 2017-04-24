@@ -7,25 +7,30 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-удваивать, сдваивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удваивать, сдваивать</text></cit>
 </sense>
 <sense>
-накладывать (один металл на другой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>накладывать (один металл на другой)</text></cit>
 </sense>
 <sense>
-<u>театр.</u> , кино дублировать (роль)
+<usg>театр.</usg>
+<usg>кино</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дублировать (роль)</text></cit>
 </sense>
 <sense>
-<u>ж.-д.</u> назначать дополнительный поезд
+<usg>ж.-д.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>назначать дополнительный поезд</text></cit>
 </sense>
 <sense>
-<u>охот.</u> сделать двойной выстрел (дублет)
+<usg>охот.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сделать двойной выстрел (дублет)</text></cit>
 </sense>
 <sense>
-ударить дуплетом (в бильярдной игре)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ударить дуплетом (в бильярдной игре)</text></cit>
 </sense>
 <sense>
-<u>воен.</u> атаковать с двух сторон
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>атаковать с двух сторон</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">pikesjau</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> любовная авантюра
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>любовная авантюра</text></cit>
 </sense>
 </entry>
 </superEntry>

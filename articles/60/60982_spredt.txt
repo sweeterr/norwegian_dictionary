@@ -7,16 +7,18 @@
 <gramGrp><pos>adj</pos></gramGrp>
 </form>
 <sense>
-редкий, негустой, разбросанный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>редкий, негустой, разбросанный</text></cit>
 </sense>
 <sense>
-отдельный, спорадический
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отдельный, спорадический</text></cit>
 </sense>
 <sense>
-<u>перен.</u> рассеянный
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассеянный</text></cit>
 </sense>
 <sense>
-<u>воен.</u> рассредоточенный, развёрнутый
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассредоточенный, развёрнутый</text></cit>
 </sense>
 </entry>
 </superEntry>

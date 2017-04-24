@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">alletider</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>диал.</u> всегда
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>всегда</text></cit>
 </sense>
 </entry>
 </superEntry>

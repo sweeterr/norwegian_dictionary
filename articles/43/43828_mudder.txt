@@ -4,13 +4,13 @@
 <index></index>
 <form>
 <orth type="lemma">mudder</orth>
--deret (-ret)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>-deret (-ret)</text></cit>
 </form>
 <sense>
-грязь, ил, тина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязь, ил, тина</text></cit>
 </sense>
 <sense>
-шум, скандал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шум, скандал</text></cit>
 <сit type="example"><text>gjøre (lage) mudder</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднять шум, устроить скандал</text></cit></cit>
 </sense>
 </entry>

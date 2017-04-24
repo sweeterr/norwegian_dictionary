@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-шептать, говорить шёпотом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шептать, говорить шёпотом</text></cit>
 <сit type="example"><text>hviske i timen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подсказывать на уроке</text></cit></cit>
 <сit type="example"><text>hviske om noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передавать шёпотом (новости, известия)</text></cit></cit>
 <сit type="example"><text>hviske noe til én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шепнуть что-л. кому-либо</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> шелестеть (о ветре), шуршать
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шелестеть (о ветре), шуршать</text></cit>
 <сit type="example"><text>hviske sammen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>шептаться, разговаривать шёпотом</text></cit></cit>
 </sense>
 </entry>

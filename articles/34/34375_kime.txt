@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-зародыш, эмбрион, личинка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зародыш, эмбрион, личинка</text></cit>
 </sense>
 <sense>
-росток <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>росток <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,14 +20,15 @@
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
 </form>
 <sense>
-звонить (в колокола)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звонить (в колокола)</text></cit>
 <сit type="example"><text>det kimer i kirken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>звонят в церкви</text></cit></cit>
 </sense>
 <sense>
-звонить (о звонке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звонить (о звонке)</text></cit>
 </sense>
 <sense>
-<u>редко</u> бить (о часах)
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бить (о часах)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -35,7 +36,7 @@
 <form>
 <orth type="lemma">kime</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-прорастать, давать росток <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорастать, давать росток <lbl>тж. перен.</lbl></text></cit>
 </sense>
 </entry>
 </superEntry>

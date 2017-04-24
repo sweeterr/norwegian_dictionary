@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rederforbund</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-союз судовладельцев
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>союз судовладельцев</text></cit>
 <сit type="example"><text>Norges Rederforbund</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Норвежский союз судовладельцев</text></cit></cit>
 </sense>
 </entry>

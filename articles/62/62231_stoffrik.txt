@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">stoffrik</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-содержательный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>содержательный</text></cit>
 </sense>
 </entry>
 </superEntry>

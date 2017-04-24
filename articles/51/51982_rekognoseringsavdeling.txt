@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rekognoseringsavdeling</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>воен.</u>
+<usg>воен.</usg>
 </form>
 <sense>
-разведывательное подразделение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывательное подразделение</text></cit>
 </sense>
 <sense>
-отряд, проводящий (группа, проводящая, подразделение, проводящее) рекогносцировку местности
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отряд, проводящий (группа, проводящая, подразделение, проводящее) рекогносцировку местности</text></cit>
 </sense>
 </entry>
 </superEntry>

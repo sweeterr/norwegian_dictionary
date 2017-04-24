@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">skolle</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-виднеться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>виднеться</text></cit>
 </sense>
 <sense>
-выглядеть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выглядеть</text></cit>
 </sense>
 <sense>
-бросаться в глаза, быть заметным
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бросаться в глаза, быть заметным</text></cit>
 </sense>
 </entry>
 </superEntry>

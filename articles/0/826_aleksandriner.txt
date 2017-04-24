@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">aleksandriner</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>лит.</u> александрийский стих
+<usg>лит.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>александрийский стих</text></cit>
 </sense>
 </entry>
 </superEntry>

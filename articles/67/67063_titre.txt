@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">titre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> дрожать, трястись
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дрожать, трястись</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">titre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> щебетать, чирикать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щебетать, чирикать</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dis</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-лёгкий туман, дымка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий туман, дымка</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-норна, валькирия, богиня судьбы (в скандинавской мифологии)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>норна, валькирия, богиня судьбы (в скандинавской мифологии)</text></cit>
 </sense>
 <sense>
-<u>уст.</u> женщина
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>женщина</text></cit>
 </sense>
 </entry>
 <entry>

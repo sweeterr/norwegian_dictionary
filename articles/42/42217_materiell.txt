@@ -7,11 +7,12 @@
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-оборудование, материальная часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оборудование, материальная часть</text></cit>
 <сit type="example"><text>jernbanens rullende materiell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>ж.-д.</lbl> подвижной состав, вагоны</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> имущество, материальная часть, боевая техника
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>имущество, материальная часть, боевая техника</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,9 +20,8 @@
 <form>
 <orth type="lemma">materiell</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-материальный, вещественный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>материальный, вещественный</text></cit>
 </sense>
 </entry>
 </superEntry>

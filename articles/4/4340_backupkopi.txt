@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">backupkopi</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> дублирующая копия; резервная копия (файла или набора данных)
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дублирующая копия; резервная копия (файла или набора данных)</text></cit>
 </sense>
 </entry>
 </superEntry>

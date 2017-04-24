@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-превосходство сил, перевес
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходство сил, перевес</text></cit>
 <сit type="example"><text>bukke under for overmakten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уступать силе</text></cit></cit>
 <сit type="example"><text>få overmakt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>получить перевес</text></cit></cit>
 <сit type="example"><text>ha overmakten</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь перевес</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> превосходящие силы
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>превосходящие силы</text></cit>
 </sense>
 </entry>
 </superEntry>

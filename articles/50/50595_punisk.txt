@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">punisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>ист.</u> пунический
+<usg>ист.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пунический</text></cit>
 </sense>
 </entry>
 </superEntry>

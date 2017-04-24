@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">bortkommen</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-et</orth></inflection>
 </form>
 <sense>
-утраченный, пропавший (о вещах)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>утраченный, пропавший (о вещах)</text></cit>
 </sense>
 <sense>
-беспомощный, растерянный, растерявшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>беспомощный, растерянный, растерявшийся</text></cit>
 </sense>
 </entry>
 </superEntry>

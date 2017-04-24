@@ -7,12 +7,12 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-банкрот
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банкрот</text></cit>
 <сit type="example"><text>gå (spille) fallitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>обанкротиться</text></cit></cit>
 <сit type="example"><text>erklære seg fallitt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>объявить себя банкротом</text></cit></cit>
 </sense>
 <sense>
-банкротство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>банкротство</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">fallitt</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-обанкротившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обанкротившийся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">strak</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-прямой, выпрямившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой, выпрямившийся</text></cit>
 </sense>
 <sense>
-вытянутый, растянутый, растянувшийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вытянутый, растянутый, растянувшийся</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brannetterforsker</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-<u>юр.</u> следователь, выясняющий причины пожара
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следователь, выясняющий причины пожара</text></cit>
 </sense>
 </entry>
 </superEntry>

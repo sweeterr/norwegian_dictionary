@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">snafs</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>диал.</u> см. snabb
+<usg>диал.</usg>
+<ref>snabb</ref>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">snafs</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
- <u>уст.</u> грязь, нечисть
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грязь, нечисть</text></cit>
 </sense>
 </entry>
 </superEntry>

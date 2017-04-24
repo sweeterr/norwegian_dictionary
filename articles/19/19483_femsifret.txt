@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">femsifret</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-пятизначный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пятизначный</text></cit>
 <сit type="example"><text>femsifret tall</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пятизначное число</text></cit></cit>
 </sense>
 </entry>

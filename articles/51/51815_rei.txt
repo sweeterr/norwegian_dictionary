@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">rei</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-свита, кавалькада
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свита, кавалькада</text></cit>
 </sense>
 <sense>
-толпа, гурьба
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>толпа, гурьба</text></cit>
 </sense>
 </entry>
 </superEntry>

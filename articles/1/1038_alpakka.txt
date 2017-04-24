@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-<u>зоол.</u> пака, альпака
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пака, альпака</text></cit>
 </sense>
 <sense>
-шерсть ламы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шерсть ламы</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,7 +19,7 @@
 <form>
 <orth type="lemma">alpakka</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-альпака (сплав меди с серебром, белый металл, мельхиор)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>альпака (сплав меди с серебром, белый металл, мельхиор)</text></cit>
 </sense>
 </entry>
 </superEntry>

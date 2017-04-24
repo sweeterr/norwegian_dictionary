@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">hatefull</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-ненавистный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ненавистный</text></cit>
 </sense>
 <sense>
-непримиримый, злобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непримиримый, злобный</text></cit>
 </sense>
 <sense>
-гневный, злой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гневный, злой</text></cit>
 </sense>
 </entry>
 </superEntry>

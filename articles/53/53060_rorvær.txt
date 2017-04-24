@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">rorvær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>мор.</u> бухта, порт (место сбора рыбаков, участвующих в сезонном лове рыбы в Норвегии
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бухта, порт (место сбора рыбаков, участвующих в сезонном лове рыбы в Норвегии</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,8 @@
 <form>
 <orth type="lemma">rorvær</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-<u>диал.</u> погода, благоприятствующая лову рыбы
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>погода, благоприятствующая лову рыбы</text></cit>
 </sense>
 </entry>
 </superEntry>

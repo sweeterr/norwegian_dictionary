@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mosse</orth>
 <inflection><orth extent="part">-a (-en)</orth></inflection>
-<u>диал.</u> мелкая сельдь
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мелкая сельдь</text></cit>
 </sense>
 </entry>
 </superEntry>

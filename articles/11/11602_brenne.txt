@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">brenne</orth>
 <inflection><orth extent="part">-t</orth></inflection>
-<u>уст.</u> топливо, дрова
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топливо, дрова</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,25 +16,25 @@
 <inflection><orth>brant (brann, brente), brent</orth></inflection>
 </form>
 <sense>
-гореть <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гореть <lbl>тж. перен.</lbl></text></cit>
 <сit type="example"><text>det brenner</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>горит, пожар</text></cit></cit>
 <сit type="example"><text>det brenner for ham</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>ему грозит опасность</text></cit></cit>
 <сit type="example"><text>han brente av tørst</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>у него всё внутри горело от жажды</text></cit></cit>
 </sense>
 <sense>
-загораться, воспламеняться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загораться, воспламеняться</text></cit>
 </sense>
 <sense>
-сгорать (от нетерпения, желания и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сгорать (от нетерпения, желания и т. п.)</text></cit>
 </sense>
 <sense>
-пылать <u>тж. перен.</u>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пылать <lbl>тж. перен.</lbl></text></cit>
 </sense>
 <sense>
-сверкать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сверкать</text></cit>
 </sense>
 <sense>
-подгорать (о пище)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подгорать (о пище)</text></cit>
 <сit type="example"><text>brenne etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгорать от желания (нетерпения)</text></cit></cit>
 <сit type="example"><text>brenne igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>про гореть</text></cit></cit>
 <сit type="example"><text>brenne inne</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сгореть</text></cit></cit>
@@ -51,44 +52,44 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-жечь (дрова, сахар и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жечь (дрова, сахар и т. д.)</text></cit>
 </sense>
 <sense>
-зажигать (свет, свечу, лампу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зажигать (свет, свечу, лампу)</text></cit>
 </sense>
 <sense>
-разводить (костёр)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разводить (костёр)</text></cit>
 </sense>
 <sense>
-обжигать (глину, кирпич)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжигать (глину, кирпич)</text></cit>
 </sense>
 <sense>
-топить (жир, сало)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топить (жир, сало)</text></cit>
 </sense>
 <sense>
-гнать (спирт, водку)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>гнать (спирт, водку)</text></cit>
 </sense>
 <sense>
-очищать (серебро и т. д.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очищать (серебро и т. д.)</text></cit>
 </sense>
 <sense>
-выжигать (клеймо)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выжигать (клеймо)</text></cit>
 </sense>
 <sense>
-обжечь (пальцы, язык)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжечь (пальцы, язык)</text></cit>
 </sense>
 <sense>
-прожечь (дыру в какой-л. вещи)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прожечь (дыру в какой-л. вещи)</text></cit>
 <сit type="example"><text>brenne av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взорвать</text></cit></cit>
 <сit type="example"><text>brenne løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выстрелить (из винтовки, пушки)</text></cit></cit>
 <сit type="example"><text>nå brenner det løs</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>началось (о событии крупного масштаба)</text></cit></cit>
 <сit type="example"><text>brenne ned (opp)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сжечь дотла</text></cit></cit>
 </form>
 <sense>
-обжечься
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обжечься</text></cit>
 </sense>
 <sense>
-ожечься (крапивой)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ожечься (крапивой)</text></cit>
 <сit type="example"><text>brenne seg på noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> обжечься на чём-л.</text></cit></cit>
 </sense>
 </entry>

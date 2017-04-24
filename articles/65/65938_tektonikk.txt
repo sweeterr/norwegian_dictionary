@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">tektonikk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>геол.</u> тектоника
+<usg>геол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тектоника</text></cit>
 </sense>
 </entry>
 </superEntry>

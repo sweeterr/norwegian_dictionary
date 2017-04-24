@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stroke</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>спорт.</u> загребной
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>загребной</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">stroke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-задавать такт (гребцам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>задавать такт (гребцам</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +22,8 @@
 <form>
 <orth type="lemma">stroke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>диал.</u> бродить, бродяжничать
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>бродить, бродяжничать</text></cit>
 </sense>
 </entry>
 </superEntry>

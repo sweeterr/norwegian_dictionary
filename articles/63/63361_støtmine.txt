@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">støtmine</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>мор.</u> контактная (гальваноударная) мина
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>контактная (гальваноударная) мина</text></cit>
 </sense>
 </entry>
 </superEntry>

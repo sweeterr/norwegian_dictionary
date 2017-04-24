@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">loggemaskin</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u> электромеханический лаг
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>электромеханический лаг</text></cit>
 </sense>
 </entry>
 </superEntry>

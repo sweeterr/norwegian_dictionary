@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">pengeløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-не имеющий денег, безденежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий денег, безденежный</text></cit>
 </sense>
 </entry>
 </superEntry>

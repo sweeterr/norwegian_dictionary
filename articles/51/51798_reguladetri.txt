@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reguladetri</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>мат.</u> тройное правило
+<usg>мат.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тройное правило</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,15 +5,14 @@
 <form>
 <orth type="lemma">kopulativ</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>грам.</u>
+<usg>грам.</usg>
 </form>
 <sense>
-связочный (о глаголе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>связочный (о глаголе)</text></cit>
 </sense>
 <sense>
-соединительный (о союзе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>соединительный (о союзе)</text></cit>
 </sense>
 </entry>
 </superEntry>

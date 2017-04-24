@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">hjertesår</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>перен.</u> сердечная рана, сердечное переживание
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сердечная рана, сердечное переживание</text></cit>
 </sense>
 </entry>
 </superEntry>

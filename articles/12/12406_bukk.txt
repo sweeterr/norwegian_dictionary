@@ -7,23 +7,24 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-козёл
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козёл</text></cit>
 </sense>
 <sense>
-кутила, ловелас
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кутила, ловелас</text></cit>
 </sense>
 <sense>
-упрямец, строптивый человек
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>упрямец, строптивый человек</text></cit>
 </sense>
 <sense>
-козлы (подставка)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козлы (подставка)</text></cit>
 </sense>
 <sense>
-козлы, облучок (для кучера)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козлы, облучок (для кучера)</text></cit>
 <сit type="example"><text>sitte på bukken</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сидеть на козлах</text></cit></cit>
 </sense>
 <sense>
-<u>спорт.</u> козёл
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>козёл</text></cit>
 <сit type="example"><text>hoppe bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть в чехарду</text></cit></cit>
 <сit type="example"><text>stå bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>водить при игре в чехарду</text></cit></cit>
 </sense>
@@ -33,7 +34,8 @@
 <form>
 <orth type="lemma">bukk</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> ошибка, промах
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ошибка, промах</text></cit>
 <сit type="example"><text>begå (gjøre) en bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>дать маху</text></cit></cit>
 </sense>
 </entry>
@@ -42,7 +44,7 @@
 <form>
 <orth type="lemma">bukk</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-поклон
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поклон</text></cit>
 <сit type="example"><text>gjøre et dypt bukk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>низко поклониться</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">klaver</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-обмерщик (спиленного леса)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обмерщик (спиленного леса)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">klaver</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-фортепьяно, рояль
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фортепьяно, рояль</text></cit>
 <сit type="example"><text>spille på klaver</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>играть на рояле</text></cit></cit>
 </sense>
 </entry>

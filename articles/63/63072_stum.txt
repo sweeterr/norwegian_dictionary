@@ -5,19 +5,19 @@
 <form>
 <orth type="lemma">stum</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-немой, безмолвный, молчаливый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>немой, безмолвный, молчаливый</text></cit>
 <сit type="example"><text>bli stum</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>онеметь, оцепенеть, застыть</text></cit></cit>
 <сit type="example"><text>stum som graven (som en fisk)</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>нем как могила (как рыба)</text></cit></cit>
 </sense>
 <sense>
-безжизненный, мёртвый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>безжизненный, мёртвый</text></cit>
 </sense>
 <sense>
-<u>фон.</u> непроизносимый
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>непроизносимый</text></cit>
 </sense>
 </entry>
 <entry>
@@ -25,9 +25,9 @@
 <form>
 <orth type="lemma">stum</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u> тёмный хоть глаз выколи
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тёмный хоть глаз выколи</text></cit>
 </sense>
 </entry>
 <entry>

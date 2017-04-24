@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">essay</orth>
 <phon>|'es:e|</phon>
-<inflection><orth extent="part">-et (-en), -er</orth></inflection>
- (-s)
-эссе, научный очерк, публицистическая статья
+<inflection><orth extent="part">-et (-en), -er (-s)</orth></inflection>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эссе, научный очерк, публицистическая статья</text></cit>
 </sense>
 </entry>
 </superEntry>

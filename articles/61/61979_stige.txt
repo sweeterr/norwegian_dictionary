@@ -7,10 +7,11 @@
 <inflection><orth extent="part">-n, -r</orth></inflection>
 </form>
 <sense>
-лестница (приставная, верёвочная, переносная)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лестница (приставная, верёвочная, переносная)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> лестница (служебная)
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лестница (служебная)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -20,27 +21,27 @@
 <inflection><orth>ste(i)g, steget</orth></inflection>
 </form>
 <sense>
-подниматься, восходить (о солнце, луне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подниматься, восходить (о солнце, луне)</text></cit>
 <сit type="example"><text>stige i salen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться в седло, садиться верхом</text></cit></cit>
 <сit type="example"><text>stige til hest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>садиться верхом на лошадь</text></cit></cit>
 </sense>
 <sense>
-увеличиваться, расти (о ценах, количестве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увеличиваться, расти (о ценах, количестве)</text></cit>
 </sense>
 <sense>
-прибывать (о воде)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибывать (о воде)</text></cit>
 </sense>
 <sense>
-повышаться (о качестве)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повышаться (о качестве)</text></cit>
 </sense>
 <sense>
-появляться, возникать (о мыслях)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>появляться, возникать (о мыслях)</text></cit>
 </sense>
 <sense>
-нарастать, усиливаться, становиться громче (о звуках)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нарастать, усиливаться, становиться громче (о звуках)</text></cit>
 </sense>
 <sense>
-шагнуть, ступить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шагнуть, ступить</text></cit>
 <сit type="example"><text>stige i land</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сходить на землю, высаживаться на берег</text></cit></cit>
 <сit type="example"><text>stige over noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>перелезть (через ограду и т. п.)</text></cit></cit>
 <сit type="example"><text>stige av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сходить, слезать, соскакивать</text></cit></cit>

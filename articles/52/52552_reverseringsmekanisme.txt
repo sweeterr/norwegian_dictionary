@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reverseringsmekanisme</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>тех.</u> реверсивное устройство, реверсивный механизм
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>реверсивное устройство, реверсивный механизм</text></cit>
 </sense>
 </entry>
 </superEntry>

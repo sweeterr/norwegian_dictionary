@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">trom</orth>
 <inflection><orth extent="part">-met</orth></inflection>
-удар в барабан
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удар в барабан</text></cit>
 <сit type="example"><text>gi et lite trom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>постучать (побарабанить) по чему-л.</text></cit></cit>
 </sense>
 </entry>

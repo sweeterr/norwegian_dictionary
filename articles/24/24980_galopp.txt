@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en</orth></inflection>
 </form>
 <sense>
-галоп
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галоп</text></cit>
 <сit type="example"><text>falsk galopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иноходь</text></cit></cit>
 <сit type="example"><text>i galopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>галопом, вскачь</text></cit></cit>
 <сit type="example"><text>i full galopp</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>во весь опор</text></cit></cit>
@@ -15,7 +15,7 @@
 <сit type="example"><text>ta galoppen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>пуститься вскачь</text></cit></cit>
 </sense>
 <sense>
-галоп (танец)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>галоп (танец)</text></cit>
 </sense>
 </entry>
 </superEntry>

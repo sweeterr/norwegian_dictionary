@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">dovregubbe</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>фольк.</u> тролль, гном
+<usg>фольк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тролль, гном</text></cit>
 </sense>
 </entry>
 </superEntry>

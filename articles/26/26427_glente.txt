@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">glente</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>зоол.</u> коршун красный
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>коршун красный</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">sommerlang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-длинный, долгий (о дне)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длинный, долгий (о дне)</text></cit>
 </sense>
 </entry>
 </superEntry>

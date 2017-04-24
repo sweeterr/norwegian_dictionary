@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">oppklaringspatrulje</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>воен.</u> разведывательный дозор
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разведывательный дозор</text></cit>
 </sense>
 </entry>
 </superEntry>

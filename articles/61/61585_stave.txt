@@ -7,11 +7,11 @@
 <inflection><orth extent="part">-et (-de), -et (-d)</orth></inflection>
 </form>
 <sense>
-читать по складам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>читать по складам</text></cit>
 <сit type="example"><text>stave seg igjennom</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>читать с большим трудом</text></cit></cit>
 </sense>
 <sense>
-произносить (писать) слово по буквам
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>произносить (писать) слово по буквам</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,10 +21,10 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-брести, опираясь на палку
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>брести, опираясь на палку</text></cit>
 </sense>
 <sense>
-отталкиваться палками при ходьбе на лыжах (тж. stave seg)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>отталкиваться палками при ходьбе на лыжах (тж. stave seg)</text></cit>
 </sense>
 </entry>
 </superEntry>

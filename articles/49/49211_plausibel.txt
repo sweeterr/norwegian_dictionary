@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">plausibel</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-вероятный, правдоподобный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вероятный, правдоподобный</text></cit>
 </sense>
 </entry>
 </superEntry>

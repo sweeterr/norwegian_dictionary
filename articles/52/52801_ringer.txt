@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">ringer</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-звонарь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>звонарь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -14,7 +14,8 @@
 <orth type="lemma">ringer</orth>
 <inflection><orth extent="part">-ne</orth></inflection>
 <gramGrp><num>pl</num></gramGrp>
-<u>спорт.</u> кольца (гимнастические)
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кольца (гимнастические)</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">brådyp</orth>
 <inflection><orth extent="part">-et, =</orth></inflection>
-обрыв, пропасть, бездна
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрыв, пропасть, бездна</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,9 +13,8 @@
 <form>
 <orth type="lemma">brådyp</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-очень глубокий, бездонный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>очень глубокий, бездонный</text></cit>
 </sense>
 </entry>
 </superEntry>

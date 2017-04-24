@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">formel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-формула
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>формула</text></cit>
 <сit type="example"><text>kjemisk formel</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>химическая формула</text></cit></cit>
 </sense>
 </entry>

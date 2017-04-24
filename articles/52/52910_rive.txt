@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">rive</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-грабли
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>грабли</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,32 +15,32 @@
 <inflection><orth>re(i)v, revet</orth></inflection>
 </form>
 <sense>
-рвать, разрывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рвать, разрывать</text></cit>
 <сit type="example"><text>rive i stykker</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>разорвать на куски</text></cit></cit>
 </sense>
 <sense>
-растерзать, разорвать (о хищном звере, тж. rive ihjel)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растерзать, разорвать (о хищном звере, тж. rive ihjel)</text></cit>
 </sense>
 <sense>
-прорывать, продирать (дыру)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прорывать, продирать (дыру)</text></cit>
 </sense>
 <sense>
-разодрать, расцарапать (руку, ногу)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разодрать, расцарапать (руку, ногу)</text></cit>
 </sense>
 <sense>
-тереть, натирать (на тёрке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тереть, натирать (на тёрке)</text></cit>
 </sense>
 <sense>
-скрести, чесать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скрести, чесать</text></cit>
 </sense>
 <sense>
-подсасывать, сосать (об ощущении голода)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подсасывать, сосать (об ощущении голода)</text></cit>
 </sense>
 <sense>
-жечь, щипать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>жечь, щипать</text></cit>
 </sense>
 <sense>
-растирать (краски)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>растирать (краски)</text></cit>
 </sense>
 <sense>
 <сit type="example"><text> rive til seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>завладеть (силой, хитростью)</text></cit></cit>

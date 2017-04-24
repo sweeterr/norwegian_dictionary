@@ -7,13 +7,14 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-облигация
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>облигация</text></cit>
 </sense>
 <sense>
-долговое обязательство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>долговое обязательство</text></cit>
 </sense>
 <sense>
-<u>юр.</u> обязательство
+<usg>юр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обязательство</text></cit>
 </sense>
 </entry>
 </superEntry>

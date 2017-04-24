@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">bakgrunnsoppgave</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>комп.</u> фоновое задание; низкоприоритетное задание
+<usg>комп.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фоновое задание; низкоприоритетное задание</text></cit>
 </sense>
 </entry>
 </superEntry>

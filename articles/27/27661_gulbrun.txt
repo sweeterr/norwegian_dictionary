@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">gulbrun</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-рыжевато-коричневый, желтовато-коричневый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рыжевато-коричневый, желтовато-коричневый</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-власть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>власть</text></cit>
 <сit type="example"><text>delegere sin myndighet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>передать свой полномочия</text></cit></cit>
 <сit type="example"><text>ha myndighet over én</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь власть над кем-л.</text></cit></cit>
 <сit type="example"><text>ha myndighet til noe</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь право на что-л.</text></cit></cit>
@@ -15,7 +15,7 @@
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-власти, органы власти
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>власти, органы власти</text></cit>
 <сit type="example"><text>lokale myndigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>местные власти</text></cit></cit>
 <сit type="example"><text>de dømmende myndigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>органы судебной власти</text></cit></cit>
 <сit type="example"><text>de lovgivende myndigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>органы законодательной власти</text></cit></cit>
@@ -23,10 +23,10 @@
 <сit type="example"><text>de utøvende myndigheter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>органы исполнительной власти</text></cit></cit>
 </sense>
 <sense>
-властность
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>властность</text></cit>
 </sense>
 <sense>
-совершеннолетие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>совершеннолетие</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">pløye</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-пашня, вспаханное поле
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пашня, вспаханное поле</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,16 +15,16 @@
 <inflection><orth>pløyd(d)e (pløyet, pløgde),pløyd(d) (pløyet, pløgd)</orth></inflection>
 </form>
 <sense>
-пахать, распахивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пахать, распахивать</text></cit>
 <сit type="example"><text>pløye opp ny jord</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>поднимать целину</text></cit></cit>
 </sense>
 <sense>
-разгребать снег снегоочистителем (снежным плугом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разгребать снег снегоочистителем (снежным плугом)</text></cit>
 </sense>
 <sense>
-рассекать (волны)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рассекать (волны)</text></cit>
 <сit type = "example"><text>pløye seg gjennom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> пробираться (с трудом), пробивать себе путь</text></cit></cit>
-<сit type = "example"><text>pløye seg gjennom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>перен.</u> тщательно, изучать, штудировать (что-л.)</text></cit></cit>
+<сit type = "example"><text>pløye seg gjennom :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>перен.</lbl> тщательно, изучать, штудировать (что-л.)</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

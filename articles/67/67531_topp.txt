@@ -7,40 +7,45 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-верхушка, верхняя часть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верхушка, верхняя часть</text></cit>
 </sense>
 <sense>
-вершина (горы)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вершина (горы)</text></cit>
 </sense>
 <sense>
-<u>разг.</u> голова, макушка
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>голова, макушка</text></cit>
 <сit type="example"><text>fra topp til tå</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>с головы до ног</text></cit></cit>
 </sense>
 <sense>
-хохолок, гребень (у птиц), чёлка (у лошади)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хохолок, гребень (у птиц), чёлка (у лошади)</text></cit>
 </sense>
 <sense>
-максимум (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>максимум (чего-л.)</text></cit>
 </sense>
 <sense>
-верх (экипажа, автомобиля)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>верх (экипажа, автомобиля)</text></cit>
 </sense>
 <sense>
-сахарная голова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сахарная голова</text></cit>
 </sense>
 <sense>
-<u>фон.</u> вершина
+<usg>фон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вершина</text></cit>
 </sense>
 <sense>
-<u>уст.</u> волчок
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>волчок</text></cit>
 </sense>
 <sense>
-<u>перен.</u> зенит (славы), высшая точка, расцвет
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зенит (славы), высшая точка, расцвет</text></cit>
 <сit type = "example"><text>føle seg på topp, være på topp:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> чувствовать себя наверху блаженства (прекрасно)</text></cit></cit>
 <сit type = "example"><text>føle seg på topp, være på topp:</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> быть в расцвете сил и здоровья</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> топ
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>топ</text></cit>
 <сit type="example"><text>på toppen av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к тому же, в дополнение к (чему-л.)</text></cit></cit>
 </sense>
 </entry>
@@ -48,7 +53,7 @@
 <index></index>
 <form>
 <orth type="lemma">topp</orth>
-высшего класса, высшего качества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>высшего класса, высшего качества</text></cit>
 </sense>
 </entry>
 <entry>
@@ -56,7 +61,8 @@
 <form>
 <orth type="lemma">topp</orth>
 <gramGrp><pos>int</pos></gramGrp>
-<u>уст.</u> хорошо, ладно, есть
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо, ладно, есть</text></cit>
 </sense>
 </entry>
 </superEntry>

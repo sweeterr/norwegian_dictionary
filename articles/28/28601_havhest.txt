@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">havhest</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>зоол.</u>
+<usg>зоол.</usg>
 </form>
 <sense>
-глупыш
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>глупыш</text></cit>
 </sense>
 <sense>
-морской конёк
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морской конёк</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">ekliptisk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>астр.</u> эклиптический
+<usg>астр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>эклиптический</text></cit>
 </sense>
 </entry>
 </superEntry>

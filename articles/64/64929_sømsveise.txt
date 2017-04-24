@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sømsveise</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>тех.</u> сваривать швом
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сваривать швом</text></cit>
 </sense>
 </entry>
 </superEntry>

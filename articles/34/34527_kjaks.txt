@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">kjaks</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-порез, надрез, разрез
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>порез, надрез, разрез</text></cit>
 </sense>
 <sense>
-зарубка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>зарубка</text></cit>
 </sense>
 </entry>
 </superEntry>

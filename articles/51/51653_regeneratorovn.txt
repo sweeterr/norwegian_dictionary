@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">regeneratorovn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u> регенеративная печь
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>регенеративная печь</text></cit>
 </sense>
 </entry>
 </superEntry>

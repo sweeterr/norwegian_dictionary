@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-et, -er</orth></inflection>
 </form>
 <sense>
-хранилище, склад
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хранилище, склад</text></cit>
 </sense>
 <sense>
-универсальный магазин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>универсальный магазин</text></cit>
 </sense>
 <sense>
-иллюстрированный журнал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>иллюстрированный журнал</text></cit>
 </sense>
 <sense>
-<u>воен.</u> магазинная коробка, магазин
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>магазинная коробка, магазин</text></cit>
 <сit type="example"><text>fylle magasin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>снаряжать магазин</text></cit></cit>
 <сit type="example"><text>tømme magasin</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вынимать патроны из магазина, разряжать</text></cit></cit>
 </sense>
 <sense>
-водохранилище гидростанции
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>водохранилище гидростанции</text></cit>
 </sense>
 </entry>
 </superEntry>

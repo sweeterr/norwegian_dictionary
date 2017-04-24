@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">autogenskjæring</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-<u>тех.</u> газовая (автогенная) резка (металла)
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>газовая (автогенная) резка (металла)</text></cit>
 </sense>
 </entry>
 </superEntry>

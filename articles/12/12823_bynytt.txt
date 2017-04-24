@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">bynytt</orth>
 <gramGrp><num>pl</num></gramGrp>
-городские новости
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>городские новости</text></cit>
 </sense>
 </entry>
 </superEntry>

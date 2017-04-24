@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">pargas</orth>
 <inflection><orth extent="part">-et (-en)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-багаж, дорожные вещи
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>багаж, дорожные вещи</text></cit>
 </sense>
 <sense>
-хлам, дребедень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хлам, дребедень</text></cit>
 </sense>
 <sense>
-клика
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>клика</text></cit>
 </sense>
 </entry>
 </superEntry>

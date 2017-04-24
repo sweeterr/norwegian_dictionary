@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">panter</orth>
 <inflection><orth extent="part">-en, -e</orth></inflection>
-чиновник, налагающий арест на имущество (при описи за долги)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>чиновник, налагающий арест на имущество (при описи за долги)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,8 @@
 <form>
 <orth type="lemma">panter</orth>
 <inflection><orth extent="part">-eren, -ere(r) (-rer)</orth></inflection>
-<u>зоол.</u> пантера, леопард
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пантера, леопард</text></cit>
 </sense>
 </entry>
 </superEntry>

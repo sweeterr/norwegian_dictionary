@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">stabstjeneste</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>воен.</u> штабная служба, служба в штабе
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>штабная служба, служба в штабе</text></cit>
 </sense>
 </entry>
 </superEntry>

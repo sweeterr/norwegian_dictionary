@@ -5,7 +5,9 @@
 <form>
 <orth type="lemma">dannelsesvarme</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>физ.</u>, <u>хим.</u> тепло, поглощаемое или выделяемое в процессе образования нового вещества
+<usg>физ.</usg>
+<usg>хим.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>тепло, поглощаемое или выделяемое в процессе образования нового вещества</text></cit>
 </sense>
 </entry>
 </superEntry>

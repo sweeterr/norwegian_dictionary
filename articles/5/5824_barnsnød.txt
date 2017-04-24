@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">barnsnød</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-родовые схватки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>родовые схватки</text></cit>
 <сit type="example"><text>være i barnsnød</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>иметь родовые схватки, рожать</text></cit></cit>
 </sense>
 </entry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">faktura</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>ком.</u> фактура, накладная, счёт
+<usg>ком.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фактура, накладная, счёт</text></cit>
 </sense>
 </entry>
 </superEntry>

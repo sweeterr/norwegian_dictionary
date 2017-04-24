@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">sekkebor</orth>
 <inflection><orth extent="part">-et (-en), = (-er)</orth></inflection>
-<u>горн.</u> мешочный бур
+<usg>горн.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мешочный бур</text></cit>
 </sense>
 </entry>
 </superEntry>

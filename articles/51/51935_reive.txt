@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">reive</orth>
 <inflection><orth extent="part">-de (-et), -d (-et)</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-пеленать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пеленать</text></cit>
 </sense>
 <sense>
-обвязывать, обматывать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обвязывать, обматывать</text></cit>
 </sense>
 <sense>
-перевязывать (бинтом)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>перевязывать (бинтом)</text></cit>
 </sense>
 </entry>
 </superEntry>

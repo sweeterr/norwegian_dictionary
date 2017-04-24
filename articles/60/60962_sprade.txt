@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sprade</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-фат, хлыщ, щеголь
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>фат, хлыщ, щеголь</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">sprade</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-щеголять, фланировать, прогуливаться с важным (напыщенным) видом
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>щеголять, фланировать, прогуливаться с важным (напыщенным) видом</text></cit>
 </sense>
 </entry>
 </superEntry>

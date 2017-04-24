@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">jordbruk</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-сельское хозяйство, земледелие
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сельское хозяйство, земледелие</text></cit>
 <сit type="example"><text>drive jordbruk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заниматься сельским хозяйством (земледелием)</text></cit></cit>
 </sense>
 </entry>

@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">jevnlang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-одинаковой длины
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>одинаковой длины</text></cit>
 </sense>
 </entry>
 </superEntry>

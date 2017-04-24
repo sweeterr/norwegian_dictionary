@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">linn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мягкий, нежный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мягкий, нежный</text></cit>
 </sense>
 <sense>
-осторожный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>осторожный</text></cit>
 </sense>
 <sense>
-лёгкий (о ветерке)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лёгкий (о ветерке)</text></cit>
 </sense>
 </entry>
 </superEntry>

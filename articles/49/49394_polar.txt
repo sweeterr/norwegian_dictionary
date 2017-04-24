@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">polar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-полярный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полярный</text></cit>
 </sense>
 <sense>
-противоположный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>противоположный</text></cit>
 </sense>
 </entry>
 </superEntry>

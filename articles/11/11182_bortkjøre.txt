@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">bortkjøre</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-уезжать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>уезжать</text></cit>
 </sense>
 <sense>
-увозить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увозить</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">fiff</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-свет, высшие слой общества
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>свет, высшие слой общества</text></cit>
 </sense>
 <sense>
-элегантный костюм
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>элегантный костюм</text></cit>
 <сit type="example"><text>i full fiff</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>в полном параде</text></cit></cit>
 </sense>
 </entry>
@@ -20,7 +20,7 @@
 <form>
 <orth type="lemma">fiff</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-увёртка, уловка, приём, выдумка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увёртка, уловка, приём, выдумка</text></cit>
 </sense>
 </entry>
 </superEntry>

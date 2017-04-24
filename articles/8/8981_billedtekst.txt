@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">billedtekst</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-подпись под рисунком (фотоснимком), объяснительный список условных обозначений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подпись под рисунком (фотоснимком), объяснительный список условных обозначений</text></cit>
 </sense>
 </entry>
 </superEntry>

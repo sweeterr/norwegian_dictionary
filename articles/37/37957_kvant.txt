@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kvant</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> квант
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>квант</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,13 +14,13 @@
 <form>
 <orth type="lemma">kvant</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-здоровый, добрый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>здоровый, добрый</text></cit>
 </sense>
 <sense>
-ловкий, проворный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ловкий, проворный</text></cit>
 </sense>
 </entry>
 </superEntry>

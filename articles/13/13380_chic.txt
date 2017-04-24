@@ -6,7 +6,7 @@
 <orth type="lemma">chic</orth>
 <phon>|∫ik:|</phon>
 <inflection><orth extent="part">-en</orth></inflection>
-шик, щегольство
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шик, щегольство</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,9 +15,8 @@
 <orth type="lemma">chic</orth>
 <phon>|∫ik:|</phon>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-шикарный, элегантный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шикарный, элегантный</text></cit>
 </sense>
 </entry>
 </superEntry>

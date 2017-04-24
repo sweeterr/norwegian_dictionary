@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">adjutantur</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>воен.</u> адъютантское управление (отдел)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>адъютантское управление (отдел)</text></cit>
 </sense>
 </entry>
 </superEntry>

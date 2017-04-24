@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">utsjalte</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>эл.</u> выключать
+<usg>эл.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>выключать</text></cit>
 </sense>
 </entry>
 </superEntry>

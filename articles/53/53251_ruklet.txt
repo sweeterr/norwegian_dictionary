@@ -5,16 +5,16 @@
 <form>
 <orth type="lemma">ruklet</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-морщинистый, в морщинах
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>морщинистый, в морщинах</text></cit>
 </sense>
 <sense>
-шершавый, неровный, шероховатый
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шершавый, неровный, шероховатый</text></cit>
 </sense>
 <sense>
-хриплый (о голосе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>хриплый (о голосе)</text></cit>
 </sense>
 </entry>
 </superEntry>

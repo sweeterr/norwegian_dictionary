@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">grensevinkel</orth>
 <inflection><orth extent="part">-elen, -ler</orth></inflection>
-<u>физ.</u> наименьший угол падения (луча)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наименьший угол падения (луча)</text></cit>
 </sense>
 </entry>
 </superEntry>

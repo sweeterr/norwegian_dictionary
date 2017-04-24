@@ -4,7 +4,7 @@
 <index></index>
 <form>
 <orth type="lemma">sten</orth>
-см. stein I
+<ref>stein I</ref>
 </sense>
 </entry>
 <entry>
@@ -12,7 +12,7 @@
 <form>
 <orth type="lemma">sten</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-полностью, целиком, совсем
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>полностью, целиком, совсем</text></cit>
 </sense>
 </entry>
 </superEntry>

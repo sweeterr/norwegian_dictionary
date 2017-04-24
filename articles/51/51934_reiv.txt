@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">reiv</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> леса с крючком (без удилища)
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>леса с крючком (без удилища)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,11 +16,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-повязка, бандаж
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>повязка, бандаж</text></cit>
 </sense>
 <sense>
 <gramGrp><num>pl</num></gramGrp>
-пелёнки
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пелёнки</text></cit>
 </sense>
 </entry>
 <entry>

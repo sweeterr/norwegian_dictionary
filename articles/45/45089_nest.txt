@@ -7,10 +7,10 @@
 <inflection><orth extent="part">-et (-en), -er (=)</orth></inflection>
 </form>
 <sense>
-шов, стежок
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шов, стежок</text></cit>
 </sense>
 <sense>
-петля (при вязании)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>петля (при вязании)</text></cit>
 </sense>
 </entry>
 <entry>
@@ -18,14 +18,14 @@
 <form>
 <orth type="lemma">nest</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- <gramGrp><note>superl от nær 1)</note></gramGrp>
+<gramGrp><note>superl от nær 1)</note></gramGrp>
 </form>
 <sense>
-лежащий рядом (ближе всего)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>лежащий рядом (ближе всего)</text></cit>
 <сit type="example"><text>være noens hjerte nest</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть очень близким кому-л.</text></cit></cit>
 </sense>
 <sense>
-следующий (за наилучшим), второй (по качеству)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>следующий (за наилучшим), второй (по качеству)</text></cit>
 <сit type="example"><text>nest best</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>уступающий лишь самому лучшему, второсортный</text></cit></cit>
 <сit type="example"><text>nest første</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>второй по порядку, следующий за</text></cit></cit>
 <сit type="example"><text>nest siste</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>предпоследний</text></cit></cit>
@@ -37,7 +37,8 @@
 <form>
 <orth type="lemma">nest</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-<u>уст.</u> сразу, потом (затем, после)
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сразу, потом (затем, после)</text></cit>
 <сit type="example"><text>nest etter</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сразу за, сейчас же после</text></cit></cit>
 </sense>
 </entry>

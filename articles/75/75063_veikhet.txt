@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">veikhet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-слабость, вялость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>слабость, вялость</text></cit>
 </sense>
 <sense>
-дряблость (мускулов)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дряблость (мускулов)</text></cit>
 </sense>
 </entry>
 </superEntry>

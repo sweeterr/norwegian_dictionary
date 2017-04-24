@@ -5,14 +5,13 @@
 <form>
 <orth type="lemma">favnelang</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-длиной примерно в полтора метра
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длиной примерно в полтора метра</text></cit>
 </sense>
 <sense>
-длиной в морскую сажень (182 см)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>длиной в морскую сажень (182 см)</text></cit>
 </sense>
 </entry>
 </superEntry>

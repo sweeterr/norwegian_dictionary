@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">forplantingshastighet</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>физ.</u> скорость распространения (звука, света)
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скорость распространения (звука, света)</text></cit>
 </sense>
 </entry>
 </superEntry>

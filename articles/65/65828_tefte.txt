@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">tefte</orth>
 <inflection><orth extent="part">-et (-a), -et (-a)</orth></inflection>
-<u>разг.</u>
+<usg>разг.</usg>
 </form>
 <sense>
-обнюхивать, нюхать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обнюхивать, нюхать</text></cit>
 </sense>
 <sense>
-<u>перен.</u> разнюхивать, разузнавать
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разнюхивать, разузнавать</text></cit>
 </sense>
 </entry>
 </superEntry>

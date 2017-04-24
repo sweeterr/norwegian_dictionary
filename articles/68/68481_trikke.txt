@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">trikke</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>разг.</u> ехать на трамвае
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ехать на трамвае</text></cit>
 </sense>
 </entry>
 </superEntry>

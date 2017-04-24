@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">folkeetymologi</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-<u>лингв.</u> народная этимология
+<usg>лингв.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>народная этимология</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">irre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-<u>поэт.</u>
+<usg>поэт.</usg>
 </form>
 <sense>
-заблуждаться
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>заблуждаться</text></cit>
 </sense>
 <sense>
-блуждать (без цели), бродить
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>блуждать (без цели), бродить</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,7 @@
 <form>
 <orth type="lemma">irre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-покрываться зелёным налётом (о меди, бронзе, латуни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>покрываться зелёным налётом (о меди, бронзе, латуни)</text></cit>
 </sense>
 </entry>
 </superEntry>

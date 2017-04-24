@@ -7,21 +7,22 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-металлическая защитная обивка, оковка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлическая защитная обивка, оковка</text></cit>
 </sense>
 <sense>
-оправа
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>оправа</text></cit>
 </sense>
 <sense>
-подкова
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>подкова</text></cit>
 </sense>
 <sense>
-конфискация, реквизиция
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>конфискация, реквизиция</text></cit>
 <сit type="example"><text>legge beslag på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>конфисковать, реквизировать</text></cit></cit>
 <сit type="example"><text>legge beslag på ens tid</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>отнять у кого-л. время</text></cit></cit>
 </sense>
 <sense>
-<u>воен.</u> принадлежности (к винтовке)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежности (к винтовке)</text></cit>
 </sense>
 </entry>
 </superEntry>

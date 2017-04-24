@@ -7,22 +7,23 @@
 <inflection><orth extent="part">-t, -r</orth></inflection>
 </form>
 <sense>
-власть, управление, руководство, органы управления
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>власть, управление, руководство, органы управления</text></cit>
 <сit type="example"><text>styre og stell</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>управление</text></cit></cit>
 <сit type="example"><text>stå for styret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>стоять у кормила власти</text></cit></cit>
 <сit type="example"><text>ta styret</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>взять в свой руки бразды правления</text></cit></cit>
 </sense>
 <sense>
-комитет, правление, президиум (общества, банка и т. п.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>комитет, правление, президиум (общества, банка и т. п.)</text></cit>
 </sense>
 <sense>
-владение собой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владение собой</text></cit>
 </sense>
 <sense>
-рычаг управления
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рычаг управления</text></cit>
 </sense>
 <sense>
-<u>мор.</u> румпель
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>румпель</text></cit>
 </sense>
 </entry>
 <entry>
@@ -32,21 +33,23 @@
 <inflection><orth extent="part">-te, -t</orth></inflection>
 </form>
 <sense>
-управлять, править, руководить, стоять во главе (чего-л.)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управлять, править, руководить, стоять во главе (чего-л.)</text></cit>
 </sense>
 <sense>
-вести (автомашину), пилотировать (самолёт), направлять
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вести (автомашину), пилотировать (самолёт), направлять</text></cit>
 </sense>
 <sense>
-владеть (своими чувствами)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>владеть (своими чувствами)</text></cit>
 <сit type="example"><text>styre seg</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>владеть собой</text></cit></cit>
 </sense>
 <sense>
-<u>мор.</u> держать курс (на что-л. - for), двигаться в направлении (чего-л. - mot)
+<usg>мор.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>держать курс (на что-л. - for), двигаться в направлении (чего-л. - mot)</text></cit>
 <сit type="example"><text>styre godt</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>хорошо слушаться руля</text></cit></cit>
 </sense>
 <sense>
-<u>грам.</u> управлять
+<usg>грам.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>управлять</text></cit>
 <сit type="example"><text>styre av</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>выводить (судно)</text></cit></cit>
 <сit type="example"><text>styre inn</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>вводить (судно в порт, гавань, фиорд)</text></cit></cit>
 <сit type="example"><text>styre med</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>распоряжаться (чем-л.)</text></cit></cit>
@@ -66,7 +69,8 @@
 <form>
 <orth type="lemma">styre</orth>
 <inflection><orth extent="part">-te (-et), -t (-et)</orth></inflection>
-<u>разг.</u> шуметь, возиться, хлопотать
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шуметь, возиться, хлопотать</text></cit>
 </sense>
 </entry>
 </superEntry>

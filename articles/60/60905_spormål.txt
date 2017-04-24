@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">spormål</orth>
 <inflection><orth extent="part">-et</orth></inflection>
-<u>ж.-д.</u>
+<usg>ж.-д.</usg>
 </form>
 <sense>
-ширина колей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина колей</text></cit>
 </sense>
 <sense>
-прибор для измерения ширины колей
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прибор для измерения ширины колей</text></cit>
 </sense>
 </entry>
 </superEntry>

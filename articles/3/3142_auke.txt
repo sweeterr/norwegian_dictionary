@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">auke</orth>
 <inflection><orth extent="part">-n</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-увеличение, расширение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>увеличение, расширение</text></cit>
 </sense>
 <sense>
-прирост
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прирост</text></cit>
 </sense>
 </entry>
 <entry>
@@ -19,7 +19,8 @@
 <form>
 <orth type="lemma">auke</orth>
 <inflection><orth extent="part">-te, -t</orth></inflection>
-<u>диал.</u> см. øke
+<usg>диал.</usg>
+<ref>øke</ref>
 </sense>
 </entry>
 </superEntry>

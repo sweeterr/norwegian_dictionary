@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">manuskript</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-рукопись, манускрипт, оригинал
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>рукопись, манускрипт, оригинал</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,13 @@
 <form>
 <orth type="lemma">urtehage</orth>
 <inflection><orth extent="part">-n, -r</orth></inflection>
-<u>уст.</u>
+<usg>уст.</usg>
 </form>
 <sense>
-огород
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>огород</text></cit>
 </sense>
 <sense>
-плантация лекарственных растений
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>плантация лекарственных растений</text></cit>
 </sense>
 </entry>
 </superEntry>

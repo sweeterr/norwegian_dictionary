@@ -5,9 +5,9 @@
 <form>
 <orth type="lemma">slumre</orth>
 <inflection><orth extent="part">-et, -et</orth></inflection>
-дремать, почивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>дремать, почивать</text></cit>
 <сit type = "example"><text>slumre inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> задремать, заснуть</text></cit></cit>
-<сit type = "example"><text>slumre inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <u>поэт.</u> уснуть вечным сном, почить навеки</text></cit></cit>
+<сit type = "example"><text>slumre inn :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> <lbl>поэт.</lbl> уснуть вечным сном, почить навеки</text></cit></cit>
 </sense>
 </entry>
 </superEntry>

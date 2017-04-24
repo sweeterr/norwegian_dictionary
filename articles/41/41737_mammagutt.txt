@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">mammagutt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>разг.</u> маменькин сынок, баловень
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>маменькин сынок, баловень</text></cit>
 </sense>
 </entry>
 </superEntry>

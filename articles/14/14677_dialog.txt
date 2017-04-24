@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dialog</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-разговор, диалог
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>разговор, диалог</text></cit>
 </sense>
 </entry>
 </superEntry>

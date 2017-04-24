@@ -7,7 +7,7 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-кость
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кость</text></cit>
 <сit type="example"><text>få et ben i halsen</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>подавиться костью</text></cit></cit>
 <сit type="example"><text>et fett ben</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>перен.</lbl> <lbl>разг.</lbl> жирный кусок</text></cit></cit>
 <сit type="example"><text>av ben</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>из кости (как материала)</text></cit></cit>
@@ -18,7 +18,7 @@
 <сit type="example"><text>være mange om benet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грызться из-за кости (<lbl>тж. перен.</lbl>)</em></text></cit></cit>
 </sense>
 <sense>
-нога (от бедра до ступни)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>нога (от бедра до ступни)</text></cit>
 <сit type="example"><text>brekke benet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>сломать ногу</text></cit></cit>
 <сit type="example"><text>bringe (stille) på benene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>собирать (войско), кликнуть клич</text></cit></cit>
 <сit type="example"><text>dra litt på det ene benet</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>слегка волочить одну ногу (как результат пареза, паралича)</text></cit></cit>
@@ -39,10 +39,11 @@
 <сit type="example"><text>være på benene</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>быть на ногах, встать, находиться в движении</text></cit></cit>
 </sense>
 <sense>
-ножка (стола, стула и других предметов мебели)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ножка (стола, стула и других предметов мебели)</text></cit>
 </sense>
 <sense>
-<u>перен.</u> трудность
+<usg>перен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>трудность</text></cit>
 <сit type="example"><text>det er det ingen ben i</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text><lbl>разг.</lbl> это проще простого</text></cit></cit>
 <сit type="example"><text>et slemt ben</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>твёрдый орешек</text></cit></cit>
 </sense>
@@ -52,9 +53,8 @@
 <form>
 <orth type="lemma">ben</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-прямой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прямой</text></cit>
 </sense>
 </entry>
 </superEntry>

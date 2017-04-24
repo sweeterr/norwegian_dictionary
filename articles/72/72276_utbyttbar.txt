@@ -5,9 +5,8 @@
 <form>
 <orth type="lemma">utbyttbar</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-взаимозаменяемый, заменяемый, сменный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>взаимозаменяемый, заменяемый, сменный</text></cit>
 </sense>
 </entry>
 </superEntry>

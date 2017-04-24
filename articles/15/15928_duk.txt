@@ -7,20 +7,22 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-скатерть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>скатерть</text></cit>
 </sense>
 <sense>
-холст, холстина, парусина
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холст, холстина, парусина</text></cit>
 <сit type="example"><text>svær duk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>грубая парусина</text></cit></cit>
 </sense>
 <sense>
-<u>поэт.</u> знамя, флаг
+<usg>поэт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>знамя, флаг</text></cit>
 </sense>
 <sense>
-ширина ткани, парусина (как единица измерения)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ширина ткани, парусина (как единица измерения)</text></cit>
 </sense>
 <sense>
-<u>тех.</u> металлическая сетка
+<usg>тех.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>металлическая сетка</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">dansk</orth>
 <inflection><orth extent="part">-en</orth></inflection>
-датский язык
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>датский язык</text></cit>
 <сit type="example"><text>snakke dansk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>говорить по-датски</text></cit></cit>
 <сit type="example"><text>oversette fra dansk</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>переводить с датского языка</text></cit></cit>
 </sense>
@@ -15,7 +15,7 @@
 <form>
 <orth type="lemma">dansk</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- датский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>датский</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">toneverk</orth>
 <inflection><orth extent="part">-et, -er</orth></inflection>
-музыкальное произведение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>музыкальное произведение</text></cit>
 </sense>
 </entry>
 </superEntry>

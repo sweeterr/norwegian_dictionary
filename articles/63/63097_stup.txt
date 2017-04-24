@@ -7,13 +7,15 @@
 <inflection><orth extent="part">-et, =</orth></inflection>
 </form>
 <sense>
-обрыв, пропасть
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>обрыв, пропасть</text></cit>
 </sense>
 <sense>
-<u>ав.</u> пикирование
+<usg>ав.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пикирование</text></cit>
 </sense>
 <sense>
-<u>спорт.</u> прыжок в воду
+<usg>спорт.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>прыжок в воду</text></cit>
 </sense>
 </entry>
 <entry>
@@ -21,7 +23,7 @@
 <form>
 <orth type="lemma">stup</orth>
 <gramGrp><pos>adv</pos></gramGrp>
-вверх тормашками, вниз головой
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>вверх тормашками, вниз головой</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">strålebunt</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>физ.</u> пучок лучей
+<usg>физ.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>пучок лучей</text></cit>
 </sense>
 </entry>
 </superEntry>

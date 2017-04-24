@@ -7,17 +7,19 @@
 <inflection><orth extent="part">-et, -et</orth></inflection>
 </form>
 <sense>
-двигать, передвигать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>двигать, передвигать</text></cit>
 <сit type="example"><text>komme baksende</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>продвигаться с трудом, проталкиваться</text></cit></cit>
 </sense>
 <sense>
-втаскивать
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>втаскивать</text></cit>
 </sense>
 <sense>
-<u>воен.</u> наводить (орудие)
+<usg>воен.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>наводить (орудие)</text></cit>
 </sense>
 <sense>
-<u>ирон.</u> справляться (с кем-л. - en)
+<usg>ирон.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>справляться (с кем-л. - en)</text></cit>
 <сit type = "example"><text>bakse med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> возиться (с чем-л.)</text></cit></cit>
 <сit type = "example"><text>bakse med :</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text> бороться (с кем-л.)</text></cit></cit>
 <сit type="example"><text>bakse på</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>заковылять</text></cit></cit>

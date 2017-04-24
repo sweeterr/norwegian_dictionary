@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">åsete</orth>
 <inflection><orth extent="part">-t, -r</orth></inflection>
-поместье, имение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>поместье, имение</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +13,7 @@
 <form>
 <orth type="lemma">åsete</orth>
 <gramGrp><pos>adj</pos></gramGrp>
-холмистый (о местности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>холмистый (о местности)</text></cit>
 </sense>
 </entry>
 </superEntry>

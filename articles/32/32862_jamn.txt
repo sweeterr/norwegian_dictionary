@@ -5,18 +5,17 @@
 <form>
 <orth type="lemma">jamn</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
-<u>диал.</u>
+<usg>диал.</usg>
 </form>
 <sense>
-ровный, гладкий (о поверхности)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ровный, гладкий (о поверхности)</text></cit>
 </sense>
 <sense>
-равный, одинаковый, единообразный
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равный, одинаковый, единообразный</text></cit>
 </sense>
 <sense>
-равномерный (о движении, темпе)
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>равномерный (о движении, темпе)</text></cit>
 </sense>
 </entry>
 </superEntry>

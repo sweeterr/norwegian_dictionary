@@ -5,16 +5,17 @@
 <form>
 <orth type="lemma">ekstraksjon</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>тех.</u>
+<usg>тех.</usg>
 </form>
 <sense>
-извлечение, выборка
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>извлечение, выборка</text></cit>
 </sense>
 <sense>
-<u>мед.</u> удаление, экстракция
+<usg>мед.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>удаление, экстракция</text></cit>
 </sense>
 <sense>
-социальное происхождение
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>социальное происхождение</text></cit>
 <сit type="example"><text>være av høy (lav) ekstraksjon</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>происходить из знатного (простого) рода</text></cit></cit>
 </sense>
 </entry>

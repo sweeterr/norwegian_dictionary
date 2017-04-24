@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">fredspris</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-премия мира
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>премия мира</text></cit>
 <сit type="example"><text>Nobels fredspris</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>Нобелевская премия мира</text></cit></cit>
 </sense>
 </entry>

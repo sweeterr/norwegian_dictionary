@@ -5,17 +5,16 @@
 <form>
 <orth type="lemma">fjærløs</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-неоперившийся
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>неоперившийся</text></cit>
 </sense>
 <sense>
-не имеющий рессор
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий рессор</text></cit>
 </sense>
 <sense>
-не имеющий пружин
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>не имеющий пружин</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -5,13 +5,14 @@
 <form>
 <orth type="lemma">akterstavn</orth>
 <inflection><orth extent="part">-en, -er</orth></inflection>
-<u>мор.</u>
+<usg>мор.</usg>
 </form>
 <sense>
-ахтерштевень
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ахтерштевень</text></cit>
 </sense>
 <sense>
-<u>уст.</u> корма
+<usg>уст.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>корма</text></cit>
 </sense>
 </entry>
 </superEntry>

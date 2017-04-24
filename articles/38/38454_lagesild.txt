@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">lagesild</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>зоол.</u> ряпушка
+<usg>зоол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>ряпушка</text></cit>
 </sense>
 </entry>
 </superEntry>

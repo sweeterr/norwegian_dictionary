@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">kreppe</orth>
 <inflection><orth extent="part">-a (-en), -er</orth></inflection>
-<u>диал.</u> узкий пролив, проток
+<usg>диал.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>узкий пролив, проток</text></cit>
 </sense>
 </entry>
 <entry>
@@ -13,7 +14,7 @@
 <form>
 <orth type="lemma">kreppe</orth>
 <inflection><orth extent="part">-pet (-te), -pet (-t)</orth></inflection>
-завивать волосы
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>завивать волосы</text></cit>
 </sense>
 </entry>
 </superEntry>

@@ -7,13 +7,13 @@
 <gramGrp><pos>adv</pos></gramGrp>
 </form>
 <sense>
-на (э)тот случай
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>на (э)тот случай</text></cit>
 </sense>
 <sense>
-в добавление (к чему-л), сверх того, к тому же
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>в добавление (к чему-л), сверх того, к тому же</text></cit>
 </sense>
 <sense>
-кроме того
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>кроме того</text></cit>
 <сit type="example"><text>det ber komme dertil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к этому следует добавить</text></cit></cit>
 <сit type="example"><text>det kommer dertil</text><cit type ="ex_translation"><language><idno type="iso639-3">rus</idno></language><text>к этому ещё надо добавить</text></cit></cit>
 </sense>

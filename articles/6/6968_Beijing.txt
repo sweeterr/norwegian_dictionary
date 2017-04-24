@@ -4,7 +4,8 @@
 <index></index>
 <form>
 <orth type="lemma">Beijing</orth>
-<u>геогр.</u> г. Пекин
+<usg>геогр.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>г. Пекин</text></cit>
 </sense>
 </entry>
 </superEntry>

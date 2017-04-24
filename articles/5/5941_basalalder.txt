@@ -5,7 +5,8 @@
 <form>
 <orth type="lemma">basalalder</orth>
 <inflection><orth extent="part">-eren, -rer</orth></inflection>
-<u>психол.</u> базальный возраст
+<usg>психол.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>базальный возраст</text></cit>
 </sense>
 </entry>
 </superEntry>

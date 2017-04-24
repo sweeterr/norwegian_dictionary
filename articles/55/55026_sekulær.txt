@@ -5,17 +5,18 @@
 <form>
 <orth type="lemma">sekulær</orth>
 <gramGrp><pos>adj</pos></gramGrp>
- 
 <inflection><orth extent="part">-t</orth></inflection>
 </form>
 <sense>
-мирской, светский
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>мирской, светский</text></cit>
 </sense>
 <sense>
-<u>церк.</u> принадлежащий к белому духовенству
+<usg>церк.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>принадлежащий к белому духовенству</text></cit>
 </sense>
 <sense>
-<u>редко</u> происходящий раз в столетие
+<usg>редко</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>происходящий раз в столетие</text></cit>
 </sense>
 </entry>
 </superEntry>

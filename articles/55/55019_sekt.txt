@@ -5,7 +5,7 @@
 <form>
 <orth type="lemma">sekt</orth>
 <inflection><orth extent="part">-en (-a), -er</orth></inflection>
-секта
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>секта</text></cit>
 </sense>
 </entry>
 <entry>
@@ -15,10 +15,11 @@
 <inflection><orth extent="part">-en, -er</orth></inflection>
 </form>
 <sense>
-сухое вино
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>сухое вино</text></cit>
 </sense>
 <sense>
-<u>разг.</u> шампанское
+<usg>разг.</usg>
+<cit type="translation"><language><idno type="iso639-3">rus</idno></language><text>шампанское</text></cit>
 </sense>
 </entry>
 </superEntry>
