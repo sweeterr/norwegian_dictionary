@@ -1,0 +1,87 @@
+<xml>
+  <fileDesc>
+    <respStmt>
+      <name>Svetlana Pavlova</name>
+    </respStmt>
+    <extent>79129</extent>
+    <sourceDesc>
+      <ref target="http://norwegian_russian.academic.ru/">Норвежско-русский словарь</ref>
+      <p>This database was converted from the Norwegian-Russian dictionary downloaded from dic.academic.ru by Svetlana Pavlova.</p>
+    </sourceDesc>
+  </fileDesc>
+  <front>
+    <head>
+      <title dict_id="">"Норвежско-русский словарь"</title>
+      <volume n="1" of="1"/>
+      <author/>
+      <publisher/>
+      <editor/>
+      <edition/>
+      <translator/>
+      <pubdate>2013</pubdate>
+      <isbn/>
+      <iso/>
+      <language type="source">
+        <idno type="iso639-3">nor</idno>
+      </language>
+      <language type="target">
+        <idno type="iso639-3">rus</idno>
+      </language>
+      <language type="content">
+        <idno type="iso639-3">rus</idno>
+      </language>
+    </head>
+  </front>
+  <body>
+  	<superEntry>
+		<entry>
+			<form>
+				<orth type="lemma" extent=""></orth>
+				<usg type="plev"></usg>
+				<usg type="geo"></usg>
+				<usg type="time"></usg>
+				<usg type="dom"></usg>
+				<usg type="reg"></usg>
+				<usg type="style"></usg>
+				<gramGrp>
+					<pos></pos>
+					<gender></gender>
+					<num></num>
+				</gramGrp>
+				<inflection>
+					<num></num>
+					<tns></tns>
+					<gender> </gender>
+					<orth extent="part"></orth>
+					<orth></orth>
+					<phon extent=""></phon>
+				</inflection>
+			</form>
+			<sense n="">
+				<gramGrp>
+					<pos></pos>
+					<gender></gender>
+					<num></num>
+				</gramGrp>
+				<usg type=""></usg>
+				<def>
+					<text></text>
+					<ref type ="xr/external" code=""></ref>
+				</def>
+				<cit type="translation">
+					<form></form>
+					<text></text>
+					<language type="example/etym" iso="">
+					<text></text>
+					<gramGrp></gramGrp>
+				</cit>
+			</sense>
+			<re></re>
+			<xr type="synonym">
+				<lbl></lbl>
+				<ref></ref>
+			</xr>
+		</entry>
+	</superEntry>
+  </body>
+</xml>
